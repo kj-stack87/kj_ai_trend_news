@@ -1,0 +1,84 @@
+{
+  "portals": [
+    {
+      "name": "AI Times",
+      "category": "Domestic",
+      "cadence": "국내 AI 뉴스 / 해설",
+      "description": "한국어로 AI 이슈를 읽기 쉬워서, 처음 AI 뉴스를 따라가는 사람에게 가장 부담이 적은 채널입니다.",
+      "url": "https://www.aitimes.kr",
+      "reason": "국내 흐름을 쉽게 이해하기 좋음"
+    },
+    {
+      "name": "ZDNet Korea",
+      "category": "Domestic",
+      "cadence": "IT / AI 산업 뉴스",
+      "description": "기술 산업 뉴스 중심이라 AI 기업, 제품, 행사 흐름을 빠르게 파악하기 좋습니다.",
+      "url": "https://zdnet.co.kr",
+      "reason": "산업 관점의 AI 뉴스를 보기 좋음"
+    },
+    {
+      "name": "전자신문",
+      "category": "Domestic",
+      "cadence": "기업 / 기술 / 산업 뉴스",
+      "description": "국내 기업과 산업 현장에서 AI가 어떻게 움직이는지 보기 좋은 대표 테크 미디어입니다.",
+      "url": "https://www.etnews.com",
+      "reason": "국내 기업 동향 파악에 유리"
+    },
+    {
+      "name": "The Korea Times",
+      "category": "Domestic",
+      "cadence": "영문 한국 뉴스 / 테크",
+      "description": "한국의 AI 이슈를 영어 시각으로도 읽어볼 수 있어 해외 감각까지 함께 익히기 좋습니다.",
+      "url": "https://www.koreatimes.co.kr",
+      "reason": "국내 이슈를 글로벌 톤으로 보기 좋음"
+    },
+    {
+      "name": "MIT Technology Review (AI)",
+      "category": "Global",
+      "cadence": "심층 해설 / AI 분석",
+      "description": "단순 속보보다 왜 중요한지까지 설명해줘서, 초심자가 큰 흐름을 이해하기 좋습니다.",
+      "url": "https://www.technologyreview.com/topic/artificial-intelligence/",
+      "reason": "맥락 이해에 강함"
+    },
+    {
+      "name": "VentureBeat AI",
+      "category": "Global",
+      "cadence": "비즈니스 / 엔터프라이즈 AI",
+      "description": "기업이 AI를 어떻게 실제 도입하는지 비즈니스 시점에서 보기 좋은 미디어입니다.",
+      "url": "https://venturebeat.com/ai/",
+      "reason": "실무형 AI 뉴스 파악에 유리"
+    },
+    {
+      "name": "AI News",
+      "category": "Global",
+      "cadence": "글로벌 AI 뉴스 / 해설",
+      "description": "AI 산업과 기업 움직임을 기사와 해설 형태로 가볍게 따라가기 좋은 해외 뉴스 사이트입니다.",
+      "url": "https://www.artificialintelligence-news.com/",
+      "reason": "해외 AI 뉴스 흐름을 폭넓게 보기 좋음"
+    },
+    {
+      "name": "WIRED AI",
+      "category": "Global",
+      "cadence": "AI 문화 / 산업 / 심층 기사",
+      "description": "AI를 기술만이 아니라 문화, 미디어, 비즈니스까지 넓게 다루는 매체라 시야를 넓히기 좋습니다.",
+      "url": "https://www.wired.com/tag/artificial-intelligence/",
+      "reason": "AI의 사회적 영향까지 함께 보기 좋음"
+    },
+    {
+      "name": "Reuters AI",
+      "category": "Global",
+      "cadence": "국제 속보 / 산업 뉴스",
+      "description": "빠르고 간결한 국제 뉴스 톤으로 AI 관련 핵심 속보를 확인하기 좋은 통신사 채널입니다.",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "reason": "짧고 명확한 국제 AI 뉴스 확인에 유리"
+    },
+    {
+      "name": "TechCrunch AI",
+      "category": "Global",
+      "cadence": "스타트업 / 투자 / 제품 뉴스",
+      "description": "AI 스타트업, 투자, 서비스 출시 흐름을 가장 빠르게 보기 좋은 테크 미디어입니다.",
+      "url": "https://techcrunch.com/category/artificial-intelligence/",
+      "reason": "스타트업과 시장 흐름 파악에 좋음"
+    }
+  ]
+}

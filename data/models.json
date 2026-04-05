@@ -1,0 +1,24 @@
+{
+  "modelBenchmarks": [
+    { "model": "Gemini 3 Pro", "provider": "Google", "country": "미국", "launch": "2025", "rank": 1, "chartValue": 100 },
+    { "model": "Grok 4.1 Thinking", "provider": "xAI", "country": "미국", "launch": "2025", "rank": 2, "chartValue": 96 },
+    { "model": "Gemini 3 Flash", "provider": "Google", "country": "미국", "launch": "2025", "rank": 3, "chartValue": 94 },
+    { "model": "Claude Opus 4.5 Thinking", "provider": "Anthropic", "country": "미국", "launch": "2025", "rank": 4, "chartValue": 92 },
+    { "model": "Claude Opus 4.5", "provider": "Anthropic", "country": "미국", "launch": "2025", "rank": 5, "chartValue": 90 },
+    { "model": "Grok 4.1", "provider": "xAI", "country": "미국", "launch": "2025", "rank": 6, "chartValue": 88 },
+    { "model": "Gemini 3 Flash Minimal", "provider": "Google", "country": "미국", "launch": "2025", "rank": 7, "chartValue": 86 },
+    { "model": "GPT-5.4", "provider": "OpenAI", "country": "미국", "launch": "2026", "rank": 8, "chartValue": 84 },
+    { "model": "GPT-5.1 High", "provider": "OpenAI", "country": "미국", "launch": "2025", "rank": 9, "chartValue": 82 },
+    { "model": "Claude Sonnet 4.5 Thinking", "provider": "Anthropic", "country": "미국", "launch": "2025", "rank": 10, "chartValue": 80 },
+    { "model": "Claude Opus 4.1 Thinking", "provider": "Anthropic", "country": "미국", "launch": "2025", "rank": 11, "chartValue": 78 },
+    { "model": "Claude Sonnet 4.5", "provider": "Anthropic", "country": "미국", "launch": "2025", "rank": 12, "chartValue": 76 },
+    { "model": "ERNIE 5.0 Preview", "provider": "Baidu", "country": "중국", "launch": "2025", "rank": 13, "chartValue": 74 },
+    { "model": "GLM-4.7", "provider": "Zhipu AI", "country": "중국", "launch": "2025", "rank": 16, "chartValue": 72 },
+    { "model": "GPT-5 High", "provider": "OpenAI", "country": "미국", "launch": "2025", "rank": 18, "chartValue": 68 },
+    { "model": "GPT-5.1", "provider": "OpenAI", "country": "미국", "launch": "2025", "rank": 19, "chartValue": 66 },
+    { "model": "GPT-5.2 High", "provider": "OpenAI", "country": "미국", "launch": "2025", "rank": 20, "chartValue": 64 },
+    { "model": "Qwen3 Max Preview", "provider": "Alibaba", "country": "중국", "launch": "2025", "rank": 21, "chartValue": 60 },
+    { "model": "Kimi K2 Thinking Turbo", "provider": "Moonshot AI", "country": "중국", "launch": "2025", "rank": 24, "chartValue": 56 },
+    { "model": "GPT-5.2", "provider": "OpenAI", "country": "미국", "launch": "2025", "rank": 26, "chartValue": 52 }
+  ]
+}
