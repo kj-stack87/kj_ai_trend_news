@@ -303,44 +303,168 @@ const todaySourceCount = document.getElementById("today-source-count");
 const todayDate = document.getElementById("today-date");
 const topCategoryList = document.getElementById("top-category-list");
 const sourceList = document.getElementById("source-list");
-const benchmarkGrid = document.getElementById("benchmark-grid");
+const benchmarkChartList = document.getElementById("benchmark-chart-list");
 
 const modelBenchmarks = [
   {
     model: "Gemini 3 Pro",
-    badge: "#모델성능",
-    headline: "LM Arena 전체 순위 1위",
-    metrics: ["Overall Rank: #1", "Math Rank: #2", "Creative Rank: #1"],
-    source: "LM Arena Leaderboard",
-    updatedAt: "2026-04-05",
-    url: "https://llmarena.ai/leaderboard",
+    provider: "Google",
+    country: "미국",
+    launch: "2025",
+    rank: 1,
+    chartValue: 100,
   },
   {
-    model: "Claude Opus 4.6",
-    badge: "#추론",
-    headline: "Anthropic 기준 MRCR v2 1M 컨텍스트 76.1%",
-    metrics: ["MRCR v2: 76.1%", "Context Window: 1M", "Coding/Agentic focus"],
-    source: "Anthropic official benchmark post",
-    updatedAt: "2026-02-11",
-    url: "https://www.anthropic.com/news/claude-opus-4-6",
+    model: "Grok 4.1 Thinking",
+    provider: "xAI",
+    country: "미국",
+    launch: "2025",
+    rank: 2,
+    chartValue: 96,
   },
   {
-    model: "GPT-4.1",
-    badge: "#코딩",
-    headline: "OpenAI 기준 SWE-bench Verified 54.6%",
-    metrics: ["SWE-bench Verified: 54.6%", "MultiChallenge: 38.3%", "Context Window: 1M"],
-    source: "OpenAI official model announcement",
-    updatedAt: "2025-04-14",
-    url: "https://openai.com/index/introducing-gpt-4-1/",
+    model: "Gemini 3 Flash",
+    provider: "Google",
+    country: "미국",
+    launch: "2025",
+    rank: 3,
+    chartValue: 94,
+  },
+  {
+    model: "Claude Opus 4.5 Thinking",
+    provider: "Anthropic",
+    country: "미국",
+    launch: "2025",
+    rank: 4,
+    chartValue: 92,
+  },
+  {
+    model: "Claude Opus 4.5",
+    provider: "Anthropic",
+    country: "미국",
+    launch: "2025",
+    rank: 5,
+    chartValue: 90,
+  },
+  {
+    model: "Grok 4.1",
+    provider: "xAI",
+    country: "미국",
+    launch: "2025",
+    rank: 6,
+    chartValue: 88,
+  },
+  {
+    model: "Gemini 3 Flash Minimal",
+    provider: "Google",
+    country: "미국",
+    launch: "2025",
+    rank: 7,
+    chartValue: 86,
+  },
+  {
+    model: "GPT-5.4",
+    provider: "OpenAI",
+    country: "미국",
+    launch: "2026",
+    rank: 8,
+    chartValue: 84,
   },
   {
     model: "GPT-5.1 High",
-    badge: "#대화평가",
-    headline: "LM Arena 전체 순위 상위권",
-    metrics: ["Overall Rank: #8", "Expert Rank: #7", "Math Rank: #5"],
-    source: "LM Arena Leaderboard",
-    updatedAt: "2026-04-05",
-    url: "https://llmarena.ai/leaderboard",
+    provider: "OpenAI",
+    country: "미국",
+    launch: "2025",
+    rank: 9,
+    chartValue: 82,
+  },
+  {
+    model: "Claude Sonnet 4.5 Thinking",
+    provider: "Anthropic",
+    country: "미국",
+    launch: "2025",
+    rank: 10,
+    chartValue: 80,
+  },
+  {
+    model: "Claude Opus 4.1 Thinking",
+    provider: "Anthropic",
+    country: "미국",
+    launch: "2025",
+    rank: 11,
+    chartValue: 78,
+  },
+  {
+    model: "Claude Sonnet 4.5",
+    provider: "Anthropic",
+    country: "미국",
+    launch: "2025",
+    rank: 12,
+    chartValue: 76,
+  },
+  {
+    model: "ERNIE 5.0 Preview",
+    provider: "Baidu",
+    country: "중국",
+    launch: "2025",
+    rank: 13,
+    chartValue: 74,
+  },
+  {
+    model: "GLM-4.7",
+    provider: "Zhipu AI",
+    country: "중국",
+    launch: "2025",
+    rank: 16,
+    chartValue: 72,
+  },
+  {
+    model: "GPT-5 High",
+    provider: "OpenAI",
+    country: "미국",
+    launch: "2025",
+    rank: 18,
+    chartValue: 68,
+  },
+  {
+    model: "GPT-5.1",
+    provider: "OpenAI",
+    country: "미국",
+    launch: "2025",
+    rank: 19,
+    chartValue: 66,
+  },
+  {
+    model: "GPT-5.2 High",
+    provider: "OpenAI",
+    country: "미국",
+    launch: "2025",
+    rank: 20,
+    chartValue: 64,
+  },
+  {
+    model: "Qwen3 Max Preview",
+    provider: "Alibaba",
+    country: "중국",
+    launch: "2025",
+    rank: 21,
+    chartValue: 60,
+  },
+  {
+    model: "Kimi K2 Thinking Turbo",
+    provider: "Moonshot AI",
+    country: "중국",
+    launch: "2025",
+    rank: 24,
+    chartValue: 56,
+  },
+  {
+    model: "GPT-5.2",
+    provider: "OpenAI",
+    country: "미국",
+    launch: "2025",
+    rank: 26,
+    chartValue: 52,
   },
 ];
 
@@ -470,30 +594,30 @@ function renderSources() {
 }
 
 function renderBenchmarks() {
-  benchmarkGrid.innerHTML = "";
+  benchmarkChartList.innerHTML = "";
 
-  modelBenchmarks.forEach((item) => {
-    const article = document.createElement("a");
-    article.className = "benchmark-card";
-    article.href = item.url;
-    article.target = "_blank";
-    article.rel = "noreferrer";
-    article.innerHTML = `
-      <div class="benchmark-top">
-        <span class="hashtag-pill">${item.badge}</span>
-        <span class="view-pill">${item.updatedAt}</span>
+  [...modelBenchmarks]
+    .sort((a, b) => b.chartValue - a.chartValue)
+    .forEach((item) => {
+    const chart = document.createElement("article");
+    chart.className = "benchmark-chart-card";
+    chart.innerHTML = `
+      <div class="benchmark-bar-wrap">
+        <div class="benchmark-bar-track vertical">
+          <div class="benchmark-bar-fill vertical" style="height: ${Math.min(item.chartValue, 100)}%"></div>
+        </div>
       </div>
-      <div>
+      <div class="benchmark-chart-meta">
+        <strong>${item.chartValue}</strong>
+        <span class="hashtag-pill">#${item.country}</span>
+      </div>
+      <div class="benchmark-chart-labels">
         <h3>${item.model}</h3>
-        <p class="benchmark-headline">${item.headline}</p>
+        <p class="portal-meta">${item.provider} · ${item.launch} 출시 · Overall rank #${item.rank}</p>
       </div>
-      <div class="benchmark-metrics">
-        ${item.metrics.map((metric) => `<span class="metric-pill">${metric}</span>`).join("")}
-      </div>
-      <p class="portal-meta">${item.source}</p>
     `;
-    benchmarkGrid.appendChild(article);
-  });
+    benchmarkChartList.appendChild(chart);
+    });
 }
 
 function renderTodayCard() {

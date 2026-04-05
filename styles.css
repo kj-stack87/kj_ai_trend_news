@@ -284,10 +284,90 @@ body::before {
   gap: 18px;
 }
 
-.benchmark-grid {
+.benchmark-chart-list {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 16px;
+  grid-template-columns: repeat(10, minmax(0, 1fr));
+  gap: 8px;
+  margin-top: 16px;
+}
+
+.benchmark-chart-card {
+  display: grid;
+  grid-template-rows: 160px 36px 1fr;
+  gap: 14px;
+  padding: 12px 8px 10px;
+  border-radius: 18px;
+  border: 1px solid var(--line);
+  background:
+    radial-gradient(circle at top right, rgba(255, 122, 89, 0.1), transparent 28%),
+    linear-gradient(180deg, rgba(24, 29, 41, 0.92), rgba(15, 18, 27, 0.96));
+  box-shadow: var(--shadow);
+  min-height: 276px;
+}
+
+.benchmark-bar-wrap {
+  display: flex;
+  align-items: end;
+  justify-content: center;
+  height: 160px;
+  margin-bottom: 0;
+}
+
+.benchmark-bar-track {
+  overflow: hidden;
+  width: 100%;
+  height: 12px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.07);
+}
+
+.benchmark-bar-fill {
+  height: 100%;
+  border-radius: 999px;
+  background: linear-gradient(90deg, var(--accent-soft), var(--accent));
+}
+
+.benchmark-bar-track.vertical {
+  display: flex;
+  align-items: end;
+  justify-content: center;
+  width: 26px;
+  height: 150px;
+  border-radius: 16px;
+  background: rgba(255, 255, 255, 0.06);
+}
+
+.benchmark-bar-fill.vertical {
+  width: 100%;
+  border-radius: 16px;
+  background: linear-gradient(180deg, var(--accent-soft), var(--accent));
+}
+
+.benchmark-chart-meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  margin-top: 4px;
+}
+
+.benchmark-chart-meta strong {
+  font-family: "Space Grotesk", sans-serif;
+  font-size: 0.96rem;
+  color: var(--accent-soft);
+}
+
+.benchmark-chart-labels h3 {
+  margin: 0;
+  font-size: 0.7rem;
+  line-height: 1.25;
+  letter-spacing: -0.02em;
+}
+
+.benchmark-chart-labels .portal-meta {
+  margin-top: 6px;
+  font-size: 0.68rem;
+  line-height: 1.35;
 }
 
 .benchmark-card {
@@ -658,10 +738,13 @@ body::before {
   .today-card,
   .portal-grid,
   .routine-grid,
-  .benchmark-grid,
   .site-footer,
   .source-list {
     grid-template-columns: 1fr;
+  }
+
+  .benchmark-chart-list {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
   }
 
   .today-side {
@@ -706,8 +789,13 @@ body::before {
     padding: 10px 6px 0;
   }
 
+  .benchmark-chart-list {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
   .card-topline,
-  .top-meta-row {
+  .top-meta-row,
+  .benchmark-chart-meta {
     align-items: flex-start;
     flex-direction: column;
   }
