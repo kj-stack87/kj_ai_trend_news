@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-14T06:21:17.102Z",
+  "lastUpdated": "2026-04-15T06:23:19.162Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,27 +49,27 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
-          "title": "AI joins the 8-hour work day as GLM ships 5.1 open source LLM, beating Opus 4.6 and GPT-5.4 on SWE-Bench Pro - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNNHU2VEc1WVp1dk54MTFlZGdhcFZ3SGdOQnlxakRIVG9XcF80QWdxd0xKcUdoQ0dKNkdsSzhOS2pOQlhMTWtsVVMwTjRkVXV0MG56YjdENDhMUzg5b3RQM1B1VE1XMnRHRU1MTUhkelBfNFZKVDlMNzh4bXd1d1BRWU5FT0FNU2swMjR1MUFRazhaeHQxcTNLR1dJb3NXN2RKRFBRdV9WQnFreWFkcXNXTA?oc=5\" target=\"_blank\">AI joins the 8-hour work day as GLM ships 5.1 open source LLM, beating Opus 4.6 and GPT-5.4 on SWE-Bench Pro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNHU2VEc1WVp1dk54MTFlZGdhcFZ3SGdOQnlxakRIVG9XcF80QWdxd0xKcUdoQ0dKNkdsSzhOS2pOQlhMTWtsVVMwTjRkVXV0MG56YjdENDhMUzg5b3RQM1B1VE1XMnRHRU1MTUhkelBfNFZKVDlMNzh4bXd1d1BRWU5FT0FNU2swMjR1MUFRazhaeHQxcTNLR1dJb3NXN2RKRFBRdV9WQnFreWFkcXNXTA?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-04-07",
+          "title": "OpenAI unveils GPT-5.4-Cyber a week after rival's announcement of AI model - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNSFBrUjJkQU4zTEFJX0I1eWZiZUdNZ2VRTHdoaFZWVFFzcGpEZG1rSVVlTy1DZjJ4M1Z0bTBmZmYwSnhNNW5BM2NrWHQ5cnFPOTdoWlB1ZWFHZUZELXMyR2RLcWtXX2pqUFNhRUpnZmNHVHNmZllKcjU5MnZGVmxzd3I5SG04VzFnSHR6UnU5WkkyZXpOOGhoZ1VxYzhsMWxCSDAzbEY0aG1FTk9Ca29IVnR0TU4?oc=5\" target=\"_blank\">OpenAI unveils GPT-5.4-Cyber a week after rival's announcement of AI model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSFBrUjJkQU4zTEFJX0I1eWZiZUdNZ2VRTHdoaFZWVFFzcGpEZG1rSVVlTy1DZjJ4M1Z0bTBmZmYwSnhNNW5BM2NrWHQ5cnFPOTdoWlB1ZWFHZUZELXMyR2RLcWtXX2pqUFNhRUpnZmNHVHNmZllKcjU5MnZGVmxzd3I5SG04VzFnSHR6UnU5WkkyZXpOOGhoZ1VxYzhsMWxCSDAzbEY0aG1FTk9Ca29IVnR0TU4?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-04-14",
           "views": "18.0K"
         },
         {
-          "title": "ICT exports more than double in March on chip demand - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPOFhlbm1NOEtKS2hwTXg1Y0x2U3lQczBZQVc1alNYYnB5RUFJbXpSanlZUWljdFQ4RmdyN0NLdy1ZdWpvSnkyZVFoZFBpTEpRRmlOOTlvMnJ0blNHcjBManNTUHZiMXVEYnF2TVhzYm1nUEZpOW50WWZscnVpcWhjdTllNUxLVV9aYmFYYm9rd25nS3UtX21mY08tT0hYU1XSAaQBQVVfeXFMT2VPb2lnR21mYVVYeERBNU1rdlZja3lGZGRIdG15N0VRR0RDM09QUUZObXQ5SWgzQWVldk1iekM5MklWSXJMdzRnMllqU05tcmNnLWlGcV9ob0pVRzNPam1tUFdmbGxOMkZhcTdqZVo0V0tHX1dwUGpVVFhYUnpKVWtpUVVZaERybjRES2tFbGl4dDRQZGRFcFowZkIzSng4S1NINjM?oc=5\" target=\"_blank\">ICT exports more than double in March on chip demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOFhlbm1NOEtKS2hwTXg1Y0x2U3lQczBZQVc1alNYYnB5RUFJbXpSanlZUWljdFQ4RmdyN0NLdy1ZdWpvSnkyZVFoZFBpTEpRRmlOOTlvMnJ0blNHcjBManNTUHZiMXVEYnF2TVhzYm1nUEZpOW50WWZscnVpcWhjdTllNUxLVV9aYmFYYm9rd25nS3UtX21mY08tT0hYU1XSAaQBQVVfeXFMT2VPb2lnR21mYVVYeERBNU1rdlZja3lGZGRIdG15N0VRR0RDM09QUUZObXQ5SWgzQWVldk1iekM5MklWSXJMdzRnMllqU05tcmNnLWlGcV9ob0pVRzNPam1tUFdmbGxOMkZhcTdqZVo0V0tHX1dwUGpVVFhYUnpKVWtpUVVZaERybjRES2tFbGl4dDRQZGRFcFowZkIzSng4S1NINjM?oc=5",
+          "title": "Korean won weak, but dollar liquidity ample to buffer shocks: BOK chief nominee - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdGd6b0FqSVlXVjVSR2ppSWV1TktkZVFOdGlZU2pPOVNkMFJsc3A3LVZkREc2RS1iekxrdm82ZFBYR0JHYlc2eVZvWnNMZi1oNHpraFhxelJLQVVWeGRrSE1BV28zZzNfdnViUlZFQzNheXBncnBLS0JJNUZNeFJ4QWpINEZrX0dCanY4OER0YkQ5ZkNyVy1IV1J6b0RLUld5R0xUSVJlX1J2YWVnR09EcnNfclgwMjhsZ1lyNXNHR0zSAcYBQVVfeXFMTno3YmZydHdqd18tUnJjclZkWXdnMktGX0ZRc0x6M3gyS2lXbE9LNGJBRGNVaXlzSXkzRWVFMm1PaE9UUmJIUklmZVE3bUh4MWNwN2tJeWJJdzN1ZkVQTEhfUlJXekE0bVluQ01fTW8tbjVoUHdXNnB5WE1lX2JPdE9IVDdjcThselJ6cHpYcm90SC1WaDhRWFRKM04yTUZDQTJBZ2dzLUZpc1NRM215ZmlLMmVqT05mdjdzaGpMN2g5TEg2Q3VB?oc=5\" target=\"_blank\">Korean won weak, but dollar liquidity ample to buffer shocks: BOK chief nominee</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdGd6b0FqSVlXVjVSR2ppSWV1TktkZVFOdGlZU2pPOVNkMFJsc3A3LVZkREc2RS1iekxrdm82ZFBYR0JHYlc2eVZvWnNMZi1oNHpraFhxelJLQVVWeGRrSE1BV28zZzNfdnViUlZFQzNheXBncnBLS0JJNUZNeFJ4QWpINEZrX0dCanY4OER0YkQ5ZkNyVy1IV1J6b0RLUld5R0xUSVJlX1J2YWVnR09EcnNfclgwMjhsZ1lyNXNHR0zSAcYBQVVfeXFMTno3YmZydHdqd18tUnJjclZkWXdnMktGX0ZRc0x6M3gyS2lXbE9LNGJBRGNVaXlzSXkzRWVFMm1PaE9UUmJIUklmZVE3bUh4MWNwN2tJeWJJdzN1ZkVQTEhfUlJXekE0bVluQ01fTW8tbjVoUHdXNnB5WE1lX2JPdE9IVDdjcThselJ6cHpYcm90SC1WaDhRWFRKM04yTUZDQTJBZ2dzLUZpc1NRM215ZmlLMmVqT05mdjdzaGpMN2g5TEg2Q3VB?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-04-14",
+          "publishedAt": "2026-04-15",
           "views": "13.0K"
         },
         {
-          "title": "Korean AI chip startup DeepX prepares public share offering - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNNWNDcWx2b2VMTFgwWTRqUUJXeGNGU3JwOHFyamNySXFnQmlscVRaZm42QXZaYmN5WUplb3Y2SmVQcUwxTHhlQmZQN2VPQ3JhYzJ1V0wwMzZkQkxzeVhoWWJKSm1lVnBWTkpka2dqWElqWFR0VFE1ZmxKRE4yZ3NUMlFaVmo1bS1QNEZ5VGVTRnFxX0hiQkE5cElVdTdQcF9QMFVnTWd5MnFWY1pYYU5IS1RtTWZXOFpFWnc?oc=5\" target=\"_blank\">Korean AI chip startup DeepX prepares public share offering</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNWNDcWx2b2VMTFgwWTRqUUJXeGNGU3JwOHFyamNySXFnQmlscVRaZm42QXZaYmN5WUplb3Y2SmVQcUwxTHhlQmZQN2VPQ3JhYzJ1V0wwMzZkQkxzeVhoWWJKSm1lVnBWTkpka2dqWElqWFR0VFE1ZmxKRE4yZ3NUMlFaVmo1bS1QNEZ5VGVTRnFxX0hiQkE5cElVdTdQcF9QMFVnTWd5MnFWY1pYYU5IS1RtTWZXOFpFWnc?oc=5",
+          "title": "Korean AI chip startup DEEPX, Hyundai work on robots powered by generative AI - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQN3dqQ0UtTjhzTnZrd1YxcGJMTzR0Rmhha3lCaU9raENRaFlnUXlEckh5RjhMU2NBYXU1MC04bzk0YmF6LWZGZFRqRWJRdG9GRlZzZE5QV0NLaXczaS1Lb2dkd3M2Q2tlUEdEZWZfTmZvQ0xPVmdGU2ZBQS1nZUdnbkZPWWljcnk4QUVIcTNBUnVEcEJEOTBpcjROSjBwaWZvSEZGa1k1eU1ZWXBPN21NTEJzY2RXZkdXY1hLOUZqQ2FNWm5oMWp3Q29ueHJKRzRyLUx1cGdB?oc=5\" target=\"_blank\">Korean AI chip startup DEEPX, Hyundai work on robots powered by generative AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQN3dqQ0UtTjhzTnZrd1YxcGJMTzR0Rmhha3lCaU9raENRaFlnUXlEckh5RjhMU2NBYXU1MC04bzk0YmF6LWZGZFRqRWJRdG9GRlZzZE5QV0NLaXczaS1Lb2dkd3M2Q2tlUEdEZWZfTmZvQ0xPVmdGU2ZBQS1nZUdnbkZPWWljcnk4QUVIcTNBUnVEcEJEOTBpcjROSjBwaWZvSEZGa1k1eU1ZWXBPN21NTEJzY2RXZkdXY1hLOUZqQ2FNWm5oMWp3Q29ueHJKRzRyLUx1cGdB?oc=5",
           "source": "Reuters AI",
-          "publishedAt": "2026-04-14",
+          "publishedAt": "2026-04-15",
           "views": "13.0K"
         }
       ]
@@ -79,6 +79,14 @@
       "hashtag": "#활용사례",
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
+        {
+          "title": "Anthropic’s Claude Managed Agents gives enterprises a new one-stop shop but raises vendor 'lock-in' risk - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPbDFKREVTQ2kxYUtFY0hjdG5MM0xOZkU4VXBfMjIyR2FBQUNyUkVPeHp5VlM3VkdEZk4xTFA3OTE1R1Bwd3o4WTBHeW5FMlBKR0NPbVVtY21HSTBUQ1VPLW5EYXlqdEllams1R2xjM2YzS2pKYlJlLThJckdrX2tLQjFjQnQ3a1Brdll0dTZ6dE9vclQ5ZkZrN0hSRV9Ib1ZlTlhlSmFYNkJxQkN1RWNwa2VB?oc=5\" target=\"_blank\">Anthropic’s Claude Managed Agents gives enterprises a new one-stop shop but raises vendor 'lock-in' risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbDFKREVTQ2kxYUtFY0hjdG5MM0xOZkU4VXBfMjIyR2FBQUNyUkVPeHp5VlM3VkdEZk4xTFA3OTE1R1Bwd3o4WTBHeW5FMlBKR0NPbVVtY21HSTBUQ1VPLW5EYXlqdEllams1R2xjM2YzS2pKYlJlLThJckdrX2tLQjFjQnQ3a1Brdll0dTZ6dE9vclQ5ZkZrN0hSRV9Ib1ZlTlhlSmFYNkJxQkN1RWNwa2VB?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-04-14",
+          "views": "18.0K"
+        },
         {
           "title": "Agentic coding at enterprise scale demands spec-driven development - VentureBeat",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQd3BoTnBPOXNEekVTaW5zZEktaGdIN0ZQaVdBNWJHdlB1bkxYLU85cWF0eGRYRTBJQmNkc2RuX1RCS0ZhLVZjelRfdTdmN1lON1IzQUNzTlVDenBJM25URFYtVGtKcVlIbVBaeHdWMzZycnRKcE1BaHJQMDFEaEQxQ3RxUENTRVkzZUxRZlQ5ek42M1E3b3E0MFZrNmpGQkwwcDJPdk1vOA?oc=5\" target=\"_blank\">Agentic coding at enterprise scale demands spec-driven development</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
@@ -93,14 +101,6 @@
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQczhXekdQMU9KdDhxdkNCVGplTnREa2ZCUktBcjVsamVsczV1X1NBams0REl6V0hBdE1VUndrZnFaUFUyd2dhNEhRbXV2VmdTdDF0cXl6S29QZHFpaTBDWnBmemhEWFBTQnl1dWt1Um1tZjBLcTJhQWVnUEFtX0UyNTlCSDNmaVFEdjVsQlk3bm9wMURRWU1rVm1SU0ltcDlXdHc?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-04-13",
-          "views": "18.0K"
-        },
-        {
-          "title": "Gov't seeks to introduce AI agent for administrative workflow - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQSUdlb0hiWV9Td0NpUGRSMmxBdFJfQ2JfNnA5TGExNkxnMWkwZmdLenV0b0pvWUVwUVUzR3hSSkpZX3RfSG9MX3RlR0pIQkR0LVktVEwyMjJKYnZERmN3c3pyTEt2VkVRd2NoeFB0SHF2WW94UUtLSHdaN3hfc2FwcFR2N0dmelpnN3VYckx4Z19YamlCNGlUUkhOQk9EU0VYdEdfZFo0OWdMdnJvQ3RISVpSM1cydlV6NjV2QtIBwgFBVV95cUxPc1ZDd0loWWVTWmY3ZDF0UHFybzdVQU5wS1lqTVVqbjlSNXVCbVJLc25aYUpBNjhCYkFpRUQxMk5Kd0xWNmtDUnEzSUF6Mk9FSkVBRzhwbTN1aFNuOWRwVzRSSVJDOFdpSU5DVk9fMzFMUTBMcG1WNkZwXy02am0wUkNTRl9pVU44Sy1vVE9oWTN3X3B1NnN4SXEtaG1XM1VpMWhZU3NpOVNnNzVKaWFrSlRnMmFzQTY4cDl0ckdaZXU4QQ?oc=5\" target=\"_blank\">Gov't seeks to introduce AI agent for administrative workflow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSUdlb0hiWV9Td0NpUGRSMmxBdFJfQ2JfNnA5TGExNkxnMWkwZmdLenV0b0pvWUVwUVUzR3hSSkpZX3RfSG9MX3RlR0pIQkR0LVktVEwyMjJKYnZERmN3c3pyTEt2VkVRd2NoeFB0SHF2WW94UUtLSHdaN3hfc2FwcFR2N0dmelpnN3VYckx4Z19YamlCNGlUUkhOQk9EU0VYdEdfZFo0OWdMdnJvQ3RISVpSM1cydlV6NjV2QtIBwgFBVV95cUxPc1ZDd0loWWVTWmY3ZDF0UHFybzdVQU5wS1lqTVVqbjlSNXVCbVJLc25aYUpBNjhCYkFpRUQxMk5Kd0xWNmtDUnEzSUF6Mk9FSkVBRzhwbTN1aFNuOWRwVzRSSVJDOFdpSU5DVk9fMzFMUTBMcG1WNkZwXy02am0wUkNTRl9pVU44Sy1vVE9oWTN3X3B1NnN4SXEtaG1XM1VpMWhZU3NpOVNnNzVKaWFrSlRnMmFzQTY4cDl0ckdaZXU4QQ?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-04-10",
           "views": "18.0K"
         }
       ]
@@ -119,19 +119,19 @@
           "views": "18.0K"
         },
         {
-          "title": "Fed minutes of March meeting could flesh out how policymakers view war risks to economy - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPTEdPejNaNlk0RGxtSW1kZTM1T0dkcXVuR0JUUHUyVWdQY1BzcTE3MVFSakJOX0xMRlRRMEhxT2NtaktOdDZWbkw5elV1NWhYQW5uTFg1RjNGZ3lFc2FHNUlaRTI2X2dUODFTZVJZQXM4T3RMMHYteHJtcFlhRVpwQ1hNdTVqamJYOXNrVzJuQjZHWXlFY2M5RHRKNHM0LW93YlFMY3RaVVFJVW5jdzFXWFlrQmVrbHRXSmc?oc=5\" target=\"_blank\">Fed minutes of March meeting could flesh out how policymakers view war risks to economy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTEdPejNaNlk0RGxtSW1kZTM1T0dkcXVuR0JUUHUyVWdQY1BzcTE3MVFSakJOX0xMRlRRMEhxT2NtaktOdDZWbkw5elV1NWhYQW5uTFg1RjNGZ3lFc2FHNUlaRTI2X2dUODFTZVJZQXM4T3RMMHYteHJtcFlhRVpwQ1hNdTVqamJYOXNrVzJuQjZHWXlFY2M5RHRKNHM0LW93YlFMY3RaVVFJVW5jdzFXWFlrQmVrbHRXSmc?oc=5",
+          "title": "In India, $1 housekeepers spark a consumer, worker frenzy despite safety risks - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUTNSZmVWQkxPWm9BRThTX0tnYkV3SHlCOWtGenJ0cjhHVHNObXRYeWNNb2JWOFdhS1dfdjdxQ2t6Zkg2a3BfZURPQkxKOEZNeHhfLWJUUlducnJ0S000SzlSYjEwY20zUzlfOU5kdWZneDA5dmo3R1Nrc21JallHR2xuT2NhaS1jUmVra2RpLWotcXVybk9nY01MVHJKQ0J3ZERRZUpfZFR3aU94eEVzVEpqaTdIc1JYemxncDRkT2tYNnRXZC1NcDZjVVZqXzNjQXc?oc=5\" target=\"_blank\">In India, $1 housekeepers spark a consumer, worker frenzy despite safety risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUTNSZmVWQkxPWm9BRThTX0tnYkV3SHlCOWtGenJ0cjhHVHNObXRYeWNNb2JWOFdhS1dfdjdxQ2t6Zkg2a3BfZURPQkxKOEZNeHhfLWJUUlducnJ0S000SzlSYjEwY20zUzlfOU5kdWZneDA5dmo3R1Nrc21JallHR2xuT2NhaS1jUmVra2RpLWotcXVybk9nY01MVHJKQ0J3ZERRZUpfZFR3aU94eEVzVEpqaTdIc1JYemxncDRkT2tYNnRXZC1NcDZjVVZqXzNjQXc?oc=5",
           "source": "Reuters AI",
-          "publishedAt": "2026-04-08",
+          "publishedAt": "2026-04-14",
           "views": "18.0K"
         },
         {
-          "title": "N. Korea holds party committee meetings to spur efforts to implement policy decisions - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVEk4R3J4cEo2THlhOGFGbVlaR0dkXzdRMF9PUmpleTUzQXBfODlQM2JvUXBFaDdac19YZ0tJUFBRLXlYWlhqVGZfeDV1LTl4QTIzS0ZMRlljSkYtZlpRc19yN0xzM2wxTzE0MHZxalAwSGJmblFKRkRsVlpxVUthZWtHenhUemVkVkMyVXpYUmFIUlBpT1cyZEVJZmJHX1ZDMkpFLUNZOC1NMzNEbS1rQzZTcHNpa29BOXZVS0JVYzVSQ3RxQ3Nhd1Y2aFNKUkszLTNpQWpkelFxNTN4aXV0dEt30gHnAUFVX3lxTFA1ZEI5NFFyaHd2M1ZUWF9Rc0xEUkZsMURqWWlmQ2lYVzJHS1Mwdl9WeWhFaGZXU3lIZE8wUnJHS25fQ2w0T3BBSzlNWlV4a2NmLVROUENUWnpnZGdPWF9aeU9mdGE5UkIyLXJfaVM4cy12RldkME9NN3BlWnpiTzBWNjFWcjhsaWlaTnU5NVVkYzRVOEpJY3RET2h5TjZXZUk2cFlRUS1YTVZ3ZG9LaktmaTVoS1V3b1FtdS16TURjeXUzWVBFQ0tKSlpXRVlodm5yNzVYaDM0SS1SZW5XRVBxMVF2cVRnZw?oc=5\" target=\"_blank\">N. Korea holds party committee meetings to spur efforts to implement policy decisions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVEk4R3J4cEo2THlhOGFGbVlaR0dkXzdRMF9PUmpleTUzQXBfODlQM2JvUXBFaDdac19YZ0tJUFBRLXlYWlhqVGZfeDV1LTl4QTIzS0ZMRlljSkYtZlpRc19yN0xzM2wxTzE0MHZxalAwSGJmblFKRkRsVlpxVUthZWtHenhUemVkVkMyVXpYUmFIUlBpT1cyZEVJZmJHX1ZDMkpFLUNZOC1NMzNEbS1rQzZTcHNpa29BOXZVS0JVYzVSQ3RxQ3Nhd1Y2aFNKUkszLTNpQWpkelFxNTN4aXV0dEt30gHnAUFVX3lxTFA1ZEI5NFFyaHd2M1ZUWF9Rc0xEUkZsMURqWWlmQ2lYVzJHS1Mwdl9WeWhFaGZXU3lIZE8wUnJHS25fQ2w0T3BBSzlNWlV4a2NmLVROUENUWnpnZGdPWF9aeU9mdGE5UkIyLXJfaVM4cy12RldkME9NN3BlWnpiTzBWNjFWcjhsaWlaTnU5NVVkYzRVOEpJY3RET2h5TjZXZUk2cFlRUS1YTVZ3ZG9LaktmaTVoS1V3b1FtdS16TURjeXUzWVBFQ0tKSlpXRVlodm5yNzVYaDM0SS1SZW5XRVBxMVF2cVRnZw?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-04-07",
+          "title": "Singapore tightens monetary policy as Iran war fuels inflation risks - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQb0V3Tmc1RjNXTFRLYUxkSVZ6WFNCdGdWX1R3Zm9pNGVPVHJuRjFqZEhjWExGLUhNbXl0NEhVUGJ1T3YyQWtLUldfOFNIdS1VTUE2RklJakFSNlpYT1hNMnJEaVExWVktTFJ4aTI2TEs5ZGZGWmNOQ0FVaHdXRjJBeWVuZWZxNUx6SmRyZHFnb1NNUWZwRVVWR1d0cS1OWjlSWlpIYmNDLU9BMS1aT3V5aw?oc=5\" target=\"_blank\">Singapore tightens monetary policy as Iran war fuels inflation risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb0V3Tmc1RjNXTFRLYUxkSVZ6WFNCdGdWX1R3Zm9pNGVPVHJuRjFqZEhjWExGLUhNbXl0NEhVUGJ1T3YyQWtLUldfOFNIdS1VTUE2RklJakFSNlpYT1hNMnJEaVExWVktTFJ4aTI2TEs5ZGZGWmNOQ0FVaHdXRjJBeWVuZWZxNUx6SmRyZHFnb1NNUWZwRVVWR1d0cS1OWjlSWlpIYmNDLU9BMS1aT3V5aw?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-04-14",
           "views": "18.0K"
         }
       ]
@@ -142,27 +142,27 @@
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
         {
-          "title": "Hyundai Motor chief attends economic forum in Washington amid group's US investment drive - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZEtWUzhfWmthUWphYXFQTlZwRDlGdnJhZW5zdmctNERHZ1VpeHpCSUw3R0pjY1hkQU9EbzhVZkJ3T0RQOWlPdDBFRVhjOTlXQ2Q3VDBiM05FVU1MUTYxZ3IyYXplcU9VRW1nMldmY05tWG5wTTFVeWZaMVVaUnMzbmRPTUpaNUVtUkJRaUw3UjBoMU05YXM5NzhzTzY3RlVQNW1WRTZCb0ZJVnVwZVdtckZwWDhfRHFZd3VOZGdrM2tDd2szVXVVaVBrb21qd1UxZjBtMHFwMDZJVGszRmfSAeMBQVVfeXFMT0ZuYWl5QUlvOXBrQ2xTMGJuc1ZkUkwwRGVOclh4V2twLWhGOWdMSndveC1pMWpIeUtCWmdmWExkOXFSMC1ZOFN5MTJtZFdYVGFndWg3cndVYkJDSWVoSF9yQlhhTE55VjRLLXRmRW5weU5pWkxjUmVNaXJ6YktEbFFPelB2U29qSjBXLU14NUI4bDh3Qk9LeTFaVUsyS3p4c0lPMzdfcUdxZUtWUW9ZSmIwRk1PbFdZS1hLWUVLdWRYNnFQTXpEZUxEQlkxWGg0RmZyT1h0aU5GaDI5TW1jUGtCTlE?oc=5\" target=\"_blank\">Hyundai Motor chief attends economic forum in Washington amid group's US investment drive</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZEtWUzhfWmthUWphYXFQTlZwRDlGdnJhZW5zdmctNERHZ1VpeHpCSUw3R0pjY1hkQU9EbzhVZkJ3T0RQOWlPdDBFRVhjOTlXQ2Q3VDBiM05FVU1MUTYxZ3IyYXplcU9VRW1nMldmY05tWG5wTTFVeWZaMVVaUnMzbmRPTUpaNUVtUkJRaUw3UjBoMU05YXM5NzhzTzY3RlVQNW1WRTZCb0ZJVnVwZVdtckZwWDhfRHFZd3VOZGdrM2tDd2szVXVVaVBrb21qd1UxZjBtMHFwMDZJVGszRmfSAeMBQVVfeXFMT0ZuYWl5QUlvOXBrQ2xTMGJuc1ZkUkwwRGVOclh4V2twLWhGOWdMSndveC1pMWpIeUtCWmdmWExkOXFSMC1ZOFN5MTJtZFdYVGFndWg3cndVYkJDSWVoSF9yQlhhTE55VjRLLXRmRW5weU5pWkxjUmVNaXJ6YktEbFFPelB2U29qSjBXLU14NUI4bDh3Qk9LeTFaVUsyS3p4c0lPMzdfcUdxZUtWUW9ZSmIwRk1PbFdZS1hLWUVLdWRYNnFQTXpEZUxEQlkxWGg0RmZyT1h0aU5GaDI5TW1jUGtCTlE?oc=5",
+          "title": "Samsung SDS issues $820 mil. convertible bonds to KKR for future AI investment - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZHIwUFZBZW1zellmTDRWZHExOWNtZk9PbmZPR2xKREROVVFHbXhRYXRteTRQNjV1T3dKUHB1Y2t4UjY3elJUcFUzanZfbTBHblJnX2pyOEdXN196M0hFZDF2eGpQTFUxQWdleGdWNENkaVRYLVJjaWFKQTNYeXc1RV9FWU11YnhPQ0FxVnQtTTJoZTQ0UFpYWWJ3Y2dmZnRKTGIwc3NBWHNkMlRuNEtfLXlfNEkxZF9jcnVfRml5Qk5aSkJlUTh5Mk9kWmRSVXFEeHfSAdcBQVVfeXFMTmQ2Vldrc1ZGa1Z0TGgwQzNXRWQ1YTNORkFMVG5aVm5OSGFuUUxxYUZHNDhIeGxEeURwTjdlS3ZJZzVjXzgwMUhRNjhXb1dRbXU3WE0yTDlqaGxxSmJSOUcwNEJHelJCNElGVHUtWjlMZkVvdXlta09GUXVNZXVvRzhBVlZRclNILTBicWo1LWYzYUlXR0RkaWpVMnFCN1FzOFRvNFJSVUMxdEtfSC12ODlnTURZX3ZuWm5QaTNSZHBEOVU2ZVc4RDlQM0FkQXEwNVBCOFoxX2M?oc=5\" target=\"_blank\">Samsung SDS issues $820 mil. convertible bonds to KKR for future AI investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZHIwUFZBZW1zellmTDRWZHExOWNtZk9PbmZPR2xKREROVVFHbXhRYXRteTRQNjV1T3dKUHB1Y2t4UjY3elJUcFUzanZfbTBHblJnX2pyOEdXN196M0hFZDF2eGpQTFUxQWdleGdWNENkaVRYLVJjaWFKQTNYeXc1RV9FWU11YnhPQ0FxVnQtTTJoZTQ0UFpYWWJ3Y2dmZnRKTGIwc3NBWHNkMlRuNEtfLXlfNEkxZF9jcnVfRml5Qk5aSkJlUTh5Mk9kWmRSVXFEeHfSAdcBQVVfeXFMTmQ2Vldrc1ZGa1Z0TGgwQzNXRWQ1YTNORkFMVG5aVm5OSGFuUUxxYUZHNDhIeGxEeURwTjdlS3ZJZzVjXzgwMUhRNjhXb1dRbXU3WE0yTDlqaGxxSmJSOUcwNEJHelJCNElGVHUtWjlMZkVvdXlta09GUXVNZXVvRzhBVlZRclNILTBicWo1LWYzYUlXR0RkaWpVMnFCN1FzOFRvNFJSVUMxdEtfSC12ODlnTURZX3ZuWm5QaTNSZHBEOVU2ZVc4RDlQM0FkQXEwNVBCOFoxX2M?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-04-14",
+          "publishedAt": "2026-04-15",
           "views": "13.0K"
         },
         {
-          "title": "Korean AI chip startup DeepX prepares public share offering - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNNWNDcWx2b2VMTFgwWTRqUUJXeGNGU3JwOHFyamNySXFnQmlscVRaZm42QXZaYmN5WUplb3Y2SmVQcUwxTHhlQmZQN2VPQ3JhYzJ1V0wwMzZkQkxzeVhoWWJKSm1lVnBWTkpka2dqWElqWFR0VFE1ZmxKRE4yZ3NUMlFaVmo1bS1QNEZ5VGVTRnFxX0hiQkE5cElVdTdQcF9QMFVnTWd5MnFWY1pYYU5IS1RtTWZXOFpFWnc?oc=5\" target=\"_blank\">Korean AI chip startup DeepX prepares public share offering</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNWNDcWx2b2VMTFgwWTRqUUJXeGNGU3JwOHFyamNySXFnQmlscVRaZm42QXZaYmN5WUplb3Y2SmVQcUwxTHhlQmZQN2VPQ3JhYzJ1V0wwMzZkQkxzeVhoWWJKSm1lVnBWTkpka2dqWElqWFR0VFE1ZmxKRE4yZ3NUMlFaVmo1bS1QNEZ5VGVTRnFxX0hiQkE5cElVdTdQcF9QMFVnTWd5MnFWY1pYYU5IS1RtTWZXOFpFWnc?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-04-14",
+          "title": "N. Korea's economy entering recovery phase amid closer ties with Russia, China: Seoul - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdk00WlFhNHk0NkU4OWppMm5JSmFhSTdGT0xObUNZcGt6Y0JhRXJweWxiZUN2Zjg0c2FVNGtSbXFKVUZrR1pzc2lVNk8tSktraUwwUEw1MC1kSmlDcW9fZ01VWVJsSlFxMTR3S0RWWnlhRFhiZXJQOHZyVnp2LVZGNllZVm9uS0Q4aGJtaDVwWEU2SWptS1hzcFBYeTNfT1N5VjJ5dXhkUjlCQlVfXzc3VGdja0gxOXU2UW1zekhSeXdCaEY4eXJuUmtIRHRHQ2doRlJpa2k4aWRuOURWekHSAeMBQVVfeXFMTnNNeFIzY0N1Rml6cnhiS0tGMlpCRjVsaTFiYzlnMVdrM1FMZS1Zd2VGNUNDWmhiRXlPTnZ0VXhwNXBpZV90SDFsLVBhNW5ZTENRUG1nM3p1V1ItcktMVjNSbFkyS3ZoQTd0NTBXa3I5YU5Yb1BJbUV3b0FLbUdVeGNnaHdEZHR1NDFSSk53QVhGM2JUVWRNNERVZ05QVFdKLW13UUtfY2ZLaTF6R3hHNkM3UGRGY0JTcjNPYWQ0S0tEd0pFWVZEZjBKQUdlNEdiUVNfNmItN2pYR0E2WVhlYThZWEE?oc=5\" target=\"_blank\">N. Korea's economy entering recovery phase amid closer ties with Russia, China: Seoul</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdk00WlFhNHk0NkU4OWppMm5JSmFhSTdGT0xObUNZcGt6Y0JhRXJweWxiZUN2Zjg0c2FVNGtSbXFKVUZrR1pzc2lVNk8tSktraUwwUEw1MC1kSmlDcW9fZ01VWVJsSlFxMTR3S0RWWnlhRFhiZXJQOHZyVnp2LVZGNllZVm9uS0Q4aGJtaDVwWEU2SWptS1hzcFBYeTNfT1N5VjJ5dXhkUjlCQlVfXzc3VGdja0gxOXU2UW1zekhSeXdCaEY4eXJuUmtIRHRHQ2doRlJpa2k4aWRuOURWekHSAeMBQVVfeXFMTnNNeFIzY0N1Rml6cnhiS0tGMlpCRjVsaTFiYzlnMVdrM1FMZS1Zd2VGNUNDWmhiRXlPTnZ0VXhwNXBpZV90SDFsLVBhNW5ZTENRUG1nM3p1V1ItcktMVjNSbFkyS3ZoQTd0NTBXa3I5YU5Yb1BJbUV3b0FLbUdVeGNnaHdEZHR1NDFSSk53QVhGM2JUVWRNNERVZ05QVFdKLW13UUtfY2ZLaTF6R3hHNkM3UGRGY0JTcjNPYWQ0S0tEd0pFWVZEZjBKQUdlNEdiUVNfNmItN2pYR0E2WVhlYThZWEE?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-04-15",
           "views": "13.0K"
         },
         {
-          "title": "OpenAI has bought AI personal finance startup Hiro - TechCrunch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNRVlKUndodXlWSzdiajl5emJ0RFdURmgwa2lJQm9QZDZ5VXlZUi16RlRKaVp3c19qUmtleVhhUmFUV05QaVZsOF9rWks2aXZvTjVORXJQazE3MVA4NF9CMERISmRQX3Rkbl9falZrRFVWYlBVU3dhR1U2OXFkVkJuMnFPMHJpWFVscHZiU0Fn?oc=5\" target=\"_blank\">OpenAI has bought AI personal finance startup Hiro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRVlKUndodXlWSzdiajl5emJ0RFdURmgwa2lJQm9QZDZ5VXlZUi16RlRKaVp3c19qUmtleVhhUmFUV05QaVZsOF9rWks2aXZvTjVORXJQazE3MVA4NF9CMERISmRQX3Rkbl9falZrRFVWYlBVU3dhR1U2OXFkVkJuMnFPMHJpWFVscHZiU0Fn?oc=5",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-04-14",
+          "title": "BBQ opens 4th Honduras branch just weeks after entering market - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeVNrRXZ3bE91c2Q4TXh3NkttdmF4RGFRQ295WlNDTms4ZVh0TEI3MDJhSjg0UGhyRXpLY18tQjRwVVVURmZXaGpKWlpfY3BvTlBGaUw0bG5qc2xNb2JiNm9IU0hJSHA4MDZrUWpvN2xuS1YzdEg1X2N4SHYzY1BQTDJaOVRESjVEUW1ILVhHa3g0NE5wblJuWFJmdGxPWE9tZ0FOaDE0V1VyYWl2djl0c1VrZzctYWRQdGJRcnNkdWnSAcABQVVfeXFMTXlTa0V2d2xPdXNkOE14dzZLbXZheERhUUNveVpTQ05rOGVYdExCNzAyYUo4NFBockV6S2NfLUI0cFVVVEZmV2hqSlpaX2Nwb05QRmlMNGxuanNsTW9iYjZvSFNISUhwODA2a1FqbzdsbktWM3RINV9jeEh2M2NQUEwyWjlUREo1RFFtSC1YR2t4NDROcG5SblhSZnRsT1hPbWdBTmgxNFdVcmFpdnY5dHNVa2c3LWFkUHRiUXJzZHVp?oc=5\" target=\"_blank\">BBQ opens 4th Honduras branch just weeks after entering market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeVNrRXZ3bE91c2Q4TXh3NkttdmF4RGFRQ295WlNDTms4ZVh0TEI3MDJhSjg0UGhyRXpLY18tQjRwVVVURmZXaGpKWlpfY3BvTlBGaUw0bG5qc2xNb2JiNm9IU0hJSHA4MDZrUWpvN2xuS1YzdEg1X2N4SHYzY1BQTDJaOVRESjVEUW1ILVhHa3g0NE5wblJuWFJmdGxPWE9tZ0FOaDE0V1VyYWl2djl0c1VrZzctYWRQdGJRcnNkdWnSAcABQVVfeXFMTXlTa0V2d2xPdXNkOE14dzZLbXZheERhUUNveVpTQ05rOGVYdExCNzAyYUo4NFBockV6S2NfLUI0cFVVVEZmV2hqSlpaX2Nwb05QRmlMNGxuanNsTW9iYjZvSFNISUhwODA2a1FqbzdsbktWM3RINV9jeEh2M2NQUEwyWjlUREo1RFFtSC1YR2t4NDROcG5SblhSZnRsT1hPbWdBTmgxNFdVcmFpdnY5dHNVa2c3LWFkUHRiUXJzZHVp?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-04-15",
           "views": "13.0K"
         }
       ]
@@ -181,19 +181,19 @@
           "views": "18.0K"
         },
         {
-          "title": "South Korea's Lee warns Iran war to keep oil price high, orders quick aid rollout - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMWN6OG43dndENDM2ZktFVklycDNuLWx3NE55Tl93U29jSjNZVTdkcG5pQjlhT2ZHc2U1c0N4dWpHSFMwMXVTelFwYm9VODVKTHFHUUhOMVdVaE5qOHE2QXNtWTlHcDBYMkpqU1M0bzlTa1VDMGNWVHZQNzEyektpZ1FWeTROdzRpM3NkeXJwby1idndjNnVDWHBJNGpnNVZCa01Ua3FyMWpQWnBheVdPWFdtSzV4NWhVNzdqTUN4VG9yMjdsTFFwZzlHQmJhTmtn?oc=5\" target=\"_blank\">South Korea's Lee warns Iran war to keep oil price high, orders quick aid rollout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMWN6OG43dndENDM2ZktFVklycDNuLWx3NE55Tl93U29jSjNZVTdkcG5pQjlhT2ZHc2U1c0N4dWpHSFMwMXVTelFwYm9VODVKTHFHUUhOMVdVaE5qOHE2QXNtWTlHcDBYMkpqU1M0bzlTa1VDMGNWVHZQNzEyektpZ1FWeTROdzRpM3NkeXJwby1idndjNnVDWHBJNGpnNVZCa01Ua3FyMWpQWnBheVdPWFdtSzV4NWhVNzdqTUN4VG9yMjdsTFFwZzlHQmJhTmtn?oc=5",
-          "source": "Reuters AI",
+          "title": "Lightcast Raises $27 Million and Adds Industry Veteran to Accelerate Commercialization of Envisia™ Platform - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNWI2b0paUENlMnZTZGVVRVpQMWh6MDgwUC1paHRyNTZIR0tOOGszOXo5Q1NBUmhodjZaY05YdXBMY2Ewbi1OZV9lQUtvdE10anUtM2d4X2RjcndWMG1JMmM4VGxtZzNsYXJQMFBMb3dOSDhrQ3UwdzdUZ1E2QnVrS2FkTC1aQTFjYVFET0dVQnl3Vjk2cThNY3NreUlBdUE0Z0ZORXpvYVpjSUJLc2VuZzJCSFl5cW9EeHhvNm1XNWZFcWdBaVREZnJ1QUZxb29ZVjZtdw?oc=5\" target=\"_blank\">Lightcast Raises $27 Million and Adds Industry Veteran to Accelerate Commercialization of Envisia™ Platform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNWI2b0paUENlMnZTZGVVRVpQMWh6MDgwUC1paHRyNTZIR0tOOGszOXo5Q1NBUmhodjZaY05YdXBMY2Ewbi1OZV9lQUtvdE10anUtM2d4X2RjcndWMG1JMmM4VGxtZzNsYXJQMFBMb3dOSDhrQ3UwdzdUZ1E2QnVrS2FkTC1aQTFjYVFET0dVQnl3Vjk2cThNY3NreUlBdUE0Z0ZORXpvYVpjSUJLc2VuZzJCSFl5cW9EeHhvNm1XNWZFcWdBaVREZnJ1QUZxb29ZVjZtdw?oc=5",
+          "source": "VentureBeat AI",
           "publishedAt": "2026-04-14",
           "views": "13.0K"
         },
         {
-          "title": "'Agency packaging' raises concerns over fair competition in K-drama industry - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTkhRc0padThpeGdfX1loMXZWX1EyS0Rpd2ktRm9VX0pmWnBBLUE2YjRQckt5MEE4Y0ZRanRrTGZfR0U0UXBXeUIyLUVmTFh6ZTFyQS1HMjJ2Vml2U2tfY0ZhcXpHRzJydEJEUWFrYjdVWkZvRDBpdmhQVDQwTGEzQWd4b29WQ2RndGFxSF9fX1hHRm1EU2xsYkl4WW1GTS1BVkFnSndFYlA5MFlqamkzY0tSeWdHOEJxemNhSWFMZjRlNm9LV0JVTHZDN05yVkRGMGFnb0dn0gHbAUFVX3lxTE5KRm91SlBGSl9OVzVfZUdaSzFvNmJZVkEwUldtdGU1TVdnUmY5V0NMTW5qUzhySGF1cHk0cFZiTkl2QkZmNUdnVVAxSUgySHVPdlNiYjNxNlpVWjlaSkhJQVJTYVdPZTFVSmNvXzRzZEJSR241RXh1Wi1RekVLNGVndFMzTXRjZTRDekZCWTNOcEgtb1dSbUY5QzlMaUloN19oSzVrN2toX1RwcnZiRnhZczVBU29sQjZBRWNIem84eEZ5UUlmdWZCUDFpTmZTMGVnMThzeG1hM2l6SQ?oc=5\" target=\"_blank\">'Agency packaging' raises concerns over fair competition in K-drama industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTkhRc0padThpeGdfX1loMXZWX1EyS0Rpd2ktRm9VX0pmWnBBLUE2YjRQckt5MEE4Y0ZRanRrTGZfR0U0UXBXeUIyLUVmTFh6ZTFyQS1HMjJ2Vml2U2tfY0ZhcXpHRzJydEJEUWFrYjdVWkZvRDBpdmhQVDQwTGEzQWd4b29WQ2RndGFxSF9fX1hHRm1EU2xsYkl4WW1GTS1BVkFnSndFYlA5MFlqamkzY0tSeWdHOEJxemNhSWFMZjRlNm9LV0JVTHZDN05yVkRGMGFnb0dn0gHbAUFVX3lxTE5KRm91SlBGSl9OVzVfZUdaSzFvNmJZVkEwUldtdGU1TVdnUmY5V0NMTW5qUzhySGF1cHk0cFZiTkl2QkZmNUdnVVAxSUgySHVPdlNiYjNxNlpVWjlaSkhJQVJTYVdPZTFVSmNvXzRzZEJSR241RXh1Wi1RekVLNGVndFMzTXRjZTRDekZCWTNOcEgtb1dSbUY5QzlMaUloN19oSzVrN2toX1RwcnZiRnhZczVBU29sQjZBRWNIem84eEZ5UUlmdWZCUDFpTmZTMGVnMThzeG1hM2l6SQ?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-04-13",
+          "title": "In the Wake of Anthropic’s Mythos, OpenAI Has a New Cybersecurity Model—and Strategy - WIRED",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQTFh1dmotOGxnQ0dTRHUtMnl2a1lqaXJYSlUwU2RnVE5RRFBkUEt6WTYtVkFkTF9rX2o0bUlPU3I5a2FjT2k5ZW5tTHJoSEItLVBwMXNEYVhCWC1kdFpQa3FPTzZDVjhBNnVtOE55bjVuYm9xRVVfWkhkLXJ2Z1VoTjhaVE5VTkhWRUQ0dDRwTThZVWxOdUFWQ0NmWmppYzA4aEdDRUVZNE5mNmtwVEFSbA?oc=5\" target=\"_blank\">In the Wake of Anthropic’s Mythos, OpenAI Has a New Cybersecurity Model—and Strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTFh1dmotOGxnQ0dTRHUtMnl2a1lqaXJYSlUwU2RnVE5RRFBkUEt6WTYtVkFkTF9rX2o0bUlPU3I5a2FjT2k5ZW5tTHJoSEItLVBwMXNEYVhCWC1kdFpQa3FPTzZDVjhBNnVtOE55bjVuYm9xRVVfWkhkLXJ2Z1VoTjhaVE5VTkhWRUQ0dDRwTThZVWxOdUFWQ0NmWmppYzA4aEdDRUVZNE5mNmtwVEFSbA?oc=5",
+          "source": "WIRED AI",
+          "publishedAt": "2026-04-14",
           "views": "13.0K"
         }
       ]
