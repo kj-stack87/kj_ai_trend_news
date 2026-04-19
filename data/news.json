@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-18T05:54:14.119Z",
+  "lastUpdated": "2026-04-19T06:20:11.995Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -80,17 +80,17 @@
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
         {
-          "title": "AI agent security maturity audit: enterprises funded stage one, stage-three threats arrived anyway - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxORjRVWFpBOEdwa0xGNHEydjMyUXVlRUNlZmV1SkFXN1lrc3ZiS0lITERMeG9nX2xoUnI4dXBTaHg1LVRtNHVOcmdPSi1pLVY1dTByLTI2SFpBbVlhRFlidWw2ampUQUt1N0dqcUN2NW9ESDg4Rnp5bDB1YW1DYnFYdUpxZEhabTBwbTVwRzg2VFFXdm9XNmEyUktLOVIwSmdia1NJQ2ZqaTNSQ1o0QXlXR2U3RQ?oc=5\" target=\"_blank\">AI agent security maturity audit: enterprises funded stage one, stage-three threats arrived anyway</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORjRVWFpBOEdwa0xGNHEydjMyUXVlRUNlZmV1SkFXN1lrc3ZiS0lITERMeG9nX2xoUnI4dXBTaHg1LVRtNHVOcmdPSi1pLVY1dTByLTI2SFpBbVlhRFlidWw2ampUQUt1N0dqcUN2NW9ESDg4Rnp5bDB1YW1DYnFYdUpxZEhabTBwbTVwRzg2VFFXdm9XNmEyUktLOVIwSmdia1NJQ2ZqaTNSQ1o0QXlXR2U3RQ?oc=5",
+          "title": "Should my enterprise AI agent do that? NanoClaw and Vercel launch easier agentic policy setting and approval dialogs across 15 messaging apps - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxPbUVFYVJvX2ZLR0RVeUQtY1B5bXFIMzVNWlZpT1llLVRvWHZlcVZyUENuaFFabUk2Y1lGRmRDaFZuUFBLbmd3TEFQVW5nWHF2TmRDRC1Wa2hWd1BYYm5KY3ZNOHBCVm1yRUVNMmU1MjFHU0xvbG1jNElCMHVpR1JtUWpGRXdCb1JvcHh0M2lObHE0dnZrQnJ2RUxaZi1DSzliQ3lSUE9ycExFSEl6YlhxMHRSdDVVTjluQ0lObFg0M2pVUldGWGV4TUxkLVpWMDlwa2ZwTFg3ck83a2hMakVtVnIweFFGR1JhWEJUVDBMUHYzTjl5ZGF5QTVnc0hyVmR5T1YwbnF5eHkydw?oc=5\" target=\"_blank\">Should my enterprise AI agent do that? NanoClaw and Vercel launch easier agentic policy setting and approval dialogs across 15 messaging apps</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPbUVFYVJvX2ZLR0RVeUQtY1B5bXFIMzVNWlZpT1llLVRvWHZlcVZyUENuaFFabUk2Y1lGRmRDaFZuUFBLbmd3TEFQVW5nWHF2TmRDRC1Wa2hWd1BYYm5KY3ZNOHBCVm1yRUVNMmU1MjFHU0xvbG1jNElCMHVpR1JtUWpGRXdCb1JvcHh0M2lObHE0dnZrQnJ2RUxaZi1DSzliQ3lSUE9ycExFSEl6YlhxMHRSdDVVTjluQ0lObFg0M2pVUldGWGV4TUxkLVpWMDlwa2ZwTFg3ck83a2hMakVtVnIweFFGR1JhWEJUVDBMUHYzTjl5ZGF5QTVnc0hyVmR5T1YwbnF5eHkydw?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-04-17",
           "views": "18.0K"
         },
         {
-          "title": "Should my enterprise AI agent do that? NanoClaw and Vercel launch easier agentic policy setting and approval dialogs across 15 messaging apps - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxPbUVFYVJvX2ZLR0RVeUQtY1B5bXFIMzVNWlZpT1llLVRvWHZlcVZyUENuaFFabUk2Y1lGRmRDaFZuUFBLbmd3TEFQVW5nWHF2TmRDRC1Wa2hWd1BYYm5KY3ZNOHBCVm1yRUVNMmU1MjFHU0xvbG1jNElCMHVpR1JtUWpGRXdCb1JvcHh0M2lObHE0dnZrQnJ2RUxaZi1DSzliQ3lSUE9ycExFSEl6YlhxMHRSdDVVTjluQ0lObFg0M2pVUldGWGV4TUxkLVpWMDlwa2ZwTFg3ck83a2hMakVtVnIweFFGR1JhWEJUVDBMUHYzTjl5ZGF5QTVnc0hyVmR5T1YwbnF5eHkydw?oc=5\" target=\"_blank\">Should my enterprise AI agent do that? NanoClaw and Vercel launch easier agentic policy setting and approval dialogs across 15 messaging apps</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPbUVFYVJvX2ZLR0RVeUQtY1B5bXFIMzVNWlZpT1llLVRvWHZlcVZyUENuaFFabUk2Y1lGRmRDaFZuUFBLbmd3TEFQVW5nWHF2TmRDRC1Wa2hWd1BYYm5KY3ZNOHBCVm1yRUVNMmU1MjFHU0xvbG1jNElCMHVpR1JtUWpGRXdCb1JvcHh0M2lObHE0dnZrQnJ2RUxaZi1DSzliQ3lSUE9ycExFSEl6YlhxMHRSdDVVTjluQ0lObFg0M2pVUldGWGV4TUxkLVpWMDlwa2ZwTFg3ck83a2hMakVtVnIweFFGR1JhWEJUVDBMUHYzTjl5ZGF5QTVnc0hyVmR5T1YwbnF5eHkydw?oc=5",
+          "title": "AI agent security maturity audit: enterprises funded stage one, stage-three threats arrived anyway - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxORjRVWFpBOEdwa0xGNHEydjMyUXVlRUNlZmV1SkFXN1lrc3ZiS0lITERMeG9nX2xoUnI4dXBTaHg1LVRtNHVOcmdPSi1pLVY1dTByLTI2SFpBbVlhRFlidWw2ampUQUt1N0dqcUN2NW9ESDg4Rnp5bDB1YW1DYnFYdUpxZEhabTBwbTVwRzg2VFFXdm9XNmEyUktLOVIwSmdia1NJQ2ZqaTNSQ1o0QXlXR2U3RQ?oc=5\" target=\"_blank\">AI agent security maturity audit: enterprises funded stage one, stage-three threats arrived anyway</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORjRVWFpBOEdwa0xGNHEydjMyUXVlRUNlZmV1SkFXN1lrc3ZiS0lITERMeG9nX2xoUnI4dXBTaHg1LVRtNHVOcmdPSi1pLVY1dTByLTI2SFpBbVlhRFlidWw2ampUQUt1N0dqcUN2NW9ESDg4Rnp5bDB1YW1DYnFYdUpxZEhabTBwbTVwRzg2VFFXdm9XNmEyUktLOVIwSmdia1NJQ2ZqaTNSQ1o0QXlXR2U3RQ?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-04-17",
           "views": "18.0K"
@@ -150,19 +150,19 @@
           "views": "13.0K"
         },
         {
-          "title": "Mexico masculinity summit plows ahead after public funding backlash - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOQkhHNTdNczBhLWtsajg5ZDBzUWlLVDZjNkJHWWl2TDhKQlh3b3JFejVQTEkyaE9TT3BFR2RRMWxDM2pIaFFLbWlidHZ0ak94VFhvWHJYYUR5VzlzeGZaX1ZPeEZrTDNLSFY1ZGVwNTJqRFR2b0VRWHJRLVdKWHFCVUIyNEJnSlNWTmR6LTREUDBEY0tZcjBlbGxnMkhmaElVTlltRE5qRHhjRWp6dnRwbVEwZ1M3T0lkOUE?oc=5\" target=\"_blank\">Mexico masculinity summit plows ahead after public funding backlash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQkhHNTdNczBhLWtsajg5ZDBzUWlLVDZjNkJHWWl2TDhKQlh3b3JFejVQTEkyaE9TT3BFR2RRMWxDM2pIaFFLbWlidHZ0ak94VFhvWHJYYUR5VzlzeGZaX1ZPeEZrTDNLSFY1ZGVwNTJqRFR2b0VRWHJRLVdKWHFCVUIyNEJnSlNWTmR6LTREUDBEY0tZcjBlbGxnMkhmaElVTlltRE5qRHhjRWp6dnRwbVEwZ1M3T0lkOUE?oc=5",
+          "title": "The Iran war has revealed Trump's pressure point: the economy - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX1RwMnNsanJQQ29BUkNGZlYxdm5CM3VwRWlEdTV5VE1mbjBRUFVyUVR5MU85MFdiODR5My1yNzZnSWJDQ2VRMUNicUZUSDB2OVFZUkhlMmFrYW5Xd0laWlg2U21CdzhxQWs2c3ZjeTN3Mll2VGFBLXpLYzVCSmp1TF9iaE5YU0RITVdtYjYweVd5N1BRTmlvQzNiSTYwZHZDQW81YTZpVlk?oc=5\" target=\"_blank\">The Iran war has revealed Trump's pressure point: the economy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX1RwMnNsanJQQ29BUkNGZlYxdm5CM3VwRWlEdTV5VE1mbjBRUFVyUVR5MU85MFdiODR5My1yNzZnSWJDQ2VRMUNicUZUSDB2OVFZUkhlMmFrYW5Xd0laWlg2U21CdzhxQWs2c3ZjeTN3Mll2VGFBLXpLYzVCSmp1TF9iaE5YU0RITVdtYjYweVd5N1BRTmlvQzNiSTYwZHZDQW81YTZpVlk?oc=5",
           "source": "Reuters AI",
-          "publishedAt": "2026-04-17",
+          "publishedAt": "2026-04-18",
           "views": "13.0K"
         },
         {
-          "title": "Spirit Airlines seeks government funding amid rising oil prices, Air Current reports - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNRmFiYTVVU1E1cnh5U3NSY2U4VWFpazhwZXItc1IzUWpDVHRtMHEtZmJGX2JPc1F1aFV4YzdtcnVsR004R3p5YW9PNHY3a0RrT0k1ZUZMdGUxczEzZURjaDlGeGQzOUtucnAxeGRqanBSZjQxaWYtX0x1UTJXYTRiWDBCS3UtSndBVnJoM1cxTFdqcFVrMEFOamlUZ2MtTW52SlpFR0dSdjdoUWMyRmJhZ2hFUndsa0N4ejdJZF9TZzBGTGh3OHNB?oc=5\" target=\"_blank\">Spirit Airlines seeks government funding amid rising oil prices, Air Current reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRmFiYTVVU1E1cnh5U3NSY2U4VWFpazhwZXItc1IzUWpDVHRtMHEtZmJGX2JPc1F1aFV4YzdtcnVsR004R3p5YW9PNHY3a0RrT0k1ZUZMdGUxczEzZURjaDlGeGQzOUtucnAxeGRqanBSZjQxaWYtX0x1UTJXYTRiWDBCS3UtSndBVnJoM1cxTFdqcFVrMEFOamlUZ2MtTW52SlpFR0dSdjdoUWMyRmJhZ2hFUndsa0N4ejdJZF9TZzBGTGh3OHNB?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-04-17",
+          "title": "AI chip startup Cerebras files for IPO - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE8tQ3hYWi1YR2h5MzRnSGJoS2hUb0h2bk1oSDdDbnJlY0U0NEFVeVV0ZTQ5MEoxOGhyMTBvX2EzUVVWMzA4akk2eHVBLWlGbU54by00V2VBckZYeUlYWnhDZ2FqYUJSOXBxdnhyM2hzQVBBdzg3TlJCRmZrNHBrdw?oc=5\" target=\"_blank\">AI chip startup Cerebras files for IPO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8tQ3hYWi1YR2h5MzRnSGJoS2hUb0h2bk1oSDdDbnJlY0U0NEFVeVV0ZTQ5MEoxOGhyMTBvX2EzUVVWMzA4akk2eHVBLWlGbU54by00V2VBckZYeUlYWnhDZ2FqYUJSOXBxdnhyM2hzQVBBdzg3TlJCRmZrNHBrdw?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-04-18",
           "views": "13.0K"
         }
       ]
@@ -174,8 +174,8 @@
       "items": [
         {
           "title": "Lee urges innovation to improve manufacturing industry - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQMjNOZThDay1hdHZFRlR4LWlONlJJOTBLdzN3Y1BuWDhUTnhjZExJSUlGQTZZWkZ6dGJKcGhmUXFoVS1BNm5IVjhtVzJRUFI3MmFSb3dPcDdjaG1uazNjRTRwaFBzYzV0M2puYUVLcmFsdjViYmowRzFZUkgxS1RnYzZlTS1NLVVJcmVDdW1FdnAtcHRIWlpBWnhIeUFyeVRvNXVOMXlRUXdIZUx4M2ZUY0tuWnJjZVnSAbcBQVVfeXFMUDIzTmU4Q2stYXR2RUZUeC1pTjZSSTkwS3czd2NQblg4VE54Y2RMSUlJRkE2WVpGenRiSnBoZlFxaFUtQTZuSFY4bVcyUVBSNzJhUm93T3A3Y2htbmszY0U0cGhQc2M1dDNqbmFFS3JhbHY1YmJqMEcxWVJIMUtUZ2M2ZU0tTS1VSXJlQ3VtRXZwLXB0SFpaQVp4SHlBcnlUbzV1TjF5UVF3SGVMeDNmVGNLblpyY2VZ?oc=5\" target=\"_blank\">Lee urges innovation to improve manufacturing industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMjNOZThDay1hdHZFRlR4LWlONlJJOTBLdzN3Y1BuWDhUTnhjZExJSUlGQTZZWkZ6dGJKcGhmUXFoVS1BNm5IVjhtVzJRUFI3MmFSb3dPcDdjaG1uazNjRTRwaFBzYzV0M2puYUVLcmFsdjViYmowRzFZUkgxS1RnYzZlTS1NLVVJcmVDdW1FdnAtcHRIWlpBWnhIeUFyeVRvNXVOMXlRUXdIZUx4M2ZUY0tuWnJjZVnSAbcBQVVfeXFMUDIzTmU4Q2stYXR2RUZUeC1pTjZSSTkwS3czd2NQblg4VE54Y2RMSUlJRkE2WVpGenRiSnBoZlFxaFUtQTZuSFY4bVcyUVBSNzJhUm93T3A3Y2htbmszY0U0cGhQc2M1dDNqbmFFS3JhbHY1YmJqMEcxWVJIMUtUZ2M2ZU0tTS1VSXJlQ3VtRXZwLXB0SFpaQVp4SHlBcnlUbzV1TjF5UVF3SGVMeDNmVGNLblpyY2VZ?oc=5",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOSzVXVzRuZzFsdWtXZTdOMDhBdTZwVmJpby1vb3ZNWFRpVS1WRDBhVWxzelluNkdXQjNnbFZOQ0p4ajhjSEFMMWlxaG9iVUhlY2FqQlM5eGh2QXVmSHZHN1o5aUhyd1p2OUE4amowNUZKZW9iQjFtSlNpbTRmNllXa2xGSFRRS3hkVVBXci1VcnZxQ1M0N015bnowLWtNWUJ3dnFkMHRQM2IxREo4eE1vakt30gG3AUFVX3lxTFAyM05lOENrLWF0dkVGVHgtaU42Ukk5MEt3M3djUG5YOFROeGNkTElJSUZBNllaRnp0YkpwaGZRcWhVLUE2bkhWOG1XMlFQUjcyYVJvd09wN2NobW5rM2NFNHBoUHNjNXQzam5hRUtyYWx2NWJiajBHMVlSSDFLVGdjNmVNLU0tVUlyZUN1bUV2cC1wdEhaWkFaeEh5QXJ5VG81dU4xeVFRd0hlTHgzZlRjS25acmNlWQ?oc=5\" target=\"_blank\">Lee urges innovation to improve manufacturing industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSzVXVzRuZzFsdWtXZTdOMDhBdTZwVmJpby1vb3ZNWFRpVS1WRDBhVWxzelluNkdXQjNnbFZOQ0p4ajhjSEFMMWlxaG9iVUhlY2FqQlM5eGh2QXVmSHZHN1o5aUhyd1p2OUE4amowNUZKZW9iQjFtSlNpbTRmNllXa2xGSFRRS3hkVVBXci1VcnZxQ1M0N015bnowLWtNWUJ3dnFkMHRQM2IxREo4eE1vakt30gG3AUFVX3lxTFAyM05lOENrLWF0dkVGVHgtaU42Ukk5MEt3M3djUG5YOFROeGNkTElJSUZBNllaRnp0YkpwaGZRcWhVLUE2bkhWOG1XMlFQUjcyYVJvd09wN2NobW5rM2NFNHBoUHNjNXQzam5hRUtyYWx2NWJiajBHMVlSSDFLVGdjNmVNLU0tVUlyZUN1bUV2cC1wdEhaWkFaeEh5QXJ5VG81dU4xeVFRd0hlTHgzZlRjS25acmNlWQ?oc=5",
           "source": "The Korea Times",
           "publishedAt": "2026-04-16",
           "views": "18.0K"
@@ -189,12 +189,12 @@
           "views": "18.0K"
         },
         {
-          "title": "Industry minister inspects manufacturing operations amid petrochem supply woes - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNNkpGM3A0cEVacjNZRmdtOUJPVjJ5QlZrbjFrSnpBZnZWZ3BsTm93cUloblE5RFJpS2VYc3I0dzZKektsd1hFSkhGbDU0SFZuX2VBYVlXVERGLU4wak9JUmctdmFfeFVQaFpZcG9wMVBYT3FVR1JRZmlfbUd3WTF6Mm1YSWdUaDN5aWdSNjlZM3hidzdNLWpxSU8xMnpNWmdwa1FqdjRRSy1TRnRMRFJLMlJ3N2FleDVvUlg5cThnUy1KY3loTFHSAcsBQVVfeXFMUFRfbkpvY2NZQ0Fnb3VBVWhycWE3S194czdwRE5TenduaWdOSzZjZXk3RnJwMXZ2MV9VNzB1blI5X0g4cXlOUVdxMWtZNUNTVXNqX1M4akZvaEU5YTVKY1lxa19WbXdYU3pFMS1OdXZFaTczaVk3ZWhrR0ozQVozdWtvak9EVzZJbHRRbnNTLWVRemgzTnBLbmpad0RjeHo2Rmktb0RaUURPQndJVnRxSVJPNHprNDdqU2FHQ0c5MjhrcmpDQzlJN1FUUzQ?oc=5\" target=\"_blank\">Industry minister inspects manufacturing operations amid petrochem supply woes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNkpGM3A0cEVacjNZRmdtOUJPVjJ5QlZrbjFrSnpBZnZWZ3BsTm93cUloblE5RFJpS2VYc3I0dzZKektsd1hFSkhGbDU0SFZuX2VBYVlXVERGLU4wak9JUmctdmFfeFVQaFpZcG9wMVBYT3FVR1JRZmlfbUd3WTF6Mm1YSWdUaDN5aWdSNjlZM3hidzdNLWpxSU8xMnpNWmdwa1FqdjRRSy1TRnRMRFJLMlJ3N2FleDVvUlg5cThnUy1KY3loTFHSAcsBQVVfeXFMUFRfbkpvY2NZQ0Fnb3VBVWhycWE3S194czdwRE5TenduaWdOSzZjZXk3RnJwMXZ2MV9VNzB1blI5X0g4cXlOUVdxMWtZNUNTVXNqX1M4akZvaEU5YTVKY1lxa19WbXdYU3pFMS1OdXZFaTczaVk3ZWhrR0ozQVozdWtvak9EVzZJbHRRbnNTLWVRemgzTnBLbmpad0RjeHo2Rmktb0RaUURPQndJVnRxSVJPNHprNDdqU2FHQ0c5MjhrcmpDQzlJN1FUUzQ?oc=5",
+          "title": "Shinsegae pivots on AI strategy after dropping OpenAI partnership - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxONVdvTzFPems4aFYzNnM2amZaT2dqb1lmeHUwT2N1NXFWMjZ1ZHJlNHRHLTZqVzlSdndUdVVVUjFTZTA5ZlM4bFRCZ0dZaWJjRjBEcGFzQ01yRDZ4dUFPYVZnREd4eUJzV09ZRmFWaGhYbkQwWTdLQ0hRUnFmb3BBNUdpQ0RHcnFFU0g3TUtOcFdxZVpNdkZfT09SYjNxQmsxaUxnWjdIcXdlVUduNXVzc2FtSllOVWhmaU5ta0h1MNIBxAFBVV95cUxNU0NPdGRqYXFweVoyTHdLb2hFQTF4VUdCOHI5N3N0eWw5amxnVTh3QkV5TFRZdTFObEdVMEVBZXJPem5CdnBrSTNnV0JHZEFOTzZ0ZUFUbndlWnEzQW56WjhmN0FSOFFMdHR6eVFwbFUzZWJub29lakhrWE16RHhlSnkzb0stX0NLY2pjaE4yajI3Wm5oc1lNd09KVDJwOEYwRDR0M0dTYjVfTERsZ2NJWTZ3Nll3Zk90ODdBamJxdk81OEhT?oc=5\" target=\"_blank\">Shinsegae pivots on AI strategy after dropping OpenAI partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONVdvTzFPems4aFYzNnM2amZaT2dqb1lmeHUwT2N1NXFWMjZ1ZHJlNHRHLTZqVzlSdndUdVVVUjFTZTA5ZlM4bFRCZ0dZaWJjRjBEcGFzQ01yRDZ4dUFPYVZnREd4eUJzV09ZRmFWaGhYbkQwWTdLQ0hRUnFmb3BBNUdpQ0RHcnFFU0g3TUtOcFdxZVpNdkZfT09SYjNxQmsxaUxnWjdIcXdlVUduNXVzc2FtSllOVWhmaU5ta0h1MNIBxAFBVV95cUxNU0NPdGRqYXFweVoyTHdLb2hFQTF4VUdCOHI5N3N0eWw5amxnVTh3QkV5TFRZdTFObEdVMEVBZXJPem5CdnBrSTNnV0JHZEFOTzZ0ZUFUbndlWnEzQW56WjhmN0FSOFFMdHR6eVFwbFUzZWJub29lakhrWE16RHhlSnkzb0stX0NLY2pjaE4yajI3Wm5oc1lNd09KVDJwOEYwRDR0M0dTYjVfTERsZ2NJWTZ3Nll3Zk90ODdBamJxdk81OEhT?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-04-13",
-          "views": "18.0K"
+          "publishedAt": "2026-04-19",
+          "views": "13.0K"
         }
       ]
     }
