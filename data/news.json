@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-21T06:25:39.619Z",
+  "lastUpdated": "2026-04-22T06:25:47.549Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,26 +49,26 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
+          "title": "OpenAI Beefs Up ChatGPT’s Image Generation Model - WIRED",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQckNSbDJtMk4yd1NfSThMVUxpYVRKT0VFaTZucVN6cnlaTVBoWDNSSF82Y0Z2ZGVDMlBLRmVXWDlxZm1fZ28zRC1DU0RfMlVQTHM1b2daU28zdUxCTnFoZEhJLUNEemJFa0VEY1JMWFFLRkNEZloxVUFhbVI0VWhLREFR?oc=5\" target=\"_blank\">OpenAI Beefs Up ChatGPT’s Image Generation Model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQckNSbDJtMk4yd1NfSThMVUxpYVRKT0VFaTZucVN6cnlaTVBoWDNSSF82Y0Z2ZGVDMlBLRmVXWDlxZm1fZ28zRC1DU0RfMlVQTHM1b2daU28zdUxCTnFoZEhJLUNEemJFa0VEY1JMWFFLRkNEZloxVUFhbVI0VWhLREFR?oc=5",
+          "source": "WIRED AI",
+          "publishedAt": "2026-04-21",
+          "views": "18.0K"
+        },
+        {
+          "title": "ChatGPT’s new Images 2.0 model is surprisingly good at generating text - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQV243cnVoVEpZRWE5c1dOOERka3NYRGhGQ3RKTEE2Tk1XMGpITVhJaGtwNjY3REtWWVJ2LUVZQUFhZE95NGp1NkpWX05HeHZWOUZWMWlfWWVBaHRHYWhIek00Q00yRzRCQ04xYjJNSDU2elh2ejNpRnF6WWpjT192aVpRdW5GVnlxSmJiQ2lfMXZvNWFnVDZMNjNOUzFUOFlwZmp1N1M3NA?oc=5\" target=\"_blank\">ChatGPT’s new Images 2.0 model is surprisingly good at generating text</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQV243cnVoVEpZRWE5c1dOOERka3NYRGhGQ3RKTEE2Tk1XMGpITVhJaGtwNjY3REtWWVJ2LUVZQUFhZE95NGp1NkpWX05HeHZWOUZWMWlfWWVBaHRHYWhIek00Q00yRzRCQ04xYjJNSDU2elh2ejNpRnF6WWpjT192aVpRdW5GVnlxSmJiQ2lfMXZvNWFnVDZMNjNOUzFUOFlwZmp1N1M3NA?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-04-21",
+          "views": "18.0K"
+        },
+        {
           "title": "Anthropic releases Claude Opus 4.7, narrowly retaking lead for most powerful generally available LLM - VentureBeat",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNYlRYYzF4VzBLeVlxR21DZUhOS2xqN3R5OGE2Snpndlhxa1dKRkswY3hGVW16RlNmX0h3RUsySE1oU2xJWVU2UDIzZHF0UVRxX2hEN1U0b1FaSHFCaVoyY0Rxb0VrUE5CMnE1a0p6d3NZanFLMEc1eWswV2x5NTg5UGF1SU9zeFIzZlhwV0VmajliWlNidktuanNmblBhTGdZUk1DMTZ5SXlVcGl1RlcyWWs3cFVmb1ZkdjMxMWdWQTFMMXZqdm9ZRy1vM0RMOVU?oc=5\" target=\"_blank\">Anthropic releases Claude Opus 4.7, narrowly retaking lead for most powerful generally available LLM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYlRYYzF4VzBLeVlxR21DZUhOS2xqN3R5OGE2Snpndlhxa1dKRkswY3hGVW16RlNmX0h3RUsySE1oU2xJWVU2UDIzZHF0UVRxX2hEN1U0b1FaSHFCaVoyY0Rxb0VrUE5CMnE1a0p6d3NZanFLMEc1eWswV2x5NTg5UGF1SU9zeFIzZlhwV0VmajliWlNidktuanNmblBhTGdZUk1DMTZ5SXlVcGl1RlcyWWs3cFVmb1ZkdjMxMWdWQTFMMXZqdm9ZRy1vM0RMOVU?oc=5",
           "source": "VentureBeat AI",
-          "publishedAt": "2026-04-16",
-          "views": "18.0K"
-        },
-        {
-          "title": "OpenAI debuts GPT-Rosalind, a new limited access model for life sciences, and broader Codex plugin on Github - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPU0c4SUx1dFh5SFNlNXdEdzM4WWx2LXhvTE1oUFR4eTVKTzBLcklqMUh5dHh2MTFrSGZYaks2d2s3WnlCWDhNdGhubnRXdkpXYk1zY1lSeEY5RWYwMWl3RVVucHBWNEZrOG1CTkdOV0hodmtWWV9wWnl4Y1dyb1JmenBqUkltb0pOZ01sR0tMVkhJYW9tdUcyZVdkZ2lTd2paTVYtSXVNX0NLaTJ3czBLZEJJVm5hYnFBQnMwM244NWJ0dFR6aFQ1WmJrZjdNR044d2c3aGtCamE?oc=5\" target=\"_blank\">OpenAI debuts GPT-Rosalind, a new limited access model for life sciences, and broader Codex plugin on Github</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPU0c4SUx1dFh5SFNlNXdEdzM4WWx2LXhvTE1oUFR4eTVKTzBLcklqMUh5dHh2MTFrSGZYaks2d2s3WnlCWDhNdGhubnRXdkpXYk1zY1lSeEY5RWYwMWl3RVVucHBWNEZrOG1CTkdOV0hodmtWWV9wWnl4Y1dyb1JmenBqUkltb0pOZ01sR0tMVkhJYW9tdUcyZVdkZ2lTd2paTVYtSXVNX0NLaTJ3czBLZEJJVm5hYnFBQnMwM244NWJ0dFR6aFQ1WmJrZjdNR044d2c3aGtCamE?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-04-16",
-          "views": "18.0K"
-        },
-        {
-          "title": "OpenAI launches AI model GPT-Rosalind for life sciences research - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNVW1lVG9kQXRYc1hlRFZ4UVlGaWlUcENoRzRlUDNzYnJSWDN4bG9YbFhzaHdqY0R2Qmc5dEdYVTU5QlJBYVBFTXBUY2phS2dDQk9WeGdvUm1SLUlxMGhrTHZMQUJOQlMzZnl2Nmw5ZTJIdXg4bV9TVVh5V09VN0hFbFFIdlZsclNMUklKbkZaQVVFOXJKWThDVEFiYnFDNVR5REdGTmUyS0dveFEwcVhXZ3JWSXMtSWV2ZEFxWWZkUEVtc3d4UFZxdlpzTWQ?oc=5\" target=\"_blank\">OpenAI launches AI model GPT-Rosalind for life sciences research</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVW1lVG9kQXRYc1hlRFZ4UVlGaWlUcENoRzRlUDNzYnJSWDN4bG9YbFhzaHdqY0R2Qmc5dEdYVTU5QlJBYVBFTXBUY2phS2dDQk9WeGdvUm1SLUlxMGhrTHZMQUJOQlMzZnl2Nmw5ZTJIdXg4bV9TVVh5V09VN0hFbFFIdlZsclNMUklKbkZaQVVFOXJKWThDVEFiYnFDNVR5REdGTmUyS0dveFEwcVhXZ3JWSXMtSWV2ZEFxWWZkUEVtc3d4UFZxdlpzTWQ?oc=5",
-          "source": "Reuters AI",
           "publishedAt": "2026-04-16",
           "views": "18.0K"
         }
@@ -79,6 +79,14 @@
       "hashtag": "#활용사례",
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
+        {
+          "title": "Kimi K2.6 runs agents for days — and exposes the limits of enterprise orchestration - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR1IySUdLMmtFaTI0dy1qOU0xVDAtUHh1RHVuNWJmdTFwcWREV21KeHJiVGlJQTZzNUJqVVA0dHFZVm5id1U5dmxFbkIwVWpGZDRZeDdlODVGMDVKcWFNQU00ajl5cTFLYTN5UnhfQV9QTmN2dDdzTWxUeGM0amY0THZYRkNOMkExX25jVkxpN3NrbW5EamZUVnFTY1BIR0ZBVFNpUkRDZXRvWDdYVHA4eE91WHNjVUk1Vldv?oc=5\" target=\"_blank\">Kimi K2.6 runs agents for days — and exposes the limits of enterprise orchestration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR1IySUdLMmtFaTI0dy1qOU0xVDAtUHh1RHVuNWJmdTFwcWREV21KeHJiVGlJQTZzNUJqVVA0dHFZVm5id1U5dmxFbkIwVWpGZDRZeDdlODVGMDVKcWFNQU00ajl5cTFLYTN5UnhfQV9QTmN2dDdzTWxUeGM0amY0THZYRkNOMkExX25jVkxpN3NrbW5EamZUVnFTY1BIR0ZBVFNpUkRDZXRvWDdYVHA4eE91WHNjVUk1Vldv?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-04-21",
+          "views": "18.0K"
+        },
         {
           "title": "Should my enterprise AI agent do that? NanoClaw and Vercel launch easier agentic policy setting and approval dialogs across 15 messaging apps - VentureBeat",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxPbUVFYVJvX2ZLR0RVeUQtY1B5bXFIMzVNWlZpT1llLVRvWHZlcVZyUENuaFFabUk2Y1lGRmRDaFZuUFBLbmd3TEFQVW5nWHF2TmRDRC1Wa2hWd1BYYm5KY3ZNOHBCVm1yRUVNMmU1MjFHU0xvbG1jNElCMHVpR1JtUWpGRXdCb1JvcHh0M2lObHE0dnZrQnJ2RUxaZi1DSzliQ3lSUE9ycExFSEl6YlhxMHRSdDVVTjluQ0lObFg0M2pVUldGWGV4TUxkLVpWMDlwa2ZwTFg3ck83a2hMakVtVnIweFFGR1JhWEJUVDBMUHYzTjl5ZGF5QTVnc0hyVmR5T1YwbnF5eHkydw?oc=5\" target=\"_blank\">Should my enterprise AI agent do that? NanoClaw and Vercel launch easier agentic policy setting and approval dialogs across 15 messaging apps</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
@@ -94,14 +102,6 @@
           "source": "VentureBeat AI",
           "publishedAt": "2026-04-17",
           "views": "18.0K"
-        },
-        {
-          "title": "Roblox’s AI assistant gets new agentic tools to plan, build, and test games - TechCrunch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxON1NjVTFVMkFOWW1WV3JDTnk5b1VZcWo1UjhZLVRsVWxnRUlVUk9yazNJM3pFUUp0ekhCSkhVYTJJY1B2VVV2WEMtRzhUem9tVmFVcGNTODYwbGhUdF9pY3h0VURSSGFXN3l5TFBQZ203MlRndEk5cmdrWTc0eUxrWWZJS3RueTA5d0lmUG93SjlrbFV6SXhJb1VRNVcwbHRfbzhMQmxIME5FMjg?oc=5\" target=\"_blank\">Roblox’s AI assistant gets new agentic tools to plan, build, and test games</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON1NjVTFVMkFOWW1WV3JDTnk5b1VZcWo1UjhZLVRsVWxnRUlVUk9yazNJM3pFUUp0ekhCSkhVYTJJY1B2VVV2WEMtRzhUem9tVmFVcGNTODYwbGhUdF9pY3h0VURSSGFXN3l5TFBQZ203MlRndEk5cmdrWTc0eUxrWWZJS3RueTA5d0lmUG93SjlrbFV6SXhJb1VRNVcwbHRfbzhMQmxIME5FMjg?oc=5",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-04-16",
-          "views": "18.0K"
         }
       ]
     },
@@ -111,28 +111,28 @@
       "description": "규제, 책임, 신뢰, 저작권 같은 문제를 보는 관점",
       "items": [
         {
+          "title": "New BOK governor pledges 'flexible' monetary policy amid Middle East risks - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaVI5a2ZySmFFYnRId2ZfVFlyVFBDY2lucUhCYS1BOEtSaVRjaWw4ZENVZkRLdG93MU5KSTRmNlY2cnc2clFUQnI5bGpPWlg2REN5ZjVKZ0tQRmp5cmdWSllEcHR3ZWtud0JCTmduVDBmaG9meG9KVXBGZW9BNWROMzREZGtsYXQ3SVNRa2YxSkZnVjBUTVlnbDhJUG1nTDZ1Nm5lOXJYOVFnYWFHQ215OWpCeTlrblc1UGYteHhlU3VzanVUQXZjTdIByAFBVV95cUxPaVI5a2ZySmFFYnRId2ZfVFlyVFBDY2lucUhCYS1BOEtSaVRjaWw4ZENVZkRLdG93MU5KSTRmNlY2cnc2clFUQnI5bGpPWlg2REN5ZjVKZ0tQRmp5cmdWSllEcHR3ZWtud0JCTmduVDBmaG9meG9KVXBGZW9BNWROMzREZGtsYXQ3SVNRa2YxSkZnVjBUTVlnbDhJUG1nTDZ1Nm5lOXJYOVFnYWFHQ215OWpCeTlrblc1UGYteHhlU3VzanVUQXZjTQ?oc=5\" target=\"_blank\">New BOK governor pledges 'flexible' monetary policy amid Middle East risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaVI5a2ZySmFFYnRId2ZfVFlyVFBDY2lucUhCYS1BOEtSaVRjaWw4ZENVZkRLdG93MU5KSTRmNlY2cnc2clFUQnI5bGpPWlg2REN5ZjVKZ0tQRmp5cmdWSllEcHR3ZWtud0JCTmduVDBmaG9meG9KVXBGZW9BNWROMzREZGtsYXQ3SVNRa2YxSkZnVjBUTVlnbDhJUG1nTDZ1Nm5lOXJYOVFnYWFHQ215OWpCeTlrblc1UGYteHhlU3VzanVUQXZjTdIByAFBVV95cUxPaVI5a2ZySmFFYnRId2ZfVFlyVFBDY2lucUhCYS1BOEtSaVRjaWw4ZENVZkRLdG93MU5KSTRmNlY2cnc2clFUQnI5bGpPWlg2REN5ZjVKZ0tQRmp5cmdWSllEcHR3ZWtud0JCTmduVDBmaG9meG9KVXBGZW9BNWROMzREZGtsYXQ3SVNRa2YxSkZnVjBUTVlnbDhJUG1nTDZ1Nm5lOXJYOVFnYWFHQ215OWpCeTlrblc1UGYteHhlU3VzanVUQXZjTQ?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-04-21",
+          "views": "18.0K"
+        },
+        {
+          "title": "Bank of Korea's new chief vows cautious, flexible policy amid Iran risks - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPMnR2TVY5SjM1cmlmM3J0Y0RJMGg4ZnpHNDZUY2xjQng4TmNxMWNQSERMbzRMTWV1LXdZRGZGVGtRLVZUNHJWZkxfdHE1N0Nxc3R3aFh4bGFCU1hndUtiYlMxZUE1WlYyRW8xU0kxM29tRk9YbmR3bXBDX240RnJheG4tSnhoXy1uSjExaUNyeFU3ZFdYTG5TWGYyNTg3WE9JOThRN0JtVFNtVkVhUk52azlRamNWUTdHMXpHNUotdw?oc=5\" target=\"_blank\">Bank of Korea's new chief vows cautious, flexible policy amid Iran risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMnR2TVY5SjM1cmlmM3J0Y0RJMGg4ZnpHNDZUY2xjQng4TmNxMWNQSERMbzRMTWV1LXdZRGZGVGtRLVZUNHJWZkxfdHE1N0Nxc3R3aFh4bGFCU1hndUtiYlMxZUE1WlYyRW8xU0kxM29tRk9YbmR3bXBDX240RnJheG4tSnhoXy1uSjExaUNyeFU3ZFdYTG5TWGYyNTg3WE9JOThRN0JtVFNtVkVhUk52azlRamNWUTdHMXpHNUotdw?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-04-21",
+          "views": "18.0K"
+        },
+        {
           "title": "Should my enterprise AI agent do that? NanoClaw and Vercel launch easier agentic policy setting and approval dialogs across 15 messaging apps - VentureBeat",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxPbUVFYVJvX2ZLR0RVeUQtY1B5bXFIMzVNWlZpT1llLVRvWHZlcVZyUENuaFFabUk2Y1lGRmRDaFZuUFBLbmd3TEFQVW5nWHF2TmRDRC1Wa2hWd1BYYm5KY3ZNOHBCVm1yRUVNMmU1MjFHU0xvbG1jNElCMHVpR1JtUWpGRXdCb1JvcHh0M2lObHE0dnZrQnJ2RUxaZi1DSzliQ3lSUE9ycExFSEl6YlhxMHRSdDVVTjluQ0lObFg0M2pVUldGWGV4TUxkLVpWMDlwa2ZwTFg3ck83a2hMakVtVnIweFFGR1JhWEJUVDBMUHYzTjl5ZGF5QTVnc0hyVmR5T1YwbnF5eHkydw?oc=5\" target=\"_blank\">Should my enterprise AI agent do that? NanoClaw and Vercel launch easier agentic policy setting and approval dialogs across 15 messaging apps</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPbUVFYVJvX2ZLR0RVeUQtY1B5bXFIMzVNWlZpT1llLVRvWHZlcVZyUENuaFFabUk2Y1lGRmRDaFZuUFBLbmd3TEFQVW5nWHF2TmRDRC1Wa2hWd1BYYm5KY3ZNOHBCVm1yRUVNMmU1MjFHU0xvbG1jNElCMHVpR1JtUWpGRXdCb1JvcHh0M2lObHE0dnZrQnJ2RUxaZi1DSzliQ3lSUE9ycExFSEl6YlhxMHRSdDVVTjluQ0lObFg0M2pVUldGWGV4TUxkLVpWMDlwa2ZwTFg3ck83a2hMakVtVnIweFFGR1JhWEJUVDBMUHYzTjl5ZGF5QTVnc0hyVmR5T1YwbnF5eHkydw?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-04-17",
           "views": "18.0K"
-        },
-        {
-          "title": "Banks to tighten lending criteria in Q2 amid credit risk concerns: BOK survey - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQTWd1MklBbF9MQktnOWZoSHpxd2t1UWdsNXQ4WmUyNEE4aUw2QzVLTVJGSjJWNmFxdURwZWg1OXRwa2RacGRrWHJ4cFp6NUQtLW1JRGxrN1FYSDNwbVgtYjZOcVdScnhXaUNKV0c5WnlPeWRGYVdkOTNYenRhek9pX19INVhvbWFJYS1rQlBsdW9lTmFzUnNEZWJteDBSWldFNUxSSmNpUlJQMm5HVlNJMThDc3FKYm9qd3JzSzg0UdIBxAFBVV95cUxOOXhSRHd0SURRZWNGMU5rVmo2M0lhaU1jSVhadEVPWGVISklvX3dZUWpSTHVYQUxTcGRxV2REUVJmTDUydWpDaVlHWF92M21mbFFMMkJESnZya0xKbXgtRW9na0lodTBnNFhFa2tRNDJndTJselRzMElzcEhKQllxTlkyckRCX3NsVXBsVlQ5dGhndlp2bTh0eFJOcDJCOUdNVHhZWE5YcUNJT0tjS0lFME5DWlFsajU1TTJHQU9XZ0hUY0ZL?oc=5\" target=\"_blank\">Banks to tighten lending criteria in Q2 amid credit risk concerns: BOK survey</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTWd1MklBbF9MQktnOWZoSHpxd2t1UWdsNXQ4WmUyNEE4aUw2QzVLTVJGSjJWNmFxdURwZWg1OXRwa2RacGRrWHJ4cFp6NUQtLW1JRGxrN1FYSDNwbVgtYjZOcVdScnhXaUNKV0c5WnlPeWRGYVdkOTNYenRhek9pX19INVhvbWFJYS1rQlBsdW9lTmFzUnNEZWJteDBSWldFNUxSSmNpUlJQMm5HVlNJMThDc3FKYm9qd3JzSzg0UdIBxAFBVV95cUxOOXhSRHd0SURRZWNGMU5rVmo2M0lhaU1jSVhadEVPWGVISklvX3dZUWpSTHVYQUxTcGRxV2REUVJmTDUydWpDaVlHWF92M21mbFFMMkJESnZya0xKbXgtRW9na0lodTBnNFhFa2tRNDJndTJselRzMElzcEhKQllxTlkyckRCX3NsVXBsVlQ5dGhndlp2bTh0eFJOcDJCOUdNVHhZWE5YcUNJT0tjS0lFME5DWlFsajU1TTJHQU9XZ0hUY0ZL?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-04-21",
-          "views": "13.0K"
-        },
-        {
-          "title": "With tariffs stalled, Trump's China policy drifts - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOTXlVcm1fYUVaWTdvQmRYby1jQi1iRmFTZmtSdTJKYklrRXBBTmo2WlBIQzRwQ3Qwd3ZHZDBZVHhTLVNCQ3BOdHR0N1NkaDNKaFJ3SUlBV1BTUUZqaUdleGprRTJBazg3TnlYeUxpaFZzb3RVZ3pXVDI4Zk9yRGtNdTNTaDBreHBIdFpOdm1aRklpSE1SbXJn?oc=5\" target=\"_blank\">With tariffs stalled, Trump's China policy drifts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTXlVcm1fYUVaWTdvQmRYby1jQi1iRmFTZmtSdTJKYklrRXBBTmo2WlBIQzRwQ3Qwd3ZHZDBZVHhTLVNCQ3BOdHR0N1NkaDNKaFJ3SUlBV1BTUUZqaUdleGprRTJBazg3TnlYeUxpaFZzb3RVZ3pXVDI4Zk9yRGtNdTNTaDBreHBIdFpOdm1aRklpSE1SbXJn?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-04-21",
-          "views": "13.0K"
         }
       ]
     },
@@ -142,26 +142,26 @@
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
         {
+          "title": "Catalonia aims to balance Chinese investments, prioritising local jobs - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPTjlra05PY2VtQUZOLWJmeGlSTWYxbjZTR1dSYU5jQWRONTViZFQtVkhYeWt5cnRpSVBjdXBWMGQ2OWNSSkljZ19RZWNBSHJhNUJ3SXlmaEtIT2tZMlMyN3IxVFNzTF8yRkJQRjBoNWpxcDBuaFB4MlFtWkV4Mmt5X0N3a1M0Zmlxb1MzUVE4N3JuYzZrb0ZTMGtET3MtVUFwRlBpZ1RiRVFwdjVPUW9ibHRuX0g?oc=5\" target=\"_blank\">Catalonia aims to balance Chinese investments, prioritising local jobs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTjlra05PY2VtQUZOLWJmeGlSTWYxbjZTR1dSYU5jQWRONTViZFQtVkhYeWt5cnRpSVBjdXBWMGQ2OWNSSkljZ19RZWNBSHJhNUJ3SXlmaEtIT2tZMlMyN3IxVFNzTF8yRkJQRjBoNWpxcDBuaFB4MlFtWkV4Mmt5X0N3a1M0Zmlxb1MzUVE4N3JuYzZrb0ZTMGtET3MtVUFwRlBpZ1RiRVFwdjVPUW9ibHRuX0g?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-04-20",
+          "views": "18.0K"
+        },
+        {
+          "title": "South Korea, Vietnam leaders to meet as Hanoi seeks high-tech investment - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQX1AyNURaRFJaQmxHa1lOSXNTUjVtdDEzWEtpT3owUnM0VTRVZG5ibjBwMmJrb2l1bHlYdDZmTmdNTVlveHp6YU95M3dVVGQ2bXBaNWlhRk1ORWItemFSYkRhZWQ1SkdvbEhSM3N6TmFMa1FqNTBDNGEtMkRnWkxhQ2tDcG1CRnBkYTQtOFpGbUhUTkJ3RkY2bTBFTnI?oc=5\" target=\"_blank\">South Korea, Vietnam leaders to meet as Hanoi seeks high-tech investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX1AyNURaRFJaQmxHa1lOSXNTUjVtdDEzWEtpT3owUnM0VTRVZG5ibjBwMmJrb2l1bHlYdDZmTmdNTVlveHp6YU95M3dVVGQ2bXBaNWlhRk1ORWItemFSYkRhZWQ1SkdvbEhSM3N6TmFMa1FqNTBDNGEtMkRnWkxhQ2tDcG1CRnBkYTQtOFpGbUhUTkJ3RkY2bTBFTnI?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-04-22",
+          "views": "13.0K"
+        },
+        {
           "title": "Japan opens door to global arms market with biggest export rule change in decades - The Korea Times",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSElrdXZjQkFWdmx0RFdYZ2YxSllRdllHTTBlZFkxOGtxU2xWWnJiTy1zaEtfYi14dlJXVkZlRkRPMDRya25pRkRISGJIdzdvNERMSW03WXNWUkdlWTFGU1h4MXZhNHJpSXFiZUdLV0xpTFRSeW1oNFBjN0dRMEpEWmpOU1N3NTFIR0NoV3RBRTRIVFcxRFpCR0R5UGttVjR1QUhVZjBNUWJWRXpzRWprWl9zV0hmcWFyTEEyWC1kWW12VjTSAcgBQVVfeXFMUHJQbUNuMmpQRlZXb0c5M1lkSGJuZHFfSVplRE0zTnNMWldlNDk3QlUzTE1zY19ZOFRfM3l1aU1fQTQxZnJqb3ZaNm40X3B4dFhkWjdjeXpORGZ4bEpJSGt1SXNCbHlWTjNxM0lwVFlXMEczYmpvN2lPXzNxZnV4Mmw1RGlkQlN5Qi11emY3MW9TbU1yOUtSYUtrTFFFbzdKZnJwUUx5WjBiTGxCTHpfZmZCV1NHRnBHb2ticnkzcDhDbkI0M3ZhOUg?oc=5\" target=\"_blank\">Japan opens door to global arms market with biggest export rule change in decades</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSElrdXZjQkFWdmx0RFdYZ2YxSllRdllHTTBlZFkxOGtxU2xWWnJiTy1zaEtfYi14dlJXVkZlRkRPMDRya25pRkRISGJIdzdvNERMSW03WXNWUkdlWTFGU1h4MXZhNHJpSXFiZUdLV0xpTFRSeW1oNFBjN0dRMEpEWmpOU1N3NTFIR0NoV3RBRTRIVFcxRFpCR0R5UGttVjR1QUhVZjBNUWJWRXpzRWprWl9zV0hmcWFyTEEyWC1kWW12VjTSAcgBQVVfeXFMUHJQbUNuMmpQRlZXb0c5M1lkSGJuZHFfSVplRE0zTnNMWldlNDk3QlUzTE1zY19ZOFRfM3l1aU1fQTQxZnJqb3ZaNm40X3B4dFhkWjdjeXpORGZ4bEpJSGt1SXNCbHlWTjNxM0lwVFlXMEczYmpvN2lPXzNxZnV4Mmw1RGlkQlN5Qi11emY3MW9TbU1yOUtSYUtrTFFFbzdKZnJwUUx5WjBiTGxCTHpfZmZCV1NHRnBHb2ticnkzcDhDbkI0M3ZhOUg?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-04-21",
-          "views": "13.0K"
-        },
-        {
-          "title": "Japan opens door to global arms market with overhaul of defence export rules - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRHJzZC1WNnlrc2k5dTNNODNIa1dKSTJHSjdKWC1aR1lrWTRwczREQ3BQRUZWcVpnSllmVlNsZHNsNEd6Mm9BbTdacnFWN2t2bUFfMGdCOFdzaTdNUFJPcl9DRV9aTWlBTlRCOElWRUdqR3BlRmJuZURtdklsemJpbEVpVl9tM0FLM1NKZHBrRVFHc01Yc3hzWVlaVkJZUzdJZUN1R2hPNDJrdnNqcEJfamFtUG82bkxXXzVxelRnY0M?oc=5\" target=\"_blank\">Japan opens door to global arms market with overhaul of defence export rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRHJzZC1WNnlrc2k5dTNNODNIa1dKSTJHSjdKWC1aR1lrWTRwczREQ3BQRUZWcVpnSllmVlNsZHNsNEd6Mm9BbTdacnFWN2t2bUFfMGdCOFdzaTdNUFJPcl9DRV9aTWlBTlRCOElWRUdqR3BlRmJuZURtdklsemJpbEVpVl9tM0FLM1NKZHBrRVFHc01Yc3hzWVlaVkJZUzdJZUN1R2hPNDJrdnNqcEJfamFtUG82bkxXXzVxelRnY0M?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-04-21",
-          "views": "13.0K"
-        },
-        {
-          "title": "Jeff Bezos' AI lab nears $38 billion valuation in funding deal, FT reports - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNeWVBNjZ0aGR2WVdEbFZVVVdMR0Q4LUxja2Q2Ynh3UGNLTjZvdVEzZzhMb2g4eXJGdXhSWU9QZWR3UFVUOFN5c3NJZUJ6VVMtSHB3SkpSMTA4UGUzV25pMnRHTkp3NWF5c1ZzM2NzZmxlYlk3cUlVemU0MTNNLTZPTG5PYzNOZVJCS1FJdV9ZZ2M1UDJON1NFY0R6LWtaWGdmN2VqOFpGX0dLVFRkd3ZVNmxGX2hYUQ?oc=5\" target=\"_blank\">Jeff Bezos' AI lab nears $38 billion valuation in funding deal, FT reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeWVBNjZ0aGR2WVdEbFZVVVdMR0Q4LUxja2Q2Ynh3UGNLTjZvdVEzZzhMb2g4eXJGdXhSWU9QZWR3UFVUOFN5c3NJZUJ6VVMtSHB3SkpSMTA4UGUzV25pMnRHTkp3NWF5c1ZzM2NzZmxlYlk3cUlVemU0MTNNLTZPTG5PYzNOZVJCS1FJdV9ZZ2M1UDJON1NFY0R6LWtaWGdmN2VqOFpGX0dLVFRkd3ZVNmxGX2hYUQ?oc=5",
-          "source": "Reuters AI",
           "publishedAt": "2026-04-21",
           "views": "13.0K"
         }
@@ -181,19 +181,19 @@
           "views": "18.0K"
         },
         {
+          "title": "AMF Holdings joins new alliance to modernize Korea's global tourism strategy - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQTElWUUUyWUZ1VnloVkx0aVRKWHZ1RDNsZzItM1g4QXRsNmk5Q1ktTWVkVkJvSFl0QlU3cmZ0QUpqRFlabGJYSllqNEhJcWZMQ2VBMnIySTB2UW14VnV2bk0xT0VvRktFajVtbWc3SmwtNmR2OExGZjg2OUFYZjdYV2RZaFlYUzRLbUVyVl9OcHV6U29iMFl1Z0ZRdXFCTDNlcVVXS0ZsT0I4b29WVFZ2aEt1SzR3Z2s4ckZjNThnZEcxVXRFWTJV0gHHAUFVX3lxTFBMSVZRRTJZRnVWeWhWTHRpVEpYdnVEM2xnMi0zWDhBdGw2aTlDWS1NZWRWQm9IWXRCVTdyZnRBSmpEWVpsYlhKWWo0SElxZkxDZUEycjJJMHZRbXhWdXZuTTFPRW9GS0VqNW1tZzdKbC02ZHY4TEZmODY5QVhmN1hXZFloWVhTNEttRXJWX05wdXpTb2IwWXVnRlF1cUJMM2VxVVdLRmxPQjhvb1ZUVnZoS3VLNHdnazhyRmM1OGdkRzFVdEVZMlU?oc=5\" target=\"_blank\">AMF Holdings joins new alliance to modernize Korea's global tourism strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTElWUUUyWUZ1VnloVkx0aVRKWHZ1RDNsZzItM1g4QXRsNmk5Q1ktTWVkVkJvSFl0QlU3cmZ0QUpqRFlabGJYSllqNEhJcWZMQ2VBMnIySTB2UW14VnV2bk0xT0VvRktFajVtbWc3SmwtNmR2OExGZjg2OUFYZjdYV2RZaFlYUzRLbUVyVl9OcHV6U29iMFl1Z0ZRdXFCTDNlcVVXS0ZsT0I4b29WVFZ2aEt1SzR3Z2s4ckZjNThnZEcxVXRFWTJV0gHHAUFVX3lxTFBMSVZRRTJZRnVWeWhWTHRpVEpYdnVEM2xnMi0zWDhBdGw2aTlDWS1NZWRWQm9IWXRCVTdyZnRBSmpEWVpsYlhKWWo0SElxZkxDZUEycjJJMHZRbXhWdXZuTTFPRW9GS0VqNW1tZzdKbC02ZHY4TEZmODY5QVhmN1hXZFloWVhTNEttRXJWX05wdXpTb2IwWXVnRlF1cUJMM2VxVVdLRmxPQjhvb1ZUVnZoS3VLNHdnazhyRmM1OGdkRzFVdEVZMlU?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-04-22",
+          "views": "13.0K"
+        },
+        {
           "title": "Culture minister signs co-production deal with Indian film industry leaders - The Korea Times",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNT19IaHd5VzdQcXBIRW5BN0pEelhzdko0SkxXMDBUamZnWU1SU2ZZcFdnTFVyN3pkcW5STjJUeEYwb2l5dnV5OENRdDVTbmVFVEhVZ05TMFVYdGFBUGtmOWtReXJmcGI1TkF5M3R3QkVidkVQQWp6bDdWclI3V2Q5bUNZdUtlTE5nUDE4TTlOQVRZXzlwbTEwaDFVRFFCX2tPZGlHSnowTXIyQ1A4SlllaWt2Mi1sSWdoeERTbjlDT0lEcTByWnExTHQ5YTNGZ9IB0wFBVV95cUxOeld5dkpHRFNwRFFvV1drU0lWcXFST3Vrc2VTeHItbExmZzlDWWpMTFA1YUw0aEQ4SmtYdXM2dTF3SmhyeGhBYmo5ZEREWkh3OUg3U1ZCMEZuVUM0U2kwdDYxTXBmQ05ZbU43OHVGaDA4TVJBQnlmOVR1VF84T2NYVGcyWVJQblBxamJXXzB3VUF0Vzl5MWhmdzdUVjd2REhWUC15NUFKMnBPelRvcTNYQzVUWmwweVFqOHZqOTFzY2hvelcwTWMweUd3RmxYc2hiSl9B?oc=5\" target=\"_blank\">Culture minister signs co-production deal with Indian film industry leaders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNT19IaHd5VzdQcXBIRW5BN0pEelhzdko0SkxXMDBUamZnWU1SU2ZZcFdnTFVyN3pkcW5STjJUeEYwb2l5dnV5OENRdDVTbmVFVEhVZ05TMFVYdGFBUGtmOWtReXJmcGI1TkF5M3R3QkVidkVQQWp6bDdWclI3V2Q5bUNZdUtlTE5nUDE4TTlOQVRZXzlwbTEwaDFVRFFCX2tPZGlHSnowTXIyQ1A4SlllaWt2Mi1sSWdoeERTbjlDT0lEcTByWnExTHQ5YTNGZ9IB0wFBVV95cUxOeld5dkpHRFNwRFFvV1drU0lWcXFST3Vrc2VTeHItbExmZzlDWWpMTFA1YUw0aEQ4SmtYdXM2dTF3SmhyeGhBYmo5ZEREWkh3OUg3U1ZCMEZuVUM0U2kwdDYxTXBmQ05ZbU43OHVGaDA4TVJBQnlmOVR1VF84T2NYVGcyWVJQblBxamJXXzB3VUF0Vzl5MWhmdzdUVjd2REhWUC15NUFKMnBPelRvcTNYQzVUWmwweVFqOHZqOTFzY2hvelcwTWMweUd3RmxYc2hiSl9B?oc=5",
           "source": "The Korea Times",
           "publishedAt": "2026-04-21",
-          "views": "13.0K"
-        },
-        {
-          "title": "Bezos' Blue Origin space company ordered to probe upper-stage rocket failure - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNMGtoZ0lNU0M0M1h2dm5INkxCUEU2M09ELU9qTklYV3lPWEw5M2hpS0pYdklUQU9SUGNacldBTXloNVJqdkFmSUNZMDRteGxxNkpPTThUaUtiYTYzcUNRc0tyWnV1QWF2SmFkRnZVZXRESEFpNlJaQkdsRnA2TEJBSnNZU2hJTU4zdUVtbGVBakV5VDhuSXBGemZUUTc0eUxVSzNKYlJWdjluVEU2V0g2SURWc1E?oc=5\" target=\"_blank\">Bezos' Blue Origin space company ordered to probe upper-stage rocket failure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMGtoZ0lNU0M0M1h2dm5INkxCUEU2M09ELU9qTklYV3lPWEw5M2hpS0pYdklUQU9SUGNacldBTXloNVJqdkFmSUNZMDRteGxxNkpPTThUaUtiYTYzcUNRc0tyWnV1QWF2SmFkRnZVZXRESEFpNlJaQkdsRnA2TEJBSnNZU2hJTU4zdUVtbGVBakV5VDhuSXBGemZUUTc0eUxVSzNKYlJWdjluVEU2V0g2SURWc1E?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-04-20",
           "views": "13.0K"
         }
       ]
