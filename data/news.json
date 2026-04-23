@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T06:25:47.549Z",
+  "lastUpdated": "2026-04-23T06:29:33.885Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,6 +49,14 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
+          "title": "OpenAI launches Privacy Filter, an open source, on-device data sanitization model that removes personal information from enterprise datasets - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRmZVY2xVTVhVYkxvNDdfQWJibko3amF0dmRiakRMellmd0djNTdIY0FSMS1XcHlSaWE1WEpsZ3NZS1FsbVRudk9FdS14Z2xseXFLZEFiSWhpWmZONXZrZktzd0p0MnMzSDJTU0h3Tzh6ZzB2UG81bGtFR2tfVFZ1VWFhWEpCem9LeVFZYzNqX0NGNlRmcGxJQTZOVkFydDNVUTJFdEhNWl9NWTVvZlJvYXlWa0RjYjZZaWt1U1Jicy15bXU4clp3SzZiSXNQM0o4bGtCZl9LSjRwVkdTNmhKemtPNi0yYnZLdXV5NU5FRkFsUDZ0RERZeEJLaw?oc=5\" target=\"_blank\">OpenAI launches Privacy Filter, an open source, on-device data sanitization model that removes personal information from enterprise datasets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRmZVY2xVTVhVYkxvNDdfQWJibko3amF0dmRiakRMellmd0djNTdIY0FSMS1XcHlSaWE1WEpsZ3NZS1FsbVRudk9FdS14Z2xseXFLZEFiSWhpWmZONXZrZktzd0p0MnMzSDJTU0h3Tzh6ZzB2UG81bGtFR2tfVFZ1VWFhWEpCem9LeVFZYzNqX0NGNlRmcGxJQTZOVkFydDNVUTJFdEhNWl9NWTVvZlJvYXlWa0RjYjZZaWt1U1Jicy15bXU4clp3SzZiSXNQM0o4bGtCZl9LSjRwVkdTNmhKemtPNi0yYnZLdXV5NU5FRkFsUDZ0RERZeEJLaw?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-04-22",
+          "views": "18.0K"
+        },
+        {
           "title": "OpenAI Beefs Up ChatGPT’s Image Generation Model - WIRED",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQckNSbDJtMk4yd1NfSThMVUxpYVRKT0VFaTZucVN6cnlaTVBoWDNSSF82Y0Z2ZGVDMlBLRmVXWDlxZm1fZ28zRC1DU0RfMlVQTHM1b2daU28zdUxCTnFoZEhJLUNEemJFa0VEY1JMWFFLRkNEZloxVUFhbVI0VWhLREFR?oc=5\" target=\"_blank\">OpenAI Beefs Up ChatGPT’s Image Generation Model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQckNSbDJtMk4yd1NfSThMVUxpYVRKT0VFaTZucVN6cnlaTVBoWDNSSF82Y0Z2ZGVDMlBLRmVXWDlxZm1fZ28zRC1DU0RfMlVQTHM1b2daU28zdUxCTnFoZEhJLUNEemJFa0VEY1JMWFFLRkNEZloxVUFhbVI0VWhLREFR?oc=5",
@@ -63,14 +71,6 @@
           "source": "TechCrunch AI",
           "publishedAt": "2026-04-21",
           "views": "18.0K"
-        },
-        {
-          "title": "Anthropic releases Claude Opus 4.7, narrowly retaking lead for most powerful generally available LLM - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNYlRYYzF4VzBLeVlxR21DZUhOS2xqN3R5OGE2Snpndlhxa1dKRkswY3hGVW16RlNmX0h3RUsySE1oU2xJWVU2UDIzZHF0UVRxX2hEN1U0b1FaSHFCaVoyY0Rxb0VrUE5CMnE1a0p6d3NZanFLMEc1eWswV2x5NTg5UGF1SU9zeFIzZlhwV0VmajliWlNidktuanNmblBhTGdZUk1DMTZ5SXlVcGl1RlcyWWs3cFVmb1ZkdjMxMWdWQTFMMXZqdm9ZRy1vM0RMOVU?oc=5\" target=\"_blank\">Anthropic releases Claude Opus 4.7, narrowly retaking lead for most powerful generally available LLM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYlRYYzF4VzBLeVlxR21DZUhOS2xqN3R5OGE2Snpndlhxa1dKRkswY3hGVW16RlNmX0h3RUsySE1oU2xJWVU2UDIzZHF0UVRxX2hEN1U0b1FaSHFCaVoyY0Rxb0VrUE5CMnE1a0p6d3NZanFLMEc1eWswV2x5NTg5UGF1SU9zeFIzZlhwV0VmajliWlNidktuanNmblBhTGdZUk1DMTZ5SXlVcGl1RlcyWWs3cFVmb1ZkdjMxMWdWQTFMMXZqdm9ZRy1vM0RMOVU?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-04-16",
-          "views": "18.0K"
         }
       ]
     },
@@ -80,27 +80,27 @@
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
         {
-          "title": "Kimi K2.6 runs agents for days — and exposes the limits of enterprise orchestration - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR1IySUdLMmtFaTI0dy1qOU0xVDAtUHh1RHVuNWJmdTFwcWREV21KeHJiVGlJQTZzNUJqVVA0dHFZVm5id1U5dmxFbkIwVWpGZDRZeDdlODVGMDVKcWFNQU00ajl5cTFLYTN5UnhfQV9QTmN2dDdzTWxUeGM0amY0THZYRkNOMkExX25jVkxpN3NrbW5EamZUVnFTY1BIR0ZBVFNpUkRDZXRvWDdYVHA4eE91WHNjVUk1Vldv?oc=5\" target=\"_blank\">Kimi K2.6 runs agents for days — and exposes the limits of enterprise orchestration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR1IySUdLMmtFaTI0dy1qOU0xVDAtUHh1RHVuNWJmdTFwcWREV21KeHJiVGlJQTZzNUJqVVA0dHFZVm5id1U5dmxFbkIwVWpGZDRZeDdlODVGMDVKcWFNQU00ajl5cTFLYTN5UnhfQV9QTmN2dDdzTWxUeGM0amY0THZYRkNOMkExX25jVkxpN3NrbW5EamZUVnFTY1BIR0ZBVFNpUkRDZXRvWDdYVHA4eE91WHNjVUk1Vldv?oc=5",
+          "title": "OpenAI unveils Workspace Agents, a successor to custom GPTs for enterprises that can plug directly into Slack, Salesforce and more - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxQOEljRzV4TWtlZlVQb0VKVUg1Q1lDSGktVUNMR3J6QVUwekJWdFBrdjBjVjhIUXVlMWNqN1pTeGt5N1h2ZWFIaWZESXN6anJFNF9NN1dnaF9NTWljMjBGdDNkMmZob1RsZnhaNTRodlFUU2FwdnhmeXE3anlENkNWc0tTbDBmQ0JnTWtsN1d6Szd4MU56Tng2RjAzd1FfV0VQSTU0MnE2NnZTVzRpbHpNVzdYamEwV1ZQbEc4TG8ybEtvd2tXV3M4VF9Xb3lSMVJNaTdrU1AxMlcxY213MFp6SHM0MmVna0ZhUHVFZ2ZScC1OSFRFeHU0NE9n?oc=5\" target=\"_blank\">OpenAI unveils Workspace Agents, a successor to custom GPTs for enterprises that can plug directly into Slack, Salesforce and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQOEljRzV4TWtlZlVQb0VKVUg1Q1lDSGktVUNMR3J6QVUwekJWdFBrdjBjVjhIUXVlMWNqN1pTeGt5N1h2ZWFIaWZESXN6anJFNF9NN1dnaF9NTWljMjBGdDNkMmZob1RsZnhaNTRodlFUU2FwdnhmeXE3anlENkNWc0tTbDBmQ0JnTWtsN1d6Szd4MU56Tng2RjAzd1FfV0VQSTU0MnE2NnZTVzRpbHpNVzdYamEwV1ZQbEc4TG8ybEtvd2tXV3M4VF9Xb3lSMVJNaTdrU1AxMlcxY213MFp6SHM0MmVna0ZhUHVFZ2ZScC1OSFRFeHU0NE9n?oc=5",
           "source": "VentureBeat AI",
-          "publishedAt": "2026-04-21",
+          "publishedAt": "2026-04-22",
           "views": "18.0K"
         },
         {
-          "title": "Should my enterprise AI agent do that? NanoClaw and Vercel launch easier agentic policy setting and approval dialogs across 15 messaging apps - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxPbUVFYVJvX2ZLR0RVeUQtY1B5bXFIMzVNWlZpT1llLVRvWHZlcVZyUENuaFFabUk2Y1lGRmRDaFZuUFBLbmd3TEFQVW5nWHF2TmRDRC1Wa2hWd1BYYm5KY3ZNOHBCVm1yRUVNMmU1MjFHU0xvbG1jNElCMHVpR1JtUWpGRXdCb1JvcHh0M2lObHE0dnZrQnJ2RUxaZi1DSzliQ3lSUE9ycExFSEl6YlhxMHRSdDVVTjluQ0lObFg0M2pVUldGWGV4TUxkLVpWMDlwa2ZwTFg3ck83a2hMakVtVnIweFFGR1JhWEJUVDBMUHYzTjl5ZGF5QTVnc0hyVmR5T1YwbnF5eHkydw?oc=5\" target=\"_blank\">Should my enterprise AI agent do that? NanoClaw and Vercel launch easier agentic policy setting and approval dialogs across 15 messaging apps</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPbUVFYVJvX2ZLR0RVeUQtY1B5bXFIMzVNWlZpT1llLVRvWHZlcVZyUENuaFFabUk2Y1lGRmRDaFZuUFBLbmd3TEFQVW5nWHF2TmRDRC1Wa2hWd1BYYm5KY3ZNOHBCVm1yRUVNMmU1MjFHU0xvbG1jNElCMHVpR1JtUWpGRXdCb1JvcHh0M2lObHE0dnZrQnJ2RUxaZi1DSzliQ3lSUE9ycExFSEl6YlhxMHRSdDVVTjluQ0lObFg0M2pVUldGWGV4TUxkLVpWMDlwa2ZwTFg3ck83a2hMakVtVnIweFFGR1JhWEJUVDBMUHYzTjl5ZGF5QTVnc0hyVmR5T1YwbnF5eHkydw?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-04-17",
+          "title": "Google puts AI agents at heart of its enterprise money-making push - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaC1SX002a0pCeURJUGFrcmxHQmNlM2k2dldpYVFzTDgxQjhlaWp4NmJja1FHNS1sdkt3SzFFcWxpVlJJekVQUFdsTFJob3lLb1h1Rk1XSXpDRGR0VXVZWDI3UUhWVnFBelV4SVNYSVRtNkVta3dIMFNucGZCMGdSaERNTkU3Rk5TeTlpT1FsQ29PaXdwRDlIU2ZtamVSNGZYOFU0ZDdlMUU?oc=5\" target=\"_blank\">Google puts AI agents at heart of its enterprise money-making push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaC1SX002a0pCeURJUGFrcmxHQmNlM2k2dldpYVFzTDgxQjhlaWp4NmJja1FHNS1sdkt3SzFFcWxpVlJJekVQUFdsTFJob3lLb1h1Rk1XSXpDRGR0VXVZWDI3UUhWVnFBelV4SVNYSVRtNkVta3dIMFNucGZCMGdSaERNTkU3Rk5TeTlpT1FsQ29PaXdwRDlIU2ZtamVSNGZYOFU0ZDdlMUU?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-04-22",
           "views": "18.0K"
         },
         {
-          "title": "AI agent security maturity audit: enterprises funded stage one, stage-three threats arrived anyway - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxORjRVWFpBOEdwa0xGNHEydjMyUXVlRUNlZmV1SkFXN1lrc3ZiS0lITERMeG9nX2xoUnI4dXBTaHg1LVRtNHVOcmdPSi1pLVY1dTByLTI2SFpBbVlhRFlidWw2ampUQUt1N0dqcUN2NW9ESDg4Rnp5bDB1YW1DYnFYdUpxZEhabTBwbTVwRzg2VFFXdm9XNmEyUktLOVIwSmdia1NJQ2ZqaTNSQ1o0QXlXR2U3RQ?oc=5\" target=\"_blank\">AI agent security maturity audit: enterprises funded stage one, stage-three threats arrived anyway</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORjRVWFpBOEdwa0xGNHEydjMyUXVlRUNlZmV1SkFXN1lrc3ZiS0lITERMeG9nX2xoUnI4dXBTaHg1LVRtNHVOcmdPSi1pLVY1dTByLTI2SFpBbVlhRFlidWw2ampUQUt1N0dqcUN2NW9ESDg4Rnp5bDB1YW1DYnFYdUpxZEhabTBwbTVwRzg2VFFXdm9XNmEyUktLOVIwSmdia1NJQ2ZqaTNSQ1o0QXlXR2U3RQ?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-04-17",
+          "title": "Google makes an interesting choice with its new agent-building tool for enterprises - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNZEFWcnZ3NjBlSjNIRmpGYm5ENFF0QjFRcDdJSVZJdFFUZmRISkVyV0h1VmxyNlZEX0hxVS1uQXM3MnFtNzJqclJtVVF3ZmtOdmlBLThYOXdOd0I5OTJZTV9rdlkwYlVVLWx3bTk5TmNHbEZuN1I4WjRuV2lEZWxKb05ZcnpYVUdZREw2NXRDT21hbjFvdzlwZHhIdVBscTRwN1hkT0lWRW1RQXJFU0oxME03LTZ4TjNTSVE?oc=5\" target=\"_blank\">Google makes an interesting choice with its new agent-building tool for enterprises</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZEFWcnZ3NjBlSjNIRmpGYm5ENFF0QjFRcDdJSVZJdFFUZmRISkVyV0h1VmxyNlZEX0hxVS1uQXM3MnFtNzJqclJtVVF3ZmtOdmlBLThYOXdOd0I5OTJZTV9rdlkwYlVVLWx3bTk5TmNHbEZuN1I4WjRuV2lEZWxKb05ZcnpYVUdZREw2NXRDT21hbjFvdzlwZHhIdVBscTRwN1hkT0lWRW1RQXJFU0oxME03LTZ4TjNTSVE?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-04-22",
           "views": "18.0K"
         }
       ]
@@ -142,27 +142,27 @@
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
         {
-          "title": "Catalonia aims to balance Chinese investments, prioritising local jobs - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPTjlra05PY2VtQUZOLWJmeGlSTWYxbjZTR1dSYU5jQWRONTViZFQtVkhYeWt5cnRpSVBjdXBWMGQ2OWNSSkljZ19RZWNBSHJhNUJ3SXlmaEtIT2tZMlMyN3IxVFNzTF8yRkJQRjBoNWpxcDBuaFB4MlFtWkV4Mmt5X0N3a1M0Zmlxb1MzUVE4N3JuYzZrb0ZTMGtET3MtVUFwRlBpZ1RiRVFwdjVPUW9ibHRuX0g?oc=5\" target=\"_blank\">Catalonia aims to balance Chinese investments, prioritising local jobs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTjlra05PY2VtQUZOLWJmeGlSTWYxbjZTR1dSYU5jQWRONTViZFQtVkhYeWt5cnRpSVBjdXBWMGQ2OWNSSkljZ19RZWNBSHJhNUJ3SXlmaEtIT2tZMlMyN3IxVFNzTF8yRkJQRjBoNWpxcDBuaFB4MlFtWkV4Mmt5X0N3a1M0Zmlxb1MzUVE4N3JuYzZrb0ZTMGtET3MtVUFwRlBpZ1RiRVFwdjVPUW9ibHRuX0g?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-04-20",
+          "title": "Cathie Wood’s ARK makes its first lead investment in startup Lucra — and it isn’t AI - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPd0s0VmNDVVM3MG1EanF3SC1PTkdZZmR3cjNUcElqWEVXT0Y1c1RETmlBYmlhb2xnaXU0elRkNDJ1N0dDbVkzbUlIY2ViZjdJRUp1aDB0VE96Sk5Nc1pGTk45d3I3cUZIenlCY0swS3E5OV84WnRYS05ya3NORE1PQmlUT1RUbnNseEdpU1ozQU1zUlhYU2ttRXZHNVVqeE5iRWRETkJURXljU3JVa2g1WlBCMFliZw?oc=5\" target=\"_blank\">Cathie Wood’s ARK makes its first lead investment in startup Lucra — and it isn’t AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPd0s0VmNDVVM3MG1EanF3SC1PTkdZZmR3cjNUcElqWEVXT0Y1c1RETmlBYmlhb2xnaXU0elRkNDJ1N0dDbVkzbUlIY2ViZjdJRUp1aDB0VE96Sk5Nc1pGTk45d3I3cUZIenlCY0swS3E5OV84WnRYS05ya3NORE1PQmlUT1RUbnNseEdpU1ozQU1zUlhYU2ttRXZHNVVqeE5iRWRETkJURXljU3JVa2g1WlBCMFliZw?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-04-22",
           "views": "18.0K"
         },
         {
-          "title": "South Korea, Vietnam leaders to meet as Hanoi seeks high-tech investment - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQX1AyNURaRFJaQmxHa1lOSXNTUjVtdDEzWEtpT3owUnM0VTRVZG5ibjBwMmJrb2l1bHlYdDZmTmdNTVlveHp6YU95M3dVVGQ2bXBaNWlhRk1ORWItemFSYkRhZWQ1SkdvbEhSM3N6TmFMa1FqNTBDNGEtMkRnWkxhQ2tDcG1CRnBkYTQtOFpGbUhUTkJ3RkY2bTBFTnI?oc=5\" target=\"_blank\">South Korea, Vietnam leaders to meet as Hanoi seeks high-tech investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX1AyNURaRFJaQmxHa1lOSXNTUjVtdDEzWEtpT3owUnM0VTRVZG5ibjBwMmJrb2l1bHlYdDZmTmdNTVlveHp6YU95M3dVVGQ2bXBaNWlhRk1ORWItemFSYkRhZWQ1SkdvbEhSM3N6TmFMa1FqNTBDNGEtMkRnWkxhQ2tDcG1CRnBkYTQtOFpGbUhUTkJ3RkY2bTBFTnI?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-04-22",
+          "title": "New university funding aims to reverse decline in technical literacy - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSG9lUUNLUGxpRU0zSTBiblBJWjAyRzVDY1RtSkhVVDRld2Fka2hsV2MxbGFRZHVZWHNtVDE3TnVJLVlNM3Q2MF9KajgyWXc3TC1xZnkxbENsVkphY3Z6cW40cVBwVGNyWFhRQXF5TnZRV3FwX090Sm56ZVhsU0xwUTRoS2lHbkhXUHV0ck1tbmMxa1dSLTdSamlTLVZPLVdSMS02ak5MXzNfLXBnVXRiQUQ4eTFFeVBy0gG-AUFVX3lxTFBuUDhJMUdBTTRldVNLRUVUa1VnLVgzMjNJZXpObkllcGFBNjVuYW82LU1hWkNJUXJZWm1Dcnh0NnI3cE92bGdWZUNkYjNDOHEzc3N5NW5GcHZ1ZVZ4d0FjY2JUOF9oZW5JSHJ0RzJwczhVTVJFLTVnWUdaM2FzUVlYYjVLbXJkN1V3bDF4NU1uRjBxYVFPV3FhZHVhMGdEN29CbEw1UkJ6TktRckdiTjNJdTlsSjJ4ZjRBWmt0MHc?oc=5\" target=\"_blank\">New university funding aims to reverse decline in technical literacy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSG9lUUNLUGxpRU0zSTBiblBJWjAyRzVDY1RtSkhVVDRld2Fka2hsV2MxbGFRZHVZWHNtVDE3TnVJLVlNM3Q2MF9KajgyWXc3TC1xZnkxbENsVkphY3Z6cW40cVBwVGNyWFhRQXF5TnZRV3FwX090Sm56ZVhsU0xwUTRoS2lHbkhXUHV0ck1tbmMxa1dSLTdSamlTLVZPLVdSMS02ak5MXzNfLXBnVXRiQUQ4eTFFeVBy0gG-AUFVX3lxTFBuUDhJMUdBTTRldVNLRUVUa1VnLVgzMjNJZXpObkllcGFBNjVuYW82LU1hWkNJUXJZWm1Dcnh0NnI3cE92bGdWZUNkYjNDOHEzc3N5NW5GcHZ1ZVZ4d0FjY2JUOF9oZW5JSHJ0RzJwczhVTVJFLTVnWUdaM2FzUVlYYjVLbXJkN1V3bDF4NU1uRjBxYVFPV3FhZHVhMGdEN29CbEw1UkJ6TktRckdiTjNJdTlsSjJ4ZjRBWmt0MHc?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-04-23",
           "views": "13.0K"
         },
         {
-          "title": "Japan opens door to global arms market with biggest export rule change in decades - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSElrdXZjQkFWdmx0RFdYZ2YxSllRdllHTTBlZFkxOGtxU2xWWnJiTy1zaEtfYi14dlJXVkZlRkRPMDRya25pRkRISGJIdzdvNERMSW03WXNWUkdlWTFGU1h4MXZhNHJpSXFiZUdLV0xpTFRSeW1oNFBjN0dRMEpEWmpOU1N3NTFIR0NoV3RBRTRIVFcxRFpCR0R5UGttVjR1QUhVZjBNUWJWRXpzRWprWl9zV0hmcWFyTEEyWC1kWW12VjTSAcgBQVVfeXFMUHJQbUNuMmpQRlZXb0c5M1lkSGJuZHFfSVplRE0zTnNMWldlNDk3QlUzTE1zY19ZOFRfM3l1aU1fQTQxZnJqb3ZaNm40X3B4dFhkWjdjeXpORGZ4bEpJSGt1SXNCbHlWTjNxM0lwVFlXMEczYmpvN2lPXzNxZnV4Mmw1RGlkQlN5Qi11emY3MW9TbU1yOUtSYUtrTFFFbzdKZnJwUUx5WjBiTGxCTHpfZmZCV1NHRnBHb2ticnkzcDhDbkI0M3ZhOUg?oc=5\" target=\"_blank\">Japan opens door to global arms market with biggest export rule change in decades</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSElrdXZjQkFWdmx0RFdYZ2YxSllRdllHTTBlZFkxOGtxU2xWWnJiTy1zaEtfYi14dlJXVkZlRkRPMDRya25pRkRISGJIdzdvNERMSW03WXNWUkdlWTFGU1h4MXZhNHJpSXFiZUdLV0xpTFRSeW1oNFBjN0dRMEpEWmpOU1N3NTFIR0NoV3RBRTRIVFcxRFpCR0R5UGttVjR1QUhVZjBNUWJWRXpzRWprWl9zV0hmcWFyTEEyWC1kWW12VjTSAcgBQVVfeXFMUHJQbUNuMmpQRlZXb0c5M1lkSGJuZHFfSVplRE0zTnNMWldlNDk3QlUzTE1zY19ZOFRfM3l1aU1fQTQxZnJqb3ZaNm40X3B4dFhkWjdjeXpORGZ4bEpJSGt1SXNCbHlWTjNxM0lwVFlXMEczYmpvN2lPXzNxZnV4Mmw1RGlkQlN5Qi11emY3MW9TbU1yOUtSYUtrTFFFbzdKZnJwUUx5WjBiTGxCTHpfZmZCV1NHRnBHb2ticnkzcDhDbkI0M3ZhOUg?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-04-21",
+          "title": "Microsoft bets big on AI in Australia with $18 billion investment - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNY3lnb1RPbU5qNDJBMlpuYW9ta21xbTk1dGJiN3h1aW9jbWlBeXIweTRmQVFPeXJhZHdnYm5lNFNwekxPMGsybW85WVFlRWtMM0NUNFlRUkZGbVF3M3NYc3FRQ3lqZjlpVmE1SVpzbXlqUV9uZDNTQTNTTnI4aFV3WFY4Q25RNFNUeGRUdlR5N1ZjSV9oVVRZQXRZdXRyV3lfSnc?oc=5\" target=\"_blank\">Microsoft bets big on AI in Australia with $18 billion investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY3lnb1RPbU5qNDJBMlpuYW9ta21xbTk1dGJiN3h1aW9jbWlBeXIweTRmQVFPeXJhZHdnYm5lNFNwekxPMGsybW85WVFlRWtMM0NUNFlRUkZGbVF3M3NYc3FRQ3lqZjlpVmE1SVpzbXlqUV9uZDNTQTNTTnI4aFV3WFY4Q25RNFNUeGRUdlR5N1ZjSV9oVVRZQXRZdXRyV3lfSnc?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-04-23",
           "views": "13.0K"
         }
       ]
@@ -173,12 +173,12 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
-          "title": "Lee urges innovation to improve manufacturing industry - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOSzVXVzRuZzFsdWtXZTdOMDhBdTZwVmJpby1vb3ZNWFRpVS1WRDBhVWxzelluNkdXQjNnbFZOQ0p4ajhjSEFMMWlxaG9iVUhlY2FqQlM5eGh2QXVmSHZHN1o5aUhyd1p2OUE4amowNUZKZW9iQjFtSlNpbTRmNllXa2xGSFRRS3hkVVBXci1VcnZxQ1M0N015bnowLWtNWUJ3dnFkMHRQM2IxREo4eE1vakt30gG3AUFVX3lxTFAyM05lOENrLWF0dkVGVHgtaU42Ukk5MEt3M3djUG5YOFROeGNkTElJSUZBNllaRnp0YkpwaGZRcWhVLUE2bkhWOG1XMlFQUjcyYVJvd09wN2NobW5rM2NFNHBoUHNjNXQzam5hRUtyYWx2NWJiajBHMVlSSDFLVGdjNmVNLU0tVUlyZUN1bUV2cC1wdEhaWkFaeEh5QXJ5VG81dU4xeVFRd0hlTHgzZlRjS25acmNlWQ?oc=5\" target=\"_blank\">Lee urges innovation to improve manufacturing industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSzVXVzRuZzFsdWtXZTdOMDhBdTZwVmJpby1vb3ZNWFRpVS1WRDBhVWxzelluNkdXQjNnbFZOQ0p4ajhjSEFMMWlxaG9iVUhlY2FqQlM5eGh2QXVmSHZHN1o5aUhyd1p2OUE4amowNUZKZW9iQjFtSlNpbTRmNllXa2xGSFRRS3hkVVBXci1VcnZxQ1M0N015bnowLWtNWUJ3dnFkMHRQM2IxREo4eE1vakt30gG3AUFVX3lxTFAyM05lOENrLWF0dkVGVHgtaU42Ukk5MEt3M3djUG5YOFROeGNkTElJSUZBNllaRnp0YkpwaGZRcWhVLUE2bkhWOG1XMlFQUjcyYVJvd09wN2NobW5rM2NFNHBoUHNjNXQzam5hRUtyYWx2NWJiajBHMVlSSDFLVGdjNmVNLU0tVUlyZUN1bUV2cC1wdEhaWkFaeEh5QXJ5VG81dU4xeVFRd0hlTHgzZlRjS25acmNlWQ?oc=5",
+          "title": "MrBeast employee alleges harassment at video production company Beast Industries - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOUTBmVnh6MG9XUzd2cjd4LUZ1b3FoYkdEZXFZdU02cHdLdmQ5U3JnZEtjUVFJVkdMckJZS1FXaXRYSVdIWWZlQThPbG5SVll3UE1VdU1iVm44SDV0TlVxMGUzSXNTcFM2WC1YSjlxdDJuWDBlRmRsUC1SODdEdlpORjRWaHBTSzYxTEdJVFZwTm1NUXo2d3NXN2o3bWtGcGVuWXMzR256cG1DeURsamFNTE04VlpsVXItbnVZZmVxLWVwZ2c4aFNr0gHHAUFVX3lxTE5RMGZWeHowb1dTN3ZyN3gtRnVvcWhiR0RlcVl1TTZwd0t2ZDlTcmdkS2NRUUlWR0xyQllLUVdpdFhJV0hZZmVBOE9sblJWWXdQTVV1TWJWbjhINXROVXEwZTNJc1NwUzZYLVhKOXF0Mm5YMGVGZGxQLVI4N0R2Wk5GNFZocFNLNjFMR0lUVnBObU1RejZ3c1c3ajdta0ZwZW5ZczNHbnpwbUN5RGxqYU1MTThWWmxVci1udVlmZXEtZXBnZzhoU2s?oc=5\" target=\"_blank\">MrBeast employee alleges harassment at video production company Beast Industries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUTBmVnh6MG9XUzd2cjd4LUZ1b3FoYkdEZXFZdU02cHdLdmQ5U3JnZEtjUVFJVkdMckJZS1FXaXRYSVdIWWZlQThPbG5SVll3UE1VdU1iVm44SDV0TlVxMGUzSXNTcFM2WC1YSjlxdDJuWDBlRmRsUC1SODdEdlpORjRWaHBTSzYxTEdJVFZwTm1NUXo2d3NXN2o3bWtGcGVuWXMzR256cG1DeURsamFNTE04VlpsVXItbnVZZmVxLWVwZ2c4aFNr0gHHAUFVX3lxTE5RMGZWeHowb1dTN3ZyN3gtRnVvcWhiR0RlcVl1TTZwd0t2ZDlTcmdkS2NRUUlWR0xyQllLUVdpdFhJV0hZZmVBOE9sblJWWXdQTVV1TWJWbjhINXROVXEwZTNJc1NwUzZYLVhKOXF0Mm5YMGVGZGxQLVI4N0R2Wk5GNFZocFNLNjFMR0lUVnBObU1RejZ3c1c3ajdta0ZwZW5ZczNHbnpwbUN5RGxqYU1MTThWWmxVci1udVlmZXEtZXBnZzhoU2s?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-04-16",
-          "views": "18.0K"
+          "publishedAt": "2026-04-23",
+          "views": "13.0K"
         },
         {
           "title": "AMF Holdings joins new alliance to modernize Korea's global tourism strategy - The Korea Times",
@@ -189,11 +189,11 @@
           "views": "13.0K"
         },
         {
-          "title": "Culture minister signs co-production deal with Indian film industry leaders - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNT19IaHd5VzdQcXBIRW5BN0pEelhzdko0SkxXMDBUamZnWU1SU2ZZcFdnTFVyN3pkcW5STjJUeEYwb2l5dnV5OENRdDVTbmVFVEhVZ05TMFVYdGFBUGtmOWtReXJmcGI1TkF5M3R3QkVidkVQQWp6bDdWclI3V2Q5bUNZdUtlTE5nUDE4TTlOQVRZXzlwbTEwaDFVRFFCX2tPZGlHSnowTXIyQ1A4SlllaWt2Mi1sSWdoeERTbjlDT0lEcTByWnExTHQ5YTNGZ9IB0wFBVV95cUxOeld5dkpHRFNwRFFvV1drU0lWcXFST3Vrc2VTeHItbExmZzlDWWpMTFA1YUw0aEQ4SmtYdXM2dTF3SmhyeGhBYmo5ZEREWkh3OUg3U1ZCMEZuVUM0U2kwdDYxTXBmQ05ZbU43OHVGaDA4TVJBQnlmOVR1VF84T2NYVGcyWVJQblBxamJXXzB3VUF0Vzl5MWhmdzdUVjd2REhWUC15NUFKMnBPelRvcTNYQzVUWmwweVFqOHZqOTFzY2hvelcwTWMweUd3RmxYc2hiSl9B?oc=5\" target=\"_blank\">Culture minister signs co-production deal with Indian film industry leaders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNT19IaHd5VzdQcXBIRW5BN0pEelhzdko0SkxXMDBUamZnWU1SU2ZZcFdnTFVyN3pkcW5STjJUeEYwb2l5dnV5OENRdDVTbmVFVEhVZ05TMFVYdGFBUGtmOWtReXJmcGI1TkF5M3R3QkVidkVQQWp6bDdWclI3V2Q5bUNZdUtlTE5nUDE4TTlOQVRZXzlwbTEwaDFVRFFCX2tPZGlHSnowTXIyQ1A4SlllaWt2Mi1sSWdoeERTbjlDT0lEcTByWnExTHQ5YTNGZ9IB0wFBVV95cUxOeld5dkpHRFNwRFFvV1drU0lWcXFST3Vrc2VTeHItbExmZzlDWWpMTFA1YUw0aEQ4SmtYdXM2dTF3SmhyeGhBYmo5ZEREWkh3OUg3U1ZCMEZuVUM0U2kwdDYxTXBmQ05ZbU43OHVGaDA4TVJBQnlmOVR1VF84T2NYVGcyWVJQblBxamJXXzB3VUF0Vzl5MWhmdzdUVjd2REhWUC15NUFKMnBPelRvcTNYQzVUWmwweVFqOHZqOTFzY2hvelcwTWMweUd3RmxYc2hiSl9B?oc=5",
+          "title": "AWS bets on multi-agent as next AI paradigm, unveils 2026 partner strategy - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTmRKZDdKOEhlZFVScGItWHFodU1YNk9ITFlMU0xmUmxEWlNQR0ZNckV0NzFFODNnWTRZT3VlUG1qTHhKUV8wemVfVmNPMF9MZ2Z0TW5rYldMd1c0RjNqejB6TVJybnlVMTRmbExHdGhJU29wdzg3WE5wMFBPbW44NHV6UkdiRUdibG5JaVhFcDdFMGd5MExDaDAzMXRMSnRmQ1lMMXh4RTNkdlFIMW5kUXI2TUZzR1FCMG1qMHh3LXYteHIzWFVkNFlQN0Z6ZWlUVWdv0gHTAUFVX3lxTE5OZEpkN0o4SGVkVVJwYi1YcWh1TVg2T0hMWUxTTGZSbERaU1BHRk1yRXQ3MUU4M2dZNFlPdWVQbWpMeEpRXzB6ZV9WY08wX0xnZnRNbmtiV0x3VzRGM2p6MHpNUnJueVUxNGZsTEd0aElTb3B3ODdYTnAwUE9tbjg0dXpSR2JFR2JsbklpWEVwN0UwZ3kwTENoMDMxdExKdGZDWUwxeHhFM2R2UUgxbmRRcjZNRnNHUUIwbWoweHctdi14cjNYVWQ0WVA3RnplaVRVZ28?oc=5\" target=\"_blank\">AWS bets on multi-agent as next AI paradigm, unveils 2026 partner strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTmRKZDdKOEhlZFVScGItWHFodU1YNk9ITFlMU0xmUmxEWlNQR0ZNckV0NzFFODNnWTRZT3VlUG1qTHhKUV8wemVfVmNPMF9MZ2Z0TW5rYldMd1c0RjNqejB6TVJybnlVMTRmbExHdGhJU29wdzg3WE5wMFBPbW44NHV6UkdiRUdibG5JaVhFcDdFMGd5MExDaDAzMXRMSnRmQ1lMMXh4RTNkdlFIMW5kUXI2TUZzR1FCMG1qMHh3LXYteHIzWFVkNFlQN0Z6ZWlUVWdv0gHTAUFVX3lxTE5OZEpkN0o4SGVkVVJwYi1YcWh1TVg2T0hMWUxTTGZSbERaU1BHRk1yRXQ3MUU4M2dZNFlPdWVQbWpMeEpRXzB6ZV9WY08wX0xnZnRNbmtiV0x3VzRGM2p6MHpNUnJueVUxNGZsTEd0aElTb3B3ODdYTnAwUE9tbjg0dXpSR2JFR2JsbklpWEVwN0UwZ3kwTENoMDMxdExKdGZDWUwxeHhFM2R2UUgxbmRRcjZNRnNHUUIwbWoweHctdi14cjNYVWQ0WVA3RnplaVRVZ28?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-04-21",
+          "publishedAt": "2026-04-22",
           "views": "13.0K"
         }
       ]
