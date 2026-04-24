@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T06:29:33.885Z",
+  "lastUpdated": "2026-04-24T06:31:35.545Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,6 +49,14 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
+          "title": "OpenAI's GPT-5.5 is here, and it's no potato: narrowly beats Anthropic's Claude Mythos Preview on Terminal-Bench 2.0 - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMG5WMHBBeXZkNWx3dEFPZ1FjSHBxUFlpbXpwbWJMTTlMaDhLNG1xb2dYbXhkS1RUUWVZUWZ0VFRXWUh0a2J2S2dMdUNfQnZoZDRNRHRFdFVGX042N1J5b1ZVcVRYU1RkUE9qbE0zUEVUUFMtZ2JmajNxSlB2dThjY1UtYWNRUi1ZbUJOaE0wcGpJM2dWQVNIQ25RNlh2dGJvY3dhNW5pMTdyTlU3dzZYTXNseEhSU0xyOExVdXdwVlBOQnRnTHFnTHlyRnlEVF9GQll5bg?oc=5\" target=\"_blank\">OpenAI's GPT-5.5 is here, and it's no potato: narrowly beats Anthropic's Claude Mythos Preview on Terminal-Bench 2.0</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMG5WMHBBeXZkNWx3dEFPZ1FjSHBxUFlpbXpwbWJMTTlMaDhLNG1xb2dYbXhkS1RUUWVZUWZ0VFRXWUh0a2J2S2dMdUNfQnZoZDRNRHRFdFVGX042N1J5b1ZVcVRYU1RkUE9qbE0zUEVUUFMtZ2JmajNxSlB2dThjY1UtYWNRUi1ZbUJOaE0wcGpJM2dWQVNIQ25RNlh2dGJvY3dhNW5pMTdyTlU3dzZYTXNseEhSU0xyOExVdXdwVlBOQnRnTHFnTHlyRnlEVF9GQll5bg?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-04-23",
+          "views": "18.0K"
+        },
+        {
           "title": "OpenAI launches Privacy Filter, an open source, on-device data sanitization model that removes personal information from enterprise datasets - VentureBeat",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRmZVY2xVTVhVYkxvNDdfQWJibko3amF0dmRiakRMellmd0djNTdIY0FSMS1XcHlSaWE1WEpsZ3NZS1FsbVRudk9FdS14Z2xseXFLZEFiSWhpWmZONXZrZktzd0p0MnMzSDJTU0h3Tzh6ZzB2UG81bGtFR2tfVFZ1VWFhWEpCem9LeVFZYzNqX0NGNlRmcGxJQTZOVkFydDNVUTJFdEhNWl9NWTVvZlJvYXlWa0RjYjZZaWt1U1Jicy15bXU4clp3SzZiSXNQM0o4bGtCZl9LSjRwVkdTNmhKemtPNi0yYnZLdXV5NU5FRkFsUDZ0RERZeEJLaw?oc=5\" target=\"_blank\">OpenAI launches Privacy Filter, an open source, on-device data sanitization model that removes personal information from enterprise datasets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRmZVY2xVTVhVYkxvNDdfQWJibko3amF0dmRiakRMellmd0djNTdIY0FSMS1XcHlSaWE1WEpsZ3NZS1FsbVRudk9FdS14Z2xseXFLZEFiSWhpWmZONXZrZktzd0p0MnMzSDJTU0h3Tzh6ZzB2UG81bGtFR2tfVFZ1VWFhWEpCem9LeVFZYzNqX0NGNlRmcGxJQTZOVkFydDNVUTJFdEhNWl9NWTVvZlJvYXlWa0RjYjZZaWt1U1Jicy15bXU4clp3SzZiSXNQM0o4bGtCZl9LSjRwVkdTNmhKemtPNi0yYnZLdXV5NU5FRkFsUDZ0RERZeEJLaw?oc=5",
@@ -63,14 +71,6 @@
           "source": "WIRED AI",
           "publishedAt": "2026-04-21",
           "views": "18.0K"
-        },
-        {
-          "title": "ChatGPT’s new Images 2.0 model is surprisingly good at generating text - TechCrunch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQV243cnVoVEpZRWE5c1dOOERka3NYRGhGQ3RKTEE2Tk1XMGpITVhJaGtwNjY3REtWWVJ2LUVZQUFhZE95NGp1NkpWX05HeHZWOUZWMWlfWWVBaHRHYWhIek00Q00yRzRCQ04xYjJNSDU2elh2ejNpRnF6WWpjT192aVpRdW5GVnlxSmJiQ2lfMXZvNWFnVDZMNjNOUzFUOFlwZmp1N1M3NA?oc=5\" target=\"_blank\">ChatGPT’s new Images 2.0 model is surprisingly good at generating text</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQV243cnVoVEpZRWE5c1dOOERka3NYRGhGQ3RKTEE2Tk1XMGpITVhJaGtwNjY3REtWWVJ2LUVZQUFhZE95NGp1NkpWX05HeHZWOUZWMWlfWWVBaHRHYWhIek00Q00yRzRCQ04xYjJNSDU2elh2ejNpRnF6WWpjT192aVpRdW5GVnlxSmJiQ2lfMXZvNWFnVDZMNjNOUzFUOFlwZmp1N1M3NA?oc=5",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-04-21",
-          "views": "18.0K"
         }
       ]
     },
@@ -79,6 +79,14 @@
       "hashtag": "#활용사례",
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
+        {
+          "title": "New startup BAND debuts agentic mesh with deterministic routing to govern multiple enterprise AI agents across model providers, channels - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRld5NFNiUjdoWm1uaGlROXI2ajFfOHNBdV9JNEFVc2laR295NnlibkRKcFNRUEN6NHBPZWp2N2c0MEI1alRwRnhBOTVPZ1lTeXVLNHFkeDJGMTRQZXZZQmtXa2cyYVRwU2NNMDhtSEZaZ216dk5uTU1vdWpOTEVWb3hISmF2aDh3aUt0cVhNYjhFMXA1TVFFTVFweF9meUU3Um03OE9iRng4Z01wRXM5SEM2MURCUDF5bTVHZnFKYzh5RkVKTVdDMzZFREp6cFYxMTFiTk9WOFNhalNxeHRtd3RtcExYQ2xCaHIyakgwdw?oc=5\" target=\"_blank\">New startup BAND debuts agentic mesh with deterministic routing to govern multiple enterprise AI agents across model providers, channels</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRld5NFNiUjdoWm1uaGlROXI2ajFfOHNBdV9JNEFVc2laR295NnlibkRKcFNRUEN6NHBPZWp2N2c0MEI1alRwRnhBOTVPZ1lTeXVLNHFkeDJGMTRQZXZZQmtXa2cyYVRwU2NNMDhtSEZaZ216dk5uTU1vdWpOTEVWb3hISmF2aDh3aUt0cVhNYjhFMXA1TVFFTVFweF9meUU3Um03OE9iRng4Z01wRXM5SEM2MURCUDF5bTVHZnFKYzh5RkVKTVdDMzZFREp6cFYxMTFiTk9WOFNhalNxeHRtd3RtcExYQ2xCaHIyakgwdw?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-04-23",
+          "views": "18.0K"
+        },
         {
           "title": "OpenAI unveils Workspace Agents, a successor to custom GPTs for enterprises that can plug directly into Slack, Salesforce and more - VentureBeat",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxQOEljRzV4TWtlZlVQb0VKVUg1Q1lDSGktVUNMR3J6QVUwekJWdFBrdjBjVjhIUXVlMWNqN1pTeGt5N1h2ZWFIaWZESXN6anJFNF9NN1dnaF9NTWljMjBGdDNkMmZob1RsZnhaNTRodlFUU2FwdnhmeXE3anlENkNWc0tTbDBmQ0JnTWtsN1d6Szd4MU56Tng2RjAzd1FfV0VQSTU0MnE2NnZTVzRpbHpNVzdYamEwV1ZQbEc4TG8ybEtvd2tXV3M4VF9Xb3lSMVJNaTdrU1AxMlcxY213MFp6SHM0MmVna0ZhUHVFZ2ZScC1OSFRFeHU0NE9n?oc=5\" target=\"_blank\">OpenAI unveils Workspace Agents, a successor to custom GPTs for enterprises that can plug directly into Slack, Salesforce and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
@@ -92,14 +100,6 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaC1SX002a0pCeURJUGFrcmxHQmNlM2k2dldpYVFzTDgxQjhlaWp4NmJja1FHNS1sdkt3SzFFcWxpVlJJekVQUFdsTFJob3lLb1h1Rk1XSXpDRGR0VXVZWDI3UUhWVnFBelV4SVNYSVRtNkVta3dIMFNucGZCMGdSaERNTkU3Rk5TeTlpT1FsQ29PaXdwRDlIU2ZtamVSNGZYOFU0ZDdlMUU?oc=5\" target=\"_blank\">Google puts AI agents at heart of its enterprise money-making push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaC1SX002a0pCeURJUGFrcmxHQmNlM2k2dldpYVFzTDgxQjhlaWp4NmJja1FHNS1sdkt3SzFFcWxpVlJJekVQUFdsTFJob3lLb1h1Rk1XSXpDRGR0VXVZWDI3UUhWVnFBelV4SVNYSVRtNkVta3dIMFNucGZCMGdSaERNTkU3Rk5TeTlpT1FsQ29PaXdwRDlIU2ZtamVSNGZYOFU0ZDdlMUU?oc=5",
           "source": "Reuters AI",
-          "publishedAt": "2026-04-22",
-          "views": "18.0K"
-        },
-        {
-          "title": "Google makes an interesting choice with its new agent-building tool for enterprises - TechCrunch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNZEFWcnZ3NjBlSjNIRmpGYm5ENFF0QjFRcDdJSVZJdFFUZmRISkVyV0h1VmxyNlZEX0hxVS1uQXM3MnFtNzJqclJtVVF3ZmtOdmlBLThYOXdOd0I5OTJZTV9rdlkwYlVVLWx3bTk5TmNHbEZuN1I4WjRuV2lEZWxKb05ZcnpYVUdZREw2NXRDT21hbjFvdzlwZHhIdVBscTRwN1hkT0lWRW1RQXJFU0oxME03LTZ4TjNTSVE?oc=5\" target=\"_blank\">Google makes an interesting choice with its new agent-building tool for enterprises</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZEFWcnZ3NjBlSjNIRmpGYm5ENFF0QjFRcDdJSVZJdFFUZmRISkVyV0h1VmxyNlZEX0hxVS1uQXM3MnFtNzJqclJtVVF3ZmtOdmlBLThYOXdOd0I5OTJZTV9rdlkwYlVVLWx3bTk5TmNHbEZuN1I4WjRuV2lEZWxKb05ZcnpYVUdZREw2NXRDT21hbjFvdzlwZHhIdVBscTRwN1hkT0lWRW1RQXJFU0oxME03LTZ4TjNTSVE?oc=5",
-          "source": "TechCrunch AI",
           "publishedAt": "2026-04-22",
           "views": "18.0K"
         }
@@ -150,19 +150,19 @@
           "views": "18.0K"
         },
         {
-          "title": "New university funding aims to reverse decline in technical literacy - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSG9lUUNLUGxpRU0zSTBiblBJWjAyRzVDY1RtSkhVVDRld2Fka2hsV2MxbGFRZHVZWHNtVDE3TnVJLVlNM3Q2MF9KajgyWXc3TC1xZnkxbENsVkphY3Z6cW40cVBwVGNyWFhRQXF5TnZRV3FwX090Sm56ZVhsU0xwUTRoS2lHbkhXUHV0ck1tbmMxa1dSLTdSamlTLVZPLVdSMS02ak5MXzNfLXBnVXRiQUQ4eTFFeVBy0gG-AUFVX3lxTFBuUDhJMUdBTTRldVNLRUVUa1VnLVgzMjNJZXpObkllcGFBNjVuYW82LU1hWkNJUXJZWm1Dcnh0NnI3cE92bGdWZUNkYjNDOHEzc3N5NW5GcHZ1ZVZ4d0FjY2JUOF9oZW5JSHJ0RzJwczhVTVJFLTVnWUdaM2FzUVlYYjVLbXJkN1V3bDF4NU1uRjBxYVFPV3FhZHVhMGdEN29CbEw1UkJ6TktRckdiTjNJdTlsSjJ4ZjRBWmt0MHc?oc=5\" target=\"_blank\">New university funding aims to reverse decline in technical literacy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSG9lUUNLUGxpRU0zSTBiblBJWjAyRzVDY1RtSkhVVDRld2Fka2hsV2MxbGFRZHVZWHNtVDE3TnVJLVlNM3Q2MF9KajgyWXc3TC1xZnkxbENsVkphY3Z6cW40cVBwVGNyWFhRQXF5TnZRV3FwX090Sm56ZVhsU0xwUTRoS2lHbkhXUHV0ck1tbmMxa1dSLTdSamlTLVZPLVdSMS02ak5MXzNfLXBnVXRiQUQ4eTFFeVBy0gG-AUFVX3lxTFBuUDhJMUdBTTRldVNLRUVUa1VnLVgzMjNJZXpObkllcGFBNjVuYW82LU1hWkNJUXJZWm1Dcnh0NnI3cE92bGdWZUNkYjNDOHEzc3N5NW5GcHZ1ZVZ4d0FjY2JUOF9oZW5JSHJ0RzJwczhVTVJFLTVnWUdaM2FzUVlYYjVLbXJkN1V3bDF4NU1uRjBxYVFPV3FhZHVhMGdEN29CbEw1UkJ6TktRckdiTjNJdTlsSjJ4ZjRBWmt0MHc?oc=5",
+          "title": "Gov't to designate 10 cities to serve as startup hubs by 2027 to promote balanced growth - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOM0Z1V2JBdnc1RW8wX0x6aEFQY0lucHgxRGFxMUNUSkVsNmxjS2dON29rMERTMDA0NW1CQnZtaUpQT1otdjZiaHcycEw2WEJNekZPZnVtMy1JWmZNdFFneTE1SmdCc1c0LXpYbFJ3U0JzSndyTG9jMHJvYVU4SGJiQWhQa0QzWWQ0N0pyQnlvWlpaY01WTkZITl9GVUIyMnpTNkpiNUJORHc5bEZibzNBNWstc3NFWjQzLUlYQzNDRElXeURDY1lKQl9USnh5YmfSAdQBQVVfeXFMUEI1bUVObm5Ud0pDdXFmcHBPYkNpWnBaSkV2MkZIR1VyQTdpeWtDcks5OFgwQVpvV0s3NTMxZGJ2RWZJLXRlNWszc2cxMk0yYzg0QmpkVVhLcGNPMUxqcGFrR1drb2I2cHYxUFJoQjlfRUtpel9yWFo4TUd1UThFaHdMSmMyX0tTTUdtOVpLSkNPaUJzTkQ0UkdvM05KVURJRDZIVW5iODhaQXF1cDVpYWlmUW12Z2ZjUHNGRDJCbk40eHdNRk5wMlZvRGxNRHUtbUJJZkk?oc=5\" target=\"_blank\">Gov't to designate 10 cities to serve as startup hubs by 2027 to promote balanced growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM0Z1V2JBdnc1RW8wX0x6aEFQY0lucHgxRGFxMUNUSkVsNmxjS2dON29rMERTMDA0NW1CQnZtaUpQT1otdjZiaHcycEw2WEJNekZPZnVtMy1JWmZNdFFneTE1SmdCc1c0LXpYbFJ3U0JzSndyTG9jMHJvYVU4SGJiQWhQa0QzWWQ0N0pyQnlvWlpaY01WTkZITl9GVUIyMnpTNkpiNUJORHc5bEZibzNBNWstc3NFWjQzLUlYQzNDRElXeURDY1lKQl9USnh5YmfSAdQBQVVfeXFMUEI1bUVObm5Ud0pDdXFmcHBPYkNpWnBaSkV2MkZIR1VyQTdpeWtDcks5OFgwQVpvV0s3NTMxZGJ2RWZJLXRlNWszc2cxMk0yYzg0QmpkVVhLcGNPMUxqcGFrR1drb2I2cHYxUFJoQjlfRUtpel9yWFo4TUd1UThFaHdMSmMyX0tTTUdtOVpLSkNPaUJzTkQ0UkdvM05KVURJRDZIVW5iODhaQXF1cDVpYWlmUW12Z2ZjUHNGRDJCbk40eHdNRk5wMlZvRGxNRHUtbUJJZkk?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-04-23",
+          "publishedAt": "2026-04-24",
           "views": "13.0K"
         },
         {
-          "title": "Microsoft bets big on AI in Australia with $18 billion investment - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNY3lnb1RPbU5qNDJBMlpuYW9ta21xbTk1dGJiN3h1aW9jbWlBeXIweTRmQVFPeXJhZHdnYm5lNFNwekxPMGsybW85WVFlRWtMM0NUNFlRUkZGbVF3M3NYc3FRQ3lqZjlpVmE1SVpzbXlqUV9uZDNTQTNTTnI4aFV3WFY4Q25RNFNUeGRUdlR5N1ZjSV9oVVRZQXRZdXRyV3lfSnc?oc=5\" target=\"_blank\">Microsoft bets big on AI in Australia with $18 billion investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY3lnb1RPbU5qNDJBMlpuYW9ta21xbTk1dGJiN3h1aW9jbWlBeXIweTRmQVFPeXJhZHdnYm5lNFNwekxPMGsybW85WVFlRWtMM0NUNFlRUkZGbVF3M3NYc3FRQ3lqZjlpVmE1SVpzbXlqUV9uZDNTQTNTTnI4aFV3WFY4Q25RNFNUeGRUdlR5N1ZjSV9oVVRZQXRZdXRyV3lfSnc?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-04-23",
+          "title": "Naver Cloud, HanmiGlobal set sights on Saudi Arabia's data center market - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNcGN1Y2FXSFRKMlBzX2VQRGhQU2FQdlBKaWk5bURkS0lhcnIzZmZva0VlMXFkMzZFdTVVMlZjMXNrRzlVa05NUWU4TFdNOTRORUFIZUlfVGh5ZmM0c1phSHVrT2thcENwVkFSeUlnTlE0RlcwRzc3enY4M3FsSmtzSnNWaFRYSjZKS3h2YzRTQzFrdmZxV0ttTHZpVVQwS293STJzVGRNeUFoTDhBT0ZFTUh4cHBEOEZLX3RvNE95bUllNktoclk5Mko1Z9IBywFBVV95cUxNcGN1Y2FXSFRKMlBzX2VQRGhQU2FQdlBKaWk5bURkS0lhcnIzZmZva0VlMXFkMzZFdTVVMlZjMXNrRzlVa05NUWU4TFdNOTRORUFIZUlfVGh5ZmM0c1phSHVrT2thcENwVkFSeUlnTlE0RlcwRzc3enY4M3FsSmtzSnNWaFRYSjZKS3h2YzRTQzFrdmZxV0ttTHZpVVQwS293STJzVGRNeUFoTDhBT0ZFTUh4cHBEOEZLX3RvNE95bUllNktoclk5Mko1Zw?oc=5\" target=\"_blank\">Naver Cloud, HanmiGlobal set sights on Saudi Arabia's data center market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcGN1Y2FXSFRKMlBzX2VQRGhQU2FQdlBKaWk5bURkS0lhcnIzZmZva0VlMXFkMzZFdTVVMlZjMXNrRzlVa05NUWU4TFdNOTRORUFIZUlfVGh5ZmM0c1phSHVrT2thcENwVkFSeUlnTlE0RlcwRzc3enY4M3FsSmtzSnNWaFRYSjZKS3h2YzRTQzFrdmZxV0ttTHZpVVQwS293STJzVGRNeUFoTDhBT0ZFTUh4cHBEOEZLX3RvNE95bUllNktoclk5Mko1Z9IBywFBVV95cUxNcGN1Y2FXSFRKMlBzX2VQRGhQU2FQdlBKaWk5bURkS0lhcnIzZmZva0VlMXFkMzZFdTVVMlZjMXNrRzlVa05NUWU4TFdNOTRORUFIZUlfVGh5ZmM0c1phSHVrT2thcENwVkFSeUlnTlE0RlcwRzc3enY4M3FsSmtzSnNWaFRYSjZKS3h2YzRTQzFrdmZxV0ttTHZpVVQwS293STJzVGRNeUFoTDhBT0ZFTUh4cHBEOEZLX3RvNE95bUllNktoclk5Mko1Zw?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-04-24",
           "views": "13.0K"
         }
       ]
@@ -173,27 +173,27 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
-          "title": "MrBeast employee alleges harassment at video production company Beast Industries - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOUTBmVnh6MG9XUzd2cjd4LUZ1b3FoYkdEZXFZdU02cHdLdmQ5U3JnZEtjUVFJVkdMckJZS1FXaXRYSVdIWWZlQThPbG5SVll3UE1VdU1iVm44SDV0TlVxMGUzSXNTcFM2WC1YSjlxdDJuWDBlRmRsUC1SODdEdlpORjRWaHBTSzYxTEdJVFZwTm1NUXo2d3NXN2o3bWtGcGVuWXMzR256cG1DeURsamFNTE04VlpsVXItbnVZZmVxLWVwZ2c4aFNr0gHHAUFVX3lxTE5RMGZWeHowb1dTN3ZyN3gtRnVvcWhiR0RlcVl1TTZwd0t2ZDlTcmdkS2NRUUlWR0xyQllLUVdpdFhJV0hZZmVBOE9sblJWWXdQTVV1TWJWbjhINXROVXEwZTNJc1NwUzZYLVhKOXF0Mm5YMGVGZGxQLVI4N0R2Wk5GNFZocFNLNjFMR0lUVnBObU1RejZ3c1c3ajdta0ZwZW5ZczNHbnpwbUN5RGxqYU1MTThWWmxVci1udVlmZXEtZXBnZzhoU2s?oc=5\" target=\"_blank\">MrBeast employee alleges harassment at video production company Beast Industries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUTBmVnh6MG9XUzd2cjd4LUZ1b3FoYkdEZXFZdU02cHdLdmQ5U3JnZEtjUVFJVkdMckJZS1FXaXRYSVdIWWZlQThPbG5SVll3UE1VdU1iVm44SDV0TlVxMGUzSXNTcFM2WC1YSjlxdDJuWDBlRmRsUC1SODdEdlpORjRWaHBTSzYxTEdJVFZwTm1NUXo2d3NXN2o3bWtGcGVuWXMzR256cG1DeURsamFNTE04VlpsVXItbnVZZmVxLWVwZ2c4aFNr0gHHAUFVX3lxTE5RMGZWeHowb1dTN3ZyN3gtRnVvcWhiR0RlcVl1TTZwd0t2ZDlTcmdkS2NRUUlWR0xyQllLUVdpdFhJV0hZZmVBOE9sblJWWXdQTVV1TWJWbjhINXROVXEwZTNJc1NwUzZYLVhKOXF0Mm5YMGVGZGxQLVI4N0R2Wk5GNFZocFNLNjFMR0lUVnBObU1RejZ3c1c3ajdta0ZwZW5ZczNHbnpwbUN5RGxqYU1MTThWWmxVci1udVlmZXEtZXBnZzhoU2s?oc=5",
+          "title": "'Catch Catch' syndrome: 'YENA-core' suggest new survival strategy in group-dominated K-pop scene - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVm1CNUlsalh4dFp5dTB2ZWwzVkF5NG1KTWpIWXBHNE5rR0VmaktIa2NUSFhwQzZPaEowRktuQ3lkMEJ3WmRBcjhiTWRNUV9vaFNqWVNnbmZMdDhKbXVoODNBZ0hmNHJ0VWZoRUJhN0NWQUl5VGstYXFmcnJJamkwM1BPYlV0Y2tLYUhQVjZXOUtWak56eC0xbkdlMmVQMkpaTlZZOWFINmpDQkRiZi1aZVg4MkVoOWt5SzVhTEtOWVNpOEk4dlpnSmRFUmJucHNpSG44TlFRZXprLWxZbmVETlRfVdIB6AFBVV95cUxORXc5ZXI1RGliODlnaUNaNUNVWXhJQkhtVFpTZ3dLbkcxSV80RWFMTWJKc1E0WF82UWFtb21tZDhhNUdLV05Vc3JjNmhoMktvZUs4OXFxeGhQUGhDOFpzTW1JVXA0Z05CLXpyQXBSWUFRazdRUkctV0RIbHN3UE9jejlOWHVyVDBzLWMyejIzZHJvaWhLU2ExNFNhM3Y2cVhhMm50Z0ZCSEl3VUtpUzB5amtGb0VtQUZpZVllRWppSWtYYjljZUJ5MWxBaFowbFp6YW1MeExFeExxbkMybGhmMmlEVkxacjBW?oc=5\" target=\"_blank\">'Catch Catch' syndrome: 'YENA-core' suggest new survival strategy in group-dominated K-pop scene</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVm1CNUlsalh4dFp5dTB2ZWwzVkF5NG1KTWpIWXBHNE5rR0VmaktIa2NUSFhwQzZPaEowRktuQ3lkMEJ3WmRBcjhiTWRNUV9vaFNqWVNnbmZMdDhKbXVoODNBZ0hmNHJ0VWZoRUJhN0NWQUl5VGstYXFmcnJJamkwM1BPYlV0Y2tLYUhQVjZXOUtWak56eC0xbkdlMmVQMkpaTlZZOWFINmpDQkRiZi1aZVg4MkVoOWt5SzVhTEtOWVNpOEk4dlpnSmRFUmJucHNpSG44TlFRZXprLWxZbmVETlRfVdIB6AFBVV95cUxORXc5ZXI1RGliODlnaUNaNUNVWXhJQkhtVFpTZ3dLbkcxSV80RWFMTWJKc1E0WF82UWFtb21tZDhhNUdLV05Vc3JjNmhoMktvZUs4OXFxeGhQUGhDOFpzTW1JVXA0Z05CLXpyQXBSWUFRazdRUkctV0RIbHN3UE9jejlOWHVyVDBzLWMyejIzZHJvaWhLU2ExNFNhM3Y2cVhhMm50Z0ZCSEl3VUtpUzB5amtGb0VtQUZpZVllRWppSWtYYjljZUJ5MWxBaFowbFp6YW1MeExFeExxbkMybGhmMmlEVkxacjBW?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-04-24",
+          "views": "13.0K"
+        },
+        {
+          "title": "China's commerce minister met EU automakers' industry group chair Kallenius in Beijing - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOVXBJTlNqejFhRUhST1Z5TUFMOVFCNmh4RGxzVl9iQ21NT0RJZW0xODNxWWxEVXJKYzllbmxtNm5rLXVzRFNhYzRsalRhZzRyaFRFY1QwaHJIQlVDaWtWSUxqdlE2OFlVVF8yQWJ4V1hRWTZIa3dUcUNIQzVmVi10Z1ZUNVZKZExwQXpYMFZNTjVkNmR3U2xmSFFSVmthdFk3VWNOOXdidWZYNmRMdDd2OTNEak9YRjc2MWFSRElVTUNveDVGenhwUy1VbjdCazQ?oc=5\" target=\"_blank\">China's commerce minister met EU automakers' industry group chair Kallenius in Beijing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVXBJTlNqejFhRUhST1Z5TUFMOVFCNmh4RGxzVl9iQ21NT0RJZW0xODNxWWxEVXJKYzllbmxtNm5rLXVzRFNhYzRsalRhZzRyaFRFY1QwaHJIQlVDaWtWSUxqdlE2OFlVVF8yQWJ4V1hRWTZIa3dUcUNIQzVmVi10Z1ZUNVZKZExwQXpYMFZNTjVkNmR3U2xmSFFSVmthdFk3VWNOOXdidWZYNmRMdDd2OTNEak9YRjc2MWFSRElVTUNveDVGenhwUy1VbjdCazQ?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-04-24",
+          "views": "13.0K"
+        },
+        {
+          "title": "Coupang calls itself US company, but little known to Americans - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcHVhUHhNSm9KRVRPajF2b1FRVllabmJJclhacExncFZGSGRSOWNOTHgwQ0ViSXhHQTY2RlNiQ29hMTJBOFRrcVg2ME9EeXg4QVg4UngxeUVVU2hMSTVpY0pEZkxjNVpGTGd1N3BvOV9FWUxWbUU1Y2NTeHh5a2xhZVNWNW1QWGUxM1ZHcjV3RVlIa3NVR29ZdndRR3Zyd1pJd2JuQ1NnWURYOUXSAbABQVVfeXFMUFNXZlRRRGMtTmU1d3VwNk5TbHdWRUhxajdZQ29xTlRVcEl5M1pkUC1abnRYeXVUNFZvZS1nX1k4a2t4QmF4bjVDUTJVVm1GcHNyNGhHanV6dGxqSXlIS1ZDWXdwTzNjMXlJLWRtbE13RnpMMzJaOFZ5Y0E3dlZUaTlPUURLS0M1TENBSnF4YWU0cjBhb2l3RlZ5S29tU2ZYTnpYZHA1bFhWY09nem5yVWI?oc=5\" target=\"_blank\">Coupang calls itself US company, but little known to Americans</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcHVhUHhNSm9KRVRPajF2b1FRVllabmJJclhacExncFZGSGRSOWNOTHgwQ0ViSXhHQTY2RlNiQ29hMTJBOFRrcVg2ME9EeXg4QVg4UngxeUVVU2hMSTVpY0pEZkxjNVpGTGd1N3BvOV9FWUxWbUU1Y2NTeHh5a2xhZVNWNW1QWGUxM1ZHcjV3RVlIa3NVR29ZdndRR3Zyd1pJd2JuQ1NnWURYOUXSAbABQVVfeXFMUFNXZlRRRGMtTmU1d3VwNk5TbHdWRUhxajdZQ29xTlRVcEl5M1pkUC1abnRYeXVUNFZvZS1nX1k4a2t4QmF4bjVDUTJVVm1GcHNyNGhHanV6dGxqSXlIS1ZDWXdwTzNjMXlJLWRtbE13RnpMMzJaOFZ5Y0E3dlZUaTlPUURLS0M1TENBSnF4YWU0cjBhb2l3RlZ5S29tU2ZYTnpYZHA1bFhWY09nem5yVWI?oc=5",
           "source": "The Korea Times",
           "publishedAt": "2026-04-23",
-          "views": "13.0K"
-        },
-        {
-          "title": "AMF Holdings joins new alliance to modernize Korea's global tourism strategy - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQTElWUUUyWUZ1VnloVkx0aVRKWHZ1RDNsZzItM1g4QXRsNmk5Q1ktTWVkVkJvSFl0QlU3cmZ0QUpqRFlabGJYSllqNEhJcWZMQ2VBMnIySTB2UW14VnV2bk0xT0VvRktFajVtbWc3SmwtNmR2OExGZjg2OUFYZjdYV2RZaFlYUzRLbUVyVl9OcHV6U29iMFl1Z0ZRdXFCTDNlcVVXS0ZsT0I4b29WVFZ2aEt1SzR3Z2s4ckZjNThnZEcxVXRFWTJV0gHHAUFVX3lxTFBMSVZRRTJZRnVWeWhWTHRpVEpYdnVEM2xnMi0zWDhBdGw2aTlDWS1NZWRWQm9IWXRCVTdyZnRBSmpEWVpsYlhKWWo0SElxZkxDZUEycjJJMHZRbXhWdXZuTTFPRW9GS0VqNW1tZzdKbC02ZHY4TEZmODY5QVhmN1hXZFloWVhTNEttRXJWX05wdXpTb2IwWXVnRlF1cUJMM2VxVVdLRmxPQjhvb1ZUVnZoS3VLNHdnazhyRmM1OGdkRzFVdEVZMlU?oc=5\" target=\"_blank\">AMF Holdings joins new alliance to modernize Korea's global tourism strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTElWUUUyWUZ1VnloVkx0aVRKWHZ1RDNsZzItM1g4QXRsNmk5Q1ktTWVkVkJvSFl0QlU3cmZ0QUpqRFlabGJYSllqNEhJcWZMQ2VBMnIySTB2UW14VnV2bk0xT0VvRktFajVtbWc3SmwtNmR2OExGZjg2OUFYZjdYV2RZaFlYUzRLbUVyVl9OcHV6U29iMFl1Z0ZRdXFCTDNlcVVXS0ZsT0I4b29WVFZ2aEt1SzR3Z2s4ckZjNThnZEcxVXRFWTJV0gHHAUFVX3lxTFBMSVZRRTJZRnVWeWhWTHRpVEpYdnVEM2xnMi0zWDhBdGw2aTlDWS1NZWRWQm9IWXRCVTdyZnRBSmpEWVpsYlhKWWo0SElxZkxDZUEycjJJMHZRbXhWdXZuTTFPRW9GS0VqNW1tZzdKbC02ZHY4TEZmODY5QVhmN1hXZFloWVhTNEttRXJWX05wdXpTb2IwWXVnRlF1cUJMM2VxVVdLRmxPQjhvb1ZUVnZoS3VLNHdnazhyRmM1OGdkRzFVdEVZMlU?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-04-22",
-          "views": "13.0K"
-        },
-        {
-          "title": "AWS bets on multi-agent as next AI paradigm, unveils 2026 partner strategy - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTmRKZDdKOEhlZFVScGItWHFodU1YNk9ITFlMU0xmUmxEWlNQR0ZNckV0NzFFODNnWTRZT3VlUG1qTHhKUV8wemVfVmNPMF9MZ2Z0TW5rYldMd1c0RjNqejB6TVJybnlVMTRmbExHdGhJU29wdzg3WE5wMFBPbW44NHV6UkdiRUdibG5JaVhFcDdFMGd5MExDaDAzMXRMSnRmQ1lMMXh4RTNkdlFIMW5kUXI2TUZzR1FCMG1qMHh3LXYteHIzWFVkNFlQN0Z6ZWlUVWdv0gHTAUFVX3lxTE5OZEpkN0o4SGVkVVJwYi1YcWh1TVg2T0hMWUxTTGZSbERaU1BHRk1yRXQ3MUU4M2dZNFlPdWVQbWpMeEpRXzB6ZV9WY08wX0xnZnRNbmtiV0x3VzRGM2p6MHpNUnJueVUxNGZsTEd0aElTb3B3ODdYTnAwUE9tbjg0dXpSR2JFR2JsbklpWEVwN0UwZ3kwTENoMDMxdExKdGZDWUwxeHhFM2R2UUgxbmRRcjZNRnNHUUIwbWoweHctdi14cjNYVWQ0WVA3RnplaVRVZ28?oc=5\" target=\"_blank\">AWS bets on multi-agent as next AI paradigm, unveils 2026 partner strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTmRKZDdKOEhlZFVScGItWHFodU1YNk9ITFlMU0xmUmxEWlNQR0ZNckV0NzFFODNnWTRZT3VlUG1qTHhKUV8wemVfVmNPMF9MZ2Z0TW5rYldMd1c0RjNqejB6TVJybnlVMTRmbExHdGhJU29wdzg3WE5wMFBPbW44NHV6UkdiRUdibG5JaVhFcDdFMGd5MExDaDAzMXRMSnRmQ1lMMXh4RTNkdlFIMW5kUXI2TUZzR1FCMG1qMHh3LXYteHIzWFVkNFlQN0Z6ZWlUVWdv0gHTAUFVX3lxTE5OZEpkN0o4SGVkVVJwYi1YcWh1TVg2T0hMWUxTTGZSbERaU1BHRk1yRXQ3MUU4M2dZNFlPdWVQbWpMeEpRXzB6ZV9WY08wX0xnZnRNbmtiV0x3VzRGM2p6MHpNUnJueVUxNGZsTEd0aElTb3B3ODdYTnAwUE9tbjg0dXpSR2JFR2JsbklpWEVwN0UwZ3kwTENoMDMxdExKdGZDWUwxeHhFM2R2UUgxbmRRcjZNRnNHUUIwbWoweHctdi14cjNYVWQ0WVA3RnplaVRVZ28?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-04-22",
           "views": "13.0K"
         }
       ]
