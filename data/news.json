@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-29T07:52:48.535Z",
+  "lastUpdated": "2026-04-30T07:55:24.923Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,27 +49,27 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
-          "title": "DeepSeek-V4, the Chinese AI model adapted for Huawei chips - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNWHNGM0lqMWwzNGo5QXFCYjBNYzlKc0VWT05hOUg0RWVscnlHRnVVVWMtS1hEOWtuSzQ3SUVyT2hTZWJZR18tSkRSVXhzWnhsMnNuakM0ZmNHMzlmMGt6MDBWODhsdUZRWVR3eGRnZVJaS2t1Nl9hd200QUduM2ZMb0tEMWl4Tzd5dk8wQnE5OTJVaTU1TEk4bHlRNEZSUQ?oc=5\" target=\"_blank\">DeepSeek-V4, the Chinese AI model adapted for Huawei chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWHNGM0lqMWwzNGo5QXFCYjBNYzlKc0VWT05hOUg0RWVscnlHRnVVVWMtS1hEOWtuSzQ3SUVyT2hTZWJZR18tSkRSVXhzWnhsMnNuakM0ZmNHMzlmMGt6MDBWODhsdUZRWVR3eGRnZVJaS2t1Nl9hd200QUduM2ZMb0tEMWl4Tzd5dk8wQnE5OTJVaTU1TEk4bHlRNEZSUQ?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-04-24",
-          "views": "18.0K"
-        },
-        {
-          "title": "DeepSeek unveils new AI model tailored for Huawei chips as China pushes for tech autonomy - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUVllcUNPUUdaaW1PZlVEblJFME5Ecnl3R1lvQmYwTVRUdUE2dng2cTdDNUFkTmVkRzNIcEk5WTRKdDJEX3BudElma2hGUjFTTDRTR2xNcndid2VzVmx6Y192Z0FmcDMwVm5nY3ZGY0k3VFVJZFM0dk9vYlhnTGNfU2tlbnRRLVJSbGpXS0J5X1k0MUh1LUZZSE54QUlXNzZLdDNyX3ZicVl0QzA?oc=5\" target=\"_blank\">DeepSeek unveils new AI model tailored for Huawei chips as China pushes for tech autonomy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUVllcUNPUUdaaW1PZlVEblJFME5Ecnl3R1lvQmYwTVRUdUE2dng2cTdDNUFkTmVkRzNIcEk5WTRKdDJEX3BudElma2hGUjFTTDRTR2xNcndid2VzVmx6Y192Z0FmcDMwVm5nY3ZGY0k3VFVJZFM0dk9vYlhnTGNfU2tlbnRRLVJSbGpXS0J5X1k0MUh1LUZZSE54QUlXNzZLdDNyX3ZicVl0QzA?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-04-24",
-          "views": "18.0K"
-        },
-        {
           "title": "OpenAI's GPT-5.5 is here, and it's no potato: narrowly beats Anthropic's Claude Mythos Preview on Terminal-Bench 2.0 - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMG5WMHBBeXZkNWx3dEFPZ1FjSHBxUFlpbXpwbWJMTTlMaDhLNG1xb2dYbXhkS1RUUWVZUWZ0VFRXWUh0a2J2S2dMdUNfQnZoZDRNRHRFdFVGX042N1J5b1ZVcVRYU1RkUE9qbE0zUEVUUFMtZ2JmajNxSlB2dThjY1UtYWNRUi1ZbUJOaE0wcGpJM2dWQVNIQ25RNlh2dGJvY3dhNW5pMTdyTlU3dzZYTXNseEhSU0xyOExVdXdwVlBOQnRnTHFnTHlyRnlEVF9GQll5bg?oc=5\" target=\"_blank\">OpenAI's GPT-5.5 is here, and it's no potato: narrowly beats Anthropic's Claude Mythos Preview on Terminal-Bench 2.0</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMG5WMHBBeXZkNWx3dEFPZ1FjSHBxUFlpbXpwbWJMTTlMaDhLNG1xb2dYbXhkS1RUUWVZUWZ0VFRXWUh0a2J2S2dMdUNfQnZoZDRNRHRFdFVGX042N1J5b1ZVcVRYU1RkUE9qbE0zUEVUUFMtZ2JmajNxSlB2dThjY1UtYWNRUi1ZbUJOaE0wcGpJM2dWQVNIQ25RNlh2dGJvY3dhNW5pMTdyTlU3dzZYTXNseEhSU0xyOExVdXdwVlBOQnRnTHFnTHlyRnlEVF9GQll5bg?oc=5",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbFZvQ3FjcDFyOUdubWFhSzVyUzNHN3dkUWl6bG5YWG5mZ01hNkVRdllmSWF5UGtaTEk5dEtWbHIxeEtDc3FNUGV2QzE2XzYtUEJqb1ZOQTBIN1NSMGkzbGNLdlRwVXJRaVJuS1hVT2FxTmVHRHhBQWg2MGxUbldiUkJnSDVyMnc1N1BEZXZOWU1IRHZINE5uOUppQnYyNlRvR3hJYjBVLU9vWVFKSktPU1dSeWhFa3kzaXVhMk9JT2RXU3BlUk1mc2dBdEhTVkZCSFMxNUZwbkJyU0FDbk1F?oc=5\" target=\"_blank\">OpenAI's GPT-5.5 is here, and it's no potato: narrowly beats Anthropic's Claude Mythos Preview on Terminal-Bench 2.0</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbFZvQ3FjcDFyOUdubWFhSzVyUzNHN3dkUWl6bG5YWG5mZ01hNkVRdllmSWF5UGtaTEk5dEtWbHIxeEtDc3FNUGV2QzE2XzYtUEJqb1ZOQTBIN1NSMGkzbGNLdlRwVXJRaVJuS1hVT2FxTmVHRHhBQWg2MGxUbldiUkJnSDVyMnc1N1BEZXZOWU1IRHZINE5uOUppQnYyNlRvR3hJYjBVLU9vWVFKSktPU1dSeWhFa3kzaXVhMk9JT2RXU3BlUk1mc2dBdEhTVkZCSFMxNUZwbkJyU0FDbk1F?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-04-23",
+          "views": "23.0K"
+        },
+        {
+          "title": "Samsung Electronics posts record $38.5 bil. Q1 operating profit on AI chip boom - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNWHc1ZllmNFNyaXFxNGJXOG5DaGdQYkZvOWV6ZzJoMUFTaUI0X0w2UmNPeXViOHQ2ZzV5QVdpTUNsWXBtYUdDb2pKWkpCYkU3dThvYlJtSmQ2S0xxNTk5b3BBSUFPR2l6RFQyYlZKeEZ6c1BIV1hFMmlaelVZZURXMjZEQ1BYRnV3a1QwZkJOZ3dLaW9rc1cxaFdSVGp5Zy1Ya2JEcWpBVVFhUUJ0QmlHZkE3TldIWENjdlViXzg4SEZPSTZwZjU5UUxZNmlkd9IB0wFBVV95cUxNZVNQcl94WlBDMjRZbjJBeTBhbmRteUd1TGk3TUJaemhWQlFVNDltMWx3ZG9DTWJPMzUxMmJKSENsVjJoY2Z3YzlRdDY5Q202SDNJMWRLX09rWE1JS0lIY0RfU1NQcEFXMmNUbXNaWlhPeldBekVJT2dKWEExSXZhcTVnTlpoMkpSVmNvTjBGUkU5YjY5TV9yTUJVdmtJc1JheDR4NzBNYWQ4VjJsRWFyNnRkbWJLWklYV2gzTEZuZDRkdXVha3AwUndzRUxiRE5qSXBN?oc=5\" target=\"_blank\">Samsung Electronics posts record $38.5 bil. Q1 operating profit on AI chip boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWHc1ZllmNFNyaXFxNGJXOG5DaGdQYkZvOWV6ZzJoMUFTaUI0X0w2UmNPeXViOHQ2ZzV5QVdpTUNsWXBtYUdDb2pKWkpCYkU3dThvYlJtSmQ2S0xxNTk5b3BBSUFPR2l6RFQyYlZKeEZ6c1BIV1hFMmlaelVZZURXMjZEQ1BYRnV3a1QwZkJOZ3dLaW9rc1cxaFdSVGp5Zy1Ya2JEcWpBVVFhUUJ0QmlHZkE3TldIWENjdlViXzg4SEZPSTZwZjU5UUxZNmlkd9IB0wFBVV95cUxNZVNQcl94WlBDMjRZbjJBeTBhbmRteUd1TGk3TUJaemhWQlFVNDltMWx3ZG9DTWJPMzUxMmJKSENsVjJoY2Z3YzlRdDY5Q202SDNJMWRLX09rWE1JS0lIY0RfU1NQcEFXMmNUbXNaWlhPeldBekVJT2dKWEExSXZhcTVnTlpoMkpSVmNvTjBGUkU5YjY5TV9yTUJVdmtJc1JheDR4NzBNYWQ4VjJsRWFyNnRkbWJLWklYV2gzTEZuZDRkdXVha3AwUndzRUxiRE5qSXBN?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-04-29",
+          "views": "18.0K"
+        },
+        {
+          "title": "GPT-5.5 is OpenAI’s most capable agentic AI model yet - AI News",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSlVIUlFSQnRfOWdTNlI0NjNFV1llczlZU283WlFoTS1EeWRfQVVNTzVoQ1RseWEyamtDRjlnZWQxS0ZlRkJxQzczRm1NMVVmZERVUkFhWEdwRmZiUFJ3bTlCVlh3QnlFU3BzSUFJUHpsSktZRWljaDQ1TlhaMXNuZUp2UnJoRTVlZXRrNzJRT1ZHc1ZkdWE3MFNQaEhieWxTQlIxNFRTOHlPLXRKMGZJZmxZMkN3ZDlLaHN1eGNuRk9FZ2M?oc=5\" target=\"_blank\">GPT-5.5 is OpenAI’s most capable agentic AI model yet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI News</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSlVIUlFSQnRfOWdTNlI0NjNFV1llczlZU283WlFoTS1EeWRfQVVNTzVoQ1RseWEyamtDRjlnZWQxS0ZlRkJxQzczRm1NMVVmZERVUkFhWEdwRmZiUFJ3bTlCVlh3QnlFU3BzSUFJUHpsSktZRWljaDQ1TlhaMXNuZUp2UnJoRTVlZXRrNzJRT1ZHc1ZkdWE3MFNQaEhieWxTQlIxNFRTOHlPLXRKMGZJZmxZMkN3ZDlLaHN1eGNuRk9FZ2M?oc=5",
+          "source": "AI News",
+          "publishedAt": "2026-04-29",
           "views": "18.0K"
         }
       ]
@@ -79,6 +79,14 @@
       "hashtag": "#활용사례",
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
+        {
+          "title": "Enterprise RAG rebuild: hybrid retrieval adoption tripled in Q1 2026 - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQVXZTOUVoU2tuYkFyUkdJTVR6emxnUC1QS3JNTDdKTGxmeV9HR3dwSGpiTk5LVGZTV1FzUzBSQ0x3em5oTlVMb2kybGtUdXhSLV85bU9fdGpXb3BrSVItMnFLeGNHZ2FWVTFWLUNyMGowdW9Oc2psVGQ3bDgzVkVWWW9HU3d4a1Y0R0VnTTF4TktpUWxrekl6T0VMQmNqMnJ6LXdUalRVMlFiTmxQZ0J3S2lhYmw5dXJQY3EwOUhJcU1yS0NaR0lLSjJiWEU?oc=5\" target=\"_blank\">Enterprise RAG rebuild: hybrid retrieval adoption tripled in Q1 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVXZTOUVoU2tuYkFyUkdJTVR6emxnUC1QS3JNTDdKTGxmeV9HR3dwSGpiTk5LVGZTV1FzUzBSQ0x3em5oTlVMb2kybGtUdXhSLV85bU9fdGpXb3BrSVItMnFLeGNHZ2FWVTFWLUNyMGowdW9Oc2psVGQ3bDgzVkVWWW9HU3d4a1Y0R0VnTTF4TktpUWxrekl6T0VMQmNqMnJ6LXdUalRVMlFiTmxQZ0J3S2lhYmw5dXJQY3EwOUhJcU1yS0NaR0lLSjJiWEU?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-04-29",
+          "views": "18.0K"
+        },
         {
           "title": "Citigroup lifts AI market view to over $4 trillion on enterprise adoption - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLU9iWXAwYy1yTUQ1X19Rc05wMGJjMzVBYTR6MkdHNVQwb3NrbWZKNDBtbmZ5aXlDSk0tdlJzaVZQaWdNVmxBS19wZFl5blFuODhoWUQxT1pKX19GRmx0TG1wOHFSM3Zval9ZWUxQX2V4SElNVXR1djdTRHJ5ZTZNNU1CTkNqZ1ZtYlFkWGw5dDc0cWp0TXl0bnpYeVlMS3FCSW1CSEt4SmIyTUNJNGlGVVdPMFRMYmF1bUIw?oc=5\" target=\"_blank\">Citigroup lifts AI market view to over $4 trillion on enterprise adoption</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
@@ -93,14 +101,6 @@
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOalBVaFl4aFcydUFKT014MTI5LUFVWUY5ektyU3ZLQUlrb3hCazlMNi1iREtuajV1MWhYWmNmYlJ1NjNsWE5rZHVLdzMwdHN4UHRIWHRoZUdfUm1wNGNDbkR6cV9WbzhhZWhhckV3VmlZRm1rakZRbDBMenBNMnpGaXN3dlplNXlCa3RFOWIzemlCSUVRQllhdWVFUnZESlJ2dWFYM01pVlk?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-04-24",
-          "views": "18.0K"
-        },
-        {
-          "title": "New startup BAND debuts agentic mesh with deterministic routing to govern multiple enterprise AI agents across model providers, channels - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRld5NFNiUjdoWm1uaGlROXI2ajFfOHNBdV9JNEFVc2laR295NnlibkRKcFNRUEN6NHBPZWp2N2c0MEI1alRwRnhBOTVPZ1lTeXVLNHFkeDJGMTRQZXZZQmtXa2cyYVRwU2NNMDhtSEZaZ216dk5uTU1vdWpOTEVWb3hISmF2aDh3aUt0cVhNYjhFMXA1TVFFTVFweF9meUU3Um03OE9iRng4Z01wRXM5SEM2MURCUDF5bTVHZnFKYzh5RkVKTVdDMzZFREp6cFYxMTFiTk9WOFNhalNxeHRtd3RtcExYQ2xCaHIyakgwdw?oc=5\" target=\"_blank\">New startup BAND debuts agentic mesh with deterministic routing to govern multiple enterprise AI agents across model providers, channels</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRld5NFNiUjdoWm1uaGlROXI2ajFfOHNBdV9JNEFVc2laR295NnlibkRKcFNRUEN6NHBPZWp2N2c0MEI1alRwRnhBOTVPZ1lTeXVLNHFkeDJGMTRQZXZZQmtXa2cyYVRwU2NNMDhtSEZaZ216dk5uTU1vdWpOTEVWb3hISmF2aDh3aUt0cVhNYjhFMXA1TVFFTVFweF9meUU3Um03OE9iRng4Z01wRXM5SEM2MURCUDF5bTVHZnFKYzh5RkVKTVdDMzZFREp6cFYxMTFiTk9WOFNhalNxeHRtd3RtcExYQ2xCaHIyakgwdw?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-04-23",
           "views": "18.0K"
         }
       ]
@@ -127,11 +127,11 @@
           "views": "18.0K"
         },
         {
-          "title": "Korean labor law loophole leaves microbusiness workers unprotected - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVnNMZ2M1UkVnYjV3WGtnRkRJUlBLMVRiYnBvbVZXckRKNkVQUmh5STZlT1hleThrZDczRWJVWDZZQm9zYVE2UlA3MUtmeV9hRlNiVWlBTm1ONkd2VzhfQk1ZcTVsUDVDVkZZQWJpNFhJY0pmdDh5cHR1LV9sbEVlNUlYSE9nYU5jSDlDWk04dm9yWktseTAyQUJ1aERqcERZaE45a3hvblVtZnFaUDgycklVZEtWWHY3WWxKOTVYek_SAcYBQVVfeXFMUEVOcFA4cnhObi0tOEZubVk1S19PMlI1QVA0T0M5TDJ4ZEFMM1dZYldRZGJMVW12bFlPc0lLV1hHcnRvXy1JaTZqeTBxTndUNzJNVDY5MVhHeHkxSmowdVB5QlRuT2dlOFVSaDR3WGJ6b2xGTDJxS0taMnhVNFFOYmlUb2ZlM014bFc3dVpISTJNLWVVY2RwZnZfUXlOaHpvRXB0czdqMzYyWFh1b2lnRXlPYUpWUHFYZ0UzVjF6TnZnS0FMRWV3?oc=5\" target=\"_blank\">Korean labor law loophole leaves microbusiness workers unprotected</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVnNMZ2M1UkVnYjV3WGtnRkRJUlBLMVRiYnBvbVZXckRKNkVQUmh5STZlT1hleThrZDczRWJVWDZZQm9zYVE2UlA3MUtmeV9hRlNiVWlBTm1ONkd2VzhfQk1ZcTVsUDVDVkZZQWJpNFhJY0pmdDh5cHR1LV9sbEVlNUlYSE9nYU5jSDlDWk04dm9yWktseTAyQUJ1aERqcERZaE45a3hvblVtZnFaUDgycklVZEtWWHY3WWxKOTVYek_SAcYBQVVfeXFMUEVOcFA4cnhObi0tOEZubVk1S19PMlI1QVA0T0M5TDJ4ZEFMM1dZYldRZGJMVW12bFlPc0lLV1hHcnRvXy1JaTZqeTBxTndUNzJNVDY5MVhHeHkxSmowdVB5QlRuT2dlOFVSaDR3WGJ6b2xGTDJxS0taMnhVNFFOYmlUb2ZlM014bFc3dVpISTJNLWVVY2RwZnZfUXlOaHpvRXB0czdqMzYyWFh1b2lnRXlPYUpWUHFYZ0UzVjF6TnZnS0FMRWV3?oc=5",
+          "title": "'New neocons' influence Trump as North Korea faces increased risk - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQOGNxSVZ2VENQYnROQ1YycnVKRTgxV01MZ1Q3WDFVcW1oWEs5amRYZlJiMVVIQ0hiX252TFJidGhRLVRiZklyUHpKTVdtTUFzWUkyWnZSZEpiQ3Fud3EyX0twQU9TcWZRUFhBdlFTeHNpZkZib3JvRkoyVWpyVkpmVUVnZTN3X2J0VzRYdk9neHdhZUV0dUZJSUtNNFo2U25tRWlXRjNuVW8zaGxvUE9NWmhBVnoxRHfSAbwBQVVfeXFMUDVXekxyYzQxaTR5SGJNMDd2MXdLY290cFhDX2J3M0NlNTNDeDFkdWRVc09nN2RuWndlTlFKbUwzeEQ4bTZ5TF9GN1B5MUdrSm95QnIxTFFJdkZELXIzQXdTYkJPMUc0Ql80YVZUQTJENHNFT3M0WmJTc0lYLWJOQXFiLTVDbV9pM1BBMXBzN2N6ZTRqTjFwYkpVXzkyenhNLWktbl9RWThMYjJDNi1RUFE4M25ocXN2WlFOeVU?oc=5\" target=\"_blank\">'New neocons' influence Trump as North Korea faces increased risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOGNxSVZ2VENQYnROQ1YycnVKRTgxV01MZ1Q3WDFVcW1oWEs5amRYZlJiMVVIQ0hiX252TFJidGhRLVRiZklyUHpKTVdtTUFzWUkyWnZSZEpiQ3Fud3EyX0twQU9TcWZRUFhBdlFTeHNpZkZib3JvRkoyVWpyVkpmVUVnZTN3X2J0VzRYdk9neHdhZUV0dUZJSUtNNFo2U25tRWlXRjNuVW8zaGxvUE9NWmhBVnoxRHfSAbwBQVVfeXFMUDVXekxyYzQxaTR5SGJNMDd2MXdLY290cFhDX2J3M0NlNTNDeDFkdWRVc09nN2RuWndlTlFKbUwzeEQ4bTZ5TF9GN1B5MUdrSm95QnIxTFFJdkZELXIzQXdTYkJPMUc0Ql80YVZUQTJENHNFT3M0WmJTc0lYLWJOQXFiLTVDbV9pM1BBMXBzN2N6ZTRqTjFwYkpVXzkyenhNLWktbl9RWThMYjJDNi1RUFE4M25ocXN2WlFOeVU?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-04-29",
+          "publishedAt": "2026-04-30",
           "views": "13.0K"
         }
       ]
@@ -150,19 +150,19 @@
           "views": "18.0K"
         },
         {
-          "title": "Oil slips as market digests UAE exit from OPEC, supply concerns linger - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQXlrVUs5UEQxV1pTNkRzOTBVdWtaSW1ONTlkQmRmUHdld1BpVnlzWnRhYXZzeHRCXzhPTHpWTmpvbGN6dDlYaTd0WTBfMUZ0U1ZQX3g2M3ptbFNFUGhtQ3Q0NHg4SnFOeVozeTNQSXJ6dTFiZlkyd3ZhTmpzZDU2X2xjYWFrMDdkenJNbTNaQl9fVHliclZjazYxLVFLY2VEc3A0UC1mLTlzcl9LdW1IT3h6bko1b19aNzNkWVBwUzhQdw?oc=5\" target=\"_blank\">Oil slips as market digests UAE exit from OPEC, supply concerns linger</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQXlrVUs5UEQxV1pTNkRzOTBVdWtaSW1ONTlkQmRmUHdld1BpVnlzWnRhYXZzeHRCXzhPTHpWTmpvbGN6dDlYaTd0WTBfMUZ0U1ZQX3g2M3ptbFNFUGhtQ3Q0NHg4SnFOeVozeTNQSXJ6dTFiZlkyd3ZhTmpzZDU2X2xjYWFrMDdkenJNbTNaQl9fVHliclZjazYxLVFLY2VEc3A0UC1mLTlzcl9LdW1IT3h6bko1b19aNzNkWVBwUzhQdw?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-04-29",
+          "title": "Woori Bank hosts US investment seminar for Korean firms - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNVW5UbkpxRnNTbTdpWFBxN3N5Tmdqc3labWtyOEJtcVo0UjBnM28xZkVZZEoyLU5VM3pKV1E5OTlMaGNkMGpFZzlVcjB1Y19GcFZHYV9PdktudWpyYy1HRjVEczRGdEVBLS1GNWM2WEFWUUhBODQ0NWZtemlhSUZ4WXRNY2xNZWp0R0RucW9WZV94TzlHSXlvMUYzemdzX0pod1AxcGJGUlFwcXJpOFhNbUVrVVFMQ0VsY0HSAb8BQVVfeXFMTzhJZTBDdFRNdG5hSWktbXNXUXRwS0JldzBlWW0zbjVaMXVyUFBjOVYwamhVVXBRM194dmlmZ2pLeXVUYkVYYjZfRzFqTE05ZjZ3ZEFOQkFOYUs0UG5tbEtkaWNSVUxQTkV6YXA3OHZuN0twQmV5UVZqOXNFdXBrVEN5M19pSkE0cFd2WTdrTE11UXZQN0VLQlo2bjduc3Bqd254V243UmJUUktPck9SZmpDRlAyT3FtR015T3Y4eGs?oc=5\" target=\"_blank\">Woori Bank hosts US investment seminar for Korean firms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVW5UbkpxRnNTbTdpWFBxN3N5Tmdqc3labWtyOEJtcVo0UjBnM28xZkVZZEoyLU5VM3pKV1E5OTlMaGNkMGpFZzlVcjB1Y19GcFZHYV9PdktudWpyYy1HRjVEczRGdEVBLS1GNWM2WEFWUUhBODQ0NWZtemlhSUZ4WXRNY2xNZWp0R0RucW9WZV94TzlHSXlvMUYzemdzX0pod1AxcGJGUlFwcXJpOFhNbUVrVVFMQ0VsY0HSAb8BQVVfeXFMTzhJZTBDdFRNdG5hSWktbXNXUXRwS0JldzBlWW0zbjVaMXVyUFBjOVYwamhVVXBRM194dmlmZ2pLeXVUYkVYYjZfRzFqTE05ZjZ3ZEFOQkFOYUs0UG5tbEtkaWNSVUxQTkV6YXA3OHZuN0twQmV5UVZqOXNFdXBrVEN5M19pSkE0cFd2WTdrTE11UXZQN0VLQlo2bjduc3Bqd254V243UmJUUktPck9SZmpDRlAyT3FtR015T3Y4eGs?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-04-30",
           "views": "13.0K"
         },
         {
-          "title": "Korean stock market rises to 8th globally, overtakes UK on chip rally - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNUDdwNk92SW5vTE5taXFuUDlHZWhKSVJFLUkyVlRPSmhJaW5nSFJtZnlyZ3VObzBNUGh2aXVMcWNjc19aWG83cm5EU1JJUlVBMmZnTUtHSVFITnM5dlc2dkgwNFNSOU5aZ1lndnpiZVJfSTRrbi0tbUdXVWlBbjExMm9GOWphZU1uZnR3WFlvcnZfdFo1X3JoZkFMNmNfOUlnZVRLSmVnZkdJSmZpWnU3S2dNZjFsWjVySTg0MFRR0gHDAUFVX3lxTE1OMi0zZDdvMXpwOUZQMHEtSWlYcTlRMkh1T0lqTnQ4WE03M2ppcWt2UzYzcW51dmpNZ0pmaVlkRVVWX0d5UG9uRUcyczBqbTR2SGplVFZDRDMwa3ROVFNhenBycHlJYVRsYlJ0R2xlNFkyelJvTG50MjFtVjM0OTFnaDAtY0wxOG5Zb1JZZWsyZExlaVl5c2Z5XzNoSjBBdEo5M3NBcG1nN1ZuUHZ1ZUtFMXVUc19rb3U1emVMeEVWd3VRTQ?oc=5\" target=\"_blank\">Korean stock market rises to 8th globally, overtakes UK on chip rally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUDdwNk92SW5vTE5taXFuUDlHZWhKSVJFLUkyVlRPSmhJaW5nSFJtZnlyZ3VObzBNUGh2aXVMcWNjc19aWG83cm5EU1JJUlVBMmZnTUtHSVFITnM5dlc2dkgwNFNSOU5aZ1lndnpiZVJfSTRrbi0tbUdXVWlBbjExMm9GOWphZU1uZnR3WFlvcnZfdFo1X3JoZkFMNmNfOUlnZVRLSmVnZkdJSmZpWnU3S2dNZjFsWjVySTg0MFRR0gHDAUFVX3lxTE1OMi0zZDdvMXpwOUZQMHEtSWlYcTlRMkh1T0lqTnQ4WE03M2ppcWt2UzYzcW51dmpNZ0pmaVlkRVVWX0d5UG9uRUcyczBqbTR2SGplVFZDRDMwa3ROVFNhenBycHlJYVRsYlJ0R2xlNFkyelJvTG50MjFtVjM0OTFnaDAtY0wxOG5Zb1JZZWsyZExlaVl5c2Z5XzNoSjBBdEo5M3NBcG1nN1ZuUHZ1ZUtFMXVUc19rb3U1emVMeEVWd3VRTQ?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-04-28",
+          "title": "'Peak pound' may be over as multiple risks mount for UK markets - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPNzFEUGtEdkxRY0NMZ0xRdjJTdm54RkxFSDl2aGNWTUNtM3FhYVlLSUVvWFFXSWFQY190S2pHaDBITkNRSmM0RThCTEhLcFF3ZDNBa0cxZU1uN1Q4LWptVThETTJ5bFQ5bVV4YWFFbHVkQWktdzJwMmhLMDVwTmJibkRMei04Sjd5MGJpc2RCR1E5RHJCQ29XaXFlcF9fRFdw?oc=5\" target=\"_blank\">'Peak pound' may be over as multiple risks mount for UK markets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNzFEUGtEdkxRY0NMZ0xRdjJTdm54RkxFSDl2aGNWTUNtM3FhYVlLSUVvWFFXSWFQY190S2pHaDBITkNRSmM0RThCTEhLcFF3ZDNBa0cxZU1uN1Q4LWptVThETTJ5bFQ5bVV4YWFFbHVkQWktdzJwMmhLMDVwTmJibkRMei04Sjd5MGJpc2RCR1E5RHJCQ29XaXFlcF9fRFdw?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-04-30",
           "views": "13.0K"
         }
       ]
@@ -181,17 +181,17 @@
           "views": "18.0K"
         },
         {
-          "title": "Kookmin University, GE Aerospace hold seminar to deepen industry-academia cooperation - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNjFUcmd2WTZoWGxHQVp3cmxoUEEtZGtIZmpNS2R4SHgwbV9NdTV6R2tScDExYUpJNEpPVnBCLThHZVFNM1lSamlxMHpGRnRUQzhyZFp0aUpxUEhpWWwwWXo4dWVIUGtiSzV6V2lrSjhwc2VqRDl4QURJbFR3ZkNQZkFhVENhR1dqVTdmRkwwSUFrbnRrMHU4QVNkX1dXWFIycXFKbkpjTGNRVWxQaDQ2UlNSZGRhR3VOUHB6ZkM3THUwVnZ2TmlOc1hmdHNVRldHaEF2VjJ2MlRYYW9aNzBxZWh30gHcAUFVX3lxTFBBMDFXcWQ5eDVpWXRpZG5KemUyTENWeU5obnNldEUzYUU0QjVNY3ZfbUxJTHJQZGItWmkyZWdaclc0VEpRVm5XdGFlRU9MSGVLMjZ3dWxMVDVEXzdHSk5XRG1IdkFGSkFYeTJ0MTRGLXBoOGYwTjZISFpRS0ExaldFWGdMTDdVQ3NoaUVhN292dlhqMUwxVTZFV0w5UDl2d09DWGRJbFFyUDc2aDYxbmN3N1B5ZjljUERTQ2lJQ1VZa0V2ZlhBUktmUV9oYlhmNEJ5czR4eFdmZm03bmQ?oc=5\" target=\"_blank\">Kookmin University, GE Aerospace hold seminar to deepen industry-academia cooperation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNjFUcmd2WTZoWGxHQVp3cmxoUEEtZGtIZmpNS2R4SHgwbV9NdTV6R2tScDExYUpJNEpPVnBCLThHZVFNM1lSamlxMHpGRnRUQzhyZFp0aUpxUEhpWWwwWXo4dWVIUGtiSzV6V2lrSjhwc2VqRDl4QURJbFR3ZkNQZkFhVENhR1dqVTdmRkwwSUFrbnRrMHU4QVNkX1dXWFIycXFKbkpjTGNRVWxQaDQ2UlNSZGRhR3VOUHB6ZkM3THUwVnZ2TmlOc1hmdHNVRldHaEF2VjJ2MlRYYW9aNzBxZWh30gHcAUFVX3lxTFBBMDFXcWQ5eDVpWXRpZG5KemUyTENWeU5obnNldEUzYUU0QjVNY3ZfbUxJTHJQZGItWmkyZWdaclc0VEpRVm5XdGFlRU9MSGVLMjZ3dWxMVDVEXzdHSk5XRG1IdkFGSkFYeTJ0MTRGLXBoOGYwTjZISFpRS0ExaldFWGdMTDdVQ3NoaUVhN292dlhqMUwxVTZFV0w5UDl2d09DWGRJbFFyUDc2aDYxbmN3N1B5ZjljUERTQ2lJQ1VZa0V2ZlhBUktmUV9oYlhmNEJ5czR4eFdmZm03bmQ?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-04-29",
+          "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQM0xfM3dNS3hfTzc2NW9Wd3FkS0trdkpHalAtWG1wMkFkV0kxaDZKdzI0Sm9rSFExUVhkMG55dEcyOFU2c1lVeFRKOW84eGdxNDJVWC0xVUJUdlQ1VVpFVDh3Zmw5X2JYQ01wbWZINzBpeFREeTh5aFh0M0hha2dkNUVkRWhqNkZwQmRvNm8tdnFYakJqVGNyN0poeHZ1M1hMbFZjeG5Jdm11MGZqQTRjNUh3TUNPeVVxQnpSNmJCRGlaZnVBYzBoQg?oc=5\" target=\"_blank\">SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQM0xfM3dNS3hfTzc2NW9Wd3FkS0trdkpHalAtWG1wMkFkV0kxaDZKdzI0Sm9rSFExUVhkMG55dEcyOFU2c1lVeFRKOW84eGdxNDJVWC0xVUJUdlQ1VVpFVDh3Zmw5X2JYQ01wbWZINzBpeFREeTh5aFh0M0hha2dkNUVkRWhqNkZwQmRvNm8tdnFYakJqVGNyN0poeHZ1M1hMbFZjeG5Jdm11MGZqQTRjNUh3TUNPeVVxQnpSNmJCRGlaZnVBYzBoQg?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-04-30",
           "views": "13.0K"
         },
         {
-          "title": "Defense minister voices hope for greater defense industry partnership with Latvia - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNbVpNWGpyQXBIUmRwWlczSFBhZDZyXzFJa1ZTeWI1cW9ZaTdyUXp4Z205eFJzQ2Z2cnBacDNtbWEwU0lFNEFjR1lRdm9RYkIyTE5JM1JTWS1wX0NMNXMydmpnc19nLXlOdzNwWHFtZ0VQd2xKSjVKbWU3RE1YNWhTTkVZVnRPTUQ1RTYyLXVUaXh5eXp3a3ZQaU1FdUlITDBaZjJRMnl3MEU1VVI4S2gtUVlHV25tbkJrd050NzZBdFNla3VJTlVHMU83V1N2ZHPSAdQBQVVfeXFMTkRyb0c4STVib3cxZlo4a1FobFM0Vm81aDg1RWI5UUV2b2Rldktfa2dlYXA5S2lyVU1ic041ekJXVERDT2tHa1RZT3VuS0JZYTRuNG1sa2w4NnNHVjdQU216bU9WRS1IdVdIRzZBc0w4M0pCZ1RwRlkwM01JekxJQmlWNG83ZWRQSmtET0w4U19qOVlkREh1cTY3M2NDSVZPWEVyRVN4TGpPNTAzRGdPZlhQdG8yVHE3ZkM5RjlST0p1QUI5NC1hNGRxUW4xcjZ5Nkd4NnM?oc=5\" target=\"_blank\">Defense minister voices hope for greater defense industry partnership with Latvia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbVpNWGpyQXBIUmRwWlczSFBhZDZyXzFJa1ZTeWI1cW9ZaTdyUXp4Z205eFJzQ2Z2cnBacDNtbWEwU0lFNEFjR1lRdm9RYkIyTE5JM1JTWS1wX0NMNXMydmpnc19nLXlOdzNwWHFtZ0VQd2xKSjVKbWU3RE1YNWhTTkVZVnRPTUQ1RTYyLXVUaXh5eXp3a3ZQaU1FdUlITDBaZjJRMnl3MEU1VVI4S2gtUVlHV25tbkJrd050NzZBdFNla3VJTlVHMU83V1N2ZHPSAdQBQVVfeXFMTkRyb0c4STVib3cxZlo4a1FobFM0Vm81aDg1RWI5UUV2b2Rldktfa2dlYXA5S2lyVU1ic041ekJXVERDT2tHa1RZT3VuS0JZYTRuNG1sa2w4NnNHVjdQU216bU9WRS1IdVdIRzZBc0w4M0pCZ1RwRlkwM01JekxJQmlWNG83ZWRQSmtET0w4U19qOVlkREh1cTY3M2NDSVZPWEVyRVN4TGpPNTAzRGdPZlhQdG8yVHE3ZkM5RjlST0p1QUI5NC1hNGRxUW4xcjZ5Nkd4NnM?oc=5",
+          "title": "Kookmin University, GE Aerospace hold seminar to deepen industry-academia cooperation - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNjFUcmd2WTZoWGxHQVp3cmxoUEEtZGtIZmpNS2R4SHgwbV9NdTV6R2tScDExYUpJNEpPVnBCLThHZVFNM1lSamlxMHpGRnRUQzhyZFp0aUpxUEhpWWwwWXo4dWVIUGtiSzV6V2lrSjhwc2VqRDl4QURJbFR3ZkNQZkFhVENhR1dqVTdmRkwwSUFrbnRrMHU4QVNkX1dXWFIycXFKbkpjTGNRVWxQaDQ2UlNSZGRhR3VOUHB6ZkM3THUwVnZ2TmlOc1hmdHNVRldHaEF2VjJ2MlRYYW9aNzBxZWh30gHcAUFVX3lxTFBBMDFXcWQ5eDVpWXRpZG5KemUyTENWeU5obnNldEUzYUU0QjVNY3ZfbUxJTHJQZGItWmkyZWdaclc0VEpRVm5XdGFlRU9MSGVLMjZ3dWxMVDVEXzdHSk5XRG1IdkFGSkFYeTJ0MTRGLXBoOGYwTjZISFpRS0ExaldFWGdMTDdVQ3NoaUVhN292dlhqMUwxVTZFV0w5UDl2d09DWGRJbFFyUDc2aDYxbmN3N1B5ZjljUERTQ2lJQ1VZa0V2ZlhBUktmUV9oYlhmNEJ5czR4eFdmZm03bmQ?oc=5\" target=\"_blank\">Kookmin University, GE Aerospace hold seminar to deepen industry-academia cooperation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNjFUcmd2WTZoWGxHQVp3cmxoUEEtZGtIZmpNS2R4SHgwbV9NdTV6R2tScDExYUpJNEpPVnBCLThHZVFNM1lSamlxMHpGRnRUQzhyZFp0aUpxUEhpWWwwWXo4dWVIUGtiSzV6V2lrSjhwc2VqRDl4QURJbFR3ZkNQZkFhVENhR1dqVTdmRkwwSUFrbnRrMHU4QVNkX1dXWFIycXFKbkpjTGNRVWxQaDQ2UlNSZGRhR3VOUHB6ZkM3THUwVnZ2TmlOc1hmdHNVRldHaEF2VjJ2MlRYYW9aNzBxZWh30gHcAUFVX3lxTFBBMDFXcWQ5eDVpWXRpZG5KemUyTENWeU5obnNldEUzYUU0QjVNY3ZfbUxJTHJQZGItWmkyZWdaclc0VEpRVm5XdGFlRU9MSGVLMjZ3dWxMVDVEXzdHSk5XRG1IdkFGSkFYeTJ0MTRGLXBoOGYwTjZISFpRS0ExaldFWGdMTDdVQ3NoaUVhN292dlhqMUwxVTZFV0w5UDl2d09DWGRJbFFyUDc2aDYxbmN3N1B5ZjljUERTQ2lJQ1VZa0V2ZlhBUktmUV9oYlhmNEJ5czR4eFdmZm03bmQ?oc=5",
           "source": "The Korea Times",
           "publishedAt": "2026-04-29",
           "views": "13.0K"
