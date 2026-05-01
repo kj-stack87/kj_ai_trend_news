@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-30T07:55:24.923Z",
+  "lastUpdated": "2026-05-01T07:54:42.156Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,14 +49,6 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
-          "title": "OpenAI's GPT-5.5 is here, and it's no potato: narrowly beats Anthropic's Claude Mythos Preview on Terminal-Bench 2.0 - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbFZvQ3FjcDFyOUdubWFhSzVyUzNHN3dkUWl6bG5YWG5mZ01hNkVRdllmSWF5UGtaTEk5dEtWbHIxeEtDc3FNUGV2QzE2XzYtUEJqb1ZOQTBIN1NSMGkzbGNLdlRwVXJRaVJuS1hVT2FxTmVHRHhBQWg2MGxUbldiUkJnSDVyMnc1N1BEZXZOWU1IRHZINE5uOUppQnYyNlRvR3hJYjBVLU9vWVFKSktPU1dSeWhFa3kzaXVhMk9JT2RXU3BlUk1mc2dBdEhTVkZCSFMxNUZwbkJyU0FDbk1F?oc=5\" target=\"_blank\">OpenAI's GPT-5.5 is here, and it's no potato: narrowly beats Anthropic's Claude Mythos Preview on Terminal-Bench 2.0</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbFZvQ3FjcDFyOUdubWFhSzVyUzNHN3dkUWl6bG5YWG5mZ01hNkVRdllmSWF5UGtaTEk5dEtWbHIxeEtDc3FNUGV2QzE2XzYtUEJqb1ZOQTBIN1NSMGkzbGNLdlRwVXJRaVJuS1hVT2FxTmVHRHhBQWg2MGxUbldiUkJnSDVyMnc1N1BEZXZOWU1IRHZINE5uOUppQnYyNlRvR3hJYjBVLU9vWVFKSktPU1dSeWhFa3kzaXVhMk9JT2RXU3BlUk1mc2dBdEhTVkZCSFMxNUZwbkJyU0FDbk1F?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-04-23",
-          "views": "23.0K"
-        },
-        {
           "title": "Samsung Electronics posts record $38.5 bil. Q1 operating profit on AI chip boom - The Korea Times",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNWHc1ZllmNFNyaXFxNGJXOG5DaGdQYkZvOWV6ZzJoMUFTaUI0X0w2UmNPeXViOHQ2ZzV5QVdpTUNsWXBtYUdDb2pKWkpCYkU3dThvYlJtSmQ2S0xxNTk5b3BBSUFPR2l6RFQyYlZKeEZ6c1BIV1hFMmlaelVZZURXMjZEQ1BYRnV3a1QwZkJOZ3dLaW9rc1cxaFdSVGp5Zy1Ya2JEcWpBVVFhUUJ0QmlHZkE3TldIWENjdlViXzg4SEZPSTZwZjU5UUxZNmlkd9IB0wFBVV95cUxNZVNQcl94WlBDMjRZbjJBeTBhbmRteUd1TGk3TUJaemhWQlFVNDltMWx3ZG9DTWJPMzUxMmJKSENsVjJoY2Z3YzlRdDY5Q202SDNJMWRLX09rWE1JS0lIY0RfU1NQcEFXMmNUbXNaWlhPeldBekVJT2dKWEExSXZhcTVnTlpoMkpSVmNvTjBGUkU5YjY5TV9yTUJVdmtJc1JheDR4NzBNYWQ4VjJsRWFyNnRkbWJLWklYV2gzTEZuZDRkdXVha3AwUndzRUxiRE5qSXBN?oc=5\" target=\"_blank\">Samsung Electronics posts record $38.5 bil. Q1 operating profit on AI chip boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWHc1ZllmNFNyaXFxNGJXOG5DaGdQYkZvOWV6ZzJoMUFTaUI0X0w2UmNPeXViOHQ2ZzV5QVdpTUNsWXBtYUdDb2pKWkpCYkU3dThvYlJtSmQ2S0xxNTk5b3BBSUFPR2l6RFQyYlZKeEZ6c1BIV1hFMmlaelVZZURXMjZEQ1BYRnV3a1QwZkJOZ3dLaW9rc1cxaFdSVGp5Zy1Ya2JEcWpBVVFhUUJ0QmlHZkE3TldIWENjdlViXzg4SEZPSTZwZjU5UUxZNmlkd9IB0wFBVV95cUxNZVNQcl94WlBDMjRZbjJBeTBhbmRteUd1TGk3TUJaemhWQlFVNDltMWx3ZG9DTWJPMzUxMmJKSENsVjJoY2Z3YzlRdDY5Q202SDNJMWRLX09rWE1JS0lIY0RfU1NQcEFXMmNUbXNaWlhPeldBekVJT2dKWEExSXZhcTVnTlpoMkpSVmNvTjBGUkU5YjY5TV9yTUJVdmtJc1JheDR4NzBNYWQ4VjJsRWFyNnRkbWJLWklYV2gzTEZuZDRkdXVha3AwUndzRUxiRE5qSXBN?oc=5",
@@ -71,6 +63,14 @@
           "source": "AI News",
           "publishedAt": "2026-04-29",
           "views": "18.0K"
+        },
+        {
+          "title": "DeepSeek unveils new AI model tailored for Huawei chips as China pushes for tech autonomy - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUVllcUNPUUdaaW1PZlVEblJFME5Ecnl3R1lvQmYwTVRUdUE2dng2cTdDNUFkTmVkRzNIcEk5WTRKdDJEX3BudElma2hGUjFTTDRTR2xNcndid2VzVmx6Y192Z0FmcDMwVm5nY3ZGY0k3VFVJZFM0dk9vYlhnTGNfU2tlbnRRLVJSbGpXS0J5X1k0MUh1LUZZSE54QUlXNzZLdDNyX3ZicVl0QzA?oc=5\" target=\"_blank\">DeepSeek unveils new AI model tailored for Huawei chips as China pushes for tech autonomy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUVllcUNPUUdaaW1PZlVEblJFME5Ecnl3R1lvQmYwTVRUdUE2dng2cTdDNUFkTmVkRzNIcEk5WTRKdDJEX3BudElma2hGUjFTTDRTR2xNcndid2VzVmx6Y192Z0FmcDMwVm5nY3ZGY0k3VFVJZFM0dk9vYlhnTGNfU2tlbnRRLVJSbGpXS0J5X1k0MUh1LUZZSE54QUlXNzZLdDNyX3ZicVl0QzA?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-04-27",
+          "views": "18.0K"
         }
       ]
     },
@@ -80,14 +80,6 @@
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
         {
-          "title": "Enterprise RAG rebuild: hybrid retrieval adoption tripled in Q1 2026 - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQVXZTOUVoU2tuYkFyUkdJTVR6emxnUC1QS3JNTDdKTGxmeV9HR3dwSGpiTk5LVGZTV1FzUzBSQ0x3em5oTlVMb2kybGtUdXhSLV85bU9fdGpXb3BrSVItMnFLeGNHZ2FWVTFWLUNyMGowdW9Oc2psVGQ3bDgzVkVWWW9HU3d4a1Y0R0VnTTF4TktpUWxrekl6T0VMQmNqMnJ6LXdUalRVMlFiTmxQZ0J3S2lhYmw5dXJQY3EwOUhJcU1yS0NaR0lLSjJiWEU?oc=5\" target=\"_blank\">Enterprise RAG rebuild: hybrid retrieval adoption tripled in Q1 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVXZTOUVoU2tuYkFyUkdJTVR6emxnUC1QS3JNTDdKTGxmeV9HR3dwSGpiTk5LVGZTV1FzUzBSQ0x3em5oTlVMb2kybGtUdXhSLV85bU9fdGpXb3BrSVItMnFLeGNHZ2FWVTFWLUNyMGowdW9Oc2psVGQ3bDgzVkVWWW9HU3d4a1Y0R0VnTTF4TktpUWxrekl6T0VMQmNqMnJ6LXdUalRVMlFiTmxQZ0J3S2lhYmw5dXJQY3EwOUhJcU1yS0NaR0lLSjJiWEU?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-04-29",
-          "views": "18.0K"
-        },
-        {
           "title": "Citigroup lifts AI market view to over $4 trillion on enterprise adoption - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLU9iWXAwYy1yTUQ1X19Rc05wMGJjMzVBYTR6MkdHNVQwb3NrbWZKNDBtbmZ5aXlDSk0tdlJzaVZQaWdNVmxBS19wZFl5blFuODhoWUQxT1pKX19GRmx0TG1wOHFSM3Zval9ZWUxQX2V4SElNVXR1djdTRHJ5ZTZNNU1CTkNqZ1ZtYlFkWGw5dDc0cWp0TXl0bnpYeVlMS3FCSW1CSEt4SmIyTUNJNGlGVVdPMFRMYmF1bUIw?oc=5\" target=\"_blank\">Citigroup lifts AI market view to over $4 trillion on enterprise adoption</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLU9iWXAwYy1yTUQ1X19Rc05wMGJjMzVBYTR6MkdHNVQwb3NrbWZKNDBtbmZ5aXlDSk0tdlJzaVZQaWdNVmxBS19wZFl5blFuODhoWUQxT1pKX19GRmx0TG1wOHFSM3Zval9ZWUxQX2V4SElNVXR1djdTRHJ5ZTZNNU1CTkNqZ1ZtYlFkWGw5dDc0cWp0TXl0bnpYeVlMS3FCSW1CSEt4SmIyTUNJNGlGVVdPMFRMYmF1bUIw?oc=5",
@@ -96,12 +88,20 @@
           "views": "18.0K"
         },
         {
-          "title": "85% of enterprises are running AI agents. Only 5% trust them enough to ship. - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOalBVaFl4aFcydUFKT014MTI5LUFVWUY5ektyU3ZLQUlrb3hCazlMNi1iREtuajV1MWhYWmNmYlJ1NjNsWE5rZHVLdzMwdHN4UHRIWHRoZUdfUm1wNGNDbkR6cV9WbzhhZWhhckV3VmlZRm1rakZRbDBMenBNMnpGaXN3dlplNXlCa3RFOWIzemlCSUVRQllhdWVFUnZESlJ2dWFYM01pVlk?oc=5\" target=\"_blank\">85% of enterprises are running AI agents. Only 5% trust them enough to ship.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "title": "85% of enterprises are running AI agents. Only 5% trust them enough to ship. - Venturebeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOalBVaFl4aFcydUFKT014MTI5LUFVWUY5ektyU3ZLQUlrb3hCazlMNi1iREtuajV1MWhYWmNmYlJ1NjNsWE5rZHVLdzMwdHN4UHRIWHRoZUdfUm1wNGNDbkR6cV9WbzhhZWhhckV3VmlZRm1rakZRbDBMenBNMnpGaXN3dlplNXlCa3RFOWIzemlCSUVRQllhdWVFUnZESlJ2dWFYM01pVlk?oc=5\" target=\"_blank\">85% of enterprises are running AI agents. Only 5% trust them enough to ship.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Venturebeat</font>",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOalBVaFl4aFcydUFKT014MTI5LUFVWUY5ektyU3ZLQUlrb3hCazlMNi1iREtuajV1MWhYWmNmYlJ1NjNsWE5rZHVLdzMwdHN4UHRIWHRoZUdfUm1wNGNDbkR6cV9WbzhhZWhhckV3VmlZRm1rakZRbDBMenBNMnpGaXN3dlplNXlCa3RFOWIzemlCSUVRQllhdWVFUnZESlJ2dWFYM01pVlk?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-04-24",
           "views": "18.0K"
+        },
+        {
+          "title": "Topic: former cia agent - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52VzRKbUJ6cUhjSFF0NE1yaVppUlM5ckdaZ0JYSkhkOG52cjJpV0ZoTWtlb2ZtRGpUXzJ2bFpHUkZ2RFRHa21NUlFoSVhoUE1nWl9LUWNLcHFBNlBzekJGOGFVTWNUU28?oc=5\" target=\"_blank\">Topic: former cia agent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52VzRKbUJ6cUhjSFF0NE1yaVppUlM5ckdaZ0JYSkhkOG52cjJpV0ZoTWtlb2ZtRGpUXzJ2bFpHUkZ2RFRHa21NUlFoSVhoUE1nWl9LUWNLcHFBNlBzekJGOGFVTWNUU28?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-04-30",
+          "views": "13.0K"
         }
       ]
     },
@@ -111,11 +111,19 @@
       "description": "규제, 책임, 신뢰, 저작권 같은 문제를 보는 관점",
       "items": [
         {
-          "title": "Beyond IEEPA: When trade law becomes national security policy - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeFlTZ2RsTVAxOHNZX19WVEdiNXV0b2NBXzZteTEtTnAyNTM2aVdEVEpOYk5WX216TE1TSWR0Z3NsWTZsZzJIaUFzSnhEbVpDeXpVQTFWS3B6djlkZ1FPaXhlV2F3aUJaM2ZwTDk4NmNZOTFsb21URk9PdXB2TEd5V2VqTlNZMTZOdzlYeGNOTDBxazAtc094TzRYa0J6d3ZNSmF6VTlkZGFCY1BLRklWU3ctakwzMW80T3d6NEFnMk5QQQ?oc=5\" target=\"_blank\">Beyond IEEPA: When trade law becomes national security policy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeFlTZ2RsTVAxOHNZX19WVEdiNXV0b2NBXzZteTEtTnAyNTM2aVdEVEpOYk5WX216TE1TSWR0Z3NsWTZsZzJIaUFzSnhEbVpDeXpVQTFWS3B6djlkZ1FPaXhlV2F3aUJaM2ZwTDk4NmNZOTFsb21URk9PdXB2TEd5V2VqTlNZMTZOdzlYeGNOTDBxazAtc094TzRYa0J6d3ZNSmF6VTlkZGFCY1BLRklWU3ctakwzMW80T3d6NEFnMk5QQQ?oc=5",
+          "title": "China's foreign minister tells Rubio Taiwan is 'biggest risk' in ties - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNRlJ2dll4V25zaVVPYkc3YjZHR0Ztb3BqTEtpdVcybF9hTHZ1eUtIbDV2OWRfLU9qb2VVekc1NnZHNGxzNE9LWkFKRkhBZ09UWms2RjQ1cDBFdHFVU1BKb3lTNnNuN1dtTUdlaW5sRTlFWldyX3ZxczNFNDdjb1NBNlE1NHNiVGE5eDFmcDlON3d5Tng1QV9EbVNoaW9ORVRkVkxDbUNTZGRvNjNnSkxqcjhXOVBnZ2hVNUE?oc=5\" target=\"_blank\">China's foreign minister tells Rubio Taiwan is 'biggest risk' in ties</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRlJ2dll4V25zaVVPYkc3YjZHR0Ztb3BqTEtpdVcybF9hTHZ1eUtIbDV2OWRfLU9qb2VVekc1NnZHNGxzNE9LWkFKRkhBZ09UWms2RjQ1cDBFdHFVU1BKb3lTNnNuN1dtTUdlaW5sRTlFWldyX3ZxczNFNDdjb1NBNlE1NHNiVGE5eDFmcDlON3d5Tng1QV9EbVNoaW9ORVRkVkxDbUNTZGRvNjNnSkxqcjhXOVBnZ2hVNUE?oc=5",
           "source": "Reuters AI",
-          "publishedAt": "2026-04-27",
+          "publishedAt": "2026-04-30",
+          "views": "18.0K"
+        },
+        {
+          "title": "IMF warns Asia to keep policy in balance amid Middle East energy disruptions - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPSDRqMEFfTlBOTlpDekptVk54U0RHSTNaQ2FmZTBpeUR2VmM3bEJrQmJ6ME9ZWTNtTzlRd2Rod05wUE9jWXRKNzNwX01WdWVjb2FjWlhOREFGNFpuTVBqQ2JfLW9wQXJ5cjIyVlRzWjhJNDNkc2xITEpZSmtzNFpyQ1JQY0xyNE00ZFdfQU5kTGk3Sl9kVFVkUVpkTzBhLXdsc3F6ZEZudHdoVjlFNHlaWUZDem01MXc3c1psbC0wQQ?oc=5\" target=\"_blank\">IMF warns Asia to keep policy in balance amid Middle East energy disruptions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSDRqMEFfTlBOTlpDekptVk54U0RHSTNaQ2FmZTBpeUR2VmM3bEJrQmJ6ME9ZWTNtTzlRd2Rod05wUE9jWXRKNzNwX01WdWVjb2FjWlhOREFGNFpuTVBqQ2JfLW9wQXJ5cjIyVlRzWjhJNDNkc2xITEpZSmtzNFpyQ1JQY0xyNE00ZFdfQU5kTGk3Sl9kVFVkUVpkTzBhLXdsc3F6ZEZudHdoVjlFNHlaWUZDem01MXc3c1psbC0wQQ?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-04-30",
           "views": "18.0K"
         },
         {
@@ -125,14 +133,6 @@
           "source": "Reuters AI",
           "publishedAt": "2026-04-27",
           "views": "18.0K"
-        },
-        {
-          "title": "'New neocons' influence Trump as North Korea faces increased risk - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQOGNxSVZ2VENQYnROQ1YycnVKRTgxV01MZ1Q3WDFVcW1oWEs5amRYZlJiMVVIQ0hiX252TFJidGhRLVRiZklyUHpKTVdtTUFzWUkyWnZSZEpiQ3Fud3EyX0twQU9TcWZRUFhBdlFTeHNpZkZib3JvRkoyVWpyVkpmVUVnZTN3X2J0VzRYdk9neHdhZUV0dUZJSUtNNFo2U25tRWlXRjNuVW8zaGxvUE9NWmhBVnoxRHfSAbwBQVVfeXFMUDVXekxyYzQxaTR5SGJNMDd2MXdLY290cFhDX2J3M0NlNTNDeDFkdWRVc09nN2RuWndlTlFKbUwzeEQ4bTZ5TF9GN1B5MUdrSm95QnIxTFFJdkZELXIzQXdTYkJPMUc0Ql80YVZUQTJENHNFT3M0WmJTc0lYLWJOQXFiLTVDbV9pM1BBMXBzN2N6ZTRqTjFwYkpVXzkyenhNLWktbl9RWThMYjJDNi1RUFE4M25ocXN2WlFOeVU?oc=5\" target=\"_blank\">'New neocons' influence Trump as North Korea faces increased risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOGNxSVZ2VENQYnROQ1YycnVKRTgxV01MZ1Q3WDFVcW1oWEs5amRYZlJiMVVIQ0hiX252TFJidGhRLVRiZklyUHpKTVdtTUFzWUkyWnZSZEpiQ3Fud3EyX0twQU9TcWZRUFhBdlFTeHNpZkZib3JvRkoyVWpyVkpmVUVnZTN3X2J0VzRYdk9neHdhZUV0dUZJSUtNNFo2U25tRWlXRjNuVW8zaGxvUE9NWmhBVnoxRHfSAbwBQVVfeXFMUDVXekxyYzQxaTR5SGJNMDd2MXdLY290cFhDX2J3M0NlNTNDeDFkdWRVc09nN2RuWndlTlFKbUwzeEQ4bTZ5TF9GN1B5MUdrSm95QnIxTFFJdkZELXIzQXdTYkJPMUc0Ql80YVZUQTJENHNFT3M0WmJTc0lYLWJOQXFiLTVDbV9pM1BBMXBzN2N6ZTRqTjFwYkpVXzkyenhNLWktbl9RWThMYjJDNi1RUFE4M25ocXN2WlFOeVU?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-04-30",
-          "views": "13.0K"
         }
       ]
     },
@@ -141,6 +141,14 @@
       "hashtag": "#경제",
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
+        {
+          "title": "AI-related investment, rebound in government spending lift US economy in first quarter - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPUVBtZ01xZG5qYnZzcHFmS04wVVZMZmRjeGRYX2xPMkhlZ3RCVnJvZ2xLaHcyc01OTFhGbWlhX0Z3WDdWSjRjcXIxQkdrXzFobUp5cXAyNU5pbjgtQXBQYjFES3d5SXRaV3MwQjRkcS1hRzZoMTZJNmVYN1NzYUhaTzA2WTJ5VTVnSHExRC1udGNGMkMzbTFHZVhaMEtXZUMzdHRCeUVFQjBQak5JMW1RLXNGZw?oc=5\" target=\"_blank\">AI-related investment, rebound in government spending lift US economy in first quarter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUVBtZ01xZG5qYnZzcHFmS04wVVZMZmRjeGRYX2xPMkhlZ3RCVnJvZ2xLaHcyc01OTFhGbWlhX0Z3WDdWSjRjcXIxQkdrXzFobUp5cXAyNU5pbjgtQXBQYjFES3d5SXRaV3MwQjRkcS1hRzZoMTZJNmVYN1NzYUhaTzA2WTJ5VTVnSHExRC1udGNGMkMzbTFHZVhaMEtXZUMzdHRCeUVFQjBQak5JMW1RLXNGZw?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-04-30",
+          "views": "18.0K"
+        },
         {
           "title": "Lincoln International targets rare investment bank IPO in US markets - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQWnpPeC1OWGxPTElQZ2FablZlZTF2Tm94bGhfUzV0anBFbXM2RlBTVFAwZzVuQnJYSFk5QXgxOGgzZm5uSGxDMmYtcFNjTWdhUE1GejNxX3RqZlRJNDZIaHlnYVNfVkZ2ZGVaT3c0RURsM19OV25zMUJiaThuWkdnTloxRjFYaVpmOVhUby1qejRnVlc0TTBIem1QclBHLTlIS2FMSTFR?oc=5\" target=\"_blank\">Lincoln International targets rare investment bank IPO in US markets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
@@ -156,14 +164,6 @@
           "source": "The Korea Times",
           "publishedAt": "2026-04-30",
           "views": "13.0K"
-        },
-        {
-          "title": "'Peak pound' may be over as multiple risks mount for UK markets - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPNzFEUGtEdkxRY0NMZ0xRdjJTdm54RkxFSDl2aGNWTUNtM3FhYVlLSUVvWFFXSWFQY190S2pHaDBITkNRSmM0RThCTEhLcFF3ZDNBa0cxZU1uN1Q4LWptVThETTJ5bFQ5bVV4YWFFbHVkQWktdzJwMmhLMDVwTmJibkRMei04Sjd5MGJpc2RCR1E5RHJCQ29XaXFlcF9fRFdw?oc=5\" target=\"_blank\">'Peak pound' may be over as multiple risks mount for UK markets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNzFEUGtEdkxRY0NMZ0xRdjJTdm54RkxFSDl2aGNWTUNtM3FhYVlLSUVvWFFXSWFQY190S2pHaDBITkNRSmM0RThCTEhLcFF3ZDNBa0cxZU1uN1Q4LWptVThETTJ5bFQ5bVV4YWFFbHVkQWktdzJwMmhLMDVwTmJibkRMei04Sjd5MGJpc2RCR1E5RHJCQ29XaXFlcF9fRFdw?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-04-30",
-          "views": "13.0K"
         }
       ]
     },
@@ -173,27 +173,27 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
-          "title": "RAD Amplify Expands Collaboration with World’s Largest Holding Company for Third Year, Accelerating AI-Powered Creator Strategy with Ketchum - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxNanpZZUc5dXhwVzZ4WlhuNGlibVlqbkVsbGNPcUdjM3hJYzRNc3JVOVZhLUpoc0hHUGxCbnRuZFNYR2RmSE5FYU96ZzI1WnBBMlc3eXY4eURsSWE3VmRER3l1elhHeTNhc3dYZ2JpbXJnZ3VXOHRYejBxSHE1OTZwdFRyQWs5ZVlLckt2M3kxZlNjcDR6bnRKWHE3T3pOSk5ESHU1ZUZHR3F6b2hPQUpMRUw4X2YtUHZkdy1PSkNsbWFZRWo2QkdkOXpPV0xBNlNqZGRDMldQYzY0N2hmWG5Eb1ZTWWFsb3o3SEp4Vlh3ZkFQWEpUSkhQOHBDVUFiaGk0?oc=5\" target=\"_blank\">RAD Amplify Expands Collaboration with World’s Largest Holding Company for Third Year, Accelerating AI-Powered Creator Strategy with Ketchum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "title": "RAD Amplify Expands Collaboration with World’s Largest Holding Company for Third Year, Accelerating AI-Powered Creator Strategy with Ketchum - Venturebeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxNanpZZUc5dXhwVzZ4WlhuNGlibVlqbkVsbGNPcUdjM3hJYzRNc3JVOVZhLUpoc0hHUGxCbnRuZFNYR2RmSE5FYU96ZzI1WnBBMlc3eXY4eURsSWE3VmRER3l1elhHeTNhc3dYZ2JpbXJnZ3VXOHRYejBxSHE1OTZwdFRyQWs5ZVlLckt2M3kxZlNjcDR6bnRKWHE3T3pOSk5ESHU1ZUZHR3F6b2hPQUpMRUw4X2YtUHZkdy1PSkNsbWFZRWo2QkdkOXpPV0xBNlNqZGRDMldQYzY0N2hmWG5Eb1ZTWWFsb3o3SEp4Vlh3ZkFQWEpUSkhQOHBDVUFiaGk0?oc=5\" target=\"_blank\">RAD Amplify Expands Collaboration with World’s Largest Holding Company for Third Year, Accelerating AI-Powered Creator Strategy with Ketchum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Venturebeat</font>",
           "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNanpZZUc5dXhwVzZ4WlhuNGlibVlqbkVsbGNPcUdjM3hJYzRNc3JVOVZhLUpoc0hHUGxCbnRuZFNYR2RmSE5FYU96ZzI1WnBBMlc3eXY4eURsSWE3VmRER3l1elhHeTNhc3dYZ2JpbXJnZ3VXOHRYejBxSHE1OTZwdFRyQWs5ZVlLckt2M3kxZlNjcDR6bnRKWHE3T3pOSk5ESHU1ZUZHR3F6b2hPQUpMRUw4X2YtUHZkdy1PSkNsbWFZRWo2QkdkOXpPV0xBNlNqZGRDMldQYzY0N2hmWG5Eb1ZTWWFsb3o3SEp4Vlh3ZkFQWEpUSkhQOHBDVUFiaGk0?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-04-28",
           "views": "18.0K"
         },
         {
-          "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO - TechCrunch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQM0xfM3dNS3hfTzc2NW9Wd3FkS0trdkpHalAtWG1wMkFkV0kxaDZKdzI0Sm9rSFExUVhkMG55dEcyOFU2c1lVeFRKOW84eGdxNDJVWC0xVUJUdlQ1VVpFVDh3Zmw5X2JYQ01wbWZINzBpeFREeTh5aFh0M0hha2dkNUVkRWhqNkZwQmRvNm8tdnFYakJqVGNyN0poeHZ1M1hMbFZjeG5Jdm11MGZqQTRjNUh3TUNPeVVxQnpSNmJCRGlaZnVBYzBoQg?oc=5\" target=\"_blank\">SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQM0xfM3dNS3hfTzc2NW9Wd3FkS0trdkpHalAtWG1wMkFkV0kxaDZKdzI0Sm9rSFExUVhkMG55dEcyOFU2c1lVeFRKOW84eGdxNDJVWC0xVUJUdlQ1VVpFVDh3Zmw5X2JYQ01wbWZINzBpeFREeTh5aFh0M0hha2dkNUVkRWhqNkZwQmRvNm8tdnFYakJqVGNyN0poeHZ1M1hMbFZjeG5Jdm11MGZqQTRjNUh3TUNPeVVxQnpSNmJCRGlaZnVBYzBoQg?oc=5",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-04-30",
+          "title": "Labor unrest threatens to drag on Korea's manufacturing growth momentum - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOU3gwT2c1SWo3elh4ZVp0UlFSaVg4Ti1zQUYxMmp2d3EtMnNSclJuUU9uQzkwR0pkc1pNLVdGX3c4M1F3X2JjWDJwamhSc0xXcGZYZ1VYWXRUdTVEMHc4bDF1VDVsTktKc0N6Z1BtbHlCeEVVRnl6Ul9LNGtlZV9naUZwOHZ2OEJuSVduZ1RYUmFIXzJ1MEp1cW1VZkc2Ry1UYlRERmgtMlNxZnBUbkQtNmhvbTNydmlkQngzM21nTGpKempGMHfSAcsBQVVfeXFMTUNsTFFmVjVtNURZOHJYY2dScjdOdHcwOWdrOUJ6eXdNQjRsbU9RMW11THZJalFmQUZrOFBGcUYyYzRqWHZsQ3NUVDhiMGp4RFlvV2N5Sk5ZM3poZWY5WWZVVFFGQmg5RTc1cUlGRjZ3SUlEeVhTTDlNSUF4bUJtUEVMenFJNVdpazM4M0x3UlJOSndqNzZ6Qmc4UHA1aEZINVNQTU9HSmljcm96QjdoTnhTelJfb00wRUZqa3pHYzdnZGZha1dtUGFQWDA?oc=5\" target=\"_blank\">Labor unrest threatens to drag on Korea's manufacturing growth momentum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOU3gwT2c1SWo3elh4ZVp0UlFSaVg4Ti1zQUYxMmp2d3EtMnNSclJuUU9uQzkwR0pkc1pNLVdGX3c4M1F3X2JjWDJwamhSc0xXcGZYZ1VYWXRUdTVEMHc4bDF1VDVsTktKc0N6Z1BtbHlCeEVVRnl6Ul9LNGtlZV9naUZwOHZ2OEJuSVduZ1RYUmFIXzJ1MEp1cW1VZkc2Ry1UYlRERmgtMlNxZnBUbkQtNmhvbTNydmlkQngzM21nTGpKempGMHfSAcsBQVVfeXFMTUNsTFFmVjVtNURZOHJYY2dScjdOdHcwOWdrOUJ6eXdNQjRsbU9RMW11THZJalFmQUZrOFBGcUYyYzRqWHZsQ3NUVDhiMGp4RFlvV2N5Sk5ZM3poZWY5WWZVVFFGQmg5RTc1cUlGRjZ3SUlEeVhTTDlNSUF4bUJtUEVMenFJNVdpazM4M0x3UlJOSndqNzZ6Qmc4UHA1aEZINVNQTU9HSmljcm96QjdoTnhTelJfb00wRUZqa3pHYzdnZGZha1dtUGFQWDA?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-05-01",
           "views": "13.0K"
         },
         {
-          "title": "Kookmin University, GE Aerospace hold seminar to deepen industry-academia cooperation - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNjFUcmd2WTZoWGxHQVp3cmxoUEEtZGtIZmpNS2R4SHgwbV9NdTV6R2tScDExYUpJNEpPVnBCLThHZVFNM1lSamlxMHpGRnRUQzhyZFp0aUpxUEhpWWwwWXo4dWVIUGtiSzV6V2lrSjhwc2VqRDl4QURJbFR3ZkNQZkFhVENhR1dqVTdmRkwwSUFrbnRrMHU4QVNkX1dXWFIycXFKbkpjTGNRVWxQaDQ2UlNSZGRhR3VOUHB6ZkM3THUwVnZ2TmlOc1hmdHNVRldHaEF2VjJ2MlRYYW9aNzBxZWh30gHcAUFVX3lxTFBBMDFXcWQ5eDVpWXRpZG5KemUyTENWeU5obnNldEUzYUU0QjVNY3ZfbUxJTHJQZGItWmkyZWdaclc0VEpRVm5XdGFlRU9MSGVLMjZ3dWxMVDVEXzdHSk5XRG1IdkFGSkFYeTJ0MTRGLXBoOGYwTjZISFpRS0ExaldFWGdMTDdVQ3NoaUVhN292dlhqMUwxVTZFV0w5UDl2d09DWGRJbFFyUDc2aDYxbmN3N1B5ZjljUERTQ2lJQ1VZa0V2ZlhBUktmUV9oYlhmNEJ5czR4eFdmZm03bmQ?oc=5\" target=\"_blank\">Kookmin University, GE Aerospace hold seminar to deepen industry-academia cooperation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNjFUcmd2WTZoWGxHQVp3cmxoUEEtZGtIZmpNS2R4SHgwbV9NdTV6R2tScDExYUpJNEpPVnBCLThHZVFNM1lSamlxMHpGRnRUQzhyZFp0aUpxUEhpWWwwWXo4dWVIUGtiSzV6V2lrSjhwc2VqRDl4QURJbFR3ZkNQZkFhVENhR1dqVTdmRkwwSUFrbnRrMHU4QVNkX1dXWFIycXFKbkpjTGNRVWxQaDQ2UlNSZGRhR3VOUHB6ZkM3THUwVnZ2TmlOc1hmdHNVRldHaEF2VjJ2MlRYYW9aNzBxZWh30gHcAUFVX3lxTFBBMDFXcWQ5eDVpWXRpZG5KemUyTENWeU5obnNldEUzYUU0QjVNY3ZfbUxJTHJQZGItWmkyZWdaclc0VEpRVm5XdGFlRU9MSGVLMjZ3dWxMVDVEXzdHSk5XRG1IdkFGSkFYeTJ0MTRGLXBoOGYwTjZISFpRS0ExaldFWGdMTDdVQ3NoaUVhN292dlhqMUwxVTZFV0w5UDl2d09DWGRJbFFyUDc2aDYxbmN3N1B5ZjljUERTQ2lJQ1VZa0V2ZlhBUktmUV9oYlhmNEJ5czR4eFdmZm03bmQ?oc=5",
+          "title": "YG bets on next BLACKPINK and BIGBANG? New boy group and ‘Next Monster' rollout signals bold two-track push - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxNX2lwc2Z4T0lZTWpobDhiRE1BbVB2SzVBREZEQ0tRWHk1MHJUTmZybHlUeXJZMEd2Rkl6NnlFdF9UWDNRZjBvNUI5WHNMYlE0NzZwSVBUd2FLZ0JxaHRSSEhtekRnNVJLNm9idzBxMWtqLWF0bGRUaVB4dmhUei1zZ2UxYWI5WWZTcmNLVi1aOXdIRC1XLUM4M2NucU55bHUwU3c5YkxOLTRyeTd6VTdyamZEUEdQWEJWdlN6MEQ4WVAyeGpWRnN1NnJScGExWFBHc0FoYVo4anpvZWhGNTNqV3BvZ2ZYS2d5OWRtUVB2bnRBREpRYkFLZHpB0gH6AUFVX3lxTE1faXBzZnhPSVlNamhsOGJETUFtUHZLNUFERkRDS1FYeTUwclROZnJseVR5clkwR3ZGSXo2eUV0X1RYM1FmMG81QjlYc0xiUTQ3NnBJUFR3YUtnQnFodFJISG16RGc1Uks2b2J3MHExa2otYXRsZFRpUHh2aFR6LXNnZTFhYjlZZlNyY0tWLVo5d0hELVctQzgzY25xTnlsdTBTdzliTE4tNHJ5N3pVN3JqZkRQR1BYQlZ2U3owRDhZUDJ4alZGc3U2clJwYTFYUEdzQWhhWjhqem9laEY1M2pXcG9nZlhLZ3k5ZG1RUHZudEFESlFiQUtkekE?oc=5\" target=\"_blank\">YG bets on next BLACKPINK and BIGBANG? New boy group and ‘Next Monster' rollout signals bold two-track push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNX2lwc2Z4T0lZTWpobDhiRE1BbVB2SzVBREZEQ0tRWHk1MHJUTmZybHlUeXJZMEd2Rkl6NnlFdF9UWDNRZjBvNUI5WHNMYlE0NzZwSVBUd2FLZ0JxaHRSSEhtekRnNVJLNm9idzBxMWtqLWF0bGRUaVB4dmhUei1zZ2UxYWI5WWZTcmNLVi1aOXdIRC1XLUM4M2NucU55bHUwU3c5YkxOLTRyeTd6VTdyamZEUEdQWEJWdlN6MEQ4WVAyeGpWRnN1NnJScGExWFBHc0FoYVo4anpvZWhGNTNqV3BvZ2ZYS2d5OWRtUVB2bnRBREpRYkFLZHpB0gH6AUFVX3lxTE1faXBzZnhPSVlNamhsOGJETUFtUHZLNUFERkRDS1FYeTUwclROZnJseVR5clkwR3ZGSXo2eUV0X1RYM1FmMG81QjlYc0xiUTQ3NnBJUFR3YUtnQnFodFJISG16RGc1Uks2b2J3MHExa2otYXRsZFRpUHh2aFR6LXNnZTFhYjlZZlNyY0tWLVo5d0hELVctQzgzY25xTnlsdTBTdzliTE4tNHJ5N3pVN3JqZkRQR1BYQlZ2U3owRDhZUDJ4alZGc3U2clJwYTFYUEdzQWhhWjhqem9laEY1M2pXcG9nZlhLZ3k5ZG1RUHZudEFESlFiQUtkekE?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-04-29",
+          "publishedAt": "2026-05-01",
           "views": "13.0K"
         }
       ]
