@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-02T07:09:53.872Z",
+  "lastUpdated": "2026-05-03T07:31:36.820Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -88,20 +88,20 @@
           "views": "23.0K"
         },
         {
+          "title": "Enterprise RAG rebuild: hybrid retrieval adoption tripled in Q1 2026 - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQVXZTOUVoU2tuYkFyUkdJTVR6emxnUC1QS3JNTDdKTGxmeV9HR3dwSGpiTk5LVGZTV1FzUzBSQ0x3em5oTlVMb2kybGtUdXhSLV85bU9fdGpXb3BrSVItMnFLeGNHZ2FWVTFWLUNyMGowdW9Oc2psVGQ3bDgzVkVWWW9HU3d4a1Y0R0VnTTF4TktpUWxrekl6T0VMQmNqMnJ6LXdUalRVMlFiTmxQZ0J3S2lhYmw5dXJQY3EwOUhJcU1yS0NaR0lLSjJiWEU?oc=5\" target=\"_blank\">Enterprise RAG rebuild: hybrid retrieval adoption tripled in Q1 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVXZTOUVoU2tuYkFyUkdJTVR6emxnUC1QS3JNTDdKTGxmeV9HR3dwSGpiTk5LVGZTV1FzUzBSQ0x3em5oTlVMb2kybGtUdXhSLV85bU9fdGpXb3BrSVItMnFLeGNHZ2FWVTFWLUNyMGowdW9Oc2psVGQ3bDgzVkVWWW9HU3d4a1Y0R0VnTTF4TktpUWxrekl6T0VMQmNqMnJ6LXdUalRVMlFiTmxQZ0J3S2lhYmw5dXJQY3EwOUhJcU1yS0NaR0lLSjJiWEU?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-04-29",
+          "views": "18.0K"
+        },
+        {
           "title": "Citigroup lifts AI market view to over $4 trillion on enterprise adoption - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLU9iWXAwYy1yTUQ1X19Rc05wMGJjMzVBYTR6MkdHNVQwb3NrbWZKNDBtbmZ5aXlDSk0tdlJzaVZQaWdNVmxBS19wZFl5blFuODhoWUQxT1pKX19GRmx0TG1wOHFSM3Zval9ZWUxQX2V4SElNVXR1djdTRHJ5ZTZNNU1CTkNqZ1ZtYlFkWGw5dDc0cWp0TXl0bnpYeVlMS3FCSW1CSEt4SmIyTUNJNGlGVVdPMFRMYmF1bUIw?oc=5\" target=\"_blank\">Citigroup lifts AI market view to over $4 trillion on enterprise adoption</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLU9iWXAwYy1yTUQ1X19Rc05wMGJjMzVBYTR6MkdHNVQwb3NrbWZKNDBtbmZ5aXlDSk0tdlJzaVZQaWdNVmxBS19wZFl5blFuODhoWUQxT1pKX19GRmx0TG1wOHFSM3Zval9ZWUxQX2V4SElNVXR1djdTRHJ5ZTZNNU1CTkNqZ1ZtYlFkWGw5dDc0cWp0TXl0bnpYeVlMS3FCSW1CSEt4SmIyTUNJNGlGVVdPMFRMYmF1bUIw?oc=5",
           "source": "Reuters AI",
           "publishedAt": "2026-04-28",
           "views": "18.0K"
-        },
-        {
-          "title": "Per-token AI charges come to GitHub Copilot - AI News",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNQXBCMDVtcElReGg1QTA0ZmVKWnc4X05HSE1HRURRRzc5ZkNUcEZzeV84NnRaLU1TczV6bWN0N2N2dWh5blNqQ0Q4VkhidkJoQ0ZWMnQxUzNjdVU0bFRxU1NoTDVXYlNiWjRKVzlrLTJyaXRhdW00TU9mMlBnNnJWZ2E3OGVhaUYwdGVZZ0trWUJzRFJYamctb2ppbw?oc=5\" target=\"_blank\">Per-token AI charges come to GitHub Copilot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI News</font>",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQXBCMDVtcElReGg1QTA0ZmVKWnc4X05HSE1HRURRRzc5ZkNUcEZzeV84NnRaLU1TczV6bWN0N2N2dWh5blNqQ0Q4VkhidkJoQ0ZWMnQxUzNjdVU0bFRxU1NoTDVXYlNiWjRKVzlrLTJyaXRhdW00TU9mMlBnNnJWZ2E3OGVhaUYwdGVZZ0trWUJzRFJYamctb2ppbw?oc=5",
-          "source": "AI News",
-          "publishedAt": "2026-05-01",
-          "views": "13.0K"
         }
       ]
     },
@@ -127,11 +127,11 @@
           "views": "18.0K"
         },
         {
-          "title": "Lee vows zero compromise on workplace safety in Labor Day address - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNdkE5ZG5aTzI0V0dSeV9BRmYzYVpkODU5Z1Q1c2hxZ3R1dlV0Z2I2VXM1TExEUjZjYzdjQkFETzdIZFdwU0hmWldpTHI4djhObmtSOW10VlpQYUplN1BWejlKaGRmZVMxdDRvejR3RE1IUzNZblRrb2tlQ0ZiMV9NQUVkUUszQUZ3SGxDUl9KdjgxaHFsQjlxRmpLZzNRdk1xa0Z1RENDb2RFTTAwc2hiV1ZDa2XSAboBQVVfeXFMTjRBYnZfX3BiLW5OdlN2MzFab29yWG5zbnRSSTM2UjA4djhZUHh6RF84QUVmeU5yb2hLd0VZNmxTZy1ZQnpKbUY0al96R3R4VG1WOThjZTN1VUctNnlDWW5CWWFDU0ZVaS16cmJ3X0NyWjZhRjk5dC1vTmVYdHpCanNNV0VxSXoyN1pSek5DMkF4WXRxRTVVbk1TbkJ0TzBKd2h0bEpuODBTdFZZSmZ1WW9SNEUza201ZnpB?oc=5\" target=\"_blank\">Lee vows zero compromise on workplace safety in Labor Day address</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdkE5ZG5aTzI0V0dSeV9BRmYzYVpkODU5Z1Q1c2hxZ3R1dlV0Z2I2VXM1TExEUjZjYzdjQkFETzdIZFdwU0hmWldpTHI4djhObmtSOW10VlpQYUplN1BWejlKaGRmZVMxdDRvejR3RE1IUzNZblRrb2tlQ0ZiMV9NQUVkUUszQUZ3SGxDUl9KdjgxaHFsQjlxRmpLZzNRdk1xa0Z1RENDb2RFTTAwc2hiV1ZDa2XSAboBQVVfeXFMTjRBYnZfX3BiLW5OdlN2MzFab29yWG5zbnRSSTM2UjA4djhZUHh6RF84QUVmeU5yb2hLd0VZNmxTZy1ZQnpKbUY0al96R3R4VG1WOThjZTN1VUctNnlDWW5CWWFDU0ZVaS16cmJ3X0NyWjZhRjk5dC1vTmVYdHpCanNNV0VxSXoyN1pSek5DMkF4WXRxRTVVbk1TbkJ0TzBKd2h0bEpuODBTdFZZSmZ1WW9SNEUza201ZnpB?oc=5",
+          "title": "Korean appointed as new director of risks at World Bank Group - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNLVRndVpoaUhsdERmZU5Jb1haaHZlRHZISGNFbnlCRnBfREJCVko5TWRieWE1Q3BXR1BZSmprQ25weXNFZE1SZ1lZb2dHXzh5NkJFTTZBU2pyVGVSTVY4TnhTaGhyajNqZHNSalJXNzFLNHFjOWtkd05vUGFqNVhXLWNyOTAxbk5RQVI1akRDZlNsbHNmNFFmRC1JZXdJTUVXU0xPeFRZUG5WQ2hyLUxrcdIBsAFBVV95cUxNLVRndVpoaUhsdERmZU5Jb1haaHZlRHZISGNFbnlCRnBfREJCVko5TWRieWE1Q3BXR1BZSmprQ25weXNFZE1SZ1lZb2dHXzh5NkJFTTZBU2pyVGVSTVY4TnhTaGhyajNqZHNSalJXNzFLNHFjOWtkd05vUGFqNVhXLWNyOTAxbk5RQVI1akRDZlNsbHNmNFFmRC1JZXdJTUVXU0xPeFRZUG5WQ2hyLUxrcQ?oc=5\" target=\"_blank\">Korean appointed as new director of risks at World Bank Group</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLVRndVpoaUhsdERmZU5Jb1haaHZlRHZISGNFbnlCRnBfREJCVko5TWRieWE1Q3BXR1BZSmprQ25weXNFZE1SZ1lZb2dHXzh5NkJFTTZBU2pyVGVSTVY4TnhTaGhyajNqZHNSalJXNzFLNHFjOWtkd05vUGFqNVhXLWNyOTAxbk5RQVI1akRDZlNsbHNmNFFmRC1JZXdJTUVXU0xPeFRZUG5WQ2hyLUxrcdIBsAFBVV95cUxNLVRndVpoaUhsdERmZU5Jb1haaHZlRHZISGNFbnlCRnBfREJCVko5TWRieWE1Q3BXR1BZSmprQ25weXNFZE1SZ1lZb2dHXzh5NkJFTTZBU2pyVGVSTVY4TnhTaGhyajNqZHNSalJXNzFLNHFjOWtkd05vUGFqNVhXLWNyOTAxbk5RQVI1akRDZlNsbHNmNFFmRC1JZXdJTUVXU0xPeFRZUG5WQ2hyLUxrcQ?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-05-01",
+          "publishedAt": "2026-05-03",
           "views": "13.0K"
         }
       ]
@@ -150,19 +150,19 @@
           "views": "18.0K"
         },
         {
-          "title": "CJ ENM sets up joint venture with Japanese media giants to target global content market - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUWg4TmRobjRhcS0ySEg0N1ROUDNKX0hnQ3RwRUhsZ2dILTVuSWhQMldmeTNmMEJLS3BCRUY3VnF4X0xjS0VseE9GX0hSYk8wWDN4T2s0RVNRVzJWa29FWC1wUlpzS1pOQTBZSzdxVmtoQlBiTk5QNjBpSTZJT2JEV0xGN2dHR0VuWDRCRHBCVFAwRUhyUzM2UU80SV9mdzlwRWJjek9ZRDZVamw2bWVkUFFBeGJNREpfb2pxbTZ3SlVuTU9BUEFUZEdFTU1BRFFRUE9aRXdFcUVpUmZfMzA2S2I3ZTNsckdiN3VYetIB7AFBVV95cUxPUWg4TmRobjRhcS0ySEg0N1ROUDNKX0hnQ3RwRUhsZ2dILTVuSWhQMldmeTNmMEJLS3BCRUY3VnF4X0xjS0VseE9GX0hSYk8wWDN4T2s0RVNRVzJWa29FWC1wUlpzS1pOQTBZSzdxVmtoQlBiTk5QNjBpSTZJT2JEV0xGN2dHR0VuWDRCRHBCVFAwRUhyUzM2UU80SV9mdzlwRWJjek9ZRDZVamw2bWVkUFFBeGJNREpfb2pxbTZ3SlVuTU9BUEFUZEdFTU1BRFFRUE9aRXdFcUVpUmZfMzA2S2I3ZTNsckdiN3VYeg?oc=5\" target=\"_blank\">CJ ENM sets up joint venture with Japanese media giants to target global content market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUWg4TmRobjRhcS0ySEg0N1ROUDNKX0hnQ3RwRUhsZ2dILTVuSWhQMldmeTNmMEJLS3BCRUY3VnF4X0xjS0VseE9GX0hSYk8wWDN4T2s0RVNRVzJWa29FWC1wUlpzS1pOQTBZSzdxVmtoQlBiTk5QNjBpSTZJT2JEV0xGN2dHR0VuWDRCRHBCVFAwRUhyUzM2UU80SV9mdzlwRWJjek9ZRDZVamw2bWVkUFFBeGJNREpfb2pxbTZ3SlVuTU9BUEFUZEdFTU1BRFFRUE9aRXdFcUVpUmZfMzA2S2I3ZTNsckdiN3VYetIB7AFBVV95cUxPUWg4TmRobjRhcS0ySEg0N1ROUDNKX0hnQ3RwRUhsZ2dILTVuSWhQMldmeTNmMEJLS3BCRUY3VnF4X0xjS0VseE9GX0hSYk8wWDN4T2s0RVNRVzJWa29FWC1wUlpzS1pOQTBZSzdxVmtoQlBiTk5QNjBpSTZJT2JEV0xGN2dHR0VuWDRCRHBCVFAwRUhyUzM2UU80SV9mdzlwRWJjek9ZRDZVamw2bWVkUFFBeGJNREpfb2pxbTZ3SlVuTU9BUEFUZEdFTU1BRFFRUE9aRXdFcUVpUmZfMzA2S2I3ZTNsckdiN3VYeg?oc=5",
+          "title": "Over 400 Korea-listed firms exceed $679.7 mil. in market capitalization - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQX0tCMnJhR2VoM1NYbHljNG9XUXdjNEY0dm5KTU9jRkRkdFEtZ3MxX2ZKckZOTmdVSkY4SXVyUVAyWDFTc2VRYjVYcHd0d3dvQ3JuTFRFbzFuUU1PWkdpRWNyS0RBbDQyTnBLM0pTNW96aXZ6QUh0M0xnc2tPYmFDOHhYekVUMlNpeUZOemRRQ25uV1NuV001YXZfNEk3NlNqRG1WYndGRnNEclZFOV9KbzFtTDhRcklHM0HSAboBQVVfeXFMUF9LQjJyYUdlaDNTWGx5YzRvV1F3YzRGNHZuSk1PY0ZEZHRRLWdzMV9mSnJGTk5nVUpGOEl1clFQMlgxU3NlUWI1WHB3dHd3b0NybkxURW8xblFNT1pHaUVjcktEQWw0Mk5wSzNKUzVveml2ekFIdDNMZ3NrT2JhQzh4WHpFVDJTaXlGTnpkUUNubldTbldNNWF2XzRJNzZTakRtVmJ3RkZzRHJWRTlfSm8xbUw4UXJJRzNB?oc=5\" target=\"_blank\">Over 400 Korea-listed firms exceed $679.7 mil. in market capitalization</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX0tCMnJhR2VoM1NYbHljNG9XUXdjNEY0dm5KTU9jRkRkdFEtZ3MxX2ZKckZOTmdVSkY4SXVyUVAyWDFTc2VRYjVYcHd0d3dvQ3JuTFRFbzFuUU1PWkdpRWNyS0RBbDQyTnBLM0pTNW96aXZ6QUh0M0xnc2tPYmFDOHhYekVUMlNpeUZOemRRQ25uV1NuV001YXZfNEk3NlNqRG1WYndGRnNEclZFOV9KbzFtTDhRcklHM0HSAboBQVVfeXFMUF9LQjJyYUdlaDNTWGx5YzRvV1F3YzRGNHZuSk1PY0ZEZHRRLWdzMV9mSnJGTk5nVUpGOEl1clFQMlgxU3NlUWI1WHB3dHd3b0NybkxURW8xblFNT1pHaUVjcktEQWw0Mk5wSzNKUzVveml2ekFIdDNMZ3NrT2JhQzh4WHpFVDJTaXlGTnpkUUNubldTbldNNWF2XzRJNzZTakRtVmJ3RkZzRHJWRTlfSm8xbUw4UXJJRzNB?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-05-01",
+          "publishedAt": "2026-05-03",
           "views": "13.0K"
         },
         {
-          "title": "Hidden IT problems are quietly creating risk, shadow IT, and lost productivity - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNREhqT0tpSlVwSXIzTmdnRlZWM0l2LVllTWxta1M2WTM1SV9VSnJWNjF5dWY4anRNNV8xRWVvOXBiWDd5ZG9qeU0xT3pGR2U5bTlSakFaMzFRMEJfM2cydmNBcmVoVWhHbWRWTEZDeGJWZmlPN291WEF4ckJJX2loM2pwUUYzWHVpcnEzTkdHM3RnVUVxcVM5cjIxVGtQSjFjLXQ5cW4zdEdaNXFtaEM4bw?oc=5\" target=\"_blank\">Hidden IT problems are quietly creating risk, shadow IT, and lost productivity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNREhqT0tpSlVwSXIzTmdnRlZWM0l2LVllTWxta1M2WTM1SV9VSnJWNjF5dWY4anRNNV8xRWVvOXBiWDd5ZG9qeU0xT3pGR2U5bTlSakFaMzFRMEJfM2cydmNBcmVoVWhHbWRWTEZDeGJWZmlPN291WEF4ckJJX2loM2pwUUYzWHVpcnEzTkdHM3RnVUVxcVM5cjIxVGtQSjFjLXQ5cW4zdEdaNXFtaEM4bw?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-05-01",
+          "title": "Gov't to inject $380.6 mil. into Korean AI startup Upstage - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQeG84c0tac1plZ2ZIUU5BejU0d3M1bGppWUNhODl0c01nTnRidzlCZ3J0RFBiYXZFOUVwbkRWOU04ZVM2aXVEejMzZmRIUkJZTnFKVExFdmd6NVVYOVFEcXIwcG5iRHFEUWVQUERteWlXM1VfNGNHY2RrTFZkQ2pubUpuMnNndWc4Q1RpUzlBcFotZFE2cjBBTnVaNzVuZHpJQXfSAacBQVVfeXFMUGUtc2VNdS1sSXFnVFpGaXRIOE9TckU5Z2hDWld6dzIwSW1FeWpWYzdRY0JaM0pkZTZlT0lEazN4dkU1bVVsSU8yUUZKWUUzemFrSFNTbnUxRkxFQVVqQ21rSlBDanItT0RUWDJLemhnSGJpS0hQcHFVTnVlREpYdzlXTEdTNFdJTHhaSEdfejhTUi0zMzdwOFJSY0E3OHZjZi1rblhyaEU?oc=5\" target=\"_blank\">Gov't to inject $380.6 mil. into Korean AI startup Upstage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeG84c0tac1plZ2ZIUU5BejU0d3M1bGppWUNhODl0c01nTnRidzlCZ3J0RFBiYXZFOUVwbkRWOU04ZVM2aXVEejMzZmRIUkJZTnFKVExFdmd6NVVYOVFEcXIwcG5iRHFEUWVQUERteWlXM1VfNGNHY2RrTFZkQ2pubUpuMnNndWc4Q1RpUzlBcFotZFE2cjBBTnVaNzVuZHpJQXfSAacBQVVfeXFMUGUtc2VNdS1sSXFnVFpGaXRIOE9TckU5Z2hDWld6dzIwSW1FeWpWYzdRY0JaM0pkZTZlT0lEazN4dkU1bVVsSU8yUUZKWUUzemFrSFNTbnUxRkxFQVVqQ21rSlBDanItT0RUWDJLemhnSGJpS0hQcHFVTnVlREpYdzlXTEdTNFdJTHhaSEdfejhTUi0zMzdwOFJSY0E3OHZjZi1rblhyaEU?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-05-03",
           "views": "13.0K"
         }
       ]
@@ -189,11 +189,11 @@
           "views": "13.0K"
         },
         {
-          "title": "YG bets on next BLACKPINK and BIGBANG? New boy group and ‘Next Monster' rollout signals bold two-track push - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNlNrVXdENXVpMEMyQWNQejl6OTZIRjk2VUVfRXNzTGVvM0VyVm9ZSktTOEt3NHZLc2ZwLUlnWlVreXl3RkxVdTc4MDluV29wclY1R3ZWdmtYZnEtSVk1WEttbVlGMzdRNC1WU3pDbkVXbUFIbDVvbDhCOXRmTFBTMEhsNnB5Nl9TdVZwQXdlOHRocVJFeU45Tkt4T0xTa3JDUXMxaEtpeVlfQ2lFeGM0OERGcjloN05Ga3NaMHdURmhqV0lpbFk4V2FjOUxJeDY1dl94SzBCZGRCYmdaS1BhS1BsdnV1ajljV1pPdklwOFJxOHUx0gH6AUFVX3lxTE1faXBzZnhPSVlNamhsOGJETUFtUHZLNUFERkRDS1FYeTUwclROZnJseVR5clkwR3ZGSXo2eUV0X1RYM1FmMG81QjlYc0xiUTQ3NnBJUFR3YUtnQnFodFJISG16RGc1Uks2b2J3MHExa2otYXRsZFRpUHh2aFR6LXNnZTFhYjlZZlNyY0tWLVo5d0hELVctQzgzY25xTnlsdTBTdzliTE4tNHJ5N3pVN3JqZkRQR1BYQlZ2U3owRDhZUDJ4alZGc3U2clJwYTFYUEdzQWhhWjhqem9laEY1M2pXcG9nZlhLZ3k5ZG1RUHZudEFESlFiQUtkekE?oc=5\" target=\"_blank\">YG bets on next BLACKPINK and BIGBANG? New boy group and ‘Next Monster' rollout signals bold two-track push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNlNrVXdENXVpMEMyQWNQejl6OTZIRjk2VUVfRXNzTGVvM0VyVm9ZSktTOEt3NHZLc2ZwLUlnWlVreXl3RkxVdTc4MDluV29wclY1R3ZWdmtYZnEtSVk1WEttbVlGMzdRNC1WU3pDbkVXbUFIbDVvbDhCOXRmTFBTMEhsNnB5Nl9TdVZwQXdlOHRocVJFeU45Tkt4T0xTa3JDUXMxaEtpeVlfQ2lFeGM0OERGcjloN05Ga3NaMHdURmhqV0lpbFk4V2FjOUxJeDY1dl94SzBCZGRCYmdaS1BhS1BsdnV1ajljV1pPdklwOFJxOHUx0gH6AUFVX3lxTE1faXBzZnhPSVlNamhsOGJETUFtUHZLNUFERkRDS1FYeTUwclROZnJseVR5clkwR3ZGSXo2eUV0X1RYM1FmMG81QjlYc0xiUTQ3NnBJUFR3YUtnQnFodFJISG16RGc1Uks2b2J3MHExa2otYXRsZFRpUHh2aFR6LXNnZTFhYjlZZlNyY0tWLVo5d0hELVctQzgzY25xTnlsdTBTdzliTE4tNHJ5N3pVN3JqZkRQR1BYQlZ2U3owRDhZUDJ4alZGc3U2clJwYTFYUEdzQWhhWjhqem9laEY1M2pXcG9nZlhLZ3k5ZG1RUHZudEFESlFiQUtkekE?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-05-01",
+          "title": "Washington Hilton attack spotlights hotel industry's nagging and costly security problem - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPLWtaYzNnVHV1czB3UWlkV1lpTXVMRXdGSkhGaEhBRmpkSWsxUHFwbmhvN2JkTjlxb2tMNnZjbGc1WFNkOExmcGU1TGw2UV95ZW1fZnZZUnFTYTFTRXBRendBWFBGVWwtVTA0dG9vdm9nWlNPRE1hQjFMN2U1NGtIbFViSGlJMWpDUDVjYU54SUpFZHNnNFFFZEhRb0JDanBRUDh2dTIyUmJRMG5ITnBRclRBelhvWnkycnZNcA?oc=5\" target=\"_blank\">Washington Hilton attack spotlights hotel industry's nagging and costly security problem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLWtaYzNnVHV1czB3UWlkV1lpTXVMRXdGSkhGaEhBRmpkSWsxUHFwbmhvN2JkTjlxb2tMNnZjbGc1WFNkOExmcGU1TGw2UV95ZW1fZnZZUnFTYTFTRXBRendBWFBGVWwtVTA0dG9vdm9nWlNPRE1hQjFMN2U1NGtIbFViSGlJMWpDUDVjYU54SUpFZHNnNFFFZEhRb0JDanBRUDh2dTIyUmJRMG5ITnBRclRBelhvWnkycnZNcA?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-05-02",
           "views": "13.0K"
         }
       ]
