@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-03T07:31:36.820Z",
+  "lastUpdated": "2026-05-04T09:07:40.975Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,6 +49,14 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
+          "title": "KOSPI tops 6,900 for 1st time as chip rally outweighs geopolitical tensions - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPTDF3dmxZRkg0Z3BiX0djVnNqbnk5VjFvWTVEaGpwWmhpUFNHamhZX0Y5Zkx4eDNtbkZWRGFEcGE4cUV1Y3dqaFI5Ty1WYTd3anVOZ0pocVlFU1ZnMXprMG1iNjIweHBXSmVBdmRFbTJVZVI2YlFhZG4tTF8xLTU5S1dfZGVyZThiNVVyRTd0bnVOS25kR2pTUFZlVGFhZVhCbV9qVU9kMl96UGhKT3BSRXRhZ0psRk8tTEdwaUphekNvNW91ZlHSAcsBQVVfeXFMTklkWHJ3Ui14NDFWUHlkVGVpOUM3NXRIWjU5Ujd5N25ldFJ6NkJpRDYtS21ZQVgwOXh5WG1kOU5vZm5iWW9TdDdvVDdBUFMwRTZMdWJNQWtpajY2dWd3dThpMmgwanFLMEV4dE5qLW9mQXh0Q3BnYUZRYzdzZm1pQktraW91YmZVbV9TYUJHd0hoZDNrRHZJLVVDaGptMzc4eTI5Z2tDXzhpR3h2UWFNQXg1cEVueHBIMzVQYVUyTU1MZkthbDRrRHV4UGs?oc=5\" target=\"_blank\">KOSPI tops 6,900 for 1st time as chip rally outweighs geopolitical tensions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTDF3dmxZRkg0Z3BiX0djVnNqbnk5VjFvWTVEaGpwWmhpUFNHamhZX0Y5Zkx4eDNtbkZWRGFEcGE4cUV1Y3dqaFI5Ty1WYTd3anVOZ0pocVlFU1ZnMXprMG1iNjIweHBXSmVBdmRFbTJVZVI2YlFhZG4tTF8xLTU5S1dfZGVyZThiNVVyRTd0bnVOS25kR2pTUFZlVGFhZVhCbV9qVU9kMl96UGhKT3BSRXRhZ0psRk8tTEdwaUphekNvNW91ZlHSAcsBQVVfeXFMTklkWHJ3Ui14NDFWUHlkVGVpOUM3NXRIWjU5Ujd5N25ldFJ6NkJpRDYtS21ZQVgwOXh5WG1kOU5vZm5iWW9TdDdvVDdBUFMwRTZMdWJNQWtpajY2dWd3dThpMmgwanFLMEV4dE5qLW9mQXh0Q3BnYUZRYzdzZm1pQktraW91YmZVbV9TYUJHd0hoZDNrRHZJLVVDaGptMzc4eTI5Z2tDXzhpR3h2UWFNQXg1cEVueHBIMzVQYVUyTU1MZkthbDRrRHV4UGs?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-05-04",
+          "views": "18.0K"
+        },
+        {
           "title": "OpenAI Enables Marketing Cookies by Default for Free ChatGPT Users - WIRED",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOdW5NSHlxUDZ0azlJSjJOQlRmck15SWRhQXc4SXllM09qUDFjSHB5cDdxTUdZRXp4V3lqSjJyZmRaMVl1WEk4aDl3NGt0SGk3UmJwTU1pbENZQTV6SU5aN3hhekp0bGVlVFZ4UTBraW9WUDFqMWw3ZmlFeUVtOHFrdVQzd2E4TzRJODZhOEln?oc=5\" target=\"_blank\">OpenAI Enables Marketing Cookies by Default for Free ChatGPT Users</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdW5NSHlxUDZ0azlJSjJOQlRmck15SWRhQXc4SXllM09qUDFjSHB5cDdxTUdZRXp4V3lqSjJyZmRaMVl1WEk4aDl3NGt0SGk3UmJwTU1pbENZQTV6SU5aN3hhekp0bGVlVFZ4UTBraW9WUDFqMWw3ZmlFeUVtOHFrdVQzd2E4TzRJODZhOEln?oc=5",
@@ -61,14 +69,6 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNWHc1ZllmNFNyaXFxNGJXOG5DaGdQYkZvOWV6ZzJoMUFTaUI0X0w2UmNPeXViOHQ2ZzV5QVdpTUNsWXBtYUdDb2pKWkpCYkU3dThvYlJtSmQ2S0xxNTk5b3BBSUFPR2l6RFQyYlZKeEZ6c1BIV1hFMmlaelVZZURXMjZEQ1BYRnV3a1QwZkJOZ3dLaW9rc1cxaFdSVGp5Zy1Ya2JEcWpBVVFhUUJ0QmlHZkE3TldIWENjdlViXzg4SEZPSTZwZjU5UUxZNmlkd9IB0wFBVV95cUxNZVNQcl94WlBDMjRZbjJBeTBhbmRteUd1TGk3TUJaemhWQlFVNDltMWx3ZG9DTWJPMzUxMmJKSENsVjJoY2Z3YzlRdDY5Q202SDNJMWRLX09rWE1JS0lIY0RfU1NQcEFXMmNUbXNaWlhPeldBekVJT2dKWEExSXZhcTVnTlpoMkpSVmNvTjBGUkU5YjY5TV9yTUJVdmtJc1JheDR4NzBNYWQ4VjJsRWFyNnRkbWJLWklYV2gzTEZuZDRkdXVha3AwUndzRUxiRE5qSXBN?oc=5\" target=\"_blank\">Samsung Electronics posts record $38.5 bil. Q1 operating profit on AI chip boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWHc1ZllmNFNyaXFxNGJXOG5DaGdQYkZvOWV6ZzJoMUFTaUI0X0w2UmNPeXViOHQ2ZzV5QVdpTUNsWXBtYUdDb2pKWkpCYkU3dThvYlJtSmQ2S0xxNTk5b3BBSUFPR2l6RFQyYlZKeEZ6c1BIV1hFMmlaelVZZURXMjZEQ1BYRnV3a1QwZkJOZ3dLaW9rc1cxaFdSVGp5Zy1Ya2JEcWpBVVFhUUJ0QmlHZkE3TldIWENjdlViXzg4SEZPSTZwZjU5UUxZNmlkd9IB0wFBVV95cUxNZVNQcl94WlBDMjRZbjJBeTBhbmRteUd1TGk3TUJaemhWQlFVNDltMWx3ZG9DTWJPMzUxMmJKSENsVjJoY2Z3YzlRdDY5Q202SDNJMWRLX09rWE1JS0lIY0RfU1NQcEFXMmNUbXNaWlhPeldBekVJT2dKWEExSXZhcTVnTlpoMkpSVmNvTjBGUkU5YjY5TV9yTUJVdmtJc1JheDR4NzBNYWQ4VjJsRWFyNnRkbWJLWklYV2gzTEZuZDRkdXVha3AwUndzRUxiRE5qSXBN?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-04-29",
-          "views": "18.0K"
-        },
-        {
-          "title": "GPT-5.5 is OpenAI’s most capable agentic AI model yet - AI News",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSlVIUlFSQnRfOWdTNlI0NjNFV1llczlZU283WlFoTS1EeWRfQVVNTzVoQ1RseWEyamtDRjlnZWQxS0ZlRkJxQzczRm1NMVVmZERVUkFhWEdwRmZiUFJ3bTlCVlh3QnlFU3BzSUFJUHpsSktZRWljaDQ1TlhaMXNuZUp2UnJoRTVlZXRrNzJRT1ZHc1ZkdWE3MFNQaEhieWxTQlIxNFRTOHlPLXRKMGZJZmxZMkN3ZDlLaHN1eGNuRk9FZ2M?oc=5\" target=\"_blank\">GPT-5.5 is OpenAI’s most capable agentic AI model yet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI News</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSlVIUlFSQnRfOWdTNlI0NjNFV1llczlZU283WlFoTS1EeWRfQVVNTzVoQ1RseWEyamtDRjlnZWQxS0ZlRkJxQzczRm1NMVVmZERVUkFhWEdwRmZiUFJ3bTlCVlh3QnlFU3BzSUFJUHpsSktZRWljaDQ1TlhaMXNuZUp2UnJoRTVlZXRrNzJRT1ZHc1ZkdWE3MFNQaEhieWxTQlIxNFRTOHlPLXRKMGZJZmxZMkN3ZDlLaHN1eGNuRk9FZ2M?oc=5",
-          "source": "AI News",
           "publishedAt": "2026-04-29",
           "views": "18.0K"
         }
@@ -111,6 +111,14 @@
       "description": "규제, 책임, 신뢰, 저작권 같은 문제를 보는 관점",
       "items": [
         {
+          "title": "Rising oil, freight costs put Korea tire firms' profits at risk - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQVWgwbWZmQUVoa2oxVkxHcUVla1NGLTBDdnB4dWt6V1RBNnBRaXB6UEo3V0NJWEctVkk2S21ibUxONVdtZzFVcWlsUnJteUZOVjVnZFAtc3dKVF9TQ2NYQU43NmZtWjhxZjYyQTlESE9xYy01dS16bkdUdkt5YlEzTzl3MGNOdW1BWnNFUlBydlNoMUNoSHZnZlAwUkJ5czFacl9JNGp2aTBUUm4tSXlsNVdtU01XNTZnaVHSAb8BQVVfeXFMTmlQd3FTcjZET2t6WTNIUmdnLWNxUE1iU09fSlFVMEZMQlVXY2tiX3pLZEU2a2ZJcTQ0SFZDQmdicWp5NkJzZGVoSUpBWG52SGp0cjR6UTBrWEdJLWFCV2h6dTl0MFU5dVdDZ3g0N3JXS0JYcUEtempOWHZiR3FpMk1hVmYtd3Z4aWRJLUdjQlBNaDV0MkNGUTFCN3ZpbUNzSzNGZ3NMSlNwVG9NRFIwN2lJQmpxaHZCUzhuWk1jb00?oc=5\" target=\"_blank\">Rising oil, freight costs put Korea tire firms' profits at risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVWgwbWZmQUVoa2oxVkxHcUVla1NGLTBDdnB4dWt6V1RBNnBRaXB6UEo3V0NJWEctVkk2S21ibUxONVdtZzFVcWlsUnJteUZOVjVnZFAtc3dKVF9TQ2NYQU43NmZtWjhxZjYyQTlESE9xYy01dS16bkdUdkt5YlEzTzl3MGNOdW1BWnNFUlBydlNoMUNoSHZnZlAwUkJ5czFacl9JNGp2aTBUUm4tSXlsNVdtU01XNTZnaVHSAb8BQVVfeXFMTmlQd3FTcjZET2t6WTNIUmdnLWNxUE1iU09fSlFVMEZMQlVXY2tiX3pLZEU2a2ZJcTQ0SFZDQmdicWp5NkJzZGVoSUpBWG52SGp0cjR6UTBrWEdJLWFCV2h6dTl0MFU5dVdDZ3g0N3JXS0JYcUEtempOWHZiR3FpMk1hVmYtd3Z4aWRJLUdjQlBNaDV0MkNGUTFCN3ZpbUNzSzNGZ3NMSlNwVG9NRFIwN2lJQmpxaHZCUzhuWk1jb00?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-05-04",
+          "views": "18.0K"
+        },
+        {
           "title": "China's foreign minister tells Rubio Taiwan is 'biggest risk' in ties - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNRlJ2dll4V25zaVVPYkc3YjZHR0Ztb3BqTEtpdVcybF9hTHZ1eUtIbDV2OWRfLU9qb2VVekc1NnZHNGxzNE9LWkFKRkhBZ09UWms2RjQ1cDBFdHFVU1BKb3lTNnNuN1dtTUdlaW5sRTlFWldyX3ZxczNFNDdjb1NBNlE1NHNiVGE5eDFmcDlON3d5Tng1QV9EbVNoaW9ORVRkVkxDbUNTZGRvNjNnSkxqcjhXOVBnZ2hVNUE?oc=5\" target=\"_blank\">China's foreign minister tells Rubio Taiwan is 'biggest risk' in ties</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRlJ2dll4V25zaVVPYkc3YjZHR0Ztb3BqTEtpdVcybF9hTHZ1eUtIbDV2OWRfLU9qb2VVekc1NnZHNGxzNE9LWkFKRkhBZ09UWms2RjQ1cDBFdHFVU1BKb3lTNnNuN1dtTUdlaW5sRTlFWldyX3ZxczNFNDdjb1NBNlE1NHNiVGE5eDFmcDlON3d5Tng1QV9EbVNoaW9ORVRkVkxDbUNTZGRvNjNnSkxqcjhXOVBnZ2hVNUE?oc=5",
@@ -125,14 +133,6 @@
           "source": "Reuters AI",
           "publishedAt": "2026-04-27",
           "views": "18.0K"
-        },
-        {
-          "title": "Korean appointed as new director of risks at World Bank Group - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNLVRndVpoaUhsdERmZU5Jb1haaHZlRHZISGNFbnlCRnBfREJCVko5TWRieWE1Q3BXR1BZSmprQ25weXNFZE1SZ1lZb2dHXzh5NkJFTTZBU2pyVGVSTVY4TnhTaGhyajNqZHNSalJXNzFLNHFjOWtkd05vUGFqNVhXLWNyOTAxbk5RQVI1akRDZlNsbHNmNFFmRC1JZXdJTUVXU0xPeFRZUG5WQ2hyLUxrcdIBsAFBVV95cUxNLVRndVpoaUhsdERmZU5Jb1haaHZlRHZISGNFbnlCRnBfREJCVko5TWRieWE1Q3BXR1BZSmprQ25weXNFZE1SZ1lZb2dHXzh5NkJFTTZBU2pyVGVSTVY4TnhTaGhyajNqZHNSalJXNzFLNHFjOWtkd05vUGFqNVhXLWNyOTAxbk5RQVI1akRDZlNsbHNmNFFmRC1JZXdJTUVXU0xPeFRZUG5WQ2hyLUxrcQ?oc=5\" target=\"_blank\">Korean appointed as new director of risks at World Bank Group</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLVRndVpoaUhsdERmZU5Jb1haaHZlRHZISGNFbnlCRnBfREJCVko5TWRieWE1Q3BXR1BZSmprQ25weXNFZE1SZ1lZb2dHXzh5NkJFTTZBU2pyVGVSTVY4TnhTaGhyajNqZHNSalJXNzFLNHFjOWtkd05vUGFqNVhXLWNyOTAxbk5RQVI1akRDZlNsbHNmNFFmRC1JZXdJTUVXU0xPeFRZUG5WQ2hyLUxrcdIBsAFBVV95cUxNLVRndVpoaUhsdERmZU5Jb1haaHZlRHZISGNFbnlCRnBfREJCVko5TWRieWE1Q3BXR1BZSmprQ25weXNFZE1SZ1lZb2dHXzh5NkJFTTZBU2pyVGVSTVY4TnhTaGhyajNqZHNSalJXNzFLNHFjOWtkd05vUGFqNVhXLWNyOTAxbk5RQVI1akRDZlNsbHNmNFFmRC1JZXdJTUVXU0xPeFRZUG5WQ2hyLUxrcQ?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-05-03",
-          "views": "13.0K"
         }
       ]
     },
@@ -150,19 +150,19 @@
           "views": "18.0K"
         },
         {
-          "title": "Over 400 Korea-listed firms exceed $679.7 mil. in market capitalization - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQX0tCMnJhR2VoM1NYbHljNG9XUXdjNEY0dm5KTU9jRkRkdFEtZ3MxX2ZKckZOTmdVSkY4SXVyUVAyWDFTc2VRYjVYcHd0d3dvQ3JuTFRFbzFuUU1PWkdpRWNyS0RBbDQyTnBLM0pTNW96aXZ6QUh0M0xnc2tPYmFDOHhYekVUMlNpeUZOemRRQ25uV1NuV001YXZfNEk3NlNqRG1WYndGRnNEclZFOV9KbzFtTDhRcklHM0HSAboBQVVfeXFMUF9LQjJyYUdlaDNTWGx5YzRvV1F3YzRGNHZuSk1PY0ZEZHRRLWdzMV9mSnJGTk5nVUpGOEl1clFQMlgxU3NlUWI1WHB3dHd3b0NybkxURW8xblFNT1pHaUVjcktEQWw0Mk5wSzNKUzVveml2ekFIdDNMZ3NrT2JhQzh4WHpFVDJTaXlGTnpkUUNubldTbldNNWF2XzRJNzZTakRtVmJ3RkZzRHJWRTlfSm8xbUw4UXJJRzNB?oc=5\" target=\"_blank\">Over 400 Korea-listed firms exceed $679.7 mil. in market capitalization</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX0tCMnJhR2VoM1NYbHljNG9XUXdjNEY0dm5KTU9jRkRkdFEtZ3MxX2ZKckZOTmdVSkY4SXVyUVAyWDFTc2VRYjVYcHd0d3dvQ3JuTFRFbzFuUU1PWkdpRWNyS0RBbDQyTnBLM0pTNW96aXZ6QUh0M0xnc2tPYmFDOHhYekVUMlNpeUZOemRRQ25uV1NuV001YXZfNEk3NlNqRG1WYndGRnNEclZFOV9KbzFtTDhRcklHM0HSAboBQVVfeXFMUF9LQjJyYUdlaDNTWGx5YzRvV1F3YzRGNHZuSk1PY0ZEZHRRLWdzMV9mSnJGTk5nVUpGOEl1clFQMlgxU3NlUWI1WHB3dHd3b0NybkxURW8xblFNT1pHaUVjcktEQWw0Mk5wSzNKUzVveml2ekFIdDNMZ3NrT2JhQzh4WHpFVDJTaXlGTnpkUUNubldTbldNNWF2XzRJNzZTakRtVmJ3RkZzRHJWRTlfSm8xbUw4UXJJRzNB?oc=5",
+          "title": "AI productivity growth won't match the computer revolution - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdDdYbEl0Z2t5cDhYcklIcm0tMTNCN3JxVzFBdFBWVVRGQ25saWxpdk14VDJPWngzNFhORDdxZnVHLUtyYUhaNXRoajdjbG11OXB6dDFXcWRrR0NJR3BqN0tkd1JlM1duR2NxWXJmdmF3ZEZEWGVtenRnaS1GVWtCUHBadnF5aDRDRnNqVE4tX1BhbkxNTXp2ekQ0VmRnTUpkS0lMWkVyRUVWRmPSAasBQVVfeXFMTnQ3WGxJdGdreXA4WHJJSHJtLTEzQjdycVcxQXRQVlVURkNubGlsaXZNeFQyT1p4MzRYTkQ3cWZ1Ry1LcmFIWjV0aGo3Y2xtdTlwenQxV3Fka0dDSUdwajdLZHdSZTNXbkdjcVlyZnZhd2RGRFhlbXp0Z2ktRlVrQlBwWnZxeWg0Q0ZzalROLV9QYW5MTU16dnpENFZkZ01KZEtJTFpFckVFVkZj?oc=5\" target=\"_blank\">AI productivity growth won't match the computer revolution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdDdYbEl0Z2t5cDhYcklIcm0tMTNCN3JxVzFBdFBWVVRGQ25saWxpdk14VDJPWngzNFhORDdxZnVHLUtyYUhaNXRoajdjbG11OXB6dDFXcWRrR0NJR3BqN0tkd1JlM1duR2NxWXJmdmF3ZEZEWGVtenRnaS1GVWtCUHBadnF5aDRDRnNqVE4tX1BhbkxNTXp2ekQ0VmRnTUpkS0lMWkVyRUVWRmPSAasBQVVfeXFMTnQ3WGxJdGdreXA4WHJJSHJtLTEzQjdycVcxQXRQVlVURkNubGlsaXZNeFQyT1p4MzRYTkQ3cWZ1Ry1LcmFIWjV0aGo3Y2xtdTlwenQxV3Fka0dDSUdwajdLZHdSZTNXbkdjcVlyZnZhd2RGRFhlbXp0Z2ktRlVrQlBwWnZxeWg0Q0ZzalROLV9QYW5MTU16dnpENFZkZ01KZEtJTFpFckVFVkZj?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-05-03",
+          "publishedAt": "2026-05-04",
           "views": "13.0K"
         },
         {
-          "title": "Gov't to inject $380.6 mil. into Korean AI startup Upstage - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQeG84c0tac1plZ2ZIUU5BejU0d3M1bGppWUNhODl0c01nTnRidzlCZ3J0RFBiYXZFOUVwbkRWOU04ZVM2aXVEejMzZmRIUkJZTnFKVExFdmd6NVVYOVFEcXIwcG5iRHFEUWVQUERteWlXM1VfNGNHY2RrTFZkQ2pubUpuMnNndWc4Q1RpUzlBcFotZFE2cjBBTnVaNzVuZHpJQXfSAacBQVVfeXFMUGUtc2VNdS1sSXFnVFpGaXRIOE9TckU5Z2hDWld6dzIwSW1FeWpWYzdRY0JaM0pkZTZlT0lEazN4dkU1bVVsSU8yUUZKWUUzemFrSFNTbnUxRkxFQVVqQ21rSlBDanItT0RUWDJLemhnSGJpS0hQcHFVTnVlREpYdzlXTEdTNFdJTHhaSEdfejhTUi0zMzdwOFJSY0E3OHZjZi1rblhyaEU?oc=5\" target=\"_blank\">Gov't to inject $380.6 mil. into Korean AI startup Upstage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeG84c0tac1plZ2ZIUU5BejU0d3M1bGppWUNhODl0c01nTnRidzlCZ3J0RFBiYXZFOUVwbkRWOU04ZVM2aXVEejMzZmRIUkJZTnFKVExFdmd6NVVYOVFEcXIwcG5iRHFEUWVQUERteWlXM1VfNGNHY2RrTFZkQ2pubUpuMnNndWc4Q1RpUzlBcFotZFE2cjBBTnVaNzVuZHpJQXfSAacBQVVfeXFMUGUtc2VNdS1sSXFnVFpGaXRIOE9TckU5Z2hDWld6dzIwSW1FeWpWYzdRY0JaM0pkZTZlT0lEazN4dkU1bVVsSU8yUUZKWUUzemFrSFNTbnUxRkxFQVVqQ21rSlBDanItT0RUWDJLemhnSGJpS0hQcHFVTnVlREpYdzlXTEdTNFdJTHhaSEdfejhTUi0zMzdwOFJSY0E3OHZjZi1rblhyaEU?oc=5",
+          "title": "Hankook Tire tightens grip on British EV market by sponsoring premier exhibition - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZVVwU1J5T0tZWF9zS3ZQU3dqUmJBZUpnNHBkSVRZLXhKWEFxb0JQVlA0Qk1sQzJRdGIwQ3NxWWJXMy12TXlrRm9JZFVaNElZYW1SQmNpdmIxRHlFVW5kR3hyd1Vmd1F4R1prc0NKb25hMVp2X1hRRUR3YUx3V09NRFFNbjFITjZoVHRidDBpN2UyNlMxd1p2TGxEdTlEbHBnWUJJei02WHV4OGNoVGFpNlJfeEljMVVYcEZxUVFRenNpM3d3bEEzdlJac2ZLZXgyRTFr0gHYAUFVX3lxTE43MkNOZmFDTzhDbUx1WnVudVdkWkFkRXhhV1gzSWF5TDAtekZ5VWJEOFJUMkpNUlRtZ3J1eGVvVjVsY1pBOWR1aUJZU3liUkZiSzd4Wkl5d2VQREdhLTBHUlRlV2RzajZyWFRESHNLbG0xeGkyNXdVWTdKR19GcUR3cl9uUnFBcjgtNFhIbU5ES00zbXZ0Sm9yOXhvQS1jNUwzdlA1bEZ1cVFKc1BuNV90eVRlN2hReHgwU245OG1oTGFuV2xpQ2pndzlXQUIta2Nya1BXT0pMTg?oc=5\" target=\"_blank\">Hankook Tire tightens grip on British EV market by sponsoring premier exhibition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZVVwU1J5T0tZWF9zS3ZQU3dqUmJBZUpnNHBkSVRZLXhKWEFxb0JQVlA0Qk1sQzJRdGIwQ3NxWWJXMy12TXlrRm9JZFVaNElZYW1SQmNpdmIxRHlFVW5kR3hyd1Vmd1F4R1prc0NKb25hMVp2X1hRRUR3YUx3V09NRFFNbjFITjZoVHRidDBpN2UyNlMxd1p2TGxEdTlEbHBnWUJJei02WHV4OGNoVGFpNlJfeEljMVVYcEZxUVFRenNpM3d3bEEzdlJac2ZLZXgyRTFr0gHYAUFVX3lxTE43MkNOZmFDTzhDbUx1WnVudVdkWkFkRXhhV1gzSWF5TDAtekZ5VWJEOFJUMkpNUlRtZ3J1eGVvVjVsY1pBOWR1aUJZU3liUkZiSzd4Wkl5d2VQREdhLTBHUlRlV2RzajZyWFRESHNLbG0xeGkyNXdVWTdKR19GcUR3cl9uUnFBcjgtNFhIbU5ES00zbXZ0Sm9yOXhvQS1jNUwzdlA1bEZ1cVFKc1BuNV90eVRlN2hReHgwU245OG1oTGFuV2xpQ2pndzlXQUIta2Nya1BXT0pMTg?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-05-03",
+          "publishedAt": "2026-05-04",
           "views": "13.0K"
         }
       ]
@@ -181,18 +181,18 @@
           "views": "18.0K"
         },
         {
+          "title": "[INTERVIEW] SeoulTech bets on industry-embedded campus model to stand out in AI era - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQZWlrc2lnSXJLbnplUjE5Zl9TbUczQ25FSlVUcFg0NzRyNVR2eVJncWp2MG4xRmw4UHI0dTVMVUxUZXlzWW5YX0dhZzRPczZwNXhBNERINi12Znd2TnIzMllqSkxjelVXYWhHejBSR1JnNkhzSXNVV1IwTDZYWXd5clFpanBiSGlTSTVrQWpRNU5ILXpBVlZsQnVBTW9Rd1E4eXliMFVxQWRsM3Z4RGxhN3psUWtoMGhCSWR6aGt6Yy05OVhmUno2alE3bnfSAcwBQVVfeXFMUGVpa3NpZ0lyS256ZVIxOWZfU21HM0NuRUpVVHBYNDc0cjVUdnlSZ3FqdjBuMUZsOFByNHU1TFVMVGV5c1luWF9HYWc0T3M2cDV4QTRESDYtdmZ3dk5yMzJZakpMY3pVV2FoR3owUkdSZzZIc0lzVVdSMEw2WFl3eXJRaWpwYkhpU0k1a0FqUTVOSC16QVZWbEJ1QU1vUXdROHl5YjBVcUFkbDN2eERsYTd6bFFraDBoQklkemhremMtOTlYZlJ6NmpRN253?oc=5\" target=\"_blank\">[INTERVIEW] SeoulTech bets on industry-embedded campus model to stand out in AI era</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZWlrc2lnSXJLbnplUjE5Zl9TbUczQ25FSlVUcFg0NzRyNVR2eVJncWp2MG4xRmw4UHI0dTVMVUxUZXlzWW5YX0dhZzRPczZwNXhBNERINi12Znd2TnIzMllqSkxjelVXYWhHejBSR1JnNkhzSXNVV1IwTDZYWXd5clFpanBiSGlTSTVrQWpRNU5ILXpBVlZsQnVBTW9Rd1E4eXliMFVxQWRsM3Z4RGxhN3psUWtoMGhCSWR6aGt6Yy05OVhmUno2alE3bnfSAcwBQVVfeXFMUGVpa3NpZ0lyS256ZVIxOWZfU21HM0NuRUpVVHBYNDc0cjVUdnlSZ3FqdjBuMUZsOFByNHU1TFVMVGV5c1luWF9HYWc0T3M2cDV4QTRESDYtdmZ3dk5yMzJZakpMY3pVV2FoR3owUkdSZzZIc0lzVVdSMEw2WFl3eXJRaWpwYkhpU0k1a0FqUTVOSC16QVZWbEJ1QU1vUXdROHl5YjBVcUFkbDN2eERsYTd6bFFraDBoQklkemhremMtOTlYZlJ6NmpRN253?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-05-04",
+          "views": "13.0K"
+        },
+        {
           "title": "'Dated the CEO to become central star?' Ex-K-pop idol Hyogyeong lifts lid on industry's dark side - The Korea Times",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUHphNEc5UEZHZFAxUFM5LU5lODE3LUJTVEhsUkZTS3c1N2w2SUloNjdRQ3dpRmlTODdVOXJJdEIxNEg4WHBGWHVDS09tX0tReHR0MlRsVEZiYUNTYkJPUk1pSGR0OTFSdGx1ZWlldF9UX3U3MktOdkVaUktKR1RmaEMxRE02eThNa2kwQUotSndfVmllNThFbUs1UTNuMjQ3UTN4R1IxVXFQVFExMFpCN1RDQUpOY0pHVVFkSnRYeW54b00tTENIcXBuV202VzNCYkw4WURKdjJ1aW4tOWlDS0dVZ0V1d9IB6wFBVV95cUxQR2hwOVIyeE5QZEZtUjh6a3E3bEdjM091ZjBJVVJiY1o1WEJtYUZMZUZGM0lWakZ1QnpTa3pteVF2dFVMMkVaUEQ4d1hQN1pXNFdqYU5UZjh0U3RoQ0pRaDJ6dDIxbDRKcGxjYm1teFBMRFRNNUk5ZkJDbzByb2JfNlFOZWo1S3hqR1Q5VUMwcDJlbUxLc3VWZmhrcHkyUlVDX2hRTERCZXVqOWpxWmI3QnBYeWJTdkV2N1M5SlhfLUZYOXhRWXh0aHdzRENDLW83WjMycElPVV9GZEEyaW40YklVRnhfTU9nb1F3?oc=5\" target=\"_blank\">'Dated the CEO to become central star?' Ex-K-pop idol Hyogyeong lifts lid on industry's dark side</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
           "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUHphNEc5UEZHZFAxUFM5LU5lODE3LUJTVEhsUkZTS3c1N2w2SUloNjdRQ3dpRmlTODdVOXJJdEIxNEg4WHBGWHVDS09tX0tReHR0MlRsVEZiYUNTYkJPUk1pSGR0OTFSdGx1ZWlldF9UX3U3MktOdkVaUktKR1RmaEMxRE02eThNa2kwQUotSndfVmllNThFbUs1UTNuMjQ3UTN4R1IxVXFQVFExMFpCN1RDQUpOY0pHVVFkSnRYeW54b00tTENIcXBuV202VzNCYkw4WURKdjJ1aW4tOWlDS0dVZ0V1d9IB6wFBVV95cUxQR2hwOVIyeE5QZEZtUjh6a3E3bEdjM091ZjBJVVJiY1o1WEJtYUZMZUZGM0lWakZ1QnpTa3pteVF2dFVMMkVaUEQ4d1hQN1pXNFdqYU5UZjh0U3RoQ0pRaDJ6dDIxbDRKcGxjYm1teFBMRFRNNUk5ZkJDbzByb2JfNlFOZWo1S3hqR1Q5VUMwcDJlbUxLc3VWZmhrcHkyUlVDX2hRTERCZXVqOWpxWmI3QnBYeWJTdkV2N1M5SlhfLUZYOXhRWXh0aHdzRENDLW83WjMycElPVV9GZEEyaW40YklVRnhfTU9nb1F3?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-05-02",
-          "views": "13.0K"
-        },
-        {
-          "title": "Washington Hilton attack spotlights hotel industry's nagging and costly security problem - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPLWtaYzNnVHV1czB3UWlkV1lpTXVMRXdGSkhGaEhBRmpkSWsxUHFwbmhvN2JkTjlxb2tMNnZjbGc1WFNkOExmcGU1TGw2UV95ZW1fZnZZUnFTYTFTRXBRendBWFBGVWwtVTA0dG9vdm9nWlNPRE1hQjFMN2U1NGtIbFViSGlJMWpDUDVjYU54SUpFZHNnNFFFZEhRb0JDanBRUDh2dTIyUmJRMG5ITnBRclRBelhvWnkycnZNcA?oc=5\" target=\"_blank\">Washington Hilton attack spotlights hotel industry's nagging and costly security problem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLWtaYzNnVHV1czB3UWlkV1lpTXVMRXdGSkhGaEhBRmpkSWsxUHFwbmhvN2JkTjlxb2tMNnZjbGc1WFNkOExmcGU1TGw2UV95ZW1fZnZZUnFTYTFTRXBRendBWFBGVWwtVTA0dG9vdm9nWlNPRE1hQjFMN2U1NGtIbFViSGlJMWpDUDVjYU54SUpFZHNnNFFFZEhRb0JDanBRUDh2dTIyUmJRMG5ITnBRclRBelhvWnkycnZNcA?oc=5",
-          "source": "Reuters AI",
           "publishedAt": "2026-05-02",
           "views": "13.0K"
         }
