@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-05T07:33:21.714Z",
+  "lastUpdated": "2026-05-06T04:02:39.656Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,19 +49,19 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
+          "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQZmdrS2FJU0s3NDdOSDZ3T0Q0Ny1JUzdzUXllNWlUblhZVnBMWklVZlpTMTRJci1QX1JRSnNSVWtkSjVGcFQxRkczcE92VFZfY3I3RkZsbjBGQkE0YzlkSnE1TnpCUVVwVVc4X241MExzSU9oeDRPTlVobEpUSnNrb09OQkZzTGo0UVhFQ1dLQVFVS09mZlpFeURIWEJ2dkk?oc=5\" target=\"_blank\">OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZmdrS2FJU0s3NDdOSDZ3T0Q0Ny1JUzdzUXllNWlUblhZVnBMWklVZlpTMTRJci1QX1JRSnNSVWtkSjVGcFQxRkczcE92VFZfY3I3RkZsbjBGQkE0YzlkSnE1TnpCUVVwVVc4X241MExzSU9oeDRPTlVobEpUSnNrb09OQkZzTGo0UVhFQ1dLQVFVS09mZlpFeURIWEJ2dkk?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-05-05",
+          "views": "18.0K"
+        },
+        {
           "title": "OpenAI Enables Marketing Cookies by Default for Free ChatGPT Users - WIRED",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOdW5NSHlxUDZ0azlJSjJOQlRmck15SWRhQXc4SXllM09qUDFjSHB5cDdxTUdZRXp4V3lqSjJyZmRaMVl1WEk4aDl3NGt0SGk3UmJwTU1pbENZQTV6SU5aN3hhekp0bGVlVFZ4UTBraW9WUDFqMWw3ZmlFeUVtOHFrdVQzd2E4TzRJODZhOEln?oc=5\" target=\"_blank\">OpenAI Enables Marketing Cookies by Default for Free ChatGPT Users</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdW5NSHlxUDZ0azlJSjJOQlRmck15SWRhQXc4SXllM09qUDFjSHB5cDdxTUdZRXp4V3lqSjJyZmRaMVl1WEk4aDl3NGt0SGk3UmJwTU1pbENZQTV6SU5aN3hhekp0bGVlVFZ4UTBraW9WUDFqMWw3ZmlFeUVtOHFrdVQzd2E4TzRJODZhOEln?oc=5",
           "source": "WIRED AI",
           "publishedAt": "2026-05-01",
-          "views": "18.0K"
-        },
-        {
-          "title": "Samsung Electronics posts record $38.5 bil. Q1 operating profit on AI chip boom - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNWHc1ZllmNFNyaXFxNGJXOG5DaGdQYkZvOWV6ZzJoMUFTaUI0X0w2UmNPeXViOHQ2ZzV5QVdpTUNsWXBtYUdDb2pKWkpCYkU3dThvYlJtSmQ2S0xxNTk5b3BBSUFPR2l6RFQyYlZKeEZ6c1BIV1hFMmlaelVZZURXMjZEQ1BYRnV3a1QwZkJOZ3dLaW9rc1cxaFdSVGp5Zy1Ya2JEcWpBVVFhUUJ0QmlHZkE3TldIWENjdlViXzg4SEZPSTZwZjU5UUxZNmlkd9IB0wFBVV95cUxNZVNQcl94WlBDMjRZbjJBeTBhbmRteUd1TGk3TUJaemhWQlFVNDltMWx3ZG9DTWJPMzUxMmJKSENsVjJoY2Z3YzlRdDY5Q202SDNJMWRLX09rWE1JS0lIY0RfU1NQcEFXMmNUbXNaWlhPeldBekVJT2dKWEExSXZhcTVnTlpoMkpSVmNvTjBGUkU5YjY5TV9yTUJVdmtJc1JheDR4NzBNYWQ4VjJsRWFyNnRkbWJLWklYV2gzTEZuZDRkdXVha3AwUndzRUxiRE5qSXBN?oc=5\" target=\"_blank\">Samsung Electronics posts record $38.5 bil. Q1 operating profit on AI chip boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWHc1ZllmNFNyaXFxNGJXOG5DaGdQYkZvOWV6ZzJoMUFTaUI0X0w2UmNPeXViOHQ2ZzV5QVdpTUNsWXBtYUdDb2pKWkpCYkU3dThvYlJtSmQ2S0xxNTk5b3BBSUFPR2l6RFQyYlZKeEZ6c1BIV1hFMmlaelVZZURXMjZEQ1BYRnV3a1QwZkJOZ3dLaW9rc1cxaFdSVGp5Zy1Ya2JEcWpBVVFhUUJ0QmlHZkE3TldIWENjdlViXzg4SEZPSTZwZjU5UUxZNmlkd9IB0wFBVV95cUxNZVNQcl94WlBDMjRZbjJBeTBhbmRteUd1TGk3TUJaemhWQlFVNDltMWx3ZG9DTWJPMzUxMmJKSENsVjJoY2Z3YzlRdDY5Q202SDNJMWRLX09rWE1JS0lIY0RfU1NQcEFXMmNUbXNaWlhPeldBekVJT2dKWEExSXZhcTVnTlpoMkpSVmNvTjBGUkU5YjY5TV9yTUJVdmtJc1JheDR4NzBNYWQ4VjJsRWFyNnRkbWJLWklYV2gzTEZuZDRkdXVha3AwUndzRUxiRE5qSXBN?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-04-29",
           "views": "18.0K"
         },
         {
@@ -88,18 +88,18 @@
           "views": "23.0K"
         },
         {
+          "title": "Meta plans advanced 'agentic' AI assistant for users, FT reports - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNd3ZtblEwZm16d2hyNkcwMjRjTUtwVkd6bzJYQ1N4QnJvRXBZY3ZPeWo2WkpmSXpDY2xEZi1ZeVN5Q0lOeHF5TzllM05fZ19jLUtiT1A4SWZoNnV2U3lyUzY3OFQ4eVh3MDdiLWxLai1VbDI3LXRTOERqaWVhb3c2eVJXSjBMSHR4YklZdW5KQUM4SnYyV1hibkZzTnAwVzMyeHhRbw?oc=5\" target=\"_blank\">Meta plans advanced 'agentic' AI assistant for users, FT reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd3ZtblEwZm16d2hyNkcwMjRjTUtwVkd6bzJYQ1N4QnJvRXBZY3ZPeWo2WkpmSXpDY2xEZi1ZeVN5Q0lOeHF5TzllM05fZ19jLUtiT1A4SWZoNnV2U3lyUzY3OFQ4eVh3MDdiLWxLai1VbDI3LXRTOERqaWVhb3c2eVJXSjBMSHR4YklZdW5KQUM4SnYyV1hibkZzTnAwVzMyeHhRbw?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-05-05",
+          "views": "18.0K"
+        },
+        {
           "title": "Microsoft takes Agent 365 out of preview as shadow AI becomes an enterprise threat - VentureBeat",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ1JoN09ZQ2VXWTl1R3p0RDdOSkJFbHFlZ2h4a2hPTTh0QUo4ekRXa3BuQnpWNVRpOGZDd2dFdkYzWV9rSFFXbXh3YjlpNDZwTllSSWdEV19lNjB1VW8xX2hWV0piRjZ4UEVMckUxVzRPMDU1S0xIc1RZYjB4bmJoeGJfZ3ZjSmlNVTdfZVBGZVdnNHdBcy0yUFJfQk5PMUR5UjdMSUR3ZkNtbjMxUkpNaHdDR3c1WkZQ?oc=5\" target=\"_blank\">Microsoft takes Agent 365 out of preview as shadow AI becomes an enterprise threat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ1JoN09ZQ2VXWTl1R3p0RDdOSkJFbHFlZ2h4a2hPTTh0QUo4ekRXa3BuQnpWNVRpOGZDd2dFdkYzWV9rSFFXbXh3YjlpNDZwTllSSWdEV19lNjB1VW8xX2hWV0piRjZ4UEVMckUxVzRPMDU1S0xIc1RZYjB4bmJoeGJfZ3ZjSmlNVTdfZVBGZVdnNHdBcy0yUFJfQk5PMUR5UjdMSUR3ZkNtbjMxUkpNaHdDR3c1WkZQ?oc=5",
           "source": "VentureBeat AI",
-          "publishedAt": "2026-05-04",
-          "views": "18.0K"
-        },
-        {
-          "title": "Google made agentic AI governance a product. Enterprises still have to catch up. - AI News",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOamd4bWkwSTRkVkJaVU5tRGJPd3dwdkJkUG04aFR2YTU5WXZqdjVKSjQ2aTF1QUVOc0EzaXM1Vlc0N0hram9GVWlUZHhmVTRmdm1lOTNkbFJDcnlBZFcyc0FONHp6encyN2xwUjNXWWJMWEZxenAwV1VNYnkzNXZWNTNJQkxLMUgxQVRzczZrQ01oMjY2ZGdocGVacjlSTmtX?oc=5\" target=\"_blank\">Google made agentic AI governance a product. Enterprises still have to catch up.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI News</font>",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOamd4bWkwSTRkVkJaVU5tRGJPd3dwdkJkUG04aFR2YTU5WXZqdjVKSjQ2aTF1QUVOc0EzaXM1Vlc0N0hram9GVWlUZHhmVTRmdm1lOTNkbFJDcnlBZFcyc0FONHp6encyN2xwUjNXWWJMWEZxenAwV1VNYnkzNXZWNTNJQkxLMUgxQVRzczZrQ01oMjY2ZGdocGVacjlSTmtX?oc=5",
-          "source": "AI News",
           "publishedAt": "2026-05-04",
           "views": "18.0K"
         }
@@ -150,19 +150,19 @@
           "views": "18.0K"
         },
         {
-          "title": "Industry minister heads to Canada, US for submarine, investment talks - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPWUN0b3pEX1pKZHBYTmR4TTNCRUQ2T0J2X1c5LXBOdVpDaGF2eXJSMkM5d2tuSWdRZXRxSVlBZ3Rsek1TYjBvWHBlZmNwMkRuMkNZVmFrVGFvZU11MDdPUGdTN1FENGxRc09YMUxEUmxvajNyb3E2UVQzbFp6azBXejZWTGZuU2dUVnY0cWt5Ny1pbXRMcmgwMlFOaFZCUlpjSDU3VllfODhSOExRd3hFUmhYMEoxMTkyRFd2dtIBwgFBVV95cUxQRGhPYldSTnF3TFlkczNWdXN1d3QxaU5aTnBuSVZPOXdrSkJOTm1lLXZKMnJwZU1ybTYxUFBHcGZMWXFRaEprQmN6ZDZlblhINkkwMVc5aVhOUHh3V196UU1qS25UOXV3SUVYSURiZXlSaUtzLWlpaE5GbmVFMnBveFZUR3dzcXg2c0JYNlRSSWxKUUVZU19Ra0V5Rk1iVXpYRTB3ZUV1NFE5NzlxM0dHbVRuRk9JZUI2bGN0YlpjVy1rQQ?oc=5\" target=\"_blank\">Industry minister heads to Canada, US for submarine, investment talks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWUN0b3pEX1pKZHBYTmR4TTNCRUQ2T0J2X1c5LXBOdVpDaGF2eXJSMkM5d2tuSWdRZXRxSVlBZ3Rsek1TYjBvWHBlZmNwMkRuMkNZVmFrVGFvZU11MDdPUGdTN1FENGxRc09YMUxEUmxvajNyb3E2UVQzbFp6azBXejZWTGZuU2dUVnY0cWt5Ny1pbXRMcmgwMlFOaFZCUlpjSDU3VllfODhSOExRd3hFUmhYMEoxMTkyRFd2dtIBwgFBVV95cUxQRGhPYldSTnF3TFlkczNWdXN1d3QxaU5aTnBuSVZPOXdrSkJOTm1lLXZKMnJwZU1ybTYxUFBHcGZMWXFRaEprQmN6ZDZlblhINkkwMVc5aVhOUHh3V196UU1qS25UOXV3SUVYSURiZXlSaUtzLWlpaE5GbmVFMnBveFZUR3dzcXg2c0JYNlRSSWxKUUVZU19Ra0V5Rk1iVXpYRTB3ZUV1NFE5NzlxM0dHbVRuRk9JZUI2bGN0YlpjVy1rQQ?oc=5",
+          "title": "Lee reaffirms commitment to curbing overheated housing market - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTnZPLUlyMXVrRUZsUjVMcEFXQjZzRmRpSUhYcldnU0p2c25Db1gxeXprVUtTYjFnSGd5YTcybXpSWDhhbzQ4Q01BWm9HVkJDVWxZYVdHMWlKd21sM19HTC1LX21SS0dEbkktamZmYk05eW1IandRbTFsU09iNXY0UlZQUWtGWFRjSnU4U0psa2oxZzFWUjBoRF9nR1hTaVp6VDhQTzJVMTZ5VGxVUThMV1pKa01VYW5TU0RoSE9LRUbSAcABQVVfeXFMTU52Ty1JcjF1a0VGbFI1THBBV0I2c0ZkaUlIWHJXZ1NKdnNuQ29YMXl6a1VLU2IxZ0hneWE3Mm16Ulg4YW80OENNQVpvR1ZCQ1VsWWFXRzFpSndtbDNfR0wtS19tUktHRG5JLWpmZmJNOXltSGp3UW0xbFNPYjV2NFJWUFFrRlhUY0p1OFNKbGtqMWcxVlIwaERfZ0dYU2laelQ4UE8yVTE2eVRsVVE4TFdaSmtNVWFuU1NEaEhPS0VG?oc=5\" target=\"_blank\">Lee reaffirms commitment to curbing overheated housing market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTnZPLUlyMXVrRUZsUjVMcEFXQjZzRmRpSUhYcldnU0p2c25Db1gxeXprVUtTYjFnSGd5YTcybXpSWDhhbzQ4Q01BWm9HVkJDVWxZYVdHMWlKd21sM19HTC1LX21SS0dEbkktamZmYk05eW1IandRbTFsU09iNXY0UlZQUWtGWFRjSnU4U0psa2oxZzFWUjBoRF9nR1hTaVp6VDhQTzJVMTZ5VGxVUThMV1pKa01VYW5TU0RoSE9LRUbSAcABQVVfeXFMTU52Ty1JcjF1a0VGbFI1THBBV0I2c0ZkaUlIWHJXZ1NKdnNuQ29YMXl6a1VLU2IxZ0hneWE3Mm16Ulg4YW80OENNQVpvR1ZCQ1VsWWFXRzFpSndtbDNfR0wtS19tUktHRG5JLWpmZmJNOXltSGp3UW0xbFNPYjV2NFJWUFFrRlhUY0p1OFNKbGtqMWcxVlIwaERfZ0dYU2laelQ4UE8yVTE2eVRsVVE4TFdaSmtNVWFuU1NEaEhPS0VG?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-05-05",
+          "publishedAt": "2026-05-06",
           "views": "13.0K"
         },
         {
-          "title": "Mom's Touch, Burger King return to M&A market with increased earnings - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQbVFrNW9jUFo0a3BOSzJHbGRWb3BNT2NYNzVrN3ZYeFZyYXRPNVBGRVNCckl6YkZUb3JvTUFUeTdoZmxaT2F5TThVVFNORkdJYk9nZGxFYk11eTllOU9zYVpzV1hlRmlSV0pNSVRudWRGYTV2QzNPTHFIbW1wT2E0RTdQaU05cmxXbHNnX2JJUlFaajRJMHJYbTF6VHBGSGNfdGxGck0yeENYUGhHZC1FcVdtMXhzUm94NzlZSERNRFhyaFJuLVHSAcYBQVVfeXFMUG1RazVvY1BaNGtwTksyR2xkVm9wTU9jWDc1azd2WHhWcmF0TzVQRkVTQnJJemJGVG9yb01BVHk3aGZsWk9heU04VVRTTkZHSWJPZ2RsRWJNdXk5ZTlPc2Fac1dYZUZpUldKTUlUbnVkRmE1dkMzT0xxSG1tcE9hNEU3UGlNOXJsV2xzZ19iSVJRWmo0STByWG0xelRwRkhjX3RsRnJNMnhDWFBoR2QtRXFXbTF4c1JveDc5WUhETURYcmhSbi1R?oc=5\" target=\"_blank\">Mom's Touch, Burger King return to M&A market with increased earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbVFrNW9jUFo0a3BOSzJHbGRWb3BNT2NYNzVrN3ZYeFZyYXRPNVBGRVNCckl6YkZUb3JvTUFUeTdoZmxaT2F5TThVVFNORkdJYk9nZGxFYk11eTllOU9zYVpzV1hlRmlSV0pNSVRudWRGYTV2QzNPTHFIbW1wT2E0RTdQaU05cmxXbHNnX2JJUlFaajRJMHJYbTF6VHBGSGNfdGxGck0yeENYUGhHZC1FcVdtMXhzUm94NzlZSERNRFhyaFJuLVHSAcYBQVVfeXFMUG1RazVvY1BaNGtwTksyR2xkVm9wTU9jWDc1azd2WHhWcmF0TzVQRkVTQnJJemJGVG9yb01BVHk3aGZsWk9heU04VVRTTkZHSWJPZ2RsRWJNdXk5ZTlPc2Fac1dYZUZpUldKTUlUbnVkRmE1dkMzT0xxSG1tcE9hNEU3UGlNOXJsV2xzZ19iSVJRWmo0STByWG0xelRwRkhjX3RsRnJNMnhDWFBoR2QtRXFXbTF4c1JveDc5WUhETURYcmhSbi1R?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-05-05",
+          "title": "Samsung Electronics' market cap surpasses $1 trln after US AI chip stocks surge - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQbTVjT0djLWd1T3hRczZXWXBuUXpza1ZhS2p6cXJmbmdkZEMzZVBtbGQxanNXT3VSS3hSOHA1Ump6SnlFX0xyaC1KS3lBaU9oQmlsbndFc25aUHZocEVIbUE5eXJaNGxOT1ltazJEQmg4LTJfUE95VHJyQVdibHg5QjRldURwdEtXWmlOcFdNV0Q4OVFfM3EwRHhycnFRWE5Bcy11Ng?oc=5\" target=\"_blank\">Samsung Electronics' market cap surpasses $1 trln after US AI chip stocks surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbTVjT0djLWd1T3hRczZXWXBuUXpza1ZhS2p6cXJmbmdkZEMzZVBtbGQxanNXT3VSS3hSOHA1Ump6SnlFX0xyaC1KS3lBaU9oQmlsbndFc25aUHZocEVIbUE5eXJaNGxOT1ltazJEQmg4LTJfUE95VHJyQVdibHg5QjRldURwdEtXWmlOcFdNV0Q4OVFfM3EwRHhycnFRWE5Bcy11Ng?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-05-06",
           "views": "13.0K"
         }
       ]
@@ -173,14 +173,6 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
-          "title": "RAD Amplify Expands Collaboration with World’s Largest Holding Company for Third Year, Accelerating AI-Powered Creator Strategy with Ketchum - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxNanpZZUc5dXhwVzZ4WlhuNGlibVlqbkVsbGNPcUdjM3hJYzRNc3JVOVZhLUpoc0hHUGxCbnRuZFNYR2RmSE5FYU96ZzI1WnBBMlc3eXY4eURsSWE3VmRER3l1elhHeTNhc3dYZ2JpbXJnZ3VXOHRYejBxSHE1OTZwdFRyQWs5ZVlLckt2M3kxZlNjcDR6bnRKWHE3T3pOSk5ESHU1ZUZHR3F6b2hPQUpMRUw4X2YtUHZkdy1PSkNsbWFZRWo2QkdkOXpPV0xBNlNqZGRDMldQYzY0N2hmWG5Eb1ZTWWFsb3o3SEp4Vlh3ZkFQWEpUSkhQOHBDVUFiaGk0?oc=5\" target=\"_blank\">RAD Amplify Expands Collaboration with World’s Largest Holding Company for Third Year, Accelerating AI-Powered Creator Strategy with Ketchum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNanpZZUc5dXhwVzZ4WlhuNGlibVlqbkVsbGNPcUdjM3hJYzRNc3JVOVZhLUpoc0hHUGxCbnRuZFNYR2RmSE5FYU96ZzI1WnBBMlc3eXY4eURsSWE3VmRER3l1elhHeTNhc3dYZ2JpbXJnZ3VXOHRYejBxSHE1OTZwdFRyQWs5ZVlLckt2M3kxZlNjcDR6bnRKWHE3T3pOSk5ESHU1ZUZHR3F6b2hPQUpMRUw4X2YtUHZkdy1PSkNsbWFZRWo2QkdkOXpPV0xBNlNqZGRDMldQYzY0N2hmWG5Eb1ZTWWFsb3o3SEp4Vlh3ZkFQWEpUSkhQOHBDVUFiaGk0?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-04-28",
-          "views": "18.0K"
-        },
-        {
           "title": "Industry minister heads to Canada, US for submarine, investment talks - The Korea Times",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPWUN0b3pEX1pKZHBYTmR4TTNCRUQ2T0J2X1c5LXBOdVpDaGF2eXJSMkM5d2tuSWdRZXRxSVlBZ3Rsek1TYjBvWHBlZmNwMkRuMkNZVmFrVGFvZU11MDdPUGdTN1FENGxRc09YMUxEUmxvajNyb3E2UVQzbFp6azBXejZWTGZuU2dUVnY0cWt5Ny1pbXRMcmgwMlFOaFZCUlpjSDU3VllfODhSOExRd3hFUmhYMEoxMTkyRFd2dtIBwgFBVV95cUxQRGhPYldSTnF3TFlkczNWdXN1d3QxaU5aTnBuSVZPOXdrSkJOTm1lLXZKMnJwZU1ybTYxUFBHcGZMWXFRaEprQmN6ZDZlblhINkkwMVc5aVhOUHh3V196UU1qS25UOXV3SUVYSURiZXlSaUtzLWlpaE5GbmVFMnBveFZUR3dzcXg2c0JYNlRSSWxKUUVZU19Ra0V5Rk1iVXpYRTB3ZUV1NFE5NzlxM0dHbVRuRk9JZUI2bGN0YlpjVy1rQQ?oc=5\" target=\"_blank\">Industry minister heads to Canada, US for submarine, investment talks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWUN0b3pEX1pKZHBYTmR4TTNCRUQ2T0J2X1c5LXBOdVpDaGF2eXJSMkM5d2tuSWdRZXRxSVlBZ3Rsek1TYjBvWHBlZmNwMkRuMkNZVmFrVGFvZU11MDdPUGdTN1FENGxRc09YMUxEUmxvajNyb3E2UVQzbFp6azBXejZWTGZuU2dUVnY0cWt5Ny1pbXRMcmgwMlFOaFZCUlpjSDU3VllfODhSOExRd3hFUmhYMEoxMTkyRFd2dtIBwgFBVV95cUxQRGhPYldSTnF3TFlkczNWdXN1d3QxaU5aTnBuSVZPOXdrSkJOTm1lLXZKMnJwZU1ybTYxUFBHcGZMWXFRaEprQmN6ZDZlblhINkkwMVc5aVhOUHh3V196UU1qS25UOXV3SUVYSURiZXlSaUtzLWlpaE5GbmVFMnBveFZUR3dzcXg2c0JYNlRSSWxKUUVZU19Ra0V5Rk1iVXpYRTB3ZUV1NFE5NzlxM0dHbVRuRk9JZUI2bGN0YlpjVy1rQQ?oc=5",
@@ -189,11 +181,19 @@
           "views": "13.0K"
         },
         {
-          "title": "[INTERVIEW] SeoulTech bets on industry-embedded campus model to stand out in AI era - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQZWlrc2lnSXJLbnplUjE5Zl9TbUczQ25FSlVUcFg0NzRyNVR2eVJncWp2MG4xRmw4UHI0dTVMVUxUZXlzWW5YX0dhZzRPczZwNXhBNERINi12Znd2TnIzMllqSkxjelVXYWhHejBSR1JnNkhzSXNVV1IwTDZYWXd5clFpanBiSGlTSTVrQWpRNU5ILXpBVlZsQnVBTW9Rd1E4eXliMFVxQWRsM3Z4RGxhN3psUWtoMGhCSWR6aGt6Yy05OVhmUno2alE3bnfSAcwBQVVfeXFMUGVpa3NpZ0lyS256ZVIxOWZfU21HM0NuRUpVVHBYNDc0cjVUdnlSZ3FqdjBuMUZsOFByNHU1TFVMVGV5c1luWF9HYWc0T3M2cDV4QTRESDYtdmZ3dk5yMzJZakpMY3pVV2FoR3owUkdSZzZIc0lzVVdSMEw2WFl3eXJRaWpwYkhpU0k1a0FqUTVOSC16QVZWbEJ1QU1vUXdROHl5YjBVcUFkbDN2eERsYTd6bFFraDBoQklkemhremMtOTlYZlJ6NmpRN253?oc=5\" target=\"_blank\">[INTERVIEW] SeoulTech bets on industry-embedded campus model to stand out in AI era</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZWlrc2lnSXJLbnplUjE5Zl9TbUczQ25FSlVUcFg0NzRyNVR2eVJncWp2MG4xRmw4UHI0dTVMVUxUZXlzWW5YX0dhZzRPczZwNXhBNERINi12Znd2TnIzMllqSkxjelVXYWhHejBSR1JnNkhzSXNVV1IwTDZYWXd5clFpanBiSGlTSTVrQWpRNU5ILXpBVlZsQnVBTW9Rd1E4eXliMFVxQWRsM3Z4RGxhN3psUWtoMGhCSWR6aGt6Yy05OVhmUno2alE3bnfSAcwBQVVfeXFMUGVpa3NpZ0lyS256ZVIxOWZfU21HM0NuRUpVVHBYNDc0cjVUdnlSZ3FqdjBuMUZsOFByNHU1TFVMVGV5c1luWF9HYWc0T3M2cDV4QTRESDYtdmZ3dk5yMzJZakpMY3pVV2FoR3owUkdSZzZIc0lzVVdSMEw2WFl3eXJRaWpwYkhpU0k1a0FqUTVOSC16QVZWbEJ1QU1vUXdROHl5YjBVcUFkbDN2eERsYTd6bFFraDBoQklkemhremMtOTlYZlJ6NmpRN253?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-05-04",
+          "title": "Angeles Equity Partners Portfolio Company Promera Acquires Data Clean Asia - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPenJkT3M4b3RpMW0xczBrT3JOekFUOXRFNmhkMFZUcFBfeVdBbWFCckhuaVNuWHhqcy1pV1lmS0lUbndyclJra2d2eEtvbXZLRFVmQVNfdUFDcVV6dFdsZkZ3YjNEZDVUamxyWk0zTmJCMmJRR3ZGb05FamtwNHYxZDhhaXJWeFpOMmJOXzU1RmJsVDBMblJ1WFJXcWt4WEZtWTZUSVFfb1kyY2M?oc=5\" target=\"_blank\">Angeles Equity Partners Portfolio Company Promera Acquires Data Clean Asia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPenJkT3M4b3RpMW0xczBrT3JOekFUOXRFNmhkMFZUcFBfeVdBbWFCckhuaVNuWHhqcy1pV1lmS0lUbndyclJra2d2eEtvbXZLRFVmQVNfdUFDcVV6dFdsZkZ3YjNEZDVUamxyWk0zTmJCMmJRR3ZGb05FamtwNHYxZDhhaXJWeFpOMmJOXzU1RmJsVDBMblJ1WFJXcWt4WEZtWTZUSVFfb1kyY2M?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-05-05",
+          "views": "13.0K"
+        },
+        {
+          "title": "Alphabet closes in on Nvidia's spot as world's biggest company - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOR0pIUVA1dTNBSHI3YXdaa09xRkZ6OUlJUHU3QkxwN0ZVUDJ4VktpWE96bTBrNGNzU2x3eVZFZXVmVy1kR0ZXOUstMTBsc2NZQlNscFhCQjN0N1U4Um04VldfdWRTb0xYMV9mOTh0MmV1eS1nb0w5VUVuNndiUUZ0R0YtOGpOVlRJSUY1aEtCbERfYl83VHN3VmtvVkg?oc=5\" target=\"_blank\">Alphabet closes in on Nvidia's spot as world's biggest company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR0pIUVA1dTNBSHI3YXdaa09xRkZ6OUlJUHU3QkxwN0ZVUDJ4VktpWE96bTBrNGNzU2x3eVZFZXVmVy1kR0ZXOUstMTBsc2NZQlNscFhCQjN0N1U4Um04VldfdWRTb0xYMV9mOTh0MmV1eS1nb0w5VUVuNndiUUZ0R0YtOGpOVlRJSUY1aEtCbERfYl83VHN3VmtvVkg?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-05-05",
           "views": "13.0K"
         }
       ]
