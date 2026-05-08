@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-07T04:02:37.741Z",
+  "lastUpdated": "2026-05-08T03:51:53.351Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,27 +49,27 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
-          "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT - TechCrunch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQZmdrS2FJU0s3NDdOSDZ3T0Q0Ny1JUzdzUXllNWlUblhZVnBMWklVZlpTMTRJci1QX1JRSnNSVWtkSjVGcFQxRkczcE92VFZfY3I3RkZsbjBGQkE0YzlkSnE1TnpCUVVwVVc4X241MExzSU9oeDRPTlVobEpUSnNrb09OQkZzTGo0UVhFQ1dLQVFVS09mZlpFeURIWEJ2dkk?oc=5\" target=\"_blank\">OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZmdrS2FJU0s3NDdOSDZ3T0Q0Ny1JUzdzUXllNWlUblhZVnBMWklVZlpTMTRJci1QX1JRSnNSVWtkSjVGcFQxRkczcE92VFZfY3I3RkZsbjBGQkE0YzlkSnE1TnpCUVVwVVc4X241MExzSU9oeDRPTlVobEpUSnNrb09OQkZzTGo0UVhFQ1dLQVFVS09mZlpFeURIWEJ2dkk?oc=5",
+          "title": "How Sakana trained a 7B model to orchestrate GPT-5, Claude Sonnet 4 and Gemini 2.5 Pro - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSGRXUmp5Q2N2QktwUnF0Q0x6NGtsRjVPTWlFcmhfckw1OTNyR1hnbExmbFFZR3dGVjVzWTFlelFwMnhxQU1JR3RiUzlKRnN3RVE4RDBrejdFcExzVHdBSV9oTFNzSVJVb0huSE5nVHhqb09aZVd0YnNXdWtndFA2M3ExcEdYdm9ocFZJWTBnb1p3Ml9RYm9TNkhWVFV4MF9nR1FYSWdYb0tXSDVnckpmZUlIS203VV96MGtrZkxvMl8?oc=5\" target=\"_blank\">How Sakana trained a 7B model to orchestrate GPT-5, Claude Sonnet 4 and Gemini 2.5 Pro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSGRXUmp5Q2N2QktwUnF0Q0x6NGtsRjVPTWlFcmhfckw1OTNyR1hnbExmbFFZR3dGVjVzWTFlelFwMnhxQU1JR3RiUzlKRnN3RVE4RDBrejdFcExzVHdBSV9oTFNzSVJVb0huSE5nVHhqb09aZVd0YnNXdWtndFA2M3ExcEdYdm9ocFZJWTBnb1p3Ml9RYm9TNkhWVFV4MF9nR1FYSWdYb0tXSDVnckpmZUlIS203VV96MGtrZkxvMl8?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-05-07",
+          "views": "28.0K"
+        },
+        {
+          "title": "Meet ZAYA1-8B, a super efficient open reasoning model trained on AMD Instinct MI300 GPUs - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNVmc1UU10Zi1QWHM1VkJtWFU2UDZsbXdKWDNjd0tVcjBIOEVLd3k5a1lkWmwyOGxPcEtKMFQtUl9KT1BQNDFQdkxsYnZsWEhaS3I2bWdjRWhpOWVXSHBTTndCMk9sU09lN3J6X1VtVVhSak5LRTM3cG9FaVdBVU12aHBKdGRmRFNmNFdhLXdKM18zLXdYVnZjR0I4eVd1TnFZckduajBfR0xLV1pYcXRyRlYzWlRyaXhhQzd1R3BMRQ?oc=5\" target=\"_blank\">Meet ZAYA1-8B, a super efficient open reasoning model trained on AMD Instinct MI300 GPUs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVmc1UU10Zi1QWHM1VkJtWFU2UDZsbXdKWDNjd0tVcjBIOEVLd3k5a1lkWmwyOGxPcEtKMFQtUl9KT1BQNDFQdkxsYnZsWEhaS3I2bWdjRWhpOWVXSHBTTndCMk9sU09lN3J6X1VtVVhSak5LRTM3cG9FaVdBVU12aHBKdGRmRFNmNFdhLXdKM18zLXdYVnZjR0I4eVd1TnFZckduajBfR0xLV1pYcXRyRlYzWlRyaXhhQzd1R3BMRQ?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-05-07",
+          "views": "18.0K"
+        },
+        {
+          "title": "Tesla Model Y is first car to meet new US driver assistance safety benchmark - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNRGs2dDRod3JQTEg1MjhzSWZOOWFjOXpmaUtNNHVwSng2WEZlWGVJaENQV1VXR0dLNkh2cUh1a19IYnVCWUJLU25HMlI5VmZhSnp5amVEaFhDRlJLZ2FMd2hFSFdBcUhkRkFfQ0lwQjdzWl9WaVNPZE5ObkhKX214bV9wTTg4YmJyUHZ4UDN3RENZZW44VnFpV3FuU001d2MyaExPLXotVlJ3aE16ZEk0V1N3?oc=5\" target=\"_blank\">Tesla Model Y is first car to meet new US driver assistance safety benchmark</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRGs2dDRod3JQTEg1MjhzSWZOOWFjOXpmaUtNNHVwSng2WEZlWGVJaENQV1VXR0dLNkh2cUh1a19IYnVCWUJLU25HMlI5VmZhSnp5amVEaFhDRlJLZ2FMd2hFSFdBcUhkRkFfQ0lwQjdzWl9WaVNPZE5ObkhKX214bV9wTTg4YmJyUHZ4UDN3RENZZW44VnFpV3FuU001d2MyaExPLXotVlJ3aE16ZEk0V1N3?oc=5",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-05-05",
-          "views": "18.0K"
-        },
-        {
-          "title": "KOSPI tops 6,900 for 1st time as chip rally outweighs geopolitical tensions - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPTDF3dmxZRkg0Z3BiX0djVnNqbnk5VjFvWTVEaGpwWmhpUFNHamhZX0Y5Zkx4eDNtbkZWRGFEcGE4cUV1Y3dqaFI5Ty1WYTd3anVOZ0pocVlFU1ZnMXprMG1iNjIweHBXSmVBdmRFbTJVZVI2YlFhZG4tTF8xLTU5S1dfZGVyZThiNVVyRTd0bnVOS25kR2pTUFZlVGFhZVhCbV9qVU9kMl96UGhKT3BSRXRhZ0psRk8tTEdwaUphekNvNW91ZlHSAcsBQVVfeXFMTklkWHJ3Ui14NDFWUHlkVGVpOUM3NXRIWjU5Ujd5N25ldFJ6NkJpRDYtS21ZQVgwOXh5WG1kOU5vZm5iWW9TdDdvVDdBUFMwRTZMdWJNQWtpajY2dWd3dThpMmgwanFLMEV4dE5qLW9mQXh0Q3BnYUZRYzdzZm1pQktraW91YmZVbV9TYUJHd0hoZDNrRHZJLVVDaGptMzc4eTI5Z2tDXzhpR3h2UWFNQXg1cEVueHBIMzVQYVUyTU1MZkthbDRrRHV4UGs?oc=5\" target=\"_blank\">KOSPI tops 6,900 for 1st time as chip rally outweighs geopolitical tensions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTDF3dmxZRkg0Z3BiX0djVnNqbnk5VjFvWTVEaGpwWmhpUFNHamhZX0Y5Zkx4eDNtbkZWRGFEcGE4cUV1Y3dqaFI5Ty1WYTd3anVOZ0pocVlFU1ZnMXprMG1iNjIweHBXSmVBdmRFbTJVZVI2YlFhZG4tTF8xLTU5S1dfZGVyZThiNVVyRTd0bnVOS25kR2pTUFZlVGFhZVhCbV9qVU9kMl96UGhKT3BSRXRhZ0psRk8tTEdwaUphekNvNW91ZlHSAcsBQVVfeXFMTklkWHJ3Ui14NDFWUHlkVGVpOUM3NXRIWjU5Ujd5N25ldFJ6NkJpRDYtS21ZQVgwOXh5WG1kOU5vZm5iWW9TdDdvVDdBUFMwRTZMdWJNQWtpajY2dWd3dThpMmgwanFLMEV4dE5qLW9mQXh0Q3BnYUZRYzdzZm1pQktraW91YmZVbV9TYUJHd0hoZDNrRHZJLVVDaGptMzc4eTI5Z2tDXzhpR3h2UWFNQXg1cEVueHBIMzVQYVUyTU1MZkthbDRrRHV4UGs?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-05-04",
-          "views": "18.0K"
-        },
-        {
-          "title": "OpenAI Enables Marketing Cookies by Default for Free ChatGPT Users - WIRED",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOdW5NSHlxUDZ0azlJSjJOQlRmck15SWRhQXc4SXllM09qUDFjSHB5cDdxTUdZRXp4V3lqSjJyZmRaMVl1WEk4aDl3NGt0SGk3UmJwTU1pbENZQTV6SU5aN3hhekp0bGVlVFZ4UTBraW9WUDFqMWw3ZmlFeUVtOHFrdVQzd2E4TzRJODZhOEln?oc=5\" target=\"_blank\">OpenAI Enables Marketing Cookies by Default for Free ChatGPT Users</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdW5NSHlxUDZ0azlJSjJOQlRmck15SWRhQXc4SXllM09qUDFjSHB5cDdxTUdZRXp4V3lqSjJyZmRaMVl1WEk4aDl3NGt0SGk3UmJwTU1pbENZQTV6SU5aN3hhekp0bGVlVFZ4UTBraW9WUDFqMWw3ZmlFeUVtOHFrdVQzd2E4TzRJODZhOEln?oc=5",
-          "source": "WIRED AI",
-          "publishedAt": "2026-05-01",
+          "publishedAt": "2026-05-07",
           "views": "18.0K"
         }
       ]
@@ -111,11 +111,11 @@
       "description": "규제, 책임, 신뢰, 저작권 같은 문제를 보는 관점",
       "items": [
         {
-          "title": "Rising oil, freight costs put Korea tire firms' profits at risk - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQVWgwbWZmQUVoa2oxVkxHcUVla1NGLTBDdnB4dWt6V1RBNnBRaXB6UEo3V0NJWEctVkk2S21ibUxONVdtZzFVcWlsUnJteUZOVjVnZFAtc3dKVF9TQ2NYQU43NmZtWjhxZjYyQTlESE9xYy01dS16bkdUdkt5YlEzTzl3MGNOdW1BWnNFUlBydlNoMUNoSHZnZlAwUkJ5czFacl9JNGp2aTBUUm4tSXlsNVdtU01XNTZnaVHSAb8BQVVfeXFMTmlQd3FTcjZET2t6WTNIUmdnLWNxUE1iU09fSlFVMEZMQlVXY2tiX3pLZEU2a2ZJcTQ0SFZDQmdicWp5NkJzZGVoSUpBWG52SGp0cjR6UTBrWEdJLWFCV2h6dTl0MFU5dVdDZ3g0N3JXS0JYcUEtempOWHZiR3FpMk1hVmYtd3Z4aWRJLUdjQlBNaDV0MkNGUTFCN3ZpbUNzSzNGZ3NMSlNwVG9NRFIwN2lJQmpxaHZCUzhuWk1jb00?oc=5\" target=\"_blank\">Rising oil, freight costs put Korea tire firms' profits at risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVWgwbWZmQUVoa2oxVkxHcUVla1NGLTBDdnB4dWt6V1RBNnBRaXB6UEo3V0NJWEctVkk2S21ibUxONVdtZzFVcWlsUnJteUZOVjVnZFAtc3dKVF9TQ2NYQU43NmZtWjhxZjYyQTlESE9xYy01dS16bkdUdkt5YlEzTzl3MGNOdW1BWnNFUlBydlNoMUNoSHZnZlAwUkJ5czFacl9JNGp2aTBUUm4tSXlsNVdtU01XNTZnaVHSAb8BQVVfeXFMTmlQd3FTcjZET2t6WTNIUmdnLWNxUE1iU09fSlFVMEZMQlVXY2tiX3pLZEU2a2ZJcTQ0SFZDQmdicWp5NkJzZGVoSUpBWG52SGp0cjR6UTBrWEdJLWFCV2h6dTl0MFU5dVdDZ3g0N3JXS0JYcUEtempOWHZiR3FpMk1hVmYtd3Z4aWRJLUdjQlBNaDV0MkNGUTFCN3ZpbUNzSzNGZ3NMSlNwVG9NRFIwN2lJQmpxaHZCUzhuWk1jb00?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-05-04",
+          "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRjFkeVRoSVYyWWtsZUYxWlA0Tm9tX09Da3F3djU2ekVmZGU0SzFjM2wxQzUzM0loT0xUNEs0akt0V0ZHbFdJMkxRU2xtckxodFFqV3QwTW1LMFA1aV9TS3J5OG41eXp3MndGbTdfY3NPdUo4UmE3RjJpRmNtRHBZRkIwUVlPdEQzNHB6ZkR3MUF4dnotYlhtOEtTMmdralpvSmt6c1Qzb2RwSjQ?oc=5\" target=\"_blank\">Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRjFkeVRoSVYyWWtsZUYxWlA0Tm9tX09Da3F3djU2ekVmZGU0SzFjM2wxQzUzM0loT0xUNEs0akt0V0ZHbFdJMkxRU2xtckxodFFqV3QwTW1LMFA1aV9TS3J5OG41eXp3MndGbTdfY3NPdUo4UmE3RjJpRmNtRHBZRkIwUVlPdEQzNHB6ZkR3MUF4dnotYlhtOEtTMmdralpvSmt6c1Qzb2RwSjQ?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-05-07",
           "views": "18.0K"
         },
         {
@@ -142,27 +142,27 @@
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
         {
-          "title": "AI-related investment, rebound in government spending lift US economy in first quarter - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPUVBtZ01xZG5qYnZzcHFmS04wVVZMZmRjeGRYX2xPMkhlZ3RCVnJvZ2xLaHcyc01OTFhGbWlhX0Z3WDdWSjRjcXIxQkdrXzFobUp5cXAyNU5pbjgtQXBQYjFES3d5SXRaV3MwQjRkcS1hRzZoMTZJNmVYN1NzYUhaTzA2WTJ5VTVnSHExRC1udGNGMkMzbTFHZVhaMEtXZUMzdHRCeUVFQjBQak5JMW1RLXNGZw?oc=5\" target=\"_blank\">AI-related investment, rebound in government spending lift US economy in first quarter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUVBtZ01xZG5qYnZzcHFmS04wVVZMZmRjeGRYX2xPMkhlZ3RCVnJvZ2xLaHcyc01OTFhGbWlhX0Z3WDdWSjRjcXIxQkdrXzFobUp5cXAyNU5pbjgtQXBQYjFES3d5SXRaV3MwQjRkcS1hRzZoMTZJNmVYN1NzYUhaTzA2WTJ5VTVnSHExRC1udGNGMkMzbTFHZVhaMEtXZUMzdHRCeUVFQjBQak5JMW1RLXNGZw?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-04-30",
+          "title": "Stock market investment gains still being funneled into real estate: BOK report - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOX3JYdjVNTDdPTmxiQ0FXVWZIbVBaY1lWY3N3YmliRFVteGZFbzFoSV9NQWZ5SkJkVjdoT0NvSE1TMnMydzFRcVNYT0Y5bFNUWlhPaHpxSUN5R2dHcTV3ZjJ3QTd0Mk9IX21MaTBYSGlxUm5ZZWpXaUp0SzBqV1VoendZRHlpU3AxUlppMnNYejE5ZEdRdWYtOEhaUWlYQ1RQY0QxRFVoOUtockI1bzJEbWpDRVZBSXdqbG5SZVVmcU15ZVQ5SVZsdTZjY9IB0AFBVV95cUxNUlpDVng2WVJpZ2hwQnBRcnpzVVE2ZlpjaXl1WF92aTVyclg4OHNIdV9oYkc1eWdhTEVkeWZRN1B5Tk5sanl5ZWZIN29GVUJYTkNSRzhfeVZLdUUwYmU2ZWh5eGYzWm1pRC1ncVJPamtCdFlNQ09KMFBONnRvNVVuZDFGT1QxTjdyV0dwbkIwa0ZFWUo1Q3JQVkdVdnRVUTM5UURGaTJST0toWGthQUljOXhacmhVbk0wTlBZejNEUG1HbDdRWFIxZEUwaVZEVDlu?oc=5\" target=\"_blank\">Stock market investment gains still being funneled into real estate: BOK report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOX3JYdjVNTDdPTmxiQ0FXVWZIbVBaY1lWY3N3YmliRFVteGZFbzFoSV9NQWZ5SkJkVjdoT0NvSE1TMnMydzFRcVNYT0Y5bFNUWlhPaHpxSUN5R2dHcTV3ZjJ3QTd0Mk9IX21MaTBYSGlxUm5ZZWpXaUp0SzBqV1VoendZRHlpU3AxUlppMnNYejE5ZEdRdWYtOEhaUWlYQ1RQY0QxRFVoOUtockI1bzJEbWpDRVZBSXdqbG5SZVVmcU15ZVQ5SVZsdTZjY9IB0AFBVV95cUxNUlpDVng2WVJpZ2hwQnBRcnpzVVE2ZlpjaXl1WF92aTVyclg4OHNIdV9oYkc1eWdhTEVkeWZRN1B5Tk5sanl5ZWZIN29GVUJYTkNSRzhfeVZLdUUwYmU2ZWh5eGYzWm1pRC1ncVJPamtCdFlNQ09KMFBONnRvNVVuZDFGT1QxTjdyV0dwbkIwa0ZFWUo1Q3JQVkdVdnRVUTM5UURGaTJST0toWGthQUljOXhacmhVbk0wTlBZejNEUG1HbDdRWFIxZEUwaVZEVDlu?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-05-07",
           "views": "18.0K"
         },
         {
-          "title": "What's next for Korea's housing market after tax break for multi-home owners ends? - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdWRpU2UzWWZfMVlXQnByYlV6MFA4TC1ReWdzNHZnS3ZZYkl0Sm1TWHc2SGE2MVE0MnIwU1lBcm1wRXZNa2dSM0p3WENkcnE5M1dvQW44ZVY5YWJhSzNma21BRFMyeG5hR3QtbVlPZ3NMS25QOS1lV1Rxa0p2bWYzN3NHVFY3b0FBbFptb1NkQmdIOGh6b3pOVG5NQjJXZjZ3WTN3Ql9WQlNEaHAxOHFXbTNsVXpZdnRyaEdmU2lEWC1tSlHSAcgBQVVfeXFMTV9SbE5fcERScTh2U3hPcVczUGVUVzQxTlRJOGZxS2ZVWGd2RVMwRVdIUDV0Q1FDUTkxc3hEZFlfRmoyakI4MlJKTUN2NE9oMEk0NjhuRTZmUlJiQWtBdGF2ZVNGd1NvT2xGeFA1ZlNaalNGLXJXV3lTanNHVW1hRGJxd1NaTWlhb21pRDR6YnNtQ2Uxd0JFSURpNFh1SEFjWnFpV1hIRDctekx3Q3dHeENTZXhqdHhLcjZlUzVtS0JabGlXWlJ1MzE?oc=5\" target=\"_blank\">What's next for Korea's housing market after tax break for multi-home owners ends?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdWRpU2UzWWZfMVlXQnByYlV6MFA4TC1ReWdzNHZnS3ZZYkl0Sm1TWHc2SGE2MVE0MnIwU1lBcm1wRXZNa2dSM0p3WENkcnE5M1dvQW44ZVY5YWJhSzNma21BRFMyeG5hR3QtbVlPZ3NMS25QOS1lV1Rxa0p2bWYzN3NHVFY3b0FBbFptb1NkQmdIOGh6b3pOVG5NQjJXZjZ3WTN3Ql9WQlNEaHAxOHFXbTNsVXpZdnRyaEdmU2lEWC1tSlHSAcgBQVVfeXFMTV9SbE5fcERScTh2U3hPcVczUGVUVzQxTlRJOGZxS2ZVWGd2RVMwRVdIUDV0Q1FDUTkxc3hEZFlfRmoyakI4MlJKTUN2NE9oMEk0NjhuRTZmUlJiQWtBdGF2ZVNGd1NvT2xGeFA1ZlNaalNGLXJXV3lTanNHVW1hRGJxd1NaTWlhb21pRDR6YnNtQ2Uxd0JFSURpNFh1SEFjWnFpV1hIRDctekx3Q3dHeENTZXhqdHhLcjZlUzVtS0JabGlXWlJ1MzE?oc=5",
-          "source": "The Korea Times",
+          "title": "U.S. jobs market stuck in 'unusual and uncomfortable' stasis - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPUEVSN2hFdTRJYzg5WHlkRmM2aDlHaTVUc3RCY1p6eVF3Uk5yckhYRjJPZkpQZ0xSTVc5YmVJQ0JBcnR5TUhOLXFLbXpVcEhJR2JNSHR0NktVREZtOVJ4M0RnT0QxVDVUZ0dqV1k2c2FUTnpTU3Njc2c3YXF5S2Z5c3ZTVHpZUnZLMUtFbmRzbGJaZjVzZzZNWUlwdXVsRDBVMXlnRUt2d2NxWGVPTDVkOWwwOEhhZzE3WGc?oc=5\" target=\"_blank\">U.S. jobs market stuck in 'unusual and uncomfortable' stasis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUEVSN2hFdTRJYzg5WHlkRmM2aDlHaTVUc3RCY1p6eVF3Uk5yckhYRjJPZkpQZ0xSTVc5YmVJQ0JBcnR5TUhOLXFLbXpVcEhJR2JNSHR0NktVREZtOVJ4M0RnT0QxVDVUZ0dqV1k2c2FUTnpTU3Njc2c3YXF5S2Z5c3ZTVHpZUnZLMUtFbmRzbGJaZjVzZzZNWUlwdXVsRDBVMXlnRUt2d2NxWGVPTDVkOWwwOEhhZzE3WGc?oc=5",
+          "source": "Reuters AI",
           "publishedAt": "2026-05-07",
-          "views": "13.0K"
+          "views": "18.0K"
         },
         {
-          "title": "S. Korea's 1st US investment under trade deal to be announced after law takes effect in June: Seoul official - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWWpDT0xzajlCWHNPNEluOHRiQzNUbVFzZW43UUJmc3REQlI1VGZ2S3dhd2NZcVpBbklCcFJoUENKaU02ZzNRUlgwZUt2ckRqbDhwN2ZOUWZuamtGMkpxQXFDUHVYb0d1NlQ2UTJCRG4tOTR0VkVPSGFlcGhaMzVySS1USy1ldzZYbU1jcnNEZE9mTll4d0d0WnFyOExkY1lCcS1KUkEyM2ZJQWE2dXJhOVlIMERkeGdPbzBZN2dULV90am11MHFtbnhCeHlCRlZjOWFkeHlsQ0FsN1BzN1ZvRmF0TFJOeUJtbm1CNV9sN0ZydDJz0gH0AUFVX3lxTE1ZakNPTHNqOUJYc080SW44dGJDM1RtUXNlbjdRQmZzdERCUjVUZnZLd2F3Y1lxWkFuSUJwUmhQQ0ppTTZnM1FSWDBlS3ZyRGpsOHA3Zk5RZm5qa0YySnFBcUNQdVhvR3U2VDZRMkJEbi05NHRWRU9IYWVwaFozNXJJLVRLLWV3NlhtTWNyc0RkT2ZOWXh3R3RacXI4TGRjWUJxLUpSQTIzZklBYTZ1cmE5WUgwRGR4Z09vMFk3Z1QtX3RqbXUwcW1ueEJ4eUJGVmM5YWR4eWxDQWw3UHM3Vm9GYXRMUk55Qm1ubUI1X2w3RnJ0MnM?oc=5\" target=\"_blank\">S. Korea's 1st US investment under trade deal to be announced after law takes effect in June: Seoul official</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWWpDT0xzajlCWHNPNEluOHRiQzNUbVFzZW43UUJmc3REQlI1VGZ2S3dhd2NZcVpBbklCcFJoUENKaU02ZzNRUlgwZUt2ckRqbDhwN2ZOUWZuamtGMkpxQXFDUHVYb0d1NlQ2UTJCRG4tOTR0VkVPSGFlcGhaMzVySS1USy1ldzZYbU1jcnNEZE9mTll4d0d0WnFyOExkY1lCcS1KUkEyM2ZJQWE2dXJhOVlIMERkeGdPbzBZN2dULV90am11MHFtbnhCeHlCRlZjOWFkeHlsQ0FsN1BzN1ZvRmF0TFJOeUJtbm1CNV9sN0ZydDJz0gH0AUFVX3lxTE1ZakNPTHNqOUJYc080SW44dGJDM1RtUXNlbjdRQmZzdERCUjVUZnZLd2F3Y1lxWkFuSUJwUmhQQ0ppTTZnM1FSWDBlS3ZyRGpsOHA3Zk5RZm5qa0YySnFBcUNQdVhvR3U2VDZRMkJEbi05NHRWRU9IYWVwaFozNXJJLVRLLWV3NlhtTWNyc0RkT2ZOWXh3R3RacXI4TGRjWUJxLUpSQTIzZklBYTZ1cmE5WUgwRGR4Z09vMFk3Z1QtX3RqbXUwcW1ueEJ4eUJGVmM5YWR4eWxDQWw3UHM3Vm9GYXRMUk55Qm1ubUI1X2w3RnJ0MnM?oc=5",
+          "title": "Finance chief says economy maintains 'solid fundamentals' amid Middle East crisis - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPTU91NHR6YllMUjVBeTJES09rQWZvWHhBWDJoLU14QTlsY1R4SmhPVFpPVDBibGhQM3VTMXFSV0E5Tlo4ZFJYZGx3NGRzSXlacmFrS2czZVl6V0luX3N6bFhINDd3dGY3V2FtNDB1M3BBWlBnMFZjMmprLTZyVWFpZ2NxYUl4ZDFhOUtJM0NFN0s2UzlGLUZTTzM5ZkRvdEdQSnh3WnJvcEdBSFRLbS1hZ1ppaWpTVkQ2SXpZSkM1NmkwWFdrM3g1RkZSY03SAdIBQVVfeXFMTl9OR3NDekloMy1wc3pVUjJaOWItYUxWYnhEQlJtajIyT3FUSUdmeHVYTHRveGUwQ2JMS3BmNkMwSGJPNjBabDZZYnVPZTRtcUJISVR1WnBDbVg3ZlQ1VEl0NFZBQkl1MmVBZnQ5a3NZT2JweXBYVENxc25JQUU3T0RrbXVtQTNWa3lfak5VMHEtMk1EU213clIxaEVRTUlncTNJZHFQUXVxVm9fNWRSSVlKVjF3TlNwOGZ5eHZxS0l0Tmo5WXZlcTJCczM0OGFmNGpn?oc=5\" target=\"_blank\">Finance chief says economy maintains 'solid fundamentals' amid Middle East crisis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTU91NHR6YllMUjVBeTJES09rQWZvWHhBWDJoLU14QTlsY1R4SmhPVFpPVDBibGhQM3VTMXFSV0E5Tlo4ZFJYZGx3NGRzSXlacmFrS2czZVl6V0luX3N6bFhINDd3dGY3V2FtNDB1M3BBWlBnMFZjMmprLTZyVWFpZ2NxYUl4ZDFhOUtJM0NFN0s2UzlGLUZTTzM5ZkRvdEdQSnh3WnJvcEdBSFRLbS1hZ1ppaWpTVkQ2SXpZSkM1NmkwWFdrM3g1RkZSY03SAdIBQVVfeXFMTl9OR3NDekloMy1wc3pVUjJaOWItYUxWYnhEQlJtajIyT3FUSUdmeHVYTHRveGUwQ2JMS3BmNkMwSGJPNjBabDZZYnVPZTRtcUJISVR1WnBDbVg3ZlQ1VEl0NFZBQkl1MmVBZnQ5a3NZT2JweXBYVENxc25JQUU3T0RrbXVtQTNWa3lfak5VMHEtMk1EU213clIxaEVRTUlncTNJZHFQUXVxVm9fNWRSSVlKVjF3TlNwOGZ5eHZxS0l0Tmo5WXZlcTJCczM0OGFmNGpn?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-05-06",
+          "publishedAt": "2026-05-08",
           "views": "13.0K"
         }
       ]
@@ -173,27 +173,27 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
-          "title": "Industry minister discusses Seoul's submarine bid with Canadian officials - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX1U5cjJJcXBDYXRQYzFzSzBWQ2ZsOVpwVDk0ellpU1pwYTZCZlBodHJDWGVHOWlDSGlkdWwzVGdPUkhMLWVZM212bzhTYkpDNWVicmJZaEs0R2FyNzg5R2F6Mmp3bG52Y2hzcXdpbm1kZExBakdXV0lKUVNtZXFsa0hCLUNRM3hfcjYtc3ZQa2V4UWdDSE9rVEM4akVaWFB4MDlNU0RNY1Y0eXpMZmhJZGNRRzF3OXZjZ09XUmFDZ2U4UlBscTZxcNIByAFBVV95cUxNX1U5cjJJcXBDYXRQYzFzSzBWQ2ZsOVpwVDk0ellpU1pwYTZCZlBodHJDWGVHOWlDSGlkdWwzVGdPUkhMLWVZM212bzhTYkpDNWVicmJZaEs0R2FyNzg5R2F6Mmp3bG52Y2hzcXdpbm1kZExBakdXV0lKUVNtZXFsa0hCLUNRM3hfcjYtc3ZQa2V4UWdDSE9rVEM4akVaWFB4MDlNU0RNY1Y0eXpMZmhJZGNRRzF3OXZjZ09XUmFDZ2U4UlBscTZxcA?oc=5\" target=\"_blank\">Industry minister discusses Seoul's submarine bid with Canadian officials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX1U5cjJJcXBDYXRQYzFzSzBWQ2ZsOVpwVDk0ellpU1pwYTZCZlBodHJDWGVHOWlDSGlkdWwzVGdPUkhMLWVZM212bzhTYkpDNWVicmJZaEs0R2FyNzg5R2F6Mmp3bG52Y2hzcXdpbm1kZExBakdXV0lKUVNtZXFsa0hCLUNRM3hfcjYtc3ZQa2V4UWdDSE9rVEM4akVaWFB4MDlNU0RNY1Y0eXpMZmhJZGNRRzF3OXZjZ09XUmFDZ2U4UlBscTZxcNIByAFBVV95cUxNX1U5cjJJcXBDYXRQYzFzSzBWQ2ZsOVpwVDk0ellpU1pwYTZCZlBodHJDWGVHOWlDSGlkdWwzVGdPUkhMLWVZM212bzhTYkpDNWVicmJZaEs0R2FyNzg5R2F6Mmp3bG52Y2hzcXdpbm1kZExBakdXV0lKUVNtZXFsa0hCLUNRM3hfcjYtc3ZQa2V4UWdDSE9rVEM4akVaWFB4MDlNU0RNY1Y0eXpMZmhJZGNRRzF3OXZjZ09XUmFDZ2U4UlBscTZxcA?oc=5",
+          "title": "Top court confirms 2-yr prison term for Hankook & Company chairman in embezzlement case - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN2pMM3FqNkVuWkpDc2s4T0tKMjAtb21kaW1oU0FKVlZvS3ZVUFZBUDVYTWFuNWc4REtWZ05rVFZZekRsUlJad281bFZGS2phNUZTal9OcmJ4LU42cFhfMUIwY1NOdmFzLTh6aFVoaWNqRFoya3o3aTBUZlFVLUkydTg2bDV6YkFIM2ttU2RPczl3SVpHRGdnTEZ2SDVrenZsa0hDMDJLTTVNTDV3NWNScWdheVN5WGNOWnBtWnQ3TDNUb0N2dVVFRENYY3FCQ0FrdzhxN1B0d3FLMTVS0gHiAUFVX3lxTE9ENnEwRnhHOVhOWXVFcTgwZ1RMdnMyLVRNQ1VRSDJOOWtZaTg3d0tFNlcxZkNkc1RPRmExMjNwb1ItT2syVjRlSHVOa1VWR0ZYaTZVS1pmcGRCeG5WdUhpajZwWXNLVEJRMXRfeHA3TlljM2V6am1kOWFhbENzU2lnaDltTXZsNnhHSEozZmRha1VneHVueFhDYlNyNG1fU19WTm9qVU5PR280QlFwaktfU3NYWnR2R3dDSDZMTkNGVklaUnNKeTJmb2lOOEdhYzd4NngwOUJvc3JoYW1aR3lpRGc?oc=5\" target=\"_blank\">Top court confirms 2-yr prison term for Hankook & Company chairman in embezzlement case</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN2pMM3FqNkVuWkpDc2s4T0tKMjAtb21kaW1oU0FKVlZvS3ZVUFZBUDVYTWFuNWc4REtWZ05rVFZZekRsUlJad281bFZGS2phNUZTal9OcmJ4LU42cFhfMUIwY1NOdmFzLTh6aFVoaWNqRFoya3o3aTBUZlFVLUkydTg2bDV6YkFIM2ttU2RPczl3SVpHRGdnTEZ2SDVrenZsa0hDMDJLTTVNTDV3NWNScWdheVN5WGNOWnBtWnQ3TDNUb0N2dVVFRENYY3FCQ0FrdzhxN1B0d3FLMTVS0gHiAUFVX3lxTE9ENnEwRnhHOVhOWXVFcTgwZ1RMdnMyLVRNQ1VRSDJOOWtZaTg3d0tFNlcxZkNkc1RPRmExMjNwb1ItT2syVjRlSHVOa1VWR0ZYaTZVS1pmcGRCeG5WdUhpajZwWXNLVEJRMXRfeHA3TlljM2V6am1kOWFhbENzU2lnaDltTXZsNnhHSEozZmRha1VneHVueFhDYlNyNG1fU19WTm9qVU5PR280QlFwaktfU3NYWnR2R3dDSDZMTkNGVklaUnNKeTJmb2lOOEdhYzd4NngwOUJvc3JoYW1aR3lpRGc?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-05-08",
+          "views": "13.0K"
+        },
+        {
+          "title": "LG CNS unveils PhysicalWorks to accelerate industrial robot deployment - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPX2xLQVV0WkZsZ0d2cXptbjNTRlNCSFVycXVKdEwydk9EeExsYld1Ym1maGI0blZhbzlEY3l0eGF3T1BIenIxTjA2Yi1CRVFFZkh5WXNkb0h3cVQ4WVVoQWlJRU8xaGFyMURMYmhDX3NpRWUtODFPNGxyaXVSc1Q3RVBJbjhvT0p1RE1uQjltUVFKNFoxb2EzWlc1WGI1cGtJeWxxSXVibE1ZZnoyOElfUl9ROVZfTTdKLU9rc3hKRlRSenY3MTkzUHFwaU1PMUnSAc8BQVVfeXFMT19sS0FVdFpGbGdHdnF6bW4zU0ZTQkhVcnF1SnRMMnZPRHhMbGJXdWJtZmhiNG5WYW85RGN5dHhhd09QSHpyMU4wNmItQkVRRWZIeVlzZG9Id3FUOFlVaEFpSUVPMWhhcjFETGJoQ19zaUVlLTgxTzRscml1UnNUN0VQSW44b09KdURNbkI5bVFRSjRaMW9hM1pXNVhiNXBrSXlscUl1YmxNWWZ6MjhJX1JfUTlWX003Si1Pa3N4SkZUUnp2NzE5M1BxcGlNTzFJ?oc=5\" target=\"_blank\">LG CNS unveils PhysicalWorks to accelerate industrial robot deployment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPX2xLQVV0WkZsZ0d2cXptbjNTRlNCSFVycXVKdEwydk9EeExsYld1Ym1maGI0blZhbzlEY3l0eGF3T1BIenIxTjA2Yi1CRVFFZkh5WXNkb0h3cVQ4WVVoQWlJRU8xaGFyMURMYmhDX3NpRWUtODFPNGxyaXVSc1Q3RVBJbjhvT0p1RE1uQjltUVFKNFoxb2EzWlc1WGI1cGtJeWxxSXVibE1ZZnoyOElfUl9ROVZfTTdKLU9rc3hKRlRSenY3MTkzUHFwaU1PMUnSAc8BQVVfeXFMT19sS0FVdFpGbGdHdnF6bW4zU0ZTQkhVcnF1SnRMMnZPRHhMbGJXdWJtZmhiNG5WYW85RGN5dHhhd09QSHpyMU4wNmItQkVRRWZIeVlzZG9Id3FUOFlVaEFpSUVPMWhhcjFETGJoQ19zaUVlLTgxTzRscml1UnNUN0VQSW44b09KdURNbkI5bVFRSjRaMW9hM1pXNVhiNXBrSXlscUl1YmxNWWZ6MjhJX1JfUTlWX003Si1Pa3N4SkZUUnp2NzE5M1BxcGlNTzFJ?oc=5",
           "source": "The Korea Times",
           "publishedAt": "2026-05-07",
           "views": "13.0K"
         },
         {
-          "title": "Hanwha Systems leads defense industry shift toward sustainability - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPMmsyYVBUTl9ud2dUVEJVdjY2ZFVaZHpnem9FNXdpR2w2Ym10UzZUcGJNM2JIa25zMzY1OXpEN1ZHX0ROY2R2SFhYckJCcnduakNaRVVybjFucWdLUkFsUjh4MWZkVWhpbnVfaXMwUkUtT2h3aU4wYUUwU3dfTGI4aERLaHdjMHpMa2xwdERVOXpQRnhIX1BQY1BXcmd0YmpfTXUtNjA2dUJiaDdkLXlSX0pKWWJSRjDSAbcBQVVfeXFMTzJrMmFQVE5fbndnVFRCVXY2NmRVWmR6Z3pvRTV3aUdsNmJtdFM2VHBiTTNiSGtuczM2NTl6RDdWR19ETmNkdkhYWHJCQnJ3bmpDWkVVcm4xbnFnS1JBbFI4eDFmZFVoaW51X2lzMFJFLU9od2lOMGFFMFN3X0xiOGhES2h3YzB6TGtscHREVTl6UEZ4SF9QUGNQV3JndGJqX011LTYwNnVCYmg3ZC15Ul9KSlliUkYw?oc=5\" target=\"_blank\">Hanwha Systems leads defense industry shift toward sustainability</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMmsyYVBUTl9ud2dUVEJVdjY2ZFVaZHpnem9FNXdpR2w2Ym10UzZUcGJNM2JIa25zMzY1OXpEN1ZHX0ROY2R2SFhYckJCcnduakNaRVVybjFucWdLUkFsUjh4MWZkVWhpbnVfaXMwUkUtT2h3aU4wYUUwU3dfTGI4aERLaHdjMHpMa2xwdERVOXpQRnhIX1BQY1BXcmd0YmpfTXUtNjA2dUJiaDdkLXlSX0pKWWJSRjDSAbcBQVVfeXFMTzJrMmFQVE5fbndnVFRCVXY2NmRVWmR6Z3pvRTV3aUdsNmJtdFM2VHBiTTNiSGtuczM2NTl6RDdWR19ETmNkdkhYWHJCQnJ3bmpDWkVVcm4xbnFnS1JBbFI4eDFmZFVoaW51X2lzMFJFLU9od2lOMGFFMFN3X0xiOGhES2h3YzB6TGtscHREVTl6UEZ4SF9QUGNQV3JndGJqX011LTYwNnVCYmg3ZC15Ul9KSlliUkYw?oc=5",
+          "title": "Industry minister discusses Seoul's submarine bid with Canadian officials - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX1U5cjJJcXBDYXRQYzFzSzBWQ2ZsOVpwVDk0ellpU1pwYTZCZlBodHJDWGVHOWlDSGlkdWwzVGdPUkhMLWVZM212bzhTYkpDNWVicmJZaEs0R2FyNzg5R2F6Mmp3bG52Y2hzcXdpbm1kZExBakdXV0lKUVNtZXFsa0hCLUNRM3hfcjYtc3ZQa2V4UWdDSE9rVEM4akVaWFB4MDlNU0RNY1Y0eXpMZmhJZGNRRzF3OXZjZ09XUmFDZ2U4UlBscTZxcNIByAFBVV95cUxNX1U5cjJJcXBDYXRQYzFzSzBWQ2ZsOVpwVDk0ellpU1pwYTZCZlBodHJDWGVHOWlDSGlkdWwzVGdPUkhMLWVZM212bzhTYkpDNWVicmJZaEs0R2FyNzg5R2F6Mmp3bG52Y2hzcXdpbm1kZExBakdXV0lKUVNtZXFsa0hCLUNRM3hfcjYtc3ZQa2V4UWdDSE9rVEM4akVaWFB4MDlNU0RNY1Y0eXpMZmhJZGNRRzF3OXZjZ09XUmFDZ2U4UlBscTZxcA?oc=5\" target=\"_blank\">Industry minister discusses Seoul's submarine bid with Canadian officials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX1U5cjJJcXBDYXRQYzFzSzBWQ2ZsOVpwVDk0ellpU1pwYTZCZlBodHJDWGVHOWlDSGlkdWwzVGdPUkhMLWVZM212bzhTYkpDNWVicmJZaEs0R2FyNzg5R2F6Mmp3bG52Y2hzcXdpbm1kZExBakdXV0lKUVNtZXFsa0hCLUNRM3hfcjYtc3ZQa2V4UWdDSE9rVEM4akVaWFB4MDlNU0RNY1Y0eXpMZmhJZGNRRzF3OXZjZ09XUmFDZ2U4UlBscTZxcNIByAFBVV95cUxNX1U5cjJJcXBDYXRQYzFzSzBWQ2ZsOVpwVDk0ellpU1pwYTZCZlBodHJDWGVHOWlDSGlkdWwzVGdPUkhMLWVZM212bzhTYkpDNWVicmJZaEs0R2FyNzg5R2F6Mmp3bG52Y2hzcXdpbm1kZExBakdXV0lKUVNtZXFsa0hCLUNRM3hfcjYtc3ZQa2V4UWdDSE9rVEM4akVaWFB4MDlNU0RNY1Y0eXpMZmhJZGNRRzF3OXZjZ09XUmFDZ2U4UlBscTZxcA?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-05-06",
-          "views": "13.0K"
-        },
-        {
-          "title": "Company rebuts Trump's claim Korean ship acted independently in Hormuz incident - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPdGZiU2RZUURfYkJ1bjItbmdVTFJkMXFQNF9MSEFEaGk5VkF5cFJVdWNVaXhnZWp1dnZub2ZVYzUwUVZFVnRMaDdxVlNiaGdSNllEWmF3dElFMkVzdUhTcUZCVW1YQzNkeEo5a0RlTFJkdkh0bDVPZjN2YUtJX0QxUDBFZ3hGZFF6RTNyeVY0OWZaaXllVUxJbXRHaTl6MjZIdWlzTU9LZm9DLUhaVXVldXQ4Z0hhNzB0YXVGaXppbUdKbndrcEFkOUVyZ9IBywFBVV95cUxPdGZiU2RZUURfYkJ1bjItbmdVTFJkMXFQNF9MSEFEaGk5VkF5cFJVdWNVaXhnZWp1dnZub2ZVYzUwUVZFVnRMaDdxVlNiaGdSNllEWmF3dElFMkVzdUhTcUZCVW1YQzNkeEo5a0RlTFJkdkh0bDVPZjN2YUtJX0QxUDBFZ3hGZFF6RTNyeVY0OWZaaXllVUxJbXRHaTl6MjZIdWlzTU9LZm9DLUhaVXVldXQ4Z0hhNzB0YXVGaXppbUdKbndrcEFkOUVyZw?oc=5\" target=\"_blank\">Company rebuts Trump's claim Korean ship acted independently in Hormuz incident</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdGZiU2RZUURfYkJ1bjItbmdVTFJkMXFQNF9MSEFEaGk5VkF5cFJVdWNVaXhnZWp1dnZub2ZVYzUwUVZFVnRMaDdxVlNiaGdSNllEWmF3dElFMkVzdUhTcUZCVW1YQzNkeEo5a0RlTFJkdkh0bDVPZjN2YUtJX0QxUDBFZ3hGZFF6RTNyeVY0OWZaaXllVUxJbXRHaTl6MjZIdWlzTU9LZm9DLUhaVXVldXQ4Z0hhNzB0YXVGaXppbUdKbndrcEFkOUVyZ9IBywFBVV95cUxPdGZiU2RZUURfYkJ1bjItbmdVTFJkMXFQNF9MSEFEaGk5VkF5cFJVdWNVaXhnZWp1dnZub2ZVYzUwUVZFVnRMaDdxVlNiaGdSNllEWmF3dElFMkVzdUhTcUZCVW1YQzNkeEo5a0RlTFJkdkh0bDVPZjN2YUtJX0QxUDBFZ3hGZFF6RTNyeVY0OWZaaXllVUxJbXRHaTl6MjZIdWlzTU9LZm9DLUhaVXVldXQ4Z0hhNzB0YXVGaXppbUdKbndrcEFkOUVyZw?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-05-06",
+          "publishedAt": "2026-05-07",
           "views": "13.0K"
         }
       ]
