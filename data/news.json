@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-08T03:51:53.351Z",
+  "lastUpdated": "2026-05-09T03:53:42.960Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,26 +49,26 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
-          "title": "How Sakana trained a 7B model to orchestrate GPT-5, Claude Sonnet 4 and Gemini 2.5 Pro - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSGRXUmp5Q2N2QktwUnF0Q0x6NGtsRjVPTWlFcmhfckw1OTNyR1hnbExmbFFZR3dGVjVzWTFlelFwMnhxQU1JR3RiUzlKRnN3RVE4RDBrejdFcExzVHdBSV9oTFNzSVJVb0huSE5nVHhqb09aZVd0YnNXdWtndFA2M3ExcEdYdm9ocFZJWTBnb1p3Ml9RYm9TNkhWVFV4MF9nR1FYSWdYb0tXSDVnckpmZUlIS203VV96MGtrZkxvMl8?oc=5\" target=\"_blank\">How Sakana trained a 7B model to orchestrate GPT-5, Claude Sonnet 4 and Gemini 2.5 Pro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "title": "How Sakana trained a 7B model to orchestrate GPT, Claude and Gemini LLMs - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSGRXUmp5Q2N2QktwUnF0Q0x6NGtsRjVPTWlFcmhfckw1OTNyR1hnbExmbFFZR3dGVjVzWTFlelFwMnhxQU1JR3RiUzlKRnN3RVE4RDBrejdFcExzVHdBSV9oTFNzSVJVb0huSE5nVHhqb09aZVd0YnNXdWtndFA2M3ExcEdYdm9ocFZJWTBnb1p3Ml9RYm9TNkhWVFV4MF9nR1FYSWdYb0tXSDVnckpmZUlIS203VV96MGtrZkxvMl8?oc=5\" target=\"_blank\">How Sakana trained a 7B model to orchestrate GPT, Claude and Gemini LLMs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSGRXUmp5Q2N2QktwUnF0Q0x6NGtsRjVPTWlFcmhfckw1OTNyR1hnbExmbFFZR3dGVjVzWTFlelFwMnhxQU1JR3RiUzlKRnN3RVE4RDBrejdFcExzVHdBSV9oTFNzSVJVb0huSE5nVHhqb09aZVd0YnNXdWtndFA2M3ExcEdYdm9ocFZJWTBnb1p3Ml9RYm9TNkhWVFV4MF9nR1FYSWdYb0tXSDVnckpmZUlIS203VV96MGtrZkxvMl8?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-05-07",
-          "views": "28.0K"
+          "views": "33.0K"
+        },
+        {
+          "title": "OpenAI brings GPT-5-class reasoning to real-time voice — and it changes what voice agents can actually orchestrate - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNV2UxeFJUdlhJVEJhcFRoT3FpQmF1bWY5X08xdG1xNWdGbHJrNVlQSVI0X2JGT1RYdlp1LVliR21JYTROOHA4N1BDVzZDQm5TYjZhSW5heFpwYi0zb3Nfd1ppYWFyMXh4LWd6OHU0TzVMcnZqenotWFBuOG1tb1k4NWZGYXM2N1M5ZFpMRU91RUVvbkoyMkNZaDA1QUMwdmoyWHB0UUxHYkRkbERTR09WTHNSX21md05JQ1RjUTBPS0w2ZjVDOGlVNzlfRTQ3Nm9FZVVIUkJKcGtPbDZKaXdBQk5xMkI?oc=5\" target=\"_blank\">OpenAI brings GPT-5-class reasoning to real-time voice — and it changes what voice agents can actually orchestrate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNV2UxeFJUdlhJVEJhcFRoT3FpQmF1bWY5X08xdG1xNWdGbHJrNVlQSVI0X2JGT1RYdlp1LVliR21JYTROOHA4N1BDVzZDQm5TYjZhSW5heFpwYi0zb3Nfd1ppYWFyMXh4LWd6OHU0TzVMcnZqenotWFBuOG1tb1k4NWZGYXM2N1M5ZFpMRU91RUVvbkoyMkNZaDA1QUMwdmoyWHB0UUxHYkRkbERTR09WTHNSX21md05JQ1RjUTBPS0w2ZjVDOGlVNzlfRTQ3Nm9FZVVIUkJKcGtPbDZKaXdBQk5xMkI?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-05-08",
+          "views": "18.0K"
         },
         {
           "title": "Meet ZAYA1-8B, a super efficient open reasoning model trained on AMD Instinct MI300 GPUs - VentureBeat",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNVmc1UU10Zi1QWHM1VkJtWFU2UDZsbXdKWDNjd0tVcjBIOEVLd3k5a1lkWmwyOGxPcEtKMFQtUl9KT1BQNDFQdkxsYnZsWEhaS3I2bWdjRWhpOWVXSHBTTndCMk9sU09lN3J6X1VtVVhSak5LRTM3cG9FaVdBVU12aHBKdGRmRFNmNFdhLXdKM18zLXdYVnZjR0I4eVd1TnFZckduajBfR0xLV1pYcXRyRlYzWlRyaXhhQzd1R3BMRQ?oc=5\" target=\"_blank\">Meet ZAYA1-8B, a super efficient open reasoning model trained on AMD Instinct MI300 GPUs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVmc1UU10Zi1QWHM1VkJtWFU2UDZsbXdKWDNjd0tVcjBIOEVLd3k5a1lkWmwyOGxPcEtKMFQtUl9KT1BQNDFQdkxsYnZsWEhaS3I2bWdjRWhpOWVXSHBTTndCMk9sU09lN3J6X1VtVVhSak5LRTM3cG9FaVdBVU12aHBKdGRmRFNmNFdhLXdKM18zLXdYVnZjR0I4eVd1TnFZckduajBfR0xLV1pYcXRyRlYzWlRyaXhhQzd1R3BMRQ?oc=5",
           "source": "VentureBeat AI",
-          "publishedAt": "2026-05-07",
-          "views": "18.0K"
-        },
-        {
-          "title": "Tesla Model Y is first car to meet new US driver assistance safety benchmark - TechCrunch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNRGs2dDRod3JQTEg1MjhzSWZOOWFjOXpmaUtNNHVwSng2WEZlWGVJaENQV1VXR0dLNkh2cUh1a19IYnVCWUJLU25HMlI5VmZhSnp5amVEaFhDRlJLZ2FMd2hFSFdBcUhkRkFfQ0lwQjdzWl9WaVNPZE5ObkhKX214bV9wTTg4YmJyUHZ4UDN3RENZZW44VnFpV3FuU001d2MyaExPLXotVlJ3aE16ZEk0V1N3?oc=5\" target=\"_blank\">Tesla Model Y is first car to meet new US driver assistance safety benchmark</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRGs2dDRod3JQTEg1MjhzSWZOOWFjOXpmaUtNNHVwSng2WEZlWGVJaENQV1VXR0dLNkh2cUh1a19IYnVCWUJLU25HMlI5VmZhSnp5amVEaFhDRlJLZ2FMd2hFSFdBcUhkRkFfQ0lwQjdzWl9WaVNPZE5ObkhKX214bV9wTTg4YmJyUHZ4UDN3RENZZW44VnFpV3FuU001d2MyaExPLXotVlJ3aE16ZEk0V1N3?oc=5",
-          "source": "TechCrunch AI",
           "publishedAt": "2026-05-07",
           "views": "18.0K"
         }
@@ -80,12 +80,12 @@
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
         {
-          "title": "Salesforce launches Agentforce Operations to fix the workflows breaking enterprise AI - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcjZON1c5N3NLVmQxdjFnRHFkOXY4bHJLNTM2d09rNzhSanZNVmU3VXJ4Vmw0TWo3aXJ4MEdrdTlGVUxfZDlhNUtZbHh0Q3ltRVd3TkVkVGpGdVMtUkEtVXpCY2ZHcGNjUm96UlV0Z0xjYjdITFM5VjFnbUpYTHVjbHY2bl81dk1qbU9vMmxONGdsTnRKVlRsdFpBRkM0LXgxNTRoaFRKNzV2eWVmV0RFVGRSQzktQjhYcDJWRGNfa3Q?oc=5\" target=\"_blank\">Salesforce launches Agentforce Operations to fix the workflows breaking enterprise AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcjZON1c5N3NLVmQxdjFnRHFkOXY4bHJLNTM2d09rNzhSanZNVmU3VXJ4Vmw0TWo3aXJ4MEdrdTlGVUxfZDlhNUtZbHh0Q3ltRVd3TkVkVGpGdVMtUkEtVXpCY2ZHcGNjUm96UlV0Z0xjYjdITFM5VjFnbUpYTHVjbHY2bl81dk1qbU9vMmxONGdsTnRKVlRsdFpBRkM0LXgxNTRoaFRKNzV2eWVmV0RFVGRSQzktQjhYcDJWRGNfa3Q?oc=5",
+          "title": "Anthropic wants to own your agent's memory, evals, and orchestration — and that should make enterprises nervous - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNM1FMMzFOYUN4c090amhPMDN5eEhKdjg3ZDN3MzdvZEdBR2F5ZThxOWttcXZERU1hVUhpMG5zV01EeGFnS3lHdldDOTRZQ3VocnRpYk9IMWFiYzRQLXByMkYyQUVESzZBaHNSdXpCRk9hTWI1REs5dEdfQUNzcXcyQnEzb1I1emtvNzBTQ2tDMW9LRGFYMXJpR1hmLXRZQlNMQnZaOU1TOUl6YnRQc1h0UjRXT1N1MkZvcDRiSXdoLWIzYW9aQ0JxWEpUYW96ekxEQ25ZZHZzTTRKbno3?oc=5\" target=\"_blank\">Anthropic wants to own your agent's memory, evals, and orchestration — and that should make enterprises nervous</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNM1FMMzFOYUN4c090amhPMDN5eEhKdjg3ZDN3MzdvZEdBR2F5ZThxOWttcXZERU1hVUhpMG5zV01EeGFnS3lHdldDOTRZQ3VocnRpYk9IMWFiYzRQLXByMkYyQUVESzZBaHNSdXpCRk9hTWI1REs5dEdfQUNzcXcyQnEzb1I1emtvNzBTQ2tDMW9LRGFYMXJpR1hmLXRZQlNMQnZaOU1TOUl6YnRQc1h0UjRXT1N1MkZvcDRiSXdoLWIzYW9aQ0JxWEpUYW96ekxEQ25ZZHZzTTRKbno3?oc=5",
           "source": "VentureBeat AI",
-          "publishedAt": "2026-05-01",
-          "views": "23.0K"
+          "publishedAt": "2026-05-08",
+          "views": "18.0K"
         },
         {
           "title": "Meta plans advanced 'agentic' AI assistant for users, FT reports - Reuters",
@@ -127,12 +127,12 @@
           "views": "18.0K"
         },
         {
-          "title": "Williams says Fed policy well positioned for economic risks, uncertainty - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPMmFOOVVYYjBZSWV1Rjd0N055dGRIb01lODF1Z2d2M1RCcXR3aUtPZHpNSXd2NTB6MVNRd3ZQVzFnQUFaX19SREdSTUZaRmxHWVd1UHdMS05kM0hVOU5wUTlDbVlCWGV5eXhHWTdzU3ZoQ3BKUGtnVUltdFFBeXlRTGdwV3dEWlplXzlCc3FHa3E0TmxkakhHSjh5V2dNWkktcEN3T1RRSUM4eE1mWHVMQXpB?oc=5\" target=\"_blank\">Williams says Fed policy well positioned for economic risks, uncertainty</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMmFOOVVYYjBZSWV1Rjd0N055dGRIb01lODF1Z2d2M1RCcXR3aUtPZHpNSXd2NTB6MVNRd3ZQVzFnQUFaX19SREdSTUZaRmxHWVd1UHdMS05kM0hVOU5wUTlDbVlCWGV5eXhHWTdzU3ZoQ3BKUGtnVUltdFFBeXlRTGdwV3dEWlplXzlCc3FHa3E0TmxkakhHSjh5V2dNWkktcEN3T1RRSUM4eE1mWHVMQXpB?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-05-04",
-          "views": "18.0K"
+          "title": "Experts warn of job, fiscal risks in ‘fair allowance' plan - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNRUFYc0lzSjNaVFg3Qks4YkJZZ0s2bS14TUdSTmNpNEd1MVhMN3YxVmJSSzh3UnRrQXZHWjFyWEFPVmFKcnE5QUVZV0o1bjlGQUpaYi1RZWNlRG9HeVJSVGlXY1pBR0NyQmdmaHFHb0dEUk1PTmZseFR0a2lkY2JWRi1mODN1bWctRkJhVXpsejMyRXNtVFI3SWZYa0ZFQXVvdkFMckZILUttVWRtcHFMZVZQUEVqWEHSAbcBQVVfeXFMTUVBWHNJc0ozWlRYN0JLOGJCWWdLNm0teE1HUk5jaTRHdTFYTDd2MVZiUks4d1J0a0F2R1oxclhBT1ZhSnJxOUFFWVdKNW45RkFKWmItUWVjZURvR3lSUlRpV2NaQUdDckJnZmhxR29HRFJNT05mbHhUdGtpZGNiVkYtZjgzdW1nLUZCYVV6bHozMkVzbVRSN0lmWGtGRUF1b3ZBTHJGSC1LbVVkbXBxTGVWUFBFalhB?oc=5\" target=\"_blank\">Experts warn of job, fiscal risks in ‘fair allowance' plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRUFYc0lzSjNaVFg3Qks4YkJZZ0s2bS14TUdSTmNpNEd1MVhMN3YxVmJSSzh3UnRrQXZHWjFyWEFPVmFKcnE5QUVZV0o1bjlGQUpaYi1RZWNlRG9HeVJSVGlXY1pBR0NyQmdmaHFHb0dEUk1PTmZseFR0a2lkY2JWRi1mODN1bWctRkJhVXpsejMyRXNtVFI3SWZYa0ZFQXVvdkFMckZILUttVWRtcHFMZVZQUEVqWEHSAbcBQVVfeXFMTUVBWHNJc0ozWlRYN0JLOGJCWWdLNm0teE1HUk5jaTRHdTFYTDd2MVZiUks4d1J0a0F2R1oxclhBT1ZhSnJxOUFFWVdKNW45RkFKWmItUWVjZURvR3lSUlRpV2NaQUdDckJnZmhxR29HRFJNT05mbHhUdGtpZGNiVkYtZjgzdW1nLUZCYVV6bHozMkVzbVRSN0lmWGtGRUF1b3ZBTHJGSC1LbVVkbXBxTGVWUFBFalhB?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-05-08",
+          "views": "13.0K"
         }
       ]
     },
@@ -158,9 +158,9 @@
           "views": "18.0K"
         },
         {
-          "title": "Finance chief says economy maintains 'solid fundamentals' amid Middle East crisis - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPTU91NHR6YllMUjVBeTJES09rQWZvWHhBWDJoLU14QTlsY1R4SmhPVFpPVDBibGhQM3VTMXFSV0E5Tlo4ZFJYZGx3NGRzSXlacmFrS2czZVl6V0luX3N6bFhINDd3dGY3V2FtNDB1M3BBWlBnMFZjMmprLTZyVWFpZ2NxYUl4ZDFhOUtJM0NFN0s2UzlGLUZTTzM5ZkRvdEdQSnh3WnJvcEdBSFRLbS1hZ1ppaWpTVkQ2SXpZSkM1NmkwWFdrM3g1RkZSY03SAdIBQVVfeXFMTl9OR3NDekloMy1wc3pVUjJaOWItYUxWYnhEQlJtajIyT3FUSUdmeHVYTHRveGUwQ2JMS3BmNkMwSGJPNjBabDZZYnVPZTRtcUJISVR1WnBDbVg3ZlQ1VEl0NFZBQkl1MmVBZnQ5a3NZT2JweXBYVENxc25JQUU3T0RrbXVtQTNWa3lfak5VMHEtMk1EU213clIxaEVRTUlncTNJZHFQUXVxVm9fNWRSSVlKVjF3TlNwOGZ5eHZxS0l0Tmo5WXZlcTJCczM0OGFmNGpn?oc=5\" target=\"_blank\">Finance chief says economy maintains 'solid fundamentals' amid Middle East crisis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTU91NHR6YllMUjVBeTJES09rQWZvWHhBWDJoLU14QTlsY1R4SmhPVFpPVDBibGhQM3VTMXFSV0E5Tlo4ZFJYZGx3NGRzSXlacmFrS2czZVl6V0luX3N6bFhINDd3dGY3V2FtNDB1M3BBWlBnMFZjMmprLTZyVWFpZ2NxYUl4ZDFhOUtJM0NFN0s2UzlGLUZTTzM5ZkRvdEdQSnh3WnJvcEdBSFRLbS1hZ1ppaWpTVkQ2SXpZSkM1NmkwWFdrM3g1RkZSY03SAdIBQVVfeXFMTl9OR3NDekloMy1wc3pVUjJaOWItYUxWYnhEQlJtajIyT3FUSUdmeHVYTHRveGUwQ2JMS3BmNkMwSGJPNjBabDZZYnVPZTRtcUJISVR1WnBDbVg3ZlQ1VEl0NFZBQkl1MmVBZnQ5a3NZT2JweXBYVENxc25JQUU3T0RrbXVtQTNWa3lfak5VMHEtMk1EU213clIxaEVRTUlncTNJZHFQUXVxVm9fNWRSSVlKVjF3TlNwOGZ5eHZxS0l0Tmo5WXZlcTJCczM0OGFmNGpn?oc=5",
+          "title": "Topic: US economy - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWZVBDcEFDcjl1OHA4R185RGtkYTg0YUR0X0JLb0thSzJPb01LeXo5MHpyQkdFTmZoYUJoQk9QQXRsc2YyV1MyR0wzdXM1Qk5id21VWm5FSk9Da0dNZFA0?oc=5\" target=\"_blank\">Topic: US economy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWZVBDcEFDcjl1OHA4R185RGtkYTg0YUR0X0JLb0thSzJPb01LeXo5MHpyQkdFTmZoYUJoQk9QQXRsc2YyV1MyR0wzdXM1Qk5id21VWm5FSk9Da0dNZFA0?oc=5",
           "source": "The Korea Times",
           "publishedAt": "2026-05-08",
           "views": "13.0K"
@@ -174,26 +174,26 @@
       "items": [
         {
           "title": "Top court confirms 2-yr prison term for Hankook & Company chairman in embezzlement case - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN2pMM3FqNkVuWkpDc2s4T0tKMjAtb21kaW1oU0FKVlZvS3ZVUFZBUDVYTWFuNWc4REtWZ05rVFZZekRsUlJad281bFZGS2phNUZTal9OcmJ4LU42cFhfMUIwY1NOdmFzLTh6aFVoaWNqRFoya3o3aTBUZlFVLUkydTg2bDV6YkFIM2ttU2RPczl3SVpHRGdnTEZ2SDVrenZsa0hDMDJLTTVNTDV3NWNScWdheVN5WGNOWnBtWnQ3TDNUb0N2dVVFRENYY3FCQ0FrdzhxN1B0d3FLMTVS0gHiAUFVX3lxTE9ENnEwRnhHOVhOWXVFcTgwZ1RMdnMyLVRNQ1VRSDJOOWtZaTg3d0tFNlcxZkNkc1RPRmExMjNwb1ItT2syVjRlSHVOa1VWR0ZYaTZVS1pmcGRCeG5WdUhpajZwWXNLVEJRMXRfeHA3TlljM2V6am1kOWFhbENzU2lnaDltTXZsNnhHSEozZmRha1VneHVueFhDYlNyNG1fU19WTm9qVU5PR280QlFwaktfU3NYWnR2R3dDSDZMTkNGVklaUnNKeTJmb2lOOEdhYzd4NngwOUJvc3JoYW1aR3lpRGc?oc=5\" target=\"_blank\">Top court confirms 2-yr prison term for Hankook & Company chairman in embezzlement case</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN2pMM3FqNkVuWkpDc2s4T0tKMjAtb21kaW1oU0FKVlZvS3ZVUFZBUDVYTWFuNWc4REtWZ05rVFZZekRsUlJad281bFZGS2phNUZTal9OcmJ4LU42cFhfMUIwY1NOdmFzLTh6aFVoaWNqRFoya3o3aTBUZlFVLUkydTg2bDV6YkFIM2ttU2RPczl3SVpHRGdnTEZ2SDVrenZsa0hDMDJLTTVNTDV3NWNScWdheVN5WGNOWnBtWnQ3TDNUb0N2dVVFRENYY3FCQ0FrdzhxN1B0d3FLMTVS0gHiAUFVX3lxTE9ENnEwRnhHOVhOWXVFcTgwZ1RMdnMyLVRNQ1VRSDJOOWtZaTg3d0tFNlcxZkNkc1RPRmExMjNwb1ItT2syVjRlSHVOa1VWR0ZYaTZVS1pmcGRCeG5WdUhpajZwWXNLVEJRMXRfeHA3TlljM2V6am1kOWFhbENzU2lnaDltTXZsNnhHSEozZmRha1VneHVueFhDYlNyNG1fU19WTm9qVU5PR280QlFwaktfU3NYWnR2R3dDSDZMTkNGVklaUnNKeTJmb2lOOEdhYzd4NngwOUJvc3JoYW1aR3lpRGc?oc=5",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRDZxMEZ4RzlYTll1RXE4MGdUTHZzMi1UTUNVUUgyTjlrWWk4N3dLRTZXMWZDZHNUT0ZhMTIzcG9SLU9rMlY0ZUh1TmtVVkdGWGk2VUtaZnBkQnhuVnVIaWo2cFlzS1RCUTF0X3hwN05ZYzNlemptZDlhYWxDc1NpZ2g5bU12bDZ4R0hKM2ZkYWtVZ3h1bnhYQ2JTcjRtX1NfVk5valVOT0dvNEJRcGpLX1NzWFp0dkd3Q0g2TE5DRlZJWlJzSnkyZm9pTjhHYWM3eDZ4MDlCb3NyaGFtWkd5aURn0gHiAUFVX3lxTE9ENnEwRnhHOVhOWXVFcTgwZ1RMdnMyLVRNQ1VRSDJOOWtZaTg3d0tFNlcxZkNkc1RPRmExMjNwb1ItT2syVjRlSHVOa1VWR0ZYaTZVS1pmcGRCeG5WdUhpajZwWXNLVEJRMXRfeHA3TlljM2V6am1kOWFhbENzU2lnaDltTXZsNnhHSEozZmRha1VneHVueFhDYlNyNG1fU19WTm9qVU5PR280QlFwaktfU3NYWnR2R3dDSDZMTkNGVklaUnNKeTJmb2lOOEdhYzd4NngwOUJvc3JoYW1aR3lpRGc?oc=5\" target=\"_blank\">Top court confirms 2-yr prison term for Hankook & Company chairman in embezzlement case</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRDZxMEZ4RzlYTll1RXE4MGdUTHZzMi1UTUNVUUgyTjlrWWk4N3dLRTZXMWZDZHNUT0ZhMTIzcG9SLU9rMlY0ZUh1TmtVVkdGWGk2VUtaZnBkQnhuVnVIaWo2cFlzS1RCUTF0X3hwN05ZYzNlemptZDlhYWxDc1NpZ2g5bU12bDZ4R0hKM2ZkYWtVZ3h1bnhYQ2JTcjRtX1NfVk5valVOT0dvNEJRcGpLX1NzWFp0dkd3Q0g2TE5DRlZJWlJzSnkyZm9pTjhHYWM3eDZ4MDlCb3NyaGFtWkd5aURn0gHiAUFVX3lxTE9ENnEwRnhHOVhOWXVFcTgwZ1RMdnMyLVRNQ1VRSDJOOWtZaTg3d0tFNlcxZkNkc1RPRmExMjNwb1ItT2syVjRlSHVOa1VWR0ZYaTZVS1pmcGRCeG5WdUhpajZwWXNLVEJRMXRfeHA3TlljM2V6am1kOWFhbENzU2lnaDltTXZsNnhHSEozZmRha1VneHVueFhDYlNyNG1fU19WTm9qVU5PR280QlFwaktfU3NYWnR2R3dDSDZMTkNGVklaUnNKeTJmb2lOOEdhYzd4NngwOUJvc3JoYW1aR3lpRGc?oc=5",
           "source": "The Korea Times",
           "publishedAt": "2026-05-08",
           "views": "13.0K"
         },
         {
-          "title": "LG CNS unveils PhysicalWorks to accelerate industrial robot deployment - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPX2xLQVV0WkZsZ0d2cXptbjNTRlNCSFVycXVKdEwydk9EeExsYld1Ym1maGI0blZhbzlEY3l0eGF3T1BIenIxTjA2Yi1CRVFFZkh5WXNkb0h3cVQ4WVVoQWlJRU8xaGFyMURMYmhDX3NpRWUtODFPNGxyaXVSc1Q3RVBJbjhvT0p1RE1uQjltUVFKNFoxb2EzWlc1WGI1cGtJeWxxSXVibE1ZZnoyOElfUl9ROVZfTTdKLU9rc3hKRlRSenY3MTkzUHFwaU1PMUnSAc8BQVVfeXFMT19sS0FVdFpGbGdHdnF6bW4zU0ZTQkhVcnF1SnRMMnZPRHhMbGJXdWJtZmhiNG5WYW85RGN5dHhhd09QSHpyMU4wNmItQkVRRWZIeVlzZG9Id3FUOFlVaEFpSUVPMWhhcjFETGJoQ19zaUVlLTgxTzRscml1UnNUN0VQSW44b09KdURNbkI5bVFRSjRaMW9hM1pXNVhiNXBrSXlscUl1YmxNWWZ6MjhJX1JfUTlWX003Si1Pa3N4SkZUUnp2NzE5M1BxcGlNTzFJ?oc=5\" target=\"_blank\">LG CNS unveils PhysicalWorks to accelerate industrial robot deployment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPX2xLQVV0WkZsZ0d2cXptbjNTRlNCSFVycXVKdEwydk9EeExsYld1Ym1maGI0blZhbzlEY3l0eGF3T1BIenIxTjA2Yi1CRVFFZkh5WXNkb0h3cVQ4WVVoQWlJRU8xaGFyMURMYmhDX3NpRWUtODFPNGxyaXVSc1Q3RVBJbjhvT0p1RE1uQjltUVFKNFoxb2EzWlc1WGI1cGtJeWxxSXVibE1ZZnoyOElfUl9ROVZfTTdKLU9rc3hKRlRSenY3MTkzUHFwaU1PMUnSAc8BQVVfeXFMT19sS0FVdFpGbGdHdnF6bW4zU0ZTQkhVcnF1SnRMMnZPRHhMbGJXdWJtZmhiNG5WYW85RGN5dHhhd09QSHpyMU4wNmItQkVRRWZIeVlzZG9Id3FUOFlVaEFpSUVPMWhhcjFETGJoQ19zaUVlLTgxTzRscml1UnNUN0VQSW44b09KdURNbkI5bVFRSjRaMW9hM1pXNVhiNXBrSXlscUl1YmxNWWZ6MjhJX1JfUTlWX003Si1Pa3N4SkZUUnp2NzE5M1BxcGlNTzFJ?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-05-07",
+          "title": "Lime, the Uber-backed micromobility company, files for IPO - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOcFVGb0lfYkZGUDNZX0swWFBucmE4eHlFbEw0Z1BfcjdxWHNma21EZWpQWWJmckNFOXlYMjYxVmJrTDhaQmxnRlZYRUY3ZUxzeDZwWk5LeFV0Y2xmUm1IT1ZweXo0d3hGc29hNXBWZlZmTVA3a1NieU1uWl9hV2tKWGJIeUo3YVBpS01VMU1rc0tyNTRTdHc?oc=5\" target=\"_blank\">Lime, the Uber-backed micromobility company, files for IPO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcFVGb0lfYkZGUDNZX0swWFBucmE4eHlFbEw0Z1BfcjdxWHNma21EZWpQWWJmckNFOXlYMjYxVmJrTDhaQmxnRlZYRUY3ZUxzeDZwWk5LeFV0Y2xmUm1IT1ZweXo0d3hGc29hNXBWZlZmTVA3a1NieU1uWl9hV2tKWGJIeUo3YVBpS01VMU1rc0tyNTRTdHc?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-05-08",
           "views": "13.0K"
         },
         {
-          "title": "Industry minister discusses Seoul's submarine bid with Canadian officials - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX1U5cjJJcXBDYXRQYzFzSzBWQ2ZsOVpwVDk0ellpU1pwYTZCZlBodHJDWGVHOWlDSGlkdWwzVGdPUkhMLWVZM212bzhTYkpDNWVicmJZaEs0R2FyNzg5R2F6Mmp3bG52Y2hzcXdpbm1kZExBakdXV0lKUVNtZXFsa0hCLUNRM3hfcjYtc3ZQa2V4UWdDSE9rVEM4akVaWFB4MDlNU0RNY1Y0eXpMZmhJZGNRRzF3OXZjZ09XUmFDZ2U4UlBscTZxcNIByAFBVV95cUxNX1U5cjJJcXBDYXRQYzFzSzBWQ2ZsOVpwVDk0ellpU1pwYTZCZlBodHJDWGVHOWlDSGlkdWwzVGdPUkhMLWVZM212bzhTYkpDNWVicmJZaEs0R2FyNzg5R2F6Mmp3bG52Y2hzcXdpbm1kZExBakdXV0lKUVNtZXFsa0hCLUNRM3hfcjYtc3ZQa2V4UWdDSE9rVEM4akVaWFB4MDlNU0RNY1Y0eXpMZmhJZGNRRzF3OXZjZ09XUmFDZ2U4UlBscTZxcA?oc=5\" target=\"_blank\">Industry minister discusses Seoul's submarine bid with Canadian officials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX1U5cjJJcXBDYXRQYzFzSzBWQ2ZsOVpwVDk0ellpU1pwYTZCZlBodHJDWGVHOWlDSGlkdWwzVGdPUkhMLWVZM212bzhTYkpDNWVicmJZaEs0R2FyNzg5R2F6Mmp3bG52Y2hzcXdpbm1kZExBakdXV0lKUVNtZXFsa0hCLUNRM3hfcjYtc3ZQa2V4UWdDSE9rVEM4akVaWFB4MDlNU0RNY1Y0eXpMZmhJZGNRRzF3OXZjZ09XUmFDZ2U4UlBscTZxcNIByAFBVV95cUxNX1U5cjJJcXBDYXRQYzFzSzBWQ2ZsOVpwVDk0ellpU1pwYTZCZlBodHJDWGVHOWlDSGlkdWwzVGdPUkhMLWVZM212bzhTYkpDNWVicmJZaEs0R2FyNzg5R2F6Mmp3bG52Y2hzcXdpbm1kZExBakdXV0lKUVNtZXFsa0hCLUNRM3hfcjYtc3ZQa2V4UWdDSE9rVEM4akVaWFB4MDlNU0RNY1Y0eXpMZmhJZGNRRzF3OXZjZ09XUmFDZ2U4UlBscTZxcA?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-05-07",
+          "title": "Porsche shutters e-bike, battery, software subsidiaries as part of company overhaul - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPN0hxRFoyX1FZY2xCNFZUcDQ2ZUtfaGZ3OTdXZEtGMjFXNldKUDdlYmhjWUF0OUlaVUw5bGVENm8zWnY3WEphSTdYMEVxYVhaZldwbjBjWFhhSDh5SWpldFlTZEkxWGlSZWozb0g3Q3RoakR0QWxIWV9qY2VWNU5Pb2NpVm5rRTk3YUhYYVhGVm10ZF9LVk9hTi1Cb2NsZV8zVXN6T3FHcmFuQTl3SUYxeE82Tnk1UnM?oc=5\" target=\"_blank\">Porsche shutters e-bike, battery, software subsidiaries as part of company overhaul</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN0hxRFoyX1FZY2xCNFZUcDQ2ZUtfaGZ3OTdXZEtGMjFXNldKUDdlYmhjWUF0OUlaVUw5bGVENm8zWnY3WEphSTdYMEVxYVhaZldwbjBjWFhhSDh5SWpldFlTZEkxWGlSZWozb0g3Q3RoakR0QWxIWV9qY2VWNU5Pb2NpVm5rRTk3YUhYYVhGVm10ZF9LVk9hTi1Cb2NsZV8zVXN6T3FHcmFuQTl3SUYxeE82Tnk1UnM?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-05-08",
           "views": "13.0K"
         }
       ]
