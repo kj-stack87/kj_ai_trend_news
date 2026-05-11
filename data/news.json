@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-10T04:13:03.560Z",
+  "lastUpdated": "2026-05-11T04:34:11.388Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,27 +49,27 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
-          "title": "How Sakana trained a 7B model to orchestrate GPT, Claude and Gemini LLMs - Venturebeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSGRXUmp5Q2N2QktwUnF0Q0x6NGtsRjVPTWlFcmhfckw1OTNyR1hnbExmbFFZR3dGVjVzWTFlelFwMnhxQU1JR3RiUzlKRnN3RVE4RDBrejdFcExzVHdBSV9oTFNzSVJVb0huSE5nVHhqb09aZVd0YnNXdWtndFA2M3ExcEdYdm9ocFZJWTBnb1p3Ml9RYm9TNkhWVFV4MF9nR1FYSWdYb0tXSDVnckpmZUlIS203VV96MGtrZkxvMl8?oc=5\" target=\"_blank\">How Sakana trained a 7B model to orchestrate GPT, Claude and Gemini LLMs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Venturebeat</font>",
+          "title": "RL orchestration: how a 7B model routes tasks across GPT-5, Claude, and Gemini - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSGRXUmp5Q2N2QktwUnF0Q0x6NGtsRjVPTWlFcmhfckw1OTNyR1hnbExmbFFZR3dGVjVzWTFlelFwMnhxQU1JR3RiUzlKRnN3RVE4RDBrejdFcExzVHdBSV9oTFNzSVJVb0huSE5nVHhqb09aZVd0YnNXdWtndFA2M3ExcEdYdm9ocFZJWTBnb1p3Ml9RYm9TNkhWVFV4MF9nR1FYSWdYb0tXSDVnckpmZUlIS203VV96MGtrZkxvMl8?oc=5\" target=\"_blank\">RL orchestration: how a 7B model routes tasks across GPT-5, Claude, and Gemini</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSGRXUmp5Q2N2QktwUnF0Q0x6NGtsRjVPTWlFcmhfckw1OTNyR1hnbExmbFFZR3dGVjVzWTFlelFwMnhxQU1JR3RiUzlKRnN3RVE4RDBrejdFcExzVHdBSV9oTFNzSVJVb0huSE5nVHhqb09aZVd0YnNXdWtndFA2M3ExcEdYdm9ocFZJWTBnb1p3Ml9RYm9TNkhWVFV4MF9nR1FYSWdYb0tXSDVnckpmZUlIS203VV96MGtrZkxvMl8?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-05-07",
-          "views": "33.0K"
+          "views": "28.0K"
         },
         {
-          "title": "OpenAI brings GPT-5-class reasoning to real-time voice — and it changes what voice agents can actually orchestrate - Venturebeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNV2UxeFJUdlhJVEJhcFRoT3FpQmF1bWY5X08xdG1xNWdGbHJrNVlQSVI0X2JGT1RYdlp1LVliR21JYTROOHA4N1BDVzZDQm5TYjZhSW5heFpwYi0zb3Nfd1ppYWFyMXh4LWd6OHU0TzVMcnZqenotWFBuOG1tb1k4NWZGYXM2N1M5ZFpMRU91RUVvbkoyMkNZaDA1QUMwdmoyWHB0UUxHYkRkbERTR09WTHNSX21md05JQ1RjUTBPS0w2ZjVDOGlVNzlfRTQ3Nm9FZVVIUkJKcGtPbDZKaXdBQk5xMkI?oc=5\" target=\"_blank\">OpenAI brings GPT-5-class reasoning to real-time voice — and it changes what voice agents can actually orchestrate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Venturebeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNV2UxeFJUdlhJVEJhcFRoT3FpQmF1bWY5X08xdG1xNWdGbHJrNVlQSVI0X2JGT1RYdlp1LVliR21JYTROOHA4N1BDVzZDQm5TYjZhSW5heFpwYi0zb3Nfd1ppYWFyMXh4LWd6OHU0TzVMcnZqenotWFBuOG1tb1k4NWZGYXM2N1M5ZFpMRU91RUVvbkoyMkNZaDA1QUMwdmoyWHB0UUxHYkRkbERTR09WTHNSX21md05JQ1RjUTBPS0w2ZjVDOGlVNzlfRTQ3Nm9FZVVIUkJKcGtPbDZKaXdBQk5xMkI?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-05-08",
+          "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc0tDeC01TDd2eklVb0p3SlRSamZzWkI0M2ZCTGFsdjVRck85aHFIVVN2VEQ4ZGU4N2pvbVFSMHFfRWNwa3BkakYwWW1NUDlSTk5zNHpMWldFTXlrUkdYalh0LXdMQ3lRbl83a0RTM28zNDlKWEZmZzBtb0dVNGpTTEdmRjdsUEtmbDdIRUVUekw5R3ZxVlhOWHhsZ1lLUFN6M1Uta3VoaFo5akpHUExwVmgyS1E1WTlWaWVn?oc=5\" target=\"_blank\">Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc0tDeC01TDd2eklVb0p3SlRSamZzWkI0M2ZCTGFsdjVRck85aHFIVVN2VEQ4ZGU4N2pvbVFSMHFfRWNwa3BkakYwWW1NUDlSTk5zNHpMWldFTXlrUkdYalh0LXdMQ3lRbl83a0RTM28zNDlKWEZmZzBtb0dVNGpTTEdmRjdsUEtmbDdIRUVUekw5R3ZxVlhOWHhsZ1lLUFN6M1Uta3VoaFo5akpHUExwVmgyS1E1WTlWaWVn?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-05-10",
           "views": "18.0K"
         },
         {
-          "title": "Meet ZAYA1-8B, a super efficient open reasoning model trained on AMD Instinct MI300 GPUs - Venturebeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNVmc1UU10Zi1QWHM1VkJtWFU2UDZsbXdKWDNjd0tVcjBIOEVLd3k5a1lkWmwyOGxPcEtKMFQtUl9KT1BQNDFQdkxsYnZsWEhaS3I2bWdjRWhpOWVXSHBTTndCMk9sU09lN3J6X1VtVVhSak5LRTM3cG9FaVdBVU12aHBKdGRmRFNmNFdhLXdKM18zLXdYVnZjR0I4eVd1TnFZckduajBfR0xLV1pYcXRyRlYzWlRyaXhhQzd1R3BMRQ?oc=5\" target=\"_blank\">Meet ZAYA1-8B, a super efficient open reasoning model trained on AMD Instinct MI300 GPUs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Venturebeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVmc1UU10Zi1QWHM1VkJtWFU2UDZsbXdKWDNjd0tVcjBIOEVLd3k5a1lkWmwyOGxPcEtKMFQtUl9KT1BQNDFQdkxsYnZsWEhaS3I2bWdjRWhpOWVXSHBTTndCMk9sU09lN3J6X1VtVVhSak5LRTM3cG9FaVdBVU12aHBKdGRmRFNmNFdhLXdKM18zLXdYVnZjR0I4eVd1TnFZckduajBfR0xLV1pYcXRyRlYzWlRyaXhhQzd1R3BMRQ?oc=5",
+          "title": "OpenAI brings GPT-5-class reasoning to real-time voice — and it changes what voice agents can actually orchestrate - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNV2UxeFJUdlhJVEJhcFRoT3FpQmF1bWY5X08xdG1xNWdGbHJrNVlQSVI0X2JGT1RYdlp1LVliR21JYTROOHA4N1BDVzZDQm5TYjZhSW5heFpwYi0zb3Nfd1ppYWFyMXh4LWd6OHU0TzVMcnZqenotWFBuOG1tb1k4NWZGYXM2N1M5ZFpMRU91RUVvbkoyMkNZaDA1QUMwdmoyWHB0UUxHYkRkbERTR09WTHNSX21md05JQ1RjUTBPS0w2ZjVDOGlVNzlfRTQ3Nm9FZVVIUkJKcGtPbDZKaXdBQk5xMkI?oc=5\" target=\"_blank\">OpenAI brings GPT-5-class reasoning to real-time voice — and it changes what voice agents can actually orchestrate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNV2UxeFJUdlhJVEJhcFRoT3FpQmF1bWY5X08xdG1xNWdGbHJrNVlQSVI0X2JGT1RYdlp1LVliR21JYTROOHA4N1BDVzZDQm5TYjZhSW5heFpwYi0zb3Nfd1ppYWFyMXh4LWd6OHU0TzVMcnZqenotWFBuOG1tb1k4NWZGYXM2N1M5ZFpMRU91RUVvbkoyMkNZaDA1QUMwdmoyWHB0UUxHYkRkbERTR09WTHNSX21md05JQ1RjUTBPS0w2ZjVDOGlVNzlfRTQ3Nm9FZVVIUkJKcGtPbDZKaXdBQk5xMkI?oc=5",
           "source": "VentureBeat AI",
-          "publishedAt": "2026-05-07",
+          "publishedAt": "2026-05-08",
           "views": "18.0K"
         }
       ]
@@ -80,8 +80,16 @@
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
         {
-          "title": "Anthropic wants to own your agent's memory, evals, and orchestration — and that should make enterprises nervous - Venturebeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNM1FMMzFOYUN4c090amhPMDN5eEhKdjg3ZDN3MzdvZEdBR2F5ZThxOWttcXZERU1hVUhpMG5zV01EeGFnS3lHdldDOTRZQ3VocnRpYk9IMWFiYzRQLXByMkYyQUVESzZBaHNSdXpCRk9hTWI1REs5dEdfQUNzcXcyQnEzb1I1emtvNzBTQ2tDMW9LRGFYMXJpR1hmLXRZQlNMQnZaOU1TOUl6YnRQc1h0UjRXT1N1MkZvcDRiSXdoLWIzYW9aQ0JxWEpUYW96ekxEQ25ZZHZzTTRKbno3?oc=5\" target=\"_blank\">Anthropic wants to own your agent's memory, evals, and orchestration — and that should make enterprises nervous</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Venturebeat</font>",
+          "title": "AI tool poisoning exposes a major flaw in enterprise agent security - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOcjEwcjU0NktsRnh3UEhkWGMtSWNWMVQwUDFKaUVlQ3hHR3FrVEhiRFByQllUNlF3dXlIaGxZSkdPNmFRdVRRTFpRMlFNY2hXVl8yd2lhWFMzZ0NYdG4xZ19HQUcyZmhkSmpMcWF4RTRkbnJJdzUyamhBY1lkMHY1ZGhwc09TaS1COEJ3dUpWNEUyV2VQUW9OR0w5RENQajBPWnc?oc=5\" target=\"_blank\">AI tool poisoning exposes a major flaw in enterprise agent security</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcjEwcjU0NktsRnh3UEhkWGMtSWNWMVQwUDFKaUVlQ3hHR3FrVEhiRFByQllUNlF3dXlIaGxZSkdPNmFRdVRRTFpRMlFNY2hXVl8yd2lhWFMzZ0NYdG4xZ19HQUcyZmhkSmpMcWF4RTRkbnJJdzUyamhBY1lkMHY1ZGhwc09TaS1COEJ3dUpWNEUyV2VQUW9OR0w5RENQajBPWnc?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-05-10",
+          "views": "18.0K"
+        },
+        {
+          "title": "Anthropic wants to own your agent's memory, evals, and orchestration — and that should make enterprises nervous - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNM1FMMzFOYUN4c090amhPMDN5eEhKdjg3ZDN3MzdvZEdBR2F5ZThxOWttcXZERU1hVUhpMG5zV01EeGFnS3lHdldDOTRZQ3VocnRpYk9IMWFiYzRQLXByMkYyQUVESzZBaHNSdXpCRk9hTWI1REs5dEdfQUNzcXcyQnEzb1I1emtvNzBTQ2tDMW9LRGFYMXJpR1hmLXRZQlNMQnZaOU1TOUl6YnRQc1h0UjRXT1N1MkZvcDRiSXdoLWIzYW9aQ0JxWEpUYW96ekxEQ25ZZHZzTTRKbno3?oc=5\" target=\"_blank\">Anthropic wants to own your agent's memory, evals, and orchestration — and that should make enterprises nervous</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNM1FMMzFOYUN4c090amhPMDN5eEhKdjg3ZDN3MzdvZEdBR2F5ZThxOWttcXZERU1hVUhpMG5zV01EeGFnS3lHdldDOTRZQ3VocnRpYk9IMWFiYzRQLXByMkYyQUVESzZBaHNSdXpCRk9hTWI1REs5dEdfQUNzcXcyQnEzb1I1emtvNzBTQ2tDMW9LRGFYMXJpR1hmLXRZQlNMQnZaOU1TOUl6YnRQc1h0UjRXT1N1MkZvcDRiSXdoLWIzYW9aQ0JxWEpUYW96ekxEQ25ZZHZzTTRKbno3?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-05-08",
@@ -92,14 +100,6 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNd3ZtblEwZm16d2hyNkcwMjRjTUtwVkd6bzJYQ1N4QnJvRXBZY3ZPeWo2WkpmSXpDY2xEZi1ZeVN5Q0lOeHF5TzllM05fZ19jLUtiT1A4SWZoNnV2U3lyUzY3OFQ4eVh3MDdiLWxLai1VbDI3LXRTOERqaWVhb3c2eVJXSjBMSHR4YklZdW5KQUM4SnYyV1hibkZzTnAwVzMyeHhRbw?oc=5\" target=\"_blank\">Meta plans advanced 'agentic' AI assistant for users, FT reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd3ZtblEwZm16d2hyNkcwMjRjTUtwVkd6bzJYQ1N4QnJvRXBZY3ZPeWo2WkpmSXpDY2xEZi1ZeVN5Q0lOeHF5TzllM05fZ19jLUtiT1A4SWZoNnV2U3lyUzY3OFQ4eVh3MDdiLWxLai1VbDI3LXRTOERqaWVhb3c2eVJXSjBMSHR4YklZdW5KQUM4SnYyV1hibkZzTnAwVzMyeHhRbw?oc=5",
           "source": "Reuters AI",
-          "publishedAt": "2026-05-05",
-          "views": "18.0K"
-        },
-        {
-          "title": "CopilotKit raises $27M to help devs deploy app-native AI agents - TechCrunch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQQi1IS0s5Q2MzSjFva2xVN3N2eHROQldDUWtQTnp2bjVRbHJ1b2tMS3JlMDRQTU5KT1VqYk41UXAwbWdJV3JSdXQ3UE50R0pZaHdEOGVFbWVob0lJV21PVXdBTzVJNU5WWVZZN2QxNUJlbHBWSW5JU2hBNjZsTGJIdTFjQlN4Q1Zqd1ZuWndXUFZ3TUJtcm8zRWRJeGtXdw?oc=5\" target=\"_blank\">CopilotKit raises $27M to help devs deploy app-native AI agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQi1IS0s5Q2MzSjFva2xVN3N2eHROQldDUWtQTnp2bjVRbHJ1b2tMS3JlMDRQTU5KT1VqYk41UXAwbWdJV3JSdXQ3UE50R0pZaHdEOGVFbWVob0lJV21PVXdBTzVJNU5WWVZZN2QxNUJlbHBWSW5JU2hBNjZsTGJIdTFjQlN4Q1Zqd1ZuWndXUFZ3TUJtcm8zRWRJeGtXdw?oc=5",
-          "source": "TechCrunch AI",
           "publishedAt": "2026-05-05",
           "views": "18.0K"
         }
@@ -150,17 +150,17 @@
           "views": "18.0K"
         },
         {
-          "title": "Hana Financial launches 5th startup program focused on AI entrepreneurship - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQa3huR05RXy1wSnNJbEhabmYxc0UzYU5xYlcyZ3BQT2w5djE3dHQ3R3ZiV0lGOUNOck5MWVB4Nnl2RV93aF9pVkpiNEZhQk1aV2pzUTlmb3RRN05uWUkxZ0JyaDRtQVRzeEMtUFNXRG5FQTZCT2ZVcUtPa3U4OGl4Mi1hVFM4TFlGZzNRS0ZmTVU4RjR5aTQzME1YeDZfOTNQZ0dvRzc3ZE1iNWdjOEVkaVBoSVJZRWY0WS10NDh4XzZMS2dDblFJMDI3dVBnRXUwZ0JV0gHYAUFVX3lxTFBfczRTUTYweWx5UnVWSTZobG1KbUlFeEZjQkZYRjBHVmVXNExadkl4cjdpRk4zb0RnbEVNUXAybUFlZHRRV1M0TkpaeEZHb1o1V1MwLWoyU19fVFVFZDk5OW5ISlVCMVd3dVI2MEhndURvVkdyZ2pKdWo0TlVpYS1HbW1Ia25vMkdKNXhvUHVVWkRWQ0FpR3IxQjh5QW1ST3FsNE14V0xDaUdYcUE0dlltMnZidkh5THFqdzNIV0JENnF2aUhSbkFablBfWnJXalB2bFZHVGZvNw?oc=5\" target=\"_blank\">Hana Financial launches 5th startup program focused on AI entrepreneurship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQa3huR05RXy1wSnNJbEhabmYxc0UzYU5xYlcyZ3BQT2w5djE3dHQ3R3ZiV0lGOUNOck5MWVB4Nnl2RV93aF9pVkpiNEZhQk1aV2pzUTlmb3RRN05uWUkxZ0JyaDRtQVRzeEMtUFNXRG5FQTZCT2ZVcUtPa3U4OGl4Mi1hVFM4TFlGZzNRS0ZmTVU4RjR5aTQzME1YeDZfOTNQZ0dvRzc3ZE1iNWdjOEVkaVBoSVJZRWY0WS10NDh4XzZMS2dDblFJMDI3dVBnRXUwZ0JV0gHYAUFVX3lxTFBfczRTUTYweWx5UnVWSTZobG1KbUlFeEZjQkZYRjBHVmVXNExadkl4cjdpRk4zb0RnbEVNUXAybUFlZHRRV1M0TkpaeEZHb1o1V1MwLWoyU19fVFVFZDk5OW5ISlVCMVd3dVI2MEhndURvVkdyZ2pKdWo0TlVpYS1HbW1Ia25vMkdKNXhvUHVVWkRWQ0FpR3IxQjh5QW1ST3FsNE14V0xDaUdYcUE0dlltMnZidkh5THFqdzNIV0JENnF2aUhSbkFablBfWnJXalB2bFZHVGZvNw?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-05-10",
+          "title": "Nintendo shares slump as price hikes, games shortfall spook market - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX2NDY1JCcUNqTDJqcFpXcWgxZllnWHRVV0Z2eGROVHdBRWFhM1M2SWdDd0VxY2ttbFhhZ1BPOFBwY0hqYXNNZTVuU2ppSUYzNlZGRE9aajlJNnpKMWo3WFFJbUlVZGRSWlUzN1d4eE5RN3k4akpjZ0hXSHV0MWUzd2c3Y0lqR1UxQWsyNHhHWm8zUU8tTk5NeVNpQkkxTE9Jci1MZmxaRDhrc3RmM181dUlPdjRtVmR1?oc=5\" target=\"_blank\">Nintendo shares slump as price hikes, games shortfall spook market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX2NDY1JCcUNqTDJqcFpXcWgxZllnWHRVV0Z2eGROVHdBRWFhM1M2SWdDd0VxY2ttbFhhZ1BPOFBwY0hqYXNNZTVuU2ppSUYzNlZGRE9aajlJNnpKMWo3WFFJbUlVZGRSWlUzN1d4eE5RN3k4akpjZ0hXSHV0MWUzd2c3Y0lqR1UxQWsyNHhHWm8zUU8tTk5NeVNpQkkxTE9Jci1MZmxaRDhrc3RmM181dUlPdjRtVmR1?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-05-11",
           "views": "13.0K"
         },
         {
-          "title": "Overdraft credit loans hit 3-yr high amid stock market rally: data - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQZE52WjVfSHFtV3dvbmRGcFdIMkN1RWgxN3l1c1FkX2NiZW9vOXB0QWIyTGl4RUlnMWtRUXhTZG83dmFuQWQ3NFBwSnRQMkdkdFRHOU5qNEw4LW5EOGxUakxmZFNTN0ZvM3BORE5QNmxEWlEtblQ3WUFSVldLY3dyTEJDeGotLTl5WW9BUGNfaWdKTkFvUG1fWjdjamJuZXVoWUU0VUJoeGxQZHZtQWhRcWlvaUtvcnF3Skt1MzczcGdKdEJNTDk40gHMAUFVX3lxTE5Xb1ctamp3Z28xT2FGVDJ6WHR6TjFHbzlETV9RVVZucTlxLW5ILTJVbkxiZ1RrbDVMNU9EMkpwVl9feDZ0b3RnM1VfZXNYVzZRUk9lUFNhdklUNDZMT2YtZGZOb3l5TlhzcURVZmJSMFUxb3FJNk1zNE1OaG82ME5FYzZZbllyXzNaV3JDOEMza000YUZvMlVWMUstSFZxRndhY2lBTnhQUG9mX2Q0UTZCVUtZYU14c3BOV09TZ09mOVNEamo4NDJBTHdSNg?oc=5\" target=\"_blank\">Overdraft credit loans hit 3-yr high amid stock market rally: data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZE52WjVfSHFtV3dvbmRGcFdIMkN1RWgxN3l1c1FkX2NiZW9vOXB0QWIyTGl4RUlnMWtRUXhTZG83dmFuQWQ3NFBwSnRQMkdkdFRHOU5qNEw4LW5EOGxUakxmZFNTN0ZvM3BORE5QNmxEWlEtblQ3WUFSVldLY3dyTEJDeGotLTl5WW9BUGNfaWdKTkFvUG1fWjdjamJuZXVoWUU0VUJoeGxQZHZtQWhRcWlvaUtvcnF3Skt1MzczcGdKdEJNTDk40gHMAUFVX3lxTE5Xb1ctamp3Z28xT2FGVDJ6WHR6TjFHbzlETV9RVVZucTlxLW5ILTJVbkxiZ1RrbDVMNU9EMkpwVl9feDZ0b3RnM1VfZXNYVzZRUk9lUFNhdklUNDZMT2YtZGZOb3l5TlhzcURVZmJSMFUxb3FJNk1zNE1OaG82ME5FYzZZbllyXzNaV3JDOEMza000YUZvMlVWMUstSFZxRndhY2lBTnhQUG9mX2Q0UTZCVUtZYU14c3BOV09TZ09mOVNEamo4NDJBTHdSNg?oc=5",
+          "title": "Hana Financial launches 5th startup program focused on AI entrepreneurship - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQX3M0U1E2MHlseVJ1Vkk2aGxtSm1JRXhGY0JGWEYwR1ZlVzRMWnZJeHI3aUZOM29EZ2xFTVFwMm1BZWR0UVdTNE5KWnhGR29aNVdTMC1qMlNfX1RVRWQ5OTluSEpVQjFXd3VSNjBIZ3VEb1ZHcmdqSnVqNE5VaWEtR21tSGtubzJHSjV4b1B1VVpEVkNBaUdyMUI4eUFtUk9xbDRNeFdMQ2lHWHFBNHZZbTJ2YnZIeUxxanczSFdCRDZxdmlIUm5BWm5QX1pyV2pQdmxWR1RmbzfSAdgBQVVfeXFMUF9zNFNRNjB5bHlSdVZJNmhsbUptSUV4RmNCRlhGMEdWZVc0TFp2SXhyN2lGTjNvRGdsRU1RcDJtQWVkdFFXUzROSlp4RkdvWjVXUzAtajJTX19UVUVkOTk5bkhKVUIxV3d1UjYwSGd1RG9WR3Jnakp1ajROVWlhLUdtbUhrbm8yR0o1eG9QdVVaRFZDQWlHcjFCOHlBbVJPcWw0TXhXTENpR1hxQTR2WW0ydmJ2SHlMcWp3M0hXQkQ2cXZpSFJuQVpuUF9acldqUHZsVkdUZm83?oc=5\" target=\"_blank\">Hana Financial launches 5th startup program focused on AI entrepreneurship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQX3M0U1E2MHlseVJ1Vkk2aGxtSm1JRXhGY0JGWEYwR1ZlVzRMWnZJeHI3aUZOM29EZ2xFTVFwMm1BZWR0UVdTNE5KWnhGR29aNVdTMC1qMlNfX1RVRWQ5OTluSEpVQjFXd3VSNjBIZ3VEb1ZHcmdqSnVqNE5VaWEtR21tSGtubzJHSjV4b1B1VVpEVkNBaUdyMUI4eUFtUk9xbDRNeFdMQ2lHWHFBNHZZbTJ2YnZIeUxxanczSFdCRDZxdmlIUm5BWm5QX1pyV2pQdmxWR1RmbzfSAdgBQVVfeXFMUF9zNFNRNjB5bHlSdVZJNmhsbUptSUV4RmNCRlhGMEdWZVc0TFp2SXhyN2lGTjNvRGdsRU1RcDJtQWVkdFFXUzROSlp4RkdvWjVXUzAtajJTX19UVUVkOTk5bkhKVUIxV3d1UjYwSGd1RG9WR3Jnakp1ajROVWlhLUdtbUhrbm8yR0o1eG9QdVVaRFZDQWlHcjFCOHlBbVJPcWw0TXhXTENpR1hxQTR2WW0ydmJ2SHlMcWp3M0hXQkQ2cXZpSFJuQVpuUF9acldqUHZsVkdUZm83?oc=5",
           "source": "The Korea Times",
           "publishedAt": "2026-05-10",
           "views": "13.0K"
@@ -173,26 +173,26 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
-          "title": "Top court confirms 2-yr prison term for Hankook & Company chairman in embezzlement case - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRDZxMEZ4RzlYTll1RXE4MGdUTHZzMi1UTUNVUUgyTjlrWWk4N3dLRTZXMWZDZHNUT0ZhMTIzcG9SLU9rMlY0ZUh1TmtVVkdGWGk2VUtaZnBkQnhuVnVIaWo2cFlzS1RCUTF0X3hwN05ZYzNlemptZDlhYWxDc1NpZ2g5bU12bDZ4R0hKM2ZkYWtVZ3h1bnhYQ2JTcjRtX1NfVk5valVOT0dvNEJRcGpLX1NzWFp0dkd3Q0g2TE5DRlZJWlJzSnkyZm9pTjhHYWM3eDZ4MDlCb3NyaGFtWkd5aURn0gHiAUFVX3lxTE9ENnEwRnhHOVhOWXVFcTgwZ1RMdnMyLVRNQ1VRSDJOOWtZaTg3d0tFNlcxZkNkc1RPRmExMjNwb1ItT2syVjRlSHVOa1VWR0ZYaTZVS1pmcGRCeG5WdUhpajZwWXNLVEJRMXRfeHA3TlljM2V6am1kOWFhbENzU2lnaDltTXZsNnhHSEozZmRha1VneHVueFhDYlNyNG1fU19WTm9qVU5PR280QlFwaktfU3NYWnR2R3dDSDZMTkNGVklaUnNKeTJmb2lOOEdhYzd4NngwOUJvc3JoYW1aR3lpRGc?oc=5\" target=\"_blank\">Top court confirms 2-yr prison term for Hankook & Company chairman in embezzlement case</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRDZxMEZ4RzlYTll1RXE4MGdUTHZzMi1UTUNVUUgyTjlrWWk4N3dLRTZXMWZDZHNUT0ZhMTIzcG9SLU9rMlY0ZUh1TmtVVkdGWGk2VUtaZnBkQnhuVnVIaWo2cFlzS1RCUTF0X3hwN05ZYzNlemptZDlhYWxDc1NpZ2g5bU12bDZ4R0hKM2ZkYWtVZ3h1bnhYQ2JTcjRtX1NfVk5valVOT0dvNEJRcGpLX1NzWFp0dkd3Q0g2TE5DRlZJWlJzSnkyZm9pTjhHYWM3eDZ4MDlCb3NyaGFtWkd5aURn0gHiAUFVX3lxTE9ENnEwRnhHOVhOWXVFcTgwZ1RMdnMyLVRNQ1VRSDJOOWtZaTg3d0tFNlcxZkNkc1RPRmExMjNwb1ItT2syVjRlSHVOa1VWR0ZYaTZVS1pmcGRCeG5WdUhpajZwWXNLVEJRMXRfeHA3TlljM2V6am1kOWFhbENzU2lnaDltTXZsNnhHSEozZmRha1VneHVueFhDYlNyNG1fU19WTm9qVU5PR280QlFwaktfU3NYWnR2R3dDSDZMTkNGVklaUnNKeTJmb2lOOEdhYzd4NngwOUJvc3JoYW1aR3lpRGc?oc=5",
+          "title": "Experts say India can become key manufacturing, export hub for Korea amid global economic shift - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbFAzZnB3aXlLX3V2enZVaFp1Z1huMVBNbWJ1enZ4ZFRyX21wcXZ5UWFMY0U2TDBfRVNleDNTRE1BLUxhRzc3WEl4SU9teVR4Y3IxM0lUQTFIRXJKRmx4VjNoRlEyZXpadEJUWlRFZ2hjdy1PN040eS1wZjZYWUd5cFowRlpZWnNiZ1JLcTFwazByaXgyQjhJajg2M0J5bjF2RWprTkNaTE5RbHlUX0pjNXdFYy00TzhUNWR3ZlByUDFobHNtSGdrdkN5WjdPX1hfWnVUUVdXQnVKVUl2NHNoTNIB5gFBVV95cUxQdlI3LXNHdk8yT3ZTT3lBbFVnOEJXV0NrSTFZeXM2U0c0WXFXRm9fQ0V0cV9odDNiSXE4NExEMUJpUEN6LUZsNjA3akgyVEZuZjlyVUE2UjFEOFNsUGRJcy1DaFRsSWFBUWR2V2tBbjR0aDhyR1FRS1RLRnc3N0hhSDNzS052YTVvc1ZTNjFlemRMcUVXUnNBSm9hM1VkR0NaTTFVNkNkUW4xdXc0cTFieFJHcGdaRnJVZkZpYkRvaWlvVS1zNUtUcGQ2VkQxd2R1dmFtQUlGVEp1dUwtd25BZ1EtdU5odw?oc=5\" target=\"_blank\">Experts say India can become key manufacturing, export hub for Korea amid global economic shift</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbFAzZnB3aXlLX3V2enZVaFp1Z1huMVBNbWJ1enZ4ZFRyX21wcXZ5UWFMY0U2TDBfRVNleDNTRE1BLUxhRzc3WEl4SU9teVR4Y3IxM0lUQTFIRXJKRmx4VjNoRlEyZXpadEJUWlRFZ2hjdy1PN040eS1wZjZYWUd5cFowRlpZWnNiZ1JLcTFwazByaXgyQjhJajg2M0J5bjF2RWprTkNaTE5RbHlUX0pjNXdFYy00TzhUNWR3ZlByUDFobHNtSGdrdkN5WjdPX1hfWnVUUVdXQnVKVUl2NHNoTNIB5gFBVV95cUxQdlI3LXNHdk8yT3ZTT3lBbFVnOEJXV0NrSTFZeXM2U0c0WXFXRm9fQ0V0cV9odDNiSXE4NExEMUJpUEN6LUZsNjA3akgyVEZuZjlyVUE2UjFEOFNsUGRJcy1DaFRsSWFBUWR2V2tBbjR0aDhyR1FRS1RLRnc3N0hhSDNzS052YTVvc1ZTNjFlemRMcUVXUnNBSm9hM1VkR0NaTTFVNkNkUW4xdXc0cTFieFJHcGdaRnJVZkZpYkRvaWlvVS1zNUtUcGQ2VkQxd2R1dmFtQUlGVEp1dUwtd25BZ1EtdU5odw?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-05-08",
+          "publishedAt": "2026-05-11",
           "views": "13.0K"
         },
         {
-          "title": "Porsche shutters e-bike, battery, software subsidiaries as part of company overhaul - TechCrunch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPN0hxRFoyX1FZY2xCNFZUcDQ2ZUtfaGZ3OTdXZEtGMjFXNldKUDdlYmhjWUF0OUlaVUw5bGVENm8zWnY3WEphSTdYMEVxYVhaZldwbjBjWFhhSDh5SWpldFlTZEkxWGlSZWozb0g3Q3RoakR0QWxIWV9qY2VWNU5Pb2NpVm5rRTk3YUhYYVhGVm10ZF9LVk9hTi1Cb2NsZV8zVXN6T3FHcmFuQTl3SUYxeE82Tnk1UnM?oc=5\" target=\"_blank\">Porsche shutters e-bike, battery, software subsidiaries as part of company overhaul</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN0hxRFoyX1FZY2xCNFZUcDQ2ZUtfaGZ3OTdXZEtGMjFXNldKUDdlYmhjWUF0OUlaVUw5bGVENm8zWnY3WEphSTdYMEVxYVhaZldwbjBjWFhhSDh5SWpldFlTZEkxWGlSZWozb0g3Q3RoakR0QWxIWV9qY2VWNU5Pb2NpVm5rRTk3YUhYYVhGVm10ZF9LVk9hTi1Cb2NsZV8zVXN6T3FHcmFuQTl3SUYxeE82Tnk1UnM?oc=5",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-05-08",
+          "title": "Crypto industry squeezed by falling trading volume, tougher regulations - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPdWpac1ZWUXQ2emxSWlNSbE1CMGJvUHhOeS1tNFVRMlB0bjRkYXhNbkZkZUFpamtGNG1kcDNVRWZSeHh3QVdDZjZRTHBDTV94SVhVSXJWcDQ1YTQ4eTA0aXI5R0MtLVZTUzFUMGcwR0RnTkNyWnZzeXl1a2p5RzYxMk9vcjkzeXZ1NEk4ZEhHQ3ZDdmJrZGZZTjVTSXdpU0FZa0dicGMxTmdEVWE4eVdKUDg0YUdMdHlOVWtjVTNzMDNrTUdkSUJTX3VSa9IB0AFBVV95cUxQUVZmclFwdnJ2MjdpbFZsWWhYNERPLWNCYjNyaTQ4VThIUDNQMUw4UnRzRVdjVG1oaDNTdTg4ZTd4Z2ZXeGd2bUVMaGM2OFZXOWlWZ2stdUNEbFFjSXlUVDZpVDZkcHVYbjdSVjFFVjZ6bU9pZnlKSC1IU1E2eHJNbmhXVXJONDVwRlkxeGNVV3VvYmlzLWFRb0Z4WlhTUldVRzhkVHl2ZDRhOGtYeVdtZHlQelNxaHdJbS1FTTRFazdZVlFlWUJCT0dWa3Y2R3dP?oc=5\" target=\"_blank\">Crypto industry squeezed by falling trading volume, tougher regulations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdWpac1ZWUXQ2emxSWlNSbE1CMGJvUHhOeS1tNFVRMlB0bjRkYXhNbkZkZUFpamtGNG1kcDNVRWZSeHh3QVdDZjZRTHBDTV94SVhVSXJWcDQ1YTQ4eTA0aXI5R0MtLVZTUzFUMGcwR0RnTkNyWnZzeXl1a2p5RzYxMk9vcjkzeXZ1NEk4ZEhHQ3ZDdmJrZGZZTjVTSXdpU0FZa0dicGMxTmdEVWE4eVdKUDg0YUdMdHlOVWtjVTNzMDNrTUdkSUJTX3VSa9IB0AFBVV95cUxQUVZmclFwdnJ2MjdpbFZsWWhYNERPLWNCYjNyaTQ4VThIUDNQMUw4UnRzRVdjVG1oaDNTdTg4ZTd4Z2ZXeGd2bUVMaGM2OFZXOWlWZ2stdUNEbFFjSXlUVDZpVDZkcHVYbjdSVjFFVjZ6bU9pZnlKSC1IU1E2eHJNbmhXVXJONDVwRlkxeGNVV3VvYmlzLWFRb0Z4WlhTUldVRzhkVHl2ZDRhOGtYeVdtZHlQelNxaHdJbS1FTTRFazdZVlFlWUJCT0dWa3Y2R3dP?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-05-10",
           "views": "13.0K"
         },
         {
-          "title": "Lime, the Uber-backed micromobility company, files for IPO - TechCrunch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOcFVGb0lfYkZGUDNZX0swWFBucmE4eHlFbEw0Z1BfcjdxWHNma21EZWpQWWJmckNFOXlYMjYxVmJrTDhaQmxnRlZYRUY3ZUxzeDZwWk5LeFV0Y2xmUm1IT1ZweXo0d3hGc29hNXBWZlZmTVA3a1NieU1uWl9hV2tKWGJIeUo3YVBpS01VMU1rc0tyNTRTdHc?oc=5\" target=\"_blank\">Lime, the Uber-backed micromobility company, files for IPO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcFVGb0lfYkZGUDNZX0swWFBucmE4eHlFbEw0Z1BfcjdxWHNma21EZWpQWWJmckNFOXlYMjYxVmJrTDhaQmxnRlZYRUY3ZUxzeDZwWk5LeFV0Y2xmUm1IT1ZweXo0d3hGc29hNXBWZlZmTVA3a1NieU1uWl9hV2tKWGJIeUo3YVBpS01VMU1rc0tyNTRTdHc?oc=5",
-          "source": "TechCrunch AI",
+          "title": "Top court confirms 2-yr prison term for Hankook & Company chairman in embezzlement case - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN2pMM3FqNkVuWkpDc2s4T0tKMjAtb21kaW1oU0FKVlZvS3ZVUFZBUDVYTWFuNWc4REtWZ05rVFZZekRsUlJad281bFZGS2phNUZTal9OcmJ4LU42cFhfMUIwY1NOdmFzLTh6aFVoaWNqRFoya3o3aTBUZlFVLUkydTg2bDV6YkFIM2ttU2RPczl3SVpHRGdnTEZ2SDVrenZsa0hDMDJLTTVNTDV3NWNScWdheVN5WGNOWnBtWnQ3TDNUb0N2dVVFRENYY3FCQ0FrdzhxN1B0d3FLMTVS0gHiAUFVX3lxTE9ENnEwRnhHOVhOWXVFcTgwZ1RMdnMyLVRNQ1VRSDJOOWtZaTg3d0tFNlcxZkNkc1RPRmExMjNwb1ItT2syVjRlSHVOa1VWR0ZYaTZVS1pmcGRCeG5WdUhpajZwWXNLVEJRMXRfeHA3TlljM2V6am1kOWFhbENzU2lnaDltTXZsNnhHSEozZmRha1VneHVueFhDYlNyNG1fU19WTm9qVU5PR280QlFwaktfU3NYWnR2R3dDSDZMTkNGVklaUnNKeTJmb2lOOEdhYzd4NngwOUJvc3JoYW1aR3lpRGc?oc=5\" target=\"_blank\">Top court confirms 2-yr prison term for Hankook & Company chairman in embezzlement case</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNN2pMM3FqNkVuWkpDc2s4T0tKMjAtb21kaW1oU0FKVlZvS3ZVUFZBUDVYTWFuNWc4REtWZ05rVFZZekRsUlJad281bFZGS2phNUZTal9OcmJ4LU42cFhfMUIwY1NOdmFzLTh6aFVoaWNqRFoya3o3aTBUZlFVLUkydTg2bDV6YkFIM2ttU2RPczl3SVpHRGdnTEZ2SDVrenZsa0hDMDJLTTVNTDV3NWNScWdheVN5WGNOWnBtWnQ3TDNUb0N2dVVFRENYY3FCQ0FrdzhxN1B0d3FLMTVS0gHiAUFVX3lxTE9ENnEwRnhHOVhOWXVFcTgwZ1RMdnMyLVRNQ1VRSDJOOWtZaTg3d0tFNlcxZkNkc1RPRmExMjNwb1ItT2syVjRlSHVOa1VWR0ZYaTZVS1pmcGRCeG5WdUhpajZwWXNLVEJRMXRfeHA3TlljM2V6am1kOWFhbENzU2lnaDltTXZsNnhHSEozZmRha1VneHVueFhDYlNyNG1fU19WTm9qVU5PR280QlFwaktfU3NYWnR2R3dDSDZMTkNGVklaUnNKeTJmb2lOOEdhYzd4NngwOUJvc3JoYW1aR3lpRGc?oc=5",
+          "source": "The Korea Times",
           "publishedAt": "2026-05-08",
           "views": "13.0K"
         }
