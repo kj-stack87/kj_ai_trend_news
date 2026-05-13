@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-12T04:03:43.150Z",
+  "lastUpdated": "2026-05-13T04:11:11.241Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,12 +49,20 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
-          "title": "How Sakana trained a 7B model to orchestrate GPT, Claude and Gemini LLMs - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSGRXUmp5Q2N2QktwUnF0Q0x6NGtsRjVPTWlFcmhfckw1OTNyR1hnbExmbFFZR3dGVjVzWTFlelFwMnhxQU1JR3RiUzlKRnN3RVE4RDBrejdFcExzVHdBSV9oTFNzSVJVb0huSE5nVHhqb09aZVd0YnNXdWtndFA2M3ExcEdYdm9ocFZJWTBnb1p3Ml9RYm9TNkhWVFV4MF9nR1FYSWdYb0tXSDVnckpmZUlIS203VV96MGtrZkxvMl8?oc=5\" target=\"_blank\">How Sakana trained a 7B model to orchestrate GPT, Claude and Gemini LLMs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "title": "RL orchestration: how a 7B model routes tasks across GPT-5, Claude, and Gemini - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSGRXUmp5Q2N2QktwUnF0Q0x6NGtsRjVPTWlFcmhfckw1OTNyR1hnbExmbFFZR3dGVjVzWTFlelFwMnhxQU1JR3RiUzlKRnN3RVE4RDBrejdFcExzVHdBSV9oTFNzSVJVb0huSE5nVHhqb09aZVd0YnNXdWtndFA2M3ExcEdYdm9ocFZJWTBnb1p3Ml9RYm9TNkhWVFV4MF9nR1FYSWdYb0tXSDVnckpmZUlIS203VV96MGtrZkxvMl8?oc=5\" target=\"_blank\">RL orchestration: how a 7B model routes tasks across GPT-5, Claude, and Gemini</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSGRXUmp5Q2N2QktwUnF0Q0x6NGtsRjVPTWlFcmhfckw1OTNyR1hnbExmbFFZR3dGVjVzWTFlelFwMnhxQU1JR3RiUzlKRnN3RVE4RDBrejdFcExzVHdBSV9oTFNzSVJVb0huSE5nVHhqb09aZVd0YnNXdWtndFA2M3ExcEdYdm9ocFZJWTBnb1p3Ml9RYm9TNkhWVFV4MF9nR1FYSWdYb0tXSDVnckpmZUlIS203VV96MGtrZkxvMl8?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-05-07",
-          "views": "33.0K"
+          "views": "28.0K"
+        },
+        {
+          "title": "Anthropic expands Claude's AI tools for law firms, lawyers - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbHpGV0l6eTJkRDdzV0VtWnZ0bS1CZVh1dVFpREJJZlVvVmJXSFlKVmhmc2NBVmFXYUppOThVSDhjLVllMk5neFB3TElFTS1FX2ktLWN3Z2gyTkZhOWQyd3IzdGlsazd6Rkp1dDB4enBiTVRSalc5S0RqX1o3RjhlQnF0dkdNbXliVndaeURhVURHVXRwRzZCeVRwdkJ1eDVyejdzb0hDRGM?oc=5\" target=\"_blank\">Anthropic expands Claude's AI tools for law firms, lawyers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbHpGV0l6eTJkRDdzV0VtWnZ0bS1CZVh1dVFpREJJZlVvVmJXSFlKVmhmc2NBVmFXYUppOThVSDhjLVllMk5neFB3TElFTS1FX2ktLWN3Z2gyTkZhOWQyd3IzdGlsazd6Rkp1dDB4enBiTVRSalc5S0RqX1o3RjhlQnF0dkdNbXliVndaeURhVURHVXRwRzZCeVRwdkJ1eDVyejdzb0hDRGM?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-05-12",
+          "views": "18.0K"
         },
         {
           "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts - TechCrunch",
@@ -62,14 +70,6 @@
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc0tDeC01TDd2eklVb0p3SlRSamZzWkI0M2ZCTGFsdjVRck85aHFIVVN2VEQ4ZGU4N2pvbVFSMHFfRWNwa3BkakYwWW1NUDlSTk5zNHpMWldFTXlrUkdYalh0LXdMQ3lRbl83a0RTM28zNDlKWEZmZzBtb0dVNGpTTEdmRjdsUEtmbDdIRUVUekw5R3ZxVlhOWHhsZ1lLUFN6M1Uta3VoaFo5akpHUExwVmgyS1E1WTlWaWVn?oc=5",
           "source": "TechCrunch AI",
           "publishedAt": "2026-05-10",
-          "views": "18.0K"
-        },
-        {
-          "title": "OpenAI brings GPT-5-class reasoning to real-time voice — and it changes what voice agents can actually orchestrate - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNV2UxeFJUdlhJVEJhcFRoT3FpQmF1bWY5X08xdG1xNWdGbHJrNVlQSVI0X2JGT1RYdlp1LVliR21JYTROOHA4N1BDVzZDQm5TYjZhSW5heFpwYi0zb3Nfd1ppYWFyMXh4LWd6OHU0TzVMcnZqenotWFBuOG1tb1k4NWZGYXM2N1M5ZFpMRU91RUVvbkoyMkNZaDA1QUMwdmoyWHB0UUxHYkRkbERTR09WTHNSX21md05JQ1RjUTBPS0w2ZjVDOGlVNzlfRTQ3Nm9FZVVIUkJKcGtPbDZKaXdBQk5xMkI?oc=5\" target=\"_blank\">OpenAI brings GPT-5-class reasoning to real-time voice — and it changes what voice agents can actually orchestrate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNV2UxeFJUdlhJVEJhcFRoT3FpQmF1bWY5X08xdG1xNWdGbHJrNVlQSVI0X2JGT1RYdlp1LVliR21JYTROOHA4N1BDVzZDQm5TYjZhSW5heFpwYi0zb3Nfd1ppYWFyMXh4LWd6OHU0TzVMcnZqenotWFBuOG1tb1k4NWZGYXM2N1M5ZFpMRU91RUVvbkoyMkNZaDA1QUMwdmoyWHB0UUxHYkRkbERTR09WTHNSX21md05JQ1RjUTBPS0w2ZjVDOGlVNzlfRTQ3Nm9FZVVIUkJKcGtPbDZKaXdBQk5xMkI?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-05-08",
           "views": "18.0K"
         }
       ]
@@ -79,6 +79,14 @@
       "hashtag": "#활용사례",
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
+        {
+          "title": "Laserfiche unveils AI agents for natural language workflows - AI News",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQLUhrX2h5QVZHdEk0cGh6ZUtTNUVIMmRHVV9EVUtyZi1vUWlMN0wtb1BoeEtDWGdWYWU2YnVxUHI2UURTcTduZndNdFJwc0pERjRlMjIyQ0pQZlZ2ZGZKUWdKaTgyMldkVUNSa2tpZWhIZWdjNGVFLWVYMFBlblROdm5sd1VkWjd4TkNackRCbk93dUxKSHEwMmtwZ2RWSGdHZ3RKaWNxelZQVmk3S2F1LQ?oc=5\" target=\"_blank\">Laserfiche unveils AI agents for natural language workflows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI News</font>",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLUhrX2h5QVZHdEk0cGh6ZUtTNUVIMmRHVV9EVUtyZi1vUWlMN0wtb1BoeEtDWGdWYWU2YnVxUHI2UURTcTduZndNdFJwc0pERjRlMjIyQ0pQZlZ2ZGZKUWdKaTgyMldkVUNSa2tpZWhIZWdjNGVFLWVYMFBlblROdm5sd1VkWjd4TkNackRCbk93dUxKSHEwMmtwZ2RWSGdHZ3RKaWNxelZQVmk3S2F1LQ?oc=5",
+          "source": "AI News",
+          "publishedAt": "2026-05-12",
+          "views": "18.0K"
+        },
         {
           "title": "AI agent IAM: why enterprise identity governance is broken - VentureBeat",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPdnJiWUNRQXl3TkpYQi1lWFNJZVZSam5nempoWnNhNjBhdEFhR1ZxbWtDTFo3aWxIRmtCUHp1aU1iRm4yd3JXR1pPTldNVkhsLVVvQVlmWlRNTEw0WC15clo3ZzJNblJlRTJIbGNIUUxFZGY5Ry1BN2VLRGZDMlFlZXMweFMxOUlWaDJsb0xYSmhsOTRCMjRTOVpZSjU2MmtnYTZV?oc=5\" target=\"_blank\">AI agent IAM: why enterprise identity governance is broken</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
@@ -94,14 +102,6 @@
           "source": "AI News",
           "publishedAt": "2026-05-11",
           "views": "18.0K"
-        },
-        {
-          "title": "AI tool poisoning exposes a major flaw in enterprise agent security - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOcjEwcjU0NktsRnh3UEhkWGMtSWNWMVQwUDFKaUVlQ3hHR3FrVEhiRFByQllUNlF3dXlIaGxZSkdPNmFRdVRRTFpRMlFNY2hXVl8yd2lhWFMzZ0NYdG4xZ19HQUcyZmhkSmpMcWF4RTRkbnJJdzUyamhBY1lkMHY1ZGhwc09TaS1COEJ3dUpWNEUyV2VQUW9OR0w5RENQajBPWnc?oc=5\" target=\"_blank\">AI tool poisoning exposes a major flaw in enterprise agent security</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcjEwcjU0NktsRnh3UEhkWGMtSWNWMVQwUDFKaUVlQ3hHR3FrVEhiRFByQllUNlF3dXlIaGxZSkdPNmFRdVRRTFpRMlFNY2hXVl8yd2lhWFMzZ0NYdG4xZ19HQUcyZmhkSmpMcWF4RTRkbnJJdzUyamhBY1lkMHY1ZGhwc09TaS1COEJ3dUpWNEUyV2VQUW9OR0w5RENQajBPWnc?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-05-10",
-          "views": "18.0K"
         }
       ]
     },
@@ -110,6 +110,14 @@
       "hashtag": "#윤리",
       "description": "규제, 책임, 신뢰, 저작권 같은 문제를 보는 관점",
       "items": [
+        {
+          "title": "Appeals court increases ex-interior minister's sentence to 9 years over martial law involvement - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdnRsZmZUVEZxckNaQUJVS2E0RE5GalkyM0VHWFlrMElacl9IWVlDMW1zUWJCeWRNNzVJRUxudVNBQnFDcEE0NVhKUTQ3bC1LbE9qdk9tNC1DREFTZzdWWmpoMVlySnlNZnp5WHNLUFVQc29Ock9iSEdOb0FDdEFLV3ltOE1KMnJrVWtPTWNLOEZRd2pLQWlYYUp5MmI4T3VzSnVlaUdmRHdFRmdFYTE5aldLNlF4V3FhZFJ3WWx3STU3Sm1OQ0JKS0ItVmtuVEQzSjBKMUpnaGhzLUtqNWRoOHRSYzJjNGc40gHuAUFVX3lxTFBXSHZUMFA0d3pSV2lYZVE4UGEzOWp5VkpzaUlwUUZNMjg2SG1ieDIxVHlPNkNJNlY4V2xobk9kTFRISklqY19lUjRuWEhUUVl5azgxeDVsMk5oRW1vYWJQVEkycWxuc0tlLWxPU2I4VkZCbF9IME40UFhHOGwydk9SUjRVUUNqelRWTThCbjVkVmxEaEp0SnB5TTRIVWpweUx5WlVDTUxscTBhbFdMNGFQMnUxeHVzYmFWMlAxWnhOdkNodVp6YXo5OUxkd1FVc05nZTNEekFpUVdUTGg0TWd4OC1SMEFHNDlERlpVREE?oc=5\" target=\"_blank\">Appeals court increases ex-interior minister's sentence to 9 years over martial law involvement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdnRsZmZUVEZxckNaQUJVS2E0RE5GalkyM0VHWFlrMElacl9IWVlDMW1zUWJCeWRNNzVJRUxudVNBQnFDcEE0NVhKUTQ3bC1LbE9qdk9tNC1DREFTZzdWWmpoMVlySnlNZnp5WHNLUFVQc29Ock9iSEdOb0FDdEFLV3ltOE1KMnJrVWtPTWNLOEZRd2pLQWlYYUp5MmI4T3VzSnVlaUdmRHdFRmdFYTE5aldLNlF4V3FhZFJ3WWx3STU3Sm1OQ0JKS0ItVmtuVEQzSjBKMUpnaGhzLUtqNWRoOHRSYzJjNGc40gHuAUFVX3lxTFBXSHZUMFA0d3pSV2lYZVE4UGEzOWp5VkpzaUlwUUZNMjg2SG1ieDIxVHlPNkNJNlY4V2xobk9kTFRISklqY19lUjRuWEhUUVl5azgxeDVsMk5oRW1vYWJQVEkycWxuc0tlLWxPU2I4VkZCbF9IME40UFhHOGwydk9SUjRVUUNqelRWTThCbjVkVmxEaEp0SnB5TTRIVWpweUx5WlVDTUxscTBhbFdMNGFQMnUxeHVzYmFWMlAxWnhOdkNodVp6YXo5OUxkd1FVc05nZTNEekFpUVdUTGg0TWd4OC1SMEFHNDlERlpVREE?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-05-12",
+          "views": "18.0K"
+        },
         {
           "title": "BIS urges targeted fiscal policy to curb inflationary risks, Nikkei says - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWjk2Z0F1N0lRaFpRaE1qYUdiYlpad3BWbDA0R0huZzFUUEhYaVdtbU5XTkRmWnk3emV1X0hLb0czUlpzWmY3UWFDOWxtMXZXTEtvM2lYYnkzLVRqRFktSGJ6WHlmcU04ZW91NE9vSHRMa3RicllnVk5DX1NMWUxTeEdVQVE3aUNsR0dhVjNERGRDM3VnMjh5SGdhdDhqMUZXVWFFb0V3Q3ZrTnhwMFQ4Vm1QMUVRcXVlaTRZOUNYYVZ5WHFRaVpwU0ZETFh4LTI5N0lOM1BSTDgtTWpO?oc=5\" target=\"_blank\">BIS urges targeted fiscal policy to curb inflationary risks, Nikkei says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
@@ -125,14 +133,6 @@
           "source": "TechCrunch AI",
           "publishedAt": "2026-05-07",
           "views": "18.0K"
-        },
-        {
-          "title": "Lee urges proactive fiscal policy to boost people's livelihoods - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOQlNJR2VOTjJzM2dVRFFKdEI3bE5QeXZDdndWS2RDUTFWMFVaNmQ4ZWMzeE1VWnh3V0tUTnd0dXVQZk5xbnVmRTdKR0ZlRnpLZS16dU1GVS1JRzRYOVpyVHp6Ty1sSEd6ZFUtc2E0TTFPcjNaU0FWN3R5d3d3OUhoV3BZR2Vqdi1rTG1VSldrVC1EamhjTlI1enpwTDRKcE1SV1ZLeU1VOVl5QnpMZFhaTDlidVhSUGNtWHZSUtIBwgFBVV95cUxPUDZpQ2NaVk9xd19kTDlVdjRMa25OMGM5cTFxSXRROGtiaHc3NlVDMG1wMEVqeWZ5TEVNV3lLVzJJYzVwYVM5Y05kOTZ5WVZTZmlGbm9wS0tlc3Q0eFI3TThYOW1JU3RKa1ZxZloyam5yZzlSeTEyV2hibS1OcXFYUVIyS1VodExjRmRWQnpocnF4OFhCOWNzd2xMZGhoZ2dfWU9jZXQydXU4akVwUjAxTnRERWFUakt4aC1USHQyR1FkQQ?oc=5\" target=\"_blank\">Lee urges proactive fiscal policy to boost people's livelihoods</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQlNJR2VOTjJzM2dVRFFKdEI3bE5QeXZDdndWS2RDUTFWMFVaNmQ4ZWMzeE1VWnh3V0tUTnd0dXVQZk5xbnVmRTdKR0ZlRnpLZS16dU1GVS1JRzRYOVpyVHp6Ty1sSEd6ZFUtc2E0TTFPcjNaU0FWN3R5d3d3OUhoV3BZR2Vqdi1rTG1VSldrVC1EamhjTlI1enpwTDRKcE1SV1ZLeU1VOVl5QnpMZFhaTDlidVhSUGNtWHZSUtIBwgFBVV95cUxPUDZpQ2NaVk9xd19kTDlVdjRMa25OMGM5cTFxSXRROGtiaHc3NlVDMG1wMEVqeWZ5TEVNV3lLVzJJYzVwYVM5Y05kOTZ5WVZTZmlGbm9wS0tlc3Q0eFI3TThYOW1JU3RKa1ZxZloyam5yZzlSeTEyV2hibS1OcXFYUVIyS1VodExjRmRWQnpocnF4OFhCOWNzd2xMZGhoZ2dfWU9jZXQydXU4akVwUjAxTnRERWFUakt4aC1USHQyR1FkQQ?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-05-12",
-          "views": "13.0K"
         }
       ]
     },
@@ -158,11 +158,11 @@
           "views": "18.0K"
         },
         {
-          "title": "Why Korea's state-run banks are no longer seen as dream jobs - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPX2MwNTJ0LWRSMkFDZzRWdXJEaDZrRkZ6b3BJM3BoRm9STlNPR3hMX0tWR0I4b2tjY0ZJamxmaE1NX0djdHNodGdnWVp5OEtrSEhEbHh0Z0hPOG5Cd0xTem4xTEt6ajJ2YzZkQlRWb1VwcUZJUVNRV3FKUWxfM2N6ZlBhX2VWQnRvbkFIUU4zNlc1UlVIUmFfRlpIWS1vQzVKZ0YtcnVGWnRLUHBOSk05d1N3WHRleGZNMTBnUzFaY9IBxAFBVV95cUxNZnRYVE5wcG1vUVhvbXlVREtmc3FIS3hid0FERTQ1YVVseXpiSXNqUW9hbE5oZ2xlSlhobG5Va3hVZFRmenlnT2NGaG5jS3lQeERlbTVwX2VnM1BaZjQtTjhlajFZUWJFTGFTZm9RUnd3U1hOUWpPRXNXOW9fNFVvSDVQVzhab1RsU1RKWWlsWUM4a2V5ME1KMU01MEUxQ09rOG9GS1UtbzNGTUNtTW5sQVdTdkx6ekVYZGg0aHNDRFNWa2lZ?oc=5\" target=\"_blank\">Why Korea's state-run banks are no longer seen as dream jobs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPX2MwNTJ0LWRSMkFDZzRWdXJEaDZrRkZ6b3BJM3BoRm9STlNPR3hMX0tWR0I4b2tjY0ZJamxmaE1NX0djdHNodGdnWVp5OEtrSEhEbHh0Z0hPOG5Cd0xTem4xTEt6ajJ2YzZkQlRWb1VwcUZJUVNRV3FKUWxfM2N6ZlBhX2VWQnRvbkFIUU4zNlc1UlVIUmFfRlpIWS1vQzVKZ0YtcnVGWnRLUHBOSk05d1N3WHRleGZNMTBnUzFaY9IBxAFBVV95cUxNZnRYVE5wcG1vUVhvbXlVREtmc3FIS3hid0FERTQ1YVVseXpiSXNqUW9hbE5oZ2xlSlhobG5Va3hVZFRmenlnT2NGaG5jS3lQeERlbTVwX2VnM1BaZjQtTjhlajFZUWJFTGFTZm9RUnd3U1hOUWpPRXNXOW9fNFVvSDVQVzhab1RsU1RKWWlsWUM4a2V5ME1KMU01MEUxQ09rOG9GS1UtbzNGTUNtTW5sQVdTdkx6ekVYZGg0aHNDRFNWa2lZ?oc=5",
+          "title": "Korean economy projected to expand 2.5% in 2026 on chips: KDI - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOUzFqM0g4VWEtaUltTTdqSHp4aElPS0NUbUQ1OUNid3pUQ0gxUjB5SGdjQ3QxcWEtWTFZamlNRlh6Q3hjaUJMUkNmcWFnVU41ekRUWnZHa0VlYnN2Ml8yTTlZMU1MdEtmVGFEUzR5b3NaejN0SnV2Wk1qVWhpdUlDMGp2V0l3b2J2REpqNXlIbUlZOUVQM0s4T2J5UGV5ZzhQVTlWbXZBY9IBrAFBVV95cUxNUllyeHVXS1VtbURwVm9IN1hBSXIwOXpHWE5DbEtRMGdZQ2ZjRnZXdS05VDcybjJobjZsRVZmWmUweUluNDF6U19rcllianA2SlFDVW1YOHhSTUU5Q1puT0dDOFBRWXZFdUwtakF6ZHBHOWZLU25VbjZTZEprWnZkVnJBQzhVYU51Yk90RDdkZDZfMVBWNW1SSEFpUHFwOTlCbVBHa2Q0OTJGREVB?oc=5\" target=\"_blank\">Korean economy projected to expand 2.5% in 2026 on chips: KDI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUzFqM0g4VWEtaUltTTdqSHp4aElPS0NUbUQ1OUNid3pUQ0gxUjB5SGdjQ3QxcWEtWTFZamlNRlh6Q3hjaUJMUkNmcWFnVU41ekRUWnZHa0VlYnN2Ml8yTTlZMU1MdEtmVGFEUzR5b3NaejN0SnV2Wk1qVWhpdUlDMGp2V0l3b2J2REpqNXlIbUlZOUVQM0s4T2J5UGV5ZzhQVTlWbXZBY9IBrAFBVV95cUxNUllyeHVXS1VtbURwVm9IN1hBSXIwOXpHWE5DbEtRMGdZQ2ZjRnZXdS05VDcybjJobjZsRVZmWmUweUluNDF6U19rcllianA2SlFDVW1YOHhSTUU5Q1puT0dDOFBRWXZFdUwtakF6ZHBHOWZLU25VbjZTZEprWnZkVnJBQzhVYU51Yk90RDdkZDZfMVBWNW1SSEFpUHFwOTlCbVBHa2Q0OTJGREVB?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-05-12",
+          "publishedAt": "2026-05-13",
           "views": "13.0K"
         }
       ]
@@ -173,27 +173,27 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
-          "title": "Experts say India can become key manufacturing, export hub for Korea amid global economic shift - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbFAzZnB3aXlLX3V2enZVaFp1Z1huMVBNbWJ1enZ4ZFRyX21wcXZ5UWFMY0U2TDBfRVNleDNTRE1BLUxhRzc3WEl4SU9teVR4Y3IxM0lUQTFIRXJKRmx4VjNoRlEyZXpadEJUWlRFZ2hjdy1PN040eS1wZjZYWUd5cFowRlpZWnNiZ1JLcTFwazByaXgyQjhJajg2M0J5bjF2RWprTkNaTE5RbHlUX0pjNXdFYy00TzhUNWR3ZlByUDFobHNtSGdrdkN5WjdPX1hfWnVUUVdXQnVKVUl2NHNoTNIB5gFBVV95cUxQdlI3LXNHdk8yT3ZTT3lBbFVnOEJXV0NrSTFZeXM2U0c0WXFXRm9fQ0V0cV9odDNiSXE4NExEMUJpUEN6LUZsNjA3akgyVEZuZjlyVUE2UjFEOFNsUGRJcy1DaFRsSWFBUWR2V2tBbjR0aDhyR1FRS1RLRnc3N0hhSDNzS052YTVvc1ZTNjFlemRMcUVXUnNBSm9hM1VkR0NaTTFVNkNkUW4xdXc0cTFieFJHcGdaRnJVZkZpYkRvaWlvVS1zNUtUcGQ2VkQxd2R1dmFtQUlGVEp1dUwtd25BZ1EtdU5odw?oc=5\" target=\"_blank\">Experts say India can become key manufacturing, export hub for Korea amid global economic shift</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbFAzZnB3aXlLX3V2enZVaFp1Z1huMVBNbWJ1enZ4ZFRyX21wcXZ5UWFMY0U2TDBfRVNleDNTRE1BLUxhRzc3WEl4SU9teVR4Y3IxM0lUQTFIRXJKRmx4VjNoRlEyZXpadEJUWlRFZ2hjdy1PN040eS1wZjZYWUd5cFowRlpZWnNiZ1JLcTFwazByaXgyQjhJajg2M0J5bjF2RWprTkNaTE5RbHlUX0pjNXdFYy00TzhUNWR3ZlByUDFobHNtSGdrdkN5WjdPX1hfWnVUUVdXQnVKVUl2NHNoTNIB5gFBVV95cUxQdlI3LXNHdk8yT3ZTT3lBbFVnOEJXV0NrSTFZeXM2U0c0WXFXRm9fQ0V0cV9odDNiSXE4NExEMUJpUEN6LUZsNjA3akgyVEZuZjlyVUE2UjFEOFNsUGRJcy1DaFRsSWFBUWR2V2tBbjR0aDhyR1FRS1RLRnc3N0hhSDNzS052YTVvc1ZTNjFlemRMcUVXUnNBSm9hM1VkR0NaTTFVNkNkUW4xdXc0cTFieFJHcGdaRnJVZkZpYkRvaWlvVS1zNUtUcGQ2VkQxd2R1dmFtQUlGVEp1dUwtd25BZ1EtdU5odw?oc=5",
+          "title": "Kwangwoon University seeks to expand industry-academia cooperation with Changzhou - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPci14eVVjbndUMkZLUlhFWkk2a2ZCVGRGUnVnU2VzSGdjdUNlbDk1VnBDVENCWWlsaGZXcTZJTzJQeElUVXIyQVE5aHNodVBkQXVEWkVsZ3JXNE9lOUpVb3hGNDQwVVAybFpaeVQ5OUlCbFEwaWE0akhnb1JSNDE1WFBURnItckRDeWxmX2tSOUZsX1lqMFlUQ0xIcDR5M05TNDhWdERzLTVjZDVTM3V6X1AyV25NS2RIMTBRb1NqUjRNdmdRTjdCUVg3bXJUVHl1Uk5J0gHYAUFVX3lxTE5YVVcxNVh1elRfRi1PdTNWd3ItbGQyNE1hUVFVTUl0b0JyTFpWRXZOVkxmUU1TSHJLdy13Z1dLRE1OQ0FVRmV5bi1UcmdVXzVDQTMySHl2OEdsZl9valVZZVN1cXFiNTdkMk1pekFsTGRFZTFyQ0RpbWQ1UHhZalh5N0RpcEoxY2JJS1ZzRzNVRGtDZ1EtY1hKRFRDNmZBSnNBeTZsWmtJNjdMR0MyRElvaHhfUGxCUkVLdFB4UFdoMU4wbVZfLUxmMDlrWUxvVzlWZXBhY0pFSA?oc=5\" target=\"_blank\">Kwangwoon University seeks to expand industry-academia cooperation with Changzhou</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPci14eVVjbndUMkZLUlhFWkk2a2ZCVGRGUnVnU2VzSGdjdUNlbDk1VnBDVENCWWlsaGZXcTZJTzJQeElUVXIyQVE5aHNodVBkQXVEWkVsZ3JXNE9lOUpVb3hGNDQwVVAybFpaeVQ5OUlCbFEwaWE0akhnb1JSNDE1WFBURnItckRDeWxmX2tSOUZsX1lqMFlUQ0xIcDR5M05TNDhWdERzLTVjZDVTM3V6X1AyV25NS2RIMTBRb1NqUjRNdmdRTjdCUVg3bXJUVHl1Uk5J0gHYAUFVX3lxTE5YVVcxNVh1elRfRi1PdTNWd3ItbGQyNE1hUVFVTUl0b0JyTFpWRXZOVkxmUU1TSHJLdy13Z1dLRE1OQ0FVRmV5bi1UcmdVXzVDQTMySHl2OEdsZl9valVZZVN1cXFiNTdkMk1pekFsTGRFZTFyQ0RpbWQ1UHhZalh5N0RpcEoxY2JJS1ZzRzNVRGtDZ1EtY1hKRFRDNmZBSnNBeTZsWmtJNjdMR0MyRElvaHhfUGxCUkVLdFB4UFdoMU4wbVZfLUxmMDlrWUxvVzlWZXBhY0pFSA?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-05-11",
+          "publishedAt": "2026-05-13",
           "views": "13.0K"
         },
         {
-          "title": "Robots for America Launches National Coalition to Advance U.S. Robotics Deployment Policy - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPZHlaN2VYMVhoZldHU2F6VFFKdUMwNm9sbmRzcThBRElmS2Mxem83YTAyOTBrdDk0WVVQOXI2cElIRlpnYzRvQjBxc25oS0tVMVVuYnlDMktwdjI1MFdhOU9QUDFuNXpYdEdmOFBZMEhtWDN1N0RienFyMDNoM0IyQnlWTGdvREg4UWZkaWRGdFZzLW1obF9WWVRzbUg3Zk9COThRSHZZZlVsdFZkVHhnQVZueVZhSkNOX0U4Uw?oc=5\" target=\"_blank\">Robots for America Launches National Coalition to Advance U.S. Robotics Deployment Policy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZHlaN2VYMVhoZldHU2F6VFFKdUMwNm9sbmRzcThBRElmS2Mxem83YTAyOTBrdDk0WVVQOXI2cElIRlpnYzRvQjBxc25oS0tVMVVuYnlDMktwdjI1MFdhOU9QUDFuNXpYdEdmOFBZMEhtWDN1N0RienFyMDNoM0IyQnlWTGdvREg4UWZkaWRGdFZzLW1obF9WWVRzbUg3Zk9COThRSHZZZlVsdFZkVHhnQVZueVZhSkNOX0U4Uw?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-05-11",
+          "title": "From rapper to pen company CEO: Kim Jin-pyo reveals surprising 2nd career - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQOVpVTVk0WWFLckx3ZHNqdUs2bWdSVjBkLUZZQ0NyTWdFWHZCVndZa2RxTnFnWVRJOHl5cUNiUUxGdmZnNG9PSnR3b0NyTW1URHlkVGFxWlhQazh5OVFjNDVoQm1PYXUyaVJ0am14c0J2RVJmQzl4TnR1Mk9LbHRicEFyY0UyU3g1eEZyMktEczdMMG1LM2FqVkF6NEZlTk1odF9POVpYZERNU3pWY2NkdjFqRC1WRDJzVU50OFp1OTJmRWNjY05Z0gHHAUFVX3lxTFA5WlVNWTRZYUtyTHdkc2p1SzZtZ1JWMGQtRllDQ3JNZ0VYdkJWd1lrZHFOcWdZVEk4eXlxQ2JRTEZ2Zmc0b09KdHdvQ3JNbVREeWRUYXFaWFBrOHk5UWM0NWhCbU9hdTJpUnRqbXhzQnZFUmZDOXhOdHUyT0tsdGJwQXJjRTJTeDV4RnIyS0RzN0wwbUszYWpWQXo0RmVOTWh0X085WlhkRE1TelZjY2R2MWpELVZEMnNVTnQ4WnU5MmZFY2NjTlk?oc=5\" target=\"_blank\">From rapper to pen company CEO: Kim Jin-pyo reveals surprising 2nd career</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOVpVTVk0WWFLckx3ZHNqdUs2bWdSVjBkLUZZQ0NyTWdFWHZCVndZa2RxTnFnWVRJOHl5cUNiUUxGdmZnNG9PSnR3b0NyTW1URHlkVGFxWlhQazh5OVFjNDVoQm1PYXUyaVJ0am14c0J2RVJmQzl4TnR1Mk9LbHRicEFyY0UyU3g1eEZyMktEczdMMG1LM2FqVkF6NEZlTk1odF9POVpYZERNU3pWY2NkdjFqRC1WRDJzVU50OFp1OTJmRWNjY05Z0gHHAUFVX3lxTFA5WlVNWTRZYUtyTHdkc2p1SzZtZ1JWMGQtRllDQ3JNZ0VYdkJWd1lrZHFOcWdZVEk4eXlxQ2JRTEZ2Zmc0b09KdHdvQ3JNbVREeWRUYXFaWFBrOHk5UWM0NWhCbU9hdTJpUnRqbXhzQnZFUmZDOXhOdHUyT0tsdGJwQXJjRTJTeDV4RnIyS0RzN0wwbUszYWpWQXo0RmVOTWh0X085WlhkRE1TelZjY2R2MWpELVZEMnNVTnQ4WnU5MmZFY2NjTlk?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-05-12",
           "views": "13.0K"
         },
         {
-          "title": "CUDA Proves Nvidia Is a Software Company - WIRED",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE9TTGo2OXAyTVBtNjd6QkVrZzBwRnJsN3c0dFZ5a2Q2Sk95TXlEOXZnaElTZFBUV2ZQRzlxTVhxQWFKUVpOQU1EbV9HcnIyU2xrZGRZS3JUbDZuNnJwVzZiVmg4Y1BVMzExUl9BWVQzOXNPeHhFN0xhTg?oc=5\" target=\"_blank\">CUDA Proves Nvidia Is a Software Company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TTGo2OXAyTVBtNjd6QkVrZzBwRnJsN3c0dFZ5a2Q2Sk95TXlEOXZnaElTZFBUV2ZQRzlxTVhxQWFKUVpOQU1EbV9HcnIyU2xrZGRZS3JUbDZuNnJwVzZiVmg4Y1BVMzExUl9BWVQzOXNPeHhFN0xhTg?oc=5",
-          "source": "WIRED AI",
-          "publishedAt": "2026-05-11",
+          "title": "Tourism job fair aims to ease labor shortage in Korea's travel industry - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVmF3RzExSnFtdkVPV0swb0lZVm9BVGdId2dRU1lVclBfT1pOT1haSmtJZGs3aVVUWlV5d0hXRHNYR2tNRWVfVkd3Qmh6Z2tfZXE5YldtbWJHeFhJalkzSzcxSngxZFFKa25mNU5hUnZNRHctWkpBbkVvZUNheEk0Q0JCaGV1WDNhNGZieXVOVU0tQlRydEZDQnhSZ1JaamttbXFUV3VRbEpoa05JYTZpVGZpUHpuSGlFQVNZ0gHAAUFVX3lxTFBmNk5RcGpITnNwczBEY09KeU1FWlFJZm9rN2c5eGFJbGZucjY5TTlHU2p6aXJwU2lVWkp1ZnVKY0pvcWxXMG10cU1VMFFMb3JXMktLbV9TYXJ4anFqRzVkbkV5R3U2MUl1NTg5RV8zOFJxQkZ5NkJsUldsenNuUzNtS1g5NWcwbVU0Z2t4Ym1ZUjJVbV93Y2E4bUQ2SkpBWUZxc3VNb2RZcjdKWmtQczRlYzlvVUZSc05lXzllZWVCQQ?oc=5\" target=\"_blank\">Tourism job fair aims to ease labor shortage in Korea's travel industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVmF3RzExSnFtdkVPV0swb0lZVm9BVGdId2dRU1lVclBfT1pOT1haSmtJZGs3aVVUWlV5d0hXRHNYR2tNRWVfVkd3Qmh6Z2tfZXE5YldtbWJHeFhJalkzSzcxSngxZFFKa25mNU5hUnZNRHctWkpBbkVvZUNheEk0Q0JCaGV1WDNhNGZieXVOVU0tQlRydEZDQnhSZ1JaamttbXFUV3VRbEpoa05JYTZpVGZpUHpuSGlFQVNZ0gHAAUFVX3lxTFBmNk5RcGpITnNwczBEY09KeU1FWlFJZm9rN2c5eGFJbGZucjY5TTlHU2p6aXJwU2lVWkp1ZnVKY0pvcWxXMG10cU1VMFFMb3JXMktLbV9TYXJ4anFqRzVkbkV5R3U2MUl1NTg5RV8zOFJxQkZ5NkJsUldsenNuUzNtS1g5NWcwbVU0Z2t4Ym1ZUjJVbV93Y2E4bUQ2SkpBWUZxc3VNb2RZcjdKWmtQczRlYzlvVUZSc05lXzllZWVCQQ?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-05-12",
           "views": "13.0K"
         }
       ]
