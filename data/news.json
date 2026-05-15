@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-14T04:11:07.233Z",
+  "lastUpdated": "2026-05-15T04:15:40.905Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,14 +49,6 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
-          "title": "RL orchestration: how a 7B model routes tasks across GPT-5, Claude, and Gemini - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSGRXUmp5Q2N2QktwUnF0Q0x6NGtsRjVPTWlFcmhfckw1OTNyR1hnbExmbFFZR3dGVjVzWTFlelFwMnhxQU1JR3RiUzlKRnN3RVE4RDBrejdFcExzVHdBSV9oTFNzSVJVb0huSE5nVHhqb09aZVd0YnNXdWtndFA2M3ExcEdYdm9ocFZJWTBnb1p3Ml9RYm9TNkhWVFV4MF9nR1FYSWdYb0tXSDVnckpmZUlIS203VV96MGtrZkxvMl8?oc=5\" target=\"_blank\">RL orchestration: how a 7B model routes tasks across GPT-5, Claude, and Gemini</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSGRXUmp5Q2N2QktwUnF0Q0x6NGtsRjVPTWlFcmhfckw1OTNyR1hnbExmbFFZR3dGVjVzWTFlelFwMnhxQU1JR3RiUzlKRnN3RVE4RDBrejdFcExzVHdBSV9oTFNzSVJVb0huSE5nVHhqb09aZVd0YnNXdWtndFA2M3ExcEdYdm9ocFZJWTBnb1p3Ml9RYm9TNkhWVFV4MF9nR1FYSWdYb0tXSDVnckpmZUlIS203VV96MGtrZkxvMl8?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-05-07",
-          "views": "28.0K"
-        },
-        {
           "title": "Cheong Wa Dae denies any ongoing review on 'public dividends' using excess tax revenue from chip boom - The Korea Times",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRDJFUG8zMy02ZmRnQzFONFpVTTRVd3dfX0tmR3FaTGhNd2JpdXMyR3NWS3BvaDVvRjI1cVlzNERIcENuVjd6T3p1V3MyaHVXUmVtNlREbmlkMFV1MVZWZWVRS29GWi0zdFl6d2QtMldIQ3lEeTkzaEs4R3ljaDM1MmZEd0dCUmxyaDRaLXJxMndRSDJseEpNSmdacXVpa1Q5MDdSNHpBV0RmX1VUZ3VJUWFWdmZ4bGwzNUVTaTZCaXk4dW5lNm00NEtzMW5TS1RPN1JELU9CQjlzd0c3SnI4WkNB0gHnAUFVX3lxTE9Fb2J3QmsyeWU3MENoTmhrSUhHc1A5em1Md2R5eHUzUlNVUVVtTFA5RDJGUkdacVBiUzNjU3Jya1NENUZzTXQ3aDN5MmZtWV9uQ3B3clE5NFhEeEtlZXRXc2pJbVRvRzladm43YWtVMGptUjlnVkdsUzRyeUl1eUxSNHBPd1NqdnR5V25FYmdtTWlnSHBPM0NjZk5GT2k2Qmd1UW0ydjhHdkZCX0U2dEZsTGJoaEhvdzNDLXV1ZkJYNTBaZFFsV0tuYVhMb2h3V3ppQUgtbmE0T0ZHZzM0NzFHYnJoTVZ6TQ?oc=5\" target=\"_blank\">Cheong Wa Dae denies any ongoing review on 'public dividends' using excess tax revenue from chip boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
           "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRDJFUG8zMy02ZmRnQzFONFpVTTRVd3dfX0tmR3FaTGhNd2JpdXMyR3NWS3BvaDVvRjI1cVlzNERIcENuVjd6T3p1V3MyaHVXUmVtNlREbmlkMFV1MVZWZWVRS29GWi0zdFl6d2QtMldIQ3lEeTkzaEs4R3ljaDM1MmZEd0dCUmxyaDRaLXJxMndRSDJseEpNSmdacXVpa1Q5MDdSNHpBV0RmX1VUZ3VJUWFWdmZ4bGwzNUVTaTZCaXk4dW5lNm00NEtzMW5TS1RPN1JELU9CQjlzd0c3SnI4WkNB0gHnAUFVX3lxTE9Fb2J3QmsyeWU3MENoTmhrSUhHc1A5em1Md2R5eHUzUlNVUVVtTFA5RDJGUkdacVBiUzNjU3Jya1NENUZzTXQ3aDN5MmZtWV9uQ3B3clE5NFhEeEtlZXRXc2pJbVRvRzladm43YWtVMGptUjlnVkdsUzRyeUl1eUxSNHBPd1NqdnR5V25FYmdtTWlnSHBPM0NjZk5GT2k2Qmd1UW0ydjhHdkZCX0U2dEZsTGJoaEhvdzNDLXV1ZkJYNTBaZFFsV0tuYVhMb2h3V3ppQUgtbmE0T0ZHZzM0NzFHYnJoTVZ6TQ?oc=5",
@@ -65,11 +57,19 @@
           "views": "18.0K"
         },
         {
-          "title": "KOSPI opens again at fresh high of above 7,900 on extended chip rally amid Iran deadlock - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOemNRVFNWQkN6SHowQWRudWpPWjhUckJMY2swMmZKNEs2YjkwcDZDWThwaXpHOVRKMlhBR2t5V2lXM2xEMXBfZzRHNDlIbFhKd1Z6X1ZFVVpfbVAya1RZZTNHREhCZ0l4Rlg5ckM0RWloalA3Qnh1TTgtWmdnck1NMTh2blB3cl9yVWZfZGpZbWROS21JRXZMSjZITEgzczJjRjRwT3ZYcGppanc3TTZWNEd3eW1UMlJ0SEgteGI5RUZ4RkZxSFJXY2JXN3VzQU1ETC1B0gHTAUFVX3lxTE56Y1FUU1ZCQ3pIejBBZG51ak9aOFRyQkxjazAyZko0SzZiOTBwNkNZOHBpekc5VEoyWEFHa3lXaVczbEQxcF9nNEc0OUhsWEp3VnpfVkVVWl9tUDJrVFllM0dESEJnSXhGWDlyQzRFaWhqUDdCeHVNOC1aZ2dyTU0xOHZuUHdyX3JVZl9kalltZE5LbUlFdkxKNkhMSDNzMmNGNHBPdlhwamlqdzdNNlY0R3d5bVQyUnRISC14YjlFRnhGRnFIUldjYlc3dXNBTURMLUE?oc=5\" target=\"_blank\">KOSPI opens again at fresh high of above 7,900 on extended chip rally amid Iran deadlock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOemNRVFNWQkN6SHowQWRudWpPWjhUckJMY2swMmZKNEs2YjkwcDZDWThwaXpHOVRKMlhBR2t5V2lXM2xEMXBfZzRHNDlIbFhKd1Z6X1ZFVVpfbVAya1RZZTNHREhCZ0l4Rlg5ckM0RWloalA3Qnh1TTgtWmdnck1NMTh2blB3cl9yVWZfZGpZbWROS21JRXZMSjZITEgzczJjRjRwT3ZYcGppanc3TTZWNEd3eW1UMlJ0SEgteGI5RUZ4RkZxSFJXY2JXN3VzQU1ETC1B0gHTAUFVX3lxTE56Y1FUU1ZCQ3pIejBBZG51ak9aOFRyQkxjazAyZko0SzZiOTBwNkNZOHBpekc5VEoyWEFHa3lXaVczbEQxcF9nNEc0OUhsWEp3VnpfVkVVWl9tUDJrVFllM0dESEJnSXhGWDlyQzRFaWhqUDdCeHVNOC1aZ2dyTU0xOHZuUHdyX3JVZl9kalltZE5LbUlFdkxKNkhMSDNzMmNGNHBPdlhwamlqdzdNNlY0R3d5bVQyUnRISC14YjlFRnhGRnFIUldjYlc3dXNBTURMLUE?oc=5",
-          "source": "The Korea Times",
+          "title": "Anthropic expands Claude's AI tools for law firms, lawyers - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbHpGV0l6eTJkRDdzV0VtWnZ0bS1CZVh1dVFpREJJZlVvVmJXSFlKVmhmc2NBVmFXYUppOThVSDhjLVllMk5neFB3TElFTS1FX2ktLWN3Z2gyTkZhOWQyd3IzdGlsazd6Rkp1dDB4enBiTVRSalc5S0RqX1o3RjhlQnF0dkdNbXliVndaeURhVURHVXRwRzZCeVRwdkJ1eDVyejdzb0hDRGM?oc=5\" target=\"_blank\">Anthropic expands Claude's AI tools for law firms, lawyers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbHpGV0l6eTJkRDdzV0VtWnZ0bS1CZVh1dVFpREJJZlVvVmJXSFlKVmhmc2NBVmFXYUppOThVSDhjLVllMk5neFB3TElFTS1FX2ktLWN3Z2gyTkZhOWQyd3IzdGlsazd6Rkp1dDB4enBiTVRSalc5S0RqX1o3RjhlQnF0dkdNbXliVndaeURhVURHVXRwRzZCeVRwdkJ1eDVyejdzb0hDRGM?oc=5",
+          "source": "Reuters AI",
           "publishedAt": "2026-05-12",
+          "views": "18.0K"
+        },
+        {
+          "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc0tDeC01TDd2eklVb0p3SlRSamZzWkI0M2ZCTGFsdjVRck85aHFIVVN2VEQ4ZGU4N2pvbVFSMHFfRWNwa3BkakYwWW1NUDlSTk5zNHpMWldFTXlrUkdYalh0LXdMQ3lRbl83a0RTM28zNDlKWEZmZzBtb0dVNGpTTEdmRjdsUEtmbDdIRUVUekw5R3ZxVlhOWHhsZ1lLUFN6M1Uta3VoaFo5akpHUExwVmgyS1E1WTlWaWVn?oc=5\" target=\"_blank\">Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc0tDeC01TDd2eklVb0p3SlRSamZzWkI0M2ZCTGFsdjVRck85aHFIVVN2VEQ4ZGU4N2pvbVFSMHFfRWNwa3BkakYwWW1NUDlSTk5zNHpMWldFTXlrUkdYalh0LXdMQ3lRbl83a0RTM28zNDlKWEZmZzBtb0dVNGpTTEdmRjdsUEtmbDdIRUVUekw5R3ZxVlhOWHhsZ1lLUFN6M1Uta3VoaFo5akpHUExwVmgyS1E1WTlWaWVn?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-05-10",
           "views": "18.0K"
         }
       ]
@@ -79,6 +79,14 @@
       "hashtag": "#활용사례",
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
+        {
+          "title": "Enterprises are training their own AI models from production workflows — without a machine learning team - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdWtvOEUtWkdrWkFPQk1oVE1jUjJkc0poMHFaTEUyQ2kzSWtKbXA5eEhPZGhid013TGZvdDNRaTdKeU5MWXQzSmRlY0dSYl9hNENkWk0xYTVCVnJfT1d4cUJOMG1kOVdCaUNoM2RZYktxazc5T01iLWxaNlY3N0xmWFZJTnVGakVRN3NTSENlWDhkN3pqd04zX3c2TjFRRjB2dTZwNVE0dk0tRkxQcUJVWUstNXIzR1BY?oc=5\" target=\"_blank\">Enterprises are training their own AI models from production workflows — without a machine learning team</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdWtvOEUtWkdrWkFPQk1oVE1jUjJkc0poMHFaTEUyQ2kzSWtKbXA5eEhPZGhid013TGZvdDNRaTdKeU5MWXQzSmRlY0dSYl9hNENkWk0xYTVCVnJfT1d4cUJOMG1kOVdCaUNoM2RZYktxazc5T01iLWxaNlY3N0xmWFZJTnVGakVRN3NTSENlWDhkN3pqd04zX3c2TjFRRjB2dTZwNVE0dk0tRkxQcUJVWUstNXIzR1BY?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-05-14",
+          "views": "18.0K"
+        },
         {
           "title": "Laserfiche unveils AI agents for natural language workflows - AI News",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQLUhrX2h5QVZHdEk0cGh6ZUtTNUVIMmRHVV9EVUtyZi1vUWlMN0wtb1BoeEtDWGdWYWU2YnVxUHI2UURTcTduZndNdFJwc0pERjRlMjIyQ0pQZlZ2ZGZKUWdKaTgyMldkVUNSa2tpZWhIZWdjNGVFLWVYMFBlblROdm5sd1VkWjd4TkNackRCbk93dUxKSHEwMmtwZ2RWSGdHZ3RKaWNxelZQVmk3S2F1LQ?oc=5\" target=\"_blank\">Laserfiche unveils AI agents for natural language workflows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI News</font>",
@@ -94,14 +102,6 @@
           "source": "VentureBeat AI",
           "publishedAt": "2026-05-11",
           "views": "18.0K"
-        },
-        {
-          "title": "Bain sees US$100 billion SaaS market in agentic AI automation - AI News",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOZjhCc01KSklWVVRYUS1QVzN1S0JPaUlnNEU0UDNtb2xhWjhIVTFZYlNleVk1S1hvNjFZQ2pQc2lHbFZ1c3lIQ1NCYzh3NlpMQ052Qkl2a3ZocXZUano5dm13ZHVBYkk0SkNzcHVVZ2FhdmZZT1RCMWpoWk8wYS0zMzJWUQ?oc=5\" target=\"_blank\">Bain sees US$100 billion SaaS market in agentic AI automation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI News</font>",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZjhCc01KSklWVVRYUS1QVzN1S0JPaUlnNEU0UDNtb2xhWjhIVTFZYlNleVk1S1hvNjFZQ2pQc2lHbFZ1c3lIQ1NCYzh3NlpMQ052Qkl2a3ZocXZUano5dm13ZHVBYkk0SkNzcHVVZ2FhdmZZT1RCMWpoWk8wYS0zMzJWUQ?oc=5",
-          "source": "AI News",
-          "publishedAt": "2026-05-11",
-          "views": "18.0K"
         }
       ]
     },
@@ -110,6 +110,14 @@
       "hashtag": "#윤리",
       "description": "규제, 책임, 신뢰, 저작권 같은 문제를 보는 관점",
       "items": [
+        {
+          "title": "Sejong University team selected for webtoon copyright protection project - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQOXliajB2SjFGOWpXSFFuZmhtaXZJdjJvUGFYcDBsU1ZUOU03dnpZbzZBTm1PSlVLOFNUTGdtaWJONFVpZXpuYVpTLTZyVW5odzlORjBqR3BMb3hZejFUWWZuaGhBNHJRNTlaWTRka3lqdy1lTU1lb2NFeHJndWhjX0ZtbHdzaldMOUs2UjJMY3hyQld2anVsNmU2ekExZ3pyby1aYmVjcXVjdW9tTWZUUWpYZXItaU1kWW9kbE45MFRrUHdQTFdubmc5X0_SAcwBQVVfeXFMUDl5YmowdkoxRjlqV0hRbmZobWl2SXYyb1BhWHAwbFNWVDlNN3Z6WW82QU5tT0pVSzhTVExnbWliTjRVaWV6bmFaUy02clVuaHc5TkYwakdwTG94WXoxVFlmbmhoQTRyUTU5Wlk0ZGt5anctZU1NZW9jRXhyZ3VoY19GbWx3c2pXTDlLNlIyTGN4ckJXdmp1bDZlNnpBMWd6cm8tWmJlY3F1Y3VvbU1mVFFqWGVyLWlNZFlvZGxOOTBUa1B3UExXbm5nOV9P?oc=5\" target=\"_blank\">Sejong University team selected for webtoon copyright protection project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOXliajB2SjFGOWpXSFFuZmhtaXZJdjJvUGFYcDBsU1ZUOU03dnpZbzZBTm1PSlVLOFNUTGdtaWJONFVpZXpuYVpTLTZyVW5odzlORjBqR3BMb3hZejFUWWZuaGhBNHJRNTlaWTRka3lqdy1lTU1lb2NFeHJndWhjX0ZtbHdzaldMOUs2UjJMY3hyQld2anVsNmU2ekExZ3pyby1aYmVjcXVjdW9tTWZUUWpYZXItaU1kWW9kbE45MFRrUHdQTFdubmc5X0_SAcwBQVVfeXFMUDl5YmowdkoxRjlqV0hRbmZobWl2SXYyb1BhWHAwbFNWVDlNN3Z6WW82QU5tT0pVSzhTVExnbWliTjRVaWV6bmFaUy02clVuaHc5TkYwakdwTG94WXoxVFlmbmhoQTRyUTU5Wlk0ZGt5anctZU1NZW9jRXhyZ3VoY19GbWx3c2pXTDlLNlIyTGN4ckJXdmp1bDZlNnpBMWd6cm8tWmJlY3F1Y3VvbU1mVFFqWGVyLWlNZFlvZGxOOTBUa1B3UExXbm5nOV9P?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-05-15",
+          "views": "18.0K"
+        },
         {
           "title": "Appeals court increases ex-interior minister's sentence to 9 years over martial law involvement - The Korea Times",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdnRsZmZUVEZxckNaQUJVS2E0RE5GalkyM0VHWFlrMElacl9IWVlDMW1zUWJCeWRNNzVJRUxudVNBQnFDcEE0NVhKUTQ3bC1LbE9qdk9tNC1DREFTZzdWWmpoMVlySnlNZnp5WHNLUFVQc29Ock9iSEdOb0FDdEFLV3ltOE1KMnJrVWtPTWNLOEZRd2pLQWlYYUp5MmI4T3VzSnVlaUdmRHdFRmdFYTE5aldLNlF4V3FhZFJ3WWx3STU3Sm1OQ0JKS0ItVmtuVEQzSjBKMUpnaGhzLUtqNWRoOHRSYzJjNGc40gHuAUFVX3lxTFBXSHZUMFA0d3pSV2lYZVE4UGEzOWp5VkpzaUlwUUZNMjg2SG1ieDIxVHlPNkNJNlY4V2xobk9kTFRISklqY19lUjRuWEhUUVl5azgxeDVsMk5oRW1vYWJQVEkycWxuc0tlLWxPU2I4VkZCbF9IME40UFhHOGwydk9SUjRVUUNqelRWTThCbjVkVmxEaEp0SnB5TTRIVWpweUx5WlVDTUxscTBhbFdMNGFQMnUxeHVzYmFWMlAxWnhOdkNodVp6YXo5OUxkd1FVc05nZTNEekFpUVdUTGg0TWd4OC1SMEFHNDlERlpVREE?oc=5\" target=\"_blank\">Appeals court increases ex-interior minister's sentence to 9 years over martial law involvement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
@@ -124,14 +132,6 @@
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWjk2Z0F1N0lRaFpRaE1qYUdiYlpad3BWbDA0R0huZzFUUEhYaVdtbU5XTkRmWnk3emV1X0hLb0czUlpzWmY3UWFDOWxtMXZXTEtvM2lYYnkzLVRqRFktSGJ6WHlmcU04ZW91NE9vSHRMa3RicllnVk5DX1NMWUxTeEdVQVE3aUNsR0dhVjNERGRDM3VnMjh5SGdhdDhqMUZXVWFFb0V3Q3ZrTnhwMFQ4Vm1QMUVRcXVlaTRZOUNYYVZ5WHFRaVpwU0ZETFh4LTI5N0lOM1BSTDgtTWpO?oc=5",
           "source": "Reuters AI",
           "publishedAt": "2026-05-11",
-          "views": "18.0K"
-        },
-        {
-          "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope - TechCrunch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRjFkeVRoSVYyWWtsZUYxWlA0Tm9tX09Da3F3djU2ekVmZGU0SzFjM2wxQzUzM0loT0xUNEs0akt0V0ZHbFdJMkxRU2xtckxodFFqV3QwTW1LMFA1aV9TS3J5OG41eXp3MndGbTdfY3NPdUo4UmE3RjJpRmNtRHBZRkIwUVlPdEQzNHB6ZkR3MUF4dnotYlhtOEtTMmdralpvSmt6c1Qzb2RwSjQ?oc=5\" target=\"_blank\">Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRjFkeVRoSVYyWWtsZUYxWlA0Tm9tX09Da3F3djU2ekVmZGU0SzFjM2wxQzUzM0loT0xUNEs0akt0V0ZHbFdJMkxRU2xtckxodFFqV3QwTW1LMFA1aV9TS3J5OG41eXp3MndGbTdfY3NPdUo4UmE3RjJpRmNtRHBZRkIwUVlPdEQzNHB6ZkR3MUF4dnotYlhtOEtTMmdralpvSmt6c1Qzb2RwSjQ?oc=5",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-05-07",
           "views": "18.0K"
         }
       ]
@@ -150,18 +150,18 @@
           "views": "18.0K"
         },
         {
-          "title": "Stock market investment gains still being funneled into real estate: BOK report - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOX3JYdjVNTDdPTmxiQ0FXVWZIbVBaY1lWY3N3YmliRFVteGZFbzFoSV9NQWZ5SkJkVjdoT0NvSE1TMnMydzFRcVNYT0Y5bFNUWlhPaHpxSUN5R2dHcTV3ZjJ3QTd0Mk9IX21MaTBYSGlxUm5ZZWpXaUp0SzBqV1VoendZRHlpU3AxUlppMnNYejE5ZEdRdWYtOEhaUWlYQ1RQY0QxRFVoOUtockI1bzJEbWpDRVZBSXdqbG5SZVVmcU15ZVQ5SVZsdTZjY9IB0AFBVV95cUxNUlpDVng2WVJpZ2hwQnBRcnpzVVE2ZlpjaXl1WF92aTVyclg4OHNIdV9oYkc1eWdhTEVkeWZRN1B5Tk5sanl5ZWZIN29GVUJYTkNSRzhfeVZLdUUwYmU2ZWh5eGYzWm1pRC1ncVJPamtCdFlNQ09KMFBONnRvNVVuZDFGT1QxTjdyV0dwbkIwa0ZFWUo1Q3JQVkdVdnRVUTM5UURGaTJST0toWGthQUljOXhacmhVbk0wTlBZejNEUG1HbDdRWFIxZEUwaVZEVDlu?oc=5\" target=\"_blank\">Stock market investment gains still being funneled into real estate: BOK report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOX3JYdjVNTDdPTmxiQ0FXVWZIbVBaY1lWY3N3YmliRFVteGZFbzFoSV9NQWZ5SkJkVjdoT0NvSE1TMnMydzFRcVNYT0Y5bFNUWlhPaHpxSUN5R2dHcTV3ZjJ3QTd0Mk9IX21MaTBYSGlxUm5ZZWpXaUp0SzBqV1VoendZRHlpU3AxUlppMnNYejE5ZEdRdWYtOEhaUWlYQ1RQY0QxRFVoOUtockI1bzJEbWpDRVZBSXdqbG5SZVVmcU15ZVQ5SVZsdTZjY9IB0AFBVV95cUxNUlpDVng2WVJpZ2hwQnBRcnpzVVE2ZlpjaXl1WF92aTVyclg4OHNIdV9oYkc1eWdhTEVkeWZRN1B5Tk5sanl5ZWZIN29GVUJYTkNSRzhfeVZLdUUwYmU2ZWh5eGYzWm1pRC1ncVJPamtCdFlNQ09KMFBONnRvNVVuZDFGT1QxTjdyV0dwbkIwa0ZFWUo1Q3JQVkdVdnRVUTM5UURGaTJST0toWGthQUljOXhacmhVbk0wTlBZejNEUG1HbDdRWFIxZEUwaVZEVDlu?oc=5",
+          "title": "KTO selects 30 startups for open innovation program - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdzFkTHdWRkZZMFVrcVlFRFRoVnREQmQ2MjdNSDZBaGJIcDBiWHhlMkFHbHlkd29YZDlQR0JoS3g3bmZEVnNXZTdIeF9xbWoxQ0NveDJvNXlJeXdGUlVLaUZwOFpWUEpDR0lMNGtGTk9QbjBZSnpqZVByN2pNRldDaVlsMFVoTFQxT0ZyQVZOaHAzc1phbjNHQUJvRm5kYzNmeGwxSXE1RG9sdlFJQmU2b0luVFF4WEd20gG4AUFVX3lxTE13MWRMd1ZGRlkwVWtxWUVEVGhWdERCZDYyN01INkFoYkhwMGJYeGUyQUdseWR3b1hkOVBHQmhLeDduZkRWc1dlN0h4X3FtajFDQ294Mm81eUl5d0ZSVUtpRnA4WlZQSkNHSUw0a0ZOT1BuMFlKemplUHI3ak1GV0NpWWwwVWhMVDFPRnJBVk5ocDNzWmFuM0dBQm9GbmRjM2Z4bDFJcTVEb2x2UUlCZTZvSW5UUXhYR3Y?oc=5\" target=\"_blank\">KTO selects 30 startups for open innovation program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdzFkTHdWRkZZMFVrcVlFRFRoVnREQmQ2MjdNSDZBaGJIcDBiWHhlMkFHbHlkd29YZDlQR0JoS3g3bmZEVnNXZTdIeF9xbWoxQ0NveDJvNXlJeXdGUlVLaUZwOFpWUEpDR0lMNGtGTk9QbjBZSnpqZVByN2pNRldDaVlsMFVoTFQxT0ZyQVZOaHAzc1phbjNHQUJvRm5kYzNmeGwxSXE1RG9sdlFJQmU2b0luVFF4WEd20gG4AUFVX3lxTE13MWRMd1ZGRlkwVWtxWUVEVGhWdERCZDYyN01INkFoYkhwMGJYeGUyQUdseWR3b1hkOVBHQmhLeDduZkRWc1dlN0h4X3FtajFDQ294Mm81eUl5d0ZSVUtpRnA4WlZQSkNHSUw0a0ZOT1BuMFlKemplUHI3ak1GV0NpWWwwVWhMVDFPRnJBVk5ocDNzWmFuM0dBQm9GbmRjM2Z4bDFJcTVEb2x2UUlCZTZvSW5UUXhYR3Y?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-05-07",
-          "views": "18.0K"
+          "publishedAt": "2026-05-15",
+          "views": "13.0K"
         },
         {
-          "title": "AI boom puts SK Hynix on the cusp $1 trillion market value - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeURJY1NBWmQxU1FxbHluOFhnTDY5SlgwUnh1bmZaRDVmMU5DT2pXNV9qLTFIUHFCOWt3X2JsZHBxdF9MZ0FSYWZXMGhOdGNmeHBQdGVEQl9LeHVqVlEwV1FqOUNtOV9KRW5Gd2E3QWFKRWJkNVYtRHRFQUxtcHpEUDJOdDNhYXJnaURVZ3F3c2lHWG5HeS1UTkxtbEdFa1c3dmt6SHJjR0M?oc=5\" target=\"_blank\">AI boom puts SK Hynix on the cusp $1 trillion market value</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeURJY1NBWmQxU1FxbHluOFhnTDY5SlgwUnh1bmZaRDVmMU5DT2pXNV9qLTFIUHFCOWt3X2JsZHBxdF9MZ0FSYWZXMGhOdGNmeHBQdGVEQl9LeHVqVlEwV1FqOUNtOV9KRW5Gd2E3QWFKRWJkNVYtRHRFQUxtcHpEUDJOdDNhYXJnaURVZ3F3c2lHWG5HeS1UTkxtbEdFa1c3dmt6SHJjR0M?oc=5",
-          "source": "Reuters AI",
+          "title": "Topic: moran market - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yZVhEQnFDMTRZNWgtTDRhTklVM3dnSk1FWUdKMDdEc0xYYks1cFZtdXl5ZG8zMDh0cmdNUzlrLVo3ejRUVFhDRjdaQTJseGVHMV9iRk9qZjBaQmh6el9zUW5n?oc=5\" target=\"_blank\">Topic: moran market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yZVhEQnFDMTRZNWgtTDRhTklVM3dnSk1FWUdKMDdEc0xYYks1cFZtdXl5ZG8zMDh0cmdNUzlrLVo3ejRUVFhDRjdaQTJseGVHMV9iRk9qZjBaQmh6el9zUW5n?oc=5",
+          "source": "The Korea Times",
           "publishedAt": "2026-05-14",
           "views": "13.0K"
         }
@@ -181,19 +181,19 @@
           "views": "18.0K"
         },
         {
-          "title": "Kwangwoon University seeks to expand industry-academia cooperation with Changzhou - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZDlneHMyRldleTFBYzhhSUJCNXo4WDZrYTVvREVwWjRsTzBjR0JERHBvbTllVWF3bTd4T2JzdlZpaVBpbW0zd3A4a092T3Nka2NQLWVxc1ZCenlwWHhYVEZxWGptUjVrVkVTMk9rak1QdkI3SFNMeUNWVHdhYTVpdGM1NUJDb2F4NUtHenNRbXk5alhIeVMxUW1ocVJGNXhYT0steFVvRmVRbDRQSnFnenVzNEhpTU4yVWpwTHUwUGxHWEFlRGx2eWJVUGFXQXpUZlVYaFVKNGhuSGkzeFHSAdgBQVVfeXFMTlhVVzE1WHV6VF9GLU91M1Z3ci1sZDI0TWFRUVVNSXRvQnJMWlZFdk5WTGZRTVNIckt3LXdnV0tETU5DQVVGZXluLVRyZ1VfNUNBMzJIeXY4R2xmX29qVVllU3VxcWI1N2QyTWl6QWxMZEVlMXJDRGltZDVQeFlqWHk3RGlwSjFjYklLVnNHM1VEa0NnUS1jWEpEVEM2ZkFKc0F5Nmxaa0k2N0xHQzJESW9oeF9QbEJSRUt0UHhQV2gxTjBtVl8tTGYwOWtZTG9XOVZlcGFjSkVI?oc=5\" target=\"_blank\">Kwangwoon University seeks to expand industry-academia cooperation with Changzhou</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZDlneHMyRldleTFBYzhhSUJCNXo4WDZrYTVvREVwWjRsTzBjR0JERHBvbTllVWF3bTd4T2JzdlZpaVBpbW0zd3A4a092T3Nka2NQLWVxc1ZCenlwWHhYVEZxWGptUjVrVkVTMk9rak1QdkI3SFNMeUNWVHdhYTVpdGM1NUJDb2F4NUtHenNRbXk5alhIeVMxUW1ocVJGNXhYT0steFVvRmVRbDRQSnFnenVzNEhpTU4yVWpwTHUwUGxHWEFlRGx2eWJVUGFXQXpUZlVYaFVKNGhuSGkzeFHSAdgBQVVfeXFMTlhVVzE1WHV6VF9GLU91M1Z3ci1sZDI0TWFRUVVNSXRvQnJMWlZFdk5WTGZRTVNIckt3LXdnV0tETU5DQVVGZXluLVRyZ1VfNUNBMzJIeXY4R2xmX29qVVllU3VxcWI1N2QyTWl6QWxMZEVlMXJDRGltZDVQeFlqWHk3RGlwSjFjYklLVnNHM1VEa0NnUS1jWEpEVEM2ZkFKc0F5Nmxaa0k2N0xHQzJESW9oeF9QbEJSRUt0UHhQV2gxTjBtVl8tTGYwOWtZTG9XOVZlcGFjSkVI?oc=5",
+          "title": "SK Telecom teams up with defense ministry on military AI - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQY1dYOFZkUW1CUG9CVTNHWWJDaEVlQUNkYlMzUVBSN0RRM1MzSGVrRUlXOE9ZMkcxejlOczY4SE13NTJIQWg5WkpqM08xTlRzQ0x3ZzkxLWx2WlhBNVN1X3ExclkzWVpXQkZvWmxkMVV5THlTQjdGRjhkZkhqczFMYnBYSC16QWhISjlSbXFxcmlKTHBVM2RVaERoYTg4ZHl2QW1DSnpKQ3luVWg1RTU5UGhwMFQyX3lpQWFJRNIBvAFBVV95cUxQY1dYOFZkUW1CUG9CVTNHWWJDaEVlQUNkYlMzUVBSN0RRM1MzSGVrRUlXOE9ZMkcxejlOczY4SE13NTJIQWg5WkpqM08xTlRzQ0x3ZzkxLWx2WlhBNVN1X3ExclkzWVpXQkZvWmxkMVV5THlTQjdGRjhkZkhqczFMYnBYSC16QWhISjlSbXFxcmlKTHBVM2RVaERoYTg4ZHl2QW1DSnpKQ3luVWg1RTU5UGhwMFQyX3lpQWFJRA?oc=5\" target=\"_blank\">SK Telecom teams up with defense ministry on military AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY1dYOFZkUW1CUG9CVTNHWWJDaEVlQUNkYlMzUVBSN0RRM1MzSGVrRUlXOE9ZMkcxejlOczY4SE13NTJIQWg5WkpqM08xTlRzQ0x3ZzkxLWx2WlhBNVN1X3ExclkzWVpXQkZvWmxkMVV5THlTQjdGRjhkZkhqczFMYnBYSC16QWhISjlSbXFxcmlKTHBVM2RVaERoYTg4ZHl2QW1DSnpKQ3luVWg1RTU5UGhwMFQyX3lpQWFJRNIBvAFBVV95cUxQY1dYOFZkUW1CUG9CVTNHWWJDaEVlQUNkYlMzUVBSN0RRM1MzSGVrRUlXOE9ZMkcxejlOczY4SE13NTJIQWg5WkpqM08xTlRzQ0x3ZzkxLWx2WlhBNVN1X3ExclkzWVpXQkZvWmxkMVV5THlTQjdGRjhkZkhqczFMYnBYSC16QWhISjlSbXFxcmlKTHBVM2RVaERoYTg4ZHl2QW1DSnpKQ3luVWg1RTU5UGhwMFQyX3lpQWFJRA?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-05-13",
+          "publishedAt": "2026-05-14",
           "views": "13.0K"
         },
         {
-          "title": "Why Korea and Europe are ideal partners in defense industry - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFluRFMzZklVcDhXWnFILXVpMnhVUGlkMzltTE41cHJTV0dBeFBUemNGak1pREFkV01zcEFQYXhwcDZvM2s5SDRxa1FBRElieVRka2FDNVI5QXJjN3lMSGRJWnpIZjdQbU9Jek9OcmEzNm5TaG1DNFo3cHR4R2hGbm5XdFpHeGwwQi1fSHpiS0o2LTNsQTEyUmxyc3Z1R3FYaXJCNUhfUkpLQW5BQkHSAa4BQVVfeXFMT1hZbkRTM2ZJVXA4V1pxSC11aTJ4VVBpZDM5bUxONXByU1dHQXhQVHpjRmpNaURBZFdNc3BBUGF4cHA2bzNrOUg0cWtRQURJYnlUZGthQzVSOUFyYzd5TEhkSVp6SGY3UG1PSXpPTnJhMzZuU2htQzRaN3B0eEdoRm5uV3RaR3hsMEItX0h6YktKNi0zbEExMlJscnN2dUdxWGlyQjVIX1JKS0FuQUJB?oc=5\" target=\"_blank\">Why Korea and Europe are ideal partners in defense industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFluRFMzZklVcDhXWnFILXVpMnhVUGlkMzltTE41cHJTV0dBeFBUemNGak1pREFkV01zcEFQYXhwcDZvM2s5SDRxa1FBRElieVRka2FDNVI5QXJjN3lMSGRJWnpIZjdQbU9Jek9OcmEzNm5TaG1DNFo3cHR4R2hGbm5XdFpHeGwwQi1fSHpiS0o2LTNsQTEyUmxyc3Z1R3FYaXJCNUhfUkpLQW5BQkHSAa4BQVVfeXFMT1hZbkRTM2ZJVXA4V1pxSC11aTJ4VVBpZDM5bUxONXByU1dHQXhQVHpjRmpNaURBZFdNc3BBUGF4cHA2bzNrOUg0cWtRQURJYnlUZGthQzVSOUFyYzd5TEhkSVp6SGY3UG1PSXpPTnJhMzZuU2htQzRaN3B0eEdoRm5uV3RaR3hsMEItX0h6YktKNi0zbEExMlJscnN2dUdxWGlyQjVIX1JKS0FuQUJB?oc=5",
+          "title": "Industry minister warns of emergency arbitration if Samsung unions launch strike - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPTF8tVy0zUWtEQ29qTWE0LXN0ZkU4NTQwTUJhMy15eDBkUEtES0JrVFdueGdyTFI4enY5czloNTg3OGM0X3J6TDU2Q3RJbnYtVGNWbGFTbmlNZkhnVWt1Q083WVo1X1pqWGR0Z3FJcjh1UnhFNi1zWnNGd0ZUWVZCLTJZMUxTeEstNGpaNHNOT3c5eHBSdkJqRlFJTmlycThqWVBZN0hVemFEc1ItLXFZaUhPM1lxUFAwZUtiVm5wWUFRd09rZnhsRkNfSdIBywFBVV95cUxPTF8tVy0zUWtEQ29qTWE0LXN0ZkU4NTQwTUJhMy15eDBkUEtES0JrVFdueGdyTFI4enY5czloNTg3OGM0X3J6TDU2Q3RJbnYtVGNWbGFTbmlNZkhnVWt1Q083WVo1X1pqWGR0Z3FJcjh1UnhFNi1zWnNGd0ZUWVZCLTJZMUxTeEstNGpaNHNOT3c5eHBSdkJqRlFJTmlycThqWVBZN0hVemFEc1ItLXFZaUhPM1lxUFAwZUtiVm5wWUFRd09rZnhsRkNfSQ?oc=5\" target=\"_blank\">Industry minister warns of emergency arbitration if Samsung unions launch strike</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTF8tVy0zUWtEQ29qTWE0LXN0ZkU4NTQwTUJhMy15eDBkUEtES0JrVFdueGdyTFI4enY5czloNTg3OGM0X3J6TDU2Q3RJbnYtVGNWbGFTbmlNZkhnVWt1Q083WVo1X1pqWGR0Z3FJcjh1UnhFNi1zWnNGd0ZUWVZCLTJZMUxTeEstNGpaNHNOT3c5eHBSdkJqRlFJTmlycThqWVBZN0hVemFEc1ItLXFZaUhPM1lxUFAwZUtiVm5wWUFRd09rZnhsRkNfSdIBywFBVV95cUxPTF8tVy0zUWtEQ29qTWE0LXN0ZkU4NTQwTUJhMy15eDBkUEtES0JrVFdueGdyTFI4enY5czloNTg3OGM0X3J6TDU2Q3RJbnYtVGNWbGFTbmlNZkhnVWt1Q083WVo1X1pqWGR0Z3FJcjh1UnhFNi1zWnNGd0ZUWVZCLTJZMUxTeEstNGpaNHNOT3c5eHBSdkJqRlFJTmlycThqWVBZN0hVemFEc1ItLXFZaUhPM1lxUFAwZUtiVm5wWUFRd09rZnhsRkNfSQ?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-05-13",
+          "publishedAt": "2026-05-14",
           "views": "13.0K"
         }
       ]
