@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-18T04:40:21.926Z",
+  "lastUpdated": "2026-05-19T04:32:29.460Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,6 +49,14 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
+          "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOeDdsNHpCOUw4eFZJOHF3TGxaRExiWWFsOWM0WTB0dTAtc2dLNDlYWEcxbENIeV9iLUh0MVpZaGgwcXJ2N21fZ21zakUtS3hWVFhOcG1NVUg5ZW1Yb3ZISWYwaWo4U1JnT2ZKczdKVzUxWml3cDRIVUF4dUV2aGtjdHUwR1Yyc09TUGlpWl9Yekh1LWpjbHl1ZDV5Z3JHZmRyNkdHYU50X1dib1dwVlA2eHhxaERtemc?oc=5\" target=\"_blank\">SandboxAQ brings its drug discovery models to Claude — no PhD in computing required</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeDdsNHpCOUw4eFZJOHF3TGxaRExiWWFsOWM0WTB0dTAtc2dLNDlYWEcxbENIeV9iLUh0MVpZaGgwcXJ2N21fZ21zakUtS3hWVFhOcG1NVUg5ZW1Yb3ZISWYwaWo4U1JnT2ZKczdKVzUxWml3cDRIVUF4dUV2aGtjdHUwR1Yyc09TUGlpWl9Yekh1LWpjbHl1ZDV5Z3JHZmRyNkdHYU50X1dib1dwVlA2eHhxaERtemc?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-05-18",
+          "views": "18.0K"
+        },
+        {
           "title": "Claude’s next enterprise battle is not models: it’s the agent control plane - VentureBeat",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPMWhRNmRxdEQ1b1NsZl9kanhnVlJBUG15ZWljamJQUGpOdFd5MC1MLVUtVzU5R1JWM2lxOXd4MEtRcVZiVnJGcjJHMkdHVHNZUy1KZ3hzYW1JNzFsUkRWYWM5RkNWNkxVR0tGX1d5T3ZPTWNkUnUtZGI4N2k1dmNvX3ltNmZjSmlvUWRFcmIyWHkzdkxKalNHU1RMb05pcWlXM3hhT2ZmbkN0a0pTajhF?oc=5\" target=\"_blank\">Claude’s next enterprise battle is not models: it’s the agent control plane</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMWhRNmRxdEQ1b1NsZl9kanhnVlJBUG15ZWljamJQUGpOdFd5MC1MLVUtVzU5R1JWM2lxOXd4MEtRcVZiVnJGcjJHMkdHVHNZUy1KZ3hzYW1JNzFsUkRWYWM5RkNWNkxVR0tGX1d5T3ZPTWNkUnUtZGI4N2k1dmNvX3ltNmZjSmlvUWRFcmIyWHkzdkxKalNHU1RMb05pcWlXM3hhT2ZmbkN0a0pTajhF?oc=5",
@@ -57,19 +65,11 @@
           "views": "18.0K"
         },
         {
-          "title": "Cheong Wa Dae denies any ongoing review on 'public dividends' using excess tax revenue from chip boom - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRDJFUG8zMy02ZmRnQzFONFpVTTRVd3dfX0tmR3FaTGhNd2JpdXMyR3NWS3BvaDVvRjI1cVlzNERIcENuVjd6T3p1V3MyaHVXUmVtNlREbmlkMFV1MVZWZWVRS29GWi0zdFl6d2QtMldIQ3lEeTkzaEs4R3ljaDM1MmZEd0dCUmxyaDRaLXJxMndRSDJseEpNSmdacXVpa1Q5MDdSNHpBV0RmX1VUZ3VJUWFWdmZ4bGwzNUVTaTZCaXk4dW5lNm00NEtzMW5TS1RPN1JELU9CQjlzd0c3SnI4WkNB0gHnAUFVX3lxTE9Fb2J3QmsyeWU3MENoTmhrSUhHc1A5em1Md2R5eHUzUlNVUVVtTFA5RDJGUkdacVBiUzNjU3Jya1NENUZzTXQ3aDN5MmZtWV9uQ3B3clE5NFhEeEtlZXRXc2pJbVRvRzladm43YWtVMGptUjlnVkdsUzRyeUl1eUxSNHBPd1NqdnR5V25FYmdtTWlnSHBPM0NjZk5GT2k2Qmd1UW0ydjhHdkZCX0U2dEZsTGJoaEhvdzNDLXV1ZkJYNTBaZFFsV0tuYVhMb2h3V3ppQUgtbmE0T0ZHZzM0NzFHYnJoTVZ6TQ?oc=5\" target=\"_blank\">Cheong Wa Dae denies any ongoing review on 'public dividends' using excess tax revenue from chip boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRDJFUG8zMy02ZmRnQzFONFpVTTRVd3dfX0tmR3FaTGhNd2JpdXMyR3NWS3BvaDVvRjI1cVlzNERIcENuVjd6T3p1V3MyaHVXUmVtNlREbmlkMFV1MVZWZWVRS29GWi0zdFl6d2QtMldIQ3lEeTkzaEs4R3ljaDM1MmZEd0dCUmxyaDRaLXJxMndRSDJseEpNSmdacXVpa1Q5MDdSNHpBV0RmX1VUZ3VJUWFWdmZ4bGwzNUVTaTZCaXk4dW5lNm00NEtzMW5TS1RPN1JELU9CQjlzd0c3SnI4WkNB0gHnAUFVX3lxTE9Fb2J3QmsyeWU3MENoTmhrSUhHc1A5em1Md2R5eHUzUlNVUVVtTFA5RDJGUkdacVBiUzNjU3Jya1NENUZzTXQ3aDN5MmZtWV9uQ3B3clE5NFhEeEtlZXRXc2pJbVRvRzladm43YWtVMGptUjlnVkdsUzRyeUl1eUxSNHBPd1NqdnR5V25FYmdtTWlnSHBPM0NjZk5GT2k2Qmd1UW0ydjhHdkZCX0U2dEZsTGJoaEhvdzNDLXV1ZkJYNTBaZFFsV0tuYVhMb2h3V3ppQUgtbmE0T0ZHZzM0NzFHYnJoTVZ6TQ?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-05-14",
-          "views": "18.0K"
-        },
-        {
-          "title": "Anthropic expands Claude's AI tools for law firms, lawyers - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbHpGV0l6eTJkRDdzV0VtWnZ0bS1CZVh1dVFpREJJZlVvVmJXSFlKVmhmc2NBVmFXYUppOThVSDhjLVllMk5neFB3TElFTS1FX2ktLWN3Z2gyTkZhOWQyd3IzdGlsazd6Rkp1dDB4enBiTVRSalc5S0RqX1o3RjhlQnF0dkdNbXliVndaeURhVURHVXRwRzZCeVRwdkJ1eDVyejdzb0hDRGM?oc=5\" target=\"_blank\">Anthropic expands Claude's AI tools for law firms, lawyers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbHpGV0l6eTJkRDdzV0VtWnZ0bS1CZVh1dVFpREJJZlVvVmJXSFlKVmhmc2NBVmFXYUppOThVSDhjLVllMk5neFB3TElFTS1FX2ktLWN3Z2gyTkZhOWQyd3IzdGlsazd6Rkp1dDB4enBiTVRSalc5S0RqX1o3RjhlQnF0dkdNbXliVndaeURhVURHVXRwRzZCeVRwdkJ1eDVyejdzb0hDRGM?oc=5",
+          "title": "UK firms should take steps to limit risks from frontier AI models, UK says - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQWUZCdmdZVXJlMXctSXBOa0NlTW91TFhNdUlLMkpsN1Y0NTVvcWN1SjJNajdsYjFqNjY4b20xdHRBOExWUkRWMV9PNnNYZ1E0OWRtQXV6Vm9HYUptUUczSnVfVGFpUjYzSjlldXJmb21Rc3RGSUV6cl9rX010NGl2R3NyQ2g4NENWUHdVNmVMOEFGX0FEdkFNcVZITEhKSUVOeWJ3UWZuVWRGOXRvWm9FRFU2Ynl3QXl1VlE?oc=5\" target=\"_blank\">UK firms should take steps to limit risks from frontier AI models, UK says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWUZCdmdZVXJlMXctSXBOa0NlTW91TFhNdUlLMkpsN1Y0NTVvcWN1SjJNajdsYjFqNjY4b20xdHRBOExWUkRWMV9PNnNYZ1E0OWRtQXV6Vm9HYUptUUczSnVfVGFpUjYzSjlldXJmb21Rc3RGSUV6cl9rX010NGl2R3NyQ2g4NENWUHdVNmVMOEFGX0FEdkFNcVZITEhKSUVOeWJ3UWZuVWRGOXRvWm9FRFU2Ynl3QXl1VlE?oc=5",
           "source": "Reuters AI",
-          "publishedAt": "2026-05-12",
+          "publishedAt": "2026-05-15",
           "views": "18.0K"
         }
       ]
@@ -80,27 +80,27 @@
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
         {
+          "title": "Context architecture is replacing RAG as agentic AI pushes enterprise retrieval to its limits - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOdmo2ZWpySDdwV0I0ZnJLMlU0MllvYjdVZG5qRHJDbV8xYkVvdXpLVGZ2VUlsYzNlRlQ2UGxMYXNER29YV0dwNlQ0b3VqVGt2Z0Vra0lfVGpFWEZYVU9pOWt4XzNzQTJqeWJobEpMY2FIUTBXU0JFRlJDVVkyb21mUk5aN0RiS0lEU2ZOMm5FYzNLaTAzak8ycExxcFdKTk0ybGljbFdRQ21VNmk0LWNpNTVjemkzYklEeS1acWFRVQ?oc=5\" target=\"_blank\">Context architecture is replacing RAG as agentic AI pushes enterprise retrieval to its limits</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdmo2ZWpySDdwV0I0ZnJLMlU0MllvYjdVZG5qRHJDbV8xYkVvdXpLVGZ2VUlsYzNlRlQ2UGxMYXNER29YV0dwNlQ0b3VqVGt2Z0Vra0lfVGpFWEZYVU9pOWt4XzNzQTJqeWJobEpMY2FIUTBXU0JFRlJDVVkyb21mUk5aN0RiS0lEU2ZOMm5FYzNLaTAzak8ycExxcFdKTk0ybGljbFdRQ21VNmk0LWNpNTVjemkzYklEeS1acWFRVQ?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-05-18",
+          "views": "18.0K"
+        },
+        {
+          "title": "LangSmith Engine closes the agent debugging loop automatically — but multi-model enterprises still need a neutral layer - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNajdLYkZxaW1ub19vMWd6b1FhTEdNVGhETkdHYkFjblVJOFI0OWdNcmpLRVBObnkzdzcyTWo0UDkyVTFPMmNOZkd3OEhDZXplblZtTmp3TVQ3QzFqT0YtTC0wdzcxNkdlYWpqblBLV3FiamdRUHc1azNZSkJ1VGhxaTRiWDBWelFXNk1fTFFPSlFLTTl0MXNWMXpMbDk0T1JZc21GMmVicXNEd2pKVEVuNWdENkppUnRMOVpsMGNTcEJyUTlIY25fS1VMU0ExM0RMRDVVY25RVVB4b2d4aUdxV3k5cjNSeGdRdFFR?oc=5\" target=\"_blank\">LangSmith Engine closes the agent debugging loop automatically — but multi-model enterprises still need a neutral layer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNajdLYkZxaW1ub19vMWd6b1FhTEdNVGhETkdHYkFjblVJOFI0OWdNcmpLRVBObnkzdzcyTWo0UDkyVTFPMmNOZkd3OEhDZXplblZtTmp3TVQ3QzFqT0YtTC0wdzcxNkdlYWpqblBLV3FiamdRUHc1azNZSkJ1VGhxaTRiWDBWelFXNk1fTFFPSlFLTTl0MXNWMXpMbDk0T1JZc21GMmVicXNEd2pKVEVuNWdENkppUnRMOVpsMGNTcEJyUTlIY25fS1VMU0ExM0RMRDVVY25RVVB4b2d4aUdxV3k5cjNSeGdRdFFR?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-05-18",
+          "views": "18.0K"
+        },
+        {
           "title": "Claude’s next enterprise battle is not models: it’s the agent control plane - VentureBeat",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPMWhRNmRxdEQ1b1NsZl9kanhnVlJBUG15ZWljamJQUGpOdFd5MC1MLVUtVzU5R1JWM2lxOXd4MEtRcVZiVnJGcjJHMkdHVHNZUy1KZ3hzYW1JNzFsUkRWYWM5RkNWNkxVR0tGX1d5T3ZPTWNkUnUtZGI4N2k1dmNvX3ltNmZjSmlvUWRFcmIyWHkzdkxKalNHU1RMb05pcWlXM3hhT2ZmbkN0a0pTajhF?oc=5\" target=\"_blank\">Claude’s next enterprise battle is not models: it’s the agent control plane</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMWhRNmRxdEQ1b1NsZl9kanhnVlJBUG15ZWljamJQUGpOdFd5MC1MLVUtVzU5R1JWM2lxOXd4MEtRcVZiVnJGcjJHMkdHVHNZUy1KZ3hzYW1JNzFsUkRWYWM5RkNWNkxVR0tGX1d5T3ZPTWNkUnUtZGI4N2k1dmNvX3ltNmZjSmlvUWRFcmIyWHkzdkxKalNHU1RMb05pcWlXM3hhT2ZmbkN0a0pTajhF?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-05-15",
-          "views": "18.0K"
-        },
-        {
-          "title": "Enterprises are training their own AI models from production workflows — without a machine learning team - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdWtvOEUtWkdrWkFPQk1oVE1jUjJkc0poMHFaTEUyQ2kzSWtKbXA5eEhPZGhid013TGZvdDNRaTdKeU5MWXQzSmRlY0dSYl9hNENkWk0xYTVCVnJfT1d4cUJOMG1kOVdCaUNoM2RZYktxazc5T01iLWxaNlY3N0xmWFZJTnVGakVRN3NTSENlWDhkN3pqd04zX3c2TjFRRjB2dTZwNVE0dk0tRkxQcUJVWUstNXIzR1BY?oc=5\" target=\"_blank\">Enterprises are training their own AI models from production workflows — without a machine learning team</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdWtvOEUtWkdrWkFPQk1oVE1jUjJkc0poMHFaTEUyQ2kzSWtKbXA5eEhPZGhid013TGZvdDNRaTdKeU5MWXQzSmRlY0dSYl9hNENkWk0xYTVCVnJfT1d4cUJOMG1kOVdCaUNoM2RZYktxazc5T01iLWxaNlY3N0xmWFZJTnVGakVRN3NTSENlWDhkN3pqd04zX3c2TjFRRjB2dTZwNVE0dk0tRkxQcUJVWUstNXIzR1BY?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-05-14",
-          "views": "18.0K"
-        },
-        {
-          "title": "Laserfiche unveils AI agents for natural language workflows - AI News",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQLUhrX2h5QVZHdEk0cGh6ZUtTNUVIMmRHVV9EVUtyZi1vUWlMN0wtb1BoeEtDWGdWYWU2YnVxUHI2UURTcTduZndNdFJwc0pERjRlMjIyQ0pQZlZ2ZGZKUWdKaTgyMldkVUNSa2tpZWhIZWdjNGVFLWVYMFBlblROdm5sd1VkWjd4TkNackRCbk93dUxKSHEwMmtwZ2RWSGdHZ3RKaWNxelZQVmk3S2F1LQ?oc=5\" target=\"_blank\">Laserfiche unveils AI agents for natural language workflows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI News</font>",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLUhrX2h5QVZHdEk0cGh6ZUtTNUVIMmRHVV9EVUtyZi1vUWlMN0wtb1BoeEtDWGdWYWU2YnVxUHI2UURTcTduZndNdFJwc0pERjRlMjIyQ0pQZlZ2ZGZKUWdKaTgyMldkVUNSa2tpZWhIZWdjNGVFLWVYMFBlblROdm5sd1VkWjd4TkNackRCbk93dUxKSHEwMmtwZ2RWSGdHZ3RKaWNxelZQVmk3S2F1LQ?oc=5",
-          "source": "AI News",
-          "publishedAt": "2026-05-12",
           "views": "18.0K"
         }
       ]
@@ -127,10 +127,10 @@
           "views": "18.0K"
         },
         {
-          "title": "Sejong University team selected for webtoon copyright protection project - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQOXliajB2SjFGOWpXSFFuZmhtaXZJdjJvUGFYcDBsU1ZUOU03dnpZbzZBTm1PSlVLOFNUTGdtaWJONFVpZXpuYVpTLTZyVW5odzlORjBqR3BMb3hZejFUWWZuaGhBNHJRNTlaWTRka3lqdy1lTU1lb2NFeHJndWhjX0ZtbHdzaldMOUs2UjJMY3hyQld2anVsNmU2ekExZ3pyby1aYmVjcXVjdW9tTWZUUWpYZXItaU1kWW9kbE45MFRrUHdQTFdubmc5X0_SAcwBQVVfeXFMUDl5YmowdkoxRjlqV0hRbmZobWl2SXYyb1BhWHAwbFNWVDlNN3Z6WW82QU5tT0pVSzhTVExnbWliTjRVaWV6bmFaUy02clVuaHc5TkYwakdwTG94WXoxVFlmbmhoQTRyUTU5Wlk0ZGt5anctZU1NZW9jRXhyZ3VoY19GbWx3c2pXTDlLNlIyTGN4ckJXdmp1bDZlNnpBMWd6cm8tWmJlY3F1Y3VvbU1mVFFqWGVyLWlNZFlvZGxOOTBUa1B3UExXbm5nOV9P?oc=5\" target=\"_blank\">Sejong University team selected for webtoon copyright protection project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOXliajB2SjFGOWpXSFFuZmhtaXZJdjJvUGFYcDBsU1ZUOU03dnpZbzZBTm1PSlVLOFNUTGdtaWJONFVpZXpuYVpTLTZyVW5odzlORjBqR3BMb3hZejFUWWZuaGhBNHJRNTlaWTRka3lqdy1lTU1lb2NFeHJndWhjX0ZtbHdzaldMOUs2UjJMY3hyQld2anVsNmU2ekExZ3pyby1aYmVjcXVjdW9tTWZUUWpYZXItaU1kWW9kbE45MFRrUHdQTFdubmc5X0_SAcwBQVVfeXFMUDl5YmowdkoxRjlqV0hRbmZobWl2SXYyb1BhWHAwbFNWVDlNN3Z6WW82QU5tT0pVSzhTVExnbWliTjRVaWV6bmFaUy02clVuaHc5TkYwakdwTG94WXoxVFlmbmhoQTRyUTU5Wlk0ZGt5anctZU1NZW9jRXhyZ3VoY19GbWx3c2pXTDlLNlIyTGN4ckJXdmp1bDZlNnpBMWd6cm8tWmJlY3F1Y3VvbU1mVFFqWGVyLWlNZFlvZGxOOTBUa1B3UExXbm5nOV9P?oc=5",
-          "source": "The Korea Times",
+          "title": "Polish lawmakers adopt crypto regulation amid multi-million dollar fraud probe - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOblJDQUZhS0txTmt0aEZRcS1TR2k1M1JqcjhBOVJIaE0yMDlOdEFad3FwTG5MQVJiZGRuaF9WRXBoX1Z5aFhHdDc1UTV5RmVLWkhLRXZlMF9jaHhFdEVDRzJ2dFJaQndadm4wQ0FtNC1uSi1OSThTSm1KUUJRWU5xbk5iRVBHaWU0MjNvOGJUQS1QRlgtbmUteXZiRTdpc3oxX29lcVozVXpYVWxkNnhxNlFGaWd3dWxJZXJoNVBCRVFfV24zMFlOUlBRMA?oc=5\" target=\"_blank\">Polish lawmakers adopt crypto regulation amid multi-million dollar fraud probe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOblJDQUZhS0txTmt0aEZRcS1TR2k1M1JqcjhBOVJIaE0yMDlOdEFad3FwTG5MQVJiZGRuaF9WRXBoX1Z5aFhHdDc1UTV5RmVLWkhLRXZlMF9jaHhFdEVDRzJ2dFJaQndadm4wQ0FtNC1uSi1OSThTSm1KUUJRWU5xbk5iRVBHaWU0MjNvOGJUQS1QRlgtbmUteXZiRTdpc3oxX29lcVozVXpYVWxkNnhxNlFGaWd3dWxJZXJoNVBCRVFfV24zMFlOUlBRMA?oc=5",
+          "source": "Reuters AI",
           "publishedAt": "2026-05-15",
           "views": "18.0K"
         }
@@ -150,19 +150,19 @@
           "views": "18.0K"
         },
         {
-          "title": "KOSPI market cap overtakes greater Seoul housing market amid AI-led rally - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeHpESDhkZzBmWkRjS2FxcUtpRl82WEdCMllXLXRuR1FyV2tRTFQxdUVnX1U2Vmo3bTZxejltYXBJN0VOanFOZUYyY2dMUktlaTJVTVhmWFFQdThfRHBDMWZTY0RlcGpPdl9ObE9BdXF2RU9pOExxUWZiV3Q3SG8wUGNUd21VQnhaYkNwazNDTUZpVklMRFQ3LWhKUUtCdjRCRGZ4SWhwaW1uRzE4cDJ0WWpHS3hLSkZSejFCRXdLZUbSAcABQVVfeXFMT3h6REg4ZGcwZlpEY0thcXFLaUZfNlhHQjJZVy10bkdRcldrUUxUMXVFZ19VNlZqN202cXo5bWFwSTdFTmpxTmVGMmNnTFJLZWkyVU1YZlhRUHU4X0RwQzFmU2NEZXBqT3ZfTmxPQXVxdkVPaThMcVFmYld0N0hvMFBjVHdtVUJ4WmJDcGszQ01GaVZJTERUNy1oSlFLQnY0QkRmeElocGltbkcxOHAydFlqR0t4S0pGUnoxQkV3S2VG?oc=5\" target=\"_blank\">KOSPI market cap overtakes greater Seoul housing market amid AI-led rally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeHpESDhkZzBmWkRjS2FxcUtpRl82WEdCMllXLXRuR1FyV2tRTFQxdUVnX1U2Vmo3bTZxejltYXBJN0VOanFOZUYyY2dMUktlaTJVTVhmWFFQdThfRHBDMWZTY0RlcGpPdl9ObE9BdXF2RU9pOExxUWZiV3Q3SG8wUGNUd21VQnhaYkNwazNDTUZpVklMRFQ3LWhKUUtCdjRCRGZ4SWhwaW1uRzE4cDJ0WWpHS3hLSkZSejFCRXdLZUbSAcABQVVfeXFMT3h6REg4ZGcwZlpEY0thcXFLaUZfNlhHQjJZVy10bkdRcldrUUxUMXVFZ19VNlZqN202cXo5bWFwSTdFTmpxTmVGMmNnTFJLZWkyVU1YZlhRUHU4X0RwQzFmU2NEZXBqT3ZfTmxPQXVxdkVPaThMcVFmYld0N0hvMFBjVHdtVUJ4WmJDcGszQ01GaVZJTERUNy1oSlFLQnY0QkRmeElocGltbkcxOHAydFlqR0t4S0pGUnoxQkV3S2VG?oc=5",
+          "title": "Outcome of Trump-Xi summit and impact on Korean economy - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR3RlY3E1Z2xpTFd5ODJsUnZ0Y3dBZWllLU9xOUs0YUQ4ZElOQnFObHVqLUliZTJmTjdDcXp1Tkl0SDlHQ2p1NDFfRzFuQ1RBSzExM0pJWVFDWlFMaU9WZUo3d1RpSHQ3ZGpMSGZvQ2FNaUc0MnhOdUJJcVVkSWlKOEJqaExiWXJtU0tlVTZFQVNNR1BVaGNmM2ZhMTE5N0hRdmRzbFlQRTfSAagBQVVfeXFMUEd0ZWNxNWdsaUxXeTgybFJ2dGN3QWVpZS1PcTlLNGFEOGRJTkJxTmx1ai1JYmUyZk43Q3F6dU5JdEg5R0NqdTQxX0cxbkNUQUsxMTNKSVlRQ1pRTGlPVmVKN3dUaUh0N2RqTEhmb0NhTWlHNDJ4TnVCSXFVZElpSjhCamhMYllybVNLZVU2RUFTTUdQVWhjZjNmYTExOTdIUXZkc2xZUEU3?oc=5\" target=\"_blank\">Outcome of Trump-Xi summit and impact on Korean economy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR3RlY3E1Z2xpTFd5ODJsUnZ0Y3dBZWllLU9xOUs0YUQ4ZElOQnFObHVqLUliZTJmTjdDcXp1Tkl0SDlHQ2p1NDFfRzFuQ1RBSzExM0pJWVFDWlFMaU9WZUo3d1RpSHQ3ZGpMSGZvQ2FNaUc0MnhOdUJJcVVkSWlKOEJqaExiWXJtU0tlVTZFQVNNR1BVaGNmM2ZhMTE5N0hRdmRzbFlQRTfSAagBQVVfeXFMUEd0ZWNxNWdsaUxXeTgybFJ2dGN3QWVpZS1PcTlLNGFEOGRJTkJxTmx1ai1JYmUyZk43Q3F6dU5JdEg5R0NqdTQxX0cxbkNUQUsxMTNKSVlRQ1pRTGlPVmVKN3dUaUh0N2RqTEhmb0NhTWlHNDJ4TnVCSXFVZElpSjhCamhMYllybVNLZVU2RUFTTUdQVWhjZjNmYTExOTdIUXZkc2xZUEU3?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-05-18",
+          "publishedAt": "2026-05-19",
           "views": "13.0K"
         },
         {
-          "title": "HD Hyundai Marine Solution enters North American data center power market with AEG deal - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQkQ5S0pwX2Exa0FIQTFNLWRLaWZwWEJMVHVYeHl5SHJYRXZKWnl5cFpwTU1ycXNBSXhDUGZlWkhNTkFsOUhKZGNDeXQ4U0Fxb0llUE9mcUFHVUFpTkxjRWxUN3pwLXdGenFNeE85dXNDdGZ3TFYzeTNuNVVWeTJ1c2QwM1djeTlSa0ZsNEM0Q1N0dHlwd0pjY3dQMGVvODFZaW5keld3Rjg1Z0lzYjRxQ0p1azlKZl9oOWQ4UEVVREEwSDMyVHNKdGVORmpVWWtGQWdRbTQ1cDJIclBY0gHiAUFVX3lxTE9UeGRvQV8yc3cwNVJpaDlFS1F0Z08yYjZ2MTgxejFtb25maXdGWHhNRElFdXJINHlfM2FsNE84RXJVVTJ4QUUwamdyQUtSY3gwRDlQTDJLeTVFa3AzRV9lVmNOMzgxTTNiVnk2X0o3UTNNSlAyNE50NFk3VmpwZFZPZE1TRzkzTUZzYjVYX1FGYndiQm5YNlg2bk85ZUNYckppd01HVm5rOE1ZaUhEazlwNk5zZXNTWTdiZ1d5a0xZS3lkY25UNmhUQmVFTGFjVHQ1ZS1RUDhTbDBHZThIZ0lkLXc?oc=5\" target=\"_blank\">HD Hyundai Marine Solution enters North American data center power market with AEG deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQkQ5S0pwX2Exa0FIQTFNLWRLaWZwWEJMVHVYeHl5SHJYRXZKWnl5cFpwTU1ycXNBSXhDUGZlWkhNTkFsOUhKZGNDeXQ4U0Fxb0llUE9mcUFHVUFpTkxjRWxUN3pwLXdGenFNeE85dXNDdGZ3TFYzeTNuNVVWeTJ1c2QwM1djeTlSa0ZsNEM0Q1N0dHlwd0pjY3dQMGVvODFZaW5keld3Rjg1Z0lzYjRxQ0p1azlKZl9oOWQ4UEVVREEwSDMyVHNKdGVORmpVWWtGQWdRbTQ1cDJIclBY0gHiAUFVX3lxTE9UeGRvQV8yc3cwNVJpaDlFS1F0Z08yYjZ2MTgxejFtb25maXdGWHhNRElFdXJINHlfM2FsNE84RXJVVTJ4QUUwamdyQUtSY3gwRDlQTDJLeTVFa3AzRV9lVmNOMzgxTTNiVnk2X0o3UTNNSlAyNE50NFk3VmpwZFZPZE1TRzkzTUZzYjVYX1FGYndiQm5YNlg2bk85ZUNYckppd01HVm5rOE1ZaUhEazlwNk5zZXNTWTdiZ1d5a0xZS3lkY25UNmhUQmVFTGFjVHQ1ZS1RUDhTbDBHZThIZ0lkLXc?oc=5",
+          "title": "Korea adds 221,000 wage jobs in Q4; youth employment declines - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNcUJOeGRNUEgyWWx6SG1xMjNxX0hPd0lNQzk5ZmFtWEpHcWdZTk5PZkdndjJkY2hQb3ZhZTBUZnZocTdsNWN0UGJYNi1DV2FDdjZzTk1xeVVLX0dVeFF0dHV2eV9jTWNnSmJvaWY2QUx2a25kUEx0VUgyZ01pdXcxT0d1UlRCQ3RiVXFKZURLc1pieVhHUDhqdmFZWlgwQm9kSC1CTDRZSUxndU5FRkHSAa4BQVVfeXFMTXFCTnhkTVBIMllsekhtcTIzcV9IT3dJTUM5OWZhbVhKR3FnWU5OT2ZHZ3YyZGNoUG92YWUwVGZ2aHE3bDVjdFBiWDYtQ1dhQ3Y2c05NcXlVS19HVXhRdHR1dnlfY01jZ0pib2lmNkFMdmtuZFBMdFVIMmdNaXV3MU9HdVJUQkN0YlVxSmVES3NaYnlYR1A4anZhWVpYMEJvZEgtQkw0WUlMZ3VORUZB?oc=5\" target=\"_blank\">Korea adds 221,000 wage jobs in Q4; youth employment declines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcUJOeGRNUEgyWWx6SG1xMjNxX0hPd0lNQzk5ZmFtWEpHcWdZTk5PZkdndjJkY2hQb3ZhZTBUZnZocTdsNWN0UGJYNi1DV2FDdjZzTk1xeVVLX0dVeFF0dHV2eV9jTWNnSmJvaWY2QUx2a25kUEx0VUgyZ01pdXcxT0d1UlRCQ3RiVXFKZURLc1pieVhHUDhqdmFZWlgwQm9kSC1CTDRZSUxndU5FRkHSAa4BQVVfeXFMTXFCTnhkTVBIMllsekhtcTIzcV9IT3dJTUM5OWZhbVhKR3FnWU5OT2ZHZ3YyZGNoUG92YWUwVGZ2aHE3bDVjdFBiWDYtQ1dhQ3Y2c05NcXlVS19HVXhRdHR1dnlfY01jZ0pib2lmNkFMdmtuZFBMdFVIMmdNaXV3MU9HdVJUQkN0YlVxSmVES3NaYnlYR1A4anZhWVpYMEJvZEgtQkw0WUlMZ3VORUZB?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-05-18",
+          "publishedAt": "2026-05-19",
           "views": "13.0K"
         }
       ]
@@ -181,19 +181,19 @@
           "views": "18.0K"
         },
         {
-          "title": "Samsung chairman calls for company unity amid looming strike - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNczZ3MFJtV19tdXBrVmMtVVdJQXp0bXVrTjlMOVU4WG5iOTRwS1lSQTVuVW8yOVRydVhUQXY1R1dKUGg5SElKUDZzb1Z1UWMyUFhObml0d1FkUmdoN2NUWE9KMVh5dVpsMTZHUVVUZzF3OEZWMlNtLWlfMlhDSXNEeWdLWEFYeDJqQ0RqNE54bllYM0pyQmQ0OHJLZnA3bXRXbjk2NTVVZC13Rm1NLTFXV01tZy1OSWgtQkpUbDJR0gG-AUFVX3lxTE1zNncwUm1XX211cGtWYy1VV0lBenRtdWtOOUw5VThYbmI5NHBLWVJBNW5VbzI5VHJ1WFRBdjVHV0pQaDlISUpQNnNvVnVRYzJQWE5uaXR3UWRSZ2g3Y1RYT0oxWHl1WmwxNkdRVVRnMXc4RlYyU20taV8yWENJc0R5Z0tYQVh4MmpDRGo0TnhuWVgzSnJCZDQ4cktmcDdtdFduOTY1NVVkLXdGbU0tMVdXTW1nLU5JaC1CSlRsMlE?oc=5\" target=\"_blank\">Samsung chairman calls for company unity amid looming strike</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNczZ3MFJtV19tdXBrVmMtVVdJQXp0bXVrTjlMOVU4WG5iOTRwS1lSQTVuVW8yOVRydVhUQXY1R1dKUGg5SElKUDZzb1Z1UWMyUFhObml0d1FkUmdoN2NUWE9KMVh5dVpsMTZHUVVUZzF3OEZWMlNtLWlfMlhDSXNEeWdLWEFYeDJqQ0RqNE54bllYM0pyQmQ0OHJLZnA3bXRXbjk2NTVVZC13Rm1NLTFXV01tZy1OSWgtQkpUbDJR0gG-AUFVX3lxTE1zNncwUm1XX211cGtWYy1VV0lBenRtdWtOOUw5VThYbmI5NHBLWVJBNW5VbzI5VHJ1WFRBdjVHV0pQaDlISUpQNnNvVnVRYzJQWE5uaXR3UWRSZ2g3Y1RYT0oxWHl1WmwxNkdRVVRnMXc4RlYyU20taV8yWENJc0R5Z0tYQVh4MmpDRGo0TnhuWVgzSnJCZDQ4cktmcDdtdFduOTY1NVVkLXdGbU0tMVdXTW1nLU5JaC1CSlRsMlE?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-05-16",
+          "title": "How Trump’s crypto venture and Iran’s top exchange tapped into the same industry networks - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNVVFzRWZEcDlEbnBoYnk4RXlKalFfNjBiOFRKZXpPRW1Sc1VYZm9QNUlST29TX3RQTlQwdlRVMkJ1OTEyR2N1cFowRm1OQzVlVm1lc3YtMlFBTXV6d2gzOVpBbEN5Qy0xX1pnRW9lQVhPby1pc2JaekFHYVh2RVhhS0NnRHBGYmlubFRVTWZTUExHSmlMbEo2SUhqVF9LNEF0bXpMbllpOHZlYWprUHRlaXdrc0ZGNXJuS0UxWEo3SWp2a21LR29jbEtR?oc=5\" target=\"_blank\">How Trump’s crypto venture and Iran’s top exchange tapped into the same industry networks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVVFzRWZEcDlEbnBoYnk4RXlKalFfNjBiOFRKZXpPRW1Sc1VYZm9QNUlST29TX3RQTlQwdlRVMkJ1OTEyR2N1cFowRm1OQzVlVm1lc3YtMlFBTXV6d2gzOVpBbEN5Qy0xX1pnRW9lQVhPby1pc2JaekFHYVh2RVhhS0NnRHBGYmlubFRVTWZTUExHSmlMbEo2SUhqVF9LNEF0bXpMbllpOHZlYWprUHRlaXdrc0ZGNXJuS0UxWEo3SWp2a21LR29jbEtR?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-05-18",
           "views": "13.0K"
         },
         {
-          "title": "Bill Ackman says Alphabet stake sale not a bet against the company - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVTNUanY3Mlp3c2c5SGxRMHY0ZjVQOWJHTVVnVVlvUjRLMlA0T3VGa25mWXEzX29zWW0wbllEb3Y3N1c4ZEY0VzJTbXNYSW9rM1B5WUN4My1hZTM2bnRPMFhuZDM2Q18zRnhDRXRYbDFGZ3hRanFkaVdTMDNuTXQ4WGVTYTBQWVhZNjJwejhpcnlxVlYzN1lmSmpwX0g5UGxxRWVIV2ZOQWM?oc=5\" target=\"_blank\">Bill Ackman says Alphabet stake sale not a bet against the company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVTNUanY3Mlp3c2c5SGxRMHY0ZjVQOWJHTVVnVVlvUjRLMlA0T3VGa25mWXEzX29zWW0wbllEb3Y3N1c4ZEY0VzJTbXNYSW9rM1B5WUN4My1hZTM2bnRPMFhuZDM2Q18zRnhDRXRYbDFGZ3hRanFkaVdTMDNuTXQ4WGVTYTBQWVhZNjJwejhpcnlxVlYzN1lmSmpwX0g5UGxxRWVIV2ZOQWM?oc=5",
+          "title": "NextEra plans to buy Dominion Energy for $66.8 billion, form biggest US power company as AI demand booms - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeVVIYTNmN0FtUHgyakFHYkFyTjNpQTJ5TDdzbHJILXl5cWxZU1AtSGF0eUt3VEN4TmlVSTdrRzQxT0twYUtzTnFmb2lNbEE3c292ek9uN1JERTI3b0RIeTN3T1M3X3VlUlVER1lWbUVxcDFfaGJrb2dxNHNyZk9zWlhZTk5MaGs1WHQ5WU14clVKcHdKTmFUSEhma0w4eGpJVWpaSjNIYXQtdw?oc=5\" target=\"_blank\">NextEra plans to buy Dominion Energy for $66.8 billion, form biggest US power company as AI demand booms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeVVIYTNmN0FtUHgyakFHYkFyTjNpQTJ5TDdzbHJILXl5cWxZU1AtSGF0eUt3VEN4TmlVSTdrRzQxT0twYUtzTnFmb2lNbEE3c292ek9uN1JERTI3b0RIeTN3T1M3X3VlUlVER1lWbUVxcDFfaGJrb2dxNHNyZk9zWlhZTk5MaGs1WHQ5WU14clVKcHdKTmFUSEhma0w4eGpJVWpaSjNIYXQtdw?oc=5",
           "source": "Reuters AI",
-          "publishedAt": "2026-05-16",
+          "publishedAt": "2026-05-18",
           "views": "13.0K"
         }
       ]
