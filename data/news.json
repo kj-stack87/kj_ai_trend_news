@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-21T04:42:13.500Z",
+  "lastUpdated": "2026-05-22T04:33:57.092Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,6 +49,14 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
+          "title": "Google updates its Gemini app to take on ChatGPT and Claude - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQMEc4N2hYYnFxUzZHR3p1bE1EaHotalZlODJwa2pOcHp0aXpwSWYxbFk2OUJVcWZWWlJYUm1mam9ReTUzV2lfZ210Y0UwN2EtNi12dV9NN1pvREJiYkNQTjRMSWlWQnZjLTJxNjRMdi1LMWZuX0xFdDh4QkZ5bUNJc083YkhVNHZlSkVKLXVqSGFmME01eUh6SFJ3?oc=5\" target=\"_blank\">Google updates its Gemini app to take on ChatGPT and Claude</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMEc4N2hYYnFxUzZHR3p1bE1EaHotalZlODJwa2pOcHp0aXpwSWYxbFk2OUJVcWZWWlJYUm1mam9ReTUzV2lfZ210Y0UwN2EtNi12dV9NN1pvREJiYkNQTjRMSWlWQnZjLTJxNjRMdi1LMWZuX0xFdDh4QkZ5bUNJc083YkhVNHZlSkVKLXVqSGFmME01eUh6SFJ3?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-05-19",
+          "views": "23.0K"
+        },
+        {
           "title": "Google updates its Gemini app to take on ChatGPT and Claude at IO 2026 - TechCrunch",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaXhyRzNKVGVjZWlaYXU2QWFWSmREdkt0djBLcWRWa2ItcEdZZUNhUjFPRlpDZzJVdmJuNDgxSnBvdlYtc21YOUJIVjlUbmZoMTBLMU1XOVdqTHFXVDl5NkhBTVpuTWNSYVFDcE5STHFWZm1TbFNEcm0wVXFSN2RUWEwzWmk4WHBiQlBjQ0ItLUpEbVNsT1lHQXgxNHJUVVhZMFV4Wld1UFE?oc=5\" target=\"_blank\">Google updates its Gemini app to take on ChatGPT and Claude at IO 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaXhyRzNKVGVjZWlaYXU2QWFWSmREdkt0djBLcWRWa2ItcEdZZUNhUjFPRlpDZzJVdmJuNDgxSnBvdlYtc21YOUJIVjlUbmZoMTBLMU1XOVdqTHFXVDl5NkhBTVpuTWNSYVFDcE5STHFWZm1TbFNEcm0wVXFSN2RUWEwzWmk4WHBiQlBjQ0ItLUpEbVNsT1lHQXgxNHJUVVhZMFV4Wld1UFE?oc=5",
@@ -57,19 +65,11 @@
           "views": "23.0K"
         },
         {
-          "title": "Ex-Samsung chip researcher takes 'Korean Palantir' to Kosdaq debut - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVjNPeURHOThJSHpSUTNKSnBPMXNfT0VyWkdJV0pPcmtKS1l2UGx6b0Y4ckQzTVZHemlJNzdaZTRUa1pYUFpYMG5kalNwZmE4WXZsRkh3cnoyWDBCTWxPNF93LVYxSlBLdVRxczZEM19VdjFhYkk1bEFHd19XMlBDdF9wa1FnVTBrMExSRXNOalpXNVphU1hpbDR3aVd1YzNzSmZwQU85WnNUMGI3andGOGpVSlc2aGNpYnhVVjY2bW5oVG_SAcMBQVVfeXFMTVYzT3lERzk4SUh6UlEzSkpwTzFzX09FclpHSVdKT3JrSktZdlBsem9GOHJEM01WR3ppSTc3WmU0VGtaWFBaWDBuZGpTcGZhOFl2bEZId3J6MlgwQk1sTzRfdy1WMUpQS3VUcXM2RDNfVXYxYWJJNWxBR3dfVzJQQ3RfcGtRZ1UwazBMUkVzTmpaVzVaYVNYaWw0d2lXdWMzc0pmcEFPOVpzVDBiN2p3RjhqVUpXNmhjaWJ4VVY2Nm1uaFRv?oc=5\" target=\"_blank\">Ex-Samsung chip researcher takes 'Korean Palantir' to Kosdaq debut</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVjNPeURHOThJSHpSUTNKSnBPMXNfT0VyWkdJV0pPcmtKS1l2UGx6b0Y4ckQzTVZHemlJNzdaZTRUa1pYUFpYMG5kalNwZmE4WXZsRkh3cnoyWDBCTWxPNF93LVYxSlBLdVRxczZEM19VdjFhYkk1bEFHd19XMlBDdF9wa1FnVTBrMExSRXNOalpXNVphU1hpbDR3aVd1YzNzSmZwQU85WnNUMGI3andGOGpVSlc2aGNpYnhVVjY2bW5oVG_SAcMBQVVfeXFMTVYzT3lERzk4SUh6UlEzSkpwTzFzX09FclpHSVdKT3JrSktZdlBsem9GOHJEM01WR3ppSTc3WmU0VGtaWFBaWDBuZGpTcGZhOFl2bEZId3J6MlgwQk1sTzRfdy1WMUpQS3VUcXM2RDNfVXYxYWJJNWxBR3dfVzJQQ3RfcGtRZ1UwazBMUkVzTmpaVzVaYVNYaWw0d2lXdWMzc0pmcEFPOVpzVDBiN2p3RjhqVUpXNmhjaWJ4VVY2Nm1uaFRv?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-05-20",
-          "views": "18.0K"
-        },
-        {
-          "title": "Cerebras says its chips run a trillion-parameter AI model nearly 7 times faster than GPU clouds - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOZF9NRjlBSTl4aklIZDlyQTI2dnM1bWEtb2VMbFR0em9ramJ6bnhCUnZGa3ZyTkNGTjhFOG5ZaUJpSjIzQVlpQjE5a3F6czNyTjRycFJsNWVXX3lsMHE0OWFGU2RMQkJFT01SeW9vZVoxNGwxa0V3aUN1eGtPdGQ5R1hrUVNNN1U0QUhZVlh1X1ZPZEszUThjazRUa2VvR2JoOFRnY2x3OUpzVWJ4Vk02WFpVSFJSUUFyZVVycTZ3cUozZnZwY3g1WGt3?oc=5\" target=\"_blank\">Cerebras says its chips run a trillion-parameter AI model nearly 7 times faster than GPU clouds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZF9NRjlBSTl4aklIZDlyQTI2dnM1bWEtb2VMbFR0em9ramJ6bnhCUnZGa3ZyTkNGTjhFOG5ZaUJpSjIzQVlpQjE5a3F6czNyTjRycFJsNWVXX3lsMHE0OWFGU2RMQkJFT01SeW9vZVoxNGwxa0V3aUN1eGtPdGQ5R1hrUVNNN1U0QUhZVlh1X1ZPZEszUThjazRUa2VvR2JoOFRnY2x3OUpzVWJ4Vk02WFpVSFJSUUFyZVVycTZ3cUozZnZwY3g1WGt3?oc=5",
+          "title": "Alibaba's proprietary Qwen3.7-Max can run for 35 hours autonomously and supports external harnesses like Anthropic's Claude Code - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxON2FQNVBQcldMTXU3OEZTNzNyanEyOEZUWW0tRWFmZnBIRTN5ak4weEoyNVRJalRRYmFjaTh4T2JKbm5iaFl5U3ZpcWMxbGk2ellXYXR1ME9Qc201a0pXdFBldng5bFZ4enR4d3FoVXBpdjJLWmdVd1Q4QXNDVjdjenp2eFJ2V3AxWmx6VGFWTzhDUTJmbTllMTg5TWhzdkY4MjA5MW1jZ1BpblBMV0gya0JkdVZQeFlWbnlBNUpyVFMzdXNPNzBYb1JDcTNXdnZLQW5jcjRPd0ZSOXE2bktxMmo5c3VHM0t6bEZhcUxNU0JydUk?oc=5\" target=\"_blank\">Alibaba's proprietary Qwen3.7-Max can run for 35 hours autonomously and supports external harnesses like Anthropic's Claude Code</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxON2FQNVBQcldMTXU3OEZTNzNyanEyOEZUWW0tRWFmZnBIRTN5ak4weEoyNVRJalRRYmFjaTh4T2JKbm5iaFl5U3ZpcWMxbGk2ellXYXR1ME9Qc201a0pXdFBldng5bFZ4enR4d3FoVXBpdjJLWmdVd1Q4QXNDVjdjenp2eFJ2V3AxWmx6VGFWTzhDUTJmbTllMTg5TWhzdkY4MjA5MW1jZ1BpblBMV0gya0JkdVZQeFlWbnlBNUpyVFMzdXNPNzBYb1JDcTNXdnZLQW5jcjRPd0ZSOXE2bktxMmo5c3VHM0t6bEZhcUxNU0JydUk?oc=5",
           "source": "VentureBeat AI",
-          "publishedAt": "2026-05-20",
+          "publishedAt": "2026-05-21",
           "views": "18.0K"
         }
       ]
@@ -84,7 +84,7 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPUXhOWVltUDZXVDVvZzU5ZF9FaEhMb0syOFc4LVRvQm81a1NzQ2ppZDBVbG5EbllCa05RT3ozQjJSaTBzZDlsU2F1R1F3dDRKYl9ZbXFoMjB3NmxueGo0OERTYUZrQ0RzdWFfTkJvNjhGcFgzODFfVkRLckNwV09wOEpWZUlSZjdWQzVQNGtURjhsUGdkOWVNR19ublNJUzZnQ0tiUGtRUF9jSGRMVGc?oc=5\" target=\"_blank\">Enterprise AI agents keep failing because they forget what they learned</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUXhOWVltUDZXVDVvZzU5ZF9FaEhMb0syOFc4LVRvQm81a1NzQ2ppZDBVbG5EbllCa05RT3ozQjJSaTBzZDlsU2F1R1F3dDRKYl9ZbXFoMjB3NmxueGo0OERTYUZrQ0RzdWFfTkJvNjhGcFgzODFfVkRLckNwV09wOEpWZUlSZjdWQzVQNGtURjhsUGdkOWVNR19ublNJUzZnQ0tiUGtRUF9jSGRMVGc?oc=5",
           "source": "VentureBeat AI",
-          "publishedAt": "2026-05-20",
+          "publishedAt": "2026-05-21",
           "views": "18.0K"
         },
         {
@@ -111,6 +111,14 @@
       "description": "규제, 책임, 신뢰, 저작권 같은 문제를 보는 관점",
       "items": [
         {
+          "title": "Vice FM meets US lawmaker, policy expert to discuss alliance, joint fact sheet - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOHdsR1ZvWFZ4c0UxakxUVVhiLU1IWVB1TTUzTlg0dm9mVThWM1lnTEFUU0NlTU9uMG5wWVBOcFFrQ05IUTM5N2lPdnY3a29RUVZiamQ4dHE2bFNIOGxYcnRKUVktR0J2Yi1jOS1wVVB2Y19jUVNyb19UR1ZtcWJYVU5aUmZDWWd4UDJhcXY2cV95THd4TzZ5NDFaN2NvektxMHkwNlo1MFY4WHp0X255OGt2bTIzcmRNYW9jdml2ZVJwWGNlYWhuONIBzgFBVV95cUxNT19KcmNDQktud21uWTRrbkk4a3ZHTWo5WlNqRUZQT2JZVnVvYnU5UG5HZWRZQk5FbURsemthQTY2N0ZnUXJ0cnJleWh3MjFKaTJMdndCV1pQSExiaFhoajFsLVEyNW9JRFNSUUVUaVJOY09RVVBNS21fTlpFYm1LaTM2VUxmVlhERm5NUmxxa2Q1ZVlySmNFYzRMN2tleVowRWg3TWI3a2NlMjVsOGlzM2hVU3FadHVYLWtXYkhBN1lQUWs1eWxOencxc2w0UQ?oc=5\" target=\"_blank\">Vice FM meets US lawmaker, policy expert to discuss alliance, joint fact sheet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOHdsR1ZvWFZ4c0UxakxUVVhiLU1IWVB1TTUzTlg0dm9mVThWM1lnTEFUU0NlTU9uMG5wWVBOcFFrQ05IUTM5N2lPdnY3a29RUVZiamQ4dHE2bFNIOGxYcnRKUVktR0J2Yi1jOS1wVVB2Y19jUVNyb19UR1ZtcWJYVU5aUmZDWWd4UDJhcXY2cV95THd4TzZ5NDFaN2NvektxMHkwNlo1MFY4WHp0X255OGt2bTIzcmRNYW9jdml2ZVJwWGNlYWhuONIBzgFBVV95cUxNT19KcmNDQktud21uWTRrbkk4a3ZHTWo5WlNqRUZQT2JZVnVvYnU5UG5HZWRZQk5FbURsemthQTY2N0ZnUXJ0cnJleWh3MjFKaTJMdndCV1pQSExiaFhoajFsLVEyNW9JRFNSUUVUaVJOY09RVVBNS21fTlpFYm1LaTM2VUxmVlhERm5NUmxxa2Q1ZVlySmNFYzRMN2tleVowRWg3TWI3a2NlMjVsOGlzM2hVU3FadHVYLWtXYkhBN1lQUWs1eWxOencxc2w0UQ?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-05-21",
+          "views": "18.0K"
+        },
+        {
           "title": "Korea launches language initiative to bridge safety gaps on factory floors - The Korea Times",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPNC1KYnFJTFRSSThSUUdUajlOeXN1eUI5QUtpdWxiUWRZZ0pLQno1eGFXcWtKSl90cFQ5S3dKSVFXVm1uRjZCa2FWcWgzMEF1djFiX1VJNlZyLTZzS3N6ZU40cmxTVy1SN1VGZ2diY09ZMVl1cWwtcEl6dWVoWGdia2dBSnlwRXI1Y0VBeHMxU1BqSzVLaWw5czFDcndfZEhoaEc5V3VWdFJhdnZIaU9RUDR6cXNWbTU2QnpZQllzcUtNejRTOFHSAcYBQVVfeXFMTzQtSmJxSUxUUkk4UlFHVGo5TnlzdXlCOUFLaXVsYlFkWWdKS0J6NXhhV3FrSkpfdHBUOUt3SklRV1ZtbkY2QmthVnFoMzBBdXYxYl9VSTZWci02c0tzemVONHJsU1ctUjdVRmdnYmNPWTFZdXFsLXBJenVlaFhnYmtnQUp5cEVyNWNFQXhzMVNQaks1S2lsOXMxQ3J3X2RIaGhHOVd1VnRSYXZ2SGlPUVA0enFzVm01NkJ6WUJZc3FLTXo0UzhR?oc=5\" target=\"_blank\">Korea launches language initiative to bridge safety gaps on factory floors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNC1KYnFJTFRSSThSUUdUajlOeXN1eUI5QUtpdWxiUWRZZ0pLQno1eGFXcWtKSl90cFQ5S3dKSVFXVm1uRjZCa2FWcWgzMEF1djFiX1VJNlZyLTZzS3N6ZU40cmxTVy1SN1VGZ2diY09ZMVl1cWwtcEl6dWVoWGdia2dBSnlwRXI1Y0VBeHMxU1BqSzVLaWw5czFDcndfZEhoaEc5V3VWdFJhdnZIaU9RUDR6cXNWbTU2QnpZQllzcUtNejRTOFHSAcYBQVVfeXFMTzQtSmJxSUxUUkk4UlFHVGo5TnlzdXlCOUFLaXVsYlFkWWdKS0J6NXhhV3FrSkpfdHBUOUt3SklRV1ZtbkY2QmthVnFoMzBBdXYxYl9VSTZWci02c0tzemVONHJsU1ctUjdVRmdnYmNPWTFZdXFsLXBJenVlaFhnYmtnQUp5cEVyNWNFQXhzMVNQaks1S2lsOXMxQ3J3X2RIaGhHOVd1VnRSYXZ2SGlPUVA0enFzVm01NkJ6WUJZc3FLTXo0UzhR?oc=5",
@@ -125,14 +133,6 @@
           "source": "The Korea Times",
           "publishedAt": "2026-05-18",
           "views": "18.0K"
-        },
-        {
-          "title": "Presidential office stresses policy priority on 'saving people's lives' through welfare, safety measures - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOekVya3pLeUcxZTRWS19IY1VPcFVfeWhoT2F6UTNCYm1vUUowNjZtZTI4V0dSdVFBNmxSWFplci1qd1lBSTI3M0hBVExOZWdEd0R2Y0NudjV6bUhDODdpcXdRX0xMNWpJbzlkUUVWczZkRkdsTmJTMllOYlhMRjRUbDdCRjVWMV9oR3VuZU1XSWpIWkxpRlpxOEhGVUx5Y2l3LU10cUwtYUEzeEJSc2NvRkRHTEVmZUFhaTVobVZkNFFUb012STlOTWpxb2lPZEtSeFAyWUFtWHhkbkJqc0tZaURpSmtacWJrMzRPZ0lsY9IB9AFBVV95cUxPNGVhODlFaURDemJ3bEsySHdfRWU1S1Nod0V6eC0yNXhRNGptbmRrTnNITXd1T2NLNTFsdlpHQXdlVUVWMEZZS0NadUNramVoUC1PZWY3cTRNaG40eDNWZjZLYlVJUllKZ3VqSy1JQjdQTmMwSG5kTmowUTNyR2ZWajVxVkhQeFYzSTFVTGJoRHI4QWJ5Z0RyMko1MXUta1RaT3NCOWFaTWtfT0dNOFZZa3daSTRJY1BSazE2Z0twS0otRkJ5Qk0wR1hzMW9WU1lOenc1RVNRRHNaREdfeXVMZjM4djVjODF2R1luelBFcTBJbkw4?oc=5\" target=\"_blank\">Presidential office stresses policy priority on 'saving people's lives' through welfare, safety measures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOekVya3pLeUcxZTRWS19IY1VPcFVfeWhoT2F6UTNCYm1vUUowNjZtZTI4V0dSdVFBNmxSWFplci1qd1lBSTI3M0hBVExOZWdEd0R2Y0NudjV6bUhDODdpcXdRX0xMNWpJbzlkUUVWczZkRkdsTmJTMllOYlhMRjRUbDdCRjVWMV9oR3VuZU1XSWpIWkxpRlpxOEhGVUx5Y2l3LU10cUwtYUEzeEJSc2NvRkRHTEVmZUFhaTVobVZkNFFUb012STlOTWpxb2lPZEtSeFAyWUFtWHhkbkJqc0tZaURpSmtacWJrMzRPZ0lsY9IB9AFBVV95cUxPNGVhODlFaURDemJ3bEsySHdfRWU1S1Nod0V6eC0yNXhRNGptbmRrTnNITXd1T2NLNTFsdlpHQXdlVUVWMEZZS0NadUNramVoUC1PZWY3cTRNaG40eDNWZjZLYlVJUllKZ3VqSy1JQjdQTmMwSG5kTmowUTNyR2ZWajVxVkhQeFYzSTFVTGJoRHI4QWJ5Z0RyMko1MXUta1RaT3NCOWFaTWtfT0dNOFZZa3daSTRJY1BSazE2Z0twS0otRkJ5Qk0wR1hzMW9WU1lOenc1RVNRRHNaREdfeXVMZjM4djVjODF2R1luelBFcTBJbkw4?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-05-17",
-          "views": "18.0K"
         }
       ]
     },
@@ -142,27 +142,27 @@
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
         {
-          "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia - TechCrunch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNbmNYNlRBcE51OXpSRHlETmp2a2RoRFByX0RqNUo4RE5WWTA0YVkzM1gwTG82NEtFSGQ0UGNKOGJCT2ZUa2lXdm5LeWdPdDF0RVVnUXJ5X21wWnlvLW9nTVBXdElpckVEeUNDbU1TYjBaa25yTkJXcE1OMDdCZ2dnZHVZd3NOUmE2Z3YwTy1YMzIwUDlFdl9xMWhfVWJ6Zw?oc=5\" target=\"_blank\">Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbmNYNlRBcE51OXpSRHlETmp2a2RoRFByX0RqNUo4RE5WWTA0YVkzM1gwTG82NEtFSGQ0UGNKOGJCT2ZUa2lXdm5LeWdPdDF0RVVnUXJ5X21wWnlvLW9nTVBXdElpckVEeUNDbU1TYjBaa25yTkJXcE1OMDdCZ2dnZHVZd3NOUmE2Z3YwTy1YMzIwUDlFdl9xMWhfVWJ6Zw?oc=5",
-          "source": "TechCrunch AI",
+          "title": "Hyundai bets on hydrogen as energy security fears reshape global market - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNOVozYWpCenlYUlp0ekpQQ3ZQbUVqSWNrRURSckdlaUs4cFNjVFNDX0FNemtOZlB2eWJWcTRnRV9aWk9vZ1VuUjVWcF9ySlV6NTh2WVlXMjFuYmVHYnhXcjlrQ25XZFpvdkhaZTF4cVd1U0hvSVBnLWxKLWh1TlJ5Z2wyaFlxQXc0QkIxUmo3WTBtMHM1ek5zRUZnVzdvT2FYeTlMTUZ3X3RVVU9IUHpmUWU3c2ZPMHRtNE5uUlVxaUM3bG91TGNwdzI0bzfSAcwBQVVfeXFMTTlaM2FqQnp5WFJadHpKUEN2UG1Faklja0VEUnJHZWlLOHBTY1RTQ19BTXprTmZQdnliVnE0Z0VfWlpPb2dVblI1VnBfckpVejU4dllZVzIxbmJlR2J4V3I5a0NuV2Rab3ZIWmUxeHFXdVNIb0lQZy1sSi1odU5SeWdsMmhZcUF3NEJCMVJqN1kwbTBzNXpOc0VGZ1c3b09hWHk5TE1Gd190VVVPSFB6ZlFlN3NmTzB0bTROblJVcWlDN2xvdUxjcHcyNG83?oc=5\" target=\"_blank\">Hyundai bets on hydrogen as energy security fears reshape global market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOVozYWpCenlYUlp0ekpQQ3ZQbUVqSWNrRURSckdlaUs4cFNjVFNDX0FNemtOZlB2eWJWcTRnRV9aWk9vZ1VuUjVWcF9ySlV6NTh2WVlXMjFuYmVHYnhXcjlrQ25XZFpvdkhaZTF4cVd1U0hvSVBnLWxKLWh1TlJ5Z2wyaFlxQXc0QkIxUmo3WTBtMHM1ek5zRUZnVzdvT2FYeTlMTUZ3X3RVVU9IUHpmUWU3c2ZPMHRtNE5uUlVxaUM3bG91TGNwdzI0bzfSAcwBQVVfeXFMTTlaM2FqQnp5WFJadHpKUEN2UG1Faklja0VEUnJHZWlLOHBTY1RTQ19BTXprTmZQdnliVnE0Z0VfWlpPb2dVblI1VnBfckpVejU4dllZVzIxbmJlR2J4V3I5a0NuV2Rab3ZIWmUxeHFXdVNIb0lQZy1sSi1odU5SeWdsMmhZcUF3NEJCMVJqN1kwbTBzNXpOc0VGZ1c3b09hWHk5TE1Gd190VVVPSFB6ZlFlN3NmTzB0bTROblJVcWlDN2xvdUxjcHcyNG83?oc=5",
+          "source": "The Korea Times",
           "publishedAt": "2026-05-21",
           "views": "13.0K"
         },
         {
-          "title": "POSCO Future M signals push into next-generation EV battery market - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ3pFZ3o0azVSTFVLSUdSek9uenZ6aEswWm9ncWg4c2E3SGVFV2d1Y1ZUYmd0cEJMSDd6QkxsejdrRnhXck5HMEM1S0VJa2d0ZjVZNDNrM2c1dExZLXRPNU9xd083b0NISlp0OW82REpFM1lXRzFGMVQxQ1YwZnlTYTctc2s0dHhWa1lhYmlwOWhvSTY0czlObHB3RlJGdHUwMll3eWdpalp4eE9TakotaDhtMERRQmNGMXRMYU93WFBTOGloX1HSAcYBQVVfeXFMTmd6RWd6NGs1UkxVS0lHUnpPbnp2emhLMFpvZ3FoOHNhN0hlRVdndWNWVGJndHBCTEg3ekJMbHo3a0Z4V3JORzBDNUtFSWtndGY1WTQzazNnNXRMWS10TzVPcXdPN29DSEpadDlvNkRKRTNZV0cxRjFUMUNWMGZ5U2E3LXNrNHR4VmtZYWJpcDlob0k2NHM5Tmxwd0ZSRnR1MDJZd3lnaWpaeHhPU2pKLWg4bTBEUUJjRjF0TGFPd1hQUzhpaF9R?oc=5\" target=\"_blank\">POSCO Future M signals push into next-generation EV battery market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ3pFZ3o0azVSTFVLSUdSek9uenZ6aEswWm9ncWg4c2E3SGVFV2d1Y1ZUYmd0cEJMSDd6QkxsejdrRnhXck5HMEM1S0VJa2d0ZjVZNDNrM2c1dExZLXRPNU9xd083b0NISlp0OW82REpFM1lXRzFGMVQxQ1YwZnlTYTctc2s0dHhWa1lhYmlwOWhvSTY0czlObHB3RlJGdHUwMll3eWdpalp4eE9TakotaDhtMERRQmNGMXRMYU93WFBTOGloX1HSAcYBQVVfeXFMTmd6RWd6NGs1UkxVS0lHUnpPbnp2emhLMFpvZ3FoOHNhN0hlRVdndWNWVGJndHBCTEg3ekJMbHo3a0Z4V3JORzBDNUtFSWtndGY1WTQzazNnNXRMWS10TzVPcXdPN29DSEpadDlvNkRKRTNZV0cxRjFUMUNWMGZ5U2E3LXNrNHR4VmtZYWJpcDlob0k2NHM5Tmxwd0ZSRnR1MDJZd3lnaWpaeHhPU2pKLWg4bTBEUUJjRjF0TGFPd1hQUzhpaF9R?oc=5",
+          "title": "Ex-White House chief of staff optimistic over Korea's US investment - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOUGI2NVZaSFRvNXFxLXBWTUZ5Y1NsSUJDcm4tSmJpbjhvUWE4VlJfbmJZN1lQX3VHS1I5aGlTeGoyakgtWGVtVUVEX0lJb2NaOXNhOFdGUlk1Z3hlUl9HN1UwRE5ST1BFd1hoWlBBd3dSaHdHaDhVUy1BT01menVlN1hlYXU2ZnAxQWUwQUJlaWN0ZVJOUUZjdEZwQzVqRzBxRG5LbWltQWZHMUVZSUE0ZHJsSmpmZ1lqMUhyWlVUZDBVMzBscEHSAcYBQVVfeXFMTlBiNjVWWkhUbzVxcS1wVk1GeWNTbElCQ3JuLUpiaW44b1FhOFZSX25iWTdZUF91R0tSOWhpU3hqMmpILVhlbVVFRF9JSW9jWjlzYThXRlJZNWd4ZVJfRzdVMEROUk9QRXdYaFpQQXd3Umh3R2g4VVMtQU9NZnp1ZTdYZWF1NmZwMUFlMEFCZWljdGVSTlFGY3RGcEM1akcwcURuS21pbUFmRzFFWUlBNGRybEpqZmdZajFIclpVVGQwVTMwbHBB?oc=5\" target=\"_blank\">Ex-White House chief of staff optimistic over Korea's US investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUGI2NVZaSFRvNXFxLXBWTUZ5Y1NsSUJDcm4tSmJpbjhvUWE4VlJfbmJZN1lQX3VHS1I5aGlTeGoyakgtWGVtVUVEX0lJb2NaOXNhOFdGUlk1Z3hlUl9HN1UwRE5ST1BFd1hoWlBBd3dSaHdHaDhVUy1BT01menVlN1hlYXU2ZnAxQWUwQUJlaWN0ZVJOUUZjdEZwQzVqRzBxRG5LbWltQWZHMUVZSUE0ZHJsSmpmZ1lqMUhyWlVUZDBVMzBscEHSAcYBQVVfeXFMTlBiNjVWWkhUbzVxcS1wVk1GeWNTbElCQ3JuLUpiaW44b1FhOFZSX25iWTdZUF91R0tSOWhpU3hqMmpILVhlbVVFRF9JSW9jWjlzYThXRlJZNWd4ZVJfRzdVMEROUk9QRXdYaFpQQXd3Umh3R2g4VVMtQU9NZnp1ZTdYZWF1NmZwMUFlMEFCZWljdGVSTlFGY3RGcEM1akcwcURuS21pbUFmRzFFWUlBNGRybEpqZmdZajFIclpVVGQwVTMwbHBB?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-05-20",
+          "publishedAt": "2026-05-21",
           "views": "13.0K"
         },
         {
-          "title": "Seoul deploys ‘mystery shoppers' to guard against price gouging at Gwangjang Market - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPYzZsWXJZMzYwVGdXNWVZa0dLbXZEc0ZLQ1dFYzFBWmtNelNHc01xUTBPSl8tWC12V2xnNXFEQkRkMlVoUDNxTExpcWJ3RmVVclBqX0NDdW96WE1Da1RPNWJjQWFsQThjT0o1aENYZUhLS0RQdlVwbjMwYnduREEzOHNXSWd6SUZRU1pqODVrR2hQUWdQMTB4X2haU3p4cEM0MG82UVhIc0w1OVYyaUxIZjE4VEtaSElNdzFnUnV2Z3JHUm1JUWJSUGpOZ2Y1YW_SAc8BQVVfeXFMT2M2bFlyWTM2MFRnVzVlWWtHS212RHNGS0NXRWMxQVprTXpTR3NNcVEwT0pfLVgtdldsZzVxREJEZDJVaFAzcUxMaXFid0ZlVXJQal9DQ3VvelhNQ2tUTzViY0FhbEE4Y09KNWhDWGVIS0tEUHZVcG4zMGJ3bkRBMzhzV0lneklGUVNaajg1a0doUFFnUDEweF9oWlN6eHBDNDBvNlFYSHNMNTlWMmlMSGYxOFRLWkhJTXcxZ1J1dmdyR1JtSVFiUlBqTmdmNWFv?oc=5\" target=\"_blank\">Seoul deploys ‘mystery shoppers' to guard against price gouging at Gwangjang Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYzZsWXJZMzYwVGdXNWVZa0dLbXZEc0ZLQ1dFYzFBWmtNelNHc01xUTBPSl8tWC12V2xnNXFEQkRkMlVoUDNxTExpcWJ3RmVVclBqX0NDdW96WE1Da1RPNWJjQWFsQThjT0o1aENYZUhLS0RQdlVwbjMwYnduREEzOHNXSWd6SUZRU1pqODVrR2hQUWdQMTB4X2haU3p4cEM0MG82UVhIc0w1OVYyaUxIZjE4VEtaSElNdzFnUnV2Z3JHUm1JUWJSUGpOZ2Y1YW_SAc8BQVVfeXFMT2M2bFlyWTM2MFRnVzVlWWtHS212RHNGS0NXRWMxQVprTXpTR3NNcVEwT0pfLVgtdldsZzVxREJEZDJVaFAzcUxMaXFid0ZlVXJQal9DQ3VvelhNQ2tUTzViY0FhbEE4Y09KNWhDWGVIS0tEUHZVcG4zMGJ3bkRBMzhzV0lneklGUVNaajg1a0doUFFnUDEweF9oWlN6eHBDNDBvNlFYSHNMNTlWMmlMSGYxOFRLWkhJTXcxZ1J1dmdyR1JtSVFiUlBqTmdmNWFv?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-05-20",
+          "title": "Republican revolt over Trump 'anti-weaponization' fund stalls ICE funding vote - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOZEFFWXB2OS1nTHpZQlpPUFc0QmFRelBiYVZyUWQ0UTJsTmp5UDRLckJCaUl5cW9RdGlRT1AxTmFZamlsOFNiallOV1BHcVp4OXNjRXVGQkVZNk1WR2dhMHlUTDZRMkhMekxmazdtdHgzS1B6UXlWVGVMdHhKWkhqU29qRjF6Mk9WSmVqM1IyZTU0c0NMOVdfU1N1ZXMweFM1eGtMdExBQXNtbnBGMXo1TWVsQk1sUWtzSzZibS1UZTNJVGNq?oc=5\" target=\"_blank\">Republican revolt over Trump 'anti-weaponization' fund stalls ICE funding vote</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZEFFWXB2OS1nTHpZQlpPUFc0QmFRelBiYVZyUWQ0UTJsTmp5UDRLckJCaUl5cW9RdGlRT1AxTmFZamlsOFNiallOV1BHcVp4OXNjRXVGQkVZNk1WR2dhMHlUTDZRMkhMekxmazdtdHgzS1B6UXlWVGVMdHhKWkhqU29qRjF6Mk9WSmVqM1IyZTU0c0NMOVdfU1N1ZXMweFM1eGtMdExBQXNtbnBGMXo1TWVsQk1sUWtzSzZibS1UZTNJVGNq?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-05-21",
           "views": "13.0K"
         }
       ]
@@ -173,6 +173,14 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
+          "title": "AI reshapes Korea's fashion retail, manufacturing landscape - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPT25IZWZzcTdTMzdidEUtR0lGaTdkOUZ1QUZnUTZMYVRUamZuN1U5YzMzQ2NkdXhuZU9sWGVKY2otV1YwRFpVT2pDT2NGeW00X2FjS3ZUNGI4cHRtTUZCN1J4czlMU0hGRTlYbzdjbkpUaWdFOVAwVGV4cnRHZ0VSLU9NVDlYQWlfdEJ5clM2bzY2QlVBdk5TQzBta1dRRko0ajBjUkM5WTFvYWtHdkxnSmQ0bnbSAboBQVVfeXFMTXd5VFY5UWRsWmdfdE1EQTVjUHhpU1RfZW9JSXhkSHpsd1l0Sk54NGJySVZZd1hjQVZJdGk3TWJCNE14OFFJbkE3SHN3cVRyOEdBek5GSjBmbWdWdjhpdlQ3QTZmNy1rOG95LXJSVzVMRlViOWdaMUdQNzVzNmstTVI3REJDa1VoTVgyZVZ1NEIwVjVBSkJqdlVoOHcwdDVqMWZlTldubnUxMWNYR0ZxTDR3SUlXR2U4UWVn?oc=5\" target=\"_blank\">AI reshapes Korea's fashion retail, manufacturing landscape</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT25IZWZzcTdTMzdidEUtR0lGaTdkOUZ1QUZnUTZMYVRUamZuN1U5YzMzQ2NkdXhuZU9sWGVKY2otV1YwRFpVT2pDT2NGeW00X2FjS3ZUNGI4cHRtTUZCN1J4czlMU0hGRTlYbzdjbkpUaWdFOVAwVGV4cnRHZ0VSLU9NVDlYQWlfdEJ5clM2bzY2QlVBdk5TQzBta1dRRko0ajBjUkM5WTFvYWtHdkxnSmQ0bnbSAboBQVVfeXFMTXd5VFY5UWRsWmdfdE1EQTVjUHhpU1RfZW9JSXhkSHpsd1l0Sk54NGJySVZZd1hjQVZJdGk3TWJCNE14OFFJbkE3SHN3cVRyOEdBek5GSjBmbWdWdjhpdlQ3QTZmNy1rOG95LXJSVzVMRlViOWdaMUdQNzVzNmstTVI3REJDa1VoTVgyZVZ1NEIwVjVBSkJqdlVoOHcwdDVqMWZlTldubnUxMWNYR0ZxTDR3SUlXR2U4UWVn?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-05-22",
+          "views": "13.0K"
+        },
+        {
           "title": "CJ Olive Young to open 1st US offline store, launch K-beauty ‘global gateway' strategy - The Korea Times",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaFhpMmw1WTJVcUlyNTdlMUZOcHlJTjh3UjJCU3Z0bGVIcEtLd3hjMk43eEw2cUlTQzBldUJOTjVUTFdPWUViRUpTMFhDVFpOeXpYenJwYjBqWmZVbWg5aExyTUp0WU8xYmJIYkhNTHNFVEREd0lBRloxUW1TQ0hxeVptaDN4VERIYXpNNmdpTWFBVXZWYl81UEZveXlSR3BKb2VCQ2pNb0tHVi00SE5QVFA5VEkwOHVXeTFZTkc5U3E0MjFiV0ExUEg0Z0xheE43OE9lT3ZZMktadDRz0gHcAUFVX3lxTE5oWGkybDVZMlVxSXI1N2UxRk5weUlOOHdSMkJTdnRsZUhwS0t3eGMyTjd4TDZxSVNDMGV1Qk5ONVRMV09ZRWJFSlMwWENUWk55elh6cnBiMGpaZlVtaDloTHJNSnRZTzFiYkhiSE1Mc0VURER3SUFGWjFRbVNDSHF5Wm1oM3hUREhhek02Z2lNYUFVdlZiXzVQRm95eVJHcEpvZUJDak1vS0dWLTRITlBUUDlUSTA4dVd5MVlORzlTcTQyMWJXQTFQSDRnTGF4Tjc4T2VPdlkyS1p0NHM?oc=5\" target=\"_blank\">CJ Olive Young to open 1st US offline store, launch K-beauty ‘global gateway' strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaFhpMmw1WTJVcUlyNTdlMUZOcHlJTjh3UjJCU3Z0bGVIcEtLd3hjMk43eEw2cUlTQzBldUJOTjVUTFdPWUViRUpTMFhDVFpOeXpYenJwYjBqWmZVbWg5aExyTUp0WU8xYmJIYkhNTHNFVEREd0lBRloxUW1TQ0hxeVptaDN4VERIYXpNNmdpTWFBVXZWYl81UEZveXlSR3BKb2VCQ2pNb0tHVi00SE5QVFA5VEkwOHVXeTFZTkc5U3E0MjFiV0ExUEg0Z0xheE43OE9lT3ZZMktadDRz0gHcAUFVX3lxTE5oWGkybDVZMlVxSXI1N2UxRk5weUlOOHdSMkJTdnRsZUhwS0t3eGMyTjd4TDZxSVNDMGV1Qk5ONVRMV09ZRWJFSlMwWENUWk55elh6cnBiMGpaZlVtaDloTHJNSnRZTzFiYkhiSE1Mc0VURER3SUFGWjFRbVNDSHF5Wm1oM3hUREhhek02Z2lNYUFVdlZiXzVQRm95eVJHcEpvZUJDak1vS0dWLTRITlBUUDlUSTA4dVd5MVlORzlTcTQyMWJXQTFQSDRnTGF4Tjc4T2VPdlkyS1p0NHM?oc=5",
@@ -182,18 +190,10 @@
         },
         {
           "title": "Huawei Korea holds partner summit to push AI infrastructure strategy - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRTNOdThyMzFQVUxYZDJjSWJ0bGZ4bEstbHVZNUpnWjRockpyWWhOVWQ3ZlFKOTJNWV9wVWtNZjRjUTA5Yy0wSnEtYkxiZjdZR2VEMi1LekMwNXcydE1PR1NkTlh2Y3B4ZS1XeHhmNVJxVXhoY3pER09CRVc0dlNWQVBDM0ZabWJCNzBtSkY0dktyQmJwN2M2M1FzWnpSMUhGMVZ3cDVzUm5uRzUxOEFQc0o5cHo2c21FTU4xX2pMMFYtYnPSAcgBQVVfeXFMTzhQVXZvd1JLTHpOQkd6WmV3bDBTd1dnZEh4TTU0U0ZwY256VklGMGVVMHFsaVR6V3hYZlpTaS1IYVlvcklUQmJUaHVudDRZSTBjd0E4M3BWdzhYS19mcXdXcDJVVTR2enBsb3MtbGRGM0VoVmhnRmcyRnZSZnkxLXVJOEhlcUo4MVlETDY0aER2ZTJmUHVkTTVvajg1aDdkYnZHZGFSX2tvTXhKejdfcW5uMVhWOEgtc2twV0tGdHJpYUIwaUdBNG0?oc=5\" target=\"_blank\">Huawei Korea holds partner summit to push AI infrastructure strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRTNOdThyMzFQVUxYZDJjSWJ0bGZ4bEstbHVZNUpnWjRockpyWWhOVWQ3ZlFKOTJNWV9wVWtNZjRjUTA5Yy0wSnEtYkxiZjdZR2VEMi1LekMwNXcydE1PR1NkTlh2Y3B4ZS1XeHhmNVJxVXhoY3pER09CRVc0dlNWQVBDM0ZabWJCNzBtSkY0dktyQmJwN2M2M1FzWnpSMUhGMVZ3cDVzUm5uRzUxOEFQc0o5cHo2c21FTU4xX2pMMFYtYnPSAcgBQVVfeXFMTzhQVXZvd1JLTHpOQkd6WmV3bDBTd1dnZEh4TTU0U0ZwY256VklGMGVVMHFsaVR6V3hYZlpTaS1IYVlvcklUQmJUaHVudDRZSTBjd0E4M3BWdzhYS19mcXdXcDJVVTR2enBsb3MtbGRGM0VoVmhnRmcyRnZSZnkxLXVJOEhlcUo4MVlETDY0aER2ZTJmUHVkTTVvajg1aDdkYnZHZGFSX2tvTXhKejdfcW5uMVhWOEgtc2twV0tGdHJpYUIwaUdBNG0?oc=5",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOFBVdm93UktMek5CR3paZXdsMFN3V2dkSHhNNTRTRnBjbnpWSUYwZVUwcWxpVHpXeFhmWlNpLUhhWW9ySVRCYlRodW50NFlJMGN3QTgzcFZ3OFhLX2Zxd1dwMlVVNHZ6cGxvcy1sZEYzRWhWaGdGZzJGdlJmeTEtdUk4SGVxSjgxWURMNjRoRHZlMmZQdWRNNW9qODVoN2RidkdkYVJfa29NeEp6N19xbm4xWFY4SC1za3BXS0Z0cmlhQjBpR0E0bdIByAFBVV95cUxPOFBVdm93UktMek5CR3paZXdsMFN3V2dkSHhNNTRTRnBjbnpWSUYwZVUwcWxpVHpXeFhmWlNpLUhhWW9ySVRCYlRodW50NFlJMGN3QTgzcFZ3OFhLX2Zxd1dwMlVVNHZ6cGxvcy1sZEYzRWhWaGdGZzJGdlJmeTEtdUk4SGVxSjgxWURMNjRoRHZlMmZQdWRNNW9qODVoN2RidkdkYVJfa29NeEp6N19xbm4xWFY4SC1za3BXS0Z0cmlhQjBpR0E0bQ?oc=5\" target=\"_blank\">Huawei Korea holds partner summit to push AI infrastructure strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOFBVdm93UktMek5CR3paZXdsMFN3V2dkSHhNNTRTRnBjbnpWSUYwZVUwcWxpVHpXeFhmWlNpLUhhWW9ySVRCYlRodW50NFlJMGN3QTgzcFZ3OFhLX2Zxd1dwMlVVNHZ6cGxvcy1sZEYzRWhWaGdGZzJGdlJmeTEtdUk4SGVxSjgxWURMNjRoRHZlMmZQdWRNNW9qODVoN2RidkdkYVJfa29NeEp6N19xbm4xWFY4SC1za3BXS0Z0cmlhQjBpR0E0bdIByAFBVV95cUxPOFBVdm93UktMek5CR3paZXdsMFN3V2dkSHhNNTRTRnBjbnpWSUYwZVUwcWxpVHpXeFhmWlNpLUhhWW9ySVRCYlRodW50NFlJMGN3QTgzcFZ3OFhLX2Zxd1dwMlVVNHZ6cGxvcy1sZEYzRWhWaGdGZzJGdlJmeTEtdUk4SGVxSjgxWURMNjRoRHZlMmZQdWRNNW9qODVoN2RidkdkYVJfa29NeEp6N19xbm4xWFY4SC1za3BXS0Z0cmlhQjBpR0E0bQ?oc=5",
           "source": "The Korea Times",
           "publishedAt": "2026-05-21",
-          "views": "13.0K"
-        },
-        {
-          "title": "Planned crypto tax rollout faces growing investor backlash - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc2h6TjdGekZ4c2twR3Rjem5FcG9MZ0VMLXViYWU2S1BqSVFqdFVlaHRGclBmOXBHUDZJdHlLUUtDejVDcENHeHFaUEFyVUpmc1pDOG1MbzBxUTlQbzVpOXJTUE5LZEdGb2dZeHFVbXN6MXkyQWdZVEdrRjlCT2FvV29HVV9qSnA0ODB1bUhhR3FiRHpXOUhMN0s3Mk8zMUtWOE5oQmdzdjhRQzdyX25ETWMxRklnek1WaVRPVXdvZmTSAcABQVVfeXFMTXNoek43RnpGeHNrcEd0Y3puRXBvTGdFTC11YmFlNktQaklRanRVZWh0RnJQZjlwR1A2SXR5S1FLQ3o1Q3BDR3hxWlBBclVKZnNaQzhtTG8wcVE5UG81aTlyU1BOS2RHRm9nWXhxVW1zejF5MkFnWVRHa0Y5Qk9hb1dvR1VfakpwNDgwdW1IYUdxYkR6VzlITDdLNzJPMzFLVjhOaEJnc3Y4UUM3cl9uRE1jMUZJZ3pNVmlUT1V3b2Zk?oc=5\" target=\"_blank\">Planned crypto tax rollout faces growing investor backlash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc2h6TjdGekZ4c2twR3Rjem5FcG9MZ0VMLXViYWU2S1BqSVFqdFVlaHRGclBmOXBHUDZJdHlLUUtDejVDcENHeHFaUEFyVUpmc1pDOG1MbzBxUTlQbzVpOXJTUE5LZEdGb2dZeHFVbXN6MXkyQWdZVEdrRjlCT2FvV29HVV9qSnA0ODB1bUhhR3FiRHpXOUhMN0s3Mk8zMUtWOE5oQmdzdjhRQzdyX25ETWMxRklnek1WaVRPVXdvZmTSAcABQVVfeXFMTXNoek43RnpGeHNrcEd0Y3puRXBvTGdFTC11YmFlNktQaklRanRVZWh0RnJQZjlwR1A2SXR5S1FLQ3o1Q3BDR3hxWlBBclVKZnNaQzhtTG8wcVE5UG81aTlyU1BOS2RHRm9nWXhxVW1zejF5MkFnWVRHa0Y5Qk9hb1dvR1VfakpwNDgwdW1IYUdxYkR6VzlITDdLNzJPMzFLVjhOaEJnc3Y4UUM3cl9uRE1jMUZJZ3pNVmlUT1V3b2Zk?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-05-20",
           "views": "13.0K"
         }
       ]
