@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-26T04:33:19.640Z",
+  "lastUpdated": "2026-05-27T04:46:25.934Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,25 +49,25 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
-          "title": "Google updates its Gemini app to take on ChatGPT and Claude at IO 2026 - TechCrunch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaXhyRzNKVGVjZWlaYXU2QWFWSmREdkt0djBLcWRWa2ItcEdZZUNhUjFPRlpDZzJVdmJuNDgxSnBvdlYtc21YOUJIVjlUbmZoMTBLMU1XOVdqTHFXVDl5NkhBTVpuTWNSYVFDcE5STHFWZm1TbFNEcm0wVXFSN2RUWEwzWmk4WHBiQlBjQ0ItLUpEbVNsT1lHQXgxNHJUVVhZMFV4Wld1UFE?oc=5\" target=\"_blank\">Google updates its Gemini app to take on ChatGPT and Claude at IO 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaXhyRzNKVGVjZWlaYXU2QWFWSmREdkt0djBLcWRWa2ItcEdZZUNhUjFPRlpDZzJVdmJuNDgxSnBvdlYtc21YOUJIVjlUbmZoMTBLMU1XOVdqTHFXVDl5NkhBTVpuTWNSYVFDcE5STHFWZm1TbFNEcm0wVXFSN2RUWEwzWmk4WHBiQlBjQ0ItLUpEbVNsT1lHQXgxNHJUVVhZMFV4Wld1UFE?oc=5",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-05-19",
+          "title": "DeepSWE blows up the AI coding leaderboard, crowns GPT-5.5, and finds Claude Opus exploiting a benchmark loophole - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOXRwSDdMTkRfV0lXZGFwSmlqYXFmSmNQckM2SUFOUmYyLTlGcjRDYzlnTWtLdU9lemtTbFVHNWxTcWFCaVJqaE1xN2dsU1lFMm80UU44d3pZaWIzSW4xQm80S1hMZkxudXlSN05hdkJlek1TdzlzYWY0ZlJQdkFONlhkYWNvaGM3V1ZMaTdBZWtZVnpPNGJTeDBQR09QQTdvRFQzUDlQTUdLM0dzNGlaZi0tRGZUaGh1R2ZQb3d2RHozcExhU2VZNENQcXdpdHpqUWRZVmZfWFlhQzMxY2RJ?oc=5\" target=\"_blank\">DeepSWE blows up the AI coding leaderboard, crowns GPT-5.5, and finds Claude Opus exploiting a benchmark loophole</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOXRwSDdMTkRfV0lXZGFwSmlqYXFmSmNQckM2SUFOUmYyLTlGcjRDYzlnTWtLdU9lemtTbFVHNWxTcWFCaVJqaE1xN2dsU1lFMm80UU44d3pZaWIzSW4xQm80S1hMZkxudXlSN05hdkJlek1TdzlzYWY0ZlJQdkFONlhkYWNvaGM3V1ZMaTdBZWtZVnpPNGJTeDBQR09QQTdvRFQzUDlQTUdLM0dzNGlaZi0tRGZUaGh1R2ZQb3d2RHozcExhU2VZNENQcXdpdHpqUWRZVmZfWFlhQzMxY2RJ?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-05-26",
           "views": "23.0K"
         },
         {
           "title": "Chipmakers' record bonuses to fuel demand for houses, luxury cars - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxORDNSMC1IbWdNUk9zZHgyNFB1QjlsajhUY2d3Y25aNUN2OGNqemRPUEx4UGlwVDd5RkdPTjVxazBoYXFzU1hmLVVhb0Y5Z09oNTNUcFVDd0RIZXRxMGptNjVZZF8yUzBVX2lHU1R4eUdYNmJYcGJ2SVZ2MWFnb1FZZHRCNWpvQ1ZCQUVpVm4yTXFzV3JwSXp6Um5yelVydWJYbk1zZUQyTTNlVFNsTXRxRktlYndFRUZHMy1tVTFJYmx1d9IBwgFBVV95cUxORDNSMC1IbWdNUk9zZHgyNFB1QjlsajhUY2d3Y25aNUN2OGNqemRPUEx4UGlwVDd5RkdPTjVxazBoYXFzU1hmLVVhb0Y5Z09oNTNUcFVDd0RIZXRxMGptNjVZZF8yUzBVX2lHU1R4eUdYNmJYcGJ2SVZ2MWFnb1FZZHRCNWpvQ1ZCQUVpVm4yTXFzV3JwSXp6Um5yelVydWJYbk1zZUQyTTNlVFNsTXRxRktlYndFRUZHMy1tVTFJYmx1dw?oc=5\" target=\"_blank\">Chipmakers' record bonuses to fuel demand for houses, luxury cars</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORDNSMC1IbWdNUk9zZHgyNFB1QjlsajhUY2d3Y25aNUN2OGNqemRPUEx4UGlwVDd5RkdPTjVxazBoYXFzU1hmLVVhb0Y5Z09oNTNUcFVDd0RIZXRxMGptNjVZZF8yUzBVX2lHU1R4eUdYNmJYcGJ2SVZ2MWFnb1FZZHRCNWpvQ1ZCQUVpVm4yTXFzV3JwSXp6Um5yelVydWJYbk1zZUQyTTNlVFNsTXRxRktlYndFRUZHMy1tVTFJYmx1d9IBwgFBVV95cUxORDNSMC1IbWdNUk9zZHgyNFB1QjlsajhUY2d3Y25aNUN2OGNqemRPUEx4UGlwVDd5RkdPTjVxazBoYXFzU1hmLVVhb0Y5Z09oNTNUcFVDd0RIZXRxMGptNjVZZF8yUzBVX2lHU1R4eUdYNmJYcGJ2SVZ2MWFnb1FZZHRCNWpvQ1ZCQUVpVm4yTXFzV3JwSXp6Um5yelVydWJYbk1zZUQyTTNlVFNsTXRxRktlYndFRUZHMy1tVTFJYmx1dw?oc=5",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQWFlFRmdPQ2l5M2NPcUhwZ0w3TlREbVlGZmd4dmtiQTFCYTR1c0FTTWMyVGVCWE1QcGhFbU1mRjg2MW93Z2dZM0VDcUtkVHRyRkR6RE9xcTZmOVU5dkZ5d0stbDBGZGZud3U4blF5VWgxbWNtTFhfamhWUHRWdkdkXzhORFE4YWlYVlJqQW9LTV9sb25yc2gyQmFrdmdqRlBiWUJJd0hSRW9PZWo0a0NMODI0MVFwVThCNGZNQdIBwgFBVV95cUxORDNSMC1IbWdNUk9zZHgyNFB1QjlsajhUY2d3Y25aNUN2OGNqemRPUEx4UGlwVDd5RkdPTjVxazBoYXFzU1hmLVVhb0Y5Z09oNTNUcFVDd0RIZXRxMGptNjVZZF8yUzBVX2lHU1R4eUdYNmJYcGJ2SVZ2MWFnb1FZZHRCNWpvQ1ZCQUVpVm4yTXFzV3JwSXp6Um5yelVydWJYbk1zZUQyTTNlVFNsTXRxRktlYndFRUZHMy1tVTFJYmx1dw?oc=5\" target=\"_blank\">Chipmakers' record bonuses to fuel demand for houses, luxury cars</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWFlFRmdPQ2l5M2NPcUhwZ0w3TlREbVlGZmd4dmtiQTFCYTR1c0FTTWMyVGVCWE1QcGhFbU1mRjg2MW93Z2dZM0VDcUtkVHRyRkR6RE9xcTZmOVU5dkZ5d0stbDBGZGZud3U4blF5VWgxbWNtTFhfamhWUHRWdkdkXzhORFE4YWlYVlJqQW9LTV9sb25yc2gyQmFrdmdqRlBiWUJJd0hSRW9PZWo0a0NMODI0MVFwVThCNGZNQdIBwgFBVV95cUxORDNSMC1IbWdNUk9zZHgyNFB1QjlsajhUY2d3Y25aNUN2OGNqemRPUEx4UGlwVDd5RkdPTjVxazBoYXFzU1hmLVVhb0Y5Z09oNTNUcFVDd0RIZXRxMGptNjVZZF8yUzBVX2lHU1R4eUdYNmJYcGJ2SVZ2MWFnb1FZZHRCNWpvQ1ZCQUVpVm4yTXFzV3JwSXp6Um5yelVydWJYbk1zZUQyTTNlVFNsTXRxRktlYndFRUZHMy1tVTFJYmx1dw?oc=5",
           "source": "The Korea Times",
           "publishedAt": "2026-05-25",
           "views": "18.0K"
         },
         {
-          "title": "Alibaba's proprietary Qwen3.7-Max can run for 35 hours autonomously and supports external harnesses like Anthropic's Claude Code - Venturebeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxON2FQNVBQcldMTXU3OEZTNzNyanEyOEZUWW0tRWFmZnBIRTN5ak4weEoyNVRJalRRYmFjaTh4T2JKbm5iaFl5U3ZpcWMxbGk2ellXYXR1ME9Qc201a0pXdFBldng5bFZ4enR4d3FoVXBpdjJLWmdVd1Q4QXNDVjdjenp2eFJ2V3AxWmx6VGFWTzhDUTJmbTllMTg5TWhzdkY4MjA5MW1jZ1BpblBMV0gya0JkdVZQeFlWbnlBNUpyVFMzdXNPNzBYb1JDcTNXdnZLQW5jcjRPd0ZSOXE2bktxMmo5c3VHM0t6bEZhcUxNU0JydUk?oc=5\" target=\"_blank\">Alibaba's proprietary Qwen3.7-Max can run for 35 hours autonomously and supports external harnesses like Anthropic's Claude Code</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Venturebeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxON2FQNVBQcldMTXU3OEZTNzNyanEyOEZUWW0tRWFmZnBIRTN5ak4weEoyNVRJalRRYmFjaTh4T2JKbm5iaFl5U3ZpcWMxbGk2ellXYXR1ME9Qc201a0pXdFBldng5bFZ4enR4d3FoVXBpdjJLWmdVd1Q4QXNDVjdjenp2eFJ2V3AxWmx6VGFWTzhDUTJmbTllMTg5TWhzdkY4MjA5MW1jZ1BpblBMV0gya0JkdVZQeFlWbnlBNUpyVFMzdXNPNzBYb1JDcTNXdnZLQW5jcjRPd0ZSOXE2bktxMmo5c3VHM0t6bEZhcUxNU0JydUk?oc=5",
+          "title": "LLM agent memory at 0.12% of model parameters - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWlRFTjBxd0tWdEtLckpva2x3c2lFeUQyeHktbVp0R3ZIcVg0UHMxalFGSWhUYmRoRVJ5R3VRN01XWS1lYmFjeDZYSFVJbVJ1b2ZkQ1dvODdtTDlJVWMxYjVJbjlpRm0wSGRuTFZWd3NsQ01OX3pPWlRhN2pWZ0I0QWJXX3loQzZFWWtVUG4wRDdlSEM2R1dsQmRmRzNnNkRtLU1icWc4Zjg?oc=5\" target=\"_blank\">LLM agent memory at 0.12% of model parameters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWlRFTjBxd0tWdEtLckpva2x3c2lFeUQyeHktbVp0R3ZIcVg0UHMxalFGSWhUYmRoRVJ5R3VRN01XWS1lYmFjeDZYSFVJbVJ1b2ZkQ1dvODdtTDlJVWMxYjVJbjlpRm0wSGRuTFZWd3NsQ01OX3pPWlRhN2pWZ0I0QWJXX3loQzZFWWtVUG4wRDdlSEM2R1dsQmRmRzNnNkRtLU1icWc4Zjg?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-05-21",
           "views": "18.0K"
@@ -80,24 +80,24 @@
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
         {
-          "title": "AI agents are quietly generating chaos engineering failures enterprises don’t track yet - Venturebeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWFdDLVZMREZmRVNJOC05Tmp5WUl0bkFaZjUzVk5qSy1jbHhWcGtmT1h1aHJmZmJWaWJNdTJFMDhRS29qTlkxQUlhOW1EdzlhbTBVZmRCRG9XeVBtYnhEQ0NBVmxHZE4zczRPREtubkRMY05YSFVkbVRCM0hiWGZDRUFVbXN0aVRfQlZhT0s2cXhncVpKQnJFeE1HUWtsU0t0SnZZNktHNDVabHlfQ19iT0pmb1BXVU1PYmlWV19OVXV1dw?oc=5\" target=\"_blank\">AI agents are quietly generating chaos engineering failures enterprises don’t track yet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Venturebeat</font>",
+          "title": "AI agents are quietly generating chaos engineering failures enterprises don’t track yet - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWFdDLVZMREZmRVNJOC05Tmp5WUl0bkFaZjUzVk5qSy1jbHhWcGtmT1h1aHJmZmJWaWJNdTJFMDhRS29qTlkxQUlhOW1EdzlhbTBVZmRCRG9XeVBtYnhEQ0NBVmxHZE4zczRPREtubkRMY05YSFVkbVRCM0hiWGZDRUFVbXN0aVRfQlZhT0s2cXhncVpKQnJFeE1HUWtsU0t0SnZZNktHNDVabHlfQ19iT0pmb1BXVU1PYmlWV19OVXV1dw?oc=5\" target=\"_blank\">AI agents are quietly generating chaos engineering failures enterprises don’t track yet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWFdDLVZMREZmRVNJOC05Tmp5WUl0bkFaZjUzVk5qSy1jbHhWcGtmT1h1aHJmZmJWaWJNdTJFMDhRS29qTlkxQUlhOW1EdzlhbTBVZmRCRG9XeVBtYnhEQ0NBVmxHZE4zczRPREtubkRMY05YSFVkbVRCM0hiWGZDRUFVbXN0aVRfQlZhT0s2cXhncVpKQnJFeE1HUWtsU0t0SnZZNktHNDVabHlfQ19iT0pmb1BXVU1PYmlWV19OVXV1dw?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-05-24",
           "views": "18.0K"
         },
         {
-          "title": "Enterprise AI agents keep failing because they forget what they learned - Venturebeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPUXhOWVltUDZXVDVvZzU5ZF9FaEhMb0syOFc4LVRvQm81a1NzQ2ppZDBVbG5EbllCa05RT3ozQjJSaTBzZDlsU2F1R1F3dDRKYl9ZbXFoMjB3NmxueGo0OERTYUZrQ0RzdWFfTkJvNjhGcFgzODFfVkRLckNwV09wOEpWZUlSZjdWQzVQNGtURjhsUGdkOWVNR19ublNJUzZnQ0tiUGtRUF9jSGRMVGc?oc=5\" target=\"_blank\">Enterprise AI agents keep failing because they forget what they learned</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Venturebeat</font>",
+          "title": "Enterprise AI agents keep failing because they forget what they learned - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPUXhOWVltUDZXVDVvZzU5ZF9FaEhMb0syOFc4LVRvQm81a1NzQ2ppZDBVbG5EbllCa05RT3ozQjJSaTBzZDlsU2F1R1F3dDRKYl9ZbXFoMjB3NmxueGo0OERTYUZrQ0RzdWFfTkJvNjhGcFgzODFfVkRLckNwV09wOEpWZUlSZjdWQzVQNGtURjhsUGdkOWVNR19ublNJUzZnQ0tiUGtRUF9jSGRMVGc?oc=5\" target=\"_blank\">Enterprise AI agents keep failing because they forget what they learned</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUXhOWVltUDZXVDVvZzU5ZF9FaEhMb0syOFc4LVRvQm81a1NzQ2ppZDBVbG5EbllCa05RT3ozQjJSaTBzZDlsU2F1R1F3dDRKYl9ZbXFoMjB3NmxueGo0OERTYUZrQ0RzdWFfTkJvNjhGcFgzODFfVkRLckNwV09wOEpWZUlSZjdWQzVQNGtURjhsUGdkOWVNR19ublNJUzZnQ0tiUGtRUF9jSGRMVGc?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-05-21",
           "views": "18.0K"
         },
         {
-          "title": "NanoClaw's creators are turning the secure, open source AI agent harness into an enterprise 'second brain' - Venturebeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNU3pHN3BicEROaTVNYWtfRTNSTUpKVUdUREZIaHlhZ1I0Mmxybm5zV0F1V2hkZjRrbEdxZXVoM1dRcnBsdGYzLXlCdGdaVFZvZS1icTQ3YXhZYVFoMEwxQXpqeFJ0aDVjcXByNnZCUEcyc29LSXRJLU1lVTVVZTRwYVg5YjZPbmNVLVU2YWN0bjQ0WEZtN05vMjdPcTlHdGE2YWd2Q1ZNTkRDUXlicmZsR3h0bkZPREtkUHB3NlBKZmpSekE4LVVYUk1FMkVFTUQwTFQzVDdpMA?oc=5\" target=\"_blank\">NanoClaw's creators are turning the secure, open source AI agent harness into an enterprise 'second brain'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Venturebeat</font>",
+          "title": "NanoClaw's creators are turning the secure, open source AI agent harness into an enterprise 'second brain' - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNU3pHN3BicEROaTVNYWtfRTNSTUpKVUdUREZIaHlhZ1I0Mmxybm5zV0F1V2hkZjRrbEdxZXVoM1dRcnBsdGYzLXlCdGdaVFZvZS1icTQ3YXhZYVFoMEwxQXpqeFJ0aDVjcXByNnZCUEcyc29LSXRJLU1lVTVVZTRwYVg5YjZPbmNVLVU2YWN0bjQ0WEZtN05vMjdPcTlHdGE2YWd2Q1ZNTkRDUXlicmZsR3h0bkZPREtkUHB3NlBKZmpSekE4LVVYUk1FMkVFTUQwTFQzVDdpMA?oc=5\" target=\"_blank\">NanoClaw's creators are turning the secure, open source AI agent harness into an enterprise 'second brain'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNU3pHN3BicEROaTVNYWtfRTNSTUpKVUdUREZIaHlhZ1I0Mmxybm5zV0F1V2hkZjRrbEdxZXVoM1dRcnBsdGYzLXlCdGdaVFZvZS1icTQ3YXhZYVFoMEwxQXpqeFJ0aDVjcXByNnZCUEcyc29LSXRJLU1lVTVVZTRwYVg5YjZPbmNVLVU2YWN0bjQ0WEZtN05vMjdPcTlHdGE2YWd2Q1ZNTkRDUXlicmZsR3h0bkZPREtkUHB3NlBKZmpSekE4LVVYUk1FMkVFTUQwTFQzVDdpMA?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-05-20",
@@ -111,14 +111,6 @@
       "description": "규제, 책임, 신뢰, 저작권 같은 문제를 보는 관점",
       "items": [
         {
-          "title": "Judge says lawyers' AI use risks ‘career-altering’ consequences - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNUmM4Y2pQODVaVElTdG9fR3dKR2pKaEw3UDFXOG42aW85c3c5cTVhWC1sTVVIRkxYZGJjMW13WDBKTWJLRWtwNkhQZG1SNl9VcjRJd1VCU3Nhd2Rqd19jMWhXcjdCT280S0hkemQxVk5LLWtQVkVUQUg1RU9YUldnSWtvUkFpRGhPV2ZJX3BQTEk4RUV2U0dIM1YyNmpodGJQVzl5Y2JmTy1NdTA0ZWtiaUtxaw?oc=5\" target=\"_blank\">Judge says lawyers' AI use risks ‘career-altering’ consequences</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUmM4Y2pQODVaVElTdG9fR3dKR2pKaEw3UDFXOG42aW85c3c5cTVhWC1sTVVIRkxYZGJjMW13WDBKTWJLRWtwNkhQZG1SNl9VcjRJd1VCU3Nhd2Rqd19jMWhXcjdCT280S0hkemQxVk5LLWtQVkVUQUg1RU9YUldnSWtvUkFpRGhPV2ZJX3BQTEk4RUV2U0dIM1YyNmpodGJQVzl5Y2JmTy1NdTA0ZWtiaUtxaw?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-05-22",
-          "views": "18.0K"
-        },
-        {
           "title": "Vice FM meets US lawmaker, policy expert to discuss alliance, joint fact sheet - The Korea Times",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOHdsR1ZvWFZ4c0UxakxUVVhiLU1IWVB1TTUzTlg0dm9mVThWM1lnTEFUU0NlTU9uMG5wWVBOcFFrQ05IUTM5N2lPdnY3a29RUVZiamQ4dHE2bFNIOGxYcnRKUVktR0J2Yi1jOS1wVVB2Y19jUVNyb19UR1ZtcWJYVU5aUmZDWWd4UDJhcXY2cV95THd4TzZ5NDFaN2NvektxMHkwNlo1MFY4WHp0X255OGt2bTIzcmRNYW9jdml2ZVJwWGNlYWhuONIBzgFBVV95cUxNT19KcmNDQktud21uWTRrbkk4a3ZHTWo5WlNqRUZQT2JZVnVvYnU5UG5HZWRZQk5FbURsemthQTY2N0ZnUXJ0cnJleWh3MjFKaTJMdndCV1pQSExiaFhoajFsLVEyNW9JRFNSUUVUaVJOY09RVVBNS21fTlpFYm1LaTM2VUxmVlhERm5NUmxxa2Q1ZVlySmNFYzRMN2tleVowRWg3TWI3a2NlMjVsOGlzM2hVU3FadHVYLWtXYkhBN1lQUWs1eWxOencxc2w0UQ?oc=5\" target=\"_blank\">Vice FM meets US lawmaker, policy expert to discuss alliance, joint fact sheet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOHdsR1ZvWFZ4c0UxakxUVVhiLU1IWVB1TTUzTlg0dm9mVThWM1lnTEFUU0NlTU9uMG5wWVBOcFFrQ05IUTM5N2lPdnY3a29RUVZiamQ4dHE2bFNIOGxYcnRKUVktR0J2Yi1jOS1wVVB2Y19jUVNyb19UR1ZtcWJYVU5aUmZDWWd4UDJhcXY2cV95THd4TzZ5NDFaN2NvektxMHkwNlo1MFY4WHp0X255OGt2bTIzcmRNYW9jdml2ZVJwWGNlYWhuONIBzgFBVV95cUxNT19KcmNDQktud21uWTRrbkk4a3ZHTWo5WlNqRUZQT2JZVnVvYnU5UG5HZWRZQk5FbURsemthQTY2N0ZnUXJ0cnJleWh3MjFKaTJMdndCV1pQSExiaFhoajFsLVEyNW9JRFNSUUVUaVJOY09RVVBNS21fTlpFYm1LaTM2VUxmVlhERm5NUmxxa2Q1ZVlySmNFYzRMN2tleVowRWg3TWI3a2NlMjVsOGlzM2hVU3FadHVYLWtXYkhBN1lQUWs1eWxOencxc2w0UQ?oc=5",
@@ -127,11 +119,19 @@
           "views": "18.0K"
         },
         {
-          "title": "Samsung Electronics employees now score ‘almost like lawyers' in Korea's marriage market - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNEZFTjVXeXlrdUJETHZUZ3NRdldtSFY5TDZySXlTLWxFX0NOMDlxY1pNcUpGRnBtMzI5bVItM3hURzNLc0g2Rl90VHQ3M05CVndnV25CRHNEbjFSeDlkN2Z3dkxPM2VSam1DMG1LRlZHYlI2Q09jYm9pTzRIM3RGUldrRV94QTBoQ2ZMamdKUFAtaGxzWXRKTENmUm5lbWNqbmFXRndZTk1GajdXOUhrUnhpTExmWWRCLUhqZnM1dW9QMDNEQUx3WkJsOWxKWG5oWWJ3cHV6aURnZ9IB3wFBVV95cUxOMWVVMWxtWTV5Ymo1clFETVN3dkFYY2ZpNC1rbVgyX3YxMmxMSDdFRXlkeWVMdWxlVUhYSlMtWDhnSnFiX2FnSUQtQ3ZlMDNydkxSZl91Vm56S1IybWdLSXdLVEVNRno4Vjd1bTdhbVdqSjlrM1lXS0dRa1dOc3pmM2NKUjFyemhhMXZiWGQtcktNV01WRmdxOE4zX2FPUEZCMHd5Z2szSV8yUVIxSHdiVjFnV0pBMXYzVkdPSnJFRjhGUlNWNi0tWXZUOEpnQkFVYmhSWUg0REpWU1FDRHE4?oc=5\" target=\"_blank\">Samsung Electronics employees now score ‘almost like lawyers' in Korea's marriage market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNEZFTjVXeXlrdUJETHZUZ3NRdldtSFY5TDZySXlTLWxFX0NOMDlxY1pNcUpGRnBtMzI5bVItM3hURzNLc0g2Rl90VHQ3M05CVndnV25CRHNEbjFSeDlkN2Z3dkxPM2VSam1DMG1LRlZHYlI2Q09jYm9pTzRIM3RGUldrRV94QTBoQ2ZMamdKUFAtaGxzWXRKTENmUm5lbWNqbmFXRndZTk1GajdXOUhrUnhpTExmWWRCLUhqZnM1dW9QMDNEQUx3WkJsOWxKWG5oWWJ3cHV6aURnZ9IB3wFBVV95cUxOMWVVMWxtWTV5Ymo1clFETVN3dkFYY2ZpNC1rbVgyX3YxMmxMSDdFRXlkeWVMdWxlVUhYSlMtWDhnSnFiX2FnSUQtQ3ZlMDNydkxSZl91Vm56S1IybWdLSXdLVEVNRno4Vjd1bTdhbVdqSjlrM1lXS0dRa1dOc3pmM2NKUjFyemhhMXZiWGQtcktNV01WRmdxOE4zX2FPUEZCMHd5Z2szSV8yUVIxSHdiVjFnV0pBMXYzVkdPSnJFRjhGUlNWNi0tWXZUOEpnQkFVYmhSWUg0REpWU1FDRHE4?oc=5",
+          "title": "Investigators quiz ex-JCS chairman over alleged role in martial law - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOSGZKR2ttODRfOG1DemJ2akN3NEwtdWtGbDR5dVd6Tm9MZURzZy1mY25DZmR2bmt0MkwzOGQtSkFBTUUySERJRE5PMXB4SDVXTUZBZU5XOW9zeXJaa1NaVXNSTUhveWZzcGtPV1hGTE5FRXMwa1RlTHdXdkZyZFNMQmZNVmVPQWtrb1dURlh5NHpBOGM2cE16eFZWSUttNFMtQ3NRX0YxRHZhT2JnOFRTODlpZmlUSEVDeWUzamswT211ZnVf0gHKAUFVX3lxTE9oOHJfVGlWOGRIYjh3NU9tX3pYNEJvckFuQzV4R3Fpb0NtOTlUMk1TcUtiZGVrcjdzdmRfQXZLUzlFS3dnWnhYRnMtYXJkSGx0MmtoMU1Xb3ZoRUJhMmNaZksxR3VJa3YtUVhtNzl0T0VvRE1YOGw3czBWOVQybzY3bUM3NU1iTnc1UExmcHI3S2V6YW00cDNrUU13aTlqTEtCSk83R3puNi1fQUpSMUR5TkliNnRieWxTODkxbnZZbkw0ZXRuQ3RCVmc?oc=5\" target=\"_blank\">Investigators quiz ex-JCS chairman over alleged role in martial law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSGZKR2ttODRfOG1DemJ2akN3NEwtdWtGbDR5dVd6Tm9MZURzZy1mY25DZmR2bmt0MkwzOGQtSkFBTUUySERJRE5PMXB4SDVXTUZBZU5XOW9zeXJaa1NaVXNSTUhveWZzcGtPV1hGTE5FRXMwa1RlTHdXdkZyZFNMQmZNVmVPQWtrb1dURlh5NHpBOGM2cE16eFZWSUttNFMtQ3NRX0YxRHZhT2JnOFRTODlpZmlUSEVDeWUzamswT211ZnVf0gHKAUFVX3lxTE9oOHJfVGlWOGRIYjh3NU9tX3pYNEJvckFuQzV4R3Fpb0NtOTlUMk1TcUtiZGVrcjdzdmRfQXZLUzlFS3dnWnhYRnMtYXJkSGx0MmtoMU1Xb3ZoRUJhMmNaZksxR3VJa3YtUVhtNzl0T0VvRE1YOGw3czBWOVQybzY3bUM3NU1iTnc1UExmcHI3S2V6YW00cDNrUU13aTlqTEtCSk83R3puNi1fQUpSMUR5TkliNnRieWxTODkxbnZZbkw0ZXRuQ3RCVmc?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-05-25",
+          "publishedAt": "2026-05-27",
+          "views": "13.0K"
+        },
+        {
+          "title": "KOSPI heading toward 10,000: Fundamentals, policy fuel Korea's market rally - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeEIwU3pDRW0ySktPOFJTWVhNNHFoZVFJLXFDa1VKWFlTNXE1Vk8xSGVjUktWTEJURnBpQy1iVUZfemloclhZY2Z2OWhlemRmcmY2cEgyS1l3S3ZxTUtfTjEwRUphYWowSUtuM0tYbUdHaGdjcjVNa2lJQm4xRDhVMUQ5VXFWZ0ZGNlVoYTZWXzNzYWE4X2dfYjdZZmMzclh2b1dkRjJDQ0FDV1RYR3Brbl9heUZzOWlGdkg1aWJncEpKZ9IBxwFBVV95cUxNYUx4NmZuV2ZHWW4xRlJzUFJaVURjcjBjUm8wN0RNT2dJWFYwaUh6VC12LUh5Nkc0cUNzSlVoSTkydzhlRDl6N0FhUUUxbjZqSThnUmZCc3lCUjRCdWZYTE5Sb3JfN2xlb3Q4YjQ4ZDk2SGhPV2I5T3JJdGNvV29RRXBKN0JxcWNrYnduODRZeDE5Y1duVXoxdFRNdEVKSU03dTFUelFaMUg4RGpxZmFwTGxvVDVMTnFwWU8zc3J1NFNxN2Y5QUpj?oc=5\" target=\"_blank\">KOSPI heading toward 10,000: Fundamentals, policy fuel Korea's market rally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeEIwU3pDRW0ySktPOFJTWVhNNHFoZVFJLXFDa1VKWFlTNXE1Vk8xSGVjUktWTEJURnBpQy1iVUZfemloclhZY2Z2OWhlemRmcmY2cEgyS1l3S3ZxTUtfTjEwRUphYWowSUtuM0tYbUdHaGdjcjVNa2lJQm4xRDhVMUQ5VXFWZ0ZGNlVoYTZWXzNzYWE4X2dfYjdZZmMzclh2b1dkRjJDQ0FDV1RYR3Brbl9heUZzOWlGdkg1aWJncEpKZ9IBxwFBVV95cUxNYUx4NmZuV2ZHWW4xRlJzUFJaVURjcjBjUm8wN0RNT2dJWFYwaUh6VC12LUh5Nkc0cUNzSlVoSTkydzhlRDl6N0FhUUUxbjZqSThnUmZCc3lCUjRCdWZYTE5Sb3JfN2xlb3Q4YjQ4ZDk2SGhPV2I5T3JJdGNvV29RRXBKN0JxcWNrYnduODRZeDE5Y1duVXoxdFRNdEVKSU03dTFUelFaMUg4RGpxZmFwTGxvVDVMTnFwWU8zc3J1NFNxN2Y5QUpj?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-05-26",
           "views": "13.0K"
         }
       ]
@@ -142,27 +142,27 @@
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
         {
-          "title": "SpaceX debut draws a crowd, but few recent hot IPOs outpace the market - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNNW9US1owZ2JVcTl6dk5OMmtiSnBSQzdITFJuZlhSTllsMWY2QkVPMDlFMThNdnVidVpscEJFS3NSWm9paTc4YVA3cV94UEk1eFFhWlVfRzBCRUt3Szd1VTlnbldySnJHbFp2YmlWb3NRRlQ1cUxKSVdIQVprTDJ1Wk9DalFxZFRMN1RvUFVWdWFKaG15aWZmLWExN3AxMHVwLVRwREtJVXgzSEE5czV2ME83RDdzdw?oc=5\" target=\"_blank\">SpaceX debut draws a crowd, but few recent hot IPOs outpace the market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNW9US1owZ2JVcTl6dk5OMmtiSnBSQzdITFJuZlhSTllsMWY2QkVPMDlFMThNdnVidVpscEJFS3NSWm9paTc4YVA3cV94UEk1eFFhWlVfRzBCRUt3Szd1VTlnbldySnJHbFp2YmlWb3NRRlQ1cUxKSVdIQVprTDJ1Wk9DalFxZFRMN1RvUFVWdWFKaG15aWZmLWExN3AxMHVwLVRwREtJVXgzSEE5czV2ME83RDdzdw?oc=5",
-          "source": "Reuters AI",
+          "title": "This startup is betting India’s gig economy can train the world’s robots - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOY2pib1RRbk5mY1JBUUxTbkRaLV9UcWdDWFZkRlFQRUdHUGlmZFBnWlE3UzZyakNqM0dXOTdxWEZYbGNaNnZUSEJhcmNzdE10TmxnU2doeThBeHRaWi1XR1Y3dEU0OU5MUnd1WXBuaDVvWjBRaFNPSnNOXzlTYjJvaGZyZkU3YktzTmNidGRKOExmSGdzNWVVeFp4VXZsbG9LaUthNERxQlRGcWFKZVhQTTJCaEdUUQ?oc=5\" target=\"_blank\">This startup is betting India’s gig economy can train the world’s robots</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY2pib1RRbk5mY1JBUUxTbkRaLV9UcWdDWFZkRlFQRUdHUGlmZFBnWlE3UzZyakNqM0dXOTdxWEZYbGNaNnZUSEJhcmNzdE10TmxnU2doeThBeHRaWi1XR1Y3dEU0OU5MUnd1WXBuaDVvWjBRaFNPSnNOXzlTYjJvaGZyZkU3YktzTmNidGRKOExmSGdzNWVVeFp4VXZsbG9LaUthNERxQlRGcWFKZVhQTTJCaEdUUQ?oc=5",
+          "source": "TechCrunch AI",
           "publishedAt": "2026-05-26",
-          "views": "13.0K"
+          "views": "18.0K"
         },
         {
-          "title": "Dollar wobbles as markets cling to hopes for Middle East peace deal - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOYVNmY3RpeE9HLUZfcGk4VjVScGpDLThyU1ZFNnJ1V1BBc2RoaGJGWDNEZzQ2TzhGV3c0aVVlVU9VV3owMmFkZVV5WmlDWUZOSC1Ld3dZdEZYdjhCWWlCUzd5VHBLMEE1RTc1ajFuVmRra20wVEpsTXZYX0hrWmI1QVdoVHlLaVRDSDRaVVVXdEdMVnQ3Yk9oLTN3N01XQjRpLTJ5bV9wVjJfcXRoZGhQOHRB?oc=5\" target=\"_blank\">Dollar wobbles as markets cling to hopes for Middle East peace deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYVNmY3RpeE9HLUZfcGk4VjVScGpDLThyU1ZFNnJ1V1BBc2RoaGJGWDNEZzQ2TzhGV3c0aVVlVU9VV3owMmFkZVV5WmlDWUZOSC1Ld3dZdEZYdjhCWWlCUzd5VHBLMEE1RTc1ajFuVmRra20wVEpsTXZYX0hrWmI1QVdoVHlLaVRDSDRaVVVXdEdMVnQ3Yk9oLTN3N01XQjRpLTJ5bV9wVjJfcXRoZGhQOHRB?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-05-26",
-          "views": "13.0K"
-        },
-        {
-          "title": "Samsung Electronics employees now score ‘almost like lawyers' in Korea's marriage market - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNEZFTjVXeXlrdUJETHZUZ3NRdldtSFY5TDZySXlTLWxFX0NOMDlxY1pNcUpGRnBtMzI5bVItM3hURzNLc0g2Rl90VHQ3M05CVndnV25CRHNEbjFSeDlkN2Z3dkxPM2VSam1DMG1LRlZHYlI2Q09jYm9pTzRIM3RGUldrRV94QTBoQ2ZMamdKUFAtaGxzWXRKTENmUm5lbWNqbmFXRndZTk1GajdXOUhrUnhpTExmWWRCLUhqZnM1dW9QMDNEQUx3WkJsOWxKWG5oWWJ3cHV6aURnZ9IB3wFBVV95cUxOMWVVMWxtWTV5Ymo1clFETVN3dkFYY2ZpNC1rbVgyX3YxMmxMSDdFRXlkeWVMdWxlVUhYSlMtWDhnSnFiX2FnSUQtQ3ZlMDNydkxSZl91Vm56S1IybWdLSXdLVEVNRno4Vjd1bTdhbVdqSjlrM1lXS0dRa1dOc3pmM2NKUjFyemhhMXZiWGQtcktNV01WRmdxOE4zX2FPUEZCMHd5Z2szSV8yUVIxSHdiVjFnV0pBMXYzVkdPSnJFRjhGUlNWNi0tWXZUOEpnQkFVYmhSWUg0REpWU1FDRHE4?oc=5\" target=\"_blank\">Samsung Electronics employees now score ‘almost like lawyers' in Korea's marriage market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNEZFTjVXeXlrdUJETHZUZ3NRdldtSFY5TDZySXlTLWxFX0NOMDlxY1pNcUpGRnBtMzI5bVItM3hURzNLc0g2Rl90VHQ3M05CVndnV25CRHNEbjFSeDlkN2Z3dkxPM2VSam1DMG1LRlZHYlI2Q09jYm9pTzRIM3RGUldrRV94QTBoQ2ZMamdKUFAtaGxzWXRKTENmUm5lbWNqbmFXRndZTk1GajdXOUhrUnhpTExmWWRCLUhqZnM1dW9QMDNEQUx3WkJsOWxKWG5oWWJ3cHV6aURnZ9IB3wFBVV95cUxOMWVVMWxtWTV5Ymo1clFETVN3dkFYY2ZpNC1rbVgyX3YxMmxMSDdFRXlkeWVMdWxlVUhYSlMtWDhnSnFiX2FnSUQtQ3ZlMDNydkxSZl91Vm56S1IybWdLSXdLVEVNRno4Vjd1bTdhbVdqSjlrM1lXS0dRa1dOc3pmM2NKUjFyemhhMXZiWGQtcktNV01WRmdxOE4zX2FPUEZCMHd5Z2szSV8yUVIxSHdiVjFnV0pBMXYzVkdPSnJFRjhGUlNWNi0tWXZUOEpnQkFVYmhSWUg0REpWU1FDRHE4?oc=5",
+          "title": "Financial watchdog's clampdown on single-stock leveraged ETFs marketing sparks industry backlash - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPajFHTEM5TzJmMFhfVEFQMWVJM1U1eXNGZXU1QndUcm5PSVpsT1dKNi13MVpabjg5Zm9zemxYRk40WTRBTEgwdExTa2hXZGJVX0NlbkRoRTdYdUFGZXg0LUdoVWROQjd4OC1xblZjdldaUFc4LVlGVWxqN2ZNMk90RXBWUHhNMHFsaWx2bGhtWllCcFdSRWJvZ0tXWGRtSl9tX002dWp5UGVBTm9xQW50TGRfakZWdWdVVzJVcUxteFpaQ2VIcjV3dlY2b2ctLUJWRVR1NTR2Ym9vYUpKWUHSAd4BQVVfeXFMT2oxR0xDOU8yZjBYX1RBUDFlSTNVNXlzRmV1NUJ3VHJuT0labE9XSjYtdzFaWm44OWZvc3psWEZONFk0QUxIMHRMU2toV2RiVV9DZW5EaEU3WHVBRmV4NC1HaFVkTkI3eDgtcW5WY3ZXWlBXOC1ZRlVsajdmTTJPdEVwVlB4TTBxbGlsdmxobVpZQnBXUkVib2dLV1hkbUpfbV9NNnVqeVBlQU5vcUFudExkX2pGVnVnVVcyVXFMbXhaWkNlSHI1d3ZWNm9nLS1CVkVUdTU0dmJvb2FKSllB?oc=5\" target=\"_blank\">Financial watchdog's clampdown on single-stock leveraged ETFs marketing sparks industry backlash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPajFHTEM5TzJmMFhfVEFQMWVJM1U1eXNGZXU1QndUcm5PSVpsT1dKNi13MVpabjg5Zm9zemxYRk40WTRBTEgwdExTa2hXZGJVX0NlbkRoRTdYdUFGZXg0LUdoVWROQjd4OC1xblZjdldaUFc4LVlGVWxqN2ZNMk90RXBWUHhNMHFsaWx2bGhtWllCcFdSRWJvZ0tXWGRtSl9tX002dWp5UGVBTm9xQW50TGRfakZWdWdVVzJVcUxteFpaQ2VIcjV3dlY2b2ctLUJWRVR1NTR2Ym9vYUpKWUHSAd4BQVVfeXFMT2oxR0xDOU8yZjBYX1RBUDFlSTNVNXlzRmV1NUJ3VHJuT0labE9XSjYtdzFaWm44OWZvc3psWEZONFk0QUxIMHRMU2toV2RiVV9DZW5EaEU3WHVBRmV4NC1HaFVkTkI3eDgtcW5WY3ZXWlBXOC1ZRlVsajdmTTJPdEVwVlB4TTBxbGlsdmxobVpZQnBXUkVib2dLV1hkbUpfbV9NNnVqeVBlQU5vcUFudExkX2pGVnVnVVcyVXFMbXhaWkNlSHI1d3ZWNm9nLS1CVkVUdTU0dmJvb2FKSllB?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-05-25",
+          "publishedAt": "2026-05-26",
+          "views": "13.0K"
+        },
+        {
+          "title": "KOSPI heading toward 10,000: Fundamentals, policy fuel Korea's market rally - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeEIwU3pDRW0ySktPOFJTWVhNNHFoZVFJLXFDa1VKWFlTNXE1Vk8xSGVjUktWTEJURnBpQy1iVUZfemloclhZY2Z2OWhlemRmcmY2cEgyS1l3S3ZxTUtfTjEwRUphYWowSUtuM0tYbUdHaGdjcjVNa2lJQm4xRDhVMUQ5VXFWZ0ZGNlVoYTZWXzNzYWE4X2dfYjdZZmMzclh2b1dkRjJDQ0FDV1RYR3Brbl9heUZzOWlGdkg1aWJncEpKZ9IBxwFBVV95cUxNYUx4NmZuV2ZHWW4xRlJzUFJaVURjcjBjUm8wN0RNT2dJWFYwaUh6VC12LUh5Nkc0cUNzSlVoSTkydzhlRDl6N0FhUUUxbjZqSThnUmZCc3lCUjRCdWZYTE5Sb3JfN2xlb3Q4YjQ4ZDk2SGhPV2I5T3JJdGNvV29RRXBKN0JxcWNrYnduODRZeDE5Y1duVXoxdFRNdEVKSU03dTFUelFaMUg4RGpxZmFwTGxvVDVMTnFwWU8zc3J1NFNxN2Y5QUpj?oc=5\" target=\"_blank\">KOSPI heading toward 10,000: Fundamentals, policy fuel Korea's market rally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeEIwU3pDRW0ySktPOFJTWVhNNHFoZVFJLXFDa1VKWFlTNXE1Vk8xSGVjUktWTEJURnBpQy1iVUZfemloclhZY2Z2OWhlemRmcmY2cEgyS1l3S3ZxTUtfTjEwRUphYWowSUtuM0tYbUdHaGdjcjVNa2lJQm4xRDhVMUQ5VXFWZ0ZGNlVoYTZWXzNzYWE4X2dfYjdZZmMzclh2b1dkRjJDQ0FDV1RYR3Brbl9heUZzOWlGdkg1aWJncEpKZ9IBxwFBVV95cUxNYUx4NmZuV2ZHWW4xRlJzUFJaVURjcjBjUm8wN0RNT2dJWFYwaUh6VC12LUh5Nkc0cUNzSlVoSTkydzhlRDl6N0FhUUUxbjZqSThnUmZCc3lCUjRCdWZYTE5Sb3JfN2xlb3Q4YjQ4ZDk2SGhPV2I5T3JJdGNvV29RRXBKN0JxcWNrYnduODRZeDE5Y1duVXoxdFRNdEVKSU03dTFUelFaMUg4RGpxZmFwTGxvVDVMTnFwWU8zc3J1NFNxN2Y5QUpj?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-05-26",
           "views": "13.0K"
         }
       ]
@@ -174,26 +174,26 @@
       "items": [
         {
           "title": "LG Energy Solution leads battery industry's shift to AI-driven manufacturing - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQXNfRVBnek0yQ0VpdF9vclFCTnRlR3hDS3dUd04yd3pFUklMRXladUgzc1FnV1lLcjJJU29nVlJXODFFR3g5VUNuUUNRdEJnZzlFcFBTazNUaHcwMnJ4NHdSRGstQWRnWWdFX3hQM0o1bnBxZDFFeWJidmt2MGU0TEpRTUFZQWJCNTZwZWlWNGFZbDJVTHJaX1R2cV9Eajl5eXp4TTY2aWk1MHczVnlnNEV1eHhWSkFfMEg5R3dQVWs2QzBwdktnOGstVl9JUy00T1HSAdIBQVVfeXFMUEFzX0VQZ3pNMkNFaXRfb3JRQk50ZUd4Q0t3VHdOMnd6RVJJTEV5WnVIM3NRZ1dZS3IySVNvZ1ZSVzgxRUd4OVVDblFDUXRCZ2c5RXBQU2szVGh3MDJyeDR3UkRrLUFkZ1lnRV94UDNKNW5wcWQxRXliYnZrdjBlNExKUU1BWUFiQjU2cGVpVjRhWWwyVUxyWl9UdnFfRGo5eXl6eE02NmlpNTB3M1Z5ZzRFdXh4VkpBXzBIOUd3UFVrNkMwcHZLZzhrLVZfSVMtNE9R?oc=5\" target=\"_blank\">LG Energy Solution leads battery industry's shift to AI-driven manufacturing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQXNfRVBnek0yQ0VpdF9vclFCTnRlR3hDS3dUd04yd3pFUklMRXladUgzc1FnV1lLcjJJU29nVlJXODFFR3g5VUNuUUNRdEJnZzlFcFBTazNUaHcwMnJ4NHdSRGstQWRnWWdFX3hQM0o1bnBxZDFFeWJidmt2MGU0TEpRTUFZQWJCNTZwZWlWNGFZbDJVTHJaX1R2cV9Eajl5eXp4TTY2aWk1MHczVnlnNEV1eHhWSkFfMEg5R3dQVWs2QzBwdktnOGstVl9JUy00T1HSAdIBQVVfeXFMUEFzX0VQZ3pNMkNFaXRfb3JRQk50ZUd4Q0t3VHdOMnd6RVJJTEV5WnVIM3NRZ1dZS3IySVNvZ1ZSVzgxRUd4OVVDblFDUXRCZ2c5RXBQU2szVGh3MDJyeDR3UkRrLUFkZ1lnRV94UDNKNW5wcWQxRXliYnZrdjBlNExKUU1BWUFiQjU2cGVpVjRhWWwyVUxyWl9UdnFfRGo5eXl6eE02NmlpNTB3M1Z5ZzRFdXh4VkpBXzBIOUd3UFVrNkMwcHZLZzhrLVZfSVMtNE9R?oc=5",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNcExQQ1FhQ0p4eTZlZkdsdkNoMEtLZWJlYjFwYkpGYjdNbTl6dW5IR3NOS0oxaDRDSlBVWndRdHRlQWpTWndrM1pNaEdKT1RqV2hvZWN3ak5oYXFPYUVzZlZhaDVYVXJQUDQwakJzTndIc1p1SjN1VzU2YXk1aXludVpkZWtNUGJfZHFZX1czRmRIUEQ0WG1VWXUyRVVBT3FJaHVOM2FDbWJYcGFhNmpuX2hnbDJxTmVSX3lYUV83MzdiTW0weWh2SUhIZGXSAdIBQVVfeXFMUEFzX0VQZ3pNMkNFaXRfb3JRQk50ZUd4Q0t3VHdOMnd6RVJJTEV5WnVIM3NRZ1dZS3IySVNvZ1ZSVzgxRUd4OVVDblFDUXRCZ2c5RXBQU2szVGh3MDJyeDR3UkRrLUFkZ1lnRV94UDNKNW5wcWQxRXliYnZrdjBlNExKUU1BWUFiQjU2cGVpVjRhWWwyVUxyWl9UdnFfRGo5eXl6eE02NmlpNTB3M1Z5ZzRFdXh4VkpBXzBIOUd3UFVrNkMwcHZLZzhrLVZfSVMtNE9R?oc=5\" target=\"_blank\">LG Energy Solution leads battery industry's shift to AI-driven manufacturing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcExQQ1FhQ0p4eTZlZkdsdkNoMEtLZWJlYjFwYkpGYjdNbTl6dW5IR3NOS0oxaDRDSlBVWndRdHRlQWpTWndrM1pNaEdKT1RqV2hvZWN3ak5oYXFPYUVzZlZhaDVYVXJQUDQwakJzTndIc1p1SjN1VzU2YXk1aXludVpkZWtNUGJfZHFZX1czRmRIUEQ0WG1VWXUyRVVBT3FJaHVOM2FDbWJYcGFhNmpuX2hnbDJxTmVSX3lYUV83MzdiTW0weWh2SUhIZGXSAdIBQVVfeXFMUEFzX0VQZ3pNMkNFaXRfb3JRQk50ZUd4Q0t3VHdOMnd6RVJJTEV5WnVIM3NRZ1dZS3IySVNvZ1ZSVzgxRUd4OVVDblFDUXRCZ2c5RXBQU2szVGh3MDJyeDR3UkRrLUFkZ1lnRV94UDNKNW5wcWQxRXliYnZrdjBlNExKUU1BWUFiQjU2cGVpVjRhWWwyVUxyWl9UdnFfRGo5eXl6eE02NmlpNTB3M1Z5ZzRFdXh4VkpBXzBIOUd3UFVrNkMwcHZLZzhrLVZfSVMtNE9R?oc=5",
           "source": "The Korea Times",
           "publishedAt": "2026-05-25",
           "views": "18.0K"
         },
         {
-          "title": "Industry ministry discusses AI transformation of battery industry with LGES - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxORmo2MmZ5OTFxR1hVdHFYQ05VVGt3VEdzREhfcnozamVqZzRRcXRnUXJaVGZSZkZieWtRVnNnVlA0S0NaaUR1Nms0ZXAxdml3dXVITndOVDJCaWg2R1RWSzBwbFVCMVNreFhjWUhCN21pNnZZaVhiSUNieUE5dUg4QURDalZCeU1RN3gxMGdILXlMaUdPQi1icVdNN1QyOUpEbzR0VGczVXNTSDY1VTdPYnVQcks3ak1fWXE0bE50c9IBxAFBVV95cUxOcERGSE5pVGg5T3B3anhFRHRRcjJFdDRzaUdnUi1UdWp4SzNTMWdJZW53UUdiNUNLZEliUS1aTnhGSmhrV2Q5akJsTWNlUEhTQy1BdlVCb3BZZkphZDRXazh1OUZGLXFJTUlhNDFDYm8xNlNiY2pKREg0aUdyYnlaTERmMEQtUHpVZENZWkIzUDA5RzZMNXkyWkpvQmcxZ2ZCbFR3YWdycnZPc3I4ZmVENXVxa2hhbnQ1TW9JYjZqbzB1dzEw?oc=5\" target=\"_blank\">Industry ministry discusses AI transformation of battery industry with LGES</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORmo2MmZ5OTFxR1hVdHFYQ05VVGt3VEdzREhfcnozamVqZzRRcXRnUXJaVGZSZkZieWtRVnNnVlA0S0NaaUR1Nms0ZXAxdml3dXVITndOVDJCaWg2R1RWSzBwbFVCMVNreFhjWUhCN21pNnZZaVhiSUNieUE5dUg4QURDalZCeU1RN3gxMGdILXlMaUdPQi1icVdNN1QyOUpEbzR0VGczVXNTSDY1VTdPYnVQcks3ak1fWXE0bE50c9IBxAFBVV95cUxOcERGSE5pVGg5T3B3anhFRHRRcjJFdDRzaUdnUi1UdWp4SzNTMWdJZW53UUdiNUNLZEliUS1aTnhGSmhrV2Q5akJsTWNlUEhTQy1BdlVCb3BZZkphZDRXazh1OUZGLXFJTUlhNDFDYm8xNlNiY2pKREg0aUdyYnlaTERmMEQtUHpVZENZWkIzUDA5RzZMNXkyWkpvQmcxZ2ZCbFR3YWdycnZPc3I4ZmVENXVxa2hhbnQ1TW9JYjZqbzB1dzEw?oc=5",
+          "title": "Financial watchdog's clampdown on single-stock leveraged ETFs marketing sparks industry backlash - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPajFHTEM5TzJmMFhfVEFQMWVJM1U1eXNGZXU1QndUcm5PSVpsT1dKNi13MVpabjg5Zm9zemxYRk40WTRBTEgwdExTa2hXZGJVX0NlbkRoRTdYdUFGZXg0LUdoVWROQjd4OC1xblZjdldaUFc4LVlGVWxqN2ZNMk90RXBWUHhNMHFsaWx2bGhtWllCcFdSRWJvZ0tXWGRtSl9tX002dWp5UGVBTm9xQW50TGRfakZWdWdVVzJVcUxteFpaQ2VIcjV3dlY2b2ctLUJWRVR1NTR2Ym9vYUpKWUHSAd4BQVVfeXFMT2oxR0xDOU8yZjBYX1RBUDFlSTNVNXlzRmV1NUJ3VHJuT0labE9XSjYtdzFaWm44OWZvc3psWEZONFk0QUxIMHRMU2toV2RiVV9DZW5EaEU3WHVBRmV4NC1HaFVkTkI3eDgtcW5WY3ZXWlBXOC1ZRlVsajdmTTJPdEVwVlB4TTBxbGlsdmxobVpZQnBXUkVib2dLV1hkbUpfbV9NNnVqeVBlQU5vcUFudExkX2pGVnVnVVcyVXFMbXhaWkNlSHI1d3ZWNm9nLS1CVkVUdTU0dmJvb2FKSllB?oc=5\" target=\"_blank\">Financial watchdog's clampdown on single-stock leveraged ETFs marketing sparks industry backlash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPajFHTEM5TzJmMFhfVEFQMWVJM1U1eXNGZXU1QndUcm5PSVpsT1dKNi13MVpabjg5Zm9zemxYRk40WTRBTEgwdExTa2hXZGJVX0NlbkRoRTdYdUFGZXg0LUdoVWROQjd4OC1xblZjdldaUFc4LVlGVWxqN2ZNMk90RXBWUHhNMHFsaWx2bGhtWllCcFdSRWJvZ0tXWGRtSl9tX002dWp5UGVBTm9xQW50TGRfakZWdWdVVzJVcUxteFpaQ2VIcjV3dlY2b2ctLUJWRVR1NTR2Ym9vYUpKWUHSAd4BQVVfeXFMT2oxR0xDOU8yZjBYX1RBUDFlSTNVNXlzRmV1NUJ3VHJuT0labE9XSjYtdzFaWm44OWZvc3psWEZONFk0QUxIMHRMU2toV2RiVV9DZW5EaEU3WHVBRmV4NC1HaFVkTkI3eDgtcW5WY3ZXWlBXOC1ZRlVsajdmTTJPdEVwVlB4TTBxbGlsdmxobVpZQnBXUkVib2dLV1hkbUpfbV9NNnVqeVBlQU5vcUFudExkX2pGVnVnVVcyVXFMbXhaWkNlSHI1d3ZWNm9nLS1CVkVUdTU0dmJvb2FKSllB?oc=5",
           "source": "The Korea Times",
           "publishedAt": "2026-05-26",
           "views": "13.0K"
         },
         {
-          "title": "German industry keeps cutting jobs despite first sales rise in three years, EY says - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV1FWVEV1SGxQci13dmlnT2FITHdrV1I0YzRROWRENXpMV0dXN011c1BUS2lRTmY2ZGt3MlFaWFNSSUFJelpiMUVaZ2F4U1djXzQ4b2I3ZFFuUEgxYWdGcWRJUk9IOE42U2xxdzVyeGxqdjR0UDZWWGxJaDNfdU1rMThxSHRzaS1KZko0LXktSDdxVVZSTFplRE9JZnpsVzdXSEVYSGZlWmo1T3FXY2xjT0lFbG0taFRsOFU1WFdDUlJSdw?oc=5\" target=\"_blank\">German industry keeps cutting jobs despite first sales rise in three years, EY says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV1FWVEV1SGxQci13dmlnT2FITHdrV1I0YzRROWRENXpMV0dXN011c1BUS2lRTmY2ZGt3MlFaWFNSSUFJelpiMUVaZ2F4U1djXzQ4b2I3ZFFuUEgxYWdGcWRJUk9IOE42U2xxdzVyeGxqdjR0UDZWWGxJaDNfdU1rMThxSHRzaS1KZko0LXktSDdxVVZSTFplRE9JZnpsVzdXSEVYSGZlWmo1T3FXY2xjT0lFbG0taFRsOFU1WFdDUlJSdw?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-05-25",
+          "title": "Samsung labor settlement reveals Korea's new industrial strategy - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOVXB2bU43U2E5Wlg4UWFrZDZsdkFGSl9SWGtSakY1aGEwWmgwd3lnY1RyRUNqRGZSWXlkbWIwSjBmblZMeEhjUGo1ZnZJN3VnM2IxbGNIY0d3RlhaOHA5Ujl4ZjlFZTdEMnU3WTVUWDNiakNmSkk5M2RaUjdadUx3WVhpajhSV05KTUQ5Q0ljQWZEMGNNcDhhSmdhWW9PTHJXWGhMaDF6UlJMNmZGbldlSldWV3bSAbQBQVVfeXFMTlVwdm1ON1NhOVpYOFFha2Q2bHZBRkpfUlhrUmpGNWhhMFpoMHd5Z2NUckVDakRmUll5ZG1iMEowZm5WTHhIY1BqNWZ2STd1ZzNiMWxjSGNHd0ZYWjhwOVI5eGY5RWU3RDJ1N1k1VFgzYmpDZkpJOTNkWlI3WnVMd1lYaWo4UldOSk1EOUNJY0FmRDBjTXA4YUpnYVlvT0xyV1hoTGgxelJSTDZmRm5XZUpXVld2?oc=5\" target=\"_blank\">Samsung labor settlement reveals Korea's new industrial strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVXB2bU43U2E5Wlg4UWFrZDZsdkFGSl9SWGtSakY1aGEwWmgwd3lnY1RyRUNqRGZSWXlkbWIwSjBmblZMeEhjUGo1ZnZJN3VnM2IxbGNIY0d3RlhaOHA5Ujl4ZjlFZTdEMnU3WTVUWDNiakNmSkk5M2RaUjdadUx3WVhpajhSV05KTUQ5Q0ljQWZEMGNNcDhhSmdhWW9PTHJXWGhMaDF6UlJMNmZGbldlSldWV3bSAbQBQVVfeXFMTlVwdm1ON1NhOVpYOFFha2Q2bHZBRkpfUlhrUmpGNWhhMFpoMHd5Z2NUckVDakRmUll5ZG1iMEowZm5WTHhIY1BqNWZ2STd1ZzNiMWxjSGNHd0ZYWjhwOVI5eGY5RWU3RDJ1N1k1VFgzYmpDZkpJOTNkWlI3WnVMd1lYaWo4UldOSk1EOUNJY0FmRDBjTXA4YUpnYVlvT0xyV1hoTGgxelJSTDZmRm5XZUpXVld2?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-05-26",
           "views": "13.0K"
         }
       ]
