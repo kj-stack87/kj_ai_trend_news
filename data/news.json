@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-31T04:49:08.510Z",
+  "lastUpdated": "2026-06-01T05:14:15.873Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,26 +49,26 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
-          "title": "DeepSWE blows up the AI coding leaderboard, crowns GPT-5.5, and finds Claude Opus exploiting a benchmark loophole - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOXRwSDdMTkRfV0lXZGFwSmlqYXFmSmNQckM2SUFOUmYyLTlGcjRDYzlnTWtLdU9lemtTbFVHNWxTcWFCaVJqaE1xN2dsU1lFMm80UU44d3pZaWIzSW4xQm80S1hMZkxudXlSN05hdkJlek1TdzlzYWY0ZlJQdkFONlhkYWNvaGM3V1ZMaTdBZWtZVnpPNGJTeDBQR09QQTdvRFQzUDlQTUdLM0dzNGlaZi0tRGZUaGh1R2ZQb3d2RHozcExhU2VZNENQcXdpdHpqUWRZVmZfWFlhQzMxY2RJ?oc=5\" target=\"_blank\">DeepSWE blows up the AI coding leaderboard, crowns GPT-5.5, and finds Claude Opus exploiting a benchmark loophole</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "title": "DeepSWE blows up the AI coding leaderboard, crowns GPT-5.5, and finds Claude Opus exploiting a benchmark loophole - Venturebeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOXRwSDdMTkRfV0lXZGFwSmlqYXFmSmNQckM2SUFOUmYyLTlGcjRDYzlnTWtLdU9lemtTbFVHNWxTcWFCaVJqaE1xN2dsU1lFMm80UU44d3pZaWIzSW4xQm80S1hMZkxudXlSN05hdkJlek1TdzlzYWY0ZlJQdkFONlhkYWNvaGM3V1ZMaTdBZWtZVnpPNGJTeDBQR09QQTdvRFQzUDlQTUdLM0dzNGlaZi0tRGZUaGh1R2ZQb3d2RHozcExhU2VZNENQcXdpdHpqUWRZVmZfWFlhQzMxY2RJ?oc=5\" target=\"_blank\">DeepSWE blows up the AI coding leaderboard, crowns GPT-5.5, and finds Claude Opus exploiting a benchmark loophole</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Venturebeat</font>",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOXRwSDdMTkRfV0lXZGFwSmlqYXFmSmNQckM2SUFOUmYyLTlGcjRDYzlnTWtLdU9lemtTbFVHNWxTcWFCaVJqaE1xN2dsU1lFMm80UU44d3pZaWIzSW4xQm80S1hMZkxudXlSN05hdkJlek1TdzlzYWY0ZlJQdkFONlhkYWNvaGM3V1ZMaTdBZWtZVnpPNGJTeDBQR09QQTdvRFQzUDlQTUdLM0dzNGlaZi0tRGZUaGh1R2ZQb3d2RHozcExhU2VZNENQcXdpdHpqUWRZVmZfWFlhQzMxY2RJ?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-05-26",
           "views": "23.0K"
         },
         {
-          "title": "MeMo's memory model lets teams upgrade their LLM without retraining it — and performance jumps 26% - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPejkwLW9EYXREWnBhWWtzRTVzNGJQNTBTM2pDNXczeFdJVGotTDFxQWpSUHdKbktVUGdqeVdrVmdiNk1NMzgtMG1oN2tOMDVqY1JzOFFiZkFOWkt1U0tuc2YzNnlNdkFJdmdwbWJITkJ2V1hTdjVSQV9BQThDdWVJc0V0SVFMcGtIbl9SZFVpZm0tdnJLOHhz?oc=5\" target=\"_blank\">MeMo's memory model lets teams upgrade their LLM without retraining it — and performance jumps 26%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPejkwLW9EYXREWnBhWWtzRTVzNGJQNTBTM2pDNXczeFdJVGotTDFxQWpSUHdKbktVUGdqeVdrVmdiNk1NMzgtMG1oN2tOMDVqY1JzOFFiZkFOWkt1U0tuc2YzNnlNdkFJdmdwbWJITkJ2V1hTdjVSQV9BQThDdWVJc0V0SVFMcGtIbl9SZFVpZm0tdnJLOHhz?oc=5",
+          "title": "Researchers automated LLM reasoning strategy design and cut token usage by 69.5% - Venturebeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTDJIVERQcC1NWldmMFdJdHlrNE5zRUVlODdfMlVGcjg0c0RXUVB2a0hTSVBUNmpibGZZM0s3a3poekhjLUxsWnQydzU1WF8xa0RMb25TWHVjTXIwYWc4b3p4NnV4ZEtJWHNOM1BNdGFYUlF4c0JwcDhLWWNLNWNXVWhVOU5DTGhCN3NycW93OTctcE5oUW9NRkstT2NTb252NjlRekpiNl83Vzd6VEZLX1lkc0FSdTR0?oc=5\" target=\"_blank\">Researchers automated LLM reasoning strategy design and cut token usage by 69.5%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Venturebeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTDJIVERQcC1NWldmMFdJdHlrNE5zRUVlODdfMlVGcjg0c0RXUVB2a0hTSVBUNmpibGZZM0s3a3poekhjLUxsWnQydzU1WF8xa0RMb25TWHVjTXIwYWc4b3p4NnV4ZEtJWHNOM1BNdGFYUlF4c0JwcDhLWWNLNWNXVWhVOU5DTGhCN3NycW93OTctcE5oUW9NRkstT2NTb252NjlRekpiNl83Vzd6VEZLX1lkc0FSdTR0?oc=5",
           "source": "VentureBeat AI",
-          "publishedAt": "2026-05-29",
+          "publishedAt": "2026-05-28",
           "views": "18.0K"
         },
         {
-          "title": "Researchers automated LLM reasoning strategy design and cut token usage by 69.5% - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTDJIVERQcC1NWldmMFdJdHlrNE5zRUVlODdfMlVGcjg0c0RXUVB2a0hTSVBUNmpibGZZM0s3a3poekhjLUxsWnQydzU1WF8xa0RMb25TWHVjTXIwYWc4b3p4NnV4ZEtJWHNOM1BNdGFYUlF4c0JwcDhLWWNLNWNXVWhVOU5DTGhCN3NycW93OTctcE5oUW9NRkstT2NTb252NjlRekpiNl83Vzd6VEZLX1lkc0FSdTR0?oc=5\" target=\"_blank\">Researchers automated LLM reasoning strategy design and cut token usage by 69.5%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTDJIVERQcC1NWldmMFdJdHlrNE5zRUVlODdfMlVGcjg0c0RXUVB2a0hTSVBUNmpibGZZM0s3a3poekhjLUxsWnQydzU1WF8xa0RMb25TWHVjTXIwYWc4b3p4NnV4ZEtJWHNOM1BNdGFYUlF4c0JwcDhLWWNLNWNXVWhVOU5DTGhCN3NycW93OTctcE5oUW9NRkstT2NTb252NjlRekpiNl83Vzd6VEZLX1lkc0FSdTR0?oc=5",
-          "source": "VentureBeat AI",
+          "title": "Anthropic to roll out Claude Mythos in coming weeks, launches Opus 4.8 - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOFNzQ1NmSlNQcWFVamd2WW5yYWtldHRTN3VDakZPbjZCLXoxeF9URGpSbW1lUm55c0FtUmdlNzlyQmV2bTItcHFxREo2YjV6UVlpY3pFYmVBR2RyUmxtMEx4SlBIZU1iOGpTMVB3Zmp3di1rMWlUdVYzX0duaXRhWERFX0VhR0pDOU1yTEl1WGVlTmE2R2xycWxYMm5VUS1kWEJtX2hhSzRMMXc?oc=5\" target=\"_blank\">Anthropic to roll out Claude Mythos in coming weeks, launches Opus 4.8</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOFNzQ1NmSlNQcWFVamd2WW5yYWtldHRTN3VDakZPbjZCLXoxeF9URGpSbW1lUm55c0FtUmdlNzlyQmV2bTItcHFxREo2YjV6UVlpY3pFYmVBR2RyUmxtMEx4SlBIZU1iOGpTMVB3Zmp3di1rMWlUdVYzX0duaXRhWERFX0VhR0pDOU1yTEl1WGVlTmE2R2xycWxYMm5VUS1kWEJtX2hhSzRMMXc?oc=5",
+          "source": "Reuters AI",
           "publishedAt": "2026-05-28",
           "views": "18.0K"
         }
@@ -80,16 +80,16 @@
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
         {
-          "title": "AI agents are entering their rebuild era as enterprises confront the reliability problem - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPZk1YVGxSZWJicnVwQUdnUVYxcGJZNFRBVXlScW1keGxqZVVfaGs1elh1YkJ3VzJRVWg3cHZWbEtOZEdoUkhTbmlPaHROT2VZQ2l2QWUtckN1Zy1LdU9LQ21JOFJoQnhjM2tBLUtZdGoyN1VWaUpySndXZEQ3TnRuVDlEZVNwNWRHMzBlZnNJQUhnck5Zb1JVTXhrUEFXcUdhQVIwLUxmLXM2dXdoUmNRb201c2trYlprQmNOVWQtRjNMUXYx?oc=5\" target=\"_blank\">AI agents are entering their rebuild era as enterprises confront the reliability problem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "title": "AI agents are entering their rebuild era as enterprises confront the reliability problem - Venturebeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPZk1YVGxSZWJicnVwQUdnUVYxcGJZNFRBVXlScW1keGxqZVVfaGs1elh1YkJ3VzJRVWg3cHZWbEtOZEdoUkhTbmlPaHROT2VZQ2l2QWUtckN1Zy1LdU9LQ21JOFJoQnhjM2tBLUtZdGoyN1VWaUpySndXZEQ3TnRuVDlEZVNwNWRHMzBlZnNJQUhnck5Zb1JVTXhrUEFXcUdhQVIwLUxmLXM2dXdoUmNRb201c2trYlprQmNOVWQtRjNMUXYx?oc=5\" target=\"_blank\">AI agents are entering their rebuild era as enterprises confront the reliability problem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Venturebeat</font>",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZk1YVGxSZWJicnVwQUdnUVYxcGJZNFRBVXlScW1keGxqZVVfaGs1elh1YkJ3VzJRVWg3cHZWbEtOZEdoUkhTbmlPaHROT2VZQ2l2QWUtckN1Zy1LdU9LQ21JOFJoQnhjM2tBLUtZdGoyN1VWaUpySndXZEQ3TnRuVDlEZVNwNWRHMzBlZnNJQUhnck5Zb1JVTXhrUEFXcUdhQVIwLUxmLXM2dXdoUmNRb201c2trYlprQmNOVWQtRjNMUXYx?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-05-29",
           "views": "18.0K"
         },
         {
-          "title": "Ping Identity redefines the identity control plane for the agentic enterprise - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPTWtlOUxWblFfYjg4QUZsZHB0UW15UWtyZWltaTI3R2llSXVBaTRsckpVamNqaEI3SFJvUjllMVllOGM4OXM1NWdjOFBrM29ZWHlRQllpREJrVEpRS042TER3ZER5NmlSdWlmYWhTMk9aX3A1LUpIZno4UEdLcU00LUtiM1lhcUl4VGduUm9lOHppUG52SlVqMWdTU18xTzFMQ3NydTFGRHF0Uk5sbDZN?oc=5\" target=\"_blank\">Ping Identity redefines the identity control plane for the agentic enterprise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "title": "Ping Identity redefines the identity control plane for the agentic enterprise - Venturebeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPTWtlOUxWblFfYjg4QUZsZHB0UW15UWtyZWltaTI3R2llSXVBaTRsckpVamNqaEI3SFJvUjllMVllOGM4OXM1NWdjOFBrM29ZWHlRQllpREJrVEpRS042TER3ZER5NmlSdWlmYWhTMk9aX3A1LUpIZno4UEdLcU00LUtiM1lhcUl4VGduUm9lOHppUG52SlVqMWdTU18xTzFMQ3NydTFGRHF0Uk5sbDZN?oc=5\" target=\"_blank\">Ping Identity redefines the identity control plane for the agentic enterprise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Venturebeat</font>",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTWtlOUxWblFfYjg4QUZsZHB0UW15UWtyZWltaTI3R2llSXVBaTRsckpVamNqaEI3SFJvUjllMVllOGM4OXM1NWdjOFBrM29ZWHlRQllpREJrVEpRS042TER3ZER5NmlSdWlmYWhTMk9aX3A1LUpIZno4UEdLcU00LUtiM1lhcUl4VGduUm9lOHppUG52SlVqMWdTU18xTzFMQ3NydTFGRHF0Uk5sbDZN?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-05-27",
@@ -142,6 +142,14 @@
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
         {
+          "title": "China's AI startup MiniMax explores Shanghai STAR Market listing - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOc1RPS1JReFZxNFYzMjBWZzcyS0tSZUN2My1tV2ROTGFydVdGaEtqNDFJWXQ1VkRxOFBSQzc3bS14Y1hfRWxqS05KRU02MW9OVV9ZR25RZElDaU1BdkdHXzlsMmRmYVhsNWxTaXhici10N3BxUzMtYjNSZkZEaWg3NnlMSGhHVkoxUE5fZ1pLVHBiRkMzVmE0ZHQ4dl9WWHdIeHA0YkRJdUg1U0cyVnJsOE9rdWdyQzYtbXc?oc=5\" target=\"_blank\">China's AI startup MiniMax explores Shanghai STAR Market listing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc1RPS1JReFZxNFYzMjBWZzcyS0tSZUN2My1tV2ROTGFydVdGaEtqNDFJWXQ1VkRxOFBSQzc3bS14Y1hfRWxqS05KRU02MW9OVV9ZR25RZElDaU1BdkdHXzlsMmRmYVhsNWxTaXhici10N3BxUzMtYjNSZkZEaWg3NnlMSGhHVkoxUE5fZ1pLVHBiRkMzVmE0ZHQ4dl9WWHdIeHA0YkRJdUg1U0cyVnJsOE9rdWdyQzYtbXc?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-05-31",
+          "views": "18.0K"
+        },
+        {
           "title": "H1 secures $40M from CVS, proving SaaS startups can still attract investment - TechCrunch",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNcmpRUGtubFBCQ0VlMV9QOGlXRHMzQXpnazF5WXJBNk1JcThKRFZEOUJiTXJWUklTcHgtRXJZdWJRTF9sdzB0QVE3OF9pQlhoWTgxWGlBbEdFaHRERlhzYmQxU2tNVzZ4NEgtZmhzZ2ZFZ3FOaWd5NC02bkRkbVltTDhfQTlKU20tOFU1QTJaTkhQUzc5OUNSOHdOZzZKamtKTkJXTHBHdmxvdW1lckE?oc=5\" target=\"_blank\">H1 secures $40M from CVS, proving SaaS startups can still attract investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcmpRUGtubFBCQ0VlMV9QOGlXRHMzQXpnazF5WXJBNk1JcThKRFZEOUJiTXJWUklTcHgtRXJZdWJRTF9sdzB0QVE3OF9pQlhoWTgxWGlBbEdFaHRERlhzYmQxU2tNVzZ4NEgtZmhzZ2ZFZ3FOaWd5NC02bkRkbVltTDhfQTlKU20tOFU1QTJaTkhQUzc5OUNSOHdOZzZKamtKTkJXTHBHdmxvdW1lckE?oc=5",
@@ -156,14 +164,6 @@
           "source": "TechCrunch AI",
           "publishedAt": "2026-05-26",
           "views": "18.0K"
-        },
-        {
-          "title": "Samsung Electronics tops automotive memory chip market in 2025: report - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNdFFjSWRNeEhOeWROZk1MaURUUnJtdDZnVE1Hd1VpbzZOWjdvR1d6SGV6MW1OR3BxRmQwY2tJRGNMWW9tOW5FWDhqYzg4MXJheVNsWmZDWDB0c3U5M3duQk1FMXZ6TU43QXRLdTRMVkxvbjJZb1IwZWtscVhTOV9TYTZPcUI3M1FZMzhXZDNsT3BJMnFoaHBjZjVHSkZ0SEotM1UzelBIdTVRYnRVVW5PZHpsWGIzbFnSAbwBQVVfeXFMT3hYbDlOckVHT3FXMXNRM21jajdreE1IWGphWC0tZDl4Rk1RTE13TVZYQUpSaXhpZUE5cm9EcXpkZVQ0M2F3V0ZYOWJNUnk5X1RpbzNJdmZFeGFVcnYwVmp2V05zdXFMVWJfZHZKckdzTGxjSmlvVEt1NjlaWU5pZmhNV2ZRSHBuODdMTHFZR1pJdS1fYml4MGdMc1c5S1Y0djUwWHMtUkFzZUNjZ2V5dWhuZ2VZaDhJN19jUEo?oc=5\" target=\"_blank\">Samsung Electronics tops automotive memory chip market in 2025: report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdFFjSWRNeEhOeWROZk1MaURUUnJtdDZnVE1Hd1VpbzZOWjdvR1d6SGV6MW1OR3BxRmQwY2tJRGNMWW9tOW5FWDhqYzg4MXJheVNsWmZDWDB0c3U5M3duQk1FMXZ6TU43QXRLdTRMVkxvbjJZb1IwZWtscVhTOV9TYTZPcUI3M1FZMzhXZDNsT3BJMnFoaHBjZjVHSkZ0SEotM1UzelBIdTVRYnRVVW5PZHpsWGIzbFnSAbwBQVVfeXFMT3hYbDlOckVHT3FXMXNRM21jajdreE1IWGphWC0tZDl4Rk1RTE13TVZYQUpSaXhpZUE5cm9EcXpkZVQ0M2F3V0ZYOWJNUnk5X1RpbzNJdmZFeGFVcnYwVmp2V05zdXFMVWJfZHZKckdzTGxjSmlvVEt1NjlaWU5pZmhNV2ZRSHBuODdMTHFZR1pJdS1fYml4MGdMc1c5S1Y0djUwWHMtUkFzZUNjZ2V5dWhuZ2VZaDhJN19jUEo?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-05-31",
-          "views": "13.0K"
         }
       ]
     },
@@ -181,12 +181,12 @@
           "views": "18.0K"
         },
         {
-          "title": "LG Energy Solution leads battery industry's shift to AI-driven manufacturing - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNcExQQ1FhQ0p4eTZlZkdsdkNoMEtLZWJlYjFwYkpGYjdNbTl6dW5IR3NOS0oxaDRDSlBVWndRdHRlQWpTWndrM1pNaEdKT1RqV2hvZWN3ak5oYXFPYUVzZlZhaDVYVXJQUDQwakJzTndIc1p1SjN1VzU2YXk1aXludVpkZWtNUGJfZHFZX1czRmRIUEQ0WG1VWXUyRVVBT3FJaHVOM2FDbWJYcGFhNmpuX2hnbDJxTmVSX3lYUV83MzdiTW0weWh2SUhIZGXSAdIBQVVfeXFMUEFzX0VQZ3pNMkNFaXRfb3JRQk50ZUd4Q0t3VHdOMnd6RVJJTEV5WnVIM3NRZ1dZS3IySVNvZ1ZSVzgxRUd4OVVDblFDUXRCZ2c5RXBQU2szVGh3MDJyeDR3UkRrLUFkZ1lnRV94UDNKNW5wcWQxRXliYnZrdjBlNExKUU1BWUFiQjU2cGVpVjRhWWwyVUxyWl9UdnFfRGo5eXl6eE02NmlpNTB3M1Z5ZzRFdXh4VkpBXzBIOUd3UFVrNkMwcHZLZzhrLVZfSVMtNE9R?oc=5\" target=\"_blank\">LG Energy Solution leads battery industry's shift to AI-driven manufacturing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcExQQ1FhQ0p4eTZlZkdsdkNoMEtLZWJlYjFwYkpGYjdNbTl6dW5IR3NOS0oxaDRDSlBVWndRdHRlQWpTWndrM1pNaEdKT1RqV2hvZWN3ak5oYXFPYUVzZlZhaDVYVXJQUDQwakJzTndIc1p1SjN1VzU2YXk1aXludVpkZWtNUGJfZHFZX1czRmRIUEQ0WG1VWXUyRVVBT3FJaHVOM2FDbWJYcGFhNmpuX2hnbDJxTmVSX3lYUV83MzdiTW0weWh2SUhIZGXSAdIBQVVfeXFMUEFzX0VQZ3pNMkNFaXRfb3JRQk50ZUd4Q0t3VHdOMnd6RVJJTEV5WnVIM3NRZ1dZS3IySVNvZ1ZSVzgxRUd4OVVDblFDUXRCZ2c5RXBQU2szVGh3MDJyeDR3UkRrLUFkZ1lnRV94UDNKNW5wcWQxRXliYnZrdjBlNExKUU1BWUFiQjU2cGVpVjRhWWwyVUxyWl9UdnFfRGo5eXl6eE02NmlpNTB3M1Z5ZzRFdXh4VkpBXzBIOUd3UFVrNkMwcHZLZzhrLVZfSVMtNE9R?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-05-25",
-          "views": "18.0K"
+          "title": "How Turkey Hacked the Hair-Transplant Industry - WIRED",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPeXhxVnV6SEVUR0FIb1lQZmJrbUlFdXBhR2FVUVh2bnU4VHUxY3padGVOSUFvaWVfUU1RRnFIdk1rRHdJUVBZdU1CR3RzYnVyMWRDRlFwYVR4OGUwUmhDMW5BLVhLLXhEN19MaVZRN194Qmc3VDBWWGs4cXlheTA4Xw?oc=5\" target=\"_blank\">How Turkey Hacked the Hair-Transplant Industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeXhxVnV6SEVUR0FIb1lQZmJrbUlFdXBhR2FVUVh2bnU4VHUxY3padGVOSUFvaWVfUU1RRnFIdk1rRHdJUVBZdU1CR3RzYnVyMWRDRlFwYVR4OGUwUmhDMW5BLVhLLXhEN19MaVZRN194Qmc3VDBWWGs4cXlheTA4Xw?oc=5",
+          "source": "WIRED AI",
+          "publishedAt": "2026-05-31",
+          "views": "13.0K"
         },
         {
           "title": "[PHOTO] Security strategy leaders - The Korea Times",
