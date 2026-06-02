@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-01T05:14:15.873Z",
+  "lastUpdated": "2026-06-02T04:59:01.293Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,27 +49,27 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
-          "title": "DeepSWE blows up the AI coding leaderboard, crowns GPT-5.5, and finds Claude Opus exploiting a benchmark loophole - Venturebeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOXRwSDdMTkRfV0lXZGFwSmlqYXFmSmNQckM2SUFOUmYyLTlGcjRDYzlnTWtLdU9lemtTbFVHNWxTcWFCaVJqaE1xN2dsU1lFMm80UU44d3pZaWIzSW4xQm80S1hMZkxudXlSN05hdkJlek1TdzlzYWY0ZlJQdkFONlhkYWNvaGM3V1ZMaTdBZWtZVnpPNGJTeDBQR09QQTdvRFQzUDlQTUdLM0dzNGlaZi0tRGZUaGh1R2ZQb3d2RHozcExhU2VZNENQcXdpdHpqUWRZVmZfWFlhQzMxY2RJ?oc=5\" target=\"_blank\">DeepSWE blows up the AI coding leaderboard, crowns GPT-5.5, and finds Claude Opus exploiting a benchmark loophole</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Venturebeat</font>",
+          "title": "MiniMax M3 debuts, eclipsing GPT-5.5 and Gemini 3.1 Pro on key benchmark performance for just 5-10% of the cost - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVjJnVDMxM3Q1RWdaV3VBLWJPV2VwaTJEcEZxMER4UUtxV0tMSlNzMVRITUpUM0VhYm04Wko3UDhyMjQwU01YWmlDaFNJamtaRkhOZ0FQNjZmNkFvYldmTDRhRVFPWW91OHY0dUtiSXhQSXpIZXlXbV9mMVdzVC1Db3JUWjdLWjRpb1hkSnk5dFFfWEE3SEZCOGNnRE5rN2gzVGRqZkxJaFZ6RmpvOTB4N3dBX2hBdnJtZkNucDVKdGt5cFpKMDdHbTJKU2pvem1zbnFYVnpZSExGSjlm?oc=5\" target=\"_blank\">MiniMax M3 debuts, eclipsing GPT-5.5 and Gemini 3.1 Pro on key benchmark performance for just 5-10% of the cost</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVjJnVDMxM3Q1RWdaV3VBLWJPV2VwaTJEcEZxMER4UUtxV0tMSlNzMVRITUpUM0VhYm04Wko3UDhyMjQwU01YWmlDaFNJamtaRkhOZ0FQNjZmNkFvYldmTDRhRVFPWW91OHY0dUtiSXhQSXpIZXlXbV9mMVdzVC1Db3JUWjdLWjRpb1hkSnk5dFFfWEE3SEZCOGNnRE5rN2gzVGRqZkxJaFZ6RmpvOTB4N3dBX2hBdnJtZkNucDVKdGt5cFpKMDdHbTJKU2pvem1zbnFYVnpZSExGSjlm?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-06-01",
+          "views": "23.0K"
+        },
+        {
+          "title": "DeepSWE blows up the AI coding leaderboard, crowns GPT-5.5, and finds Claude Opus exploiting a benchmark loophole - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOXRwSDdMTkRfV0lXZGFwSmlqYXFmSmNQckM2SUFOUmYyLTlGcjRDYzlnTWtLdU9lemtTbFVHNWxTcWFCaVJqaE1xN2dsU1lFMm80UU44d3pZaWIzSW4xQm80S1hMZkxudXlSN05hdkJlek1TdzlzYWY0ZlJQdkFONlhkYWNvaGM3V1ZMaTdBZWtZVnpPNGJTeDBQR09QQTdvRFQzUDlQTUdLM0dzNGlaZi0tRGZUaGh1R2ZQb3d2RHozcExhU2VZNENQcXdpdHpqUWRZVmZfWFlhQzMxY2RJ?oc=5\" target=\"_blank\">DeepSWE blows up the AI coding leaderboard, crowns GPT-5.5, and finds Claude Opus exploiting a benchmark loophole</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOXRwSDdMTkRfV0lXZGFwSmlqYXFmSmNQckM2SUFOUmYyLTlGcjRDYzlnTWtLdU9lemtTbFVHNWxTcWFCaVJqaE1xN2dsU1lFMm80UU44d3pZaWIzSW4xQm80S1hMZkxudXlSN05hdkJlek1TdzlzYWY0ZlJQdkFONlhkYWNvaGM3V1ZMaTdBZWtZVnpPNGJTeDBQR09QQTdvRFQzUDlQTUdLM0dzNGlaZi0tRGZUaGh1R2ZQb3d2RHozcExhU2VZNENQcXdpdHpqUWRZVmZfWFlhQzMxY2RJ?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-05-26",
           "views": "23.0K"
         },
         {
-          "title": "Researchers automated LLM reasoning strategy design and cut token usage by 69.5% - Venturebeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTDJIVERQcC1NWldmMFdJdHlrNE5zRUVlODdfMlVGcjg0c0RXUVB2a0hTSVBUNmpibGZZM0s3a3poekhjLUxsWnQydzU1WF8xa0RMb25TWHVjTXIwYWc4b3p4NnV4ZEtJWHNOM1BNdGFYUlF4c0JwcDhLWWNLNWNXVWhVOU5DTGhCN3NycW93OTctcE5oUW9NRkstT2NTb252NjlRekpiNl83Vzd6VEZLX1lkc0FSdTR0?oc=5\" target=\"_blank\">Researchers automated LLM reasoning strategy design and cut token usage by 69.5%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Venturebeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTDJIVERQcC1NWldmMFdJdHlrNE5zRUVlODdfMlVGcjg0c0RXUVB2a0hTSVBUNmpibGZZM0s3a3poekhjLUxsWnQydzU1WF8xa0RMb25TWHVjTXIwYWc4b3p4NnV4ZEtJWHNOM1BNdGFYUlF4c0JwcDhLWWNLNWNXVWhVOU5DTGhCN3NycW93OTctcE5oUW9NRkstT2NTb252NjlRekpiNl83Vzd6VEZLX1lkc0FSdTR0?oc=5",
+          "title": "MeMo's memory model lets teams upgrade their LLM without retraining it — and performance jumps 26% - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPejkwLW9EYXREWnBhWWtzRTVzNGJQNTBTM2pDNXczeFdJVGotTDFxQWpSUHdKbktVUGdqeVdrVmdiNk1NMzgtMG1oN2tOMDVqY1JzOFFiZkFOWkt1U0tuc2YzNnlNdkFJdmdwbWJITkJ2V1hTdjVSQV9BQThDdWVJc0V0SVFMcGtIbl9SZFVpZm0tdnJLOHhz?oc=5\" target=\"_blank\">MeMo's memory model lets teams upgrade their LLM without retraining it — and performance jumps 26%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPejkwLW9EYXREWnBhWWtzRTVzNGJQNTBTM2pDNXczeFdJVGotTDFxQWpSUHdKbktVUGdqeVdrVmdiNk1NMzgtMG1oN2tOMDVqY1JzOFFiZkFOWkt1U0tuc2YzNnlNdkFJdmdwbWJITkJ2V1hTdjVSQV9BQThDdWVJc0V0SVFMcGtIbl9SZFVpZm0tdnJLOHhz?oc=5",
           "source": "VentureBeat AI",
-          "publishedAt": "2026-05-28",
-          "views": "18.0K"
-        },
-        {
-          "title": "Anthropic to roll out Claude Mythos in coming weeks, launches Opus 4.8 - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOFNzQ1NmSlNQcWFVamd2WW5yYWtldHRTN3VDakZPbjZCLXoxeF9URGpSbW1lUm55c0FtUmdlNzlyQmV2bTItcHFxREo2YjV6UVlpY3pFYmVBR2RyUmxtMEx4SlBIZU1iOGpTMVB3Zmp3di1rMWlUdVYzX0duaXRhWERFX0VhR0pDOU1yTEl1WGVlTmE2R2xycWxYMm5VUS1kWEJtX2hhSzRMMXc?oc=5\" target=\"_blank\">Anthropic to roll out Claude Mythos in coming weeks, launches Opus 4.8</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOFNzQ1NmSlNQcWFVamd2WW5yYWtldHRTN3VDakZPbjZCLXoxeF9URGpSbW1lUm55c0FtUmdlNzlyQmV2bTItcHFxREo2YjV6UVlpY3pFYmVBR2RyUmxtMEx4SlBIZU1iOGpTMVB3Zmp3di1rMWlUdVYzX0duaXRhWERFX0VhR0pDOU1yTEl1WGVlTmE2R2xycWxYMm5VUS1kWEJtX2hhSzRMMXc?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-05-28",
+          "publishedAt": "2026-05-29",
           "views": "18.0K"
         }
       ]
@@ -80,16 +80,16 @@
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
         {
-          "title": "AI agents are entering their rebuild era as enterprises confront the reliability problem - Venturebeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPZk1YVGxSZWJicnVwQUdnUVYxcGJZNFRBVXlScW1keGxqZVVfaGs1elh1YkJ3VzJRVWg3cHZWbEtOZEdoUkhTbmlPaHROT2VZQ2l2QWUtckN1Zy1LdU9LQ21JOFJoQnhjM2tBLUtZdGoyN1VWaUpySndXZEQ3TnRuVDlEZVNwNWRHMzBlZnNJQUhnck5Zb1JVTXhrUEFXcUdhQVIwLUxmLXM2dXdoUmNRb201c2trYlprQmNOVWQtRjNMUXYx?oc=5\" target=\"_blank\">AI agents are entering their rebuild era as enterprises confront the reliability problem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Venturebeat</font>",
+          "title": "AI agents are entering their rebuild era as enterprises confront the reliability problem - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPZk1YVGxSZWJicnVwQUdnUVYxcGJZNFRBVXlScW1keGxqZVVfaGs1elh1YkJ3VzJRVWg3cHZWbEtOZEdoUkhTbmlPaHROT2VZQ2l2QWUtckN1Zy1LdU9LQ21JOFJoQnhjM2tBLUtZdGoyN1VWaUpySndXZEQ3TnRuVDlEZVNwNWRHMzBlZnNJQUhnck5Zb1JVTXhrUEFXcUdhQVIwLUxmLXM2dXdoUmNRb201c2trYlprQmNOVWQtRjNMUXYx?oc=5\" target=\"_blank\">AI agents are entering their rebuild era as enterprises confront the reliability problem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZk1YVGxSZWJicnVwQUdnUVYxcGJZNFRBVXlScW1keGxqZVVfaGs1elh1YkJ3VzJRVWg3cHZWbEtOZEdoUkhTbmlPaHROT2VZQ2l2QWUtckN1Zy1LdU9LQ21JOFJoQnhjM2tBLUtZdGoyN1VWaUpySndXZEQ3TnRuVDlEZVNwNWRHMzBlZnNJQUhnck5Zb1JVTXhrUEFXcUdhQVIwLUxmLXM2dXdoUmNRb201c2trYlprQmNOVWQtRjNMUXYx?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-05-29",
           "views": "18.0K"
         },
         {
-          "title": "Ping Identity redefines the identity control plane for the agentic enterprise - Venturebeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPTWtlOUxWblFfYjg4QUZsZHB0UW15UWtyZWltaTI3R2llSXVBaTRsckpVamNqaEI3SFJvUjllMVllOGM4OXM1NWdjOFBrM29ZWHlRQllpREJrVEpRS042TER3ZER5NmlSdWlmYWhTMk9aX3A1LUpIZno4UEdLcU00LUtiM1lhcUl4VGduUm9lOHppUG52SlVqMWdTU18xTzFMQ3NydTFGRHF0Uk5sbDZN?oc=5\" target=\"_blank\">Ping Identity redefines the identity control plane for the agentic enterprise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Venturebeat</font>",
+          "title": "Ping Identity redefines the identity control plane for the agentic enterprise - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPTWtlOUxWblFfYjg4QUZsZHB0UW15UWtyZWltaTI3R2llSXVBaTRsckpVamNqaEI3SFJvUjllMVllOGM4OXM1NWdjOFBrM29ZWHlRQllpREJrVEpRS042TER3ZER5NmlSdWlmYWhTMk9aX3A1LUpIZno4UEdLcU00LUtiM1lhcUl4VGduUm9lOHppUG52SlVqMWdTU18xTzFMQ3NydTFGRHF0Uk5sbDZN?oc=5\" target=\"_blank\">Ping Identity redefines the identity control plane for the agentic enterprise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTWtlOUxWblFfYjg4QUZsZHB0UW15UWtyZWltaTI3R2llSXVBaTRsckpVamNqaEI3SFJvUjllMVllOGM4OXM1NWdjOFBrM29ZWHlRQllpREJrVEpRS042TER3ZER5NmlSdWlmYWhTMk9aX3A1LUpIZno4UEdLcU00LUtiM1lhcUl4VGduUm9lOHppUG52SlVqMWdTU18xTzFMQ3NydTFGRHF0Uk5sbDZN?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-05-27",
@@ -111,27 +111,27 @@
       "description": "규제, 책임, 신뢰, 저작권 같은 문제를 보는 관점",
       "items": [
         {
+          "title": "Florida becomes first state to sue OpenAI over child safety risks - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNa1RxMnp2ak1OekQtTWRjdXR1QjBsX1poVlRjVklwSWotT3FfUDNsdUFIdVhYa1A0ZlFHS3NSSlZrOWt4bEU2MzFEaENuWG1CZFkyNkZ5al9HU1o0VmQtRDJhUzIwOVBRQThldTNUdmZUeVdvN0dmdFVLa2NDZHFxb0ZIWVRxcHpyTk9GOVUweUV4bXdvYkNtamotMm5oYW5LRnQxZ1c2S1QwWEhldnhTMnhuVG5kUQ?oc=5\" target=\"_blank\">Florida becomes first state to sue OpenAI over child safety risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa1RxMnp2ak1OekQtTWRjdXR1QjBsX1poVlRjVklwSWotT3FfUDNsdUFIdVhYa1A0ZlFHS3NSSlZrOWt4bEU2MzFEaENuWG1CZFkyNkZ5al9HU1o0VmQtRDJhUzIwOVBRQThldTNUdmZUeVdvN0dmdFVLa2NDZHFxb0ZIWVRxcHpyTk9GOVUweUV4bXdvYkNtamotMm5oYW5LRnQxZ1c2S1QwWEhldnhTMnhuVG5kUQ?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-06-01",
+          "views": "18.0K"
+        },
+        {
+          "title": "Japan risks return to stagnation without early rate hike, ex-BOJ policymaker says - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNNWhmWUFfdXpjbldDc2p0bnBXQTYzc2hDRTNDVGRCd2RUcFdWaDlDQ1c2YzBCN3pDamNCQ3hOR1l1QVladTVDT0pTZmQxeXhzd0dJM1BBd0NZOXZRYVlMcF9BMEZkeU1oak9IbU5YY1NuZlhYVEVXNGdmZHN6dzFqSHVGV0RKQnBodXAyY25NRk9FUnNUS3dEMHRKREd3NVh4OGRBdFQzcThSdGRoRWJUWHp4aVVkcjlRNUoxaDM4bGtBeWdxb3JqNVI2TDE?oc=5\" target=\"_blank\">Japan risks return to stagnation without early rate hike, ex-BOJ policymaker says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNWhmWUFfdXpjbldDc2p0bnBXQTYzc2hDRTNDVGRCd2RUcFdWaDlDQ1c2YzBCN3pDamNCQ3hOR1l1QVladTVDT0pTZmQxeXhzd0dJM1BBd0NZOXZRYVlMcF9BMEZkeU1oak9IbU5YY1NuZlhYVEVXNGdmZHN6dzFqSHVGV0RKQnBodXAyY25NRk9FUnNUS3dEMHRKREd3NVh4OGRBdFQzcThSdGRoRWJUWHp4aVVkcjlRNUoxaDM4bGtBeWdxb3JqNVI2TDE?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-06-01",
+          "views": "18.0K"
+        },
+        {
           "title": "More Fed policymakers eye possible rate hike as inflation risks rise - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxONHZGRC1lZE9FMWRpVnlkVVFaZWFLWkowZWZjaW8teHlXenZhdVJ3OWw3WW1pejA2YUhHNTRpTExYSGE1bDFKQ1JWdVo5YnNSeDEwMGFsanJreTc2SDR6MlFIRnl5UEMwV3VDXzNGcERrX3ZlRS16c2xscjlNeXZoM2pGM25oNjNCcGJiN2tFbjAydWdyOUZYal9fallKcUo3VWZjd1htTnI?oc=5\" target=\"_blank\">More Fed policymakers eye possible rate hike as inflation risks rise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONHZGRC1lZE9FMWRpVnlkVVFaZWFLWkowZWZjaW8teHlXenZhdVJ3OWw3WW1pejA2YUhHNTRpTExYSGE1bDFKQ1JWdVo5YnNSeDEwMGFsanJreTc2SDR6MlFIRnl5UEMwV3VDXzNGcERrX3ZlRS16c2xscjlNeXZoM2pGM25oNjNCcGJiN2tFbjAydWdyOUZYal9fallKcUo3VWZjd1htTnI?oc=5",
           "source": "Reuters AI",
           "publishedAt": "2026-05-29",
-          "views": "18.0K"
-        },
-        {
-          "title": "Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill - WIRED",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE54MXRJU2JRVkpqUjROR3dmTnJXNFd1TzBKNFdoalREbl80cEhIdzVFM3BubUpCX3dwVzlvWXVpa0MzdUhfakxnSkpFVjFkeXNBUlllcFh3eWdscGZnekNlZlpPblFSenEyVVFzOEpBZmxtRHMtQ3JublZDRQ?oc=5\" target=\"_blank\">Illinois Lawmakers Just Passed America’s Strongest AI Safety Bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54MXRJU2JRVkpqUjROR3dmTnJXNFd1TzBKNFdoalREbl80cEhIdzVFM3BubUpCX3dwVzlvWXVpa0MzdUhfakxnSkpFVjFkeXNBUlllcFh3eWdscGZnekNlZlpPblFSenEyVVFzOEpBZmxtRHMtQ3JublZDRQ?oc=5",
-          "source": "WIRED AI",
-          "publishedAt": "2026-05-28",
-          "views": "18.0K"
-        },
-        {
-          "title": "Fed's Jefferson says monetary policy is 'well positioned' amid inflation risks - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOeXJoRGpCejdkaXpTYW9RSmNVbDM5eHZtZy0tb05IVDRHbm42YThsQU1veGJWdy1wSHVWbWVKNkZ1bVJaQ1dCT1VCQThnSWNWbmZxbGJ5NTRoSS1aMDV0UG1qWFJ4VTQ0NFFrZEtZMjRyM1NEZE16UVl5cXFtVlJ2bG40ZngxZjhLdk14UWlWUnhPeHY3c014U2FaNlNiZ0JlX21OdnYwSmdGa3R2VmRRNUlDMUoyd3RRM05YMWV0ZV9Vb1oz?oc=5\" target=\"_blank\">Fed's Jefferson says monetary policy is 'well positioned' amid inflation risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeXJoRGpCejdkaXpTYW9RSmNVbDM5eHZtZy0tb05IVDRHbm42YThsQU1veGJWdy1wSHVWbWVKNkZ1bVJaQ1dCT1VCQThnSWNWbmZxbGJ5NTRoSS1aMDV0UG1qWFJ4VTQ0NFFrZEtZMjRyM1NEZE16UVl5cXFtVlJ2bG40ZngxZjhLdk14UWlWUnhPeHY3c014U2FaNlNiZ0JlX21OdnYwSmdGa3R2VmRRNUlDMUoyd3RRM05YMWV0ZV9Vb1oz?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-05-28",
           "views": "18.0K"
         }
       ]
@@ -181,19 +181,19 @@
           "views": "18.0K"
         },
         {
-          "title": "How Turkey Hacked the Hair-Transplant Industry - WIRED",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPeXhxVnV6SEVUR0FIb1lQZmJrbUlFdXBhR2FVUVh2bnU4VHUxY3padGVOSUFvaWVfUU1RRnFIdk1rRHdJUVBZdU1CR3RzYnVyMWRDRlFwYVR4OGUwUmhDMW5BLVhLLXhEN19MaVZRN194Qmc3VDBWWGs4cXlheTA4Xw?oc=5\" target=\"_blank\">How Turkey Hacked the Hair-Transplant Industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeXhxVnV6SEVUR0FIb1lQZmJrbUlFdXBhR2FVUVh2bnU4VHUxY3padGVOSUFvaWVfUU1RRnFIdk1rRHdJUVBZdU1CR3RzYnVyMWRDRlFwYVR4OGUwUmhDMW5BLVhLLXhEN19MaVZRN194Qmc3VDBWWGs4cXlheTA4Xw?oc=5",
-          "source": "WIRED AI",
-          "publishedAt": "2026-05-31",
+          "title": "Korea's content industry exports hit record $14.9 bil. in 2025 - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOYjFsSllNMVZUeDZBQTBZRG55X0VidExYTUMyU0hnSVFYa1JNQlVDSHc0dDdtbjg2RXpjQW5hTDg5bDliTnFQVnVtOTk0TWlaUjBRaFRmenhrU3pFNlVNRDRBdkE3Z1ZNSldBUVJyRlBtdUM0OHhzb2ZqdVJ0aG9JV2hyQkpEc0tZZWVTYnk2dXF5TDM3bkZQRlViTi1vV0ZrcFV5OV9oNNIBrAFBVV95cUxQZ2E0LVNDcUpsZHducWxLZlgtLU1MaXFoREF0dHFLX1VabzkxTlVhV2VnTWM2VkZPLTZLUlM0bkQzN2xZNk8wTnBkcllVU01objNxRXVvbmY0V3dWUGJhUWQzcDkxNnozNUpVTzVhUVA5MTZuVmJpS04yeENELTR0VlE4Y29yUjFmMUlWTkYwSE9IOFRHR3R1T3R6Q2w5VnRLZkRMME9LQnZxZk1S?oc=5\" target=\"_blank\">Korea's content industry exports hit record $14.9 bil. in 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYjFsSllNMVZUeDZBQTBZRG55X0VidExYTUMyU0hnSVFYa1JNQlVDSHc0dDdtbjg2RXpjQW5hTDg5bDliTnFQVnVtOTk0TWlaUjBRaFRmenhrU3pFNlVNRDRBdkE3Z1ZNSldBUVJyRlBtdUM0OHhzb2ZqdVJ0aG9JV2hyQkpEc0tZZWVTYnk2dXF5TDM3bkZQRlViTi1vV0ZrcFV5OV9oNNIBrAFBVV95cUxQZ2E0LVNDcUpsZHducWxLZlgtLU1MaXFoREF0dHFLX1VabzkxTlVhV2VnTWM2VkZPLTZLUlM0bkQzN2xZNk8wTnBkcllVU01objNxRXVvbmY0V3dWUGJhUWQzcDkxNnozNUpVTzVhUVA5MTZuVmJpS04yeENELTR0VlE4Y29yUjFmMUlWTkYwSE9IOFRHR3R1T3R6Q2w5VnRLZkRMME9LQnZxZk1S?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-06-02",
           "views": "13.0K"
         },
         {
-          "title": "[PHOTO] Security strategy leaders - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNNDVZV3BYNWh1UlRiak9aTmh2QzBlOVNTWS1veTA5YTI0UnJDMVNWSmhNQ090QWJ2WmNDUVVUM25XYmJaWXNmUUg3ZEwxcmNva1NXckdwdEJxNlYtR1hac1NuWUREcHRHR0ljTDBmRmJQY2xhSWExMm1uZm5sWVBJRnpCQ3pVY2R2bmc5NkVWcUhQVzBqZy1N0gGXAUFVX3lxTE00NVlXcFg1aHVSVGJqT1pOaHZDMGU5U1NZLW95MDlhMjRSckMxU1ZKaE1DT3RBYnZaY0NRVVQzbldiYlpZc2ZRSDdkTDFyY29rU1dyR3B0QnE2Vi1HWFpzU25ZRERwdEdHSWNMMGZGYlBjbGFJYTEybW5mbmxZUElGekJDelVjZHZuZzk2RVZxSFBXMGpnLU0?oc=5\" target=\"_blank\">[PHOTO] Security strategy leaders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNDVZV3BYNWh1UlRiak9aTmh2QzBlOVNTWS1veTA5YTI0UnJDMVNWSmhNQ090QWJ2WmNDUVVUM25XYmJaWXNmUUg3ZEwxcmNva1NXckdwdEJxNlYtR1hac1NuWUREcHRHR0ljTDBmRmJQY2xhSWExMm1uZm5sWVBJRnpCQ3pVY2R2bmc5NkVWcUhQVzBqZy1N0gGXAUFVX3lxTE00NVlXcFg1aHVSVGJqT1pOaHZDMGU5U1NZLW95MDlhMjRSckMxU1ZKaE1DT3RBYnZaY0NRVVQzbldiYlpZc2ZRSDdkTDFyY29rU1dyR3B0QnE2Vi1HWFpzU25ZRERwdEdHSWNMMGZGYlBjbGFJYTEybW5mbmxZUElGekJDelVjZHZuZzk2RVZxSFBXMGpnLU0?oc=5",
+          "title": "Korea ramps up ‘K-wellness tourism' under new Healing Industry Act - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOQzJOcFJ2NjFwZldickhvd2R4UTY5MUJzSHZvTURZVVJDXzBBeTBRYTF2M2pVQnRHSVJGV2hNR2RYZUlKQ3l3a0tQU0xnNmR6MkFCUVdVSENlN1dvOENjQlNibkhnWkVOSV9Tb1BOU2pITzdkUWxOYndDYkVuRnM3aEZORDNqdFNFb0JXNDlmSnNacE15OHFzNGRoMlBPazQ5RzZuakw4R0lralhHY0oxYXhhQ2xlZDF4djF5Z9IBwgFBVV95cUxNM3Rkc2k2MHZ4eXphU0QxRjJrWVVlem1wRjlPbWVQM2QwNFZEQnloclk3REljbWM5eEtiM281MG56MC0yNUFuYXRsTFltdEFWZkJzLVY0TkZ5dTNxaGJ0bW1ad2JGa2dzN2kwQVlnb3BHdTIxYkQtLUVTTEFaNkVJcVNfSlhaekFIaGg3XzRkZlBTYTEyTVd4NmpiaENCeWRCZDJtRkpId2xsSl92eGlBeWIwRzA3UnlIYjlSYTZCMFRDUQ?oc=5\" target=\"_blank\">Korea ramps up ‘K-wellness tourism' under new Healing Industry Act</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQzJOcFJ2NjFwZldickhvd2R4UTY5MUJzSHZvTURZVVJDXzBBeTBRYTF2M2pVQnRHSVJGV2hNR2RYZUlKQ3l3a0tQU0xnNmR6MkFCUVdVSENlN1dvOENjQlNibkhnWkVOSV9Tb1BOU2pITzdkUWxOYndDYkVuRnM3aEZORDNqdFNFb0JXNDlmSnNacE15OHFzNGRoMlBPazQ5RzZuakw4R0lralhHY0oxYXhhQ2xlZDF4djF5Z9IBwgFBVV95cUxNM3Rkc2k2MHZ4eXphU0QxRjJrWVVlem1wRjlPbWVQM2QwNFZEQnloclk3REljbWM5eEtiM281MG56MC0yNUFuYXRsTFltdEFWZkJzLVY0TkZ5dTNxaGJ0bW1ad2JGa2dzN2kwQVlnb3BHdTIxYkQtLUVTTEFaNkVJcVNfSlhaekFIaGg3XzRkZlBTYTEyTVd4NmpiaENCeWRCZDJtRkpId2xsSl92eGlBeWIwRzA3UnlIYjlSYTZCMFRDUQ?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-05-29",
+          "publishedAt": "2026-06-01",
           "views": "13.0K"
         }
       ]
