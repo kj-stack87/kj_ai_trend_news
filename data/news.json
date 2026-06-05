@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-04T05:03:13.075Z",
+  "lastUpdated": "2026-06-05T04:45:17.155Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -57,19 +57,19 @@
           "views": "23.0K"
         },
         {
+          "title": "Meta repeatedly pushes back new AI model release for developers, WSJ says - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ3lEdmlvOHhFdTlRdVJUQ0o5SHJlV0pVTWtQRHBGX2RLSDZ4M2c1cktSREp4RVZIeXdtYlhJbWR6Zjc5QVFXX0ZicVVrOUVHbHR1Y1MtaVdEcnRXdmJPVVV3WlNfRDFsMWpnZk9yYkdWU0Q3bDMwQUxoVEllMHd2TUZmSGJ6WURoMTFIUWROdEEyZ1lWQmxKVDJLc0NoNnh5YUFNVGhxNkZxbHpMRF9RNnAtN0JzQQ?oc=5\" target=\"_blank\">Meta repeatedly pushes back new AI model release for developers, WSJ says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ3lEdmlvOHhFdTlRdVJUQ0o5SHJlV0pVTWtQRHBGX2RLSDZ4M2c1cktSREp4RVZIeXdtYlhJbWR6Zjc5QVFXX0ZicVVrOUVHbHR1Y1MtaVdEcnRXdmJPVVV3WlNfRDFsMWpnZk9yYkdWU0Q3bDMwQUxoVEllMHd2TUZmSGJ6WURoMTFIUWROdEEyZ1lWQmxKVDJLc0NoNnh5YUFNVGhxNkZxbHpMRF9RNnAtN0JzQQ?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-06-04",
+          "views": "18.0K"
+        },
+        {
           "title": "MeMo's memory model lets teams upgrade their LLM without retraining it — and performance jumps 26% - VentureBeat",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPejkwLW9EYXREWnBhWWtzRTVzNGJQNTBTM2pDNXczeFdJVGotTDFxQWpSUHdKbktVUGdqeVdrVmdiNk1NMzgtMG1oN2tOMDVqY1JzOFFiZkFOWkt1U0tuc2YzNnlNdkFJdmdwbWJITkJ2V1hTdjVSQV9BQThDdWVJc0V0SVFMcGtIbl9SZFVpZm0tdnJLOHhz?oc=5\" target=\"_blank\">MeMo's memory model lets teams upgrade their LLM without retraining it — and performance jumps 26%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPejkwLW9EYXREWnBhWWtzRTVzNGJQNTBTM2pDNXczeFdJVGotTDFxQWpSUHdKbktVUGdqeVdrVmdiNk1NMzgtMG1oN2tOMDVqY1JzOFFiZkFOWkt1U0tuc2YzNnlNdkFJdmdwbWJITkJ2V1hTdjVSQV9BQThDdWVJc0V0SVFMcGtIbl9SZFVpZm0tdnJLOHhz?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-05-29",
-          "views": "18.0K"
-        },
-        {
-          "title": "Researchers automated LLM reasoning strategy design and cut token usage by 69.5% - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTDJIVERQcC1NWldmMFdJdHlrNE5zRUVlODdfMlVGcjg0c0RXUVB2a0hTSVBUNmpibGZZM0s3a3poekhjLUxsWnQydzU1WF8xa0RMb25TWHVjTXIwYWc4b3p4NnV4ZEtJWHNOM1BNdGFYUlF4c0JwcDhLWWNLNWNXVWhVOU5DTGhCN3NycW93OTctcE5oUW9NRkstT2NTb252NjlRekpiNl83Vzd6VEZLX1lkc0FSdTR0?oc=5\" target=\"_blank\">Researchers automated LLM reasoning strategy design and cut token usage by 69.5%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTDJIVERQcC1NWldmMFdJdHlrNE5zRUVlODdfMlVGcjg0c0RXUVB2a0hTSVBUNmpibGZZM0s3a3poekhjLUxsWnQydzU1WF8xa0RMb25TWHVjTXIwYWc4b3p4NnV4ZEtJWHNOM1BNdGFYUlF4c0JwcDhLWWNLNWNXVWhVOU5DTGhCN3NycW93OTctcE5oUW9NRkstT2NTb252NjlRekpiNl83Vzd6VEZLX1lkc0FSdTR0?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-05-28",
           "views": "18.0K"
         }
       ]
@@ -88,17 +88,17 @@
           "views": "18.0K"
         },
         {
-          "title": "Enterprise AI agents keep creating data silos. Microsoft's Build answer is Microsoft IQ and Rayfin. - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTEdhd0tSZEJscXQyRVh4VTk0U29yVFhlRi1ibGhNaTZ6cmIxYjF5SXgzMjJSaThJSEFTYVBOMkk1SUROblN0NEp1WFFsYmUtdnVWcmJIWmktVmRsZkVHSDVRUkN4MGc1Q2J4d01jWXJMQy01dGVGR0dvNXUtOFpfZWJPVlc2cHJmRm9GMnAwYmFEN09NMThkMWFzaE85YkxJVkxrZWxRZkdyWmgySlZtNnhKZWxkN1R2Q3oyalAyakxsMmc?oc=5\" target=\"_blank\">Enterprise AI agents keep creating data silos. Microsoft's Build answer is Microsoft IQ and Rayfin.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTEdhd0tSZEJscXQyRVh4VTk0U29yVFhlRi1ibGhNaTZ6cmIxYjF5SXgzMjJSaThJSEFTYVBOMkk1SUROblN0NEp1WFFsYmUtdnVWcmJIWmktVmRsZkVHSDVRUkN4MGc1Q2J4d01jWXJMQy01dGVGR0dvNXUtOFpfZWJPVlc2cHJmRm9GMnAwYmFEN09NMThkMWFzaE85YkxJVkxrZWxRZkdyWmgySlZtNnhKZWxkN1R2Q3oyalAyakxsMmc?oc=5",
+          "title": "OpenAI's Codex update lets agents build interactive enterprise workspaces via Sites and role-specific plugins - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVWkzdDNDdHpkbWN0dElScDMzNHV6SkJkb1VvR3d0cl84MWNxTHU3TWRhRUM5c3V0dHFKYnQ0UGZmVThZbTVHZ1NfUzB0OTBtR1R2M1BWQTlBYlgxWDVFZDBaZ2pMQkl3N2syWm04b1JYam1BdnZsS0NBczlZLU56R05zdEg5VjVRMVpWZEZGMzZOdkUtZ3JlVTVRdVVTa01kS3c2ZC0zdVBQMVhQRW4wM1lQZjhDemlCcXlKUWM1QVdPUlhTbDhhYWpVQmlQdHpwb283aDFuUFM4Wjlfcllj?oc=5\" target=\"_blank\">OpenAI's Codex update lets agents build interactive enterprise workspaces via Sites and role-specific plugins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVWkzdDNDdHpkbWN0dElScDMzNHV6SkJkb1VvR3d0cl84MWNxTHU3TWRhRUM5c3V0dHFKYnQ0UGZmVThZbTVHZ1NfUzB0OTBtR1R2M1BWQTlBYlgxWDVFZDBaZ2pMQkl3N2syWm04b1JYam1BdnZsS0NBczlZLU56R05zdEg5VjVRMVpWZEZGMzZOdkUtZ3JlVTVRdVVTa01kS3c2ZC0zdVBQMVhQRW4wM1lQZjhDemlCcXlKUWM1QVdPUlhTbDhhYWpVQmlQdHpwb283aDFuUFM4Wjlfcllj?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-06-02",
           "views": "18.0K"
         },
         {
-          "title": "OpenAI's Codex update lets agents build interactive enterprise workspaces via Sites and role-specific plugins - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVWkzdDNDdHpkbWN0dElScDMzNHV6SkJkb1VvR3d0cl84MWNxTHU3TWRhRUM5c3V0dHFKYnQ0UGZmVThZbTVHZ1NfUzB0OTBtR1R2M1BWQTlBYlgxWDVFZDBaZ2pMQkl3N2syWm04b1JYam1BdnZsS0NBczlZLU56R05zdEg5VjVRMVpWZEZGMzZOdkUtZ3JlVTVRdVVTa01kS3c2ZC0zdVBQMVhQRW4wM1lQZjhDemlCcXlKUWM1QVdPUlhTbDhhYWpVQmlQdHpwb283aDFuUFM4Wjlfcllj?oc=5\" target=\"_blank\">OpenAI's Codex update lets agents build interactive enterprise workspaces via Sites and role-specific plugins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVWkzdDNDdHpkbWN0dElScDMzNHV6SkJkb1VvR3d0cl84MWNxTHU3TWRhRUM5c3V0dHFKYnQ0UGZmVThZbTVHZ1NfUzB0OTBtR1R2M1BWQTlBYlgxWDVFZDBaZ2pMQkl3N2syWm04b1JYam1BdnZsS0NBczlZLU56R05zdEg5VjVRMVpWZEZGMzZOdkUtZ3JlVTVRdVVTa01kS3c2ZC0zdVBQMVhQRW4wM1lQZjhDemlCcXlKUWM1QVdPUlhTbDhhYWpVQmlQdHpwb283aDFuUFM4Wjlfcllj?oc=5",
+          "title": "Enterprise AI agents keep creating data silos. Microsoft's Build answer is Microsoft IQ and Rayfin. - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTEdhd0tSZEJscXQyRVh4VTk0U29yVFhlRi1ibGhNaTZ6cmIxYjF5SXgzMjJSaThJSEFTYVBOMkk1SUROblN0NEp1WFFsYmUtdnVWcmJIWmktVmRsZkVHSDVRUkN4MGc1Q2J4d01jWXJMQy01dGVGR0dvNXUtOFpfZWJPVlc2cHJmRm9GMnAwYmFEN09NMThkMWFzaE85YkxJVkxrZWxRZkdyWmgySlZtNnhKZWxkN1R2Q3oyalAyakxsMmc?oc=5\" target=\"_blank\">Enterprise AI agents keep creating data silos. Microsoft's Build answer is Microsoft IQ and Rayfin.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTEdhd0tSZEJscXQyRVh4VTk0U29yVFhlRi1ibGhNaTZ6cmIxYjF5SXgzMjJSaThJSEFTYVBOMkk1SUROblN0NEp1WFFsYmUtdnVWcmJIWmktVmRsZkVHSDVRUkN4MGc1Q2J4d01jWXJMQy01dGVGR0dvNXUtOFpfZWJPVlc2cHJmRm9GMnAwYmFEN09NMThkMWFzaE85YkxJVkxrZWxRZkdyWmgySlZtNnhKZWxkN1R2Q3oyalAyakxsMmc?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-06-02",
           "views": "18.0K"
@@ -142,28 +142,28 @@
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
         {
+          "title": "Whisper it, but the US jobs market may have turned a corner - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdVNtNGpyMnhKcHVwQ094UElqNDBPNE5PYllQOXpGM1c3NTlsNnRrR1FPdUVYS3RzSk1LNjZVWWNKbWNjVzJjbmxQejg0Z092ZWo4dm00SHZZdmVVd2NCNTl1ckdoWC03OTBKSC0zYXRPcGhhMG5IQVJzM2t3QS1xYjlFVGF1Z3pIQktkRDltbmE1QmdqLUlFanRoSF9jdEpmcVhaS3Z0MHFvUWpIa0RjS0tZTnNqNXhP?oc=5\" target=\"_blank\">Whisper it, but the US jobs market may have turned a corner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdVNtNGpyMnhKcHVwQ094UElqNDBPNE5PYllQOXpGM1c3NTlsNnRrR1FPdUVYS3RzSk1LNjZVWWNKbWNjVzJjbmxQejg0Z092ZWo4dm00SHZZdmVVd2NCNTl1ckdoWC03OTBKSC0zYXRPcGhhMG5IQVJzM2t3QS1xYjlFVGF1Z3pIQktkRDltbmE1QmdqLUlFanRoSF9jdEpmcVhaS3Z0MHFvUWpIa0RjS0tZTnNqNXhP?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-06-04",
+          "views": "18.0K"
+        },
+        {
+          "title": "AI music startup Suno raises funding at $5.4 billion valuation - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPa09sNEVOVGdGRXZCQjliZm1rZFVzWXFqa3M1NUdRbVFnYWZHQ1BJcTd3UGktclFTWW9LRDRGWDZKa3JhLVdBYUExR2NXT2lKa2lmYUVWdExXdlZTeUVxaHptVGYxY2p2elIyYkloR3JoT0hEWUI1Z0kxYU9HRXktdUdIYmRULU1iSmRDdnBGMTUzeUFhX05pUjJDY2k2U1lGSDVKYWxsT1pTczZQeVVpRTg3NA?oc=5\" target=\"_blank\">AI music startup Suno raises funding at $5.4 billion valuation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPa09sNEVOVGdGRXZCQjliZm1rZFVzWXFqa3M1NUdRbVFnYWZHQ1BJcTd3UGktclFTWW9LRDRGWDZKa3JhLVdBYUExR2NXT2lKa2lmYUVWdExXdlZTeUVxaHptVGYxY2p2elIyYkloR3JoT0hEWUI1Z0kxYU9HRXktdUdIYmRULU1iSmRDdnBGMTUzeUFhX05pUjJDY2k2U1lGSDVKYWxsT1pTczZQeVVpRTg3NA?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-06-03",
+          "views": "18.0K"
+        },
+        {
           "title": "Seoul Design Foundation boosts circular economy startups with new training program - The Korea Times",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNLWNfRnUyOGZsbzl5V1NTR29jUEg1c0h3X3Y4SjFPRWYwOTg1UGdadl94d1lhZnZBTHczd0lFMU5STzZDQUV1RE5MTXdzelBDZmdOS29RRFpIOEswYnhDdVR2VlFMYXFWNmhMVHFZVGNzTjZzQkxQQ25iX20xZ3RlWHRhQnl1LVIxNk9sdFhlMzF4dlpTeDB4bkIyTHI4azBYSFRFV280WUtSUkluRmZLUmRQbTBoWkhBVlVieWpTbDdNT0g0OEhoSWlxYS0tcDV6SjlEZ1cyQ0w4djRT0gHiAUFVX3lxTE0xcDZLLUxpcXlDcF9VMmRWRlBsVmRzUHVfZ0dWQlQ0S2ZVRzlVRWw2ZUc4TXJ6Q0dScVpsYm9SbnZxYjJveGVBTmg1bU0yalJVZmZCNldtelJHV1Vmc1BPY25DX3oyRDYyd3h6bmlZVGUtcDBVTDJTbVRFejhLeW5obUtwbkd1RkZDTTM3cmpRM1Bad2VCR2xCNU05eTRRNkZZLXZPalNxS3F4R1BEU3FQMXR5dk9VeFBKYmp0bHJfclE0Z3hqYmZuMFJWWnNtNFlZTXdPczFVS2kzSUJ2SWRSaHc?oc=5\" target=\"_blank\">Seoul Design Foundation boosts circular economy startups with new training program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNLWNfRnUyOGZsbzl5V1NTR29jUEg1c0h3X3Y4SjFPRWYwOTg1UGdadl94d1lhZnZBTHczd0lFMU5STzZDQUV1RE5MTXdzelBDZmdOS29RRFpIOEswYnhDdVR2VlFMYXFWNmhMVHFZVGNzTjZzQkxQQ25iX20xZ3RlWHRhQnl1LVIxNk9sdFhlMzF4dlpTeDB4bkIyTHI4azBYSFRFV280WUtSUkluRmZLUmRQbTBoWkhBVlVieWpTbDdNT0g0OEhoSWlxYS0tcDV6SjlEZ1cyQ0w4djRT0gHiAUFVX3lxTE0xcDZLLUxpcXlDcF9VMmRWRlBsVmRzUHVfZ0dWQlQ0S2ZVRzlVRWw2ZUc4TXJ6Q0dScVpsYm9SbnZxYjJveGVBTmg1bU0yalJVZmZCNldtelJHV1Vmc1BPY25DX3oyRDYyd3h6bmlZVGUtcDBVTDJTbVRFejhLeW5obUtwbkd1RkZDTTM3cmpRM1Bad2VCR2xCNU05eTRRNkZZLXZPalNxS3F4R1BEU3FQMXR5dk9VeFBKYmp0bHJfclE0Z3hqYmZuMFJWWnNtNFlZTXdPczFVS2kzSUJ2SWRSaHc?oc=5",
           "source": "The Korea Times",
           "publishedAt": "2026-06-02",
           "views": "18.0K"
-        },
-        {
-          "title": "H1 secures $40M from CVS, proving SaaS startups can still attract investment - TechCrunch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNcmpRUGtubFBCQ0VlMV9QOGlXRHMzQXpnazF5WXJBNk1JcThKRFZEOUJiTXJWUklTcHgtRXJZdWJRTF9sdzB0QVE3OF9pQlhoWTgxWGlBbEdFaHRERlhzYmQxU2tNVzZ4NEgtZmhzZ2ZFZ3FOaWd5NC02bkRkbVltTDhfQTlKU20tOFU1QTJaTkhQUzc5OUNSOHdOZzZKamtKTkJXTHBHdmxvdW1lckE?oc=5\" target=\"_blank\">H1 secures $40M from CVS, proving SaaS startups can still attract investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcmpRUGtubFBCQ0VlMV9QOGlXRHMzQXpnazF5WXJBNk1JcThKRFZEOUJiTXJWUklTcHgtRXJZdWJRTF9sdzB0QVE3OF9pQlhoWTgxWGlBbEdFaHRERlhzYmQxU2tNVzZ4NEgtZmhzZ2ZFZ3FOaWd5NC02bkRkbVltTDhfQTlKU20tOFU1QTJaTkhQUzc5OUNSOHdOZzZKamtKTkJXTHBHdmxvdW1lckE?oc=5",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-05-28",
-          "views": "18.0K"
-        },
-        {
-          "title": "Samsung bets on AI to extend its 2-decade grip on TV market - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQeDRTY3JVOURUaTFqZmU0X0pqaldNeFhyamxVRkl0YVVfalNscC1lRXZrRl9EbWRvdGtmS1YxdXI2ZkNKNk1FWXNaR2FSZGJpQjM3Uy1JMWlySWRyUmlGLW9Zc1llTTRxUFlzcFhVNDRGd1d6YWVEREJMVDFPMzhwQ3MwZmExOEhkelk2dFZ5akhOOVpBU2dCTFdZWi1ZemJQVkJYbXhUNXVlckJhcDlZeE5sVVdJQ2vSAbwBQVVfeXFMT2dIM1BIYk9DcHJkMXU0c1RPQTF1dm1aS1JpRjE5Z3g2dzU0ZUI0d3VDdUtnblY4RG43emFIS19McFd0M2Z3cFU0WGZncGhwSWtUdkFybW9QcF83N1BZcVJIa3FrX2p4Q1JUR3drNmpNYjBIZThVUDNRMHcybV9HZ2hCQnlmbDBGaFpDMUpMSnVNUE9oTUFZeUNsZW5HU3FVc25VY3pnM1dxWHE5aDdTSzYtTmVjS2x1dGZISFA?oc=5\" target=\"_blank\">Samsung bets on AI to extend its 2-decade grip on TV market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeDRTY3JVOURUaTFqZmU0X0pqaldNeFhyamxVRkl0YVVfalNscC1lRXZrRl9EbWRvdGtmS1YxdXI2ZkNKNk1FWXNaR2FSZGJpQjM3Uy1JMWlySWRyUmlGLW9Zc1llTTRxUFlzcFhVNDRGd1d6YWVEREJMVDFPMzhwQ3MwZmExOEhkelk2dFZ5akhOOVpBU2dCTFdZWi1ZemJQVkJYbXhUNXVlckJhcDlZeE5sVVdJQ2vSAbwBQVVfeXFMT2dIM1BIYk9DcHJkMXU0c1RPQTF1dm1aS1JpRjE5Z3g2dzU0ZUI0d3VDdUtnblY4RG43emFIS19McFd0M2Z3cFU0WGZncGhwSWtUdkFybW9QcF83N1BZcVJIa3FrX2p4Q1JUR3drNmpNYjBIZThVUDNRMHcybV9HZ2hCQnlmbDBGaFpDMUpMSnVNUE9oTUFZeUNsZW5HU3FVc25VY3pnM1dxWHE5aDdTSzYtTmVjS2x1dGZISFA?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-06-04",
-          "views": "13.0K"
         }
       ]
     },
@@ -173,27 +173,27 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
-          "title": "Strain grows on shipping industry with vessels stuck inside Hormuz - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTzVjNnhYOTdCZFN6TVIyb3lyM0RicUt4MHBlU0l2TkRnR3dIMEUwTEJDREl2VEFGaTR3am9ER2NYVFkteUNvRlJvZkhoWTVEUFFQTklKUnlCSjVsQ01kZFJwOHRfYXY3SUxjQVlhblJPUXVQbzhGUGR1QnpqZFI0ekptYlNPb0k5Rzd2MlZRanNIQTRNWDBmSjZPcGdZVnZrTW5jM2RYZE5HOU1ReWpiVkpXV3ZWSVpH?oc=5\" target=\"_blank\">Strain grows on shipping industry with vessels stuck inside Hormuz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTzVjNnhYOTdCZFN6TVIyb3lyM0RicUt4MHBlU0l2TkRnR3dIMEUwTEJDREl2VEFGaTR3am9ER2NYVFkteUNvRlJvZkhoWTVEUFFQTklKUnlCSjVsQ01kZFJwOHRfYXY3SUxjQVlhblJPUXVQbzhGUGR1QnpqZFI0ekptYlNPb0k5Rzd2MlZRanNIQTRNWDBmSjZPcGdZVnZrTW5jM2RYZE5HOU1ReWpiVkpXV3ZWSVpH?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-06-03",
+          "title": "Vice industry minister discusses energy security cooperation with Aramco exec - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbkxscTdEVzkxSnlvMzJkVDBROEpsYUNhQ01kcEVJdzEya1otZEFzOWwzYW1TNkZqWVFxZ2lYQ3QtTlhCU3B1UjQzcHlldm5lRWljNXZTbW9VR3BHQjhWdWhXX1BRRnYydFRLYjNaMUxsY0Q3N2JXWEhpSURRZkRlV2ZDdkxNLTlydF93YWNFcXFoSkk4S05KTGF5bXdJbTRKMUc2eEJkMHlvVEtuZTJtUFhnMkl4UmZJOHJBZmVOV2g2UdIBxwFBVV95cUxQd1FoMWdROERhZlZobVhnYWN4OVc0UDFiSWxTSmFFS29jaWtjYW1xUWY1RWJvUU9HYXhIMXBOT2R1bXZKR29veXlXUzdUZm9JbExfOHNjZjdSUlVCS01FWHhyWjVGdnNfN2xURW5vWE91SVdnZ3IyNl9PNHgxcWRVbGtfcExMRTlkUzlXSzFxR2kxV0FJdzRtQy1zRGtjTC1ES0VjallLaXdqc0NmVmgyY2VZUVFFX1VndC1FYXBkWGF6a0F3SEJR?oc=5\" target=\"_blank\">Vice industry minister discusses energy security cooperation with Aramco exec</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbkxscTdEVzkxSnlvMzJkVDBROEpsYUNhQ01kcEVJdzEya1otZEFzOWwzYW1TNkZqWVFxZ2lYQ3QtTlhCU3B1UjQzcHlldm5lRWljNXZTbW9VR3BHQjhWdWhXX1BRRnYydFRLYjNaMUxsY0Q3N2JXWEhpSURRZkRlV2ZDdkxNLTlydF93YWNFcXFoSkk4S05KTGF5bXdJbTRKMUc2eEJkMHlvVEtuZTJtUFhnMkl4UmZJOHJBZmVOV2g2UdIBxwFBVV95cUxQd1FoMWdROERhZlZobVhnYWN4OVc0UDFiSWxTSmFFS29jaWtjYW1xUWY1RWJvUU9HYXhIMXBOT2R1bXZKR29veXlXUzdUZm9JbExfOHNjZjdSUlVCS01FWHhyWjVGdnNfN2xURW5vWE91SVdnZ3IyNl9PNHgxcWRVbGtfcExMRTlkUzlXSzFxR2kxV0FJdzRtQy1zRGtjTC1ES0VjallLaXdqc0NmVmgyY2VZUVFFX1VndC1FYXBkWGF6a0F3SEJR?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-06-05",
           "views": "13.0K"
         },
         {
-          "title": "SpaceX will disrupt $1.6 trillion US communications industry, Oppenheimer says - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPX0lSX3VaV2dwTmhtcDlnTWgzMUhLUGxpOXlNeW81WHFuNi1OY0ctQm84ODM4dHZWNkk4TjY3dnUxNmt2MW1DYkRkNFhYSkI5cWlra1pJQnBQdkNRQkxoZktqUGpQQnI4WUp1eFFlVzhPYWRMWUxpb3lNWEoyY1JwR0lBM0NNSjU5eFBlbHhBbS03WU11M1RnLVF1bGN5WEh3bXI5Qm54TjM4WXctTUNqUzFPSy1EUVN2djdBRXN5WGxlTnp1alU4T3NiRXZqWk0?oc=5\" target=\"_blank\">SpaceX will disrupt $1.6 trillion US communications industry, Oppenheimer says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPX0lSX3VaV2dwTmhtcDlnTWgzMUhLUGxpOXlNeW81WHFuNi1OY0ctQm84ODM4dHZWNkk4TjY3dnUxNmt2MW1DYkRkNFhYSkI5cWlra1pJQnBQdkNRQkxoZktqUGpQQnI4WUp1eFFlVzhPYWRMWUxpb3lNWEoyY1JwR0lBM0NNSjU5eFBlbHhBbS03WU11M1RnLVF1bGN5WEh3bXI5Qm54TjM4WXctTUNqUzFPSy1EUVN2djdBRXN5WGxlTnp1alU4T3NiRXZqWk0?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-06-03",
+          "title": "SK Telecom, Nvidia Establish Regular Working Group to Advance Physical AI - 전자신문",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE5hZnJDSC1pUEdpMUJPR2FuWm96ZGJGNlMyaGw0UEZiRERtaUZ0OFZ5MW14MmFpN1N3ZnUxUXB6QnUtR1N1RDZfWWtUczM?oc=5\" target=\"_blank\">SK Telecom, Nvidia Establish Regular Working Group to Advance Physical AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전자신문</font>",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5hZnJDSC1pUEdpMUJPR2FuWm96ZGJGNlMyaGw0UEZiRERtaUZ0OFZ5MW14MmFpN1N3ZnUxUXB6QnUtR1N1RDZfWWtUczM?oc=5",
+          "source": "전자신문",
+          "publishedAt": "2026-06-04",
           "views": "13.0K"
         },
         {
-          "title": "Exclusive: India set for $2-billion drone order in biggest buy, industry body says - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPbVFSaGZ3RzU0WkVJTnJTSS1XUHhZZXJ3cUJJWERWUkJlOFY5UEpib21uMFBORHFJaGdnV3FpQjA2Y2pQZGNVUXczYk03RG52bUpHTnBIZUVVcHFYYzBkS1pqTFRPVUppeC12emZxWEV1TWY2OUgwQURhOG9XRVRwa2J1MktpUDVKdTZNTlZjR3FTQ0MtVGFFSEtyOU9BWEJpNWdpLXdPTXRxaHZKcVBF?oc=5\" target=\"_blank\">Exclusive: India set for $2-billion drone order in biggest buy, industry body says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbVFSaGZ3RzU0WkVJTnJTSS1XUHhZZXJ3cUJJWERWUkJlOFY5UEpib21uMFBORHFJaGdnV3FpQjA2Y2pQZGNVUXczYk03RG52bUpHTnBIZUVVcHFYYzBkS1pqTFRPVUppeC12emZxWEV1TWY2OUgwQURhOG9XRVRwa2J1MktpUDVKdTZNTlZjR3FTQ0MtVGFFSEtyOU9BWEJpNWdpLXdPTXRxaHZKcVBF?oc=5",
+          "title": "Canada says AI strategy will help create 250,000 jobs, boost GDP by 3% - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNU3JZNXE3SUNxX2g1dWczV0ZKeGJCY2xGa3ZuUGZESHQyeGtWWS1oWkRFc0Nod192S0dBZzhURzREODlPOVRjbmZmaHAzRGxBaC1UeWtZWGlsOW50elBKdnQ5Zi1rUDdxU2JrQUllQXljYVN3bkVkZmNWdzBJMGh1OGRDZHJLdWN2MmVRcWl5OEx5UTkxUWphTWF1SDBLb3JyczJuRjNlMlVjSmgySDRBaXdyQkZnMXQ1M3RmVzZRWnBTV2Jf?oc=5\" target=\"_blank\">Canada says AI strategy will help create 250,000 jobs, boost GDP by 3%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNU3JZNXE3SUNxX2g1dWczV0ZKeGJCY2xGa3ZuUGZESHQyeGtWWS1oWkRFc0Nod192S0dBZzhURzREODlPOVRjbmZmaHAzRGxBaC1UeWtZWGlsOW50elBKdnQ5Zi1rUDdxU2JrQUllQXljYVN3bkVkZmNWdzBJMGh1OGRDZHJLdWN2MmVRcWl5OEx5UTkxUWphTWF1SDBLb3JyczJuRjNlMlVjSmgySDRBaXdyQkZnMXQ1M3RmVzZRWnBTV2Jf?oc=5",
           "source": "Reuters AI",
-          "publishedAt": "2026-06-03",
+          "publishedAt": "2026-06-04",
           "views": "13.0K"
         }
       ]
