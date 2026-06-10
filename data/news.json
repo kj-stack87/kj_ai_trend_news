@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-09T04:22:14.124Z",
+  "lastUpdated": "2026-06-10T04:45:51.476Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,28 +49,28 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
+          "title": "Seoul shares up over 3% late Tue. morning on chip rebound - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY1I2aHVkTzdDQlFxRHRwd25lejF1TWVOSlRtNWc3MHduWm1LNjE2aDluVjBxS3h3alMzOVJLam1GYWtKVUdWci1iVDNSdG1rM2lQV09nOW1PSnlLQ2xKVzlsdjk5Z1B2UUJFc21TcmhYek0zallmNFpadWVTOUFZMmlkU2d3RnBSaXFuTXMydzZPUV80cFRnUDJvUi1iRkd3QlJZdkJqLWHSAagBQVVfeXFMUGNSNmh1ZE83Q0JRcUR0cHduZXoxdU1lTkpUbTVnNzB3blptSzYxNmg5blYwcUt4d2pTMzlSS2ptRmFrSlVHVnItYlQzUnRtazNpUFdPZzltT0p5S0NsSlc5bHY5OWdQdlFCRXNtU3JoWHpNM2pZZjRaWnVlUzlBWTJpZFNnd0ZwUmlxbk1zMnc2T1FfNHBUZ1Ayb1ItYkZHd0JSWXZCai1h?oc=5\" target=\"_blank\">Seoul shares up over 3% late Tue. morning on chip rebound</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY1I2aHVkTzdDQlFxRHRwd25lejF1TWVOSlRtNWc3MHduWm1LNjE2aDluVjBxS3h3alMzOVJLam1GYWtKVUdWci1iVDNSdG1rM2lQV09nOW1PSnlLQ2xKVzlsdjk5Z1B2UUJFc21TcmhYek0zallmNFpadWVTOUFZMmlkU2d3RnBSaXFuTXMydzZPUV80cFRnUDJvUi1iRkd3QlJZdkJqLWHSAagBQVVfeXFMUGNSNmh1ZE83Q0JRcUR0cHduZXoxdU1lTkpUbTVnNzB3blptSzYxNmg5blYwcUt4d2pTMzlSS2ptRmFrSlVHVnItYlQzUnRtazNpUFdPZzltT0p5S0NsSlc5bHY5OWdQdlFCRXNtU3JoWHpNM2pZZjRaWnVlUzlBWTJpZFNnd0ZwUmlxbk1zMnc2T1FfNHBUZ1Ayb1ItYkZHd0JSWXZCai1h?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-06-09",
+          "views": "18.0K"
+        },
+        {
+          "title": "Anthropic brings Mythos to the masses with Claude Fable 5, its most powerful generally available model ever - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxON296bVlNQTJuY0RzMDdyV0dNTWhaNHVQak1wUGpKNWJsM21qWEZjQ1J5d0pIbEE4dWNFZURZWjFwVzUteHE0S2ZfQlQxYXQtVjlVc0hWeDlmVUUtVzhvSld4YldCYmJsclBxVnhrbTJza1ZZRXZxNHhzU1dfb1IyZVdCVzZZNHVTcGM1ZjhmWkV3dTBISXprMXJOUGF2dVR3MmNRWUJkVmduajRtYThXeTdaeW1XVWwyRDVFRnNNdHF3XzJiX2FiU0Z3QVppZXNPblJPT3BudnY?oc=5\" target=\"_blank\">Anthropic brings Mythos to the masses with Claude Fable 5, its most powerful generally available model ever</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxON296bVlNQTJuY0RzMDdyV0dNTWhaNHVQak1wUGpKNWJsM21qWEZjQ1J5d0pIbEE4dWNFZURZWjFwVzUteHE0S2ZfQlQxYXQtVjlVc0hWeDlmVUUtVzhvSld4YldCYmJsclBxVnhrbTJza1ZZRXZxNHhzU1dfb1IyZVdCVzZZNHVTcGM1ZjhmWkV3dTBISXprMXJOUGF2dVR3MmNRWUJkVmduajRtYThXeTdaeW1XVWwyRDVFRnNNdHF3XzJiX2FiU0Z3QVppZXNPblJPT3BudnY?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-06-09",
+          "views": "18.0K"
+        },
+        {
           "title": "Meta repeatedly pushes back new AI model release for developers, WSJ says - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ3lEdmlvOHhFdTlRdVJUQ0o5SHJlV0pVTWtQRHBGX2RLSDZ4M2c1cktSREp4RVZIeXdtYlhJbWR6Zjc5QVFXX0ZicVVrOUVHbHR1Y1MtaVdEcnRXdmJPVVV3WlNfRDFsMWpnZk9yYkdWU0Q3bDMwQUxoVEllMHd2TUZmSGJ6WURoMTFIUWROdEEyZ1lWQmxKVDJLc0NoNnh5YUFNVGhxNkZxbHpMRF9RNnAtN0JzQQ?oc=5\" target=\"_blank\">Meta repeatedly pushes back new AI model release for developers, WSJ says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ3lEdmlvOHhFdTlRdVJUQ0o5SHJlV0pVTWtQRHBGX2RLSDZ4M2c1cktSREp4RVZIeXdtYlhJbWR6Zjc5QVFXX0ZicVVrOUVHbHR1Y1MtaVdEcnRXdmJPVVV3WlNfRDFsMWpnZk9yYkdWU0Q3bDMwQUxoVEllMHd2TUZmSGJ6WURoMTFIUWROdEEyZ1lWQmxKVDJLc0NoNnh5YUFNVGhxNkZxbHpMRF9RNnAtN0JzQQ?oc=5",
           "source": "Reuters AI",
           "publishedAt": "2026-06-04",
           "views": "18.0K"
-        },
-        {
-          "title": "Seoul shares up over 3% late Tue. morning on chip rebound - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOQmx0ak5Zd3VucldkcDJsZGNzX1VBQk1nQ1ZEdzVpZVdTSVdmUkttRTBDRGxZVFVKUnpTczF1akJVOWM3S1FoMEFudFA5OHdoUHgxZ2FWTFJoUzRFby1lOE9OOHFNWU9NcjJOOVFaQzA1Y0tYSDctX1FhUmFHWTMwSjJCV0ZCcm9FNm1LUEVwMjNKbG1nQUVvMUxPMWhKcWR3cFlR0gGoAUFVX3lxTFBjUjZodWRPN0NCUXFEdHB3bmV6MXVNZU5KVG01Zzcwd25abUs2MTZoOW5WMHFLeHdqUzM5UktqbUZha0pVR1ZyLWJUM1J0bWszaVBXT2c5bU9KeUtDbEpXOWx2OTlnUHZRQkVzbVNyaFh6TTNqWWY0Wlp1ZVM5QVkyaWRTZ3dGcFJpcW5NczJ3Nk9RXzRwVGdQMm9SLWJGR3dCUll2QmotYQ?oc=5\" target=\"_blank\">Seoul shares up over 3% late Tue. morning on chip rebound</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQmx0ak5Zd3VucldkcDJsZGNzX1VBQk1nQ1ZEdzVpZVdTSVdmUkttRTBDRGxZVFVKUnpTczF1akJVOWM3S1FoMEFudFA5OHdoUHgxZ2FWTFJoUzRFby1lOE9OOHFNWU9NcjJOOVFaQzA1Y0tYSDctX1FhUmFHWTMwSjJCV0ZCcm9FNm1LUEVwMjNKbG1nQUVvMUxPMWhKcWR3cFlR0gGoAUFVX3lxTFBjUjZodWRPN0NCUXFEdHB3bmV6MXVNZU5KVG01Zzcwd25abUs2MTZoOW5WMHFLeHdqUzM5UktqbUZha0pVR1ZyLWJUM1J0bWszaVBXT2c5bU9KeUtDbEpXOWx2OTlnUHZRQkVzbVNyaFh6TTNqWWY0Wlp1ZVM5QVkyaWRTZ3dGcFJpcW5NczJ3Nk9RXzRwVGdQMm9SLWJGR3dCUll2QmotYQ?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-06-09",
-          "views": "13.0K"
-        },
-        {
-          "title": "KOSPI plunges 8% on concerns over end of chip earnings cycle, interest rate hike - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNVVJ6TWwtcHg0NzdtVDBSbVdIcUx0VWlOM1daSERKcXdDX3U4cTNLaV83cHlBN3pLaXNJTEU3YTJMVnlkaHplcmNrYUstdVlMVVZSam05VkMtdE41dUVybTBLLXprS0xEc0J4NVRhbkpiUUdPZ3NfRVJaYU9SV1hwa3VzY2QwN015SHdhb0VUOXItRHBsV1B5SEc4OUt0N0toTlpZZ0RKT0VqU2xtam9BV0lCRWh5SER0ZVc5R2pDb0NuX19KTnM1VHc2d9IB0AFBVV95cUxNSV9tMzF3U3YwWXNScVJkZFNHdUVReUFvbmROM1hVVEE0R1NJSFpoTEd0YzNTazFZc1lNLU9KMFlybWM0eUdzTk52akdVdjg5RkI0UXI0NjAtUGE2dFV0OURzWkpHekRLNTRETnFpWWU1LU56RHJ6dWJsS2tDWVNMaGJUVlllNTNBXzNMWFZZWG9FcG1mWFY3WlkyZUxoZGFFbG5DNnc2RS1GODc5OW9qYXA0UkZueXdraF9BU1hOcTJobHN6dEN0bmFuSWVBTWdz?oc=5\" target=\"_blank\">KOSPI plunges 8% on concerns over end of chip earnings cycle, interest rate hike</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVVJ6TWwtcHg0NzdtVDBSbVdIcUx0VWlOM1daSERKcXdDX3U4cTNLaV83cHlBN3pLaXNJTEU3YTJMVnlkaHplcmNrYUstdVlMVVZSam05VkMtdE41dUVybTBLLXprS0xEc0J4NVRhbkpiUUdPZ3NfRVJaYU9SV1hwa3VzY2QwN015SHdhb0VUOXItRHBsV1B5SEc4OUt0N0toTlpZZ0RKT0VqU2xtam9BV0lCRWh5SER0ZVc5R2pDb0NuX19KTnM1VHc2d9IB0AFBVV95cUxNSV9tMzF3U3YwWXNScVJkZFNHdUVReUFvbmROM1hVVEE0R1NJSFpoTEd0YzNTazFZc1lNLU9KMFlybWM0eUdzTk52akdVdjg5RkI0UXI0NjAtUGE2dFV0OURzWkpHekRLNTRETnFpWWU1LU56RHJ6dWJsS2tDWVNMaGJUVlllNTNBXzNMWFZZWG9FcG1mWFY3WlkyZUxoZGFFbG5DNnc2RS1GODc5OW9qYXA0UkZueXdraF9BU1hOcTJobHN6dEN0bmFuSWVBTWdz?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-06-08",
-          "views": "13.0K"
         }
       ]
     },
@@ -88,19 +88,19 @@
           "views": "23.0K"
         },
         {
+          "title": "Apple’s new Siri AI is more than just a smarter assistant — it's a new enterprise app layer - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQNFlyY0RvYlZvOGlBUnkzbjJsUGFCQmFRd25JejQ5YXhwWG5JMXFLMmZIU3Q2NXZWcEliUmxxWHNyY1p3NEZkd2ZqUXZCYm1nTEFWT1djTkx1SVhRUXE3d2xVT083SVBqdS1QbzJfVURVYmxTTFZwYUo0Vzk3U1dWQXkyLVBweFNqT25WS1VEcFZrbG9ZeW5GRndCMzdIMVJqWlVLOFpyUHlvVzdTUG5oamdwak1VbmlvSFN5TUd2OA?oc=5\" target=\"_blank\">Apple’s new Siri AI is more than just a smarter assistant — it's a new enterprise app layer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNFlyY0RvYlZvOGlBUnkzbjJsUGFCQmFRd25JejQ5YXhwWG5JMXFLMmZIU3Q2NXZWcEliUmxxWHNyY1p3NEZkd2ZqUXZCYm1nTEFWT1djTkx1SVhRUXE3d2xVT083SVBqdS1QbzJfVURVYmxTTFZwYUo0Vzk3U1dWQXkyLVBweFNqT25WS1VEcFZrbG9ZeW5GRndCMzdIMVJqWlVLOFpyUHlvVzdTUG5oamdwak1VbmlvSFN5TUd2OA?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-06-09",
+          "views": "18.0K"
+        },
+        {
           "title": "RESEARCH - Agentic Reckoning: Enterprise AI has a runtime problem - VentureBeat",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNX1VVV0tiSjNDVVM1aEpOY0xhbU9MakppLXRiUlJ5aVFLRnFvRUU4ZDlHS1d4S1lRVjI4U2ZpbjZPRlpfWUV2TWRWQ04tTUkxTldYOHd1eUdZMFlKelc2UmlUNi1xV2hsZW91bjdWNDNEQU84eVZuMUEzVGxsdUhjdlNkdEw2ZTVrLUE1bWJIcGFLMEJhSWRYbFF2WHBhb280cC1aZ3I3YU5KVXM0bS0xTjZob1h2NDYxem1FSDRqdTJCanlw?oc=5\" target=\"_blank\">RESEARCH - Agentic Reckoning: Enterprise AI has a runtime problem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX1VVV0tiSjNDVVM1aEpOY0xhbU9MakppLXRiUlJ5aVFLRnFvRUU4ZDlHS1d4S1lRVjI4U2ZpbjZPRlpfWUV2TWRWQ04tTUkxTldYOHd1eUdZMFlKelc2UmlUNi1xV2hsZW91bjdWNDNEQU84eVZuMUEzVGxsdUhjdlNkdEw2ZTVrLUE1bWJIcGFLMEJhSWRYbFF2WHBhb280cC1aZ3I3YU5KVXM0bS0xTjZob1h2NDYxem1FSDRqdTJCanlw?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-06-08",
-          "views": "18.0K"
-        },
-        {
-          "title": "Meta plans advanced 'agentic' AI assistant for users, FT reports (May 5) - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNd3ZtblEwZm16d2hyNkcwMjRjTUtwVkd6bzJYQ1N4QnJvRXBZY3ZPeWo2WkpmSXpDY2xEZi1ZeVN5Q0lOeHF5TzllM05fZ19jLUtiT1A4SWZoNnV2U3lyUzY3OFQ4eVh3MDdiLWxLai1VbDI3LXRTOERqaWVhb3c2eVJXSjBMSHR4YklZdW5KQUM4SnYyV1hibkZzTnAwVzMyeHhRbw?oc=5\" target=\"_blank\">Meta plans advanced 'agentic' AI assistant for users, FT reports (May 5)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd3ZtblEwZm16d2hyNkcwMjRjTUtwVkd6bzJYQ1N4QnJvRXBZY3ZPeWo2WkpmSXpDY2xEZi1ZeVN5Q0lOeHF5TzllM05fZ19jLUtiT1A4SWZoNnV2U3lyUzY3OFQ4eVh3MDdiLWxLai1VbDI3LXRTOERqaWVhb3c2eVJXSjBMSHR4YklZdW5KQUM4SnYyV1hibkZzTnAwVzMyeHhRbw?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-06-04",
           "views": "18.0K"
         }
       ]
@@ -119,17 +119,17 @@
           "views": "18.0K"
         },
         {
-          "title": "Norwegian FA confirms support for ethics complaint against FIFA chief Infantino - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWDJoS2lCeFRqMkZLQ0w1YmhHRmNBeUZuR2tBYUtSYVA0U0FuQnFoOUpvQWhVUHJVWXlZcERBdFhvZGhPV3dFTmFUY0x1UWV1dG9iRFV6Umh6MlZWalBDOW9YNTJuT09KaEczTV90TUVQdVVDYlAwUWRMYVhlQkg1N01lN1BBMGVPQzNuWjF3alVqX2tZSG1VQVVUVXdiaHIwR3JodkI0MFFaVHRWd3pyem5qU3Nzb3JncllUYlI2aWc0eE0?oc=5\" target=\"_blank\">Norwegian FA confirms support for ethics complaint against FIFA chief Infantino</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWDJoS2lCeFRqMkZLQ0w1YmhHRmNBeUZuR2tBYUtSYVA0U0FuQnFoOUpvQWhVUHJVWXlZcERBdFhvZGhPV3dFTmFUY0x1UWV1dG9iRFV6Umh6MlZWalBDOW9YNTJuT09KaEczTV90TUVQdVVDYlAwUWRMYVhlQkg1N01lN1BBMGVPQzNuWjF3alVqX2tZSG1VQVVUVXdiaHIwR3JodkI0MFFaVHRWd3pyem5qU3Nzb3JncllUYlI2aWc0eE0?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-06-02",
-          "views": "18.0K"
+          "title": "Financial authorities to launch probe into possible unfair trading in FX market - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQaE9kbDR5TmNDbGVhQXF5MmNlTndSVlpQbkFxNTBqR3JsS2pYWTZDNE10eHVTcG0zVDRPVGNGcTNmVnpIY1ltMkpzRXZ5YTFXazZROUh4WVVDNXExdDhWVWVqbjhhcXdSeFVKcTdJbVY1SUxQSzRNbll1S2Q4OGt2RGMwYXVWQXM5RV9QVUV1aFdDSlJESi0wM1MyWFpiVVVxdlAwR2l4dXgyTVVfbkR1bWQ0anZkdGJYak9mSjFhNF9VNVlLZlBSLU84bnTSAdIBQVVfeXFMUEVnd2xNZ3ZRZHJhQ1NEdXg2bm5uYXh0OENsaW9JcHNuRkxxd2xONElVRVRZLW9LRjlMN1FXWWxRdi1yVXNHWmFnYmFyRzV4dXNhUzJMU3VnQndINXpiUGJreFkwRWtSRk9hVW5qWWhkTzRwS01XVEtPZjMwQkhrdER3WkRBdlB6V3hPeWFMQ0xmVFZCYVVZYWRqdDVWTENQU0twOGd1VTRVbnBqSFduWHJRSFBIU29VeGFtVXRVYUFVRVlBdVR0Ri14MkV4MEdtX1NR?oc=5\" target=\"_blank\">Financial authorities to launch probe into possible unfair trading in FX market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaE9kbDR5TmNDbGVhQXF5MmNlTndSVlpQbkFxNTBqR3JsS2pYWTZDNE10eHVTcG0zVDRPVGNGcTNmVnpIY1ltMkpzRXZ5YTFXazZROUh4WVVDNXExdDhWVWVqbjhhcXdSeFVKcTdJbVY1SUxQSzRNbll1S2Q4OGt2RGMwYXVWQXM5RV9QVUV1aFdDSlJESi0wM1MyWFpiVVVxdlAwR2l4dXgyTVVfbkR1bWQ0anZkdGJYak9mSjFhNF9VNVlLZlBSLU84bnTSAdIBQVVfeXFMUEVnd2xNZ3ZRZHJhQ1NEdXg2bm5uYXh0OENsaW9JcHNuRkxxd2xONElVRVRZLW9LRjlMN1FXWWxRdi1yVXNHWmFnYmFyRzV4dXNhUzJMU3VnQndINXpiUGJreFkwRWtSRk9hVW5qWWhkTzRwS01XVEtPZjMwQkhrdER3WkRBdlB6V3hPeWFMQ0xmVFZCYVVZYWRqdDVWTENQU0twOGd1VTRVbnBqSFduWHJRSFBIU29VeGFtVXRVYUFVRVlBdVR0Ri14MkV4MEdtX1NR?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-06-10",
+          "views": "13.0K"
         },
         {
-          "title": "Korea International Insurance Conference kicks off to navigate shifting risk landscape - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeTB2MEFrUzFWS3FKTFpMQzZEQXAyODQ4NEZVd1ZVWHh2VV9tTWxsRUFuSE8yc2ZCY0FQRHFzNmUwSlV1LVpZem5sN0h0VU95dUUtcWFiOGdmV05Ld3k4QmZ2MDQzaXVfTkM1cmw0N0VZUUp3enRrMThmdnNPMThhTWxnemdLYk1uNHZzNmtaWlpVTzd0ZFVWZ3NTWHh2M0JJQ2h2NUNjdHF4NkFnNjB6ZnNXQ2poaHVoNWVXY2dCV3owcEEzM1VlWml0VmFZSmVuN1pZWXRRN1NwRDZoMTBpd1I1MNIB6AFBVV95cUxONVlad1A4Nk15ZEdjQ3JoMU4zVW10cmw4WUtTNFU2a0xIQ2tCb2xEMWQwTjVBN04yZ0FqOS1sLTY2UlhZUnpJa2FiS3pXNEViVHhPTVVQU0lYZUFiQ2U0blRKcFFHTEJvQVV6LXAtcFlkTGM2b0hhdnNCazRJbUZhLXlhNm1idm1FaUFJdlR2ZDJvWXZJaXNhdGdlNktrU2d1OGdyUWE0bDVCT2Uzb3BqbFAxLWJGWkliNHRGcDFvQTBhRFF3NTVjR1BzWnpadTk1YXd2MWw2QmdSajVaaEk0V3ZQUUVaNl92?oc=5\" target=\"_blank\">Korea International Insurance Conference kicks off to navigate shifting risk landscape</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeTB2MEFrUzFWS3FKTFpMQzZEQXAyODQ4NEZVd1ZVWHh2VV9tTWxsRUFuSE8yc2ZCY0FQRHFzNmUwSlV1LVpZem5sN0h0VU95dUUtcWFiOGdmV05Ld3k4QmZ2MDQzaXVfTkM1cmw0N0VZUUp3enRrMThmdnNPMThhTWxnemdLYk1uNHZzNmtaWlpVTzd0ZFVWZ3NTWHh2M0JJQ2h2NUNjdHF4NkFnNjB6ZnNXQ2poaHVoNWVXY2dCV3owcEEzM1VlWml0VmFZSmVuN1pZWXRRN1NwRDZoMTBpd1I1MNIB6AFBVV95cUxONVlad1A4Nk15ZEdjQ3JoMU4zVW10cmw4WUtTNFU2a0xIQ2tCb2xEMWQwTjVBN04yZ0FqOS1sLTY2UlhZUnpJa2FiS3pXNEViVHhPTVVQU0lYZUFiQ2U0blRKcFFHTEJvQVV6LXAtcFlkTGM2b0hhdnNCazRJbUZhLXlhNm1idm1FaUFJdlR2ZDJvWXZJaXNhdGdlNktrU2d1OGdyUWE0bDVCT2Uzb3BqbFAxLWJGWkliNHRGcDFvQTBhRFF3NTVjR1BzWnpadTk1YXd2MWw2QmdSajVaaEk0V3ZQUUVaNl92?oc=5",
+          "title": "Seoul braces for hotter summer with expanded water safety, heat protection measures - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOSFVVT3VNcUhvajFralNuMlk5YnJtdDJueE1jQTlFX2dZdmZNYlpfVF85SnRHQ0pmak0xOVFrVUtwUHc5a2ZZN1BUQ3pvc1NTT3dZYVVnSGMxN0JSZlh3Z2tQU3JkXzRnby1UYmFiVElIV3dBTk8tM0FaQXZRRkVwcHhLeFZjeWdsQjJUZlp2YWUxREZkcGhjVDUxU3p2b1ZoVW9kNmxhb200bW9JZzEyQ0MxT3k1MFVtc2pWSW4yX1h1SW1rbkgzVjJaY9IB0AFBVV95cUxPN2xfLWpJQ204Y1dIMjlhT0t6amdlT3hWbi1HM1Qzbi1sem9KX3ZNbFpLNGFfalk2OXp2VmJtbW91RkZfNk1NT191VDUxV1VvcjdMblFNVUJhdFlDN3NWdzVJa19XY1BXSlpxdUxVSFJBcVZlRklCSW9ORUJ1Qi1MdHIxNzVzWDhleG5ORWc0RHh0Q09XQ3RVdzlkZE5rUTIwUmpRZDRGUTdibS1QUkx3YlE2WnJqMjBQVWxSSDBEbjIzbHdWX2NSV1I1clNhX3FL?oc=5\" target=\"_blank\">Seoul braces for hotter summer with expanded water safety, heat protection measures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSFVVT3VNcUhvajFralNuMlk5YnJtdDJueE1jQTlFX2dZdmZNYlpfVF85SnRHQ0pmak0xOVFrVUtwUHc5a2ZZN1BUQ3pvc1NTT3dZYVVnSGMxN0JSZlh3Z2tQU3JkXzRnby1UYmFiVElIV3dBTk8tM0FaQXZRRkVwcHhLeFZjeWdsQjJUZlp2YWUxREZkcGhjVDUxU3p2b1ZoVW9kNmxhb200bW9JZzEyQ0MxT3k1MFVtc2pWSW4yX1h1SW1rbkgzVjJaY9IB0AFBVV95cUxPN2xfLWpJQ204Y1dIMjlhT0t6amdlT3hWbi1HM1Qzbi1sem9KX3ZNbFpLNGFfalk2OXp2VmJtbW91RkZfNk1NT191VDUxV1VvcjdMblFNVUJhdFlDN3NWdzVJa19XY1BXSlpxdUxVSFJBcVZlRklCSW9ORUJ1Qi1MdHIxNzVzWDhleG5ORWc0RHh0Q09XQ3RVdzlkZE5rUTIwUmpRZDRGUTdibS1QUkx3YlE2WnJqMjBQVWxSSDBEbjIzbHdWX2NSV1I1clNhX3FL?oc=5",
           "source": "The Korea Times",
           "publishedAt": "2026-06-09",
           "views": "13.0K"
@@ -142,27 +142,27 @@
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
         {
-          "title": "Seoul Design Foundation boosts circular economy startups with new training program - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNLWNfRnUyOGZsbzl5V1NTR29jUEg1c0h3X3Y4SjFPRWYwOTg1UGdadl94d1lhZnZBTHczd0lFMU5STzZDQUV1RE5MTXdzelBDZmdOS29RRFpIOEswYnhDdVR2VlFMYXFWNmhMVHFZVGNzTjZzQkxQQ25iX20xZ3RlWHRhQnl1LVIxNk9sdFhlMzF4dlpTeDB4bkIyTHI4azBYSFRFV280WUtSUkluRmZLUmRQbTBoWkhBVlVieWpTbDdNT0g0OEhoSWlxYS0tcDV6SjlEZ1cyQ0w4djRT0gHiAUFVX3lxTE0xcDZLLUxpcXlDcF9VMmRWRlBsVmRzUHVfZ0dWQlQ0S2ZVRzlVRWw2ZUc4TXJ6Q0dScVpsYm9SbnZxYjJveGVBTmg1bU0yalJVZmZCNldtelJHV1Vmc1BPY25DX3oyRDYyd3h6bmlZVGUtcDBVTDJTbVRFejhLeW5obUtwbkd1RkZDTTM3cmpRM1Bad2VCR2xCNU05eTRRNkZZLXZPalNxS3F4R1BEU3FQMXR5dk9VeFBKYmp0bHJfclE0Z3hqYmZuMFJWWnNtNFlZTXdPczFVS2kzSUJ2SWRSaHc?oc=5\" target=\"_blank\">Seoul Design Foundation boosts circular economy startups with new training program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNLWNfRnUyOGZsbzl5V1NTR29jUEg1c0h3X3Y4SjFPRWYwOTg1UGdadl94d1lhZnZBTHczd0lFMU5STzZDQUV1RE5MTXdzelBDZmdOS29RRFpIOEswYnhDdVR2VlFMYXFWNmhMVHFZVGNzTjZzQkxQQ25iX20xZ3RlWHRhQnl1LVIxNk9sdFhlMzF4dlpTeDB4bkIyTHI4azBYSFRFV280WUtSUkluRmZLUmRQbTBoWkhBVlVieWpTbDdNT0g0OEhoSWlxYS0tcDV6SjlEZ1cyQ0w4djRT0gHiAUFVX3lxTE0xcDZLLUxpcXlDcF9VMmRWRlBsVmRzUHVfZ0dWQlQ0S2ZVRzlVRWw2ZUc4TXJ6Q0dScVpsYm9SbnZxYjJveGVBTmg1bU0yalJVZmZCNldtelJHV1Vmc1BPY25DX3oyRDYyd3h6bmlZVGUtcDBVTDJTbVRFejhLeW5obUtwbkd1RkZDTTM3cmpRM1Bad2VCR2xCNU05eTRRNkZZLXZPalNxS3F4R1BEU3FQMXR5dk9VeFBKYmp0bHJfclE0Z3hqYmZuMFJWWnNtNFlZTXdPczFVS2kzSUJ2SWRSaHc?oc=5",
+          "title": "Financial authorities to launch probe into possible unfair trading in FX market - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQaE9kbDR5TmNDbGVhQXF5MmNlTndSVlpQbkFxNTBqR3JsS2pYWTZDNE10eHVTcG0zVDRPVGNGcTNmVnpIY1ltMkpzRXZ5YTFXazZROUh4WVVDNXExdDhWVWVqbjhhcXdSeFVKcTdJbVY1SUxQSzRNbll1S2Q4OGt2RGMwYXVWQXM5RV9QVUV1aFdDSlJESi0wM1MyWFpiVVVxdlAwR2l4dXgyTVVfbkR1bWQ0anZkdGJYak9mSjFhNF9VNVlLZlBSLU84bnTSAdIBQVVfeXFMUEVnd2xNZ3ZRZHJhQ1NEdXg2bm5uYXh0OENsaW9JcHNuRkxxd2xONElVRVRZLW9LRjlMN1FXWWxRdi1yVXNHWmFnYmFyRzV4dXNhUzJMU3VnQndINXpiUGJreFkwRWtSRk9hVW5qWWhkTzRwS01XVEtPZjMwQkhrdER3WkRBdlB6V3hPeWFMQ0xmVFZCYVVZYWRqdDVWTENQU0twOGd1VTRVbnBqSFduWHJRSFBIU29VeGFtVXRVYUFVRVlBdVR0Ri14MkV4MEdtX1NR?oc=5\" target=\"_blank\">Financial authorities to launch probe into possible unfair trading in FX market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaE9kbDR5TmNDbGVhQXF5MmNlTndSVlpQbkFxNTBqR3JsS2pYWTZDNE10eHVTcG0zVDRPVGNGcTNmVnpIY1ltMkpzRXZ5YTFXazZROUh4WVVDNXExdDhWVWVqbjhhcXdSeFVKcTdJbVY1SUxQSzRNbll1S2Q4OGt2RGMwYXVWQXM5RV9QVUV1aFdDSlJESi0wM1MyWFpiVVVxdlAwR2l4dXgyTVVfbkR1bWQ0anZkdGJYak9mSjFhNF9VNVlLZlBSLU84bnTSAdIBQVVfeXFMUEVnd2xNZ3ZRZHJhQ1NEdXg2bm5uYXh0OENsaW9JcHNuRkxxd2xONElVRVRZLW9LRjlMN1FXWWxRdi1yVXNHWmFnYmFyRzV4dXNhUzJMU3VnQndINXpiUGJreFkwRWtSRk9hVW5qWWhkTzRwS01XVEtPZjMwQkhrdER3WkRBdlB6V3hPeWFMQ0xmVFZCYVVZYWRqdDVWTENQU0twOGd1VTRVbnBqSFduWHJRSFBIU29VeGFtVXRVYUFVRVlBdVR0Ri14MkV4MEdtX1NR?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-06-02",
-          "views": "18.0K"
-        },
-        {
-          "title": "Cabinet passes enforcement decree on S. Korea-US investment act - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQOEdKMFdGb3NUZExZcDQ5MXM1RFBnc3VydDE5TGYwLXZaSTAyXzhLUXJCNXBjNFB4T25mdkZqN1RnSmFyWkVMQXE0dDdKUTlVNXpuRmRkYWJfWGJBNmxuMVRzblQ0eFZxWHUzTE1aSU95VG5WZ2ZQUkM3MWlrbW5ybi1zWmhYcWJCYmJJQXlKRkFfVVQzazQ3bVlYNzNwNl83Vk0xNGpjT0dLTTFVYWfSAbMBQVVfeXFMTjNUbFN1STE2WW1WaDdFRHhEaG1kaGhvM05ya3VFaEh2R3ExZ1FaaFJTTDI5Wk5NUG9vaHVQWXllTDRIblVodVBxRXNMYl9ITHdQay1WY2ZELWhsRE44aEFyQ0pnNUVLVmg3V1pqbnA4dXRwNkpITUYtU2RkRmlnVnkyU2NETlRRdEZJZ1RNcUpIZVAtN3dRNlFvbEx1X2lPSExqOHlvT0pfSllwYXhndy1lQVU?oc=5\" target=\"_blank\">Cabinet passes enforcement decree on S. Korea-US investment act</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOEdKMFdGb3NUZExZcDQ5MXM1RFBnc3VydDE5TGYwLXZaSTAyXzhLUXJCNXBjNFB4T25mdkZqN1RnSmFyWkVMQXE0dDdKUTlVNXpuRmRkYWJfWGJBNmxuMVRzblQ0eFZxWHUzTE1aSU95VG5WZ2ZQUkM3MWlrbW5ybi1zWmhYcWJCYmJJQXlKRkFfVVQzazQ3bVlYNzNwNl83Vk0xNGpjT0dLTTFVYWfSAbMBQVVfeXFMTjNUbFN1STE2WW1WaDdFRHhEaG1kaGhvM05ya3VFaEh2R3ExZ1FaaFJTTDI5Wk5NUG9vaHVQWXllTDRIblVodVBxRXNMYl9ITHdQay1WY2ZELWhsRE44aEFyQ0pnNUVLVmg3V1pqbnA4dXRwNkpITUYtU2RkRmlnVnkyU2NETlRRdEZJZ1RNcUpIZVAtN3dRNlFvbEx1X2lPSExqOHlvT0pfSllwYXhndy1lQVU?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-06-09",
+          "publishedAt": "2026-06-10",
           "views": "13.0K"
         },
         {
-          "title": "S. Korea's economy expands 1.8% in Q1, faster than earlier estimate: BOK - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNUE4tbmc5V2V2MG9jRU01QmI0NmNTbmNRSTlrQVd1cmRxYXE3RGRCcHB3UmIwdEo3bWx0UmF2MElUVVFmNHFwVGpmRUlXQmxPVk8zYTZmQ3dKazhXSV9FMHh2WE1kUmlSTVkxQVpiSmVBcEliVkFzZEhFVk10NG1QbHRMeEZ6V3IybUJWWm1uME5OdmxIdEZVclIzZlNIcGoyVmdsOHN4NEwyTnMtaEVKWld30gG3AUFVX3lxTE81WXNPQjVxZmdjQ25OZnRXSnZqYy1LTnlJMTg1d2k2NVhPYVdOZFlWZVlLdFlYLXdiMTZXejU4Szc0c1pOajZVY3lDSkRxT3d4ZldFZXRfbnZCOTFTa1RHMWNEWkN0UklkT0pYRUhJUGMwZkRPUnYzd004ZWRaT3ZVdUxDQmZtZVhpNXFJeTBrR2Z0OUNWVkxzYmhjQjJ6czR6S2hzMkdOMVNXX29hUW95di02RmExRQ?oc=5\" target=\"_blank\">S. Korea's economy expands 1.8% in Q1, faster than earlier estimate: BOK</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUE4tbmc5V2V2MG9jRU01QmI0NmNTbmNRSTlrQVd1cmRxYXE3RGRCcHB3UmIwdEo3bWx0UmF2MElUVVFmNHFwVGpmRUlXQmxPVk8zYTZmQ3dKazhXSV9FMHh2WE1kUmlSTVkxQVpiSmVBcEliVkFzZEhFVk10NG1QbHRMeEZ6V3IybUJWWm1uME5OdmxIdEZVclIzZlNIcGoyVmdsOHN4NEwyTnMtaEVKWld30gG3AUFVX3lxTE81WXNPQjVxZmdjQ25OZnRXSnZqYy1LTnlJMTg1d2k2NVhPYVdOZFlWZVlLdFlYLXdiMTZXejU4Szc0c1pOajZVY3lDSkRxT3d4ZldFZXRfbnZCOTFTa1RHMWNEWkN0UklkT0pYRUhJUGMwZkRPUnYzd004ZWRaT3ZVdUxDQmZtZVhpNXFJeTBrR2Z0OUNWVkxzYmhjQjJ6czR6S2hzMkdOMVNXX29hUW95di02RmExRQ?oc=5",
+          "title": "Financial authorities stress future-oriented investment on strong tax gains - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOTDdBUTl5RXV4QXJ0eE94QUIxcUxGejIyUVZwZTZJOXpWeGJ6STNIcTRrdjNCbm8tLThBTXl4akVJZVVxMDBLTVlGX1R3UWxPaWIxZGI4bWZfZWJIY2dxTTlYSG10M0NSczg3TmpMd0tDLXNJNEVBYU10UlktNWw2LXZIZy14ME9UMmpDWmV4eUFUbE9HSU1pTE80X0JhaU1pYldWekdnYlZGb05VWC10UUJSTHpQTnVmeWVJOVE0dHo4bUQ4THRkSGJ2VELSAcwBQVVfeXFMTkw3QVE5eUV1eEFydHhPeEFCMXFMRnoyMlFWcGU2STl6VnhiekkzSHE0a3YzQm5vLS04QU15eGpFSWVVcTAwS01ZRl9Ud1FsT2liMWRiOG1mX2ViSGNncU05WEhtdDNDUnM4N05qTHdLQy1zSTRFQWFNdFJZLTVsNi12SGcteDBPVDJqQ1pleHlBVGxPR0lNaUxPNF9CYWlNaWJXVnpHZ2JWRm9OVVgtdFFCUkx6UE51ZnllSTlRNHR6OG1EOEx0ZEhidlRC?oc=5\" target=\"_blank\">Financial authorities stress future-oriented investment on strong tax gains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTDdBUTl5RXV4QXJ0eE94QUIxcUxGejIyUVZwZTZJOXpWeGJ6STNIcTRrdjNCbm8tLThBTXl4akVJZVVxMDBLTVlGX1R3UWxPaWIxZGI4bWZfZWJIY2dxTTlYSG10M0NSczg3TmpMd0tDLXNJNEVBYU10UlktNWw2LXZIZy14ME9UMmpDWmV4eUFUbE9HSU1pTE80X0JhaU1pYldWekdnYlZGb05VWC10UUJSTHpQTnVmeWVJOVE0dHo4bUQ4THRkSGJ2VELSAcwBQVVfeXFMTkw3QVE5eUV1eEFydHhPeEFCMXFMRnoyMlFWcGU2STl6VnhiekkzSHE0a3YzQm5vLS04QU15eGpFSWVVcTAwS01ZRl9Ud1FsT2liMWRiOG1mX2ViSGNncU05WEhtdDNDUnM4N05qTHdLQy1zSTRFQWFNdFJZLTVsNi12SGcteDBPVDJqQ1pleHlBVGxPR0lNaUxPNF9CYWlNaWJXVnpHZ2JWRm9OVVgtdFFCUkx6UE51ZnllSTlRNHR6OG1EOEx0ZEhidlRC?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-06-08",
+          "publishedAt": "2026-06-10",
+          "views": "13.0K"
+        },
+        {
+          "title": "Businesses fear for economy if Swiss vote to cap population at 10 million - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNXzY5TjRDMW83Y3hSYks3R1dkRklhMHh1MFpaOTJqOHRaTWZ4aDFHYXJQOGhIaVNRN2NnS0dtQlRUQTdtQWVWa0NqdjlPNk9ITjBoNU1IZ0laalhBX2NKTGU1bVFtVzZuVVRYM25fYVVaTWF3eVMtNzM1UWFYbDZJdGJnbllqRjh4Y1hrWGNCNnp3V3ZnQzk3dUlBcnFOOHdQU2RLWU5iWFd4WHBXaEVxaFRn?oc=5\" target=\"_blank\">Businesses fear for economy if Swiss vote to cap population at 10 million</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNXzY5TjRDMW83Y3hSYks3R1dkRklhMHh1MFpaOTJqOHRaTWZ4aDFHYXJQOGhIaVNRN2NnS0dtQlRUQTdtQWVWa0NqdjlPNk9ITjBoNU1IZ0laalhBX2NKTGU1bVFtVzZuVVRYM25fYVVaTWF3eVMtNzM1UWFYbDZJdGJnbllqRjh4Y1hrWGNCNnp3V3ZnQzk3dUlBcnFOOHdQU2RLWU5iWFd4WHBXaEVxaFRn?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-06-10",
           "views": "13.0K"
         }
       ]
@@ -173,27 +173,27 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
-          "title": "[CONTRIBUTION] The AI company that chose to hire more people instead of adopting more AI - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOazZzcXd3RUZid1VMdjlndmVLdk5hcDNwekxoUS1mSllQX0hFY0dVSTMtdmY3WDJ1X254RVh1elJrSWZwb25jYmJjbXJXbjVWaTNvN053NGdLc09VaWNJa0MyM3Q4ektzdjJBSWhHVVdGRmR0cFhWN3RhcTZub0RrUTczaHh4TFJURkZSNnE1TVM5SGc2UjQzYjg2YjRTc3hKdEVzQWNKR1diQXBwTXcxUHZYaGFpb2tmaER1NGp2UTPSAcABQVVfeXFMTms2c3F3d0VGYndVTHY5Z3ZlS3ZOYXAzcHpMaFEtZkpZUF9IRWNHVUkzLXZmN1gydV9ueEVYdXpSa0lmcG9uY2JiY21yV241VmkzbzdOdzRnS3NPVWljSWtDMjN0OHpLc3YyQUloR1VXRkZkdHBYVjd0YXE2bm9Ea1E3M2h4eExSVEZGUjZxNU1TOUhnNlI0M2I4NmI0U3N4SnRFc0FjSkdXYkFwcE13MVB2WGhhaW9rZmhEdTRqdlEz?oc=5\" target=\"_blank\">[CONTRIBUTION] The AI company that chose to hire more people instead of adopting more AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOazZzcXd3RUZid1VMdjlndmVLdk5hcDNwekxoUS1mSllQX0hFY0dVSTMtdmY3WDJ1X254RVh1elJrSWZwb25jYmJjbXJXbjVWaTNvN053NGdLc09VaWNJa0MyM3Q4ektzdjJBSWhHVVdGRmR0cFhWN3RhcTZub0RrUTczaHh4TFJURkZSNnE1TVM5SGc2UjQzYjg2YjRTc3hKdEVzQWNKR1diQXBwTXcxUHZYaGFpb2tmaER1NGp2UTPSAcABQVVfeXFMTms2c3F3d0VGYndVTHY5Z3ZlS3ZOYXAzcHpMaFEtZkpZUF9IRWNHVUkzLXZmN1gydV9ueEVYdXpSa0lmcG9uY2JiY21yV241VmkzbzdOdzRnS3NPVWljSWtDMjN0OHpLc3YyQUloR1VXRkZkdHBYVjd0YXE2bm9Ea1E3M2h4eExSVEZGUjZxNU1TOUhnNlI0M2I4NmI0U3N4SnRFc0FjSkdXYkFwcE13MVB2WGhhaW9rZmhEdTRqdlEz?oc=5",
+          "title": "SKT, NTT, Chunghwa Telecom to jointly launch $500 mil. AI fund - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNRnVXVTdaOHZHbk01V3BabTFpY0NHX0hxR2NibzJSOXZjT0NzZVRqUFVxcnM3Uy1WZVRGOTdjY1VUanVYenJGRHZFaUI3LUNyOHN5Z2NxbWItX05NamhHMkVwN0ZvWWRvYmJ1WmdGdjNCc2lGdHNTYkNCVi04NnphSlpvcjJCYUV4Z0FZeklKNTI0MElTVkdwTXljSmdXTzF1OG0tTUE2WnBDX2hiVDNRczFEc2lFUdIBuwFBVV95cUxQbVRneUlvYlUyb0dwWW1aYWNFU2JQcWg5dGdnOVA3TzJpSmducTczMk14aGV4dldTVG9WcU1hMS1KU2ZreHRScUw0c2lHdTJkWjdnd1dmNmZFLVo3eW9nbENpRWJCT2pXOXFPMmNpV0h2UDhJWlNnTXEwank5RWxsVnl4YWRkSkhpYTdLcWVIdXg2eHZ4S2pHZTdqNEUzc3ZxdlNkMldBY25DcGJuSEJzQVVBVVUtUG1MQk5N?oc=5\" target=\"_blank\">SKT, NTT, Chunghwa Telecom to jointly launch $500 mil. AI fund</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRnVXVTdaOHZHbk01V3BabTFpY0NHX0hxR2NibzJSOXZjT0NzZVRqUFVxcnM3Uy1WZVRGOTdjY1VUanVYenJGRHZFaUI3LUNyOHN5Z2NxbWItX05NamhHMkVwN0ZvWWRvYmJ1WmdGdjNCc2lGdHNTYkNCVi04NnphSlpvcjJCYUV4Z0FZeklKNTI0MElTVkdwTXljSmdXTzF1OG0tTUE2WnBDX2hiVDNRczFEc2lFUdIBuwFBVV95cUxQbVRneUlvYlUyb0dwWW1aYWNFU2JQcWg5dGdnOVA3TzJpSmducTczMk14aGV4dldTVG9WcU1hMS1KU2ZreHRScUw0c2lHdTJkWjdnd1dmNmZFLVo3eW9nbENpRWJCT2pXOXFPMmNpV0h2UDhJWlNnTXEwank5RWxsVnl4YWRkSkhpYTdLcWVIdXg2eHZ4S2pHZTdqNEUzc3ZxdlNkMldBY25DcGJuSEJzQVVBVVUtUG1MQk5N?oc=5",
           "source": "The Korea Times",
+          "publishedAt": "2026-06-10",
+          "views": "13.0K"
+        },
+        {
+          "title": "SKT to form joint AI fund with Japanese, Taiwanese telecom operators - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPdEh3TkdRamdNcURQSXBjeVlxejhGNFZGQkN3M0czNXVxWDhVd2xwa1d1RUozdWdNcEZ6VTdNWDR0Y0J3RU1LSXdzRFpJalo5MmtqeTN2dXpsTmxaN21SZS1LZXJ4RTVKNzhkTzNocmNoS2YxTkd6aHlMdXBfUW9QWXBkVE1ubXQ1aEZWT25TMGE3SE9hSGRldGo1OW1JbGVCWks1Q0xTSExqbU85Rkl5S1l0MzFfVDNnU0hDUmFmXzNGU0d6NTFERUZzVdIBywFBVV95cUxPdEh3TkdRamdNcURQSXBjeVlxejhGNFZGQkN3M0czNXVxWDhVd2xwa1d1RUozdWdNcEZ6VTdNWDR0Y0J3RU1LSXdzRFpJalo5MmtqeTN2dXpsTmxaN21SZS1LZXJ4RTVKNzhkTzNocmNoS2YxTkd6aHlMdXBfUW9QWXBkVE1ubXQ1aEZWT25TMGE3SE9hSGRldGo1OW1JbGVCWks1Q0xTSExqbU85Rkl5S1l0MzFfVDNnU0hDUmFmXzNGU0d6NTFERUZzVQ?oc=5\" target=\"_blank\">SKT to form joint AI fund with Japanese, Taiwanese telecom operators</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdEh3TkdRamdNcURQSXBjeVlxejhGNFZGQkN3M0czNXVxWDhVd2xwa1d1RUozdWdNcEZ6VTdNWDR0Y0J3RU1LSXdzRFpJalo5MmtqeTN2dXpsTmxaN21SZS1LZXJ4RTVKNzhkTzNocmNoS2YxTkd6aHlMdXBfUW9QWXBkVE1ubXQ1aEZWT25TMGE3SE9hSGRldGo1OW1JbGVCWks1Q0xTSExqbU85Rkl5S1l0MzFfVDNnU0hDUmFmXzNGU0d6NTFERUZzVdIBywFBVV95cUxPdEh3TkdRamdNcURQSXBjeVlxejhGNFZGQkN3M0czNXVxWDhVd2xwa1d1RUozdWdNcEZ6VTdNWDR0Y0J3RU1LSXdzRFpJalo5MmtqeTN2dXpsTmxaN21SZS1LZXJ4RTVKNzhkTzNocmNoS2YxTkd6aHlMdXBfUW9QWXBkVE1ubXQ1aEZWT25TMGE3SE9hSGRldGo1OW1JbGVCWks1Q0xTSExqbU85Rkl5S1l0MzFfVDNnU0hDUmFmXzNGU0d6NTFERUZzVQ?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-06-10",
+          "views": "13.0K"
+        },
+        {
+          "title": "Battery Industry Shifts Toward ESS, Boosting Equipment Demand - 전자신문",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE85aC14cWJGYThNWEFzNUtlNUhZLTQzOWVfdGp1eEEyRWNnMHJXcGVoY3h2UmktSFlNZ3lPTU9YVnpaQ0pSZUpoX1p5MVk?oc=5\" target=\"_blank\">Battery Industry Shifts Toward ESS, Boosting Equipment Demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전자신문</font>",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE85aC14cWJGYThNWEFzNUtlNUhZLTQzOWVfdGp1eEEyRWNnMHJXcGVoY3h2UmktSFlNZ3lPTU9YVnpaQ0pSZUpoX1p5MVk?oc=5",
+          "source": "전자신문",
           "publishedAt": "2026-06-09",
-          "views": "13.0K"
-        },
-        {
-          "title": "ChatGPT-maker OpenAI files to take company public - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPZTc3cTdxY1IyS3VOajkyWHRTSXFEdXdvM0lMeGVuel96Rm9EeHJXUTZuNE9XWFlMVUZJcU1INXBhMWJBVGtQR0puRFZaMnpOekpwODdLS2thV1JVNTZqYnBMVGgxY096dVNQZFVCUHhRT0JLUjVOeERXQ2NjWmNndm9FMmJINERoR3BCN29xMTAxejN4aTUwX9IBngFBVV95cUxQdGk3SGFjeHo3Zk4xNmpvNWdOMXpQV0xtcnkwVnk0QlpGN0N3UGgtRjJNdm5vNEgxQVk5d1l5UUdRcU9YM205a05oT0xKOWxwMUJfalh3VU9GZ0k3b05aM2FHM1BERGRac1pNR19aZFI0UElqd2U0OS1CMGQxNHcxRHBSNmdrcGwwSkt6dGJEUldvUXFEZDVrbldZYkI1dw?oc=5\" target=\"_blank\">ChatGPT-maker OpenAI files to take company public</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZTc3cTdxY1IyS3VOajkyWHRTSXFEdXdvM0lMeGVuel96Rm9EeHJXUTZuNE9XWFlMVUZJcU1INXBhMWJBVGtQR0puRFZaMnpOekpwODdLS2thV1JVNTZqYnBMVGgxY096dVNQZFVCUHhRT0JLUjVOeERXQ2NjWmNndm9FMmJINERoR3BCN29xMTAxejN4aTUwX9IBngFBVV95cUxQdGk3SGFjeHo3Zk4xNmpvNWdOMXpQV0xtcnkwVnk0QlpGN0N3UGgtRjJNdm5vNEgxQVk5d1l5UUdRcU9YM205a05oT0xKOWxwMUJfalh3VU9GZ0k3b05aM2FHM1BERGRac1pNR19aZFI0UElqd2U0OS1CMGQxNHcxRHBSNmdrcGwwSkt6dGJEUldvUXFEZDVrbldZYkI1dw?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-06-08",
-          "views": "13.0K"
-        },
-        {
-          "title": "Amazon, Corning sign multi-billion-dollar deal to boost fiber optics manufacturing in US - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOazVNTDFSeEdZeU5QaHRWajlVT1dvYnhyNV9JaUJVbEJQOVFUUHJVTUItbGhJclJlVG14cUhGTWdsRXV1RlY2WU5yVmxjbXVwRlVjZlo4WjBMbTc3Q2U3WDBDelgyNHJoVUVKYlRIaGk5WDRNemd1aG9PQ1M2eTl1VmJlOF9vc0pPOUxKVFFocVhDNDhlZWZheEpMeG5QWUtuQlNnNjY2bnZiRHdEOWJuVkYxV3RIcXJhZ0pUdGhlbmNJQVk?oc=5\" target=\"_blank\">Amazon, Corning sign multi-billion-dollar deal to boost fiber optics manufacturing in US</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOazVNTDFSeEdZeU5QaHRWajlVT1dvYnhyNV9JaUJVbEJQOVFUUHJVTUItbGhJclJlVG14cUhGTWdsRXV1RlY2WU5yVmxjbXVwRlVjZlo4WjBMbTc3Q2U3WDBDelgyNHJoVUVKYlRIaGk5WDRNemd1aG9PQ1M2eTl1VmJlOF9vc0pPOUxKVFFocVhDNDhlZWZheEpMeG5QWUtuQlNnNjY2bnZiRHdEOWJuVkYxV3RIcXJhZ0pUdGhlbmNJQVk?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-06-08",
           "views": "13.0K"
         }
       ]
