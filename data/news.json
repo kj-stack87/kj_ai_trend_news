@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16T05:30:24.506Z",
+  "lastUpdated": "2026-06-17T05:14:02.737Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -65,11 +65,11 @@
           "views": "23.0K"
         },
         {
-          "title": "A $1,500 foundation model that rivals larger LLMs - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTNYaV83QXZtd1ExUmcxb2ZhZU9aUDFZSVdPZkU0VUI3QVU2SmlVYzRZVHluaTQtbVZXSkRiYUcwa2lmYS1qcjV1RHhXNWZrOHRGbGZNUHlRM2xzVXpSaFkyclpxcTBCOTY2U3RRTmJsSEFtZGlTMzRWQi1nSmpwWkM5SmZwSE5CWGhQa3M5SVNSclRHdmtKUm9mY3B1d0FaVU5KYVhOVWNOSVpPREZieg?oc=5\" target=\"_blank\">A $1,500 foundation model that rivals larger LLMs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTTNYaV83QXZtd1ExUmcxb2ZhZU9aUDFZSVdPZkU0VUI3QVU2SmlVYzRZVHluaTQtbVZXSkRiYUcwa2lmYS1qcjV1RHhXNWZrOHRGbGZNUHlRM2xzVXpSaFkyclpxcTBCOTY2U3RRTmJsSEFtZGlTMzRWQi1nSmpwWkM5SmZwSE5CWGhQa3M5SVNSclRHdmtKUm9mY3B1d0FaVU5KYVhOVWNOSVpPREZieg?oc=5",
+          "title": "Z.ai’s open-weights GLM-5.2 beats GPT-5.5 on multiple long-horizon coding benchmarks for 1/6th the cost - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWdHTVgtOTZYbHBKN1licHR2ajVhSnRJaVdoVWdRSW82SU5SVnJYNnhFYXlIRDlISDZJNm9xMUprb0JfekZpTUZSVENCay1vVDBkeTlhaEcwZU41Z2JSQUYtWHBHbVJBX2FmYlp0RDYwY3ZUU2EtaVM3eFk4anVBdXItNy1jczI2Z1kxSDFobnFtWTF6U2lxMEpaa1JXZWRkUFhORmtrNFV1TldvMmxFNUM3cjRMN2tDMkpmc3FxMG9QUnI4X3U0ZnQ5SFdGZHJyczRF?oc=5\" target=\"_blank\">Z.ai’s open-weights GLM-5.2 beats GPT-5.5 on multiple long-horizon coding benchmarks for 1/6th the cost</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWdHTVgtOTZYbHBKN1licHR2ajVhSnRJaVdoVWdRSW82SU5SVnJYNnhFYXlIRDlISDZJNm9xMUprb0JfekZpTUZSVENCay1vVDBkeTlhaEcwZU41Z2JSQUYtWHBHbVJBX2FmYlp0RDYwY3ZUU2EtaVM3eFk4anVBdXItNy1jczI2Z1kxSDFobnFtWTF6U2lxMEpaa1JXZWRkUFhORmtrNFV1TldvMmxFNUM3cjRMN2tDMkpmc3FxMG9QUnI4X3U0ZnQ5SFdGZHJyczRF?oc=5",
           "source": "VentureBeat AI",
-          "publishedAt": "2026-06-10",
+          "publishedAt": "2026-06-16",
           "views": "18.0K"
         }
       ]
@@ -80,27 +80,27 @@
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
         {
-          "title": "Apple’s new Siri AI is more than just a smarter assistant — it's a new enterprise app layer - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQNFlyY0RvYlZvOGlBUnkzbjJsUGFCQmFRd25JejQ5YXhwWG5JMXFLMmZIU3Q2NXZWcEliUmxxWHNyY1p3NEZkd2ZqUXZCYm1nTEFWT1djTkx1SVhRUXE3d2xVT083SVBqdS1QbzJfVURVYmxTTFZwYUo0Vzk3U1dWQXkyLVBweFNqT25WS1VEcFZrbG9ZeW5GRndCMzdIMVJqWlVLOFpyUHlvVzdTUG5oamdwak1VbmlvSFN5TUd2OA?oc=5\" target=\"_blank\">Apple’s new Siri AI is more than just a smarter assistant — it's a new enterprise app layer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNFlyY0RvYlZvOGlBUnkzbjJsUGFCQmFRd25JejQ5YXhwWG5JMXFLMmZIU3Q2NXZWcEliUmxxWHNyY1p3NEZkd2ZqUXZCYm1nTEFWT1djTkx1SVhRUXE3d2xVT083SVBqdS1QbzJfVURVYmxTTFZwYUo0Vzk3U1dWQXkyLVBweFNqT25WS1VEcFZrbG9ZeW5GRndCMzdIMVJqWlVLOFpyUHlvVzdTUG5oamdwak1VbmlvSFN5TUd2OA?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-06-09",
-          "views": "18.0K"
-        },
-        {
-          "title": "SK Group to Acceleration AI Transformation, Introducing 'One-Agent-Per-Person' - 전자신문",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBVWVFqMGdXMkhVZkFQMUFZUFR2dTRWa0hnNmhJWjc1MU90NDI0aUEzNnNhUXAxWFNkV3pYNHNkRGJRSVlzVkNQQ2Q3c08?oc=5\" target=\"_blank\">SK Group to Acceleration AI Transformation, Introducing 'One-Agent-Per-Person'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전자신문</font>",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBVWVFqMGdXMkhVZkFQMUFZUFR2dTRWa0hnNmhJWjc1MU90NDI0aUEzNnNhUXAxWFNkV3pYNHNkRGJRSVlzVkNQQ2Q3c08?oc=5",
-          "source": "전자신문",
-          "publishedAt": "2026-06-15",
+          "title": "Lloyds Is Using Agentic AI To Supercharge Its Fight Against Fraud - WIRED",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNWE1RVkZqQ1lIUEJVYjVfbXJSdWI4dWo0aVh0STJRaHRzbEhnZG5hVUxRSkNPd3I3X05yUHRncE8zekxqTDZkU3hmX0FoUGVkY0NnQWR2Rjc0UF9sZ3RtX0xwamZZa1JtbWVWTXYxbEdtei1RelZycGFndkpxZmhHZnpReUFjQmtXQS1EMQ?oc=5\" target=\"_blank\">Lloyds Is Using Agentic AI To Supercharge Its Fight Against Fraud</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWE1RVkZqQ1lIUEJVYjVfbXJSdWI4dWo0aVh0STJRaHRzbEhnZG5hVUxRSkNPd3I3X05yUHRncE8zekxqTDZkU3hmX0FoUGVkY0NnQWR2Rjc0UF9sZ3RtX0xwamZZa1JtbWVWTXYxbEdtei1RelZycGFndkpxZmhHZnpReUFjQmtXQS1EMQ?oc=5",
+          "source": "WIRED AI",
+          "publishedAt": "2026-06-17",
           "views": "13.0K"
         },
         {
-          "title": "KT rolls out AI store assistant to break language barriers for int'l customers - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeWF6N1dyNWFfa01YZ2tGTFFyZDdGYXpLd2RNdFIzOVlSM2lnVDFyZ0VEbnhEcVFNOHlkMTBucUxnOFZNTmxVNXNKcWFFb04tb1cwYktDd3RYVHFGeGt3a3hCbmlOSG90T3R0QjY5T0V5Q2FzRFl3LWl0anI1Sk9mam14YlhpNzdPd1NPczVkZlFCTldoWDQxeFR4clE5cUFYd3Nfc1FLWGlBeDBjdEVKTFNBbDAtU0I3eW1sZllzWWl3eU5xSHpFYnJUaWRGWXdDcjJvedIB1AFBVV95cUxOeWF6N1dyNWFfa01YZ2tGTFFyZDdGYXpLd2RNdFIzOVlSM2lnVDFyZ0VEbnhEcVFNOHlkMTBucUxnOFZNTmxVNXNKcWFFb04tb1cwYktDd3RYVHFGeGt3a3hCbmlOSG90T3R0QjY5T0V5Q2FzRFl3LWl0anI1Sk9mam14YlhpNzdPd1NPczVkZlFCTldoWDQxeFR4clE5cUFYd3Nfc1FLWGlBeDBjdEVKTFNBbDAtU0I3eW1sZllzWWl3eU5xSHpFYnJUaWRGWXdDcjJveQ?oc=5\" target=\"_blank\">KT rolls out AI store assistant to break language barriers for int'l customers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeWF6N1dyNWFfa01YZ2tGTFFyZDdGYXpLd2RNdFIzOVlSM2lnVDFyZ0VEbnhEcVFNOHlkMTBucUxnOFZNTmxVNXNKcWFFb04tb1cwYktDd3RYVHFGeGt3a3hCbmlOSG90T3R0QjY5T0V5Q2FzRFl3LWl0anI1Sk9mam14YlhpNzdPd1NPczVkZlFCTldoWDQxeFR4clE5cUFYd3Nfc1FLWGlBeDBjdEVKTFNBbDAtU0I3eW1sZllzWWl3eU5xSHpFYnJUaWRGWXdDcjJvedIB1AFBVV95cUxOeWF6N1dyNWFfa01YZ2tGTFFyZDdGYXpLd2RNdFIzOVlSM2lnVDFyZ0VEbnhEcVFNOHlkMTBucUxnOFZNTmxVNXNKcWFFb04tb1cwYktDd3RYVHFGeGt3a3hCbmlOSG90T3R0QjY5T0V5Q2FzRFl3LWl0anI1Sk9mam14YlhpNzdPd1NPczVkZlFCTldoWDQxeFR4clE5cUFYd3Nfc1FLWGlBeDBjdEVKTFNBbDAtU0I3eW1sZllzWWl3eU5xSHpFYnJUaWRGWXdDcjJveQ?oc=5",
+          "title": "Upstage launches AI agent strategy with new ecosystem push - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNMW9JZWl4N1R1NnNrc293eFFrQTU1eHNLYnExSV9tZWMzQlEtdlVQRmoyaG0weld4R3RxZHljbGZPZUQ1UGVrY2ZYX3BkQTJxRnc4eWVQNEtIMTIxaVpIS2VDNHlTNjFKSHBUay14eXFsNF8ybHZPLTZsWGZuTEVXeHhYNEtOQVhnenduTGRZMWhNV2RTN2MyS1lobmk2RGpGYnppOEE1V1MyNHhGZXZRQjlpZUNyMnpwbTQzR0g5d9IBvwFBVV95cUxNMW9JZWl4N1R1NnNrc293eFFrQTU1eHNLYnExSV9tZWMzQlEtdlVQRmoyaG0weld4R3RxZHljbGZPZUQ1UGVrY2ZYX3BkQTJxRnc4eWVQNEtIMTIxaVpIS2VDNHlTNjFKSHBUay14eXFsNF8ybHZPLTZsWGZuTEVXeHhYNEtOQVhnenduTGRZMWhNV2RTN2MyS1lobmk2RGpGYnppOEE1V1MyNHhGZXZRQjlpZUNyMnpwbTQzR0g5dw?oc=5\" target=\"_blank\">Upstage launches AI agent strategy with new ecosystem push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMW9JZWl4N1R1NnNrc293eFFrQTU1eHNLYnExSV9tZWMzQlEtdlVQRmoyaG0weld4R3RxZHljbGZPZUQ1UGVrY2ZYX3BkQTJxRnc4eWVQNEtIMTIxaVpIS2VDNHlTNjFKSHBUay14eXFsNF8ybHZPLTZsWGZuTEVXeHhYNEtOQVhnenduTGRZMWhNV2RTN2MyS1lobmk2RGpGYnppOEE1V1MyNHhGZXZRQjlpZUNyMnpwbTQzR0g5d9IBvwFBVV95cUxNMW9JZWl4N1R1NnNrc293eFFrQTU1eHNLYnExSV9tZWMzQlEtdlVQRmoyaG0weld4R3RxZHljbGZPZUQ1UGVrY2ZYX3BkQTJxRnc4eWVQNEtIMTIxaVpIS2VDNHlTNjFKSHBUay14eXFsNF8ybHZPLTZsWGZuTEVXeHhYNEtOQVhnenduTGRZMWhNV2RTN2MyS1lobmk2RGpGYnppOEE1V1MyNHhGZXZRQjlpZUNyMnpwbTQzR0g5dw?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-06-15",
+          "publishedAt": "2026-06-16",
+          "views": "13.0K"
+        },
+        {
+          "title": "Stanford's DeLM cuts multi-agent task costs 50% — without a central orchestrator - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQTndmU1dpUzNpd1NzYW5ycTF2ZVF6NTU2enAtaEhkX3IweW9hcGswRHhZamdYZDFaMkFoYzdCOE1WZWY0c3VfZzNYV0VheURhTWNaUG1EeGpWbzFpcmhLeEE0X29PZUdXTDVuT2kzNW80ZkROQ2ZjV29JTDJYMS0tSGdTQU5hVlNEdGYxUzRQTms5SzgzU2d2eXc3dkNsYWJKbjN0NkRXQ2pZTWFpOExWZ1JtYnE?oc=5\" target=\"_blank\">Stanford's DeLM cuts multi-agent task costs 50% — without a central orchestrator</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTndmU1dpUzNpd1NzYW5ycTF2ZVF6NTU2enAtaEhkX3IweW9hcGswRHhZamdYZDFaMkFoYzdCOE1WZWY0c3VfZzNYV0VheURhTWNaUG1EeGpWbzFpcmhLeEE0X29PZUdXTDVuT2kzNW80ZkROQ2ZjV29JTDJYMS0tSGdTQU5hVlNEdGYxUzRQTms5SzgzU2d2eXc3dkNsYWJKbjN0NkRXQ2pZTWFpOExWZ1JtYnE?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-06-16",
           "views": "13.0K"
         }
       ]
@@ -110,6 +110,14 @@
       "hashtag": "#윤리",
       "description": "규제, 책임, 신뢰, 저작권 같은 문제를 보는 관점",
       "items": [
+        {
+          "title": "Breakingviews - China's job-first policy risks blunting AI gains - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOQmc1a3E0Rk5fSk9oWlV0X1FyUDdXNVJNOFNzT1FubVdOcW5WOWppLUdBN1ktb1kzZHN3MlJIWTFPbVNZcTBTWjVkQnVLcktQLXFxdDFBRVc2MWp5YjVEUmw0ZnBTdE45YjZvN1M4UkJJNzhCdVM0dkstM2ZzckhNM01jNUdSQVlsS1YxUVRPZ0xadXlRVm4tY1hROXpfbTY5eGp1WXdCd2kzX1Fu?oc=5\" target=\"_blank\">Breakingviews - China's job-first policy risks blunting AI gains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQmc1a3E0Rk5fSk9oWlV0X1FyUDdXNVJNOFNzT1FubVdOcW5WOWppLUdBN1ktb1kzZHN3MlJIWTFPbVNZcTBTWjVkQnVLcktQLXFxdDFBRVc2MWp5YjVEUmw0ZnBTdE45YjZvN1M4UkJJNzhCdVM0dkstM2ZzckhNM01jNUdSQVlsS1YxUVRPZ0xadXlRVm4tY1hROXpfbTY5eGp1WXdCd2kzX1Fu?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-06-17",
+          "views": "18.0K"
+        },
         {
           "title": "Florida sues TikTok, claiming it violates state child safety law - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQMnZTNjhUdlVjYzVESi1CZlp5OHVLYVdydmJmREszOWZMR0NHTWpOdkZNMlMxVGlDRDJlM2NiMjN5cEIwMDh3elc5UXpSZUoxdXR2eVVDeE5PZUlTbWhQMk10dnhEclY5a0xjNlVNNlhWTVlxYUJMSjVvNUVweG02VVNJeG93NGxEalNGYWhtOXYtd2ZJemxTSTZEcDdVOTFFZy1BVVVLQ2ExbTNGUFRkb0VsX05nR00?oc=5\" target=\"_blank\">Florida sues TikTok, claiming it violates state child safety law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
@@ -125,14 +133,6 @@
           "source": "Reuters AI",
           "publishedAt": "2026-06-15",
           "views": "18.0K"
-        },
-        {
-          "title": "Policy, Tech Policy, and Regulation News - WIRED",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jUWNpczR5d2F1dG9EeVV1UDNrUF9ETC1OLVltMHpvUFRTcVUtX2h1QnRWVUZhUy1XbmRTMUFpRDZyLW0yOUZmYk14MHF4ajlaV1NXWUhncllWS1NSZC1sclNfXzhOQQ?oc=5\" target=\"_blank\">Policy, Tech Policy, and Regulation News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jUWNpczR5d2F1dG9EeVV1UDNrUF9ETC1OLVltMHpvUFRTcVUtX2h1QnRWVUZhUy1XbmRTMUFpRDZyLW0yOUZmYk14MHF4ajlaV1NXWUhncllWS1NSZC1sclNfXzhOQQ?oc=5",
-          "source": "WIRED AI",
-          "publishedAt": "2026-06-11",
-          "views": "18.0K"
         }
       ]
     },
@@ -142,27 +142,27 @@
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
         {
-          "title": "Seoul Donghaeng Market reopens after monthlong renovation - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPOEJZenFHUm1YbEFHNkZTYThqZk5tYWdzVWtjX3pPeV9LRlNtb3gyTzNZb25aOVo5MEVOdS1GUUdGenBkYjZVNmJvWmNTWEhBVlhwZkZHaWwyZ042M1B3SFVtT3JhVXFHZkRvbHpYX1ZfWGFPeUdKNkh4clg0T1hzcjE4NE9RMW1WRUhuRXk1NEdxUGE5bzFMMTJFMjR3eFN1SUhsVHFWX3Z5SG5HR0NGLUpWbFdtVDBhWWfSAboBQVVfeXFMTzhCWXpxR1JtWGxBRzZGU2E4amZObWFnc1VrY196T3lfS0ZTbW94Mk8zWW9uWjlaOTBFTnUtRlFHRnpwZGI2VTZib1pjU1hIQVZYcGZGR2lsMmdONjNQd0hVbU9yYVVxR2ZEb2x6WF9WX1hhT3lHSjZIeHJYNE9Yc3IxODRPUTFtVkVIbkV5NTRHcVBhOW8xTDEyRTI0d3hTdUlIbFRxVl92eUhuR0dDRi1KVmxXbVQwYVln?oc=5\" target=\"_blank\">Seoul Donghaeng Market reopens after monthlong renovation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOEJZenFHUm1YbEFHNkZTYThqZk5tYWdzVWtjX3pPeV9LRlNtb3gyTzNZb25aOVo5MEVOdS1GUUdGenBkYjZVNmJvWmNTWEhBVlhwZkZHaWwyZ042M1B3SFVtT3JhVXFHZkRvbHpYX1ZfWGFPeUdKNkh4clg0T1hzcjE4NE9RMW1WRUhuRXk1NEdxUGE5bzFMMTJFMjR3eFN1SUhsVHFWX3Z5SG5HR0NGLUpWbFdtVDBhWWfSAboBQVVfeXFMTzhCWXpxR1JtWGxBRzZGU2E4amZObWFnc1VrY196T3lfS0ZTbW94Mk8zWW9uWjlaOTBFTnUtRlFHRnpwZGI2VTZib1pjU1hIQVZYcGZGR2lsMmdONjNQd0hVbU9yYVVxR2ZEb2x6WF9WX1hhT3lHSjZIeHJYNE9Yc3IxODRPUTFtVkVIbkV5NTRHcVBhOW8xTDEyRTI0d3hTdUlIbFRxVl92eUhuR0dDRi1KVmxXbVQwYVln?oc=5",
+          "title": "Why Korea's new dating shows keep surviving in an overcrowded market - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZHJCbVRDNmRodGNmNHl1M0N6UmZJdFVjSVotbDFQaUlacDlXYUNzQ05hVW5tZE13QWxXVVNJTTcyb1BuZlpRai1rODBTaDNxX01TTXBsaXBPVWo2UHo1MENEdVRLckdXWXlva3JZeEFGa3ZfdFRJS1QxLXFMSFdacFZaelFrZER3YkZxUkVIYlRJaWpQbzZna2tIQlZyelpPaDJtdGtnTy1OcVRtbnhfdFNqcXhZYVI4elFBWEpJV2h6OUdYb1dFQ0doZ3NKYkRCRWfSAdIBQVVfeXFMTmRyQm1UQzZkaHRjZjR5dTNDelJmSXRVY0laLWwxUGlJWnA5V2FDc0NOYVVubWRNd0FsV1VTSU03Mm9QbmZaUWotazgwU2gzcV9NU01wbGlwT1VqNlB6NTBDRHVUS3JHV1l5b2tyWXhBRmt2X3RUSUtUMS1xTEhXWnBWWnpRa2REd2JGcVJFSGJUSWlqUG82Z2trSEJWcnpaT2gybXRrZ08tTnFUbW54X3RTanF4WWFSOHpRQVhKSVdoejlHWG9XRUNHaGdzSmJEQkVn?oc=5\" target=\"_blank\">Why Korea's new dating shows keep surviving in an overcrowded market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZHJCbVRDNmRodGNmNHl1M0N6UmZJdFVjSVotbDFQaUlacDlXYUNzQ05hVW5tZE13QWxXVVNJTTcyb1BuZlpRai1rODBTaDNxX01TTXBsaXBPVWo2UHo1MENEdVRLckdXWXlva3JZeEFGa3ZfdFRJS1QxLXFMSFdacFZaelFrZER3YkZxUkVIYlRJaWpQbzZna2tIQlZyelpPaDJtdGtnTy1OcVRtbnhfdFNqcXhZYVI4elFBWEpJV2h6OUdYb1dFQ0doZ3NKYkRCRWfSAdIBQVVfeXFMTmRyQm1UQzZkaHRjZjR5dTNDelJmSXRVY0laLWwxUGlJWnA5V2FDc0NOYVVubWRNd0FsV1VTSU03Mm9QbmZaUWotazgwU2gzcV9NU01wbGlwT1VqNlB6NTBDRHVUS3JHV1l5b2tyWXhBRmt2X3RUSUtUMS1xTEhXWnBWWnpRa2REd2JGcVJFSGJUSWlqUG82Z2trSEJWcnpaT2gybXRrZ08tTnFUbW54X3RTanF4WWFSOHpRQVhKSVdoejlHWG9XRUNHaGdzSmJEQkVn?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-06-16",
+          "publishedAt": "2026-06-17",
           "views": "13.0K"
         },
         {
-          "title": "Korea Startup Forum inks MOU with Indian chambers at K-Founder Network debut - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNLXZhTzU1VE5pX0VXa3dCSWhIVllVcDdlSXpJOUJISHJtMnN1aVAteDhPclJHeDl1b2d0czBTUTUwMnduSDNZU3JmMzhmYWx3OUFtazlEVHh0YlhEUjdTM0ZZaVRmZUJHbmpVeFlOMi0zcDVEX05aM0RoUUdCcXVzaDR1dnRrbnkwZVRsV3FmUDBmR0xEZUwyQ01jU1VTSm5sby11ZVlRaExHbDFxNnlwbDJCRDlldmt4MGNOX29TUdIBxAFBVV95cUxNUDZwTDNhdzVxWFd4bkVfUVFfbFFnV0dJd19tcVJPZklFcGlqU2NfSmc1RzRzUnZKM3VGblJObUhVSXBEN3haZk9QY0Rra0dtMDkwQ1pPVjM0R3BoVGh1VEdmN21NeWNlRzNlMzd4cUpsNTBwZmhacGdoOVRZejN1ZmJLZHQxVHFrck9ZQjBweUpTaWwxWXdtT3poRE0wTktjWHQtN1oxd1dCc1E4clFZZHYza2xHVllTYlVJWE42cWR1THVs?oc=5\" target=\"_blank\">Korea Startup Forum inks MOU with Indian chambers at K-Founder Network debut</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLXZhTzU1VE5pX0VXa3dCSWhIVllVcDdlSXpJOUJISHJtMnN1aVAteDhPclJHeDl1b2d0czBTUTUwMnduSDNZU3JmMzhmYWx3OUFtazlEVHh0YlhEUjdTM0ZZaVRmZUJHbmpVeFlOMi0zcDVEX05aM0RoUUdCcXVzaDR1dnRrbnkwZVRsV3FmUDBmR0xEZUwyQ01jU1VTSm5sby11ZVlRaExHbDFxNnlwbDJCRDlldmt4MGNOX29TUdIBxAFBVV95cUxNUDZwTDNhdzVxWFd4bkVfUVFfbFFnV0dJd19tcVJPZklFcGlqU2NfSmc1RzRzUnZKM3VGblJObUhVSXBEN3haZk9QY0Rra0dtMDkwQ1pPVjM0R3BoVGh1VEdmN21NeWNlRzNlMzd4cUpsNTBwZmhacGdoOVRZejN1ZmJLZHQxVHFrck9ZQjBweUpTaWwxWXdtT3poRE0wTktjWHQtN1oxd1dCc1E4clFZZHYza2xHVllTYlVJWE42cWR1THVs?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-06-16",
+          "title": "Crossing The Pond: How To Successfully Scale Your US Business Into The UK Market - WIRED",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYXozdEs4a245dElvMWVUalBlU1F3b19OSXJTUXY4a3VvSjk5WjhGVGw0dWs1aXhhaVphNEQ5VXZWdVhzUUpsVVVudjNzUWRJN1doM3d2dzczb3hWX0xWOHc2UElpY3Bqb0swYmwzcnlmTloyemlYTUVTYmtWMElfVm02WmJTZzI2OUZmcFRzWHlsaHNnRzZKem9ucGhsclp6OFduMTNDVHllT05DR0JOVzkwOG5veVBjS1Rnei1YS1ZUNDc2M2luRTdTWmZOcW95dkVKNzBLRV82VVdheEE?oc=5\" target=\"_blank\">Crossing The Pond: How To Successfully Scale Your US Business Into The UK Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYXozdEs4a245dElvMWVUalBlU1F3b19OSXJTUXY4a3VvSjk5WjhGVGw0dWs1aXhhaVphNEQ5VXZWdVhzUUpsVVVudjNzUWRJN1doM3d2dzczb3hWX0xWOHc2UElpY3Bqb0swYmwzcnlmTloyemlYTUVTYmtWMElfVm02WmJTZzI2OUZmcFRzWHlsaHNnRzZKem9ucGhsclp6OFduMTNDVHllT05DR0JOVzkwOG5veVBjS1Rnei1YS1ZUNDc2M2luRTdTWmZOcW95dkVKNzBLRV82VVdheEE?oc=5",
+          "source": "WIRED AI",
+          "publishedAt": "2026-06-17",
           "views": "13.0K"
         },
         {
-          "title": "[EXPLAINER] Institutions jockey for position in Korea's crypto market - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNejE3SDh6Y19oOHJoODhxZzljUEZCQXpDRG95V1YzemxHcWFCWGRwcTZLU2FCUEhaeTNEMDhmVTl5MGtMOVFnVDZBam5fdTdqczkyU2J2Qmo1UDNzOUpXM1NoaS1DSzl6THczVnlQY2xIU1dNSjI4WHBPMmlyelJyRldRS3JzLTI5Q3Rab3JEY1JacXRQUUlZd3NvVE9wZzM5cUVNSW55bEs3M21jbE51RWJYMXVMb1JpOTNqaVFGV3JqRlVQNEHSAcsBQVVfeXFMUEZmSnkyWC1ITFE4c3pmeEpqUWNXc1NrR2dVRDhzcUphLVN5LVZTYi0tTGlsLTJhVV8yMmR5WVEyb0xrSmhFWFJpcUFLM3NGNHAzY2pYOGNEQndQeWVLLVFtVTZZRjNjS083LUZacEFDLVRmdllyX0hwZVo1X0RGRTBaaVByejZtbTBPUko0NXllX3p3QlV4eHpFQVFCVTEyX0hFNmVCNE85ekZtb1EtRG9Oa2kwWVJiQS1XQU9XMEZVVG9uTHlMMnFIUjQ?oc=5\" target=\"_blank\">[EXPLAINER] Institutions jockey for position in Korea's crypto market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNejE3SDh6Y19oOHJoODhxZzljUEZCQXpDRG95V1YzemxHcWFCWGRwcTZLU2FCUEhaeTNEMDhmVTl5MGtMOVFnVDZBam5fdTdqczkyU2J2Qmo1UDNzOUpXM1NoaS1DSzl6THczVnlQY2xIU1dNSjI4WHBPMmlyelJyRldRS3JzLTI5Q3Rab3JEY1JacXRQUUlZd3NvVE9wZzM5cUVNSW55bEs3M21jbE51RWJYMXVMb1JpOTNqaVFGV3JqRlVQNEHSAcsBQVVfeXFMUEZmSnkyWC1ITFE4c3pmeEpqUWNXc1NrR2dVRDhzcUphLVN5LVZTYi0tTGlsLTJhVV8yMmR5WVEyb0xrSmhFWFJpcUFLM3NGNHAzY2pYOGNEQndQeWVLLVFtVTZZRjNjS083LUZacEFDLVRmdllyX0hwZVo1X0RGRTBaaVByejZtbTBPUko0NXllX3p3QlV4eHpFQVFCVTEyX0hFNmVCNE85ekZtb1EtRG9Oa2kwWVJiQS1XQU9XMEZVVG9uTHlMMnFIUjQ?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-06-15",
+          "title": "BrainChip CEO Eyes Open Innovation in Korea as Neuromorphic Market Booms - 전자신문",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFAyTy1BSFJVTDJqdk5nY0NIWHpwcHNvMUZ1aTAzVDNFT2NVX3RvR1dTQThxUFZtcG1pbm4wUjA2SDQxYlVOXzhwbF9mOEE?oc=5\" target=\"_blank\">BrainChip CEO Eyes Open Innovation in Korea as Neuromorphic Market Booms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전자신문</font>",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAyTy1BSFJVTDJqdk5nY0NIWHpwcHNvMUZ1aTAzVDNFT2NVX3RvR1dTQThxUFZtcG1pbm4wUjA2SDQxYlVOXzhwbF9mOEE?oc=5",
+          "source": "전자신문",
+          "publishedAt": "2026-06-16",
           "views": "13.0K"
         }
       ]
@@ -173,27 +173,27 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
-          "title": "[INTERVIEW] KIS makes its move into digital asset industry - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNbldidkRBOWhvWGREUnpPaE5ILW1GcElYOEZxLUpvcFNwejJSVkJDZFJXWFByaHB1MjhqWmdYRE1qeVJUZjRkaXJOSlZlcUo1ZEpWcllzVV83MkZqYS03b1JKaGFRdUUtSEQ3R1hHR1N1MXpTdVJkTG5JakwxNk42OVg3aVlxSHFwTWNGbkRNZWJ2U3BkX2x6Njd0cWJhV0tYazVxeURqVFlKdUNzcGhRQTJSTdIBswFBVV95cUxNbldidkRBOWhvWGREUnpPaE5ILW1GcElYOEZxLUpvcFNwejJSVkJDZFJXWFByaHB1MjhqWmdYRE1qeVJUZjRkaXJOSlZlcUo1ZEpWcllzVV83MkZqYS03b1JKaGFRdUUtSEQ3R1hHR1N1MXpTdVJkTG5JakwxNk42OVg3aVlxSHFwTWNGbkRNZWJ2U3BkX2x6Njd0cWJhV0tYazVxeURqVFlKdUNzcGhRQTJSTQ?oc=5\" target=\"_blank\">[INTERVIEW] KIS makes its move into digital asset industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbldidkRBOWhvWGREUnpPaE5ILW1GcElYOEZxLUpvcFNwejJSVkJDZFJXWFByaHB1MjhqWmdYRE1qeVJUZjRkaXJOSlZlcUo1ZEpWcllzVV83MkZqYS03b1JKaGFRdUUtSEQ3R1hHR1N1MXpTdVJkTG5JakwxNk42OVg3aVlxSHFwTWNGbkRNZWJ2U3BkX2x6Njd0cWJhV0tYazVxeURqVFlKdUNzcGhRQTJSTdIBswFBVV95cUxNbldidkRBOWhvWGREUnpPaE5ILW1GcElYOEZxLUpvcFNwejJSVkJDZFJXWFByaHB1MjhqWmdYRE1qeVJUZjRkaXJOSlZlcUo1ZEpWcllzVV83MkZqYS03b1JKaGFRdUUtSEQ3R1hHR1N1MXpTdVJkTG5JakwxNk42OVg3aVlxSHFwTWNGbkRNZWJ2U3BkX2x6Njd0cWJhV0tYazVxeURqVFlKdUNzcGhRQTJSTQ?oc=5",
+          "title": "Upstage launches AI agent strategy with new ecosystem push - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNMW9JZWl4N1R1NnNrc293eFFrQTU1eHNLYnExSV9tZWMzQlEtdlVQRmoyaG0weld4R3RxZHljbGZPZUQ1UGVrY2ZYX3BkQTJxRnc4eWVQNEtIMTIxaVpIS2VDNHlTNjFKSHBUay14eXFsNF8ybHZPLTZsWGZuTEVXeHhYNEtOQVhnenduTGRZMWhNV2RTN2MyS1lobmk2RGpGYnppOEE1V1MyNHhGZXZRQjlpZUNyMnpwbTQzR0g5d9IBvwFBVV95cUxNMW9JZWl4N1R1NnNrc293eFFrQTU1eHNLYnExSV9tZWMzQlEtdlVQRmoyaG0weld4R3RxZHljbGZPZUQ1UGVrY2ZYX3BkQTJxRnc4eWVQNEtIMTIxaVpIS2VDNHlTNjFKSHBUay14eXFsNF8ybHZPLTZsWGZuTEVXeHhYNEtOQVhnenduTGRZMWhNV2RTN2MyS1lobmk2RGpGYnppOEE1V1MyNHhGZXZRQjlpZUNyMnpwbTQzR0g5dw?oc=5\" target=\"_blank\">Upstage launches AI agent strategy with new ecosystem push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMW9JZWl4N1R1NnNrc293eFFrQTU1eHNLYnExSV9tZWMzQlEtdlVQRmoyaG0weld4R3RxZHljbGZPZUQ1UGVrY2ZYX3BkQTJxRnc4eWVQNEtIMTIxaVpIS2VDNHlTNjFKSHBUay14eXFsNF8ybHZPLTZsWGZuTEVXeHhYNEtOQVhnenduTGRZMWhNV2RTN2MyS1lobmk2RGpGYnppOEE1V1MyNHhGZXZRQjlpZUNyMnpwbTQzR0g5d9IBvwFBVV95cUxNMW9JZWl4N1R1NnNrc293eFFrQTU1eHNLYnExSV9tZWMzQlEtdlVQRmoyaG0weld4R3RxZHljbGZPZUQ1UGVrY2ZYX3BkQTJxRnc4eWVQNEtIMTIxaVpIS2VDNHlTNjFKSHBUay14eXFsNF8ybHZPLTZsWGZuTEVXeHhYNEtOQVhnenduTGRZMWhNV2RTN2MyS1lobmk2RGpGYnppOEE1V1MyNHhGZXZRQjlpZUNyMnpwbTQzR0g5dw?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-06-15",
+          "publishedAt": "2026-06-16",
           "views": "13.0K"
         },
         {
-          "title": "[INTERVIEW] Life sciences company bBHC bets on regenerative medicine through Energy Water, novel stem cell platform - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxObFRHOHExMlJoa1FHaFpsR0lIWEE4TGVVWk9pMHR4c0Fnb3g4blR0RTU2cC11bmJKUDhJZEtoSTZtUktHWHFPdWlEVUNyQV83RTNWemUxeGdlMG9jU1BVMUEtVE5KeWg3cEx4X3VoYjFYN0E1bEdISENkdG1SZ0Qwc3ltb18zZ0VfZ0dha05GMUhOQXJZbzNyNW80d2lLeTZjN3BLcjNWOU5wajF3NVNLMGtJdnJGSV9aWUlDTmtla3o0akNUdE5tNi1vTlJYV1dkRE9ELTItODJmQmN4TXJfNG9XQnpVOUJCYWlYMXp1Sk5GSkQyTGdqZWlDbnlzQdIBgwJBVV95cUxPaEtoWC1BYW5Ed01tWk5wSFhFYkpqOXNyU2RfNGNfbU9YNTZXUVFQZkdrTGtMdkp0M19keUJDVFNPQnJrMkNpY2FTM0pvUXh1b1VPdzFPV3lPaUFQVFk2b1N6RVBmTTlRR0VKdXVadVBpdEVkbEhKSDg2RWU4YksxbkRWa08tSkY3RGFBTEFhc09PTkhpd0lEX3EyMGpQaGFIa0xCWms1Y1haZXNFX1I5elhFcWdRbUtyWmxORTRheUh2dl9KVkRGeDBETGk0TkNzMlZfbW1TZ2JJZGtUbGw2dW5yLUtuM05MRy1Ob0xZTE5VekdxQzRWMjR1WFhTbXoxXzRr?oc=5\" target=\"_blank\">[INTERVIEW] Life sciences company bBHC bets on regenerative medicine through Energy Water, novel stem cell platform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxObFRHOHExMlJoa1FHaFpsR0lIWEE4TGVVWk9pMHR4c0Fnb3g4blR0RTU2cC11bmJKUDhJZEtoSTZtUktHWHFPdWlEVUNyQV83RTNWemUxeGdlMG9jU1BVMUEtVE5KeWg3cEx4X3VoYjFYN0E1bEdISENkdG1SZ0Qwc3ltb18zZ0VfZ0dha05GMUhOQXJZbzNyNW80d2lLeTZjN3BLcjNWOU5wajF3NVNLMGtJdnJGSV9aWUlDTmtla3o0akNUdE5tNi1vTlJYV1dkRE9ELTItODJmQmN4TXJfNG9XQnpVOUJCYWlYMXp1Sk5GSkQyTGdqZWlDbnlzQdIBgwJBVV95cUxPaEtoWC1BYW5Ed01tWk5wSFhFYkpqOXNyU2RfNGNfbU9YNTZXUVFQZkdrTGtMdkp0M19keUJDVFNPQnJrMkNpY2FTM0pvUXh1b1VPdzFPV3lPaUFQVFk2b1N6RVBmTTlRR0VKdXVadVBpdEVkbEhKSDg2RWU4YksxbkRWa08tSkY3RGFBTEFhc09PTkhpd0lEX3EyMGpQaGFIa0xCWms1Y1haZXNFX1I5elhFcWdRbUtyWmxORTRheUh2dl9KVkRGeDBETGk0TkNzMlZfbW1TZ2JJZGtUbGw2dW5yLUtuM05MRy1Ob0xZTE5VekdxQzRWMjR1WFhTbXoxXzRr?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-06-15",
+          "title": "Why immigration planning is becoming a startup growth strategy - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNcU1JUkRBeVVUb0lLaTBaN09KYWJPOW03a2hSY1E2dzJMREhJeklvRVdvck1vSlZFWXFLMmlrVkxFRWRKYlNuQ1E3TTZ2ZVI4QlluZUJnWDlocG5QU1hQZFpXUHJoQUhYMzBnVXczSHZqVW5UTWw2NUpXTnQwZXJxaUltN3R3bk9Ia05Eb0xKZVVvTkx2QW43XzBMRQ?oc=5\" target=\"_blank\">Why immigration planning is becoming a startup growth strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcU1JUkRBeVVUb0lLaTBaN09KYWJPOW03a2hSY1E2dzJMREhJeklvRVdvck1vSlZFWXFLMmlrVkxFRWRKYlNuQ1E3TTZ2ZVI4QlluZUJnWDlocG5QU1hQZFpXUHJoQUhYMzBnVXczSHZqVW5UTWw2NUpXTnQwZXJxaUltN3R3bk9Ia05Eb0xKZVVvTkx2QW43XzBMRQ?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-06-16",
           "views": "13.0K"
         },
         {
-          "title": "Meta CTO Andrew Bosworth Admits the Company’s AI Reorg Was ‘Atrocious’ - WIRED",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1lODVpWG5scXYwLWE5QmZ2RVk5cjdUaGwwb3pGLUpSa195WTdFQTlhRldaTDR4dXZGOTJiTXFSMDgzWVRILUhjOWpJTDJzNk1jcDNhMldKZVRjd0NVYXJfOTBQSnBjNkhWaGZSODk0Ql9Udmkw?oc=5\" target=\"_blank\">Meta CTO Andrew Bosworth Admits the Company’s AI Reorg Was ‘Atrocious’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lODVpWG5scXYwLWE5QmZ2RVk5cjdUaGwwb3pGLUpSa195WTdFQTlhRldaTDR4dXZGOTJiTXFSMDgzWVRILUhjOWpJTDJzNk1jcDNhMldKZVRjd0NVYXJfOTBQSnBjNkhWaGZSODk0Ql9Udmkw?oc=5",
-          "source": "WIRED AI",
-          "publishedAt": "2026-06-15",
+          "title": "Insurers pivot AI strategy toward core risk underwriting - AI News",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNlo3T0ozelg3NE1sX096RjVpd2kxNHBwUWdxVzRnUlhRZUhiUDFQLVpORWgyUWdJdDBJV1NZeDZrX29TdEFtY1JlcUZkanI1SHJlajJNVU93QzgtcWZlaDNHTngzdlQ4S3dqbjFHUno4Zi10RUE0Vjd1ZkdyZkh4Y0RQamNaQWRZdkhKMG9DY0t6UXUtZWFicEt4ZURlbW4wM2NMZEZ5SGdCdw?oc=5\" target=\"_blank\">Insurers pivot AI strategy toward core risk underwriting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI News</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNlo3T0ozelg3NE1sX096RjVpd2kxNHBwUWdxVzRnUlhRZUhiUDFQLVpORWgyUWdJdDBJV1NZeDZrX29TdEFtY1JlcUZkanI1SHJlajJNVU93QzgtcWZlaDNHTngzdlQ4S3dqbjFHUno4Zi10RUE0Vjd1ZkdyZkh4Y0RQamNaQWRZdkhKMG9DY0t6UXUtZWFicEt4ZURlbW4wM2NMZEZ5SGdCdw?oc=5",
+          "source": "AI News",
+          "publishedAt": "2026-06-16",
           "views": "13.0K"
         }
       ]
