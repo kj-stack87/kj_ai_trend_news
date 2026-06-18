@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T05:14:02.737Z",
+  "lastUpdated": "2026-06-18T05:00:13.246Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,28 +49,28 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
-          "title": "Samsung Electronics to introduce ChatGPT, Gemini, Claude in operations - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxONjhCWVJpc2xHVlVIRmwxMjhWM1g2U1E1MzRZQzRRY2VEY0ZJWGtoaksxckQ0MFRLZG1yWXFLaHUyaFhjWG4wZ3pZTTl6eHFJVGd3a0kweDE3WWdiNFRnelI3RWxRRElDU1BMTzhnMG9CTFBlMzEzbXFJM2pNWl9Ua0ZXUGcyc2VwM3BZUnozRlYtZ09Wb2NOWFdDdVNHNngwN2pmQWxlaXVLS1h2emRaTHhHT0lsRHdlT0ZqZG5KYjVkR2pxbDRR0gHMAUFVX3lxTE9jaVVySzZEQ25rc3ZXb2o3ay1fLTlId1NfanQxWS1YcU85Z3BMVG56WlVpSnRLN2JKTFRNVHJCcloyMms1NTctWFBuZkRnWUwtbnR3ajQ3Z0xmSy1VREVZYlNMR1cyd19pS3JlZzNzZGItNmhfeGdEMDlackxkWmxrQUdzRHVzUVlJazhnSHkyaHk4dFBqMGlTak5rUWVlQzZXQ1lzbWZZQjdGb3BIcDBvUjAyd1dMOW14YlB3MnNuT0NoNUQ0dXhZZi1oQg?oc=5\" target=\"_blank\">Samsung Electronics to introduce ChatGPT, Gemini, Claude in operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONjhCWVJpc2xHVlVIRmwxMjhWM1g2U1E1MzRZQzRRY2VEY0ZJWGtoaksxckQ0MFRLZG1yWXFLaHUyaFhjWG4wZ3pZTTl6eHFJVGd3a0kweDE3WWdiNFRnelI3RWxRRElDU1BMTzhnMG9CTFBlMzEzbXFJM2pNWl9Ua0ZXUGcyc2VwM3BZUnozRlYtZ09Wb2NOWFdDdVNHNngwN2pmQWxlaXVLS1h2emRaTHhHT0lsRHdlT0ZqZG5KYjVkR2pxbDRR0gHMAUFVX3lxTE9jaVVySzZEQ25rc3ZXb2o3ay1fLTlId1NfanQxWS1YcU85Z3BMVG56WlVpSnRLN2JKTFRNVHJCcloyMms1NTctWFBuZkRnWUwtbnR3ajQ3Z0xmSy1VREVZYlNMR1cyd19pS3JlZzNzZGItNmhfeGdEMDlackxkWmxrQUdzRHVzUVlJazhnSHkyaHk4dFBqMGlTak5rUWVlQzZXQ1lzbWZZQjdGb3BIcDBvUjAyd1dMOW14YlB3MnNuT0NoNUQ0dXhZZi1oQg?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-06-11",
-          "views": "23.0K"
-        },
-        {
-          "title": "Surprise upset: GPT-5.5 beats Claude Fable 5 on brutal new Agents’ Last Exam benchmark - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdFoyRDFmX3JacGYwZjhhU1F4TThKTlUtQy0wT3c3bHhRSzhScG54NkFBZkhwUXh0ZDBIc21mOG10S3pNYm4tRm1wYlNkekdRejdRVWZ6RE13Z2xkVWVSUXM1RVV4XzN3Tm5rQklzc3RESjVkUVJRSlA2ZFhEX3lvNi1pdlpnVkxkR0VZc1M0VVVPLU1fSVhkdEZwM092b3c2RGtkdVB4Q0IxV2JVeGpIVkhET0lIQ0xEVFow?oc=5\" target=\"_blank\">Surprise upset: GPT-5.5 beats Claude Fable 5 on brutal new Agents’ Last Exam benchmark</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdFoyRDFmX3JacGYwZjhhU1F4TThKTlUtQy0wT3c3bHhRSzhScG54NkFBZkhwUXh0ZDBIc21mOG10S3pNYm4tRm1wYlNkekdRejdRVWZ6RE13Z2xkVWVSUXM1RVV4XzN3Tm5rQklzc3RESjVkUVJRSlA2ZFhEX3lvNi1pdlpnVkxkR0VZc1M0VVVPLU1fSVhkdEZwM092b3c2RGtkdVB4Q0IxV2JVeGpIVkhET0lIQ0xEVFow?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-06-10",
-          "views": "23.0K"
-        },
-        {
           "title": "Z.ai’s open-weights GLM-5.2 beats GPT-5.5 on multiple long-horizon coding benchmarks for 1/6th the cost - VentureBeat",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWdHTVgtOTZYbHBKN1licHR2ajVhSnRJaVdoVWdRSW82SU5SVnJYNnhFYXlIRDlISDZJNm9xMUprb0JfekZpTUZSVENCay1vVDBkeTlhaEcwZU41Z2JSQUYtWHBHbVJBX2FmYlp0RDYwY3ZUU2EtaVM3eFk4anVBdXItNy1jczI2Z1kxSDFobnFtWTF6U2lxMEpaa1JXZWRkUFhORmtrNFV1TldvMmxFNUM3cjRMN2tDMkpmc3FxMG9QUnI4X3U0ZnQ5SFdGZHJyczRF?oc=5\" target=\"_blank\">Z.ai’s open-weights GLM-5.2 beats GPT-5.5 on multiple long-horizon coding benchmarks for 1/6th the cost</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWdHTVgtOTZYbHBKN1licHR2ajVhSnRJaVdoVWdRSW82SU5SVnJYNnhFYXlIRDlISDZJNm9xMUprb0JfekZpTUZSVENCay1vVDBkeTlhaEcwZU41Z2JSQUYtWHBHbVJBX2FmYlp0RDYwY3ZUU2EtaVM3eFk4anVBdXItNy1jczI2Z1kxSDFobnFtWTF6U2lxMEpaa1JXZWRkUFhORmtrNFV1TldvMmxFNUM3cjRMN2tDMkpmc3FxMG9QUnI4X3U0ZnQ5SFdGZHJyczRF?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-06-16",
           "views": "18.0K"
+        },
+        {
+          "title": "Qualcomm wants to be the chip inside whatever replaces your smartphone, and it just announced two products toward that end - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYnlwa040eUxrSzBIdk9TNmJJU2ZTRDJPdUtCRVlvd1EwWGlLRHRXeTJ3ZkNYUUdpMlk3T1EzUjVWUWQxcGUzYVRYT05vVzVYSHFzMFVvejY4VFVuUU0tUHZSVmdHWi1Bb2NRM0FEenlfUk95VURkT1Q3NXg3MFFHWHpxekJKT0pCVTJtZnltT1NtRWlIWktpUE4tMVJEWXA4RFAxZ1NmaEhrWTNGQ2RvNGxiWmJUV19XZG1SYjRWTWtaT0R6VExCSE90SllMR1RGX3NEOFF0a1F2Rl9ROHBkRlpyRjl0WlNZMHF2RA?oc=5\" target=\"_blank\">Qualcomm wants to be the chip inside whatever replaces your smartphone, and it just announced two products toward that end</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYnlwa040eUxrSzBIdk9TNmJJU2ZTRDJPdUtCRVlvd1EwWGlLRHRXeTJ3ZkNYUUdpMlk3T1EzUjVWUWQxcGUzYVRYT05vVzVYSHFzMFVvejY4VFVuUU0tUHZSVmdHWi1Bb2NRM0FEenlfUk95VURkT1Q3NXg3MFFHWHpxekJKT0pCVTJtZnltT1NtRWlIWktpUE4tMVJEWXA4RFAxZ1NmaEhrWTNGQ2RvNGxiWmJUV19XZG1SYjRWTWtaT0R6VExCSE90SllMR1RGX3NEOFF0a1F2Rl9ROHBkRlpyRjl0WlNZMHF2RA?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-06-16",
+          "views": "18.0K"
+        },
+        {
+          "title": "KOSPI crosses over historic milestone of 9,000 on chip rally - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeFBkemMyVGdwOXVaUVZoVWU1Ym1yX2M4MGRBWGZYQWpxWk5MRzN3eVZraVYwWUF5VGFWY19RcGNtQ1JFNnhEWjNJVG45UHZPMnA5SkpKeXNpQ3RzRXBDdXFSeDF5STAtQkg5bFpDZmpWY0FabzBYckNxUkdHYVlmb1prcWtXd1lYNm1mdG5LdWRGQUdiWUpUbXd0dUduYWltRnVPX1o4b2vSAa4BQVVfeXFMTWUzX0lWQ0hHcGpISWdGb3hUaGtmQ3VURFJ2eklReVpkTGJKY3ozdkRkQzFzOUJkcGllbDRoY1RJY01LYUFYRlJ6TlhwdVhPZlpHcjlYR1E4TjdaQzZMeDJ5a203R0VCTndOUzRRWGYzeXdpbEhqdTI1SmVRaUJKSFhWV1FwMzVmLXFiUWZ4Tm9jZmFVRzFoOGRKYnN0LWZydDNhVXlEdmRTVjJGRDRR?oc=5\" target=\"_blank\">KOSPI crosses over historic milestone of 9,000 on chip rally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeFBkemMyVGdwOXVaUVZoVWU1Ym1yX2M4MGRBWGZYQWpxWk5MRzN3eVZraVYwWUF5VGFWY19RcGNtQ1JFNnhEWjNJVG45UHZPMnA5SkpKeXNpQ3RzRXBDdXFSeDF5STAtQkg5bFpDZmpWY0FabzBYckNxUkdHYVlmb1prcWtXd1lYNm1mdG5LdWRGQUdiWUpUbXd0dUduYWltRnVPX1o4b2vSAa4BQVVfeXFMTWUzX0lWQ0hHcGpISWdGb3hUaGtmQ3VURFJ2eklReVpkTGJKY3ozdkRkQzFzOUJkcGllbDRoY1RJY01LYUFYRlJ6TlhwdVhPZlpHcjlYR1E4TjdaQzZMeDJ5a203R0VCTndOUzRRWGYzeXdpbEhqdTI1SmVRaUJKSFhWV1FwMzVmLXFiUWZ4Tm9jZmFVRzFoOGRKYnN0LWZydDNhVXlEdmRTVjJGRDRR?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-06-18",
+          "views": "13.0K"
         }
       ]
     },
@@ -80,27 +80,27 @@
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
         {
-          "title": "Lloyds Is Using Agentic AI To Supercharge Its Fight Against Fraud - WIRED",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNWE1RVkZqQ1lIUEJVYjVfbXJSdWI4dWo0aVh0STJRaHRzbEhnZG5hVUxRSkNPd3I3X05yUHRncE8zekxqTDZkU3hmX0FoUGVkY0NnQWR2Rjc0UF9sZ3RtX0xwamZZa1JtbWVWTXYxbEdtei1RelZycGFndkpxZmhHZnpReUFjQmtXQS1EMQ?oc=5\" target=\"_blank\">Lloyds Is Using Agentic AI To Supercharge Its Fight Against Fraud</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWE1RVkZqQ1lIUEJVYjVfbXJSdWI4dWo0aVh0STJRaHRzbEhnZG5hVUxRSkNPd3I3X05yUHRncE8zekxqTDZkU3hmX0FoUGVkY0NnQWR2Rjc0UF9sZ3RtX0xwamZZa1JtbWVWTXYxbEdtei1RelZycGFndkpxZmhHZnpReUFjQmtXQS1EMQ?oc=5",
-          "source": "WIRED AI",
+          "title": "Former Cisco AI Defense Builders Launch Tenet Security, Raise $6 Million to Prevent Attacks on Enterprise AI Agents - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdFVacU8xVmQ1N1JWY1YxNDRkT1RTMkRjbFFPcDlydkVna01FMGZaNTF2aDlqQ1IxZXBZMnVUbFBFbnAwYWNJdDdOekV4UmU5VFpQUnp2ZjlqQlZDU2JXbnFQQ0FOMk5ObWplQ01hYlZiX05Ia3h5cXlZdnlqdEtpYXgzMXdxcExNazR4dkh2Z3J0aENRQ0s1cmNQNHpPaW41cFdNY25HdUJvNG0yZ0VZelNGS3FRbFc4S2g1aUh1dFB0Vklqc1RKLWZ4dlNoRE9RQ0VUNFdBMGNYbWxJcWxz?oc=5\" target=\"_blank\">Former Cisco AI Defense Builders Launch Tenet Security, Raise $6 Million to Prevent Attacks on Enterprise AI Agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdFVacU8xVmQ1N1JWY1YxNDRkT1RTMkRjbFFPcDlydkVna01FMGZaNTF2aDlqQ1IxZXBZMnVUbFBFbnAwYWNJdDdOekV4UmU5VFpQUnp2ZjlqQlZDU2JXbnFQQ0FOMk5ObWplQ01hYlZiX05Ia3h5cXlZdnlqdEtpYXgzMXdxcExNazR4dkh2Z3J0aENRQ0s1cmNQNHpPaW41cFdNY25HdUJvNG0yZ0VZelNGS3FRbFc4S2g1aUh1dFB0Vklqc1RKLWZ4dlNoRE9RQ0VUNFdBMGNYbWxJcWxz?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-06-17",
+          "views": "18.0K"
+        },
+        {
+          "title": "AWS enters the context layer race with a graph that learns from agents, not manual curation - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU3pHM2NRMm9xVUNMSk9TNmE2Ry1PVWNtdTNzMkpvYzg0SmIxbWhEbHN1S2JhX0FIUzhBT0ZEc2ptOUF5OGlPQ3ZpZWxacHp1Y2tvZ1laVlJET2NSTXR5cTREVjJmUWxVZmZna1dDQXdnVXhHejhtcVM0YnlPM3dUcnVhRHhibTMya2lRY0dpbVJXNGp6ZkJhNE1GSXNzZElLRnhobnpzaFhCMlpqR3dxMDZMVEl3WUthLVdZ?oc=5\" target=\"_blank\">AWS enters the context layer race with a graph that learns from agents, not manual curation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU3pHM2NRMm9xVUNMSk9TNmE2Ry1PVWNtdTNzMkpvYzg0SmIxbWhEbHN1S2JhX0FIUzhBT0ZEc2ptOUF5OGlPQ3ZpZWxacHp1Y2tvZ1laVlJET2NSTXR5cTREVjJmUWxVZmZna1dDQXdnVXhHejhtcVM0YnlPM3dUcnVhRHhibTMya2lRY0dpbVJXNGp6ZkJhNE1GSXNzZElLRnhobnpzaFhCMlpqR3dxMDZMVEl3WUthLVdZ?oc=5",
+          "source": "VentureBeat AI",
           "publishedAt": "2026-06-17",
           "views": "13.0K"
         },
         {
-          "title": "Upstage launches AI agent strategy with new ecosystem push - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNMW9JZWl4N1R1NnNrc293eFFrQTU1eHNLYnExSV9tZWMzQlEtdlVQRmoyaG0weld4R3RxZHljbGZPZUQ1UGVrY2ZYX3BkQTJxRnc4eWVQNEtIMTIxaVpIS2VDNHlTNjFKSHBUay14eXFsNF8ybHZPLTZsWGZuTEVXeHhYNEtOQVhnenduTGRZMWhNV2RTN2MyS1lobmk2RGpGYnppOEE1V1MyNHhGZXZRQjlpZUNyMnpwbTQzR0g5d9IBvwFBVV95cUxNMW9JZWl4N1R1NnNrc293eFFrQTU1eHNLYnExSV9tZWMzQlEtdlVQRmoyaG0weld4R3RxZHljbGZPZUQ1UGVrY2ZYX3BkQTJxRnc4eWVQNEtIMTIxaVpIS2VDNHlTNjFKSHBUay14eXFsNF8ybHZPLTZsWGZuTEVXeHhYNEtOQVhnenduTGRZMWhNV2RTN2MyS1lobmk2RGpGYnppOEE1V1MyNHhGZXZRQjlpZUNyMnpwbTQzR0g5dw?oc=5\" target=\"_blank\">Upstage launches AI agent strategy with new ecosystem push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMW9JZWl4N1R1NnNrc293eFFrQTU1eHNLYnExSV9tZWMzQlEtdlVQRmoyaG0weld4R3RxZHljbGZPZUQ1UGVrY2ZYX3BkQTJxRnc4eWVQNEtIMTIxaVpIS2VDNHlTNjFKSHBUay14eXFsNF8ybHZPLTZsWGZuTEVXeHhYNEtOQVhnenduTGRZMWhNV2RTN2MyS1lobmk2RGpGYnppOEE1V1MyNHhGZXZRQjlpZUNyMnpwbTQzR0g5d9IBvwFBVV95cUxNMW9JZWl4N1R1NnNrc293eFFrQTU1eHNLYnExSV9tZWMzQlEtdlVQRmoyaG0weld4R3RxZHljbGZPZUQ1UGVrY2ZYX3BkQTJxRnc4eWVQNEtIMTIxaVpIS2VDNHlTNjFKSHBUay14eXFsNF8ybHZPLTZsWGZuTEVXeHhYNEtOQVhnenduTGRZMWhNV2RTN2MyS1lobmk2RGpGYnppOEE1V1MyNHhGZXZRQjlpZUNyMnpwbTQzR0g5dw?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-06-16",
-          "views": "13.0K"
-        },
-        {
-          "title": "Stanford's DeLM cuts multi-agent task costs 50% — without a central orchestrator - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQTndmU1dpUzNpd1NzYW5ycTF2ZVF6NTU2enAtaEhkX3IweW9hcGswRHhZamdYZDFaMkFoYzdCOE1WZWY0c3VfZzNYV0VheURhTWNaUG1EeGpWbzFpcmhLeEE0X29PZUdXTDVuT2kzNW80ZkROQ2ZjV29JTDJYMS0tSGdTQU5hVlNEdGYxUzRQTms5SzgzU2d2eXc3dkNsYWJKbjN0NkRXQ2pZTWFpOExWZ1JtYnE?oc=5\" target=\"_blank\">Stanford's DeLM cuts multi-agent task costs 50% — without a central orchestrator</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTndmU1dpUzNpd1NzYW5ycTF2ZVF6NTU2enAtaEhkX3IweW9hcGswRHhZamdYZDFaMkFoYzdCOE1WZWY0c3VfZzNYV0VheURhTWNaUG1EeGpWbzFpcmhLeEE0X29PZUdXTDVuT2kzNW80ZkROQ2ZjV29JTDJYMS0tSGdTQU5hVlNEdGYxUzRQTms5SzgzU2d2eXc3dkNsYWJKbjN0NkRXQ2pZTWFpOExWZ1JtYnE?oc=5",
+          "title": "Formic Opens 53,000-Square-Foot Chicagoland Headquarters to Meet Growing Demand for Its AI-Powered Robotic Automation - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeG5OemhZZi1jTE92TGhvTkVXMDRhdUJNQmJfeV9wQWxRNFNFSkxZZ1BJMUhlY0hmMHZuX2xQajdweGU0UHBCSFpFOUVWY243MVZJU0RQSjEwNjRMZ2NuQzZwd3pwbHMzVjc0Y1NUdFFqNHk5SWJ5SGRmdThNak9xa2NKbVNNbE9WMFl6S2lDMWFPclpuSWp3NE1vZERTQjBPemVaQjBUOURfNVlILVVlaVA2LW9Wb0R4cmt6d0ZLcVBPUHR3MS1UYjJ3eUxiQjhadHp4Q2tsemNUZ0tlQzdTcVhPTQ?oc=5\" target=\"_blank\">Formic Opens 53,000-Square-Foot Chicagoland Headquarters to Meet Growing Demand for Its AI-Powered Robotic Automation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeG5OemhZZi1jTE92TGhvTkVXMDRhdUJNQmJfeV9wQWxRNFNFSkxZZ1BJMUhlY0hmMHZuX2xQajdweGU0UHBCSFpFOUVWY243MVZJU0RQSjEwNjRMZ2NuQzZwd3pwbHMzVjc0Y1NUdFFqNHk5SWJ5SGRmdThNak9xa2NKbVNNbE9WMFl6S2lDMWFPclpuSWp3NE1vZERTQjBPemVaQjBUOURfNVlILVVlaVA2LW9Wb0R4cmt6d0ZLcVBPUHR3MS1UYjJ3eUxiQjhadHp4Q2tsemNUZ0tlQzdTcVhPTQ?oc=5",
           "source": "VentureBeat AI",
-          "publishedAt": "2026-06-16",
+          "publishedAt": "2026-06-17",
           "views": "13.0K"
         }
       ]
@@ -119,17 +119,17 @@
           "views": "18.0K"
         },
         {
-          "title": "Florida sues TikTok, claiming it violates state child safety law - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQMnZTNjhUdlVjYzVESi1CZlp5OHVLYVdydmJmREszOWZMR0NHTWpOdkZNMlMxVGlDRDJlM2NiMjN5cEIwMDh3elc5UXpSZUoxdXR2eVVDeE5PZUlTbWhQMk10dnhEclY5a0xjNlVNNlhWTVlxYUJMSjVvNUVweG02VVNJeG93NGxEalNGYWhtOXYtd2ZJemxTSTZEcDdVOTFFZy1BVVVLQ2ExbTNGUFRkb0VsX05nR00?oc=5\" target=\"_blank\">Florida sues TikTok, claiming it violates state child safety law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMnZTNjhUdlVjYzVESi1CZlp5OHVLYVdydmJmREszOWZMR0NHTWpOdkZNMlMxVGlDRDJlM2NiMjN5cEIwMDh3elc5UXpSZUoxdXR2eVVDeE5PZUlTbWhQMk10dnhEclY5a0xjNlVNNlhWTVlxYUJMSjVvNUVweG02VVNJeG93NGxEalNGYWhtOXYtd2ZJemxTSTZEcDdVOTFFZy1BVVVLQ2ExbTNGUFRkb0VsX05nR00?oc=5",
+          "title": "Study finds law grads are 'stacking' judicial clerkships, curtailing opportunities for others - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOOTBkdkJBc2l3ZjlHa0dNVUEwTG1CV1o3ZE1kejNHVXlUcWYweThaLUhMbFZsbHNaaWNFcS1pNGJYX29WUFFzaV95bThzTmJlSzVmRENWVG9fUkVnYmdFOG9NR1pEOUZzdHFmdl9uQ2RISkVrLUhXV1dmbDNjUTB4QVdLY0JBX011SWNVbGpyeGtVUjdiSlVVclFHaXpXdUdDTk5mdVA4eXFzNlFIb19XeTNvM1dhWW1MN2JOVkxwZXlNMUhENGdmS1ltZ2U?oc=5\" target=\"_blank\">Study finds law grads are 'stacking' judicial clerkships, curtailing opportunities for others</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOTBkdkJBc2l3ZjlHa0dNVUEwTG1CV1o3ZE1kejNHVXlUcWYweThaLUhMbFZsbHNaaWNFcS1pNGJYX29WUFFzaV95bThzTmJlSzVmRENWVG9fUkVnYmdFOG9NR1pEOUZzdHFmdl9uQ2RISkVrLUhXV1dmbDNjUTB4QVdLY0JBX011SWNVbGpyeGtVUjdiSlVVclFHaXpXdUdDTk5mdVA4eXFzNlFIb19XeTNvM1dhWW1MN2JOVkxwZXlNMUhENGdmS1ltZ2U?oc=5",
           "source": "Reuters AI",
-          "publishedAt": "2026-06-15",
+          "publishedAt": "2026-06-16",
           "views": "18.0K"
         },
         {
-          "title": "Chinese regulator tells Walmart to stamp out food safety risks - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQU0o1SDNhN2FnQmpTMko3MUNNaTBuX2JDTXQ3aDNRRXNrcURIN3hhaHc5elVQMnJjSjV1V1VESWxoNnBqSkluVC12bWl1eWYzVjRGeU5SLWRhQkNkQm9uWGJsQnJIUGp6aTktdkVreUh5azB2LS0xbmJhVlF1dkZ6eXFIMlZjVElpektuclh5UFBDdmNmbzFVdGY0VjlsNTNyV3ctYXVRcDlMV0JoR0VNbQ?oc=5\" target=\"_blank\">Chinese regulator tells Walmart to stamp out food safety risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU0o1SDNhN2FnQmpTMko3MUNNaTBuX2JDTXQ3aDNRRXNrcURIN3hhaHc5elVQMnJjSjV1V1VESWxoNnBqSkluVC12bWl1eWYzVjRGeU5SLWRhQkNkQm9uWGJsQnJIUGp6aTktdkVreUh5azB2LS0xbmJhVlF1dkZ6eXFIMlZjVElpektuclh5UFBDdmNmbzFVdGY0VjlsNTNyV3ctYXVRcDlMV0JoR0VNbQ?oc=5",
+          "title": "Florida sues TikTok, claiming it violates state child safety law - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQMnZTNjhUdlVjYzVESi1CZlp5OHVLYVdydmJmREszOWZMR0NHTWpOdkZNMlMxVGlDRDJlM2NiMjN5cEIwMDh3elc5UXpSZUoxdXR2eVVDeE5PZUlTbWhQMk10dnhEclY5a0xjNlVNNlhWTVlxYUJMSjVvNUVweG02VVNJeG93NGxEalNGYWhtOXYtd2ZJemxTSTZEcDdVOTFFZy1BVVVLQ2ExbTNGUFRkb0VsX05nR00?oc=5\" target=\"_blank\">Florida sues TikTok, claiming it violates state child safety law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMnZTNjhUdlVjYzVESi1CZlp5OHVLYVdydmJmREszOWZMR0NHTWpOdkZNMlMxVGlDRDJlM2NiMjN5cEIwMDh3elc5UXpSZUoxdXR2eVVDeE5PZUlTbWhQMk10dnhEclY5a0xjNlVNNlhWTVlxYUJMSjVvNUVweG02VVNJeG93NGxEalNGYWhtOXYtd2ZJemxTSTZEcDdVOTFFZy1BVVVLQ2ExbTNGUFRkb0VsX05nR00?oc=5",
           "source": "Reuters AI",
           "publishedAt": "2026-06-15",
           "views": "18.0K"
@@ -142,6 +142,14 @@
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
         {
+          "title": "SK Group Market Cap Crosses $1.3T on Hynix Boost - 전자신문",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LTnA5R3RmMHVHNzJ3U3JVOU1aNnJVenhCbldqMkg3VWhLblBVWWplVklUcnFDSHI3UEh0UWdyZ2pETF9RbHpXSVc5cVU?oc=5\" target=\"_blank\">SK Group Market Cap Crosses $1.3T on Hynix Boost</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전자신문</font>",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LTnA5R3RmMHVHNzJ3U3JVOU1aNnJVenhCbldqMkg3VWhLblBVWWplVklUcnFDSHI3UEh0UWdyZ2pETF9RbHpXSVc5cVU?oc=5",
+          "source": "전자신문",
+          "publishedAt": "2026-06-17",
+          "views": "13.0K"
+        },
+        {
           "title": "Why Korea's new dating shows keep surviving in an overcrowded market - The Korea Times",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZHJCbVRDNmRodGNmNHl1M0N6UmZJdFVjSVotbDFQaUlacDlXYUNzQ05hVW5tZE13QWxXVVNJTTcyb1BuZlpRai1rODBTaDNxX01TTXBsaXBPVWo2UHo1MENEdVRLckdXWXlva3JZeEFGa3ZfdFRJS1QxLXFMSFdacFZaelFrZER3YkZxUkVIYlRJaWpQbzZna2tIQlZyelpPaDJtdGtnTy1OcVRtbnhfdFNqcXhZYVI4elFBWEpJV2h6OUdYb1dFQ0doZ3NKYkRCRWfSAdIBQVVfeXFMTmRyQm1UQzZkaHRjZjR5dTNDelJmSXRVY0laLWwxUGlJWnA5V2FDc0NOYVVubWRNd0FsV1VTSU03Mm9QbmZaUWotazgwU2gzcV9NU01wbGlwT1VqNlB6NTBDRHVUS3JHV1l5b2tyWXhBRmt2X3RUSUtUMS1xTEhXWnBWWnpRa2REd2JGcVJFSGJUSWlqUG82Z2trSEJWcnpaT2gybXRrZ08tTnFUbW54X3RTanF4WWFSOHpRQVhKSVdoejlHWG9XRUNHaGdzSmJEQkVn?oc=5\" target=\"_blank\">Why Korea's new dating shows keep surviving in an overcrowded market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZHJCbVRDNmRodGNmNHl1M0N6UmZJdFVjSVotbDFQaUlacDlXYUNzQ05hVW5tZE13QWxXVVNJTTcyb1BuZlpRai1rODBTaDNxX01TTXBsaXBPVWo2UHo1MENEdVRLckdXWXlva3JZeEFGa3ZfdFRJS1QxLXFMSFdacFZaelFrZER3YkZxUkVIYlRJaWpQbzZna2tIQlZyelpPaDJtdGtnTy1OcVRtbnhfdFNqcXhZYVI4elFBWEpJV2h6OUdYb1dFQ0doZ3NKYkRCRWfSAdIBQVVfeXFMTmRyQm1UQzZkaHRjZjR5dTNDelJmSXRVY0laLWwxUGlJWnA5V2FDc0NOYVVubWRNd0FsV1VTSU03Mm9QbmZaUWotazgwU2gzcV9NU01wbGlwT1VqNlB6NTBDRHVUS3JHV1l5b2tyWXhBRmt2X3RUSUtUMS1xTEhXWnBWWnpRa2REd2JGcVJFSGJUSWlqUG82Z2trSEJWcnpaT2gybXRrZ08tTnFUbW54X3RTanF4WWFSOHpRQVhKSVdoejlHWG9XRUNHaGdzSmJEQkVn?oc=5",
@@ -150,19 +158,11 @@
           "views": "13.0K"
         },
         {
-          "title": "Crossing The Pond: How To Successfully Scale Your US Business Into The UK Market - WIRED",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYXozdEs4a245dElvMWVUalBlU1F3b19OSXJTUXY4a3VvSjk5WjhGVGw0dWs1aXhhaVphNEQ5VXZWdVhzUUpsVVVudjNzUWRJN1doM3d2dzczb3hWX0xWOHc2UElpY3Bqb0swYmwzcnlmTloyemlYTUVTYmtWMElfVm02WmJTZzI2OUZmcFRzWHlsaHNnRzZKem9ucGhsclp6OFduMTNDVHllT05DR0JOVzkwOG5veVBjS1Rnei1YS1ZUNDc2M2luRTdTWmZOcW95dkVKNzBLRV82VVdheEE?oc=5\" target=\"_blank\">Crossing The Pond: How To Successfully Scale Your US Business Into The UK Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYXozdEs4a245dElvMWVUalBlU1F3b19OSXJTUXY4a3VvSjk5WjhGVGw0dWs1aXhhaVphNEQ5VXZWdVhzUUpsVVVudjNzUWRJN1doM3d2dzczb3hWX0xWOHc2UElpY3Bqb0swYmwzcnlmTloyemlYTUVTYmtWMElfVm02WmJTZzI2OUZmcFRzWHlsaHNnRzZKem9ucGhsclp6OFduMTNDVHllT05DR0JOVzkwOG5veVBjS1Rnei1YS1ZUNDc2M2luRTdTWmZOcW95dkVKNzBLRV82VVdheEE?oc=5",
-          "source": "WIRED AI",
+          "title": "From Labubu to Chagee, Chinese lifestyle brands find growing market in Korea - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOdEJCOUswVDR1aHViWkQwc1AwSXpNM0dDSGxrNzdSNnBsNXkxQ0U4QWxiQ0JHcFRVcVlLdElDZklXcHpWYTdwLWtwX2pIc0xyNm5TakVGUnpfMVZVRTcxUmRGeFFQVTUwbFppQ1U4aGhTMU5hZUZkLTFBT2lEZkt5SERuM1lXeElaQU5wSVBNU09fNUI4STI1eDZWTktYZTJuV3ZiN2ctVVhoUVlOdDBiNDRhM0hPSU9oYUxoZkQ4MUlVVXg5RFBIMVhURk1TWDjSAc8BQVVfeXFMTnRCQjlLMFQ0dWh1YlpEMHNQMEl6TTNHQ0hsazc3UjZwbDV5MUNFOEFsYkNCR3BUVXFZS3RJQ2ZJV3B6VmE3cC1rcF9qSHNMcjZuU2pFRlJ6XzFWVUU3MVJkRnhRUFU1MGxaaUNVOGhoUzFOYWVGZC0xQU9pRGZLeUhEbjNZV3hJWkFOcElQTVNPXzVCOEkyNXg2Vk5LWGUybld2YjdnLVVYaFFZTnQwYjQ0YTNIT0lPaGFMaGZEODFJVVV4OURQSDFYVEZNU1g4?oc=5\" target=\"_blank\">From Labubu to Chagee, Chinese lifestyle brands find growing market in Korea</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdEJCOUswVDR1aHViWkQwc1AwSXpNM0dDSGxrNzdSNnBsNXkxQ0U4QWxiQ0JHcFRVcVlLdElDZklXcHpWYTdwLWtwX2pIc0xyNm5TakVGUnpfMVZVRTcxUmRGeFFQVTUwbFppQ1U4aGhTMU5hZUZkLTFBT2lEZkt5SERuM1lXeElaQU5wSVBNU09fNUI4STI1eDZWTktYZTJuV3ZiN2ctVVhoUVlOdDBiNDRhM0hPSU9oYUxoZkQ4MUlVVXg5RFBIMVhURk1TWDjSAc8BQVVfeXFMTnRCQjlLMFQ0dWh1YlpEMHNQMEl6TTNHQ0hsazc3UjZwbDV5MUNFOEFsYkNCR3BUVXFZS3RJQ2ZJV3B6VmE3cC1rcF9qSHNMcjZuU2pFRlJ6XzFWVUU3MVJkRnhRUFU1MGxaaUNVOGhoUzFOYWVGZC0xQU9pRGZLeUhEbjNZV3hJWkFOcElQTVNPXzVCOEkyNXg2Vk5LWGUybld2YjdnLVVYaFFZTnQwYjQ0YTNIT0lPaGFMaGZEODFJVVV4OURQSDFYVEZNU1g4?oc=5",
+          "source": "The Korea Times",
           "publishedAt": "2026-06-17",
-          "views": "13.0K"
-        },
-        {
-          "title": "BrainChip CEO Eyes Open Innovation in Korea as Neuromorphic Market Booms - 전자신문",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFAyTy1BSFJVTDJqdk5nY0NIWHpwcHNvMUZ1aTAzVDNFT2NVX3RvR1dTQThxUFZtcG1pbm4wUjA2SDQxYlVOXzhwbF9mOEE?oc=5\" target=\"_blank\">BrainChip CEO Eyes Open Innovation in Korea as Neuromorphic Market Booms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전자신문</font>",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAyTy1BSFJVTDJqdk5nY0NIWHpwcHNvMUZ1aTAzVDNFT2NVX3RvR1dTQThxUFZtcG1pbm4wUjA2SDQxYlVOXzhwbF9mOEE?oc=5",
-          "source": "전자신문",
-          "publishedAt": "2026-06-16",
           "views": "13.0K"
         }
       ]
@@ -173,27 +173,27 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
-          "title": "Upstage launches AI agent strategy with new ecosystem push - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNMW9JZWl4N1R1NnNrc293eFFrQTU1eHNLYnExSV9tZWMzQlEtdlVQRmoyaG0weld4R3RxZHljbGZPZUQ1UGVrY2ZYX3BkQTJxRnc4eWVQNEtIMTIxaVpIS2VDNHlTNjFKSHBUay14eXFsNF8ybHZPLTZsWGZuTEVXeHhYNEtOQVhnenduTGRZMWhNV2RTN2MyS1lobmk2RGpGYnppOEE1V1MyNHhGZXZRQjlpZUNyMnpwbTQzR0g5d9IBvwFBVV95cUxNMW9JZWl4N1R1NnNrc293eFFrQTU1eHNLYnExSV9tZWMzQlEtdlVQRmoyaG0weld4R3RxZHljbGZPZUQ1UGVrY2ZYX3BkQTJxRnc4eWVQNEtIMTIxaVpIS2VDNHlTNjFKSHBUay14eXFsNF8ybHZPLTZsWGZuTEVXeHhYNEtOQVhnenduTGRZMWhNV2RTN2MyS1lobmk2RGpGYnppOEE1V1MyNHhGZXZRQjlpZUNyMnpwbTQzR0g5dw?oc=5\" target=\"_blank\">Upstage launches AI agent strategy with new ecosystem push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMW9JZWl4N1R1NnNrc293eFFrQTU1eHNLYnExSV9tZWMzQlEtdlVQRmoyaG0weld4R3RxZHljbGZPZUQ1UGVrY2ZYX3BkQTJxRnc4eWVQNEtIMTIxaVpIS2VDNHlTNjFKSHBUay14eXFsNF8ybHZPLTZsWGZuTEVXeHhYNEtOQVhnenduTGRZMWhNV2RTN2MyS1lobmk2RGpGYnppOEE1V1MyNHhGZXZRQjlpZUNyMnpwbTQzR0g5d9IBvwFBVV95cUxNMW9JZWl4N1R1NnNrc293eFFrQTU1eHNLYnExSV9tZWMzQlEtdlVQRmoyaG0weld4R3RxZHljbGZPZUQ1UGVrY2ZYX3BkQTJxRnc4eWVQNEtIMTIxaVpIS2VDNHlTNjFKSHBUay14eXFsNF8ybHZPLTZsWGZuTEVXeHhYNEtOQVhnenduTGRZMWhNV2RTN2MyS1lobmk2RGpGYnppOEE1V1MyNHhGZXZRQjlpZUNyMnpwbTQzR0g5dw?oc=5",
+          "title": "Senate committee supports S. Korea-US cooperation on sub manufacturing in report - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQQmthc3ZwUVFsMmQ2aFRRNGFSdVlRTXZnYW9MaDNMNl9nd3B4Y2xFbEs3dFpDTXUtSkZkbTdoaGp2alFKRV9rY1JlYVl2NDFzN25NSUtsN3Y1QWVjR2drNnBoU3RWQkNtdUVIVndXZFU1Ym5RdXluMGU4ZHhDaUZOSjBEdDNQOExncVFuRk1ZdmxRWXM1QzNmTFlNdjFZbjR0RVhWcWdPUmJydHREbGVWa2l0ckFoRFV5SlRVSm4tT3I3ZVAzWnJZQ21rUzHSAdIBQVVfeXFMTS04bG1McFYzajVuWXlZekp1STZhN29RM3NCTTI4Qmh1QXdJdS0xd1c0bzI0Y2N1VmUzUUs0N2hfb2FxMHZZLUJhWVVtVmZKaHJMd1dMQXVpaXZXYzZXWWRpNkVERk5YT3NZNlZLN0xBWUdMdTBTRi00QWliNERTNUx2UF9oQlJEanJoc2lHSHQ0TnNIbHdQaGxOUHl3eEZmeW51TXREdXppSmNYWFZZODZWTmRiSWxwdmpzZjJlbm12WUJwM09TNnFCYnhEQ1dzVUR3?oc=5\" target=\"_blank\">Senate committee supports S. Korea-US cooperation on sub manufacturing in report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQmthc3ZwUVFsMmQ2aFRRNGFSdVlRTXZnYW9MaDNMNl9nd3B4Y2xFbEs3dFpDTXUtSkZkbTdoaGp2alFKRV9rY1JlYVl2NDFzN25NSUtsN3Y1QWVjR2drNnBoU3RWQkNtdUVIVndXZFU1Ym5RdXluMGU4ZHhDaUZOSjBEdDNQOExncVFuRk1ZdmxRWXM1QzNmTFlNdjFZbjR0RVhWcWdPUmJydHREbGVWa2l0ckFoRFV5SlRVSm4tT3I3ZVAzWnJZQ21rUzHSAdIBQVVfeXFMTS04bG1McFYzajVuWXlZekp1STZhN29RM3NCTTI4Qmh1QXdJdS0xd1c0bzI0Y2N1VmUzUUs0N2hfb2FxMHZZLUJhWVVtVmZKaHJMd1dMQXVpaXZXYzZXWWRpNkVERk5YT3NZNlZLN0xBWUdMdTBTRi00QWliNERTNUx2UF9oQlJEanJoc2lHSHQ0TnNIbHdQaGxOUHl3eEZmeW51TXREdXppSmNYWFZZODZWTmRiSWxwdmpzZjJlbm12WUJwM09TNnFCYnhEQ1dzVUR3?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-06-16",
+          "publishedAt": "2026-06-18",
           "views": "13.0K"
         },
         {
-          "title": "Why immigration planning is becoming a startup growth strategy - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNcU1JUkRBeVVUb0lLaTBaN09KYWJPOW03a2hSY1E2dzJMREhJeklvRVdvck1vSlZFWXFLMmlrVkxFRWRKYlNuQ1E3TTZ2ZVI4QlluZUJnWDlocG5QU1hQZFpXUHJoQUhYMzBnVXczSHZqVW5UTWw2NUpXTnQwZXJxaUltN3R3bk9Ia05Eb0xKZVVvTkx2QW43XzBMRQ?oc=5\" target=\"_blank\">Why immigration planning is becoming a startup growth strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcU1JUkRBeVVUb0lLaTBaN09KYWJPOW03a2hSY1E2dzJMREhJeklvRVdvck1vSlZFWXFLMmlrVkxFRWRKYlNuQ1E3TTZ2ZVI4QlluZUJnWDlocG5QU1hQZFpXUHJoQUhYMzBnVXczSHZqVW5UTWw2NUpXTnQwZXJxaUltN3R3bk9Ia05Eb0xKZVVvTkx2QW43XzBMRQ?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-06-16",
+          "title": "LG Electronics Revamps U.S. B2B Strategy - 전자신문",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBXOHZFU1VjYXZ6N3FwWmgxNUZGX1J2UkZ1MzZKTzZVel9FQnNDblpVTjFxTGJHbU1kb1cyczdka2ZZb2k0bmxqeU96QTc?oc=5\" target=\"_blank\">LG Electronics Revamps U.S. B2B Strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전자신문</font>",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBXOHZFU1VjYXZ6N3FwWmgxNUZGX1J2UkZ1MzZKTzZVel9FQnNDblpVTjFxTGJHbU1kb1cyczdka2ZZb2k0bmxqeU96QTc?oc=5",
+          "source": "전자신문",
+          "publishedAt": "2026-06-17",
           "views": "13.0K"
         },
         {
-          "title": "Insurers pivot AI strategy toward core risk underwriting - AI News",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNlo3T0ozelg3NE1sX096RjVpd2kxNHBwUWdxVzRnUlhRZUhiUDFQLVpORWgyUWdJdDBJV1NZeDZrX29TdEFtY1JlcUZkanI1SHJlajJNVU93QzgtcWZlaDNHTngzdlQ4S3dqbjFHUno4Zi10RUE0Vjd1ZkdyZkh4Y0RQamNaQWRZdkhKMG9DY0t6UXUtZWFicEt4ZURlbW4wM2NMZEZ5SGdCdw?oc=5\" target=\"_blank\">Insurers pivot AI strategy toward core risk underwriting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI News</font>",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNlo3T0ozelg3NE1sX096RjVpd2kxNHBwUWdxVzRnUlhRZUhiUDFQLVpORWgyUWdJdDBJV1NZeDZrX29TdEFtY1JlcUZkanI1SHJlajJNVU93QzgtcWZlaDNHTngzdlQ4S3dqbjFHUno4Zi10RUE0Vjd1ZkdyZkh4Y0RQamNaQWRZdkhKMG9DY0t6UXUtZWFicEt4ZURlbW4wM2NMZEZ5SGdCdw?oc=5",
-          "source": "AI News",
-          "publishedAt": "2026-06-16",
+          "title": "The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy - WIRED",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9UakFteUtwcXlpVWVLMjE0MlZnYnhSTkFJeG15VXd3SjRuM0FRVUVUSkkwUmZhb2pCTUlVOTNGQ2VXem9LR1hMY21qbTlRNUNFejc5X2d1MTg0cF81dF9TeWhyNE5WMVhyRkxBU0lMZjV0RmtDWlRRa2p0UGY?oc=5\" target=\"_blank\">The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9UakFteUtwcXlpVWVLMjE0MlZnYnhSTkFJeG15VXd3SjRuM0FRVUVUSkkwUmZhb2pCTUlVOTNGQ2VXem9LR1hMY21qbTlRNUNFejc5X2d1MTg0cF81dF9TeWhyNE5WMVhyRkxBU0lMZjV0RmtDWlRRa2p0UGY?oc=5",
+          "source": "WIRED AI",
+          "publishedAt": "2026-06-17",
           "views": "13.0K"
         }
       ]
