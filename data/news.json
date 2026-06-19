@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T05:00:13.246Z",
+  "lastUpdated": "2026-06-19T05:22:41.444Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,6 +49,14 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
+          "title": "France's OVHcloud plans frontier AI models to become Europe's second LLM player - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSXVzUTFCWkxBeDRRWEItdmFYMGlQQ1BLcTlWRGM5THcxcFFULWQxaFVrOGhabzZqcGVqMWE3V3pwaU9SQzFzVGpJRE0xNm44NnpXcjhSaEFncUZKd2tEYkR6dW56bUR4SjVKaVBZd0Q4akxYdktlbThsOGgtTjBrZGdwRTJybnpMMDRZMVEtRXhIWHVOT21OcEFrM0lya0RmSG1EMWZlMTBIUlFCS2pNeEdWWXVDbllBb19uaTJrOUt1TlF2ajJTbg?oc=5\" target=\"_blank\">France's OVHcloud plans frontier AI models to become Europe's second LLM player</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSXVzUTFCWkxBeDRRWEItdmFYMGlQQ1BLcTlWRGM5THcxcFFULWQxaFVrOGhabzZqcGVqMWE3V3pwaU9SQzFzVGpJRE0xNm44NnpXcjhSaEFncUZKd2tEYkR6dW56bUR4SjVKaVBZd0Q4akxYdktlbThsOGgtTjBrZGdwRTJybnpMMDRZMVEtRXhIWHVOT21OcEFrM0lya0RmSG1EMWZlMTBIUlFCS2pNeEdWWXVDbllBb19uaTJrOUt1TlF2ajJTbg?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-06-17",
+          "views": "18.0K"
+        },
+        {
           "title": "Z.ai’s open-weights GLM-5.2 beats GPT-5.5 on multiple long-horizon coding benchmarks for 1/6th the cost - VentureBeat",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWdHTVgtOTZYbHBKN1licHR2ajVhSnRJaVdoVWdRSW82SU5SVnJYNnhFYXlIRDlISDZJNm9xMUprb0JfekZpTUZSVENCay1vVDBkeTlhaEcwZU41Z2JSQUYtWHBHbVJBX2FmYlp0RDYwY3ZUU2EtaVM3eFk4anVBdXItNy1jczI2Z1kxSDFobnFtWTF6U2lxMEpaa1JXZWRkUFhORmtrNFV1TldvMmxFNUM3cjRMN2tDMkpmc3FxMG9QUnI4X3U0ZnQ5SFdGZHJyczRF?oc=5\" target=\"_blank\">Z.ai’s open-weights GLM-5.2 beats GPT-5.5 on multiple long-horizon coding benchmarks for 1/6th the cost</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWdHTVgtOTZYbHBKN1licHR2ajVhSnRJaVdoVWdRSW82SU5SVnJYNnhFYXlIRDlISDZJNm9xMUprb0JfekZpTUZSVENCay1vVDBkeTlhaEcwZU41Z2JSQUYtWHBHbVJBX2FmYlp0RDYwY3ZUU2EtaVM3eFk4anVBdXItNy1jczI2Z1kxSDFobnFtWTF6U2lxMEpaa1JXZWRkUFhORmtrNFV1TldvMmxFNUM3cjRMN2tDMkpmc3FxMG9QUnI4X3U0ZnQ5SFdGZHJyczRF?oc=5",
@@ -63,14 +71,6 @@
           "source": "TechCrunch AI",
           "publishedAt": "2026-06-16",
           "views": "18.0K"
-        },
-        {
-          "title": "KOSPI crosses over historic milestone of 9,000 on chip rally - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeFBkemMyVGdwOXVaUVZoVWU1Ym1yX2M4MGRBWGZYQWpxWk5MRzN3eVZraVYwWUF5VGFWY19RcGNtQ1JFNnhEWjNJVG45UHZPMnA5SkpKeXNpQ3RzRXBDdXFSeDF5STAtQkg5bFpDZmpWY0FabzBYckNxUkdHYVlmb1prcWtXd1lYNm1mdG5LdWRGQUdiWUpUbXd0dUduYWltRnVPX1o4b2vSAa4BQVVfeXFMTWUzX0lWQ0hHcGpISWdGb3hUaGtmQ3VURFJ2eklReVpkTGJKY3ozdkRkQzFzOUJkcGllbDRoY1RJY01LYUFYRlJ6TlhwdVhPZlpHcjlYR1E4TjdaQzZMeDJ5a203R0VCTndOUzRRWGYzeXdpbEhqdTI1SmVRaUJKSFhWV1FwMzVmLXFiUWZ4Tm9jZmFVRzFoOGRKYnN0LWZydDNhVXlEdmRTVjJGRDRR?oc=5\" target=\"_blank\">KOSPI crosses over historic milestone of 9,000 on chip rally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeFBkemMyVGdwOXVaUVZoVWU1Ym1yX2M4MGRBWGZYQWpxWk5MRzN3eVZraVYwWUF5VGFWY19RcGNtQ1JFNnhEWjNJVG45UHZPMnA5SkpKeXNpQ3RzRXBDdXFSeDF5STAtQkg5bFpDZmpWY0FabzBYckNxUkdHYVlmb1prcWtXd1lYNm1mdG5LdWRGQUdiWUpUbXd0dUduYWltRnVPX1o4b2vSAa4BQVVfeXFMTWUzX0lWQ0hHcGpISWdGb3hUaGtmQ3VURFJ2eklReVpkTGJKY3ozdkRkQzFzOUJkcGllbDRoY1RJY01LYUFYRlJ6TlhwdVhPZlpHcjlYR1E4TjdaQzZMeDJ5a203R0VCTndOUzRRWGYzeXdpbEhqdTI1SmVRaUJKSFhWV1FwMzVmLXFiUWZ4Tm9jZmFVRzFoOGRKYnN0LWZydDNhVXlEdmRTVjJGRDRR?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-06-18",
-          "views": "13.0K"
         }
       ]
     },
@@ -80,6 +80,14 @@
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
         {
+          "title": "Adobe embeds agentic AI workflows across Creative Cloud, shifting from media generation to production orchestration - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZjFrSVhtU3p2OFp6Z3V4dTY1SWxPQ3lnQXZEcXFnY3JKQ2J3MlNlWUtHLXNRMF9BYmdJclEyLXY0UXltTTFFNlhoeEJKV044SDNPVlVfeGd4dDBTR2xtREVrV0FHTWlQX1ZDU1lERUZ3MUNXd19DUFF5MGNDbDFWMURqVUtXQ1RPbzUtOEhVOTlmRXhCb21nbDNoczMyQ2M5LVkzNnctLXlCWGt4em90WEkzOXVPZTNHTnNQcjRJbWNPd3RoMjJDdlRtRm1fZHg3cmh3UXJBV2ppeDdOWXhENGc0ZTdKOFE?oc=5\" target=\"_blank\">Adobe embeds agentic AI workflows across Creative Cloud, shifting from media generation to production orchestration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZjFrSVhtU3p2OFp6Z3V4dTY1SWxPQ3lnQXZEcXFnY3JKQ2J3MlNlWUtHLXNRMF9BYmdJclEyLXY0UXltTTFFNlhoeEJKV044SDNPVlVfeGd4dDBTR2xtREVrV0FHTWlQX1ZDU1lERUZ3MUNXd19DUFF5MGNDbDFWMURqVUtXQ1RPbzUtOEhVOTlmRXhCb21nbDNoczMyQ2M5LVkzNnctLXlCWGt4em90WEkzOXVPZTNHTnNQcjRJbWNPd3RoMjJDdlRtRm1fZHg3cmh3UXJBV2ppeDdOWXhENGc0ZTdKOFE?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-06-18",
+          "views": "18.0K"
+        },
+        {
           "title": "Former Cisco AI Defense Builders Launch Tenet Security, Raise $6 Million to Prevent Attacks on Enterprise AI Agents - VentureBeat",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdFVacU8xVmQ1N1JWY1YxNDRkT1RTMkRjbFFPcDlydkVna01FMGZaNTF2aDlqQ1IxZXBZMnVUbFBFbnAwYWNJdDdOekV4UmU5VFpQUnp2ZjlqQlZDU2JXbnFQQ0FOMk5ObWplQ01hYlZiX05Ia3h5cXlZdnlqdEtpYXgzMXdxcExNazR4dkh2Z3J0aENRQ0s1cmNQNHpPaW41cFdNY25HdUJvNG0yZ0VZelNGS3FRbFc4S2g1aUh1dFB0Vklqc1RKLWZ4dlNoRE9RQ0VUNFdBMGNYbWxJcWxz?oc=5\" target=\"_blank\">Former Cisco AI Defense Builders Launch Tenet Security, Raise $6 Million to Prevent Attacks on Enterprise AI Agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdFVacU8xVmQ1N1JWY1YxNDRkT1RTMkRjbFFPcDlydkVna01FMGZaNTF2aDlqQ1IxZXBZMnVUbFBFbnAwYWNJdDdOekV4UmU5VFpQUnp2ZjlqQlZDU2JXbnFQQ0FOMk5ObWplQ01hYlZiX05Ia3h5cXlZdnlqdEtpYXgzMXdxcExNazR4dkh2Z3J0aENRQ0s1cmNQNHpPaW41cFdNY25HdUJvNG0yZ0VZelNGS3FRbFc4S2g1aUh1dFB0Vklqc1RKLWZ4dlNoRE9RQ0VUNFdBMGNYbWxJcWxz?oc=5",
@@ -88,19 +96,11 @@
           "views": "18.0K"
         },
         {
-          "title": "AWS enters the context layer race with a graph that learns from agents, not manual curation - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU3pHM2NRMm9xVUNMSk9TNmE2Ry1PVWNtdTNzMkpvYzg0SmIxbWhEbHN1S2JhX0FIUzhBT0ZEc2ptOUF5OGlPQ3ZpZWxacHp1Y2tvZ1laVlJET2NSTXR5cTREVjJmUWxVZmZna1dDQXdnVXhHejhtcVM0YnlPM3dUcnVhRHhibTMya2lRY0dpbVJXNGp6ZkJhNE1GSXNzZElLRnhobnpzaFhCMlpqR3dxMDZMVEl3WUthLVdZ?oc=5\" target=\"_blank\">AWS enters the context layer race with a graph that learns from agents, not manual curation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU3pHM2NRMm9xVUNMSk9TNmE2Ry1PVWNtdTNzMkpvYzg0SmIxbWhEbHN1S2JhX0FIUzhBT0ZEc2ptOUF5OGlPQ3ZpZWxacHp1Y2tvZ1laVlJET2NSTXR5cTREVjJmUWxVZmZna1dDQXdnVXhHejhtcVM0YnlPM3dUcnVhRHhibTMya2lRY0dpbVJXNGp6ZkJhNE1GSXNzZElLRnhobnpzaFhCMlpqR3dxMDZMVEl3WUthLVdZ?oc=5",
+          "title": "Anthropic's Claude Code Artifacts update brings live, shared dashboards and interactive workspaces to enterprises - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxONzYxMkxpZEZqUUF5bVNlTW1VcVpZSnVnUUREejlnTlgydlhpWDNOQlhUQmVnZnRzbkdPNU9Kdmk2c19kdDJEdERDenB0aXM2ZTRkbnI2dHRnVXdvUWFMMFJTb3hmQzFXSEd1empjRldrRGdWelhjaEZCTlJRWm04MnVpc2hOMW5pNGJGU3BWN3Q4LWZuQjVBMDZQckhZMUtaWk82N2R0NUpPbF9mXzczb3o2N3pqSkhwb3JDMVNiX3VZVGZ2bXVXa1dIQVBkN1gtdnlvcVY2Zw?oc=5\" target=\"_blank\">Anthropic's Claude Code Artifacts update brings live, shared dashboards and interactive workspaces to enterprises</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONzYxMkxpZEZqUUF5bVNlTW1VcVpZSnVnUUREejlnTlgydlhpWDNOQlhUQmVnZnRzbkdPNU9Kdmk2c19kdDJEdERDenB0aXM2ZTRkbnI2dHRnVXdvUWFMMFJTb3hmQzFXSEd1empjRldrRGdWelhjaEZCTlJRWm04MnVpc2hOMW5pNGJGU3BWN3Q4LWZuQjVBMDZQckhZMUtaWk82N2R0NUpPbF9mXzczb3o2N3pqSkhwb3JDMVNiX3VZVGZ2bXVXa1dIQVBkN1gtdnlvcVY2Zw?oc=5",
           "source": "VentureBeat AI",
-          "publishedAt": "2026-06-17",
-          "views": "13.0K"
-        },
-        {
-          "title": "Formic Opens 53,000-Square-Foot Chicagoland Headquarters to Meet Growing Demand for Its AI-Powered Robotic Automation - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeG5OemhZZi1jTE92TGhvTkVXMDRhdUJNQmJfeV9wQWxRNFNFSkxZZ1BJMUhlY0hmMHZuX2xQajdweGU0UHBCSFpFOUVWY243MVZJU0RQSjEwNjRMZ2NuQzZwd3pwbHMzVjc0Y1NUdFFqNHk5SWJ5SGRmdThNak9xa2NKbVNNbE9WMFl6S2lDMWFPclpuSWp3NE1vZERTQjBPemVaQjBUOURfNVlILVVlaVA2LW9Wb0R4cmt6d0ZLcVBPUHR3MS1UYjJ3eUxiQjhadHp4Q2tsemNUZ0tlQzdTcVhPTQ?oc=5\" target=\"_blank\">Formic Opens 53,000-Square-Foot Chicagoland Headquarters to Meet Growing Demand for Its AI-Powered Robotic Automation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeG5OemhZZi1jTE92TGhvTkVXMDRhdUJNQmJfeV9wQWxRNFNFSkxZZ1BJMUhlY0hmMHZuX2xQajdweGU0UHBCSFpFOUVWY243MVZJU0RQSjEwNjRMZ2NuQzZwd3pwbHMzVjc0Y1NUdFFqNHk5SWJ5SGRmdThNak9xa2NKbVNNbE9WMFl6S2lDMWFPclpuSWp3NE1vZERTQjBPemVaQjBUOURfNVlILVVlaVA2LW9Wb0R4cmt6d0ZLcVBPUHR3MS1UYjJ3eUxiQjhadHp4Q2tsemNUZ0tlQzdTcVhPTQ?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-06-17",
+          "publishedAt": "2026-06-18",
           "views": "13.0K"
         }
       ]
@@ -142,27 +142,27 @@
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
         {
-          "title": "SK Group Market Cap Crosses $1.3T on Hynix Boost - 전자신문",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LTnA5R3RmMHVHNzJ3U3JVOU1aNnJVenhCbldqMkg3VWhLblBVWWplVklUcnFDSHI3UEh0UWdyZ2pETF9RbHpXSVc5cVU?oc=5\" target=\"_blank\">SK Group Market Cap Crosses $1.3T on Hynix Boost</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전자신문</font>",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LTnA5R3RmMHVHNzJ3U3JVOU1aNnJVenhCbldqMkg3VWhLblBVWWplVklUcnFDSHI3UEh0UWdyZ2pETF9RbHpXSVc5cVU?oc=5",
+          "title": "Global memory chip market to quadruple in 2026: data - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPOU5hNkZLOF9MSWxFUEh4a2o3RDJOWTNIc3ctZXhJRlZlT3ZFdDFPeXVWLU1GUENVU2lSeTI1SWRpUVdaZjQxNlh4UEVxZElGOEhVQ1BzUzJLQk9OU29tM3ctRE1kak82dkRzcnJwNjdtSTBpc0NwSGREV3F5LUVPQ0NBclZVMk9idDdyOFdETGVGVFJISXRtUmI2TnlKaTjSAaQBQVVfeXFMT2RhSk1HYkNWWUlKWHdaSVFmN0ROczBQWUlPeHY5OEt3MlBGS254eXdsbTBWTjRScmw3T2RwZ0dHMFJwY29JLUx0WHh2bV9iOEs3ZS12bE5XZ25rdFlxUFJlVjdrV3pJZzdtY1E3ZUtOR0xBNFRfbnhCTEItUDQxRzFjTEQ3NVRwcHJQT0NLZkkwQVkyME1nZFBzWDlDbXpNUmlVWW4?oc=5\" target=\"_blank\">Global memory chip market to quadruple in 2026: data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOU5hNkZLOF9MSWxFUEh4a2o3RDJOWTNIc3ctZXhJRlZlT3ZFdDFPeXVWLU1GUENVU2lSeTI1SWRpUVdaZjQxNlh4UEVxZElGOEhVQ1BzUzJLQk9OU29tM3ctRE1kak82dkRzcnJwNjdtSTBpc0NwSGREV3F5LUVPQ0NBclZVMk9idDdyOFdETGVGVFJISXRtUmI2TnlKaTjSAaQBQVVfeXFMT2RhSk1HYkNWWUlKWHdaSVFmN0ROczBQWUlPeHY5OEt3MlBGS254eXdsbTBWTjRScmw3T2RwZ0dHMFJwY29JLUx0WHh2bV9iOEs3ZS12bE5XZ25rdFlxUFJlVjdrV3pJZzdtY1E3ZUtOR0xBNFRfbnhCTEItUDQxRzFjTEQ3NVRwcHJQT0NLZkkwQVkyME1nZFBzWDlDbXpNUmlVWW4?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-06-19",
+          "views": "13.0K"
+        },
+        {
+          "title": "SpaceX Acquires Cursor, Overtakes Amazon by Market Value - 전자신문",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE5BckpDUlRSdGJlal9mQWdscGxtR0RCNlJCN1NUR2hnRnNqWVpUZmg2ZjBmOFBaTmJUbm5KbDFVUWxTc2R0YW55U1JkNzI?oc=5\" target=\"_blank\">SpaceX Acquires Cursor, Overtakes Amazon by Market Value</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전자신문</font>",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5BckpDUlRSdGJlal9mQWdscGxtR0RCNlJCN1NUR2hnRnNqWVpUZmg2ZjBmOFBaTmJUbm5KbDFVUWxTc2R0YW55U1JkNzI?oc=5",
           "source": "전자신문",
-          "publishedAt": "2026-06-17",
+          "publishedAt": "2026-06-18",
           "views": "13.0K"
         },
         {
-          "title": "Why Korea's new dating shows keep surviving in an overcrowded market - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZHJCbVRDNmRodGNmNHl1M0N6UmZJdFVjSVotbDFQaUlacDlXYUNzQ05hVW5tZE13QWxXVVNJTTcyb1BuZlpRai1rODBTaDNxX01TTXBsaXBPVWo2UHo1MENEdVRLckdXWXlva3JZeEFGa3ZfdFRJS1QxLXFMSFdacFZaelFrZER3YkZxUkVIYlRJaWpQbzZna2tIQlZyelpPaDJtdGtnTy1OcVRtbnhfdFNqcXhZYVI4elFBWEpJV2h6OUdYb1dFQ0doZ3NKYkRCRWfSAdIBQVVfeXFMTmRyQm1UQzZkaHRjZjR5dTNDelJmSXRVY0laLWwxUGlJWnA5V2FDc0NOYVVubWRNd0FsV1VTSU03Mm9QbmZaUWotazgwU2gzcV9NU01wbGlwT1VqNlB6NTBDRHVUS3JHV1l5b2tyWXhBRmt2X3RUSUtUMS1xTEhXWnBWWnpRa2REd2JGcVJFSGJUSWlqUG82Z2trSEJWcnpaT2gybXRrZ08tTnFUbW54X3RTanF4WWFSOHpRQVhKSVdoejlHWG9XRUNHaGdzSmJEQkVn?oc=5\" target=\"_blank\">Why Korea's new dating shows keep surviving in an overcrowded market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZHJCbVRDNmRodGNmNHl1M0N6UmZJdFVjSVotbDFQaUlacDlXYUNzQ05hVW5tZE13QWxXVVNJTTcyb1BuZlpRai1rODBTaDNxX01TTXBsaXBPVWo2UHo1MENEdVRLckdXWXlva3JZeEFGa3ZfdFRJS1QxLXFMSFdacFZaelFrZER3YkZxUkVIYlRJaWpQbzZna2tIQlZyelpPaDJtdGtnTy1OcVRtbnhfdFNqcXhZYVI4elFBWEpJV2h6OUdYb1dFQ0doZ3NKYkRCRWfSAdIBQVVfeXFMTmRyQm1UQzZkaHRjZjR5dTNDelJmSXRVY0laLWwxUGlJWnA5V2FDc0NOYVVubWRNd0FsV1VTSU03Mm9QbmZaUWotazgwU2gzcV9NU01wbGlwT1VqNlB6NTBDRHVUS3JHV1l5b2tyWXhBRmt2X3RUSUtUMS1xTEhXWnBWWnpRa2REd2JGcVJFSGJUSWlqUG82Z2trSEJWcnpaT2gybXRrZ08tTnFUbW54X3RTanF4WWFSOHpRQVhKSVdoejlHWG9XRUNHaGdzSmJEQkVn?oc=5",
+          "title": "Chip giants push KOSPI past 9,000, masking broader market weakness - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQT3B4MFEwOEktNVVpd0JBZGxhMkY1NmlNRTVHdkRqRjd4UU9iOFo4RDc3cmVINUpkVUl0b2h1OWc2aDM2eHBGWkk0TlpfYm9XaVVKaTN5Y0dRaWFVQnd2SEVtbUJ6SVo4dnVWQTRqeVRIdzFFLXNvS1ZLM2tmdEp1S2dSZUg0VTQ5TlpXUUpWUW5mSHZDblJRQURMWUUyc2tabTlNOFZLRlQweFNwc3g40gG0AUFVX3lxTE91S2FrWFRSUU1mUzZreTROSVNQLUxTcFVieFQyMUR1RHZMbkE0TmJCY1AxRXg4SmtuSjVLSFhTT0tOeUVNNHhtMzlNZU9oMFVaSkhVejBnWFgtUS1ETjE3Q0lJWmQ5RzFaeTVPdmVnOFFhTm1VakF4Tmh4azF1V004ZnJIZVdEc2Vyc0p5SURFNnVUWVRObXZEdVN5WjNHZHROM1p4Um55LVJINEZVOGFPcGJEYQ?oc=5\" target=\"_blank\">Chip giants push KOSPI past 9,000, masking broader market weakness</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT3B4MFEwOEktNVVpd0JBZGxhMkY1NmlNRTVHdkRqRjd4UU9iOFo4RDc3cmVINUpkVUl0b2h1OWc2aDM2eHBGWkk0TlpfYm9XaVVKaTN5Y0dRaWFVQnd2SEVtbUJ6SVo4dnVWQTRqeVRIdzFFLXNvS1ZLM2tmdEp1S2dSZUg0VTQ5TlpXUUpWUW5mSHZDblJRQURMWUUyc2tabTlNOFZLRlQweFNwc3g40gG0AUFVX3lxTE91S2FrWFRSUU1mUzZreTROSVNQLUxTcFVieFQyMUR1RHZMbkE0TmJCY1AxRXg4SmtuSjVLSFhTT0tOeUVNNHhtMzlNZU9oMFVaSkhVejBnWFgtUS1ETjE3Q0lJWmQ5RzFaeTVPdmVnOFFhTm1VakF4Tmh4azF1V004ZnJIZVdEc2Vyc0p5SURFNnVUWVRObXZEdVN5WjNHZHROM1p4Um55LVJINEZVOGFPcGJEYQ?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-06-17",
-          "views": "13.0K"
-        },
-        {
-          "title": "From Labubu to Chagee, Chinese lifestyle brands find growing market in Korea - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOdEJCOUswVDR1aHViWkQwc1AwSXpNM0dDSGxrNzdSNnBsNXkxQ0U4QWxiQ0JHcFRVcVlLdElDZklXcHpWYTdwLWtwX2pIc0xyNm5TakVGUnpfMVZVRTcxUmRGeFFQVTUwbFppQ1U4aGhTMU5hZUZkLTFBT2lEZkt5SERuM1lXeElaQU5wSVBNU09fNUI4STI1eDZWTktYZTJuV3ZiN2ctVVhoUVlOdDBiNDRhM0hPSU9oYUxoZkQ4MUlVVXg5RFBIMVhURk1TWDjSAc8BQVVfeXFMTnRCQjlLMFQ0dWh1YlpEMHNQMEl6TTNHQ0hsazc3UjZwbDV5MUNFOEFsYkNCR3BUVXFZS3RJQ2ZJV3B6VmE3cC1rcF9qSHNMcjZuU2pFRlJ6XzFWVUU3MVJkRnhRUFU1MGxaaUNVOGhoUzFOYWVGZC0xQU9pRGZLeUhEbjNZV3hJWkFOcElQTVNPXzVCOEkyNXg2Vk5LWGUybld2YjdnLVVYaFFZTnQwYjQ0YTNIT0lPaGFMaGZEODFJVVV4OURQSDFYVEZNU1g4?oc=5\" target=\"_blank\">From Labubu to Chagee, Chinese lifestyle brands find growing market in Korea</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdEJCOUswVDR1aHViWkQwc1AwSXpNM0dDSGxrNzdSNnBsNXkxQ0U4QWxiQ0JHcFRVcVlLdElDZklXcHpWYTdwLWtwX2pIc0xyNm5TakVGUnpfMVZVRTcxUmRGeFFQVTUwbFppQ1U4aGhTMU5hZUZkLTFBT2lEZkt5SERuM1lXeElaQU5wSVBNU09fNUI4STI1eDZWTktYZTJuV3ZiN2ctVVhoUVlOdDBiNDRhM0hPSU9oYUxoZkQ4MUlVVXg5RFBIMVhURk1TWDjSAc8BQVVfeXFMTnRCQjlLMFQ0dWh1YlpEMHNQMEl6TTNHQ0hsazc3UjZwbDV5MUNFOEFsYkNCR3BUVXFZS3RJQ2ZJV3B6VmE3cC1rcF9qSHNMcjZuU2pFRlJ6XzFWVUU3MVJkRnhRUFU1MGxaaUNVOGhoUzFOYWVGZC0xQU9pRGZLeUhEbjNZV3hJWkFOcElQTVNPXzVCOEkyNXg2Vk5LWGUybld2YjdnLVVYaFFZTnQwYjQ0YTNIT0lPaGFMaGZEODFJVVV4OURQSDFYVEZNU1g4?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-06-17",
+          "publishedAt": "2026-06-18",
           "views": "13.0K"
         }
       ]
@@ -173,27 +173,27 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
-          "title": "Senate committee supports S. Korea-US cooperation on sub manufacturing in report - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQQmthc3ZwUVFsMmQ2aFRRNGFSdVlRTXZnYW9MaDNMNl9nd3B4Y2xFbEs3dFpDTXUtSkZkbTdoaGp2alFKRV9rY1JlYVl2NDFzN25NSUtsN3Y1QWVjR2drNnBoU3RWQkNtdUVIVndXZFU1Ym5RdXluMGU4ZHhDaUZOSjBEdDNQOExncVFuRk1ZdmxRWXM1QzNmTFlNdjFZbjR0RVhWcWdPUmJydHREbGVWa2l0ckFoRFV5SlRVSm4tT3I3ZVAzWnJZQ21rUzHSAdIBQVVfeXFMTS04bG1McFYzajVuWXlZekp1STZhN29RM3NCTTI4Qmh1QXdJdS0xd1c0bzI0Y2N1VmUzUUs0N2hfb2FxMHZZLUJhWVVtVmZKaHJMd1dMQXVpaXZXYzZXWWRpNkVERk5YT3NZNlZLN0xBWUdMdTBTRi00QWliNERTNUx2UF9oQlJEanJoc2lHSHQ0TnNIbHdQaGxOUHl3eEZmeW51TXREdXppSmNYWFZZODZWTmRiSWxwdmpzZjJlbm12WUJwM09TNnFCYnhEQ1dzVUR3?oc=5\" target=\"_blank\">Senate committee supports S. Korea-US cooperation on sub manufacturing in report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQmthc3ZwUVFsMmQ2aFRRNGFSdVlRTXZnYW9MaDNMNl9nd3B4Y2xFbEs3dFpDTXUtSkZkbTdoaGp2alFKRV9rY1JlYVl2NDFzN25NSUtsN3Y1QWVjR2drNnBoU3RWQkNtdUVIVndXZFU1Ym5RdXluMGU4ZHhDaUZOSjBEdDNQOExncVFuRk1ZdmxRWXM1QzNmTFlNdjFZbjR0RVhWcWdPUmJydHREbGVWa2l0ckFoRFV5SlRVSm4tT3I3ZVAzWnJZQ21rUzHSAdIBQVVfeXFMTS04bG1McFYzajVuWXlZekp1STZhN29RM3NCTTI4Qmh1QXdJdS0xd1c0bzI0Y2N1VmUzUUs0N2hfb2FxMHZZLUJhWVVtVmZKaHJMd1dMQXVpaXZXYzZXWWRpNkVERk5YT3NZNlZLN0xBWUdMdTBTRi00QWliNERTNUx2UF9oQlJEanJoc2lHSHQ0TnNIbHdQaGxOUHl3eEZmeW51TXREdXppSmNYWFZZODZWTmRiSWxwdmpzZjJlbm12WUJwM09TNnFCYnhEQ1dzVUR3?oc=5",
+          "title": "Doosan on track for growth as portfolio aligns with AI industry - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbkhDR0NQWWFwZlJWMnhNZnlpdFVWa09Ba3lwVW9hZWMxMktRS3Jla2hIOFJackE1T09NZHlHeHpscVZFUnNDRXphWEstMGh1WFdhSWs5S3JSaXFUUjRyLTE1aVRRaDQ3dUh1bDVGYUhZaGhCQVdsV1d4UTBCZ01LNm9rTXZOMkcxdVFCbHFmM2Rkdk5pZ1VWWkVLbEVFSnVaOEdWRmhzTmM5VGZYc1ZrZGNranhnQXlhc1NheEFlMVJ2Z9IBwgFBVV95cUxNbkhDR0NQWWFwZlJWMnhNZnlpdFVWa09Ba3lwVW9hZWMxMktRS3Jla2hIOFJackE1T09NZHlHeHpscVZFUnNDRXphWEstMGh1WFdhSWs5S3JSaXFUUjRyLTE1aVRRaDQ3dUh1bDVGYUhZaGhCQVdsV1d4UTBCZ01LNm9rTXZOMkcxdVFCbHFmM2Rkdk5pZ1VWWkVLbEVFSnVaOEdWRmhzTmM5VGZYc1ZrZGNranhnQXlhc1NheEFlMVJ2Zw?oc=5\" target=\"_blank\">Doosan on track for growth as portfolio aligns with AI industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbkhDR0NQWWFwZlJWMnhNZnlpdFVWa09Ba3lwVW9hZWMxMktRS3Jla2hIOFJackE1T09NZHlHeHpscVZFUnNDRXphWEstMGh1WFdhSWs5S3JSaXFUUjRyLTE1aVRRaDQ3dUh1bDVGYUhZaGhCQVdsV1d4UTBCZ01LNm9rTXZOMkcxdVFCbHFmM2Rkdk5pZ1VWWkVLbEVFSnVaOEdWRmhzTmM5VGZYc1ZrZGNranhnQXlhc1NheEFlMVJ2Z9IBwgFBVV95cUxNbkhDR0NQWWFwZlJWMnhNZnlpdFVWa09Ba3lwVW9hZWMxMktRS3Jla2hIOFJackE1T09NZHlHeHpscVZFUnNDRXphWEstMGh1WFdhSWs5S3JSaXFUUjRyLTE1aVRRaDQ3dUh1bDVGYUhZaGhCQVdsV1d4UTBCZ01LNm9rTXZOMkcxdVFCbHFmM2Rkdk5pZ1VWWkVLbEVFSnVaOEdWRmhzTmM5VGZYc1ZrZGNranhnQXlhc1NheEFlMVJ2Zw?oc=5",
           "source": "The Korea Times",
           "publishedAt": "2026-06-18",
           "views": "13.0K"
         },
         {
-          "title": "LG Electronics Revamps U.S. B2B Strategy - 전자신문",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBXOHZFU1VjYXZ6N3FwWmgxNUZGX1J2UkZ1MzZKTzZVel9FQnNDblpVTjFxTGJHbU1kb1cyczdka2ZZb2k0bmxqeU96QTc?oc=5\" target=\"_blank\">LG Electronics Revamps U.S. B2B Strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전자신문</font>",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBXOHZFU1VjYXZ6N3FwWmgxNUZGX1J2UkZ1MzZKTzZVel9FQnNDblpVTjFxTGJHbU1kb1cyczdka2ZZb2k0bmxqeU96QTc?oc=5",
-          "source": "전자신문",
-          "publishedAt": "2026-06-17",
+          "title": "Israel in talks with US over continuing its Lebanon troop deployment, officials say - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQdWZKN0ZZUk9pbjc2ZzF4VkNOZG55aHNHTk84UGxKT0g1UlFYVzl0WGt3TFU2NXgxRUZOcWdFeWdQOGdRVVR6akZCaWRpTE1ZOXBRd0ZxX21odEJRVTFSYkFsTTRwQVFNbEgyRXRaeHZkeE9XOGc3eTh2c0dtMUFmbndRNlhrMHlGWXFRamhQcVRaQ05jNFFDc3I4ZUdHall4V0EyM0xvOXg4S1lvZFRpN05PZ2pSZDItLXVzVTh4cGlmdXdK0gHKAUFVX3lxTE9TcEhYSnEwYzZyRnduZU1TWGZlZWhmT1BOYV9CUDVfbDlJR09aV05UUHB5bnhuTTFJamRvTnk1bVZ6Q19vYlFWbDllNkUtU0c5dlpZMHZNSVM1V1o5NENuYUFJc2pOSzhJS3YxcHNRWFRpVHA5UjFFTnBYSF9mUERUa3ppMEJ1VnIzZm5VdUNGd2RxbG5PMDJ3bEFWckRSU043Z0ZralRtZ0xuaHl4czBzSzMzd0JyYjR2T0VrR0V0YnBSU3NNMFhwcXc?oc=5\" target=\"_blank\">Israel in talks with US over continuing its Lebanon troop deployment, officials say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdWZKN0ZZUk9pbjc2ZzF4VkNOZG55aHNHTk84UGxKT0g1UlFYVzl0WGt3TFU2NXgxRUZOcWdFeWdQOGdRVVR6akZCaWRpTE1ZOXBRd0ZxX21odEJRVTFSYkFsTTRwQVFNbEgyRXRaeHZkeE9XOGc3eTh2c0dtMUFmbndRNlhrMHlGWXFRamhQcVRaQ05jNFFDc3I4ZUdHall4V0EyM0xvOXg4S1lvZFRpN05PZ2pSZDItLXVzVTh4cGlmdXdK0gHKAUFVX3lxTE9TcEhYSnEwYzZyRnduZU1TWGZlZWhmT1BOYV9CUDVfbDlJR09aV05UUHB5bnhuTTFJamRvTnk1bVZ6Q19vYlFWbDllNkUtU0c5dlpZMHZNSVM1V1o5NENuYUFJc2pOSzhJS3YxcHNRWFRpVHA5UjFFTnBYSF9mUERUa3ppMEJ1VnIzZm5VdUNGd2RxbG5PMDJ3bEFWckRSU043Z0ZralRtZ0xuaHl4czBzSzMzd0JyYjR2T0VrR0V0YnBSU3NNMFhwcXc?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-06-18",
           "views": "13.0K"
         },
         {
-          "title": "The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy - WIRED",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9UakFteUtwcXlpVWVLMjE0MlZnYnhSTkFJeG15VXd3SjRuM0FRVUVUSkkwUmZhb2pCTUlVOTNGQ2VXem9LR1hMY21qbTlRNUNFejc5X2d1MTg0cF81dF9TeWhyNE5WMVhyRkxBU0lMZjV0RmtDWlRRa2p0UGY?oc=5\" target=\"_blank\">The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9UakFteUtwcXlpVWVLMjE0MlZnYnhSTkFJeG15VXd3SjRuM0FRVUVUSkkwUmZhb2pCTUlVOTNGQ2VXem9LR1hMY21qbTlRNUNFejc5X2d1MTg0cF81dF9TeWhyNE5WMVhyRkxBU0lMZjV0RmtDWlRRa2p0UGY?oc=5",
-          "source": "WIRED AI",
-          "publishedAt": "2026-06-17",
+          "title": "Senate committee supports S. Korea-US cooperation on sub manufacturing in report - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQQmthc3ZwUVFsMmQ2aFRRNGFSdVlRTXZnYW9MaDNMNl9nd3B4Y2xFbEs3dFpDTXUtSkZkbTdoaGp2alFKRV9rY1JlYVl2NDFzN25NSUtsN3Y1QWVjR2drNnBoU3RWQkNtdUVIVndXZFU1Ym5RdXluMGU4ZHhDaUZOSjBEdDNQOExncVFuRk1ZdmxRWXM1QzNmTFlNdjFZbjR0RVhWcWdPUmJydHREbGVWa2l0ckFoRFV5SlRVSm4tT3I3ZVAzWnJZQ21rUzHSAdIBQVVfeXFMTS04bG1McFYzajVuWXlZekp1STZhN29RM3NCTTI4Qmh1QXdJdS0xd1c0bzI0Y2N1VmUzUUs0N2hfb2FxMHZZLUJhWVVtVmZKaHJMd1dMQXVpaXZXYzZXWWRpNkVERk5YT3NZNlZLN0xBWUdMdTBTRi00QWliNERTNUx2UF9oQlJEanJoc2lHSHQ0TnNIbHdQaGxOUHl3eEZmeW51TXREdXppSmNYWFZZODZWTmRiSWxwdmpzZjJlbm12WUJwM09TNnFCYnhEQ1dzVUR3?oc=5\" target=\"_blank\">Senate committee supports S. Korea-US cooperation on sub manufacturing in report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQmthc3ZwUVFsMmQ2aFRRNGFSdVlRTXZnYW9MaDNMNl9nd3B4Y2xFbEs3dFpDTXUtSkZkbTdoaGp2alFKRV9rY1JlYVl2NDFzN25NSUtsN3Y1QWVjR2drNnBoU3RWQkNtdUVIVndXZFU1Ym5RdXluMGU4ZHhDaUZOSjBEdDNQOExncVFuRk1ZdmxRWXM1QzNmTFlNdjFZbjR0RVhWcWdPUmJydHREbGVWa2l0ckFoRFV5SlRVSm4tT3I3ZVAzWnJZQ21rUzHSAdIBQVVfeXFMTS04bG1McFYzajVuWXlZekp1STZhN29RM3NCTTI4Qmh1QXdJdS0xd1c0bzI0Y2N1VmUzUUs0N2hfb2FxMHZZLUJhWVVtVmZKaHJMd1dMQXVpaXZXYzZXWWRpNkVERk5YT3NZNlZLN0xBWUdMdTBTRi00QWliNERTNUx2UF9oQlJEanJoc2lHSHQ0TnNIbHdQaGxOUHl3eEZmeW51TXREdXppSmNYWFZZODZWTmRiSWxwdmpzZjJlbm12WUJwM09TNnFCYnhEQ1dzVUR3?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-06-18",
           "views": "13.0K"
         }
       ]
