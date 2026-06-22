@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T05:16:44.321Z",
+  "lastUpdated": "2026-06-22T05:28:35.386Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -57,8 +57,8 @@
           "views": "18.0K"
         },
         {
-          "title": "Z.ai’s open-weights GLM-5.2 beats GPT-5.5 on multiple long-horizon coding benchmarks for 1/6th the cost - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWdHTVgtOTZYbHBKN1licHR2ajVhSnRJaVdoVWdRSW82SU5SVnJYNnhFYXlIRDlISDZJNm9xMUprb0JfekZpTUZSVENCay1vVDBkeTlhaEcwZU41Z2JSQUYtWHBHbVJBX2FmYlp0RDYwY3ZUU2EtaVM3eFk4anVBdXItNy1jczI2Z1kxSDFobnFtWTF6U2lxMEpaa1JXZWRkUFhORmtrNFV1TldvMmxFNUM3cjRMN2tDMkpmc3FxMG9QUnI4X3U0ZnQ5SFdGZHJyczRF?oc=5\" target=\"_blank\">Z.ai’s open-weights GLM-5.2 beats GPT-5.5 on multiple long-horizon coding benchmarks for 1/6th the cost</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "title": "Z.ai’s open-weights GLM-5.2 beats GPT-5.5 on multiple long-horizon coding benchmarks for 1/6th the cost - Venturebeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWdHTVgtOTZYbHBKN1licHR2ajVhSnRJaVdoVWdRSW82SU5SVnJYNnhFYXlIRDlISDZJNm9xMUprb0JfekZpTUZSVENCay1vVDBkeTlhaEcwZU41Z2JSQUYtWHBHbVJBX2FmYlp0RDYwY3ZUU2EtaVM3eFk4anVBdXItNy1jczI2Z1kxSDFobnFtWTF6U2lxMEpaa1JXZWRkUFhORmtrNFV1TldvMmxFNUM3cjRMN2tDMkpmc3FxMG9QUnI4X3U0ZnQ5SFdGZHJyczRF?oc=5\" target=\"_blank\">Z.ai’s open-weights GLM-5.2 beats GPT-5.5 on multiple long-horizon coding benchmarks for 1/6th the cost</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Venturebeat</font>",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOWdHTVgtOTZYbHBKN1licHR2ajVhSnRJaVdoVWdRSW82SU5SVnJYNnhFYXlIRDlISDZJNm9xMUprb0JfekZpTUZSVENCay1vVDBkeTlhaEcwZU41Z2JSQUYtWHBHbVJBX2FmYlp0RDYwY3ZUU2EtaVM3eFk4anVBdXItNy1jczI2Z1kxSDFobnFtWTF6U2lxMEpaa1JXZWRkUFhORmtrNFV1TldvMmxFNUM3cjRMN2tDMkpmc3FxMG9QUnI4X3U0ZnQ5SFdGZHJyczRF?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-06-16",
@@ -80,24 +80,24 @@
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
         {
-          "title": "Adobe embeds agentic AI workflows across Creative Cloud, shifting from media generation to production orchestration - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZjFrSVhtU3p2OFp6Z3V4dTY1SWxPQ3lnQXZEcXFnY3JKQ2J3MlNlWUtHLXNRMF9BYmdJclEyLXY0UXltTTFFNlhoeEJKV044SDNPVlVfeGd4dDBTR2xtREVrV0FHTWlQX1ZDU1lERUZ3MUNXd19DUFF5MGNDbDFWMURqVUtXQ1RPbzUtOEhVOTlmRXhCb21nbDNoczMyQ2M5LVkzNnctLXlCWGt4em90WEkzOXVPZTNHTnNQcjRJbWNPd3RoMjJDdlRtRm1fZHg3cmh3UXJBV2ppeDdOWXhENGc0ZTdKOFE?oc=5\" target=\"_blank\">Adobe embeds agentic AI workflows across Creative Cloud, shifting from media generation to production orchestration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "title": "Adobe embeds agentic AI workflows across Creative Cloud, shifting from media generation to production orchestration - Venturebeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZjFrSVhtU3p2OFp6Z3V4dTY1SWxPQ3lnQXZEcXFnY3JKQ2J3MlNlWUtHLXNRMF9BYmdJclEyLXY0UXltTTFFNlhoeEJKV044SDNPVlVfeGd4dDBTR2xtREVrV0FHTWlQX1ZDU1lERUZ3MUNXd19DUFF5MGNDbDFWMURqVUtXQ1RPbzUtOEhVOTlmRXhCb21nbDNoczMyQ2M5LVkzNnctLXlCWGt4em90WEkzOXVPZTNHTnNQcjRJbWNPd3RoMjJDdlRtRm1fZHg3cmh3UXJBV2ppeDdOWXhENGc0ZTdKOFE?oc=5\" target=\"_blank\">Adobe embeds agentic AI workflows across Creative Cloud, shifting from media generation to production orchestration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Venturebeat</font>",
           "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZjFrSVhtU3p2OFp6Z3V4dTY1SWxPQ3lnQXZEcXFnY3JKQ2J3MlNlWUtHLXNRMF9BYmdJclEyLXY0UXltTTFFNlhoeEJKV044SDNPVlVfeGd4dDBTR2xtREVrV0FHTWlQX1ZDU1lERUZ3MUNXd19DUFF5MGNDbDFWMURqVUtXQ1RPbzUtOEhVOTlmRXhCb21nbDNoczMyQ2M5LVkzNnctLXlCWGt4em90WEkzOXVPZTNHTnNQcjRJbWNPd3RoMjJDdlRtRm1fZHg3cmh3UXJBV2ppeDdOWXhENGc0ZTdKOFE?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-06-18",
           "views": "18.0K"
         },
         {
-          "title": "Former Cisco AI Defense Builders Launch Tenet Security, Raise $6 Million to Prevent Attacks on Enterprise AI Agents - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdFVacU8xVmQ1N1JWY1YxNDRkT1RTMkRjbFFPcDlydkVna01FMGZaNTF2aDlqQ1IxZXBZMnVUbFBFbnAwYWNJdDdOekV4UmU5VFpQUnp2ZjlqQlZDU2JXbnFQQ0FOMk5ObWplQ01hYlZiX05Ia3h5cXlZdnlqdEtpYXgzMXdxcExNazR4dkh2Z3J0aENRQ0s1cmNQNHpPaW41cFdNY25HdUJvNG0yZ0VZelNGS3FRbFc4S2g1aUh1dFB0Vklqc1RKLWZ4dlNoRE9RQ0VUNFdBMGNYbWxJcWxz?oc=5\" target=\"_blank\">Former Cisco AI Defense Builders Launch Tenet Security, Raise $6 Million to Prevent Attacks on Enterprise AI Agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "title": "Former Cisco AI Defense Builders Launch Tenet Security, Raise $6 Million to Prevent Attacks on Enterprise AI Agents - Venturebeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdFVacU8xVmQ1N1JWY1YxNDRkT1RTMkRjbFFPcDlydkVna01FMGZaNTF2aDlqQ1IxZXBZMnVUbFBFbnAwYWNJdDdOekV4UmU5VFpQUnp2ZjlqQlZDU2JXbnFQQ0FOMk5ObWplQ01hYlZiX05Ia3h5cXlZdnlqdEtpYXgzMXdxcExNazR4dkh2Z3J0aENRQ0s1cmNQNHpPaW41cFdNY25HdUJvNG0yZ0VZelNGS3FRbFc4S2g1aUh1dFB0Vklqc1RKLWZ4dlNoRE9RQ0VUNFdBMGNYbWxJcWxz?oc=5\" target=\"_blank\">Former Cisco AI Defense Builders Launch Tenet Security, Raise $6 Million to Prevent Attacks on Enterprise AI Agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Venturebeat</font>",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdFVacU8xVmQ1N1JWY1YxNDRkT1RTMkRjbFFPcDlydkVna01FMGZaNTF2aDlqQ1IxZXBZMnVUbFBFbnAwYWNJdDdOekV4UmU5VFpQUnp2ZjlqQlZDU2JXbnFQQ0FOMk5ObWplQ01hYlZiX05Ia3h5cXlZdnlqdEtpYXgzMXdxcExNazR4dkh2Z3J0aENRQ0s1cmNQNHpPaW41cFdNY25HdUJvNG0yZ0VZelNGS3FRbFc4S2g1aUh1dFB0Vklqc1RKLWZ4dlNoRE9RQ0VUNFdBMGNYbWxJcWxz?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-06-17",
           "views": "18.0K"
         },
         {
-          "title": "Hypernetworks and AI agent autonomy explained - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQRkZOdnQ0Tk1SN1h6RExWMENqZThBa3ZyZmdCZmFpTFpvRzU0TUhnZUV1aUhibW5SdWp6T1Zic0VTenFzQzdwTWtlUE9LWGNKaGdEdmZ6SW1oZzFuTjQ3SlI2cnRQTXh1TlRna2p1bXZhWlRQWGVxdTdPQUJsaDFjZzNVVHRWb2pBQ2psaHZGWVFxdlFCWnJDRWl1a3VndzRESlh0ZTdsSnc5Wmc3Q25jekk5MnotYXlEbktGVVFoSnZTNXI5eEFSSUhqdTc?oc=5\" target=\"_blank\">Hypernetworks and AI agent autonomy explained</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "title": "Hypernetworks and AI agent autonomy explained - Venturebeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQRkZOdnQ0Tk1SN1h6RExWMENqZThBa3ZyZmdCZmFpTFpvRzU0TUhnZUV1aUhibW5SdWp6T1Zic0VTenFzQzdwTWtlUE9LWGNKaGdEdmZ6SW1oZzFuTjQ3SlI2cnRQTXh1TlRna2p1bXZhWlRQWGVxdTdPQUJsaDFjZzNVVHRWb2pBQ2psaHZGWVFxdlFCWnJDRWl1a3VndzRESlh0ZTdsSnc5Wmc3Q25jekk5MnotYXlEbktGVVFoSnZTNXI5eEFSSUhqdTc?oc=5\" target=\"_blank\">Hypernetworks and AI agent autonomy explained</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Venturebeat</font>",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRkZOdnQ0Tk1SN1h6RExWMENqZThBa3ZyZmdCZmFpTFpvRzU0TUhnZUV1aUhibW5SdWp6T1Zic0VTenFzQzdwTWtlUE9LWGNKaGdEdmZ6SW1oZzFuTjQ3SlI2cnRQTXh1TlRna2p1bXZhWlRQWGVxdTdPQUJsaDFjZzNVVHRWb2pBQ2psaHZGWVFxdlFCWnJDRWl1a3VndzRESlh0ZTdsSnc5Wmc3Q25jekk5MnotYXlEbktGVVFoSnZTNXI5eEFSSUhqdTc?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-06-19",
@@ -150,19 +150,19 @@
           "views": "18.0K"
         },
         {
-          "title": "Court to deliver ruling on ex-first lady on jobs-for-gifts bribery charges - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNX2RPM1oxRXhjeWdLX00tSVBERFM2bm1uYjBocGVVWUdnT3lwVkpqZC1uTEVBY1lTLWVUTzdlWjFTc01jcE9sT29aV2ZlVkQ2c2ZhUWN6TDc0ME8ybG1ZRkd6Ti1fUldpOFFQdGIwSmxXcFpkcGhPY3MyLXh6WlB3amRYSXRBQmo5RXd6MmxoU3l6QTZ4YzlNckgzZ2JQWHFsRTVUX0hLdjNuMTNpT3lHbWtMb0UySi1kbFJ3Q2hxY2F1NjlxR3p1SG82N21mUdIB0wFBVV95cUxNVWpuRDZfU00wTm96SUwwMUJBT2RMZ2tFTTA3Ql9jYzVlNWJWUGtmTzBQbllBbWotd1EyX3hod21raXI1Z1Q1dWN3cEdhMXlSYjA1X25oNmZUdGw3c1BiTzRSSU45S3dYV1hqNHlVMGxDSXlsckhfSkMtREZfeF9oSUl6TW1RaUxhU2E2QkF1amFHZHFIZkpRUmJHMndfMHl6b2Mwb3JpVUt6QXBHalVaQThZSGtPZHlaZlBuMjNObV9QZzRITi1CZWxQRmdnbFJ1NzBF?oc=5\" target=\"_blank\">Court to deliver ruling on ex-first lady on jobs-for-gifts bribery charges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX2RPM1oxRXhjeWdLX00tSVBERFM2bm1uYjBocGVVWUdnT3lwVkpqZC1uTEVBY1lTLWVUTzdlWjFTc01jcE9sT29aV2ZlVkQ2c2ZhUWN6TDc0ME8ybG1ZRkd6Ti1fUldpOFFQdGIwSmxXcFpkcGhPY3MyLXh6WlB3amRYSXRBQmo5RXd6MmxoU3l6QTZ4YzlNckgzZ2JQWHFsRTVUX0hLdjNuMTNpT3lHbWtMb0UySi1kbFJ3Q2hxY2F1NjlxR3p1SG82N21mUdIB0wFBVV95cUxNVWpuRDZfU00wTm96SUwwMUJBT2RMZ2tFTTA3Ql9jYzVlNWJWUGtmTzBQbllBbWotd1EyX3hod21raXI1Z1Q1dWN3cEdhMXlSYjA1X25oNmZUdGw3c1BiTzRSSU45S3dYV1hqNHlVMGxDSXlsckhfSkMtREZfeF9oSUl6TW1RaUxhU2E2QkF1amFHZHFIZkpRUmJHMndfMHl6b2Mwb3JpVUt6QXBHalVaQThZSGtPZHlaZlBuMjNObV9QZzRITi1CZWxQRmdnbFJ1NzBF?oc=5",
+          "title": "SK hynix beats Samsung Electronics in market cap - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMXFrZFR0anBVTVgwYTFVOC1wYU93Z1B2UnpMelpQeHB5R3lxOFNrNmo5VW8xYV9Ib1N0Zk1ISWVMUHVtT2JKa24xOUZVTFRsTGQzMVBGcjB0Rk1LcmltaVVpUkk2b0RqWEdFb0RUM0hKUnpyZHhGRFBVQVpzaEk1c05HdGgtQkIyMU1mbFBIa0Z4NzgxZHpCMGxwMDduVXJpUWZ5ZEUtWmbSAa4BQVVfeXFMT3M0ZlVteVI3ZUVESGtuUE01UnVnckY4M1EtS1VEOHlEcFphQXU1WGF0aGFPZ2RiUEtCcjQzcGhWVlNlbVdKNlo2N1E1MFFwSTBnRFF5Rk5IWWwySlJydDJQVEF1X2pWUXVFMW51ZkFINUdlNk1yOXlkTnZPWFF2czc5cXdWWnR4VFdMMUxwM0dOTmJfR2NqXzJ5UG1xN3hPc2lKS1hSUEh6SkFMbXlR?oc=5\" target=\"_blank\">SK hynix beats Samsung Electronics in market cap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMXFrZFR0anBVTVgwYTFVOC1wYU93Z1B2UnpMelpQeHB5R3lxOFNrNmo5VW8xYV9Ib1N0Zk1ISWVMUHVtT2JKa24xOUZVTFRsTGQzMVBGcjB0Rk1LcmltaVVpUkk2b0RqWEdFb0RUM0hKUnpyZHhGRFBVQVpzaEk1c05HdGgtQkIyMU1mbFBIa0Z4NzgxZHpCMGxwMDduVXJpUWZ5ZEUtWmbSAa4BQVVfeXFMT3M0ZlVteVI3ZUVESGtuUE01UnVnckY4M1EtS1VEOHlEcFphQXU1WGF0aGFPZ2RiUEtCcjQzcGhWVlNlbVdKNlo2N1E1MFFwSTBnRFF5Rk5IWWwySlJydDJQVEF1X2pWUXVFMW51ZkFINUdlNk1yOXlkTnZPWFF2czc5cXdWWnR4VFdMMUxwM0dOTmJfR2NqXzJ5UG1xN3hPc2lKS1hSUEh6SkFMbXlR?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-06-21",
+          "publishedAt": "2026-06-22",
           "views": "13.0K"
         },
         {
-          "title": "Japan to target $2.3 trillion public-private investment by 2040, Nikkei reports - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQNXNOMlQ2SVhyWFVQS1o0NnBQbFhDQ1lJQVBhM0ZLOVVjakNYVzhrVkxKaUdFdEl4UnFhaXM0QUtpdjRQNlE3T1FiSzQ4WG05M0VmdmxLY2RtRjdwbE9NU3pBWUFtLWJkNno4aWp6U1BVTHpfa1JJWGJuV3RSTzZfbU5WOTYycG13U2c1d0FJOXpIWE9lMUhSSDNpZDd2VVVINFNQTVEzR00zQnZjTE9XQm5aSk1pb2hWMWVmM1pKNFV6RDM4bnNr?oc=5\" target=\"_blank\">Japan to target $2.3 trillion public-private investment by 2040, Nikkei reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNXNOMlQ2SVhyWFVQS1o0NnBQbFhDQ1lJQVBhM0ZLOVVjakNYVzhrVkxKaUdFdEl4UnFhaXM0QUtpdjRQNlE3T1FiSzQ4WG05M0VmdmxLY2RtRjdwbE9NU3pBWUFtLWJkNno4aWp6U1BVTHpfa1JJWGJuV3RSTzZfbU5WOTYycG13U2c1d0FJOXpIWE9lMUhSSDNpZDd2VVVINFNQTVEzR00zQnZjTE9XQm5aSk1pb2hWMWVmM1pKNFV6RDM4bnNr?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-06-20",
+          "title": "PM nominee apologizes for information leak from 'Startup for All' website - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQVEstZk1HaUhqLWczVVpjY1dscWRMZElDWTFaWU9tVHlVcm5LUzZnTTFWSTdkMUo4NEdMTFF4MWZmYmpHWll3UDdtbXFfWU9qdWEtSUNsTmR6QXhBSGVILXhnUzZmd25jS3dJbldwOVVUWHVCaHdlbnZxUUp6U3p1WUw2YmxPWUlUUHJ0b0EwdEZKZjk5NzZJZzRNSEVQVWhNcEFLZHd6VTQ4RXlJOUdRNkhySGU3WFNjN2ladkM4VHlkUk01UFpPOXFlbE1ZZ9IBzgFBVV95cUxQVEstZk1HaUhqLWczVVpjY1dscWRMZElDWTFaWU9tVHlVcm5LUzZnTTFWSTdkMUo4NEdMTFF4MWZmYmpHWll3UDdtbXFfWU9qdWEtSUNsTmR6QXhBSGVILXhnUzZmd25jS3dJbldwOVVUWHVCaHdlbnZxUUp6U3p1WUw2YmxPWUlUUHJ0b0EwdEZKZjk5NzZJZzRNSEVQVWhNcEFLZHd6VTQ4RXlJOUdRNkhySGU3WFNjN2ladkM4VHlkUk01UFpPOXFlbE1ZZw?oc=5\" target=\"_blank\">PM nominee apologizes for information leak from 'Startup for All' website</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVEstZk1HaUhqLWczVVpjY1dscWRMZElDWTFaWU9tVHlVcm5LUzZnTTFWSTdkMUo4NEdMTFF4MWZmYmpHWll3UDdtbXFfWU9qdWEtSUNsTmR6QXhBSGVILXhnUzZmd25jS3dJbldwOVVUWHVCaHdlbnZxUUp6U3p1WUw2YmxPWUlUUHJ0b0EwdEZKZjk5NzZJZzRNSEVQVWhNcEFLZHd6VTQ4RXlJOUdRNkhySGU3WFNjN2ladkM4VHlkUk01UFpPOXFlbE1ZZ9IBzgFBVV95cUxQVEstZk1HaUhqLWczVVpjY1dscWRMZElDWTFaWU9tVHlVcm5LUzZnTTFWSTdkMUo4NEdMTFF4MWZmYmpHWll3UDdtbXFfWU9qdWEtSUNsTmR6QXhBSGVILXhnUzZmd25jS3dJbldwOVVUWHVCaHdlbnZxUUp6U3p1WUw2YmxPWUlUUHJ0b0EwdEZKZjk5NzZJZzRNSEVQVWhNcEFLZHd6VTQ4RXlJOUdRNkhySGU3WFNjN2ladkM4VHlkUk01UFpPOXFlbE1ZZw?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-06-22",
           "views": "13.0K"
         }
       ]
@@ -181,18 +181,18 @@
           "views": "13.0K"
         },
         {
+          "title": "After the fracture: how Britain's financial industry recovered from Brexit - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOd1BaajhUTG9XRFg4UVRBS1N5WG1fWlpRUVhkTFc5ZklwZlVJWkFrVjBmYTJvMDNjdW1MX1NCSGpfOEtKQ3N1clo0SnRjV3dVNWdabzl3OTM1RjEwalRBdmk3V28tTU9ndHVlVDRiWmtHTjhiZXpDeXdHakdXZUE0TWNIVlFIRGR2c1dqekVnanh5MjFVN3dwdzl3UFdDRDJkTlM1S1pYM01WbW9aY2JyZVNhd2VuZTlxM2ltVl9Vaw?oc=5\" target=\"_blank\">After the fracture: how Britain's financial industry recovered from Brexit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd1BaajhUTG9XRFg4UVRBS1N5WG1fWlpRUVhkTFc5ZklwZlVJWkFrVjBmYTJvMDNjdW1MX1NCSGpfOEtKQ3N1clo0SnRjV3dVNWdabzl3OTM1RjEwalRBdmk3V28tTU9ndHVlVDRiWmtHTjhiZXpDeXdHakdXZUE0TWNIVlFIRGR2c1dqekVnanh5MjFVN3dwdzl3UFdDRDJkTlM1S1pYM01WbW9aY2JyZVNhd2VuZTlxM2ltVl9Vaw?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-06-21",
+          "views": "13.0K"
+        },
+        {
           "title": "Korea's new tourism strategy: pop-ups, tailored tickets - The Korea Times",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEhMR2JMYTdPVnBTYmlkVnU2dEtVN1RGbVJSRTVHWTdRUEs5dF9xc0hzcHdLYjhwVEhmTExVcGYzVnZrSmttbmJwRWo5MGRNd0pMUlR1ZmstOUIwSklBMWZqRGk1WUp1RnZ6Y3cwQllITE44c0hLc0RiekVwODFhaUEtVGV3WUtUOUpGcmJTTEtVSWFaVWhUakZkMFVqa18wZ1E0MWxMdkVtcmxvRGZXaXVPdEXSAboBQVVfeXFMT0pieFZhWnlaVURyNE94NzdFdjdjaGVpQmxibFZQdlZJc0VmVWk2ZG1zWGNySUx0c0twYkdpMW1JQl9GOXRUenlBQWpwQl9UQk81ZXYxOXk0R3gzcmpubUVlNXRKakZ6OFBiMHppQWdDa2UzeUpKYlQwNkZVdzFrQ19nVEkyOGxGOHZWblZNNkFrdjhDZm4tZXYzR1lkaHpKTmMzWEtCeVhmN05qTk9OQUlzZEgzd09DdzN3?oc=5\" target=\"_blank\">Korea's new tourism strategy: pop-ups, tailored tickets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEhMR2JMYTdPVnBTYmlkVnU2dEtVN1RGbVJSRTVHWTdRUEs5dF9xc0hzcHdLYjhwVEhmTExVcGYzVnZrSmttbmJwRWo5MGRNd0pMUlR1ZmstOUIwSklBMWZqRGk1WUp1RnZ6Y3cwQllITE44c0hLc0RiekVwODFhaUEtVGV3WUtUOUpGcmJTTEtVSWFaVWhUakZkMFVqa18wZ1E0MWxMdkVtcmxvRGZXaXVPdEXSAboBQVVfeXFMT0pieFZhWnlaVURyNE94NzdFdjdjaGVpQmxibFZQdlZJc0VmVWk2ZG1zWGNySUx0c0twYkdpMW1JQl9GOXRUenlBQWpwQl9UQk81ZXYxOXk0R3gzcmpubUVlNXRKakZ6OFBiMHppQWdDa2UzeUpKYlQwNkZVdzFrQ19nVEkyOGxGOHZWblZNNkFrdjhDZm4tZXYzR1lkaHpKTmMzWEtCeVhmN05qTk9OQUlzZEgzd09DdzN3?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-06-19",
-          "views": "13.0K"
-        },
-        {
-          "title": "Steel industry sounds alarm over slow progress on green steel - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOOWlOMFc2UGNETnZBV0hKS1Jod0tYZkh6M04zWlFaeVlGa2hGWTdTY21qLWViREI0blpFdzVLeXZHWmIxRU5ZU2xCUDVrd0VtY1MwbDlqS21wUEVmNXZTa2tEQnljXzFERDR2Zi1EancyZXdEOWh2ZzBsS1JrZUFCcHMwQ0U4WHlUOXUzdWNldFdsZGNEaThTeEdZRjd2bTJtYmlMQzFwd1M2ZURlTHlhQTB0WFMzdw?oc=5\" target=\"_blank\">Steel industry sounds alarm over slow progress on green steel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOWlOMFc2UGNETnZBV0hKS1Jod0tYZkh6M04zWlFaeVlGa2hGWTdTY21qLWViREI0blpFdzVLeXZHWmIxRU5ZU2xCUDVrd0VtY1MwbDlqS21wUEVmNXZTa2tEQnljXzFERDR2Zi1EancyZXdEOWh2ZzBsS1JrZUFCcHMwQ0U4WHlUOXUzdWNldFdsZGNEaThTeEdZRjd2bTJtYmlMQzFwd1M2ZURlTHlhQTB0WFMzdw?oc=5",
-          "source": "Reuters AI",
           "publishedAt": "2026-06-19",
           "views": "13.0K"
         }
