@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T04:18:54.926Z",
+  "lastUpdated": "2026-06-24T04:33:29.778Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,27 +49,27 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
+          "title": "The $400 million machine powering the future of chipmaking - MIT Technology Review",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQZzd4RUhyXzRNSGJDRW1vYnZDY25GZ2xxSWRfMEpFSDVEWHVZQVVzU3BPeXllZUN3d09LeWEwdFR6T2E5SkEwQjVNUlN2ODloVW1qNmRDXzA0LUt0d210UHZlV3ZaajlUNEYyakFBRTBmVnl0c29UeTVZMEpTcUdoZkFncGY4ZWRpaUlISHBrd1dkbkZVbUphSlJNUlNhSlpHTHhCQ1Fhc0Y5cElQcU9ENEpvOWHSAboBQVVfeXFMT1o2QjVJd0dKT2wyb2liNTdKUFJTOUhJdnlRQWpYUktpLTJBRzNyYTh4RHpUTno0QjY0Wm9RZWcyVG5yT0JHaFIxbGRISGxzOU1LT2N4Y2ZJaWNUVllMWkFLbzFwbGpUREpPVDR0X0lqdFBSaTQ5VDIxQWN3dlZGb2xNbGpES2tlQ3RySFJIck9vU3JMbWtuRmhvaGlxcVVHUHcteDNqYlllY19SUDI3ckh2Z3hlVUtidU53?oc=5\" target=\"_blank\">The $400 million machine powering the future of chipmaking</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MIT Technology Review</font>",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZzd4RUhyXzRNSGJDRW1vYnZDY25GZ2xxSWRfMEpFSDVEWHVZQVVzU3BPeXllZUN3d09LeWEwdFR6T2E5SkEwQjVNUlN2ODloVW1qNmRDXzA0LUt0d210UHZlV3ZaajlUNEYyakFBRTBmVnl0c29UeTVZMEpTcUdoZkFncGY4ZWRpaUlISHBrd1dkbkZVbUphSlJNUlNhSlpHTHhCQ1Fhc0Y5cElQcU9ENEpvOWHSAboBQVVfeXFMT1o2QjVJd0dKT2wyb2liNTdKUFJTOUhJdnlRQWpYUktpLTJBRzNyYTh4RHpUTno0QjY0Wm9RZWcyVG5yT0JHaFIxbGRISGxzOU1LT2N4Y2ZJaWNUVllMWkFLbzFwbGpUREpPVDR0X0lqdFBSaTQ5VDIxQWN3dlZGb2xNbGpES2tlQ3RySFJIck9vU3JMbWtuRmhvaGlxcVVHUHcteDNqYlllY19SUDI3ckh2Z3hlVUtidU53?oc=5",
+          "source": "MIT Technology Review (AI)",
+          "publishedAt": "2026-06-23",
+          "views": "18.0K"
+        },
+        {
+          "title": "SK hynix overtakes Samsung in market value amid AI-driven chip boom - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPRkFLd1lZUUNKREItLVVPaEZ1QlRDRWpHRVJsdmlLM2wzM3R6bHZ4UVM1UXRBSW42RmhkY0FWcXJ3VmZZTEtEZzhXdXd3YTFwRjI2OUx4U3JadHRKaVBnXy14VEhDWERBV2NndjEyX1pwOWp0T0V5ZWVoMGxuVTljOTJzU1FPaDRjb0t0WWUxbmw1NzRKTkExaEJhMWRfQ2d1emhDY3E4N1FRV1FXMGdfeFdjclM0TmdDVE5rVdIBwgFBVV95cUxNSlU5RTMxNE5xcVZTVlZtUVRiQ3hrQmJFRnZaYWREZlZSczlnMTdGZV90WWM4Wjl3a09ycU9VaHJpenV0SjFkV001VWJ3ZEdqbE1tdTVGd1QyTzlfVGpBdDFuTnlCWjNGVF9yM3JPdHphWmd6TGQtVWgyaFplaFBpZEJqcTQ5V3lubUhuT1g3YXM5T1NJOS1IZDBtWUJELTZIU3UzREJWV1ZkS2dxbE9KN3I0NTlSbU5PMUJwR283OFlSUQ?oc=5\" target=\"_blank\">SK hynix overtakes Samsung in market value amid AI-driven chip boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRkFLd1lZUUNKREItLVVPaEZ1QlRDRWpHRVJsdmlLM2wzM3R6bHZ4UVM1UXRBSW42RmhkY0FWcXJ3VmZZTEtEZzhXdXd3YTFwRjI2OUx4U3JadHRKaVBnXy14VEhDWERBV2NndjEyX1pwOWp0T0V5ZWVoMGxuVTljOTJzU1FPaDRjb0t0WWUxbmw1NzRKTkExaEJhMWRfQ2d1emhDY3E4N1FRV1FXMGdfeFdjclM0TmdDVE5rVdIBwgFBVV95cUxNSlU5RTMxNE5xcVZTVlZtUVRiQ3hrQmJFRnZaYWREZlZSczlnMTdGZV90WWM4Wjl3a09ycU9VaHJpenV0SjFkV001VWJ3ZEdqbE1tdTVGd1QyTzlfVGpBdDFuTnlCWjNGVF9yM3JPdHphWmd6TGQtVWgyaFplaFBpZEJqcTQ5V3lubUhuT1g3YXM5T1NJOS1IZDBtWUJELTZIU3UzREJWV1ZkS2dxbE9KN3I0NTlSbU5PMUJwR283OFlSUQ?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-06-22",
+          "views": "18.0K"
+        },
+        {
           "title": "No Claude Fable 5? No problem: Sakana achieves frontier performance with new Fugu multi-model, auto synthesis system - VentureBeat",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNYnM2d3I2N3JWcG01bEN6Uk5mWGctd1ludnVRaXNveVJiZzdOdlJzQ1VxVHBxN09TRXlMRXhlSUJHVDJmVTA2UUQ2WklMM2cwODZJQzRkZ0dfaWJld2phODY4UW5XMU1feGFEZW9IanJtQUViN1lxY1I2WlUxcl9UOS1wV3NiUTZDdUhxZHpzS2d0bFJFcjZFS3RISWFJZFo3UWRUcGQ0a0JFbEVwZmVlOFY5TXVPS2JLQ3liYjZWekpXY0kxZVdVUEx6N29tTDVzVWVoRnNFVFNfWG14MVNBaU5hVWhjQQ?oc=5\" target=\"_blank\">No Claude Fable 5? No problem: Sakana achieves frontier performance with new Fugu multi-model, auto synthesis system</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNYnM2d3I2N3JWcG01bEN6Uk5mWGctd1ludnVRaXNveVJiZzdOdlJzQ1VxVHBxN09TRXlMRXhlSUJHVDJmVTA2UUQ2WklMM2cwODZJQzRkZ0dfaWJld2phODY4UW5XMU1feGFEZW9IanJtQUViN1lxY1I2WlUxcl9UOS1wV3NiUTZDdUhxZHpzS2d0bFJFcjZFS3RISWFJZFo3UWRUcGQ0a0JFbEVwZmVlOFY5TXVPS2JLQ3liYjZWekpXY0kxZVdVUEx6N29tTDVzVWVoRnNFVFNfWG14MVNBaU5hVWhjQQ?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-06-22",
-          "views": "18.0K"
-        },
-        {
-          "title": "Alibaba's AI video model rises to No. 2 in global rankings, as OpenAI's Sora and ByteDance's Seedance fall away - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxORTk1SDdEUUxaVXBCMmllV3poVUkzUk9LMXdyeXpERDRrUHRMZVllMHR5amM1U2VORndlSTlySlV3V1pkMUFkazJVX08wN1o4QmQ3b3Z4SUlJUTdORWxaNTg1M1lPelRHUHh2cEFsdmFXUGNtTXd2MVQxN0pVQWRGTm1uRHIyd2dmVzBkemo0MTJyWGJCVkdQRy01VmVJRVMxeDY5N3Utd3VKVWJCNWI3ZnUwNTF2ci01NVZwUlhJY2tEa1JMWXRxby1KR2wyV0wxWDdpdWJLZjE?oc=5\" target=\"_blank\">Alibaba's AI video model rises to No. 2 in global rankings, as OpenAI's Sora and ByteDance's Seedance fall away</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORTk1SDdEUUxaVXBCMmllV3poVUkzUk9LMXdyeXpERDRrUHRMZVllMHR5amM1U2VORndlSTlySlV3V1pkMUFkazJVX08wN1o4QmQ3b3Z4SUlJUTdORWxaNTg1M1lPelRHUHh2cEFsdmFXUGNtTXd2MVQxN0pVQWRGTm1uRHIyd2dmVzBkemo0MTJyWGJCVkdQRy01VmVJRVMxeDY5N3Utd3VKVWJCNWI3ZnUwNTF2ci01NVZwUlhJY2tEa1JMWXRxby1KR2wyV0wxWDdpdWJLZjE?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-06-22",
-          "views": "18.0K"
-        },
-        {
-          "title": "France's OVHcloud plans frontier AI models to become Europe's second LLM player - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSXVzUTFCWkxBeDRRWEItdmFYMGlQQ1BLcTlWRGM5THcxcFFULWQxaFVrOGhabzZqcGVqMWE3V3pwaU9SQzFzVGpJRE0xNm44NnpXcjhSaEFncUZKd2tEYkR6dW56bUR4SjVKaVBZd0Q4akxYdktlbThsOGgtTjBrZGdwRTJybnpMMDRZMVEtRXhIWHVOT21OcEFrM0lya0RmSG1EMWZlMTBIUlFCS2pNeEdWWXVDbllBb19uaTJrOUt1TlF2ajJTbg?oc=5\" target=\"_blank\">France's OVHcloud plans frontier AI models to become Europe's second LLM player</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSXVzUTFCWkxBeDRRWEItdmFYMGlQQ1BLcTlWRGM5THcxcFFULWQxaFVrOGhabzZqcGVqMWE3V3pwaU9SQzFzVGpJRE0xNm44NnpXcjhSaEFncUZKd2tEYkR6dW56bUR4SjVKaVBZd0Q4akxYdktlbThsOGgtTjBrZGdwRTJybnpMMDRZMVEtRXhIWHVOT21OcEFrM0lya0RmSG1EMWZlMTBIUlFCS2pNeEdWWXVDbllBb19uaTJrOUt1TlF2ajJTbg?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-06-17",
           "views": "18.0K"
         }
       ]
@@ -79,6 +79,14 @@
       "hashtag": "#활용사례",
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
+        {
+          "title": "Synthflow AI and AVANT Partner to Accelerate Enterprise Adoption of Agentic Voice AI - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMXNYMmpuTnUySFFSOUxmaW1TWjB1d1VyZ1J6ZFVVb1cxREFwQkJWY0RBYlVIaklEYV81aUhTeDZzcTVBUXkxT3d3VDhDQ25YVWxwVnM1Y2VHTGFCekIwY3E4TzFsUUh4M3ZFWDQtS1BFVGtwazMwSjBkSVBlWHQzNDRQeVYwQjZvSUxZMzA3VmU0MjkxS2xjc0J4YUwzYTBpNHI4OWh6UVFNZnlGNmVTWlJtNUk1VE4t?oc=5\" target=\"_blank\">Synthflow AI and AVANT Partner to Accelerate Enterprise Adoption of Agentic Voice AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMXNYMmpuTnUySFFSOUxmaW1TWjB1d1VyZ1J6ZFVVb1cxREFwQkJWY0RBYlVIaklEYV81aUhTeDZzcTVBUXkxT3d3VDhDQ25YVWxwVnM1Y2VHTGFCekIwY3E4TzFsUUh4M3ZFWDQtS1BFVGtwazMwSjBkSVBlWHQzNDRQeVYwQjZvSUxZMzA3VmU0MjkxS2xjc0J4YUwzYTBpNHI4OWh6UVFNZnlGNmVTWlJtNUk1VE4t?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-06-23",
+          "views": "23.0K"
+        },
         {
           "title": "Why agentic enterprises need to become learning systems - VentureBeat",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPeU1HcTBTVDB2STFGdjZZVnZaV1NZb2d2dmxyQzYzb2tabnppcHlEN21MV19rMWpUSDZjQUh0cGlPT29XVUdrRmZyQ0VqTElnNDJYWWRGUURDaFBFRmpKLTkyNk5DdlIzVVJzWnRjMWxyNERxNnlZaG82X1FPamZfUTJhSGl0RExWdlFoaWFhYWFUcVVtOUd1MA?oc=5\" target=\"_blank\">Why agentic enterprises need to become learning systems</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
@@ -94,14 +102,6 @@
           "source": "VentureBeat AI",
           "publishedAt": "2026-06-18",
           "views": "18.0K"
-        },
-        {
-          "title": "Former Cisco AI Defense Builders Launch Tenet Security, Raise $6 Million to Prevent Attacks on Enterprise AI Agents - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdFVacU8xVmQ1N1JWY1YxNDRkT1RTMkRjbFFPcDlydkVna01FMGZaNTF2aDlqQ1IxZXBZMnVUbFBFbnAwYWNJdDdOekV4UmU5VFpQUnp2ZjlqQlZDU2JXbnFQQ0FOMk5ObWplQ01hYlZiX05Ia3h5cXlZdnlqdEtpYXgzMXdxcExNazR4dkh2Z3J0aENRQ0s1cmNQNHpPaW41cFdNY25HdUJvNG0yZ0VZelNGS3FRbFc4S2g1aUh1dFB0Vklqc1RKLWZ4dlNoRE9RQ0VUNFdBMGNYbWxJcWxz?oc=5\" target=\"_blank\">Former Cisco AI Defense Builders Launch Tenet Security, Raise $6 Million to Prevent Attacks on Enterprise AI Agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdFVacU8xVmQ1N1JWY1YxNDRkT1RTMkRjbFFPcDlydkVna01FMGZaNTF2aDlqQ1IxZXBZMnVUbFBFbnAwYWNJdDdOekV4UmU5VFpQUnp2ZjlqQlZDU2JXbnFQQ0FOMk5ObWplQ01hYlZiX05Ia3h5cXlZdnlqdEtpYXgzMXdxcExNazR4dkh2Z3J0aENRQ0s1cmNQNHpPaW41cFdNY25HdUJvNG0yZ0VZelNGS3FRbFc4S2g1aUh1dFB0Vklqc1RKLWZ4dlNoRE9RQ0VUNFdBMGNYbWxJcWxz?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-06-17",
-          "views": "18.0K"
         }
       ]
     },
@@ -110,6 +110,14 @@
       "hashtag": "#윤리",
       "description": "규제, 책임, 신뢰, 저작권 같은 문제를 보는 관점",
       "items": [
+        {
+          "title": "US court dismisses Trump administration lawsuit over Los Angeles immigration policy - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNeHhPWG8yS1FIczNKejBLMXVGZ0VhLWk4aGJRSVUtcVpVWWFCYUJ2X0I4VWVaUnJPQVdMU1FSbDEycnZhcW01b1Q0TWRYQkdmMmw0dTZZeng5RWRnakNuWDN2UnNUT3RlaWRtZVdqNktick9ycmtjZ2RCdjdRdmtZNEpxZlFnOWd1TlRNTVV6bW9pUTFxbWc3WG4wVlFQVElMdGZRVHN5ZV9kQXpWai1FQ043WWJnMjdpQUE?oc=5\" target=\"_blank\">US court dismisses Trump administration lawsuit over Los Angeles immigration policy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeHhPWG8yS1FIczNKejBLMXVGZ0VhLWk4aGJRSVUtcVpVWWFCYUJ2X0I4VWVaUnJPQVdMU1FSbDEycnZhcW01b1Q0TWRYQkdmMmw0dTZZeng5RWRnakNuWDN2UnNUT3RlaWRtZVdqNktick9ycmtjZ2RCdjdRdmtZNEpxZlFnOWd1TlRNTVV6bW9pUTFxbWc3WG4wVlFQVElMdGZRVHN5ZV9kQXpWai1FQ043WWJnMjdpQUE?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-06-23",
+          "views": "18.0K"
+        },
         {
           "title": "University of Seoul-supported startup to develop AI-based road safety management model - The Korea Times",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcE1GSU1WSDdxcHU2SHN3THBXZy1Yeld4blpaY3NJY3padU9rbUJqNzVWVmVuVHJzNUV4Z0NGVGxxQU01aUNhODFYNFQzNGhpdloxd2tWTDUyd1VVUmdYUV83cG1vaFJjdnRDSHV2dG1zaEtCOHZFc2RPYXhuTHhPQ1ZaRmJpVENjZWlmSFBzN1ZzMkkwaUNVVk5CRWhYUVZqWmlkN1VGaG9zX2doVFpOU2ZVdG9RdXpXRzUyYWVfbnpJbUJxS1dCbFhGNEtrNzZKY3M1UVlIbTZTWEFNaUlN0gHfAUFVX3lxTE1wTUZJTVZIN3FwdTZIc3dMcFdnLVh6V3huWlpjc0ljelp1T2ttQmo3NVZWZW5UcnM1RXhnQ0ZUbHFBTTVpQ2E4MVg0VDM0aGl2WjF3a1ZMNTJ3VVVSZ1hRXzdwbW9oUmN2dENIdXZ0bXNoS0I4dkVzZE9heG5MeE9DVlpGYmlUQ2NlaWZIUHM3VnMySTBpQ1VWTkJFaFhRVmpaaWQ3VUZob3NfZ2hUWk5TZlV0b1F1eldHNTJhZV9uekltQnFLV0JsWEY0S2s3NkpjczVRWUhtNlNYQU1pSU0?oc=5\" target=\"_blank\">University of Seoul-supported startup to develop AI-based road safety management model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
@@ -122,14 +130,6 @@
           "title": "EU to propose diversification law to drive de-risking from China - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNbzV5cHo0TE51bDRhVDQyWlZSMGp5dUROcEZpYnJ5RkhSMmdQT0c3UWJnOFdlTGk3N2U4RkdTNFhXRjFMYjdKS2FEa0NsRU9PMnRjc2ZUZWVBVnZwakxyRTRxZWR6R0xSOGM1cFE1UGxqR2dVOFZfX0p5VVZfdnpBNnZmVHppMDRqYmNSX3FnN0JicG10REI2ekpfWHhfejNMdWNv?oc=5\" target=\"_blank\">EU to propose diversification law to drive de-risking from China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbzV5cHo0TE51bDRhVDQyWlZSMGp5dUROcEZpYnJ5RkhSMmdQT0c3UWJnOFdlTGk3N2U4RkdTNFhXRjFMYjdKS2FEa0NsRU9PMnRjc2ZUZWVBVnZwakxyRTRxZWR6R0xSOGM1cFE1UGxqR2dVOFZfX0p5VVZfdnpBNnZmVHppMDRqYmNSX3FnN0JicG10REI2ekpfWHhfejNMdWNv?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-06-19",
-          "views": "18.0K"
-        },
-        {
-          "title": "Russian central bank trims rate by 25 bps to 14.25% amid fuel supply, budget risks - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNOU4wd1ZfdHJtWEVYV2xkZXF2NEI5QWgweUZJQWJNOGZxaURRLWVYX2N5Z1FKZTR5ZlVwWXM3bnNEVlZLZ1I0UWFxQjdNV2VURWQzZ0JpNGxDSkxTbklFZ1JoWmgxWjRGMW1KMzN6NWFYR2ljdzFNZlZaWHIycFZCck9keWdvMjY5MU9PWE9NUFEwRGY5eGxZVHRrXzRkVWF3TzlUSDNBNlAwR2N5RV90Smo1OFYzeWlVSGJ1QkdB?oc=5\" target=\"_blank\">Russian central bank trims rate by 25 bps to 14.25% amid fuel supply, budget risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOU4wd1ZfdHJtWEVYV2xkZXF2NEI5QWgweUZJQWJNOGZxaURRLWVYX2N5Z1FKZTR5ZlVwWXM3bnNEVlZLZ1I0UWFxQjdNV2VURWQzZ0JpNGxDSkxTbklFZ1JoWmgxWjRGMW1KMzN6NWFYR2ljdzFNZlZaWHIycFZCck9keWdvMjY5MU9PWE9NUFEwRGY5eGxZVHRrXzRkVWF3TzlUSDNBNlAwR2N5RV90Smo1OFYzeWlVSGJ1QkdB?oc=5",
           "source": "Reuters AI",
           "publishedAt": "2026-06-19",
           "views": "18.0K"
@@ -146,22 +146,22 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNX09BaW04SEhINFFqNy1ZaWYzRFpsa0pvNWF3VUMtRVRVVTlKN2VvcHB6LW5Mb0hiTV8xVzY1Um0yNER1SGZTSTNzcXNwbWdhQjBZdHRjanRQTGRrMDhsT1ZWT0U4NFY1MkppTU5zZ05LTVlGdkoycHRfWnhhMVZ0OG94UW1GdEl1R3BrLXVqakx0a0tyRlcxMHBXSUQwYW5XYTdyNXhmb21XTDNEZG5ZRlRIWndZQQ?oc=5\" target=\"_blank\">Bangladesh's premier looks to China, Malaysia for investment, jobs in first trip</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNX09BaW04SEhINFFqNy1ZaWYzRFpsa0pvNWF3VUMtRVRVVTlKN2VvcHB6LW5Mb0hiTV8xVzY1Um0yNER1SGZTSTNzcXNwbWdhQjBZdHRjanRQTGRrMDhsT1ZWT0U4NFY1MkppTU5zZ05LTVlGdkoycHRfWnhhMVZ0OG94UW1GdEl1R3BrLXVqakx0a0tyRlcxMHBXSUQwYW5XYTdyNXhmb21XTDNEZG5ZRlRIWndZQQ?oc=5",
           "source": "Reuters AI",
-          "publishedAt": "2026-06-20",
+          "publishedAt": "2026-06-21",
           "views": "18.0K"
         },
         {
-          "title": "Police open preliminary probe into data leak from gov't website for startup program - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxObHVWMDhBenA0aHNGUlJYcEdEbUkwNk5OQUhELW5od0gyMmFWd0hHaG9sc2VhQXo1YjlhUFJNOWt2VUhGS1dNUnpnLWVaSzZyX3EySGtUanFWOHM1RkJ0WmZzMDNETFl5TGdjLVdlb1BsR3dyOWpha21PUDlaeVpJZDhoQmluSFh5RjZyeHV4YWFtYWpfd0UtSDBTTFJpZ1lqbWo5TUo0enNPN3ppcGVrcXRRUmRMRVJRMjZpN3VhRzQ0RTkxaURyNUUwZG95d1hi0gHQAUFVX3lxTE5sdVYwOEF6cDRoc0ZSUlhwR0RtSTA2Tk5BSEQtbmh3SDIyYVZ3SEdob2xzZWFBejViOWFQUk05a3ZVSEZLV01SemctZVpLNnJfcTJIa1RqcVY4czVGQnRaZnMwM0RMWXlMZ2MtV2VvUGxHd3I5amFrbU9QOVp5WklkOGhCaW5IWHlGNnJ4dXhhYW1hal93RS1IMFNMUmlnWWptajlNSjR6c083emlwZWtxdFFSZExFUlEyNmk3dWFHNDRFOTFpRHI1RTBkb3l3WGI?oc=5\" target=\"_blank\">Police open preliminary probe into data leak from gov't website for startup program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObHVWMDhBenA0aHNGUlJYcEdEbUkwNk5OQUhELW5od0gyMmFWd0hHaG9sc2VhQXo1YjlhUFJNOWt2VUhGS1dNUnpnLWVaSzZyX3EySGtUanFWOHM1RkJ0WmZzMDNETFl5TGdjLVdlb1BsR3dyOWpha21PUDlaeVpJZDhoQmluSFh5RjZyeHV4YWFtYWpfd0UtSDBTTFJpZ1lqbWo5TUo0enNPN3ppcGVrcXRRUmRMRVJRMjZpN3VhRzQ0RTkxaURyNUUwZG95d1hi0gHQAUFVX3lxTE5sdVYwOEF6cDRoc0ZSUlhwR0RtSTA2Tk5BSEQtbmh3SDIyYVZ3SEdob2xzZWFBejViOWFQUk05a3ZVSEZLV01SemctZVpLNnJfcTJIa1RqcVY4czVGQnRaZnMwM0RMWXlMZ2MtV2VvUGxHd3I5amFrbU9QOVp5WklkOGhCaW5IWHlGNnJ4dXhhYW1hal93RS1IMFNMUmlnWWptajlNSjR6c083emlwZWtxdFFSZExFUlEyNmk3dWFHNDRFOTFpRHI1RTBkb3l3WGI?oc=5",
+          "title": "Rising leveraged investments pose threats to financial stability: BOK - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNUFfcW84VDJXekp3YVpXVFRMbFNZMjU2SVl0bE1jam9UbVRJT3IyMmdHQ0tRRGUyR3NDMzM5bGFWZ01VejNNbWtkQ1JqdXYtZGVMdjBrVHRDdzNUWDdlVGRQLTJDRlplajFCQXpVSmlsU2pVR1VOMklERVVGRjVtSlNvUWg0VzdSd2dHSE12NmxORXNmcHlVQmcwZ1U1QTdjcnl2dEpscTB2d0l6VDFjaVRCT2VwNUhlVzk1RHBwYU5BM1Z6UHZremZKSlVENm1r0gHQAUFVX3lxTFA1QV9xbzhUMld6SndhWldUVExsU1kyNTZJWXRsTWNqb1RtVElPcjIyZ0dDS1FEZTJHc0MzMzlsYVZnTVV6M01ta2RDUmp1di1kZUx2MGtUdEN3M1RYN2VUZFAtMkNGWmVqMUJBelVKaWxTalVHVU4ySURFVUZGNW1KU29RaDRXN1J3Z0dITXY2bE5Fc2ZweVVCZzBnVTVBN2NyeXZ0SmxxMHZ3SXpUMWNpVEJPZXA1SGVXOTVEcHBhTkEzVnpQdmt6ZkpKVUQ2bWs?oc=5\" target=\"_blank\">Rising leveraged investments pose threats to financial stability: BOK</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNUFfcW84VDJXekp3YVpXVFRMbFNZMjU2SVl0bE1jam9UbVRJT3IyMmdHQ0tRRGUyR3NDMzM5bGFWZ01VejNNbWtkQ1JqdXYtZGVMdjBrVHRDdzNUWDdlVGRQLTJDRlplajFCQXpVSmlsU2pVR1VOMklERVVGRjVtSlNvUWg0VzdSd2dHSE12NmxORXNmcHlVQmcwZ1U1QTdjcnl2dEpscTB2d0l6VDFjaVRCT2VwNUhlVzk1RHBwYU5BM1Z6UHZremZKSlVENm1r0gHQAUFVX3lxTFA1QV9xbzhUMld6SndhWldUVExsU1kyNTZJWXRsTWNqb1RtVElPcjIyZ0dDS1FEZTJHc0MzMzlsYVZnTVV6M01ta2RDUmp1di1kZUx2MGtUdEN3M1RYN2VUZFAtMkNGWmVqMUJBelVKaWxTalVHVU4ySURFVUZGNW1KU29RaDRXN1J3Z0dITXY2bE5Fc2ZweVVCZzBnVTVBN2NyeXZ0SmxxMHZ3SXpUMWNpVEJPZXA1SGVXOTVEcHBhTkEzVnpQdmt6ZkpKVUQ2bWs?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-06-23",
+          "publishedAt": "2026-06-24",
           "views": "13.0K"
         },
         {
-          "title": "Asia shares slip as markets reprice Fed expectations, oil gains - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPRmhDU00zNnJxQ0g3SWFxOFJ0RVlnTl8tSHl2cS1sRS16eTJtVmxHOU15dkRqR2NKU3BRMUZtTEx1RjFzSVFwRzRWVFpQdnNBU1VwMDM5RFpBTU1HRzJiV2tFUXhvdGRSenhPcTVVVldGV2pDd0lEZms2UVMwUmE4RzJLYnhJYWloLVJUNA?oc=5\" target=\"_blank\">Asia shares slip as markets reprice Fed expectations, oil gains</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRmhDU00zNnJxQ0g3SWFxOFJ0RVlnTl8tSHl2cS1sRS16eTJtVmxHOU15dkRqR2NKU3BRMUZtTEx1RjFzSVFwRzRWVFpQdnNBU1VwMDM5RFpBTU1HRzJiV2tFUXhvdGRSenhPcTVVVldGV2pDd0lEZms2UVMwUmE4RzJLYnhJYWloLVJUNA?oc=5",
-          "source": "Reuters AI",
+          "title": "China Accelerates Humanoid Robot Standards for the Consumer Market - 전자신문",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE56OG1zNm9OMkJsUDFvVU9EeHVaaklFNm9XYk5KUVBkQ0dDNGVQWHU4c0dHbjJxUzR2ejJ6bTliYUo4cHdNN2RBMzZoUGo?oc=5\" target=\"_blank\">China Accelerates Humanoid Robot Standards for the Consumer Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전자신문</font>",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE56OG1zNm9OMkJsUDFvVU9EeHVaaklFNm9XYk5KUVBkQ0dDNGVQWHU4c0dHbjJxUzR2ejJ6bTliYUo4cHdNN2RBMzZoUGo?oc=5",
+          "source": "전자신문",
           "publishedAt": "2026-06-23",
           "views": "13.0K"
         }
@@ -173,27 +173,27 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
-          "title": "Industry minister says Korea's submarine bid remains competitive despite geopolitical hurdles - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcTZwTGJtREF5U0lGaHh4cDFqMm1pd0p5NVFHRktiUWJXVGZ3WjFFdEozc2hzTU1fLVdRSVBNVS04OFV6WDJwNE90bkIweUM0Q1NYZ1pucGRoQ3FmMUc1c0tlOW9sUkZGT0k2a0loQXF2M1NGSmNxWVdCR3h5UmZwQmNpcUdBQUo2dFZ4bkJtOGhncXpjaHJ6MUo3VWhKaUZSbnY3UW9CQ0VVMFRzRVpQQnZSR1RyUHlJQ3Zsa2xnM29GMUFoWGhoeXQwTFMtcWV6SWN1U3RtSUlUWU54dEprQWxCelNQem1p0gHoAUFVX3lxTE5xNnBMYm1EQXlTSUZoeHhwMWoybWl3Snk1UUdGS2JRYldUZndaMUV0SjNzaHNNTV8tV1FJUE1VLTg4VXpYMnA0T3RuQjB5QzRDU1hnWm5wZGhDcWYxRzVzS2U5b2xSRkZPSTZrSWhBcXYzU0ZKY3FZV0JHeHlSZnBCY2lxR0FBSjZ0VnhuQm04aGdxemNocnoxSjdVaEppRlJudjdRb0JDRVUwVHNFWlBCdlJHVHJQeUlDdmxrbGczb0YxQWhYaGh5dDBMUy1xZXpJY3VTdG1JSVRZTnh0SmtBbEJ6U1B6bWk?oc=5\" target=\"_blank\">Industry minister says Korea's submarine bid remains competitive despite geopolitical hurdles</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOcTZwTGJtREF5U0lGaHh4cDFqMm1pd0p5NVFHRktiUWJXVGZ3WjFFdEozc2hzTU1fLVdRSVBNVS04OFV6WDJwNE90bkIweUM0Q1NYZ1pucGRoQ3FmMUc1c0tlOW9sUkZGT0k2a0loQXF2M1NGSmNxWVdCR3h5UmZwQmNpcUdBQUo2dFZ4bkJtOGhncXpjaHJ6MUo3VWhKaUZSbnY3UW9CQ0VVMFRzRVpQQnZSR1RyUHlJQ3Zsa2xnM29GMUFoWGhoeXQwTFMtcWV6SWN1U3RtSUlUWU54dEprQWxCelNQem1p0gHoAUFVX3lxTE5xNnBMYm1EQXlTSUZoeHhwMWoybWl3Snk1UUdGS2JRYldUZndaMUV0SjNzaHNNTV8tV1FJUE1VLTg4VXpYMnA0T3RuQjB5QzRDU1hnWm5wZGhDcWYxRzVzS2U5b2xSRkZPSTZrSWhBcXYzU0ZKY3FZV0JHeHlSZnBCY2lxR0FBSjZ0VnhuQm04aGdxemNocnoxSjdVaEppRlJudjdRb0JDRVUwVHNFWlBCdlJHVHJQeUlDdmxrbGczb0YxQWhYaGh5dDBMUy1xZXpJY3VTdG1JSVRZTnh0SmtBbEJ6U1B6bWk?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-06-23",
-          "views": "13.0K"
-        },
-        {
-          "title": "Industry minister shows confidence in Korea's submarine bid despite geopolitical hurdles - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTDVDSzhfYmR1ZnBqeFZmYzQ5aTEzUTdONk5yWlhtYmFBcFVDNC1maVlYdElOdDlQSG9HTzRsNWJLdGl2bWxRaWVQdGt6RDVWTVhXVnNueWNUTzdlbks1LWxOYzAtUFBjRDJWa3NfaFBabThrMkpXcjM4TkZjR2J5X0ZmT3ZPeXBoNWtxaEJobEtLY2tCbFVQR2QzZ1FaZ1k2ZWUxd2FfTzZvc05SWVhESGJmZGliZGZKV2VweXVYMU5hYmZsTjBPTTNUc0liSXZRaWM3Wk1Eb0FDaU5N0gHiAUFVX3lxTE4xa2lleVpBYW41TVFaMHRJbkhVWUZTR2R2QXVLbHBiQnotbW5oelVRLTVHcTRMaVNnQlIxcnVYZVptTjVqZ04wcjFmRGprM2FiNE1BY2VNWGwxMU0wT0gwTThPQmxlTWRXUzNWaUJyMmZlYTN2TlZ0ck83V0xiQmZVd2phYjJDbENKUFk4OExubDlOUjAwNm43dlNzMmhSUUt3WTZPYlIwVm5mdTVkajBoUW1ZdWlCcFRtRjB1N3FZZmtTRjBobk9jbS1oUXlkOWc0WDd5YnNiSjZDRGktSkpPa1E?oc=5\" target=\"_blank\">Industry minister shows confidence in Korea's submarine bid despite geopolitical hurdles</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTDVDSzhfYmR1ZnBqeFZmYzQ5aTEzUTdONk5yWlhtYmFBcFVDNC1maVlYdElOdDlQSG9HTzRsNWJLdGl2bWxRaWVQdGt6RDVWTVhXVnNueWNUTzdlbks1LWxOYzAtUFBjRDJWa3NfaFBabThrMkpXcjM4TkZjR2J5X0ZmT3ZPeXBoNWtxaEJobEtLY2tCbFVQR2QzZ1FaZ1k2ZWUxd2FfTzZvc05SWVhESGJmZGliZGZKV2VweXVYMU5hYmZsTjBPTTNUc0liSXZRaWM3Wk1Eb0FDaU5N0gHiAUFVX3lxTE4xa2lleVpBYW41TVFaMHRJbkhVWUZTR2R2QXVLbHBiQnotbW5oelVRLTVHcTRMaVNnQlIxcnVYZVptTjVqZ04wcjFmRGprM2FiNE1BY2VNWGwxMU0wT0gwTThPQmxlTWRXUzNWaUJyMmZlYTN2TlZ0ck83V0xiQmZVd2phYjJDbENKUFk4OExubDlOUjAwNm43dlNzMmhSUUt3WTZPYlIwVm5mdTVkajBoUW1ZdWlCcFRtRjB1N3FZZmtTRjBobk9jbS1oUXlkOWc0WDd5YnNiSjZDRGktSkpPa1E?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-06-23",
-          "views": "13.0K"
-        },
-        {
-          "title": "CSLi Targets Finance and Manufacturing Expansion With AI Platform BigZami - 전자신문",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ZSDJlekJPanJkdmQ5SGNOQjRkZVpCRzlITUxvSERiZ0RmbElCemF4R0taWXYzcTVQdGIyanh3Vm1kTDhHS3UwV095OVc?oc=5\" target=\"_blank\">CSLi Targets Finance and Manufacturing Expansion With AI Platform BigZami</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전자신문</font>",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ZSDJlekJPanJkdmQ5SGNOQjRkZVpCRzlITUxvSERiZ0RmbElCemF4R0taWXYzcTVQdGIyanh3Vm1kTDhHS3UwV095OVc?oc=5",
+          "title": "[BIO USA] Lotte Biologics Completes Songdo Plant 1, Advances Dual-Site Strategy - 전자신문",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE80REg2ejZFV0FMdlEtOGpDUXRVNzJCeDZtX0hrejVnS3pkMVVWTE1sekI0ODNkZ1N1X1lnWk5SQy12endKS2w2dkREZTI?oc=5\" target=\"_blank\">[BIO USA] Lotte Biologics Completes Songdo Plant 1, Advances Dual-Site Strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전자신문</font>",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE80REg2ejZFV0FMdlEtOGpDUXRVNzJCeDZtX0hrejVnS3pkMVVWTE1sekI0ODNkZ1N1X1lnWk5SQy12endKS2w2dkREZTI?oc=5",
           "source": "전자신문",
-          "publishedAt": "2026-06-22",
+          "publishedAt": "2026-06-23",
+          "views": "13.0K"
+        },
+        {
+          "title": "OpenAI Expands ChatGPT Deployment Across Samsung Electronics Workforce - 전자신문",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE56T0hnUFFzQXhPSl9ONm5mbEZfVUgxU3I2NXFEWGFETjZSODRUZUFNNWFsU2otaEVzSi00MDdUZnRac2IySHVlNk1GMHE?oc=5\" target=\"_blank\">OpenAI Expands ChatGPT Deployment Across Samsung Electronics Workforce</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전자신문</font>",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE56T0hnUFFzQXhPSl9ONm5mbEZfVUgxU3I2NXFEWGFETjZSODRUZUFNNWFsU2otaEVzSi00MDdUZnRac2IySHVlNk1GMHE?oc=5",
+          "source": "전자신문",
+          "publishedAt": "2026-06-23",
+          "views": "13.0K"
+        },
+        {
+          "title": "JTBC's financial troubles raise alarm for K-drama industry - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMGxYOHVxaGtILVVYXzdrc21WUy1kWTFwcmd6eGwxOFoxajNsRkJ4dl9qdW5VRWhxMGE3Sm1XejRYMUE0OVcyaEJFZGw3RHZiaEozRVEtYjJvbGhGM0ttMnRrSjlzd2lTYUQwT0Y3U1JhX3NTRmc0WHdQeFUyR2VrRTllYTRiRk9rMVhBSnR3U0ttU2J5ek16MHBQWDdnc1JMV1cyeDkwVnnSAa4BQVVfeXFMT0VvcXhsY2FRTS11LUF2TWY3MzJYQ3JJcklyYUJUU1JYNG1KU1pKUk1BZjRtMGk2cXphU3loeDBoQTNoNDFKWDBac193aFNDNG0xelI4WWNYMzd3dHQ1QlBxaWpiUlhkc1duYVN2d0FFR1h2cm5pRWo2cnZ6SlFWNlRvVm5IMXFTUTlOR1V3d2N5LU1kTGthZDBpOFp2RXkzRVZWY2xkSERxbklRZ2JB?oc=5\" target=\"_blank\">JTBC's financial troubles raise alarm for K-drama industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMGxYOHVxaGtILVVYXzdrc21WUy1kWTFwcmd6eGwxOFoxajNsRkJ4dl9qdW5VRWhxMGE3Sm1XejRYMUE0OVcyaEJFZGw3RHZiaEozRVEtYjJvbGhGM0ttMnRrSjlzd2lTYUQwT0Y3U1JhX3NTRmc0WHdQeFUyR2VrRTllYTRiRk9rMVhBSnR3U0ttU2J5ek16MHBQWDdnc1JMV1cyeDkwVnnSAa4BQVVfeXFMT0VvcXhsY2FRTS11LUF2TWY3MzJYQ3JJcklyYUJUU1JYNG1KU1pKUk1BZjRtMGk2cXphU3loeDBoQTNoNDFKWDBac193aFNDNG0xelI4WWNYMzd3dHQ1QlBxaWpiUlhkc1duYVN2d0FFR1h2cm5pRWo2cnZ6SlFWNlRvVm5IMXFTUTlOR1V3d2N5LU1kTGthZDBpOFp2RXkzRVZWY2xkSERxbklRZ2JB?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-06-23",
           "views": "13.0K"
         }
       ]
