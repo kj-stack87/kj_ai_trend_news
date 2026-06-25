@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T04:33:29.778Z",
+  "lastUpdated": "2026-06-25T04:22:04.373Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,27 +49,27 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
-          "title": "The $400 million machine powering the future of chipmaking - MIT Technology Review",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQZzd4RUhyXzRNSGJDRW1vYnZDY25GZ2xxSWRfMEpFSDVEWHVZQVVzU3BPeXllZUN3d09LeWEwdFR6T2E5SkEwQjVNUlN2ODloVW1qNmRDXzA0LUt0d210UHZlV3ZaajlUNEYyakFBRTBmVnl0c29UeTVZMEpTcUdoZkFncGY4ZWRpaUlISHBrd1dkbkZVbUphSlJNUlNhSlpHTHhCQ1Fhc0Y5cElQcU9ENEpvOWHSAboBQVVfeXFMT1o2QjVJd0dKT2wyb2liNTdKUFJTOUhJdnlRQWpYUktpLTJBRzNyYTh4RHpUTno0QjY0Wm9RZWcyVG5yT0JHaFIxbGRISGxzOU1LT2N4Y2ZJaWNUVllMWkFLbzFwbGpUREpPVDR0X0lqdFBSaTQ5VDIxQWN3dlZGb2xNbGpES2tlQ3RySFJIck9vU3JMbWtuRmhvaGlxcVVHUHcteDNqYlllY19SUDI3ckh2Z3hlVUtidU53?oc=5\" target=\"_blank\">The $400 million machine powering the future of chipmaking</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MIT Technology Review</font>",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZzd4RUhyXzRNSGJDRW1vYnZDY25GZ2xxSWRfMEpFSDVEWHVZQVVzU3BPeXllZUN3d09LeWEwdFR6T2E5SkEwQjVNUlN2ODloVW1qNmRDXzA0LUt0d210UHZlV3ZaajlUNEYyakFBRTBmVnl0c29UeTVZMEpTcUdoZkFncGY4ZWRpaUlISHBrd1dkbkZVbUphSlJNUlNhSlpHTHhCQ1Fhc0Y5cElQcU9ENEpvOWHSAboBQVVfeXFMT1o2QjVJd0dKT2wyb2liNTdKUFJTOUhJdnlRQWpYUktpLTJBRzNyYTh4RHpUTno0QjY0Wm9RZWcyVG5yT0JHaFIxbGRISGxzOU1LT2N4Y2ZJaWNUVllMWkFLbzFwbGpUREpPVDR0X0lqdFBSaTQ5VDIxQWN3dlZGb2xNbGpES2tlQ3RySFJIck9vU3JMbWtuRmhvaGlxcVVHUHcteDNqYlllY19SUDI3ckh2Z3hlVUtidU53?oc=5",
-          "source": "MIT Technology Review (AI)",
-          "publishedAt": "2026-06-23",
-          "views": "18.0K"
-        },
-        {
-          "title": "SK hynix overtakes Samsung in market value amid AI-driven chip boom - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPRkFLd1lZUUNKREItLVVPaEZ1QlRDRWpHRVJsdmlLM2wzM3R6bHZ4UVM1UXRBSW42RmhkY0FWcXJ3VmZZTEtEZzhXdXd3YTFwRjI2OUx4U3JadHRKaVBnXy14VEhDWERBV2NndjEyX1pwOWp0T0V5ZWVoMGxuVTljOTJzU1FPaDRjb0t0WWUxbmw1NzRKTkExaEJhMWRfQ2d1emhDY3E4N1FRV1FXMGdfeFdjclM0TmdDVE5rVdIBwgFBVV95cUxNSlU5RTMxNE5xcVZTVlZtUVRiQ3hrQmJFRnZaYWREZlZSczlnMTdGZV90WWM4Wjl3a09ycU9VaHJpenV0SjFkV001VWJ3ZEdqbE1tdTVGd1QyTzlfVGpBdDFuTnlCWjNGVF9yM3JPdHphWmd6TGQtVWgyaFplaFBpZEJqcTQ5V3lubUhuT1g3YXM5T1NJOS1IZDBtWUJELTZIU3UzREJWV1ZkS2dxbE9KN3I0NTlSbU5PMUJwR283OFlSUQ?oc=5\" target=\"_blank\">SK hynix overtakes Samsung in market value amid AI-driven chip boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRkFLd1lZUUNKREItLVVPaEZ1QlRDRWpHRVJsdmlLM2wzM3R6bHZ4UVM1UXRBSW42RmhkY0FWcXJ3VmZZTEtEZzhXdXd3YTFwRjI2OUx4U3JadHRKaVBnXy14VEhDWERBV2NndjEyX1pwOWp0T0V5ZWVoMGxuVTljOTJzU1FPaDRjb0t0WWUxbmw1NzRKTkExaEJhMWRfQ2d1emhDY3E4N1FRV1FXMGdfeFdjclM0TmdDVE5rVdIBwgFBVV95cUxNSlU5RTMxNE5xcVZTVlZtUVRiQ3hrQmJFRnZaYWREZlZSczlnMTdGZV90WWM4Wjl3a09ycU9VaHJpenV0SjFkV001VWJ3ZEdqbE1tdTVGd1QyTzlfVGpBdDFuTnlCWjNGVF9yM3JPdHphWmd6TGQtVWgyaFplaFBpZEJqcTQ5V3lubUhuT1g3YXM5T1NJOS1IZDBtWUJELTZIU3UzREJWV1ZkS2dxbE9KN3I0NTlSbU5PMUJwR283OFlSUQ?oc=5",
+          "title": "NC AI debuts next-gen 3D model with top benchmark scores - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQZXhBTGtsVm5hNUJ3bFdqMGw4UERmZXBZVG9rS01sWFdSM2dBYnAyWGJYQUVVclVrd1FlZnMwRU54eUJaRFB0ZFZwUFFId2JSZEFxaVhmd3ZfZVhfaEN3UFJ3YjJBMExNUnNIeFlvU29oekJDbU90YnpST0ZCMW16dlRubjFMU082M3RfYnUzQ2kwdUV3LV9BNWRjNm0xYUVISV9IRVpVVHlnMHhwOXFIZkVHUdIBuAFBVV95cUxQSGJRYXhQd0V5XzUyVmw3ZWJwWTNXU3dMMEpMOTMtdGoyTnpuZjZ3azJSTUFJUGwxZ1d5MXZIZW5YbVYxeFVlQmtET25vaDVOVWpqTG5WQjF5T1pRWDd4TGdGdWNMdkRMNkRfajVpS3Jyc25mZC1qOFNwRDVDVnFzUmw3XzNTRXpJZnJvMzRBRVV5ZHo5X3RVcFhOVS14WW8wbWlmVFNqZlJZWjAxSWRhU051VGY4clVF?oc=5\" target=\"_blank\">NC AI debuts next-gen 3D model with top benchmark scores</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZXhBTGtsVm5hNUJ3bFdqMGw4UERmZXBZVG9rS01sWFdSM2dBYnAyWGJYQUVVclVrd1FlZnMwRU54eUJaRFB0ZFZwUFFId2JSZEFxaVhmd3ZfZVhfaEN3UFJ3YjJBMExNUnNIeFlvU29oekJDbU90YnpST0ZCMW16dlRubjFMU082M3RfYnUzQ2kwdUV3LV9BNWRjNm0xYUVISV9IRVpVVHlnMHhwOXFIZkVHUdIBuAFBVV95cUxQSGJRYXhQd0V5XzUyVmw3ZWJwWTNXU3dMMEpMOTMtdGoyTnpuZjZ3azJSTUFJUGwxZ1d5MXZIZW5YbVYxeFVlQmtET25vaDVOVWpqTG5WQjF5T1pRWDd4TGdGdWNMdkRMNkRfajVpS3Jyc25mZC1qOFNwRDVDVnFzUmw3XzNTRXpJZnJvMzRBRVV5ZHo5X3RVcFhOVS14WW8wbWlmVFNqZlJZWjAxSWRhU051VGY4clVF?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-06-22",
+          "publishedAt": "2026-06-24",
           "views": "18.0K"
         },
         {
-          "title": "No Claude Fable 5? No problem: Sakana achieves frontier performance with new Fugu multi-model, auto synthesis system - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxNYnM2d3I2N3JWcG01bEN6Uk5mWGctd1ludnVRaXNveVJiZzdOdlJzQ1VxVHBxN09TRXlMRXhlSUJHVDJmVTA2UUQ2WklMM2cwODZJQzRkZ0dfaWJld2phODY4UW5XMU1feGFEZW9IanJtQUViN1lxY1I2WlUxcl9UOS1wV3NiUTZDdUhxZHpzS2d0bFJFcjZFS3RISWFJZFo3UWRUcGQ0a0JFbEVwZmVlOFY5TXVPS2JLQ3liYjZWekpXY0kxZVdVUEx6N29tTDVzVWVoRnNFVFNfWG14MVNBaU5hVWhjQQ?oc=5\" target=\"_blank\">No Claude Fable 5? No problem: Sakana achieves frontier performance with new Fugu multi-model, auto synthesis system</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNYnM2d3I2N3JWcG01bEN6Uk5mWGctd1ludnVRaXNveVJiZzdOdlJzQ1VxVHBxN09TRXlMRXhlSUJHVDJmVTA2UUQ2WklMM2cwODZJQzRkZ0dfaWJld2phODY4UW5XMU1feGFEZW9IanJtQUViN1lxY1I2WlUxcl9UOS1wV3NiUTZDdUhxZHpzS2d0bFJFcjZFS3RISWFJZFo3UWRUcGQ0a0JFbEVwZmVlOFY5TXVPS2JLQ3liYjZWekpXY0kxZVdVUEx6N29tTDVzVWVoRnNFVFNfWG14MVNBaU5hVWhjQQ?oc=5",
+          "title": "OpenAI unveils first custom AI inference chip, Jalapeño, with Broadcom — and its development was sped-up with OpenAI's own models - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdUpjVTF1ZXF0ZHd1N2plRXZGb0Rqc2xiU0JocGJrMU9yN3VPc21GVDFaYzVwTDhOcV9hYXJQaFI5eWFyYm1TTDhDT1ppclBGTjMwOFpJY1hXc2tvQkZERXhXMjRfcDh1N2c2X0RlRjlvcXZ6SmV1eWN5aFVlcFF6N1JxUG5aZUItUUtxWF94UlpSeGszUVlaSUJ0clVLc2pJMVNoS2xNalVkQ1p1MDdNMUdrTTFOaWlWWm9VSEVMYnU2czExakc1OVlqQUo3ZGl2ZGMyaWJBWWdFeTktb1dSVXFQMXc5Y21feGdoR3doSEZlWC16YUE?oc=5\" target=\"_blank\">OpenAI unveils first custom AI inference chip, Jalapeño, with Broadcom — and its development was sped-up with OpenAI's own models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdUpjVTF1ZXF0ZHd1N2plRXZGb0Rqc2xiU0JocGJrMU9yN3VPc21GVDFaYzVwTDhOcV9hYXJQaFI5eWFyYm1TTDhDT1ppclBGTjMwOFpJY1hXc2tvQkZERXhXMjRfcDh1N2c2X0RlRjlvcXZ6SmV1eWN5aFVlcFF6N1JxUG5aZUItUUtxWF94UlpSeGszUVlaSUJ0clVLc2pJMVNoS2xNalVkQ1p1MDdNMUdrTTFOaWlWWm9VSEVMYnU2czExakc1OVlqQUo3ZGl2ZGMyaWJBWWdFeTktb1dSVXFQMXc5Y21feGdoR3doSEZlWC16YUE?oc=5",
           "source": "VentureBeat AI",
-          "publishedAt": "2026-06-22",
+          "publishedAt": "2026-06-24",
+          "views": "18.0K"
+        },
+        {
+          "title": "Your enterprise AI agents should automatically remember which model is right for which task. Mindstone built the capability with Rebel - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxPSzk4ckVnNHRPQ1gybjRXRVY1U3h6YXJmOHlTUmpxWm93cXNMSEowREdIU0JfcDg3WWpPWHBqdGhCNXdMNFQ0MlRadE8zNEl1VFRPMTlNRFA1Rm9tS2Q3RVFINTNhT0tFZlcyallMVWNxVE9JOUplS1BfUnNEbnVRM04zVGFRUnNkRTdNaWt5bGNjUHgtb3kxdUZIcThuT1dwZGMzNWxrVFBaREFZRHJOYmlQMWZNN1hYX3Y2endReFZ3WFFaQmdUTFVxaVM2d0FheVNhR1dKUDNROWhwUmV3ZXp2T01mUXdGNEl0NVhjak1HTHVvbldwbkQzcWFqMGtR?oc=5\" target=\"_blank\">Your enterprise AI agents should automatically remember which model is right for which task. Mindstone built the capability with Rebel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPSzk4ckVnNHRPQ1gybjRXRVY1U3h6YXJmOHlTUmpxWm93cXNMSEowREdIU0JfcDg3WWpPWHBqdGhCNXdMNFQ0MlRadE8zNEl1VFRPMTlNRFA1Rm9tS2Q3RVFINTNhT0tFZlcyallMVWNxVE9JOUplS1BfUnNEbnVRM04zVGFRUnNkRTdNaWt5bGNjUHgtb3kxdUZIcThuT1dwZGMzNWxrVFBaREFZRHJOYmlQMWZNN1hYX3Y2endReFZ3WFFaQmdUTFVxaVM2d0FheVNhR1dKUDNROWhwUmV3ZXp2T01mUXdGNEl0NVhjak1HTHVvbldwbkQzcWFqMGtR?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-06-24",
           "views": "18.0K"
         }
       ]
@@ -88,19 +88,19 @@
           "views": "23.0K"
         },
         {
+          "title": "Your enterprise AI agents should automatically remember which model is right for which task. Mindstone built the capability with Rebel - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxPSzk4ckVnNHRPQ1gybjRXRVY1U3h6YXJmOHlTUmpxWm93cXNMSEowREdIU0JfcDg3WWpPWHBqdGhCNXdMNFQ0MlRadE8zNEl1VFRPMTlNRFA1Rm9tS2Q3RVFINTNhT0tFZlcyallMVWNxVE9JOUplS1BfUnNEbnVRM04zVGFRUnNkRTdNaWt5bGNjUHgtb3kxdUZIcThuT1dwZGMzNWxrVFBaREFZRHJOYmlQMWZNN1hYX3Y2endReFZ3WFFaQmdUTFVxaVM2d0FheVNhR1dKUDNROWhwUmV3ZXp2T01mUXdGNEl0NVhjak1HTHVvbldwbkQzcWFqMGtR?oc=5\" target=\"_blank\">Your enterprise AI agents should automatically remember which model is right for which task. Mindstone built the capability with Rebel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPSzk4ckVnNHRPQ1gybjRXRVY1U3h6YXJmOHlTUmpxWm93cXNMSEowREdIU0JfcDg3WWpPWHBqdGhCNXdMNFQ0MlRadE8zNEl1VFRPMTlNRFA1Rm9tS2Q3RVFINTNhT0tFZlcyallMVWNxVE9JOUplS1BfUnNEbnVRM04zVGFRUnNkRTdNaWt5bGNjUHgtb3kxdUZIcThuT1dwZGMzNWxrVFBaREFZRHJOYmlQMWZNN1hYX3Y2endReFZ3WFFaQmdUTFVxaVM2d0FheVNhR1dKUDNROWhwUmV3ZXp2T01mUXdGNEl0NVhjak1HTHVvbldwbkQzcWFqMGtR?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-06-24",
+          "views": "18.0K"
+        },
+        {
           "title": "Why agentic enterprises need to become learning systems - VentureBeat",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPeU1HcTBTVDB2STFGdjZZVnZaV1NZb2d2dmxyQzYzb2tabnppcHlEN21MV19rMWpUSDZjQUh0cGlPT29XVUdrRmZyQ0VqTElnNDJYWWRGUURDaFBFRmpKLTkyNk5DdlIzVVJzWnRjMWxyNERxNnlZaG82X1FPamZfUTJhSGl0RExWdlFoaWFhYWFUcVVtOUd1MA?oc=5\" target=\"_blank\">Why agentic enterprises need to become learning systems</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeU1HcTBTVDB2STFGdjZZVnZaV1NZb2d2dmxyQzYzb2tabnppcHlEN21MV19rMWpUSDZjQUh0cGlPT29XVUdrRmZyQ0VqTElnNDJYWWRGUURDaFBFRmpKLTkyNk5DdlIzVVJzWnRjMWxyNERxNnlZaG82X1FPamZfUTJhSGl0RExWdlFoaWFhYWFUcVVtOUd1MA?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-06-22",
-          "views": "18.0K"
-        },
-        {
-          "title": "Adobe embeds agentic AI workflows across Creative Cloud, shifting from media generation to production orchestration - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZjFrSVhtU3p2OFp6Z3V4dTY1SWxPQ3lnQXZEcXFnY3JKQ2J3MlNlWUtHLXNRMF9BYmdJclEyLXY0UXltTTFFNlhoeEJKV044SDNPVlVfeGd4dDBTR2xtREVrV0FHTWlQX1ZDU1lERUZ3MUNXd19DUFF5MGNDbDFWMURqVUtXQ1RPbzUtOEhVOTlmRXhCb21nbDNoczMyQ2M5LVkzNnctLXlCWGt4em90WEkzOXVPZTNHTnNQcjRJbWNPd3RoMjJDdlRtRm1fZHg3cmh3UXJBV2ppeDdOWXhENGc0ZTdKOFE?oc=5\" target=\"_blank\">Adobe embeds agentic AI workflows across Creative Cloud, shifting from media generation to production orchestration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZjFrSVhtU3p2OFp6Z3V4dTY1SWxPQ3lnQXZEcXFnY3JKQ2J3MlNlWUtHLXNRMF9BYmdJclEyLXY0UXltTTFFNlhoeEJKV044SDNPVlVfeGd4dDBTR2xtREVrV0FHTWlQX1ZDU1lERUZ3MUNXd19DUFF5MGNDbDFWMURqVUtXQ1RPbzUtOEhVOTlmRXhCb21nbDNoczMyQ2M5LVkzNnctLXlCWGt4em90WEkzOXVPZTNHTnNQcjRJbWNPd3RoMjJDdlRtRm1fZHg3cmh3UXJBV2ppeDdOWXhENGc0ZTdKOFE?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-06-18",
           "views": "18.0K"
         }
       ]
@@ -119,20 +119,20 @@
           "views": "18.0K"
         },
         {
-          "title": "University of Seoul-supported startup to develop AI-based road safety management model - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcE1GSU1WSDdxcHU2SHN3THBXZy1Yeld4blpaY3NJY3padU9rbUJqNzVWVmVuVHJzNUV4Z0NGVGxxQU01aUNhODFYNFQzNGhpdloxd2tWTDUyd1VVUmdYUV83cG1vaFJjdnRDSHV2dG1zaEtCOHZFc2RPYXhuTHhPQ1ZaRmJpVENjZWlmSFBzN1ZzMkkwaUNVVk5CRWhYUVZqWmlkN1VGaG9zX2doVFpOU2ZVdG9RdXpXRzUyYWVfbnpJbUJxS1dCbFhGNEtrNzZKY3M1UVlIbTZTWEFNaUlN0gHfAUFVX3lxTE1wTUZJTVZIN3FwdTZIc3dMcFdnLVh6V3huWlpjc0ljelp1T2ttQmo3NVZWZW5UcnM1RXhnQ0ZUbHFBTTVpQ2E4MVg0VDM0aGl2WjF3a1ZMNTJ3VVVSZ1hRXzdwbW9oUmN2dENIdXZ0bXNoS0I4dkVzZE9heG5MeE9DVlpGYmlUQ2NlaWZIUHM3VnMySTBpQ1VWTkJFaFhRVmpaaWQ3VUZob3NfZ2hUWk5TZlV0b1F1eldHNTJhZV9uekltQnFLV0JsWEY0S2s3NkpjczVRWUhtNlNYQU1pSU0?oc=5\" target=\"_blank\">University of Seoul-supported startup to develop AI-based road safety management model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcE1GSU1WSDdxcHU2SHN3THBXZy1Yeld4blpaY3NJY3padU9rbUJqNzVWVmVuVHJzNUV4Z0NGVGxxQU01aUNhODFYNFQzNGhpdloxd2tWTDUyd1VVUmdYUV83cG1vaFJjdnRDSHV2dG1zaEtCOHZFc2RPYXhuTHhPQ1ZaRmJpVENjZWlmSFBzN1ZzMkkwaUNVVk5CRWhYUVZqWmlkN1VGaG9zX2doVFpOU2ZVdG9RdXpXRzUyYWVfbnpJbUJxS1dCbFhGNEtrNzZKY3M1UVlIbTZTWEFNaUlN0gHfAUFVX3lxTE1wTUZJTVZIN3FwdTZIc3dMcFdnLVh6V3huWlpjc0ljelp1T2ttQmo3NVZWZW5UcnM1RXhnQ0ZUbHFBTTVpQ2E4MVg0VDM0aGl2WjF3a1ZMNTJ3VVVSZ1hRXzdwbW9oUmN2dENIdXZ0bXNoS0I4dkVzZE9heG5MeE9DVlpGYmlUQ2NlaWZIUHM3VnMySTBpQ1VWTkJFaFhRVmpaaWQ3VUZob3NfZ2hUWk5TZlV0b1F1eldHNTJhZV9uekltQnFLV0JsWEY0S2s3NkpjczVRWUhtNlNYQU1pSU0?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-06-22",
-          "views": "18.0K"
-        },
-        {
           "title": "EU to propose diversification law to drive de-risking from China - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNbzV5cHo0TE51bDRhVDQyWlZSMGp5dUROcEZpYnJ5RkhSMmdQT0c3UWJnOFdlTGk3N2U4RkdTNFhXRjFMYjdKS2FEa0NsRU9PMnRjc2ZUZWVBVnZwakxyRTRxZWR6R0xSOGM1cFE1UGxqR2dVOFZfX0p5VVZfdnpBNnZmVHppMDRqYmNSX3FnN0JicG10REI2ekpfWHhfejNMdWNv?oc=5\" target=\"_blank\">EU to propose diversification law to drive de-risking from China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbzV5cHo0TE51bDRhVDQyWlZSMGp5dUROcEZpYnJ5RkhSMmdQT0c3UWJnOFdlTGk3N2U4RkdTNFhXRjFMYjdKS2FEa0NsRU9PMnRjc2ZUZWVBVnZwakxyRTRxZWR6R0xSOGM1cFE1UGxqR2dVOFZfX0p5VVZfdnpBNnZmVHppMDRqYmNSX3FnN0JicG10REI2ekpfWHhfejNMdWNv?oc=5",
           "source": "Reuters AI",
           "publishedAt": "2026-06-19",
           "views": "18.0K"
+        },
+        {
+          "title": "Policy lenders, shipbuilders sign MOU to implement Seoul's US investment initiative - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRm91S0hRYnRDTUhmLWNiVmg1QnZEVlFrcm10SmRlSGJidWJhcDl0aXdxaGoweFJEX1doYmhKbGNqQW53a3FlaGJCRUthbkRpejhYMDMyRVRzRUZJX0tYbEFDYjd1RU1fcGJTZWRpWXpocW9iVDluQVZvVTN4VkRNa2VaZ1RYNnlRWXF3Y1NSdkdaalE2Z3k1cGZ6ZFRTdHk3OGdFLXM5dVpNOHNlZ1FlZjZhNlQzOFpnMzRNbUEtcWxXelctS2prUG1SVW5QeWRSdGpfY9IB1AFBVV95cUxQRm91S0hRYnRDTUhmLWNiVmg1QnZEVlFrcm10SmRlSGJidWJhcDl0aXdxaGoweFJEX1doYmhKbGNqQW53a3FlaGJCRUthbkRpejhYMDMyRVRzRUZJX0tYbEFDYjd1RU1fcGJTZWRpWXpocW9iVDluQVZvVTN4VkRNa2VaZ1RYNnlRWXF3Y1NSdkdaalE2Z3k1cGZ6ZFRTdHk3OGdFLXM5dVpNOHNlZ1FlZjZhNlQzOFpnMzRNbUEtcWxXelctS2prUG1SVW5QeWRSdGpfYw?oc=5\" target=\"_blank\">Policy lenders, shipbuilders sign MOU to implement Seoul's US investment initiative</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRm91S0hRYnRDTUhmLWNiVmg1QnZEVlFrcm10SmRlSGJidWJhcDl0aXdxaGoweFJEX1doYmhKbGNqQW53a3FlaGJCRUthbkRpejhYMDMyRVRzRUZJX0tYbEFDYjd1RU1fcGJTZWRpWXpocW9iVDluQVZvVTN4VkRNa2VaZ1RYNnlRWXF3Y1NSdkdaalE2Z3k1cGZ6ZFRTdHk3OGdFLXM5dVpNOHNlZ1FlZjZhNlQzOFpnMzRNbUEtcWxXelctS2prUG1SVW5QeWRSdGpfY9IB1AFBVV95cUxQRm91S0hRYnRDTUhmLWNiVmg1QnZEVlFrcm10SmRlSGJidWJhcDl0aXdxaGoweFJEX1doYmhKbGNqQW53a3FlaGJCRUthbkRpejhYMDMyRVRzRUZJX0tYbEFDYjd1RU1fcGJTZWRpWXpocW9iVDluQVZvVTN4VkRNa2VaZ1RYNnlRWXF3Y1NSdkdaalE2Z3k1cGZ6ZFRTdHk3OGdFLXM5dVpNOHNlZ1FlZjZhNlQzOFpnMzRNbUEtcWxXelctS2prUG1SVW5QeWRSdGpfYw?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-06-25",
+          "views": "13.0K"
         }
       ]
     },
@@ -142,6 +142,14 @@
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
         {
+          "title": "Green steel startup Stegra says $1.6 billion funding complete - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNMmNwNlEtemJxOTNpTWRYU3N4TXRrS2dpaU1jbUtNVk85dzhyXzNSM3JfLWdxbS1UbTc3cVRkdmZjaHhsSWtZdUxNNm56aVp2Wm9abXVfQS1jeEZtelM5WHFXaWxQYzl3dzMwWS1QXzVza0lxY3lseG9LVlhab1dwT25iRk1IWFNMVDlWbXFtaUZNejlvLUVqeGR5NWJVR2tnUFlZd1dyUlByYmRTVUJubmhldw?oc=5\" target=\"_blank\">Green steel startup Stegra says $1.6 billion funding complete</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMmNwNlEtemJxOTNpTWRYU3N4TXRrS2dpaU1jbUtNVk85dzhyXzNSM3JfLWdxbS1UbTc3cVRkdmZjaHhsSWtZdUxNNm56aVp2Wm9abXVfQS1jeEZtelM5WHFXaWxQYzl3dzMwWS1QXzVza0lxY3lseG9LVlhab1dwT25iRk1IWFNMVDlWbXFtaUZNejlvLUVqeGR5NWJVR2tnUFlZd1dyUlByYmRTVUJubmhldw?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-06-24",
+          "views": "18.0K"
+        },
+        {
           "title": "Bangladesh's premier looks to China, Malaysia for investment, jobs in first trip - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNX09BaW04SEhINFFqNy1ZaWYzRFpsa0pvNWF3VUMtRVRVVTlKN2VvcHB6LW5Mb0hiTV8xVzY1Um0yNER1SGZTSTNzcXNwbWdhQjBZdHRjanRQTGRrMDhsT1ZWT0U4NFY1MkppTU5zZ05LTVlGdkoycHRfWnhhMVZ0OG94UW1GdEl1R3BrLXVqakx0a0tyRlcxMHBXSUQwYW5XYTdyNXhmb21XTDNEZG5ZRlRIWndZQQ?oc=5\" target=\"_blank\">Bangladesh's premier looks to China, Malaysia for investment, jobs in first trip</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNX09BaW04SEhINFFqNy1ZaWYzRFpsa0pvNWF3VUMtRVRVVTlKN2VvcHB6LW5Mb0hiTV8xVzY1Um0yNER1SGZTSTNzcXNwbWdhQjBZdHRjanRQTGRrMDhsT1ZWT0U4NFY1MkppTU5zZ05LTVlGdkoycHRfWnhhMVZ0OG94UW1GdEl1R3BrLXVqakx0a0tyRlcxMHBXSUQwYW5XYTdyNXhmb21XTDNEZG5ZRlRIWndZQQ?oc=5",
@@ -150,19 +158,11 @@
           "views": "18.0K"
         },
         {
-          "title": "Rising leveraged investments pose threats to financial stability: BOK - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNUFfcW84VDJXekp3YVpXVFRMbFNZMjU2SVl0bE1jam9UbVRJT3IyMmdHQ0tRRGUyR3NDMzM5bGFWZ01VejNNbWtkQ1JqdXYtZGVMdjBrVHRDdzNUWDdlVGRQLTJDRlplajFCQXpVSmlsU2pVR1VOMklERVVGRjVtSlNvUWg0VzdSd2dHSE12NmxORXNmcHlVQmcwZ1U1QTdjcnl2dEpscTB2d0l6VDFjaVRCT2VwNUhlVzk1RHBwYU5BM1Z6UHZremZKSlVENm1r0gHQAUFVX3lxTFA1QV9xbzhUMld6SndhWldUVExsU1kyNTZJWXRsTWNqb1RtVElPcjIyZ0dDS1FEZTJHc0MzMzlsYVZnTVV6M01ta2RDUmp1di1kZUx2MGtUdEN3M1RYN2VUZFAtMkNGWmVqMUJBelVKaWxTalVHVU4ySURFVUZGNW1KU29RaDRXN1J3Z0dITXY2bE5Fc2ZweVVCZzBnVTVBN2NyeXZ0SmxxMHZ3SXpUMWNpVEJPZXA1SGVXOTVEcHBhTkEzVnpQdmt6ZkpKVUQ2bWs?oc=5\" target=\"_blank\">Rising leveraged investments pose threats to financial stability: BOK</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNUFfcW84VDJXekp3YVpXVFRMbFNZMjU2SVl0bE1jam9UbVRJT3IyMmdHQ0tRRGUyR3NDMzM5bGFWZ01VejNNbWtkQ1JqdXYtZGVMdjBrVHRDdzNUWDdlVGRQLTJDRlplajFCQXpVSmlsU2pVR1VOMklERVVGRjVtSlNvUWg0VzdSd2dHSE12NmxORXNmcHlVQmcwZ1U1QTdjcnl2dEpscTB2d0l6VDFjaVRCT2VwNUhlVzk1RHBwYU5BM1Z6UHZremZKSlVENm1r0gHQAUFVX3lxTFA1QV9xbzhUMld6SndhWldUVExsU1kyNTZJWXRsTWNqb1RtVElPcjIyZ0dDS1FEZTJHc0MzMzlsYVZnTVV6M01ta2RDUmp1di1kZUx2MGtUdEN3M1RYN2VUZFAtMkNGWmVqMUJBelVKaWxTalVHVU4ySURFVUZGNW1KU29RaDRXN1J3Z0dITXY2bE5Fc2ZweVVCZzBnVTVBN2NyeXZ0SmxxMHZ3SXpUMWNpVEJPZXA1SGVXOTVEcHBhTkEzVnpQdmt6ZkpKVUQ2bWs?oc=5",
+          "title": "Samsung Electronics maintains No. 1 spot in global DRAM market in Q1 - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVURycFljeGZCaEY0R2ZMQkw5NkdCSTZKQU4zQlZlT1RIQVQ1UjlFRTBnODJWdEM1NmN3N2tWSkhkWXVxT2VkQ20xWDZZZUpXcExQbnBFZmxrb2k1dktIOGhRTG0wd1c0RDhOelkySnJJUnp0Y0toS09qVy1XUXUyQWgzREk5djNPRDRIdmlKOE1QMjhVc3VobmR4WnR5OUtNS0Z3V01sT1ptSGtWZEZJaFh3QVBMYzZ4bGRjb1l5UHl5UdIBxwFBVV95cUxQdGk5amhwWW9UY2hmYVU2WjJ6SE5RS2x1a3pHbEFyUERFdUQ2YWFESjlBWjZWWG1FdkJmcXZoNUJULUJXZFhnS1otUXdzSXN3YnMxNEs3VldFY3hUMEZ2TW9rRUVFMV81dlhfaGZBcHNEWWNhTTVVTHk5bmI5NHNuYlc3OExIMkI5eDFfWlhuYW82V0lrWkVCZXNhX1NoZnpibHZ1eU1rd19BR0Npc0Zob25zeHhDcWFBbV9EREQ3LXBrWlZrVFZR?oc=5\" target=\"_blank\">Samsung Electronics maintains No. 1 spot in global DRAM market in Q1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVURycFljeGZCaEY0R2ZMQkw5NkdCSTZKQU4zQlZlT1RIQVQ1UjlFRTBnODJWdEM1NmN3N2tWSkhkWXVxT2VkQ20xWDZZZUpXcExQbnBFZmxrb2k1dktIOGhRTG0wd1c0RDhOelkySnJJUnp0Y0toS09qVy1XUXUyQWgzREk5djNPRDRIdmlKOE1QMjhVc3VobmR4WnR5OUtNS0Z3V01sT1ptSGtWZEZJaFh3QVBMYzZ4bGRjb1l5UHl5UdIBxwFBVV95cUxQdGk5amhwWW9UY2hmYVU2WjJ6SE5RS2x1a3pHbEFyUERFdUQ2YWFESjlBWjZWWG1FdkJmcXZoNUJULUJXZFhnS1otUXdzSXN3YnMxNEs3VldFY3hUMEZ2TW9rRUVFMV81dlhfaGZBcHNEWWNhTTVVTHk5bmI5NHNuYlc3OExIMkI5eDFfWlhuYW82V0lrWkVCZXNhX1NoZnpibHZ1eU1rd19BR0Npc0Zob25zeHhDcWFBbV9EREQ3LXBrWlZrVFZR?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-06-24",
-          "views": "13.0K"
-        },
-        {
-          "title": "China Accelerates Humanoid Robot Standards for the Consumer Market - 전자신문",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE56OG1zNm9OMkJsUDFvVU9EeHVaaklFNm9XYk5KUVBkQ0dDNGVQWHU4c0dHbjJxUzR2ejJ6bTliYUo4cHdNN2RBMzZoUGo?oc=5\" target=\"_blank\">China Accelerates Humanoid Robot Standards for the Consumer Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전자신문</font>",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE56OG1zNm9OMkJsUDFvVU9EeHVaaklFNm9XYk5KUVBkQ0dDNGVQWHU4c0dHbjJxUzR2ejJ6bTliYUo4cHdNN2RBMzZoUGo?oc=5",
-          "source": "전자신문",
-          "publishedAt": "2026-06-23",
+          "publishedAt": "2026-06-25",
           "views": "13.0K"
         }
       ]
@@ -173,27 +173,27 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
-          "title": "[BIO USA] Lotte Biologics Completes Songdo Plant 1, Advances Dual-Site Strategy - 전자신문",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE80REg2ejZFV0FMdlEtOGpDUXRVNzJCeDZtX0hrejVnS3pkMVVWTE1sekI0ODNkZ1N1X1lnWk5SQy12endKS2w2dkREZTI?oc=5\" target=\"_blank\">[BIO USA] Lotte Biologics Completes Songdo Plant 1, Advances Dual-Site Strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전자신문</font>",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE80REg2ejZFV0FMdlEtOGpDUXRVNzJCeDZtX0hrejVnS3pkMVVWTE1sekI0ODNkZ1N1X1lnWk5SQy12endKS2w2dkREZTI?oc=5",
+          "title": "Government Revises Rules for Mobile Facial Verification Amid Industry Concerns - 전자신문",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9kNTFVdDhOb0tYTXZLa1kteW5fTjE3UGppRm5oYkNBX1U1b2dzTFpydGpOaERPcWVRSi1WUTFBck1QZ1FFMy1zdmlfejc?oc=5\" target=\"_blank\">Government Revises Rules for Mobile Facial Verification Amid Industry Concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전자신문</font>",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9kNTFVdDhOb0tYTXZLa1kteW5fTjE3UGppRm5oYkNBX1U1b2dzTFpydGpOaERPcWVRSi1WUTFBck1QZ1FFMy1zdmlfejc?oc=5",
           "source": "전자신문",
-          "publishedAt": "2026-06-23",
+          "publishedAt": "2026-06-24",
           "views": "13.0K"
         },
         {
-          "title": "OpenAI Expands ChatGPT Deployment Across Samsung Electronics Workforce - 전자신문",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE56T0hnUFFzQXhPSl9ONm5mbEZfVUgxU3I2NXFEWGFETjZSODRUZUFNNWFsU2otaEVzSi00MDdUZnRac2IySHVlNk1GMHE?oc=5\" target=\"_blank\">OpenAI Expands ChatGPT Deployment Across Samsung Electronics Workforce</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전자신문</font>",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE56T0hnUFFzQXhPSl9ONm5mbEZfVUgxU3I2NXFEWGFETjZSODRUZUFNNWFsU2otaEVzSi00MDdUZnRac2IySHVlNk1GMHE?oc=5",
-          "source": "전자신문",
-          "publishedAt": "2026-06-23",
+          "title": "Watch These Are The 12 Ikea Products The Company's Design Chief Personally Owns - WIRED",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxObFIxT0pNMm9LLTJzbjFyUVVnY0thZ2VReUVVVnk5RERJT3FLYUJ2Qk1LWmE4T3hIRHVEOE9RZGJlb2dJVTlaUXZDWWZLNWZEWmlWUUItVlZ3WmR1RkpySjlPWjFUeWZfWEdDV2VDcDZjcDRiT3NUMXE1VFVUYWYtTzI2bHNYRjZqLTd6MzNGRE9sQTRnOERJX1FYZE4zUHo1MWlWVG9pcy1rUQ?oc=5\" target=\"_blank\">Watch These Are The 12 Ikea Products The Company's Design Chief Personally Owns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObFIxT0pNMm9LLTJzbjFyUVVnY0thZ2VReUVVVnk5RERJT3FLYUJ2Qk1LWmE4T3hIRHVEOE9RZGJlb2dJVTlaUXZDWWZLNWZEWmlWUUItVlZ3WmR1RkpySjlPWjFUeWZfWEdDV2VDcDZjcDRiT3NUMXE1VFVUYWYtTzI2bHNYRjZqLTd6MzNGRE9sQTRnOERJX1FYZE4zUHo1MWlWVG9pcy1rUQ?oc=5",
+          "source": "WIRED AI",
+          "publishedAt": "2026-06-24",
           "views": "13.0K"
         },
         {
-          "title": "JTBC's financial troubles raise alarm for K-drama industry - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMGxYOHVxaGtILVVYXzdrc21WUy1kWTFwcmd6eGwxOFoxajNsRkJ4dl9qdW5VRWhxMGE3Sm1XejRYMUE0OVcyaEJFZGw3RHZiaEozRVEtYjJvbGhGM0ttMnRrSjlzd2lTYUQwT0Y3U1JhX3NTRmc0WHdQeFUyR2VrRTllYTRiRk9rMVhBSnR3U0ttU2J5ek16MHBQWDdnc1JMV1cyeDkwVnnSAa4BQVVfeXFMT0VvcXhsY2FRTS11LUF2TWY3MzJYQ3JJcklyYUJUU1JYNG1KU1pKUk1BZjRtMGk2cXphU3loeDBoQTNoNDFKWDBac193aFNDNG0xelI4WWNYMzd3dHQ1QlBxaWpiUlhkc1duYVN2d0FFR1h2cm5pRWo2cnZ6SlFWNlRvVm5IMXFTUTlOR1V3d2N5LU1kTGthZDBpOFp2RXkzRVZWY2xkSERxbklRZ2JB?oc=5\" target=\"_blank\">JTBC's financial troubles raise alarm for K-drama industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMGxYOHVxaGtILVVYXzdrc21WUy1kWTFwcmd6eGwxOFoxajNsRkJ4dl9qdW5VRWhxMGE3Sm1XejRYMUE0OVcyaEJFZGw3RHZiaEozRVEtYjJvbGhGM0ttMnRrSjlzd2lTYUQwT0Y3U1JhX3NTRmc0WHdQeFUyR2VrRTllYTRiRk9rMVhBSnR3U0ttU2J5ek16MHBQWDdnc1JMV1cyeDkwVnnSAa4BQVVfeXFMT0VvcXhsY2FRTS11LUF2TWY3MzJYQ3JJcklyYUJUU1JYNG1KU1pKUk1BZjRtMGk2cXphU3loeDBoQTNoNDFKWDBac193aFNDNG0xelI4WWNYMzd3dHQ1QlBxaWpiUlhkc1duYVN2d0FFR1h2cm5pRWo2cnZ6SlFWNlRvVm5IMXFTUTlOR1V3d2N5LU1kTGthZDBpOFp2RXkzRVZWY2xkSERxbklRZ2JB?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-06-23",
+          "title": "EXCLUSIVE: US SEC probes popular type of private equity fund as it steps up industry scrutiny, sources say - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPS0dqd0RzYmt0OWlVRVpSRHM1d2pfQWNHYk94elVFYWo0eVVQaFNFV0NMeC1Gd1ZxUzRQbU0yelhuclhYWTVjZ0JSV19pTS1WSjJ5SzBGenl4R3pPcFpFSDBnTS1MaW1vSmRHenhCdWVZMVpqVzBZSDA5RWdrM09rWWRGb0ExQ18tV29ORWNIV2VFYU5qelE3UEtJQjEyZFJtb2hEY0RpakhpdzZZcC1GSkRmNjY2dFFSaVBDaWNDYUR4U0Z5VENKdw?oc=5\" target=\"_blank\">EXCLUSIVE: US SEC probes popular type of private equity fund as it steps up industry scrutiny, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPS0dqd0RzYmt0OWlVRVpSRHM1d2pfQWNHYk94elVFYWo0eVVQaFNFV0NMeC1Gd1ZxUzRQbU0yelhuclhYWTVjZ0JSV19pTS1WSjJ5SzBGenl4R3pPcFpFSDBnTS1MaW1vSmRHenhCdWVZMVpqVzBZSDA5RWdrM09rWWRGb0ExQ18tV29ORWNIV2VFYU5qelE3UEtJQjEyZFJtb2hEY0RpakhpdzZZcC1GSkRmNjY2dFFSaVBDaWNDYUR4U0Z5VENKdw?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-06-24",
           "views": "13.0K"
         }
       ]
