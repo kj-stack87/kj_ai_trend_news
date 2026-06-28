@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T04:14:44.314Z",
+  "lastUpdated": "2026-06-28T04:47:59.015Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -80,14 +80,6 @@
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
         {
-          "title": "Beyond the Agentic AI Hype: How Leading Enterprises Make It Actually Work - TechCrunch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQWlJjMGFxUW1HSWpLWjZnc1JfZnlrbTlQQWdmSlI2dF80UEV4bFpTWFNOVWl3Z3M2dlREckItR01hRjRmN3JxNFNkTElMOFlnZks2Z0dDWVk2VmJET0FYTGNnS1Rsdm5CbndBQ01PVF82cF91TTY4M0FaanM4elpTR3Y0bnpjZmRkVHBBQTFVM1BMOWJoRzJYWFRwTVNncEczRDc0WlptVDh2bEFjcnlr?oc=5\" target=\"_blank\">Beyond the Agentic AI Hype: How Leading Enterprises Make It Actually Work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWlJjMGFxUW1HSWpLWjZnc1JfZnlrbTlQQWdmSlI2dF80UEV4bFpTWFNOVWl3Z3M2dlREckItR01hRjRmN3JxNFNkTElMOFlnZks2Z0dDWVk2VmJET0FYTGNnS1Rsdm5CbndBQ01PVF82cF91TTY4M0FaanM4elpTR3Y0bnpjZmRkVHBBQTFVM1BMOWJoRzJYWFRwTVNncEczRDc0WlptVDh2bEFjcnlr?oc=5",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-06-25",
-          "views": "18.0K"
-        },
-        {
           "title": "Your enterprise AI agents should automatically remember which model is right for which task. Mindstone built the capability with Rebel - VentureBeat",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxPSzk4ckVnNHRPQ1gybjRXRVY1U3h6YXJmOHlTUmpxWm93cXNMSEowREdIU0JfcDg3WWpPWHBqdGhCNXdMNFQ0MlRadE8zNEl1VFRPMTlNRFA1Rm9tS2Q3RVFINTNhT0tFZlcyallMVWNxVE9JOUplS1BfUnNEbnVRM04zVGFRUnNkRTdNaWt5bGNjUHgtb3kxdUZIcThuT1dwZGMzNWxrVFBaREFZRHJOYmlQMWZNN1hYX3Y2endReFZ3WFFaQmdUTFVxaVM2d0FheVNhR1dKUDNROWhwUmV3ZXp2T01mUXdGNEl0NVhjak1HTHVvbldwbkQzcWFqMGtR?oc=5\" target=\"_blank\">Your enterprise AI agents should automatically remember which model is right for which task. Mindstone built the capability with Rebel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPSzk4ckVnNHRPQ1gybjRXRVY1U3h6YXJmOHlTUmpxWm93cXNMSEowREdIU0JfcDg3WWpPWHBqdGhCNXdMNFQ0MlRadE8zNEl1VFRPMTlNRFA1Rm9tS2Q3RVFINTNhT0tFZlcyallMVWNxVE9JOUplS1BfUnNEbnVRM04zVGFRUnNkRTdNaWt5bGNjUHgtb3kxdUZIcThuT1dwZGMzNWxrVFBaREFZRHJOYmlQMWZNN1hYX3Y2endReFZ3WFFaQmdUTFVxaVM2d0FheVNhR1dKUDNROWhwUmV3ZXp2T01mUXdGNEl0NVhjak1HTHVvbldwbkQzcWFqMGtR?oc=5",
@@ -102,6 +94,14 @@
           "source": "VentureBeat AI",
           "publishedAt": "2026-06-22",
           "views": "18.0K"
+        },
+        {
+          "title": "AI agent memory: MRAgent cuts token use up to 27x - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNcEFON1VseEJtRUE1c0EwRVJrZWV1OGtOUm9YeFJlb01oSFk2X2pPV3VxWG5DRW83dzI0SC1ibDgwOWE5eVJUWV9ZNVcwMlhBdTFIUXBqclZsQ19EN2dXaVI4Q04wOFBsRnNINUdYWkZYYnZ2Sk10S0h4Um9wY2Z2Yk9WT2pjTko0WWZBOEVWZ0prUUJCM2JWMzRBeFVJYVFnbzlRQ00wMkliRzVRbW9xRndYaXFqWFZJYTd5V0NB?oc=5\" target=\"_blank\">AI agent memory: MRAgent cuts token use up to 27x</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcEFON1VseEJtRUE1c0EwRVJrZWV1OGtOUm9YeFJlb01oSFk2X2pPV3VxWG5DRW83dzI0SC1ibDgwOWE5eVJUWV9ZNVcwMlhBdTFIUXBqclZsQ19EN2dXaVI4Q04wOFBsRnNINUdYWkZYYnZ2Sk10S0h4Um9wY2Z2Yk9WT2pjTko0WWZBOEVWZ0prUUJCM2JWMzRBeFVJYVFnbzlRQ00wMkliRzVRbW9xRndYaXFqWFZJYTd5V0NB?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-06-26",
+          "views": "13.0K"
         }
       ]
     },
@@ -111,12 +111,12 @@
       "description": "규제, 책임, 신뢰, 저작권 같은 문제를 보는 관점",
       "items": [
         {
-          "title": "US court dismisses Trump administration lawsuit over Los Angeles immigration policy - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNeHhPWG8yS1FIczNKejBLMXVGZ0VhLWk4aGJRSVUtcVpVWWFCYUJ2X0I4VWVaUnJPQVdMU1FSbDEycnZhcW01b1Q0TWRYQkdmMmw0dTZZeng5RWRnakNuWDN2UnNUT3RlaWRtZVdqNktick9ycmtjZ2RCdjdRdmtZNEpxZlFnOWd1TlRNTVV6bW9pUTFxbWc3WG4wVlFQVElMdGZRVHN5ZV9kQXpWai1FQ043WWJnMjdpQUE?oc=5\" target=\"_blank\">US court dismisses Trump administration lawsuit over Los Angeles immigration policy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeHhPWG8yS1FIczNKejBLMXVGZ0VhLWk4aGJRSVUtcVpVWWFCYUJ2X0I4VWVaUnJPQVdMU1FSbDEycnZhcW01b1Q0TWRYQkdmMmw0dTZZeng5RWRnakNuWDN2UnNUT3RlaWRtZVdqNktick9ycmtjZ2RCdjdRdmtZNEpxZlFnOWd1TlRNTVV6bW9pUTFxbWc3WG4wVlFQVElMdGZRVHN5ZV9kQXpWai1FQ043WWJnMjdpQUE?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-06-23",
-          "views": "18.0K"
+          "title": "Ex-justice minister appeals 25-yr prison sentence in martial law trial - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYUhkS0ZTWXBkekxiN0dfSy04eWhtX1paMFZpTV93YTNUN2Q4aXBPZVdpbG9QRzdxdTFzN1l4cXZMakJpSEczc1BNUllkN0tycE55VVJJNFptN0VUamkxM19renVCaHY2NHlyS0NGYzdTNjBKUWpHc1lyMXZqZ3lKRVY3cHJOblVVbnBiQkFDTVZBelZ4cGZXQmRBYmFQRDMtRDBiZHZCamxHWUNRVm5BOWtzZXBqbzB4MTJyWlMwMlZ1c3duMjRUcNIBzgFBVV95cUxPWEZNYXZqVEl5NVhQNGlXY3A2VmozRm50bGY5ZkJsME43Sk1zTExmMmI2TWo1Yjg0TWFKdlZwS2UwYm9kSDZta1R5RXNmanFqTVJnTi13emVKVjBVRTlRRXgyUnA0X3k5cm9kelJraXR3WWxyYl80c1FiSEEwaVBLLUtIR1IxMDFERXR6elhGMm1OVGt0M1BsS09ka1EybzdNM1hoS3otN2oyOG9lS2FTMVJYSXh4TGlZSkJoYVRZeDQtM2c3WWVFd0xNY1FkUQ?oc=5\" target=\"_blank\">Ex-justice minister appeals 25-yr prison sentence in martial law trial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYUhkS0ZTWXBkekxiN0dfSy04eWhtX1paMFZpTV93YTNUN2Q4aXBPZVdpbG9QRzdxdTFzN1l4cXZMakJpSEczc1BNUllkN0tycE55VVJJNFptN0VUamkxM19renVCaHY2NHlyS0NGYzdTNjBKUWpHc1lyMXZqZ3lKRVY3cHJOblVVbnBiQkFDTVZBelZ4cGZXQmRBYmFQRDMtRDBiZHZCamxHWUNRVm5BOWtzZXBqbzB4MTJyWlMwMlZ1c3duMjRUcNIBzgFBVV95cUxPWEZNYXZqVEl5NVhQNGlXY3A2VmozRm50bGY5ZkJsME43Sk1zTExmMmI2TWo1Yjg0TWFKdlZwS2UwYm9kSDZta1R5RXNmanFqTVJnTi13emVKVjBVRTlRRXgyUnA0X3k5cm9kelJraXR3WWxyYl80c1FiSEEwaVBLLUtIR1IxMDFERXR6elhGMm1OVGt0M1BsS09ka1EybzdNM1hoS3otN2oyOG9lS2FTMVJYSXh4TGlZSkJoYVRZeDQtM2c3WWVFd0xNY1FkUQ?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-06-27",
+          "views": "13.0K"
         },
         {
           "title": "Unification minister calls for moving away from 'denuclearization first' policy for N. Korea - The Korea Times",
@@ -142,27 +142,27 @@
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
         {
-          "title": "Bangladesh's premier looks to China, Malaysia for investment, jobs in first trip - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNX09BaW04SEhINFFqNy1ZaWYzRFpsa0pvNWF3VUMtRVRVVTlKN2VvcHB6LW5Mb0hiTV8xVzY1Um0yNER1SGZTSTNzcXNwbWdhQjBZdHRjanRQTGRrMDhsT1ZWT0U4NFY1MkppTU5zZ05LTVlGdkoycHRfWnhhMVZ0OG94UW1GdEl1R3BrLXVqakx0a0tyRlcxMHBXSUQwYW5XYTdyNXhmb21XTDNEZG5ZRlRIWndZQQ?oc=5\" target=\"_blank\">Bangladesh's premier looks to China, Malaysia for investment, jobs in first trip</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNX09BaW04SEhINFFqNy1ZaWYzRFpsa0pvNWF3VUMtRVRVVTlKN2VvcHB6LW5Mb0hiTV8xVzY1Um0yNER1SGZTSTNzcXNwbWdhQjBZdHRjanRQTGRrMDhsT1ZWT0U4NFY1MkppTU5zZ05LTVlGdkoycHRfWnhhMVZ0OG94UW1GdEl1R3BrLXVqakx0a0tyRlcxMHBXSUQwYW5XYTdyNXhmb21XTDNEZG5ZRlRIWndZQQ?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-06-20",
-          "views": "18.0K"
-        },
-        {
-          "title": "FTC gives Musk the OK to acquire SpaceX alumni startup Mesh - TechCrunch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQRGlGbDlpam4zcnVNM2J4eXhqcXN6Ujl5ajlVd0xmWF9Xdi13enRSQlpzWmxQbUU0dVpNV0lOeUx2QWl0N1pDOXdQX3FScENSU1o0RW9ERzNlWWFmQjBMTk1zSVc2ZFpad3ZWeWl6dkZBQkh3ZXp2aVhkbmtkTnFBMU9kaVl3bWhkWDdGbThpejdsc3I5UHoyakNn?oc=5\" target=\"_blank\">FTC gives Musk the OK to acquire SpaceX alumni startup Mesh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRGlGbDlpam4zcnVNM2J4eXhqcXN6Ujl5ajlVd0xmWF9Xdi13enRSQlpzWmxQbUU0dVpNV0lOeUx2QWl0N1pDOXdQX3FScENSU1o0RW9ERzNlWWFmQjBMTk1zSVc2ZFpad3ZWeWl6dkZBQkh3ZXp2aVhkbmtkTnFBMU9kaVl3bWhkWDdGbThpejdsc3I5UHoyakNn?oc=5",
-          "source": "TechCrunch AI",
+          "title": "Korean researchers seek opportunities overseas despite record funding - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNSkdNM2VQUTVtcVNVd3NHcy10Y2Vka3c4RUE4cFQ3VF9SdDZSX181aWRfZHgtMDAxNDIzcEdHN3ExMGhidXZ4SkcwZTQ3QVNOQk8td21YeWdJdEV4bnpCN0xOQnpESE9NajhZRTVWS09oTGt0d1A2NGRwVjNPeDlaVWExeGhtOTNra2lnZDVHODlPTXR3R0ktSUx1ejV5UkdndVNwOVR3dUtQcVhwQ1JjSGU1UDNmbk9SUkZjdnN4bjRUY3dl0gHKAUFVX3lxTE5kQjI3SHhuUE9KNFN0UlZHeHFfTThTaW5jTUNUcDJNVVdiaDJCRDI2X1p1aVlXNmhEV0dpaWlKVXFHeFctSkRyR0V4S2RkN3BUaXEwaUo1Rk01dnZBT1ZFbFlzcnJ3b2hvOUlWcGtDTXBrejAyMlh5VmNrWnhDcWd3YWVFN0JKaHhXV0JjcTYta01tRHFyZHJHc0g5MEFXNHEzd0lmazdKYno0QkZUVDFJQy1RV2puamhMRFE4R2xSWDFQaVBPZjJEQXc?oc=5\" target=\"_blank\">Korean researchers seek opportunities overseas despite record funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSkdNM2VQUTVtcVNVd3NHcy10Y2Vka3c4RUE4cFQ3VF9SdDZSX181aWRfZHgtMDAxNDIzcEdHN3ExMGhidXZ4SkcwZTQ3QVNOQk8td21YeWdJdEV4bnpCN0xOQnpESE9NajhZRTVWS09oTGt0d1A2NGRwVjNPeDlaVWExeGhtOTNra2lnZDVHODlPTXR3R0ktSUx1ejV5UkdndVNwOVR3dUtQcVhwQ1JjSGU1UDNmbk9SUkZjdnN4bjRUY3dl0gHKAUFVX3lxTE5kQjI3SHhuUE9KNFN0UlZHeHFfTThTaW5jTUNUcDJNVVdiaDJCRDI2X1p1aVlXNmhEV0dpaWlKVXFHeFctSkRyR0V4S2RkN3BUaXEwaUo1Rk01dnZBT1ZFbFlzcnJ3b2hvOUlWcGtDTXBrejAyMlh5VmNrWnhDcWd3YWVFN0JKaHhXV0JjcTYta01tRHFyZHJHc0g5MEFXNHEzd0lmazdKYno0QkZUVDFJQy1RV2puamhMRFE4R2xSWDFQaVBPZjJEQXc?oc=5",
+          "source": "The Korea Times",
           "publishedAt": "2026-06-27",
           "views": "13.0K"
         },
         {
-          "title": "GC Wellbeing secures rights to obesity treatment RZL-012 for Korean market - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQmREYjh0TWVFQjYxb2Q4X1g4N25mWWpybjU4dXhSNDNfcC1mclYwc3I1V0VKb1Yyd0tZZnJaMmFILUFnVElDWEo4VG85Q2ViUjJYUzczYU9yV1gydUstenpUdzg0b1J3ZWRVZVkwenVBQlppVVhyVUZBRXE2TzhQYWJHektzMXoxTEVmbHR2S2RrQjVGaFZqTUQ4MWJyc2l6ZEtpSGdWckU0UVY5OUFaRHNXNkJVNWduZXBtNEI0d19GSEhFV2c0UXQ3VmEweTRI0gHQAUFVX3lxTE5CZERiOHRNZUVCNjFvZDhfWDg3bmZZanJuNTh1eFI0M19wLWZyVjBzcjVXRUpvVjJ3S1lmcloyYUgtQWdUSUNYSjhUbzlDZWJSMlhTNzNhT3JXWDJ1Sy16elR3ODRvUndlZFVlWTB6dUFCWmlVWHJVRkFFcTZPOFBhYkd6S3MxejFMRWZsdHZLZGtCNUZoVmpNRDgxYnJzaXpkS2lIZ1ZyRTRRVjk5QVpEc1c2QlU1Z25lcG00QjR3X0ZISEVXZzRRdDdWYTB5NEg?oc=5\" target=\"_blank\">GC Wellbeing secures rights to obesity treatment RZL-012 for Korean market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQmREYjh0TWVFQjYxb2Q4X1g4N25mWWpybjU4dXhSNDNfcC1mclYwc3I1V0VKb1Yyd0tZZnJaMmFILUFnVElDWEo4VG85Q2ViUjJYUzczYU9yV1gydUstenpUdzg0b1J3ZWRVZVkwenVBQlppVVhyVUZBRXE2TzhQYWJHektzMXoxTEVmbHR2S2RrQjVGaFZqTUQ4MWJyc2l6ZEtpSGdWckU0UVY5OUFaRHNXNkJVNWduZXBtNEI0d19GSEhFV2c0UXQ3VmEweTRI0gHQAUFVX3lxTE5CZERiOHRNZUVCNjFvZDhfWDg3bmZZanJuNTh1eFI0M19wLWZyVjBzcjVXRUpvVjJ3S1lmcloyYUgtQWdUSUNYSjhUbzlDZWJSMlhTNzNhT3JXWDJ1Sy16elR3ODRvUndlZFVlWTB6dUFCWmlVWHJVRkFFcTZPOFBhYkd6S3MxejFMRWZsdHZLZGtCNUZoVmpNRDgxYnJzaXpkS2lIZ1ZyRTRRVjk5QVpEc1c2QlU1Z25lcG00QjR3X0ZISEVXZzRRdDdWYTB5NEg?oc=5",
+          "title": "Topic: luxury market - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DRTFGZ3VfNnNxOWJLNnhjeUxJWGVMaXdCOXE5U25yOENmRTZzUVhhOU5obUlNOXJlSWR5eUZlZWxWeUswN2JicVZOQ0VnMlBLako0NVp3MjhYRThobm84LWVxYw?oc=5\" target=\"_blank\">Topic: luxury market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DRTFGZ3VfNnNxOWJLNnhjeUxJWGVMaXdCOXE5U25yOENmRTZzUVhhOU5obUlNOXJlSWR5eUZlZWxWeUswN2JicVZOQ0VnMlBLako0NVp3MjhYRThobm84LWVxYw?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-06-26",
+          "publishedAt": "2026-06-27",
+          "views": "13.0K"
+        },
+        {
+          "title": "China industrial profits stay resilient as economy leans on factories, exports - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNM0VOakRicmVyWHlPTnhLZi1KbFJpUTJKbE9qWVBYTUNNNTR3dkJUQVZFSFg0ZGc0VFJGZWVuUnFHaXRwZF9vVnVEeVFMTGNZSWNoZms4RDVLU0VkR2lCMXZ0Nmhma2gwMTBJUzdzODZjLWFQT3gtOWZjeVkzaFYzcW50ZzQ0LWIzTnZDTFBiUG5UM180WTlZWEx3WU9sNVB3MC1qWjlLb3ktTEwyUkRpTFVYRmotSWNNNTM0ZkdIaktaczcz?oc=5\" target=\"_blank\">China industrial profits stay resilient as economy leans on factories, exports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM0VOakRicmVyWHlPTnhLZi1KbFJpUTJKbE9qWVBYTUNNNTR3dkJUQVZFSFg0ZGc0VFJGZWVuUnFHaXRwZF9vVnVEeVFMTGNZSWNoZms4RDVLU0VkR2lCMXZ0Nmhma2gwMTBJUzdzODZjLWFQT3gtOWZjeVkzaFYzcW50ZzQ0LWIzTnZDTFBiUG5UM180WTlZWEx3WU9sNVB3MC1qWjlLb3ktTEwyUkRpTFVYRmotSWNNNTM0ZkdIaktaczcz?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-06-27",
           "views": "13.0K"
         }
       ]
@@ -172,6 +172,14 @@
       "hashtag": "#산업전략",
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
+        {
+          "title": "Apple seeks approval to buy chips from blacklisted Chinese company, FT reports - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR0hWRGYwOHQzdXh0YkpmelpzTW9ZS0xvRFk5c0NlblkzdU44QktvZW1FNkFjazU5c3RDVVJXWjZGNHZ4RHpkY3N3MDdhZG9IS2EwM2w0RHQtMmlyMjMyRVFqYVZ6RnF4QkJoa3NseVY4LVI0ekVsMkwteV9NTmYzUWV6cHZadzdMWHNzcV95M180NmI5Tnd6Smxlb09zOUpNci1CLTRqS0VpSTBNd2w5ZVlZUTdldzhZZFZGQUdVVDRJUQ?oc=5\" target=\"_blank\">Apple seeks approval to buy chips from blacklisted Chinese company, FT reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR0hWRGYwOHQzdXh0YkpmelpzTW9ZS0xvRFk5c0NlblkzdU44QktvZW1FNkFjazU5c3RDVVJXWjZGNHZ4RHpkY3N3MDdhZG9IS2EwM2w0RHQtMmlyMjMyRVFqYVZ6RnF4QkJoa3NseVY4LVI0ekVsMkwteV9NTmYzUWV6cHZadzdMWHNzcV95M180NmI5Tnd6Smxlb09zOUpNci1CLTRqS0VpSTBNd2w5ZVlZUTdldzhZZFZGQUdVVDRJUQ?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-06-27",
+          "views": "13.0K"
+        },
         {
           "title": "Korea turns to public for next tourism strategy - The Korea Times",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNbjlJMDZGN2lrV05YVFhZZmJMOFBLd01ZY2JSd3BlNmF5UUR4R3BybGhnX1ZIVHBETUktcndIWXN2MW9TVFlrNWlrZlpjUVgwRElkRm40MHoweWttN0U3Y2czX3U5VlZib0c4WVBFeDBUZFd1R2plSVcyWmVlV0RBQ3A3T0pjZVhJZWNQUkhoQjVMVF9zN2Ztay1yTnHSAaIBQVVfeXFMTzJ3MDlHY3JLLVJ1NXlsODVfWVNta3dLTkpiakhzLWxQMGJManpfUkFyalAwcDN0M25HQlRLWXpPVjBIclM3eU1jLTZDQkZOcTF0bW1DeU5VM0I0T21WVTlTQWY3UVQ2aDNvRGQ5Y0gybzZmR0hxVGxQelhnOTdNalRzUGZreEJaRkpMdV8tUUdKVUxYRl82d3ByMTVTc19EVTZR?oc=5\" target=\"_blank\">Korea turns to public for next tourism strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
@@ -185,14 +193,6 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSFFwWDBXYUFXbzNtZHR6OV9CdU03VktoYThfZ2Z5YjBqYnVrRFgxLVBMSVNVcXBvcFgtdVpaRjhlRXo0ZVlVY0Myd2xfTjFwa0ZJcEVVUWV2cXlmUGd6bWxBSWxvVDZHb3FBYWFDUUQzZ1JuQmY3cFJwQXYyMndfWk5aRWhMWVZGZDhyUGhNNlpTSDNqMUJmc2RucjhIaXBtRkQweVlZdzZuOVB5bXpPM1F0Y29abmNKcW9vMzVTWjdkVTZaaHV3dHgzdk5hcTJRVENSenNR0gHbAUFVX3lxTE1oTExCOGJkRkFoY0xZYkM4eHdYY1lweGd4dVRlZWxBMTIxYWZHazBWcU5xU010Nnh6TGtGdV9XVlJ0Unc3QVZqeW0yUWdtdG1uVEg4SHpjVm05bHBVOWc2bFZPTTdiRG1hc29RTnNWdFpzX2pPQzAzSmljeWtMY2RpUGlUaUI0TFVycDNneklUMnBzazdNM2lmQzJyYjNERmV5dzhxR1liWUpZOXJNSEJDU3UzOWZoUGtaeW9uX244RjA5Mlk5VGhvLXBxajJ4dk1HQWR0V0xKRVU0bw?oc=5\" target=\"_blank\">LS vice chairman highlights North America as cornerstone of global growth strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSFFwWDBXYUFXbzNtZHR6OV9CdU03VktoYThfZ2Z5YjBqYnVrRFgxLVBMSVNVcXBvcFgtdVpaRjhlRXo0ZVlVY0Myd2xfTjFwa0ZJcEVVUWV2cXlmUGd6bWxBSWxvVDZHb3FBYWFDUUQzZ1JuQmY3cFJwQXYyMndfWk5aRWhMWVZGZDhyUGhNNlpTSDNqMUJmc2RucjhIaXBtRkQweVlZdzZuOVB5bXpPM1F0Y29abmNKcW9vMzVTWjdkVTZaaHV3dHgzdk5hcTJRVENSenNR0gHbAUFVX3lxTE1oTExCOGJkRkFoY0xZYkM4eHdYY1lweGd4dVRlZWxBMTIxYWZHazBWcU5xU010Nnh6TGtGdV9XVlJ0Unc3QVZqeW0yUWdtdG1uVEg4SHpjVm05bHBVOWc2bFZPTTdiRG1hc29RTnNWdFpzX2pPQzAzSmljeWtMY2RpUGlUaUI0TFVycDNneklUMnBzazdNM2lmQzJyYjNERmV5dzhxR1liWUpZOXJNSEJDU3UzOWZoUGtaeW9uX244RjA5Mlk5VGhvLXBxajJ4dk1HQWR0V0xKRVU0bw?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-06-26",
-          "views": "13.0K"
-        },
-        {
-          "title": "OpenAI defers public rollout of GPT‑5.6 as US seeks early access to frontier AI models - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQUnFfdzFOMEtRZ2xQYThDMDl3OFlWUDVFQ3VFelowLVVHUGt0TktoUHMzamJDekMzS09jaGR5RU9EaVNsNmdKR1JYSzVwbGNneUVaWWlnQzM4YnUxZGp3ZkthVlYyUGhXMUtDSjNZVC1YSGlpeDYxVjBOTkdSeGltaC15TjRqYVJiQnlxVlhjY01ZODRVQURFMjZEbVdaUHRJV2JlNklyRXRpNzAxbnVDS1dETk82WjJxLXZFdFRrSk8tTDJJZTJF?oc=5\" target=\"_blank\">OpenAI defers public rollout of GPT‑5.6 as US seeks early access to frontier AI models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUnFfdzFOMEtRZ2xQYThDMDl3OFlWUDVFQ3VFelowLVVHUGt0TktoUHMzamJDekMzS09jaGR5RU9EaVNsNmdKR1JYSzVwbGNneUVaWWlnQzM4YnUxZGp3ZkthVlYyUGhXMUtDSjNZVC1YSGlpeDYxVjBOTkdSeGltaC15TjRqYVJiQnlxVlhjY01ZODRVQURFMjZEbVdaUHRJV2JlNklyRXRpNzAxbnVDS1dETk82WjJxLXZFdFRrSk8tTDJJZTJF?oc=5",
-          "source": "Reuters AI",
           "publishedAt": "2026-06-26",
           "views": "13.0K"
         }
