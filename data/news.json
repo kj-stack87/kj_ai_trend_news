@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T04:57:33.104Z",
+  "lastUpdated": "2026-06-30T04:33:00.118Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -80,6 +80,14 @@
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
         {
+          "title": "HP accelerates enterprise workflows with OpenAI Frontier - AI News",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ2tObmZ3alVwOU5HRVRsMjQyWlV2R040Z0JKUGU1cnlwSGdMOUNicVRqUWh5X1dQTGVIanJaQU1lVkdSQlg1bmdZZ09ad3dKYnJuZkx0UDJPRnQ5M2c3alNUUFJjRlpmN1YycUw4RmZtWUdjUHEtNjBVczBFdmkxVHVWUjZoSGJVTmVYSXFHaVM2YkJMZjk0eFRlSkEyazRUb21R?oc=5\" target=\"_blank\">HP accelerates enterprise workflows with OpenAI Frontier</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI News</font>",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ2tObmZ3alVwOU5HRVRsMjQyWlV2R040Z0JKUGU1cnlwSGdMOUNicVRqUWh5X1dQTGVIanJaQU1lVkdSQlg1bmdZZ09ad3dKYnJuZkx0UDJPRnQ5M2c3alNUUFJjRlpmN1YycUw4RmZtWUdjUHEtNjBVczBFdmkxVHVWUjZoSGJVTmVYSXFHaVM2YkJMZjk0eFRlSkEyazRUb21R?oc=5",
+          "source": "AI News",
+          "publishedAt": "2026-06-29",
+          "views": "18.0K"
+        },
+        {
           "title": "Prompt injection is exploiting enterprise AI's biggest design flaws by targeting agents, RAG pipelines and model routers - VentureBeat",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeHR6dGc5dlAzMTd6X0xOdllsdndndnNpalVXSk00MjhMejVVSDJKeWFTSWZKNENHN3ozVERvX2t5V2x3UG85UmdlVlB1eGtha1pOVFlfVGFMQVNQNGsxbU5BdlBCeUVPZFJseW14UEJfc1k3LUlVOE9KMERoOUlaM0RoektvYmVLRnZFaHBoX256ci14UklPU18yR1g0WFZ3YUFBNXhnYlQ5c19od1duak5yeEw4b2tGWGNOQXRJaVdqRzJxdUtUZlIzdFF5c1NaOUtoM29vdTBMUXZwMklDOV8yVThNZw?oc=5\" target=\"_blank\">Prompt injection is exploiting enterprise AI's biggest design flaws by targeting agents, RAG pipelines and model routers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeHR6dGc5dlAzMTd6X0xOdllsdndndnNpalVXSk00MjhMejVVSDJKeWFTSWZKNENHN3ozVERvX2t5V2x3UG85UmdlVlB1eGtha1pOVFlfVGFMQVNQNGsxbU5BdlBCeUVPZFJseW14UEJfc1k3LUlVOE9KMERoOUlaM0RoektvYmVLRnZFaHBoX256ci14UklPU18yR1g0WFZ3YUFBNXhnYlQ5c19od1duak5yeEw4b2tGWGNOQXRJaVdqRzJxdUtUZlIzdFF5c1NaOUtoM29vdTBMUXZwMklDOV8yVThNZw?oc=5",
@@ -94,14 +102,6 @@
           "source": "VentureBeat AI",
           "publishedAt": "2026-06-24",
           "views": "18.0K"
-        },
-        {
-          "title": "Why agentic enterprises need to become learning systems - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPeU1HcTBTVDB2STFGdjZZVnZaV1NZb2d2dmxyQzYzb2tabnppcHlEN21MV19rMWpUSDZjQUh0cGlPT29XVUdrRmZyQ0VqTElnNDJYWWRGUURDaFBFRmpKLTkyNk5DdlIzVVJzWnRjMWxyNERxNnlZaG82X1FPamZfUTJhSGl0RExWdlFoaWFhYWFUcVVtOUd1MA?oc=5\" target=\"_blank\">Why agentic enterprises need to become learning systems</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeU1HcTBTVDB2STFGdjZZVnZaV1NZb2d2dmxyQzYzb2tabnppcHlEN21MV19rMWpUSDZjQUh0cGlPT29XVUdrRmZyQ0VqTElnNDJYWWRGUURDaFBFRmpKLTkyNk5DdlIzVVJzWnRjMWxyNERxNnlZaG82X1FPamZfUTJhSGl0RExWdlFoaWFhYWFUcVVtOUd1MA?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-06-22",
-          "views": "18.0K"
         }
       ]
     },
@@ -111,27 +111,27 @@
       "description": "규제, 책임, 신뢰, 저작권 같은 문제를 보는 관점",
       "items": [
         {
-          "title": "Prompt injection is exploiting enterprise AI's biggest design flaws by targeting agents, RAG pipelines and model routers - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeHR6dGc5dlAzMTd6X0xOdllsdndndnNpalVXSk00MjhMejVVSDJKeWFTSWZKNENHN3ozVERvX2t5V2x3UG85UmdlVlB1eGtha1pOVFlfVGFMQVNQNGsxbU5BdlBCeUVPZFJseW14UEJfc1k3LUlVOE9KMERoOUlaM0RoektvYmVLRnZFaHBoX256ci14UklPU18yR1g0WFZ3YUFBNXhnYlQ5c19od1duak5yeEw4b2tGWGNOQXRJaVdqRzJxdUtUZlIzdFF5c1NaOUtoM29vdTBMUXZwMklDOV8yVThNZw?oc=5\" target=\"_blank\">Prompt injection is exploiting enterprise AI's biggest design flaws by targeting agents, RAG pipelines and model routers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeHR6dGc5dlAzMTd6X0xOdllsdndndnNpalVXSk00MjhMejVVSDJKeWFTSWZKNENHN3ozVERvX2t5V2x3UG85UmdlVlB1eGtha1pOVFlfVGFMQVNQNGsxbU5BdlBCeUVPZFJseW14UEJfc1k3LUlVOE9KMERoOUlaM0RoektvYmVLRnZFaHBoX256ci14UklPU18yR1g0WFZ3YUFBNXhnYlQ5c19od1duak5yeEw4b2tGWGNOQXRJaVdqRzJxdUtUZlIzdFF5c1NaOUtoM29vdTBMUXZwMklDOV8yVThNZw?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-06-28",
+          "title": "3 PPP lawmakers booked for obstructing Yoon's arrest over martial law bid - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQQlN2dzkzYWxSbGhPd2hnMFpaRklCdzJjT0NqNkMzM296b1gtZDdUQzlWakotbkppM0FISy0zUWI2a1NrNEt3R3U1M0wzNTQ5TWtsejZ1cnE3YzdrMFhyMy1SUUNzR1RqS2NOTzdGUW92bjJNX0RwTkYzc0Z0YWRMVzR1dFdpS045eVpNcFAxVnIxZ2piRm50bUlOWTEtNDBKNGxlLXFGUUJXS2RVenc5QXhSZmJsU2NhMWJJNHgzdC1rblp6bkFkSjFVb9IB0AFBVV95cUxQNEpKY25xTGVEOGpwU2tLc1dxQTdWbGV3UHlMR0xsQnY0TGpYWTl6b1lLOHJKUzhaLWQzR19SaFRrdmMtS0RhOVZaTGRkN3lrWXVwU0JoOVU2SWNIT1labGV6S1pFelRsamEtTkFOQ0NJN1k3cktzSUE3dktCeG9KSTF0dG1uMVNBMkhSWjF3TURuVGhMb3RNbUVhdlR0NDRDcXphNGxGaWJBWnhmT0F1TDYya2FVbjZpdFVEaG11MG51ZTdxS01Ka0ZCaVNqRWRq?oc=5\" target=\"_blank\">3 PPP lawmakers booked for obstructing Yoon's arrest over martial law bid</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQlN2dzkzYWxSbGhPd2hnMFpaRklCdzJjT0NqNkMzM296b1gtZDdUQzlWakotbkppM0FISy0zUWI2a1NrNEt3R3U1M0wzNTQ5TWtsejZ1cnE3YzdrMFhyMy1SUUNzR1RqS2NOTzdGUW92bjJNX0RwTkYzc0Z0YWRMVzR1dFdpS045eVpNcFAxVnIxZ2piRm50bUlOWTEtNDBKNGxlLXFGUUJXS2RVenc5QXhSZmJsU2NhMWJJNHgzdC1rblp6bkFkSjFVb9IB0AFBVV95cUxQNEpKY25xTGVEOGpwU2tLc1dxQTdWbGV3UHlMR0xsQnY0TGpYWTl6b1lLOHJKUzhaLWQzR19SaFRrdmMtS0RhOVZaTGRkN3lrWXVwU0JoOVU2SWNIT1labGV6S1pFelRsamEtTkFOQ0NJN1k3cktzSUE3dktCeG9KSTF0dG1uMVNBMkhSWjF3TURuVGhMb3RNbUVhdlR0NDRDcXphNGxGaWJBWnhmT0F1TDYya2FVbjZpdFVEaG11MG51ZTdxS01Ka0ZCaVNqRWRq?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-06-29",
           "views": "13.0K"
         },
         {
-          "title": "BIS says debt, AI boom and fragilities raise global risks - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNNVR4T0hxcEdBMnhpb3UwQThfajRZbl9DVkdCNVRmaUFoaHhNX1hzWm9MM3pXTk5aazFzMGpySTRCY3BPWUJfX0cyZE41ZjlmOVVOdWZBVk81QkllWjdxcEFSYmJnU19tZjN2MEpabDFrSS1FZk9LMXNfR3FTX0pLYg?oc=5\" target=\"_blank\">BIS says debt, AI boom and fragilities raise global risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNVR4T0hxcEdBMnhpb3UwQThfajRZbl9DVkdCNVRmaUFoaHhNX1hzWm9MM3pXTk5aazFzMGpySTRCY3BPWUJfX0cyZE41ZjlmOVVOdWZBVk81QkllWjdxcEFSYmJnU19tZjN2MEpabDFrSS1FZk9LMXNfR3FTX0pLYg?oc=5",
+          "title": "French parliament passes fast-fashion law to curb Shein and Temu - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPOXByX1JTOFRMenJ5NHpkaGxOM3FQNUZWbDg1YVh6amZKNWd6OHFVdUNzeW5pVmxVNVM3cmFVdXZ5QVFrTnZJMU5lMWF1UGhYN2tvaHRMOTl4aXVOY1NzaHRyRTFJZG9jMWM3WVNrdF96ckNNbENPaUxZVTcxOGpNdjQ3dUJhLWd0cmhhS1RxQWVDYVo4d2tBWTJKY0JNWEotdDNMOWtPVWNOb0dXM2czcnZPRkptOEd5TWc?oc=5\" target=\"_blank\">French parliament passes fast-fashion law to curb Shein and Temu</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOXByX1JTOFRMenJ5NHpkaGxOM3FQNUZWbDg1YVh6amZKNWd6OHFVdUNzeW5pVmxVNVM3cmFVdXZ5QVFrTnZJMU5lMWF1UGhYN2tvaHRMOTl4aXVOY1NzaHRyRTFJZG9jMWM3WVNrdF96ckNNbENPaUxZVTcxOGpNdjQ3dUJhLWd0cmhhS1RxQWVDYVo4d2tBWTJKY0JNWEotdDNMOWtPVWNOb0dXM2czcnZPRkptOEd5TWc?oc=5",
           "source": "Reuters AI",
-          "publishedAt": "2026-06-28",
+          "publishedAt": "2026-06-29",
           "views": "13.0K"
         },
         {
-          "title": "California law targeting loud streaming ads takes effect on July 1 - TechCrunch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQbHc4d2txSWh1QnNEZ1BTRktoMXcxcjd6RUllMHFLWUNrM3NkQzdCXzk0TzUtT2xDYWZZSVBMc1Q1NDJxc1IyOUk3LXhsakhRU2RfN1g1TTZTUmE1VjBhMERlaF9YVlFJWmZaSURCTXpCNVQ0Zjg2VkdKQlRadC1RdXZQUWxGSUlpQ3MzcUFNak5XNmV4RVZKcXlUZlZzQUpORXJv?oc=5\" target=\"_blank\">California law targeting loud streaming ads takes effect on July 1</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbHc4d2txSWh1QnNEZ1BTRktoMXcxcjd6RUllMHFLWUNrM3NkQzdCXzk0TzUtT2xDYWZZSVBMc1Q1NDJxc1IyOUk3LXhsakhRU2RfN1g1TTZTUmE1VjBhMERlaF9YVlFJWmZaSURCTXpCNVQ0Zjg2VkdKQlRadC1RdXZQUWxGSUlpQ3MzcUFNak5XNmV4RVZKcXlUZlZzQUpORXJv?oc=5",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-06-28",
+          "title": "Data centers aren't the real US power problem. Outdated policy is - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWkdTeTVEUWMtWFU3SVhjY1IwNmpmaVJmMHBEaHJ3VmFaWGp4ZWpjSERHem12dHBWWXQzSlhQMjVPdUNYb2pSWGtoT1F5SGttTmxXelBBYVZBazJrd1p4d0pJaTdTMENPeGp0MVJhUHlVTXI5RVdsOGdTekhiN1E1MVJtN00yYndkZjhWcnFNb3FLWmttcTBtRmJKa05TTlNMb3VKem5qXzROeVN3VXhHaFlIaWlXSWRyZjMyQ1Z5SmpoWHRRZEI2SWM2SHZoUXZnY1FCLUtGRXl5WXY0?oc=5\" target=\"_blank\">Data centers aren't the real US power problem. Outdated policy is</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWkdTeTVEUWMtWFU3SVhjY1IwNmpmaVJmMHBEaHJ3VmFaWGp4ZWpjSERHem12dHBWWXQzSlhQMjVPdUNYb2pSWGtoT1F5SGttTmxXelBBYVZBazJrd1p4d0pJaTdTMENPeGp0MVJhUHlVTXI5RVdsOGdTekhiN1E1MVJtN00yYndkZjhWcnFNb3FLWmttcTBtRmJKa05TTlNMb3VKem5qXzROeVN3VXhHaFlIaWlXSWRyZjMyQ1Z5SmpoWHRRZEI2SWM2SHZoUXZnY1FCLUtGRXl5WXY0?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-06-29",
           "views": "13.0K"
         }
       ]
@@ -142,26 +142,26 @@
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
         {
-          "title": "Lee set to unveil large-scale investment plans in advanced tech, including chip cluster - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNN2VrR3ZOWkVseEU5X0QzT3F6dmJIWFZrNG90dnExM1RFMkFZaU14UUVZMFNMQ2VGQ0lwYnhEYktDY3FWRTNvVjBsU0JhYVdTclE2SmhscGUyU0l4OWpRWkhhTDk0aUpVSmI0LTBCSUlSWExMQ1k4N1ZhV0s0MVBHT05ZQ2xsTjNwRzMtWDdBVjlsV2tURF9IUEYwdW1hcmptODRSWkpJUjZiU2EwLThEOWNnVm9jWGF6Z0JrUGRXOUlWd0lkLWNFX09tSG1JUdIB0wFBVV95cUxQby1TWU9zSTU5Vllxb0pONmQ3VUxtVExPR05mSmFOZ0h1Z09zeTRBdmpVWXZhd2JSSFlCb0MwUGVlQmdpeGNuaFV5RFlOVHh0aHI3bFQ2Z1d1NFZpdmhWeWhlLW1mSGFTOGE2Ym1QRDExcms2WTRuZXd2bE93VUxCak1sbGRsSk4yWFV0TzE2dTZreThQUi1PQ2hPdzgzcE02Y2V3UnJpbHMyYzlkNlVYTHFneWFzRDloNFZ6amFlaVhaWWhwdFNvTHVVYndoT0wyXzZF?oc=5\" target=\"_blank\">Lee set to unveil large-scale investment plans in advanced tech, including chip cluster</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNN2VrR3ZOWkVseEU5X0QzT3F6dmJIWFZrNG90dnExM1RFMkFZaU14UUVZMFNMQ2VGQ0lwYnhEYktDY3FWRTNvVjBsU0JhYVdTclE2SmhscGUyU0l4OWpRWkhhTDk0aUpVSmI0LTBCSUlSWExMQ1k4N1ZhV0s0MVBHT05ZQ2xsTjNwRzMtWDdBVjlsV2tURF9IUEYwdW1hcmptODRSWkpJUjZiU2EwLThEOWNnVm9jWGF6Z0JrUGRXOUlWd0lkLWNFX09tSG1JUdIB0wFBVV95cUxQby1TWU9zSTU5Vllxb0pONmQ3VUxtVExPR05mSmFOZ0h1Z09zeTRBdmpVWXZhd2JSSFlCb0MwUGVlQmdpeGNuaFV5RFlOVHh0aHI3bFQ2Z1d1NFZpdmhWeWhlLW1mSGFTOGE2Ym1QRDExcms2WTRuZXd2bE93VUxCak1sbGRsSk4yWFV0TzE2dTZreThQUi1PQ2hPdzgzcE02Y2V3UnJpbHMyYzlkNlVYTHFneWFzRDloNFZ6amFlaVhaWWhwdFNvTHVVYndoT0wyXzZF?oc=5",
+          "title": "Tax revenue up 19% in May on higher income, bullish stock market - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNZVhKY1QyTmRobE1pdkxMU0dmUkx2UlZlLUg2TjExUjF2RkNPb1gtbWhUMkJQM1dXdGpLX3RRRkgzUnhQdVc0LWFkSmQyamlIZWJvU3ZFX09yN0I0UV9ISlhTVmFjb0tTMlRoRG1VbjhMemFRU244Q25EMmJvQ0lPOWhUS1BrTmkyT21Ld09sQVpaOVltbnR4cXlDZE5Zd1lGTk4weFBIMjZEcnpOSXRMaHJB0gGyAUFVX3lxTE1lWEpjVDJOZGhsTWl2TExTR2ZSTHZSVmUtSDZOMTFSMXZGQ09vWC1taFQyQlAzV1d0aktfdFFGSDNSeFB1VzQtYWRKZDJqaUhlYm9TdkVfT3I3QjRRX0hKWFNWYWNvS1MyVGhEbVVuOEx6YVFTbjhDbkQyYm9DSU85aFRLUGtOaTJPbUt3T2xBWlo5WW1udHhxeUNkTll3WUZOTjB4UEgyNkRyek5JdExockE?oc=5\" target=\"_blank\">Tax revenue up 19% in May on higher income, bullish stock market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZVhKY1QyTmRobE1pdkxMU0dmUkx2UlZlLUg2TjExUjF2RkNPb1gtbWhUMkJQM1dXdGpLX3RRRkgzUnhQdVc0LWFkSmQyamlIZWJvU3ZFX09yN0I0UV9ISlhTVmFjb0tTMlRoRG1VbjhMemFRU244Q25EMmJvQ0lPOWhUS1BrTmkyT21Ld09sQVpaOVltbnR4cXlDZE5Zd1lGTk4weFBIMjZEcnpOSXRMaHJB0gGyAUFVX3lxTE1lWEpjVDJOZGhsTWl2TExTR2ZSTHZSVmUtSDZOMTFSMXZGQ09vWC1taFQyQlAzV1d0aktfdFFGSDNSeFB1VzQtYWRKZDJqaUhlYm9TdkVfT3I3QjRRX0hKWFNWYWNvS1MyVGhEbVVuOEx6YVFTbjhDbkQyYm9DSU85aFRLUGtOaTJPbUt3T2xBWlo5WW1udHhxeUNkTll3WUZOTjB4UEgyNkRyek5JdExockE?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-06-29",
+          "publishedAt": "2026-06-30",
           "views": "13.0K"
         },
         {
-          "title": "Seoul bets big on global startup platform as AI reshapes industries - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNTE5azNkaXpya0V5TTFDT1g1ZE9FNXl2OW16Mm1XOF9OUEZHMjlIRW5iTWlSUWxiSmtTZmZHVTF3UDBxUXptWkNTTmIzNGtqSXY3Z3I5VzFUclBsRW1idTYzU1FCZXNGVWlnTkxSWVkxd3k4TkRCTkFOazlzNkZwUHRaZkYzODF6VnBfYUJvQ0E4OU9TUHZoSXM0bnUzY0xLLUp3QUtOV19VeEdpei00YWdEM3VtSm5UU3VTUi1CVHY2Yzg3RndSZ9IBzgFBVV95cUxQaXRxMFluTGhIdllhSUJrRGJGbWd5R19YRm9JTkkwa2Q4QzJYRUhaTmVWRG90dWp6WVRSQ2dob0tlSnJqVlhNVGxIcDZsQWh3RjdSeDVNS2pFU0ZpNzBhMlNYLUZHZFZWX1gyX2VQbXJiaVEwbHMyNkVHV210eGh2MUxucXRrcGc4NFNudGxKalBHSXRSVVBwMkJYd1lYa2REMnNLNTZGSmVZUk5PTDdhU1V3Sk51UXFSd2R1UzJHY2E4U2dFZ0VhS3cta3o5QQ?oc=5\" target=\"_blank\">Seoul bets big on global startup platform as AI reshapes industries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNTE5azNkaXpya0V5TTFDT1g1ZE9FNXl2OW16Mm1XOF9OUEZHMjlIRW5iTWlSUWxiSmtTZmZHVTF3UDBxUXptWkNTTmIzNGtqSXY3Z3I5VzFUclBsRW1idTYzU1FCZXNGVWlnTkxSWVkxd3k4TkRCTkFOazlzNkZwUHRaZkYzODF6VnBfYUJvQ0E4OU9TUHZoSXM0bnUzY0xLLUp3QUtOV19VeEdpei00YWdEM3VtSm5UU3VTUi1CVHY2Yzg3RndSZ9IBzgFBVV95cUxQaXRxMFluTGhIdllhSUJrRGJGbWd5R19YRm9JTkkwa2Q4QzJYRUhaTmVWRG90dWp6WVRSQ2dob0tlSnJqVlhNVGxIcDZsQWh3RjdSeDVNS2pFU0ZpNzBhMlNYLUZHZFZWX1gyX2VQbXJiaVEwbHMyNkVHV210eGh2MUxucXRrcGc4NFNudGxKalBHSXRSVVBwMkJYd1lYa2REMnNLNTZGSmVZUk5PTDdhU1V3Sk51UXFSd2R1UzJHY2E4U2dFZ0VhS3cta3o5QQ?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-06-29",
+          "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQbWIyUmRxS2RJbFhCcHZGUGFpRXBJVTlwTFZ6N3hGSlBuYlVkOW5IbmVMeGI5MVR4a04weVkxTUZNZzRNX0czakhRcjFha2hIR1o3QkozMmxqSlZnY0tUVkZmNEVCSVlZZjNuMjZPYWtQakpXS3oxeElPLV9JTzJ0ZUlmVFA4SzV3MVJKRWQyNjlfb3RvemRGZ3doc25SMUdiTlFFYjRpV1ZleDd3ZTNmY0owbTFFQQ?oc=5\" target=\"_blank\">Vibe coding platform Base44 launches own model as AI startups seek defensibility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbWIyUmRxS2RJbFhCcHZGUGFpRXBJVTlwTFZ6N3hGSlBuYlVkOW5IbmVMeGI5MVR4a04weVkxTUZNZzRNX0czakhRcjFha2hIR1o3QkozMmxqSlZnY0tUVkZmNEVCSVlZZjNuMjZPYWtQakpXS3oxeElPLV9JTzJ0ZUlmVFA4SzV3MVJKRWQyNjlfb3RvemRGZ3doc25SMUdiTlFFYjRpV1ZleDd3ZTNmY0owbTFFQQ?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-06-30",
           "views": "13.0K"
         },
         {
-          "title": "South Korean president to unveil massive AI and chip investment drive - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUNqWjl6MERPSDlWbU9PcWFac1g2anI3NF8xSE1falktWnRsVUVTdHZOT1VOVmhOemcxUUJPNjdLWWdwM2x5enBYc1RMa0FCNTd3TzFSMGEySDNFM3JRNHVJZjdVWWNnd1F4Wm90dEJrWEgtWGJfNFI2ZWhLeWVkOGJUdTRYTGtqbk1IX0FwSmhrQ0tybXgwZUVsU1pSclVHWERTQzRCWWR6aDVuRzFublFuYk9wYmdU?oc=5\" target=\"_blank\">South Korean president to unveil massive AI and chip investment drive</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUNqWjl6MERPSDlWbU9PcWFac1g2anI3NF8xSE1falktWnRsVUVTdHZOT1VOVmhOemcxUUJPNjdLWWdwM2x5enBYc1RMa0FCNTd3TzFSMGEySDNFM3JRNHVJZjdVWWNnd1F4Wm90dEJrWEgtWGJfNFI2ZWhLeWVkOGJUdTRYTGtqbk1IX0FwSmhrQ0tybXgwZUVsU1pSclVHWERTQzRCWWR6aDVuRzFublFuYk9wYmdU?oc=5",
-          "source": "Reuters AI",
+          "title": "South Korea to Launch AI Agent Marketplace to Foster Tech Ecosystem - 전자신문",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBxNTdfMWFHTGotelNQM1ZLTXRxX2lyaFJBbXM4QkhuRUIwNDh5S2plTl9qVjktMHhZX2NGR2NMU0dwZlBCWV94cEQ0d0Y?oc=5\" target=\"_blank\">South Korea to Launch AI Agent Marketplace to Foster Tech Ecosystem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전자신문</font>",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBxNTdfMWFHTGotelNQM1ZLTXRxX2lyaFJBbXM4QkhuRUIwNDh5S2plTl9qVjktMHhZX2NGR2NMU0dwZlBCWV94cEQ0d0Y?oc=5",
+          "source": "전자신문",
           "publishedAt": "2026-06-29",
           "views": "13.0K"
         }
@@ -173,27 +173,27 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
-          "title": "Apple seeks approval to buy chips from blacklisted Chinese company, FT reports - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR0hWRGYwOHQzdXh0YkpmelpzTW9ZS0xvRFk5c0NlblkzdU44QktvZW1FNkFjazU5c3RDVVJXWjZGNHZ4RHpkY3N3MDdhZG9IS2EwM2w0RHQtMmlyMjMyRVFqYVZ6RnF4QkJoa3NseVY4LVI0ekVsMkwteV9NTmYzUWV6cHZadzdMWHNzcV95M180NmI5Tnd6Smxlb09zOUpNci1CLTRqS0VpSTBNd2w5ZVlZUTdldzhZZFZGQUdVVDRJUQ?oc=5\" target=\"_blank\">Apple seeks approval to buy chips from blacklisted Chinese company, FT reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR0hWRGYwOHQzdXh0YkpmelpzTW9ZS0xvRFk5c0NlblkzdU44QktvZW1FNkFjazU5c3RDVVJXWjZGNHZ4RHpkY3N3MDdhZG9IS2EwM2w0RHQtMmlyMjMyRVFqYVZ6RnF4QkJoa3NseVY4LVI0ekVsMkwteV9NTmYzUWV6cHZadzdMWHNzcV95M180NmI5Tnd6Smxlb09zOUpNci1CLTRqS0VpSTBNd2w5ZVlZUTdldzhZZFZGQUdVVDRJUQ?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-06-27",
+          "title": "SAP Korea to host AI Tour event focused on autonomous enterprise strategy - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQaHBCeFlOWVI3S01oNlpDcm1QNHV3aE1NZDc5aWwwMk14Y0o1eUpIVlFrTUprSmdlTmladUFXTlFhVmV3ckhWTXk5V184Q3pRTndwdHF4OTB4STl0bTAzZXM0UnFHUUxYcE1hMEY0RFd0R3Y3SkF6Mk81SDRPV2R5S0s4b3pyTnJEeS1SYWYtakFpaS11dzFBVzVlVmxxMTVlRi1kZFhNRGtJTHJyVnQ5OGZGOEJtdWdaQWxkM3h0ZmtQSzNsdzJnOTZn0gHPAUFVX3lxTFA2enl2ZktYY01NUVRkYTNZT1BkeXpCczRpbTVTcHNtdklLR1VQUnhaVGM0VHpRaXcxRmM4STl1MkREYjdLZ1RMSHpQN0pQbXFRalE0SVVfR2pFenR2TWM1UVpBMmdIbDByTmZJNUJFbFRWay1IOWEwcTF0N1dPcXQ4eko3cG5jaUtzcUZNSktXbjlReXF0NklBZnh0ay0zeTNDbHZyQUJTRDU0Z3RTTlJRNVFlN0t1cFYxNFE3cFJrcTdPazY5NVNWUWhza3lZNA?oc=5\" target=\"_blank\">SAP Korea to host AI Tour event focused on autonomous enterprise strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaHBCeFlOWVI3S01oNlpDcm1QNHV3aE1NZDc5aWwwMk14Y0o1eUpIVlFrTUprSmdlTmladUFXTlFhVmV3ckhWTXk5V184Q3pRTndwdHF4OTB4STl0bTAzZXM0UnFHUUxYcE1hMEY0RFd0R3Y3SkF6Mk81SDRPV2R5S0s4b3pyTnJEeS1SYWYtakFpaS11dzFBVzVlVmxxMTVlRi1kZFhNRGtJTHJyVnQ5OGZGOEJtdWdaQWxkM3h0ZmtQSzNsdzJnOTZn0gHPAUFVX3lxTFA2enl2ZktYY01NUVRkYTNZT1BkeXpCczRpbTVTcHNtdklLR1VQUnhaVGM0VHpRaXcxRmM4STl1MkREYjdLZ1RMSHpQN0pQbXFRalE0SVVfR2pFenR2TWM1UVpBMmdIbDByTmZJNUJFbFRWay1IOWEwcTF0N1dPcXQ4eko3cG5jaUtzcUZNSktXbjlReXF0NklBZnh0ay0zeTNDbHZyQUJTRDU0Z3RTTlJRNVFlN0t1cFYxNFE3cFJrcTdPazY5NVNWUWhza3lZNA?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-06-30",
           "views": "13.0K"
         },
         {
-          "title": "Korea turns to public for next tourism strategy - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNbjlJMDZGN2lrV05YVFhZZmJMOFBLd01ZY2JSd3BlNmF5UUR4R3BybGhnX1ZIVHBETUktcndIWXN2MW9TVFlrNWlrZlpjUVgwRElkRm40MHoweWttN0U3Y2czX3U5VlZib0c4WVBFeDBUZFd1R2plSVcyWmVlV0RBQ3A3T0pjZVhJZWNQUkhoQjVMVF9zN2Ztay1yTnHSAaIBQVVfeXFMTzJ3MDlHY3JLLVJ1NXlsODVfWVNta3dLTkpiakhzLWxQMGJManpfUkFyalAwcDN0M25HQlRLWXpPVjBIclM3eU1jLTZDQkZOcTF0bW1DeU5VM0I0T21WVTlTQWY3UVQ2aDNvRGQ5Y0gybzZmR0hxVGxQelhnOTdNalRzUGZreEJaRkpMdV8tUUdKVUxYRl82d3ByMTVTc19EVTZR?oc=5\" target=\"_blank\">Korea turns to public for next tourism strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbjlJMDZGN2lrV05YVFhZZmJMOFBLd01ZY2JSd3BlNmF5UUR4R3BybGhnX1ZIVHBETUktcndIWXN2MW9TVFlrNWlrZlpjUVgwRElkRm40MHoweWttN0U3Y2czX3U5VlZib0c4WVBFeDBUZFd1R2plSVcyWmVlV0RBQ3A3T0pjZVhJZWNQUkhoQjVMVF9zN2Ztay1yTnHSAaIBQVVfeXFMTzJ3MDlHY3JLLVJ1NXlsODVfWVNta3dLTkpiakhzLWxQMGJManpfUkFyalAwcDN0M25HQlRLWXpPVjBIclM3eU1jLTZDQkZOcTF0bW1DeU5VM0I0T21WVTlTQWY3UVQ2aDNvRGQ5Y0gybzZmR0hxVGxQelhnOTdNalRzUGZreEJaRkpMdV8tUUdKVUxYRl82d3ByMTVTc19EVTZR?oc=5",
+          "title": "Seoul seeks to reshape tourism strategy to guard against overtourism - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNOTNEZWljUzBIaGExb0lMMG5sdE1xT29yMkRBdnZZbm4xdHdGMVVheUdfb2FPRm1JQmlKSDdMYWhFNk9VemI1ZXBVbFhrNGtFUUhwQS1LN2FqZVdOR1gweU1DM0Y4WVhuR0FqeDFlRllDdk9rNnZXV1l3akdyYVBkUFRYbllCc1N6ZXhiMmJrX1BjZDNPbG1YZE5DaGd6REVocXRlSTRUVlN4Z1cxbTc4ZlQ4Ykt5NlZmcTA0VkNEVndZSnBNYk9MbWVFam_SAcwBQVVfeXFMTTkzRGVpY1MwSGhhMW9JTDBubHRNcU9vcjJEQXZ2WW5uMXR3RjFVYXlHX29hT0ZtSUJpSkg3TGFoRTZPVXpiNWVwVWxYazRrRVFIcEEtSzdhamVXTkdYMHlNQzNGOFlYbkdBangxZUZZQ3ZPazZ2V1dZd2pHcmFQZFBUWG5ZQnNTemV4YjJia19QY2QzT2xtWGROQ2hnekRFaHF0ZUk0VFZTeGdXMW03OGZUOGJLeTZWZnEwNFZDRFZ3WUpwTWJPTG1lRWpv?oc=5\" target=\"_blank\">Seoul seeks to reshape tourism strategy to guard against overtourism</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOTNEZWljUzBIaGExb0lMMG5sdE1xT29yMkRBdnZZbm4xdHdGMVVheUdfb2FPRm1JQmlKSDdMYWhFNk9VemI1ZXBVbFhrNGtFUUhwQS1LN2FqZVdOR1gweU1DM0Y4WVhuR0FqeDFlRllDdk9rNnZXV1l3akdyYVBkUFRYbllCc1N6ZXhiMmJrX1BjZDNPbG1YZE5DaGd6REVocXRlSTRUVlN4Z1cxbTc4ZlQ4Ykt5NlZmcTA0VkNEVndZSnBNYk9MbWVFam_SAcwBQVVfeXFMTTkzRGVpY1MwSGhhMW9JTDBubHRNcU9vcjJEQXZ2WW5uMXR3RjFVYXlHX29hT0ZtSUJpSkg3TGFoRTZPVXpiNWVwVWxYazRrRVFIcEEtSzdhamVXTkdYMHlNQzNGOFlYbkdBangxZUZZQ3ZPazZ2V1dZd2pHcmFQZFBUWG5ZQnNTemV4YjJia19QY2QzT2xtWGROQ2hnekRFaHF0ZUk0VFZTeGdXMW03OGZUOGJLeTZWZnEwNFZDRFZ3WUpwTWJPTG1lRWpv?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-06-26",
+          "publishedAt": "2026-06-29",
           "views": "13.0K"
         },
         {
-          "title": "LS vice chairman highlights North America as cornerstone of global growth strategy - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSFFwWDBXYUFXbzNtZHR6OV9CdU03VktoYThfZ2Z5YjBqYnVrRFgxLVBMSVNVcXBvcFgtdVpaRjhlRXo0ZVlVY0Myd2xfTjFwa0ZJcEVVUWV2cXlmUGd6bWxBSWxvVDZHb3FBYWFDUUQzZ1JuQmY3cFJwQXYyMndfWk5aRWhMWVZGZDhyUGhNNlpTSDNqMUJmc2RucjhIaXBtRkQweVlZdzZuOVB5bXpPM1F0Y29abmNKcW9vMzVTWjdkVTZaaHV3dHgzdk5hcTJRVENSenNR0gHbAUFVX3lxTE1oTExCOGJkRkFoY0xZYkM4eHdYY1lweGd4dVRlZWxBMTIxYWZHazBWcU5xU010Nnh6TGtGdV9XVlJ0Unc3QVZqeW0yUWdtdG1uVEg4SHpjVm05bHBVOWc2bFZPTTdiRG1hc29RTnNWdFpzX2pPQzAzSmljeWtMY2RpUGlUaUI0TFVycDNneklUMnBzazdNM2lmQzJyYjNERmV5dzhxR1liWUpZOXJNSEJDU3UzOWZoUGtaeW9uX244RjA5Mlk5VGhvLXBxajJ4dk1HQWR0V0xKRVU0bw?oc=5\" target=\"_blank\">LS vice chairman highlights North America as cornerstone of global growth strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSFFwWDBXYUFXbzNtZHR6OV9CdU03VktoYThfZ2Z5YjBqYnVrRFgxLVBMSVNVcXBvcFgtdVpaRjhlRXo0ZVlVY0Myd2xfTjFwa0ZJcEVVUWV2cXlmUGd6bWxBSWxvVDZHb3FBYWFDUUQzZ1JuQmY3cFJwQXYyMndfWk5aRWhMWVZGZDhyUGhNNlpTSDNqMUJmc2RucjhIaXBtRkQweVlZdzZuOVB5bXpPM1F0Y29abmNKcW9vMzVTWjdkVTZaaHV3dHgzdk5hcTJRVENSenNR0gHbAUFVX3lxTE1oTExCOGJkRkFoY0xZYkM4eHdYY1lweGd4dVRlZWxBMTIxYWZHazBWcU5xU010Nnh6TGtGdV9XVlJ0Unc3QVZqeW0yUWdtdG1uVEg4SHpjVm05bHBVOWc2bFZPTTdiRG1hc29RTnNWdFpzX2pPQzAzSmljeWtMY2RpUGlUaUI0TFVycDNneklUMnBzazdNM2lmQzJyYjNERmV5dzhxR1liWUpZOXJNSEJDU3UzOWZoUGtaeW9uX244RjA5Mlk5VGhvLXBxajJ4dk1HQWR0V0xKRVU0bw?oc=5",
+          "title": "CU in China: Why South Korean retail giant is adopting 'online first' strategy - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPZFd0SFdwbE1xeDBZSnlCNVd2RmJoR2MxYWNwdWdoZlpNd0FyTkVuMFNYbGF4dFUxejFFaTdJUGNXb0dYWVNFdk5IVnpXLTdEWmpTZS1XSWU5ak1aS3dmWUlJdzE0N0dLcW9KTkRuX3hWNnI2SktrWXg3QmVrVGJaZ0trdjVJN3NoWDFmbDlJY0V1THNZNnUzbmFsRnZKM2FKN0QtX2l3RTZ2elZjUGtKQS0xbTM0OWNVbkg4NFowNHh0YkZkRGFKMjNqZUjSAdIBQVVfeXFMTXV4a1FITW4yTGZqTEgzbWZWVklDOEVxNjhUeE1kV0lLaHl0aTBwUWZQQzdrX1d3dUtHMnF3OWhWTHgwSlR2Si1aNENyTW80THRFYVFCWjkzUkphUkpPeTM4Sm1YWlZqaEFsbUVZU1ZhWU1remRaSGtTb3JZWDR6cVhXUnU3WnkyVC1lMzgtWWV2WlVsblFzMlkyWVpQNG04VTE5TllpSHdXQ1ZaTGNlLTFQTFZXaFE1amlPMTZFLUMyV05xX1ZZT3ZUem13cFQyS05R?oc=5\" target=\"_blank\">CU in China: Why South Korean retail giant is adopting 'online first' strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZFd0SFdwbE1xeDBZSnlCNVd2RmJoR2MxYWNwdWdoZlpNd0FyTkVuMFNYbGF4dFUxejFFaTdJUGNXb0dYWVNFdk5IVnpXLTdEWmpTZS1XSWU5ak1aS3dmWUlJdzE0N0dLcW9KTkRuX3hWNnI2SktrWXg3QmVrVGJaZ0trdjVJN3NoWDFmbDlJY0V1THNZNnUzbmFsRnZKM2FKN0QtX2l3RTZ2elZjUGtKQS0xbTM0OWNVbkg4NFowNHh0YkZkRGFKMjNqZUjSAdIBQVVfeXFMTXV4a1FITW4yTGZqTEgzbWZWVklDOEVxNjhUeE1kV0lLaHl0aTBwUWZQQzdrX1d3dUtHMnF3OWhWTHgwSlR2Si1aNENyTW80THRFYVFCWjkzUkphUkpPeTM4Sm1YWlZqaEFsbUVZU1ZhWU1remRaSGtTb3JZWDR6cVhXUnU3WnkyVC1lMzgtWWV2WlVsblFzMlkyWVpQNG04VTE5TllpSHdXQ1ZaTGNlLTFQTFZXaFE1amlPMTZFLUMyV05xX1ZZT3ZUem13cFQyS05R?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-06-26",
+          "publishedAt": "2026-06-29",
           "views": "13.0K"
         }
       ]
