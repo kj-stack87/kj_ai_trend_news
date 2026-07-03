@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-02T04:19:45.899Z",
+  "lastUpdated": "2026-07-03T04:06:14.697Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -80,27 +80,27 @@
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
         {
+          "title": "M2Soft Launches CROWNIX 9: AI-Powered Platform for Enterprise Automation - ETNEWS",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBoYkxXeU91Zk9tNFBodE0xQVcxTDJRZ0FUQnlRcVZDaS1pclNOTHhQd0pJRDBtRHpHb1JJUEZGUW9iUFdhUG5pRE5pWTI?oc=5\" target=\"_blank\">M2Soft Launches CROWNIX 9: AI-Powered Platform for Enterprise Automation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBoYkxXeU91Zk9tNFBodE0xQVcxTDJRZ0FUQnlRcVZDaS1pclNOTHhQd0pJRDBtRHpHb1JJUEZGUW9iUFdhUG5pRE5pWTI?oc=5",
+          "source": "전자신문",
+          "publishedAt": "2026-07-02",
+          "views": "18.0K"
+        },
+        {
+          "title": "KAIST workshop to showcase AI agents for HBM design automation - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNamdwUmc3RWdlRWhJeWwxUEFjVTdWOWQyaC1pRGo5dTRyLVd3Sm04TV9QVjRGMk0xWGVYbGU5bDBfdFJRbGRreXB2bWxrSGJKOW96T2RPRzZlQlpSV0FBNUV3clFWN2dZcDVlRGxTMjVMd1BBeGROa0FXVVBQckJpS09oeFdhd2htTWVxS2ZUTDFRWUtBZzh1TlRNZm5OSnl6TkNhQS1CRzNEeldUeUphODM5WkZpamRfdUlpOU5LeFFYWDDSAcMBQVVfeXFMTWpncFJnN0VnZUVoSXlsMVBBY1U3VjlkMmgtaURqOXU0ci1Xd0ptOE1fUFY0RjJNMVhlWGxlOWwwX3RSUWxka3lwdm1sa0hiSjlvek9kT0c2ZUJaUldBQTVFd3JRVjdnWXA1ZURsUzI1THdQQXhkTmtBV1VQUHJCaUtPaHhXYXdobU1lcUtmVEwxUVlLQWc4dU5UTWZuTkp5ek5DYUEtQkczRHpXVHlKYTgzOVpGaWpkX3VJaTlOS3hRWFgw?oc=5\" target=\"_blank\">KAIST workshop to showcase AI agents for HBM design automation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNamdwUmc3RWdlRWhJeWwxUEFjVTdWOWQyaC1pRGo5dTRyLVd3Sm04TV9QVjRGMk0xWGVYbGU5bDBfdFJRbGRreXB2bWxrSGJKOW96T2RPRzZlQlpSV0FBNUV3clFWN2dZcDVlRGxTMjVMd1BBeGROa0FXVVBQckJpS09oeFdhd2htTWVxS2ZUTDFRWUtBZzh1TlRNZm5OSnl6TkNhQS1CRzNEeldUeUphODM5WkZpamRfdUlpOU5LeFFYWDDSAcMBQVVfeXFMTWpncFJnN0VnZUVoSXlsMVBBY1U3VjlkMmgtaURqOXU0ci1Xd0ptOE1fUFY0RjJNMVhlWGxlOWwwX3RSUWxka3lwdm1sa0hiSjlvek9kT0c2ZUJaUldBQTVFd3JRVjdnWXA1ZURsUzI1THdQQXhkTmtBV1VQUHJCaUtPaHhXYXdobU1lcUtmVEwxUVlLQWc4dU5UTWZuTkp5ek5DYUEtQkczRHpXVHlKYTgzOVpGaWpkX3VJaTlOS3hRWFgw?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-07-02",
+          "views": "18.0K"
+        },
+        {
           "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac - TechCrunch",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNTDVKblBucGxXMUtkNXZjWk5raElhdjZsUUE5SFZqcGVsU1k0RDJHd1lMZjQ2YTIyeEFWT2l2dmV5UDY0TFB3RmZwWm02X00ySm5iSFlJSUxGbUFweGdEX3FwTjRlNUJsU0tORERWUTRtSmlQVzBLakFLX2FabGJtRUdaWFhxX1RZYzFBdlJtd2ZUOXQzX3dGcV9vT1REQQ?oc=5\" target=\"_blank\">Gemini Spark, Google’s agentic assistant, is now available on Mac</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTDVKblBucGxXMUtkNXZjWk5raElhdjZsUUE5SFZqcGVsU1k0RDJHd1lMZjQ2YTIyeEFWT2l2dmV5UDY0TFB3RmZwWm02X00ySm5iSFlJSUxGbUFweGdEX3FwTjRlNUJsU0tORERWUTRtSmlQVzBLakFLX2FabGJtRUdaWFhxX1RZYzFBdlJtd2ZUOXQzX3dGcV9vT1REQQ?oc=5",
           "source": "TechCrunch AI",
           "publishedAt": "2026-07-01",
-          "views": "18.0K"
-        },
-        {
-          "title": "HP accelerates enterprise workflows with OpenAI Frontier - AI News",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ2tObmZ3alVwOU5HRVRsMjQyWlV2R040Z0JKUGU1cnlwSGdMOUNicVRqUWh5X1dQTGVIanJaQU1lVkdSQlg1bmdZZ09ad3dKYnJuZkx0UDJPRnQ5M2c3alNUUFJjRlpmN1YycUw4RmZtWUdjUHEtNjBVczBFdmkxVHVWUjZoSGJVTmVYSXFHaVM2YkJMZjk0eFRlSkEyazRUb21R?oc=5\" target=\"_blank\">HP accelerates enterprise workflows with OpenAI Frontier</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI News</font>",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ2tObmZ3alVwOU5HRVRsMjQyWlV2R040Z0JKUGU1cnlwSGdMOUNicVRqUWh5X1dQTGVIanJaQU1lVkdSQlg1bmdZZ09ad3dKYnJuZkx0UDJPRnQ5M2c3alNUUFJjRlpmN1YycUw4RmZtWUdjUHEtNjBVczBFdmkxVHVWUjZoSGJVTmVYSXFHaVM2YkJMZjk0eFRlSkEyazRUb21R?oc=5",
-          "source": "AI News",
-          "publishedAt": "2026-06-29",
-          "views": "18.0K"
-        },
-        {
-          "title": "Prompt injection is exploiting enterprise AI's biggest design flaws by targeting agents, RAG pipelines and model routers - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeHR6dGc5dlAzMTd6X0xOdllsdndndnNpalVXSk00MjhMejVVSDJKeWFTSWZKNENHN3ozVERvX2t5V2x3UG85UmdlVlB1eGtha1pOVFlfVGFMQVNQNGsxbU5BdlBCeUVPZFJseW14UEJfc1k3LUlVOE9KMERoOUlaM0RoektvYmVLRnZFaHBoX256ci14UklPU18yR1g0WFZ3YUFBNXhnYlQ5c19od1duak5yeEw4b2tGWGNOQXRJaVdqRzJxdUtUZlIzdFF5c1NaOUtoM29vdTBMUXZwMklDOV8yVThNZw?oc=5\" target=\"_blank\">Prompt injection is exploiting enterprise AI's biggest design flaws by targeting agents, RAG pipelines and model routers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeHR6dGc5dlAzMTd6X0xOdllsdndndnNpalVXSk00MjhMejVVSDJKeWFTSWZKNENHN3ozVERvX2t5V2x3UG85UmdlVlB1eGtha1pOVFlfVGFMQVNQNGsxbU5BdlBCeUVPZFJseW14UEJfc1k3LUlVOE9KMERoOUlaM0RoektvYmVLRnZFaHBoX256ci14UklPU18yR1g0WFZ3YUFBNXhnYlQ5c19od1duak5yeEw4b2tGWGNOQXRJaVdqRzJxdUtUZlIzdFF5c1NaOUtoM29vdTBMUXZwMklDOV8yVThNZw?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-06-28",
           "views": "18.0K"
         }
       ]
@@ -119,19 +119,19 @@
           "views": "18.0K"
         },
         {
-          "title": "Beijing plane crash clouds China's low-altitude flights, uncovers safety gaps - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQdUJqa3YtRWM1QWVROE14TmN6SHBvXzRudHE4VC1EM0pxTjl3b1hJYkg2ZS1BYVZiSUNEdUcwcWVuRWdjWGRwb2JQYWpFODlQR1Zsdnp5TkdFc21WTXZWUExPeGdseE0wVmlPYkpvM0k3X253VVF0ZmQ5Y0dSTnFMRk5BdmJvNTQ5WGJUcGJUa1FaZHVkWE12NGZhR3RaZVdzRmluelM5c0VNcENaQUtQdG9KSFhIYWE5cThJSm5kQklKU19oMEZVb19R?oc=5\" target=\"_blank\">Beijing plane crash clouds China's low-altitude flights, uncovers safety gaps</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdUJqa3YtRWM1QWVROE14TmN6SHBvXzRudHE4VC1EM0pxTjl3b1hJYkg2ZS1BYVZiSUNEdUcwcWVuRWdjWGRwb2JQYWpFODlQR1Zsdnp5TkdFc21WTXZWUExPeGdseE0wVmlPYkpvM0k3X253VVF0ZmQ5Y0dSTnFMRk5BdmJvNTQ5WGJUcGJUa1FaZHVkWE12NGZhR3RaZVdzRmluelM5c0VNcENaQUtQdG9KSFhIYWE5cThJSm5kQklKU19oMEZVb19R?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-07-01",
+          "title": "What is actor Yoo Ah-in's next move after drug use scandal? - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPcjhZbTRoclFOLXJOUGNmT2ZzVkxUVTBCb192aW14ejh5ZE40RE5GMFFpYUJhTDAzOE56U0ZpOHJvMGlmUU0zdEFtZ1dsTkc0N0paNDhTSTVkM3ZHa0c4WUdTSHNreG4xeEk3OGJGWjUyVTExbHJVSnptR2JnUjNpRVdjanJLMmRvRVdXcXFZY0U0WUozMFU5elJzaW1fT2hKbTdPWkZsTEtaM2NQYlHSAbMBQVVfeXFMTmJrT2Z3Ml9pcFlOb2JkQU1pQXhHRTZucW82Yk9zdDBuS2lZZldkVHZPX01mUDRxTVhzMDNLNXFBRV9iaW1Qdk5QOUo1cXhubWtYRW50WFE3R1VObVFILWQ0UXpUSHM2VGt2alRxMF82M3d2T2NNV3JSbU81Z0ZDN3VIOW1CVGF1LWo2VS1pb3NjQ0lLaW9PT0trNmJ1UWtUUktZOE1WTVktLXM2RkZ3VklBZ00?oc=5\" target=\"_blank\">What is actor Yoo Ah-in's next move after drug use scandal?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcjhZbTRoclFOLXJOUGNmT2ZzVkxUVTBCb192aW14ejh5ZE40RE5GMFFpYUJhTDAzOE56U0ZpOHJvMGlmUU0zdEFtZ1dsTkc0N0paNDhTSTVkM3ZHa0c4WUdTSHNreG4xeEk3OGJGWjUyVTExbHJVSnptR2JnUjNpRVdjanJLMmRvRVdXcXFZY0U0WUozMFU5elJzaW1fT2hKbTdPWkZsTEtaM2NQYlHSAbMBQVVfeXFMTmJrT2Z3Ml9pcFlOb2JkQU1pQXhHRTZucW82Yk9zdDBuS2lZZldkVHZPX01mUDRxTVhzMDNLNXFBRV9iaW1Qdk5QOUo1cXhubWtYRW50WFE3R1VObVFILWQ0UXpUSHM2VGt2alRxMF82M3d2T2NNV3JSbU81Z0ZDN3VIOW1CVGF1LWo2VS1pb3NjQ0lLaW9PT0trNmJ1UWtUUktZOE1WTVktLXM2RkZ3VklBZ00?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-07-02",
           "views": "13.0K"
         },
         {
-          "title": "Trump secured over $50 million in loan from Charles Schwab in 2025, ethics filing shows - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPbmM4aHM0RDE3amg2RFBVaXpMSkFNZWZ0M1JRYjZ1dFhBbzVHUVJVcXlGQVFDVUN6M245S0pvX3o1UjdRUWd2dkV6MXlpYUFINm1LR1YwS2JNeThoUlFqekEtNzZiRTd1NVh5bksxWHVGSjZhMWtOQTNiYnZOQUtEZGhucUc4UVBXRUpTVHFfa093NGtXY2hPYWpxVXAwQXl0d1M4b0ZJTGRVa3lTVll6dzA2Y0tlenV6Nnctd0lZNmZNeU52THc?oc=5\" target=\"_blank\">Trump secured over $50 million in loan from Charles Schwab in 2025, ethics filing shows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbmM4aHM0RDE3amg2RFBVaXpMSkFNZWZ0M1JRYjZ1dFhBbzVHUVJVcXlGQVFDVUN6M245S0pvX3o1UjdRUWd2dkV6MXlpYUFINm1LR1YwS2JNeThoUlFqekEtNzZiRTd1NVh5bksxWHVGSjZhMWtOQTNiYnZOQUtEZGhucUc4UVBXRUpTVHFfa093NGtXY2hPYWpxVXAwQXl0d1M4b0ZJTGRVa3lTVll6dzA2Y0tlenV6Nnctd0lZNmZNeU52THc?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-07-01",
+          "title": "Special counsel indicts ex-JCS chief over martial law involvement - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNRHVEaTMxQ2xLRlMtU3lWUFljczhNV3BMNWE5cDJaQmhuMDlIaVk3VnNGa3RBckRKMU5aUVB1YW9iMVVpek0wc3hpZXVrenZlM0JZZXgxY1B2b2N2UGZJbHR2UEtGOGp4TlB4eVhmeGw0X2djZ1Y4YTdYWXJlVHhhUkhCZTZMWEZEQkp3VFktOFVSd1hLSDNGbDBHenppZlBxeHRhZHpJSnYzX25vMjBkbTN5LVlVOHRXRW0wVl9lY9IBxAFBVV95cUxPQkV1Z29sQWZyejRha1pmWkNmSXB0TzFMZXlrMXdGaTQ0SkxuWWVDRVlMbFpDTzdIUS0zcVZVMERkdldqTlhkVTRKZUplVWxMaXNWTTZpbHNQeDFSMzR0UVowTUNSVlM0WktNTVFrRWpic1AxU1BGeHJuUkdsRnVSX1NoaXJWQlktMVlKWFV4Z2txTVNLUlpJdnBrUGxxZ1lDdFNXb21HTHZWcUNra0YxWGQ2eUlSYktaUzY1Q21odFRpaXdU?oc=5\" target=\"_blank\">Special counsel indicts ex-JCS chief over martial law involvement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRHVEaTMxQ2xLRlMtU3lWUFljczhNV3BMNWE5cDJaQmhuMDlIaVk3VnNGa3RBckRKMU5aUVB1YW9iMVVpek0wc3hpZXVrenZlM0JZZXgxY1B2b2N2UGZJbHR2UEtGOGp4TlB4eVhmeGw0X2djZ1Y4YTdYWXJlVHhhUkhCZTZMWEZEQkp3VFktOFVSd1hLSDNGbDBHenppZlBxeHRhZHpJSnYzX25vMjBkbTN5LVlVOHRXRW0wVl9lY9IBxAFBVV95cUxPQkV1Z29sQWZyejRha1pmWkNmSXB0TzFMZXlrMXdGaTQ0SkxuWWVDRVlMbFpDTzdIUS0zcVZVMERkdldqTlhkVTRKZUplVWxMaXNWTTZpbHNQeDFSMzR0UVowTUNSVlM0WktNTVFrRWpic1AxU1BGeHJuUkdsRnVSX1NoaXJWQlktMVlKWFV4Z2txTVNLUlpJdnBrUGxxZ1lDdFNXb21HTHZWcUNra0YxWGQ2eUlSYktaUzY1Q21odFRpaXdU?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-07-02",
           "views": "13.0K"
         }
       ]
@@ -142,26 +142,26 @@
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
         {
-          "title": "World Bank backs Nigeria 2026–2032 plan with $1.25 billion to spur jobs, private investment - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQVlpiX20ya1lzY1FVNkJlUE1MbHlseFpwcUZlVE0tbDRLTnh0VkZOSW5ySEJ6TFVOV1RZbmVZdTJJcXVqN1hzODlBamVZaGVld2FURUpJWXphbURLbi0tNE9pSVNOVXZ5bVZjRzYzcE1BX0Nvb1dQMHVZTk5VUFdPaUhXQ1c3NjI5amUzdlJCQVJCVXlCSExqbEJLSnZuaERVLXNaZFhJQUZPQnU5dTJ6U09XTHVRSVBjWnlqdTgtRQ?oc=5\" target=\"_blank\">World Bank backs Nigeria 2026–2032 plan with $1.25 billion to spur jobs, private investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVlpiX20ya1lzY1FVNkJlUE1MbHlseFpwcUZlVE0tbDRLTnh0VkZOSW5ySEJ6TFVOV1RZbmVZdTJJcXVqN1hzODlBamVZaGVld2FURUpJWXphbURLbi0tNE9pSVNOVXZ5bVZjRzYzcE1BX0Nvb1dQMHVZTk5VUFdPaUhXQ1c3NjI5amUzdlJCQVJCVXlCSExqbEJLSnZuaERVLXNaZFhJQUZPQnU5dTJ6U09XTHVRSVBjWnlqdTgtRQ?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-07-01",
-          "views": "18.0K"
-        },
-        {
-          "title": "Samsung, SK hynix to build HBM packaging fabs in Chungcheong region as part of $252.5 bil. in total investment - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxPY0YwOThIUmRRVl9RQVVnSlA0N29GTU5xN0c5V19YSzFBVEpwNTZsSm93dEhyY2lYTk9aWEluTk5hbnRXcTg5UTgtYWFqNS05aU9PTThNYkZZU2pxamE5NDR3M1ZWQW5kUXVhNmhFRXRZVFg4dnhhRFMxQ0R5ekhUajRqb00wQzZxa1dxQjJqV3RyUU9DX1F5X3pyQ25NcWVfTGN2ZjJLQzFsRlRVdTZhczNxT00yWGNXMEtMSlJFSmpkS3oyYi1kSExCd195clRGcjNVa2M1aWxSOGFpaE5nVUlGUF9QQVNiN09hai12SE1QOW1MMUM1MENhQdIB-wFBVV95cUxPY0YwOThIUmRRVl9RQVVnSlA0N29GTU5xN0c5V19YSzFBVEpwNTZsSm93dEhyY2lYTk9aWEluTk5hbnRXcTg5UTgtYWFqNS05aU9PTThNYkZZU2pxamE5NDR3M1ZWQW5kUXVhNmhFRXRZVFg4dnhhRFMxQ0R5ekhUajRqb00wQzZxa1dxQjJqV3RyUU9DX1F5X3pyQ25NcWVfTGN2ZjJLQzFsRlRVdTZhczNxT00yWGNXMEtMSlJFSmpkS3oyYi1kSExCd195clRGcjNVa2M1aWxSOGFpaE5nVUlGUF9QQVNiN09hai12SE1QOW1MMUM1MENhQQ?oc=5\" target=\"_blank\">Samsung, SK hynix to build HBM packaging fabs in Chungcheong region as part of $252.5 bil. in total investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPY0YwOThIUmRRVl9RQVVnSlA0N29GTU5xN0c5V19YSzFBVEpwNTZsSm93dEhyY2lYTk9aWEluTk5hbnRXcTg5UTgtYWFqNS05aU9PTThNYkZZU2pxamE5NDR3M1ZWQW5kUXVhNmhFRXRZVFg4dnhhRFMxQ0R5ekhUajRqb00wQzZxa1dxQjJqV3RyUU9DX1F5X3pyQ25NcWVfTGN2ZjJLQzFsRlRVdTZhczNxT00yWGNXMEtMSlJFSmpkS3oyYi1kSExCd195clRGcjNVa2M1aWxSOGFpaE5nVUlGUF9QQVNiN09hai12SE1QOW1MMUM1MENhQdIB-wFBVV95cUxPY0YwOThIUmRRVl9RQVVnSlA0N29GTU5xN0c5V19YSzFBVEpwNTZsSm93dEhyY2lYTk9aWEluTk5hbnRXcTg5UTgtYWFqNS05aU9PTThNYkZZU2pxamE5NDR3M1ZWQW5kUXVhNmhFRXRZVFg4dnhhRFMxQ0R5ekhUajRqb00wQzZxa1dxQjJqV3RyUU9DX1F5X3pyQ25NcWVfTGN2ZjJLQzFsRlRVdTZhczNxT00yWGNXMEtMSlJFSmpkS3oyYi1kSExCd195clRGcjNVa2M1aWxSOGFpaE5nVUlGUF9QQVNiN09hai12SE1QOW1MMUM1MENhQQ?oc=5",
+          "title": "Korea's foreign reserves rise in June despite FX market-stabilizing measures - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPelN3angyRW1odVduTnhMeENCbHJZbTBkdDVnV0Z0MnhFRWMyTkVtUzItcFcxOWVjWnhTV1BnLW82RU4xbFZWYjF6STgzTmxwYnVScFFsbzdNR1BHSktOTjRTcXpVcURTQWR2bENNMlozNFNuMmFHS2lIVElzdzRGbjVodVBNYTRQTWNxN3NZN005WmlENFhMWC1TaHpmbXQxVzdfd21HcHlHOXVrQll5UmtUSndMM3Q3MzNlenZfNnhJeHPSAcMBQVVfeXFMT3pTd2p4MkVtaHVXbk54THhDQmxyWW0wZHQ1Z1dGdDJ4RUVjMk5FbVMyLXBXMTllY1p4U1dQZy1vNkVOMWxWVmIxekk4M05scGJ1UnBRbG83TUdQR0pLTk40U3F6VXFEU0FkdmxDTTJaMzRTbjJhR0tpSFRJc3c0Rm41aHVQTWE0UE1jcTdzWTdNOVppRDRYTFgtU2h6Zm10MVc3X3dtR3B5Rzl1a0JZeVJrVEp3TDN0NzMzZXp2XzZ4SXhz?oc=5\" target=\"_blank\">Korea's foreign reserves rise in June despite FX market-stabilizing measures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPelN3angyRW1odVduTnhMeENCbHJZbTBkdDVnV0Z0MnhFRWMyTkVtUzItcFcxOWVjWnhTV1BnLW82RU4xbFZWYjF6STgzTmxwYnVScFFsbzdNR1BHSktOTjRTcXpVcURTQWR2bENNMlozNFNuMmFHS2lIVElzdzRGbjVodVBNYTRQTWNxN3NZN005WmlENFhMWC1TaHpmbXQxVzdfd21HcHlHOXVrQll5UmtUSndMM3Q3MzNlenZfNnhJeHPSAcMBQVVfeXFMT3pTd2p4MkVtaHVXbk54THhDQmxyWW0wZHQ1Z1dGdDJ4RUVjMk5FbVMyLXBXMTllY1p4U1dQZy1vNkVOMWxWVmIxekk4M05scGJ1UnBRbG83TUdQR0pLTk40U3F6VXFEU0FkdmxDTTJaMzRTbjJhR0tpSFRJc3c0Rm41aHVQTWE0UE1jcTdzWTdNOVppRDRYTFgtU2h6Zm10MVc3X3dtR3B5Rzl1a0JZeVJrVEp3TDN0NzMzZXp2XzZ4SXhz?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-07-02",
+          "publishedAt": "2026-07-03",
           "views": "13.0K"
         },
         {
-          "title": "Asian shares fall as chipmakers drag; US jobs data looms - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9hNUdGZ1o0UkVpa1k0SDE5eG1CUlhJZGhIaklZMjV1VVEtekJxazZHMV8xT2lrU25mWlJuSVJxQ3ZtWF9iNEVsQk9tQjRqazRPUTRLYk9VWHVaRjM0a2FVa29SSUJfakV3MXU5Z0ZLTS1Gc0NhQmlQOEZZOA?oc=5\" target=\"_blank\">Asian shares fall as chipmakers drag; US jobs data looms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9hNUdGZ1o0UkVpa1k0SDE5eG1CUlhJZGhIaklZMjV1VVEtekJxazZHMV8xT2lrU25mWlJuSVJxQ3ZtWF9iNEVsQk9tQjRqazRPUTRLYk9VWHVaRjM0a2FVa29SSUJfakV3MXU5Z0ZLTS1Gc0NhQmlQOEZZOA?oc=5",
-          "source": "Reuters AI",
+          "title": "Last chance to apply — Startup Battlefield Australia applications close July 6 - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNX25TU1VJY2ZOZVVRR3JDTG5GdUFSVXREOVlaNUQ0LWcxX20wN3ZCOVlaQ2p4c1N2TFk1aHN3cTFqaTZxblNhUDREV0R1WFFZV3RVUUhnNHZKLTFpcXBONFZjQ2xqZ0JlRFIxY25PSGQ5cW1qaEt2ZDlYdUJKcVdOM1ZHVmc2V1pBVjUtSy1KSXl2RkktaUpzQzd3YmRzX2liOWxPZlF1QjR4SjNqVHBheFo5Yw?oc=5\" target=\"_blank\">Last chance to apply — Startup Battlefield Australia applications close July 6</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX25TU1VJY2ZOZVVRR3JDTG5GdUFSVXREOVlaNUQ0LWcxX20wN3ZCOVlaQ2p4c1N2TFk1aHN3cTFqaTZxblNhUDREV0R1WFFZV3RVUUhnNHZKLTFpcXBONFZjQ2xqZ0JlRFIxY25PSGQ5cW1qaEt2ZDlYdUJKcVdOM1ZHVmc2V1pBVjUtSy1KSXl2RkktaUpzQzd3YmRzX2liOWxPZlF1QjR4SjNqVHBheFo5Yw?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-07-03",
+          "views": "13.0K"
+        },
+        {
+          "title": "FTC Seeks Up to 849.6B KRW Fine Against Google for Market Dominance Abuse - ETNEWS",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBFd05rdEF6UjNEX2JaeHZWejVnN1dEM1d4SmV0R29Vc2ZIY25yVVFzZmVJQk04WFJUazQwd3R2QTltRXA3VDNFOWloNTA?oc=5\" target=\"_blank\">FTC Seeks Up to 849.6B KRW Fine Against Google for Market Dominance Abuse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBFd05rdEF6UjNEX2JaeHZWejVnN1dEM1d4SmV0R29Vc2ZIY25yVVFzZmVJQk04WFJUazQwd3R2QTltRXA3VDNFOWloNTA?oc=5",
+          "source": "전자신문",
           "publishedAt": "2026-07-02",
           "views": "13.0K"
         }
@@ -173,27 +173,27 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
-          "title": "[INTERVIEW] Medical tourism key to Korea's global competitiveness, industry chief says - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTXdJMXhjTXY2ckx2MHlna0VKTlRHa1dqOTBKSU9fZHRUTl8zc0NuRDlUQWl0bXZsbEVKMkc3dUdILUxRaVBfVGVFdHlKR0JSNmliRnBCQ3FsWFVqejF1WUlhRlZUQnZ3ZjJINmlNQ2psUmFDN0hZOWdqakZydGRhdUZIRjlPM2tJYzdjOXV5d2RuZlpOUUdMR1Vhb09aNWlNU2cwWkh6dkNJVUw3dFJ3cnBONTdWSWJpMlZCbWVCV0xwSE15bTdsSdIBzgFBVV95cUxNNFdJRmtmNWIwNElVN05ZT1V5dzB0RnZld3ZKX0pnMjAzMjY1eUQ4bmVsOXlGSDJmWlRpYU1TOVBnN0tnVkhSWi1IajQxZENCZHBpTlAzSlhrRHJMNmEwQWZhUHVGMVFabXdla0Y5M3ZwVDQ2Mk1sVFFEWXRNRG5TcU16Y1UyYW9EOFRGRXhUVzBUU2NhM3hNOWhPSmVSbEJ2aHVmNFpoNWtTVWF4WlVETWlTQlRZLUxfTmdVX2FoR3hRTnhjaGNTX0FnWnNKQQ?oc=5\" target=\"_blank\">[INTERVIEW] Medical tourism key to Korea's global competitiveness, industry chief says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTXdJMXhjTXY2ckx2MHlna0VKTlRHa1dqOTBKSU9fZHRUTl8zc0NuRDlUQWl0bXZsbEVKMkc3dUdILUxRaVBfVGVFdHlKR0JSNmliRnBCQ3FsWFVqejF1WUlhRlZUQnZ3ZjJINmlNQ2psUmFDN0hZOWdqakZydGRhdUZIRjlPM2tJYzdjOXV5d2RuZlpOUUdMR1Vhb09aNWlNU2cwWkh6dkNJVUw3dFJ3cnBONTdWSWJpMlZCbWVCV0xwSE15bTdsSdIBzgFBVV95cUxNNFdJRmtmNWIwNElVN05ZT1V5dzB0RnZld3ZKX0pnMjAzMjY1eUQ4bmVsOXlGSDJmWlRpYU1TOVBnN0tnVkhSWi1IajQxZENCZHBpTlAzSlhrRHJMNmEwQWZhUHVGMVFabXdla0Y5M3ZwVDQ2Mk1sVFFEWXRNRG5TcU16Y1UyYW9EOFRGRXhUVzBUU2NhM3hNOWhPSmVSbEJ2aHVmNFpoNWtTVWF4WlVETWlTQlRZLUxfTmdVX2FoR3hRTnhjaGNTX0FnWnNKQQ?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-07-01",
-          "views": "13.0K"
+          "title": "LG Expands China Manufacturing Strategy With Air Purifiers - ETNEWS",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE00S2ZLaGFFbHJUbDRIQzRyRXBsR0FXeVMwb0FwaE1hc090bTRlWVBwcjR0RU9QYTQ4d0hRZ1g5ZUMyVVFGd1BkZDlxQTk?oc=5\" target=\"_blank\">LG Expands China Manufacturing Strategy With Air Purifiers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE00S2ZLaGFFbHJUbDRIQzRyRXBsR0FXeVMwb0FwaE1hc090bTRlWVBwcjR0RU9QYTQ4d0hRZ1g5ZUMyVVFGd1BkZDlxQTk?oc=5",
+          "source": "전자신문",
+          "publishedAt": "2026-07-02",
+          "views": "18.0K"
         },
         {
-          "title": "Kamal Hathi, Splunk, a Cisco Company - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE0tSW1TU0I4ZFNXSVgzMlVnRjktN3lKSG9XMjkyLWl3MDlNRTc4YUx0UFZtVUxSWE56cGJ0ekFCaTZUc1VPbVJkZ1JoMkdsN3pnQkVIc0NpSEhRS2VfR043NU5SeThaUEhpSjNmZjFsNF9WbHM?oc=5\" target=\"_blank\">Kamal Hathi, Splunk, a Cisco Company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tSW1TU0I4ZFNXSVgzMlVnRjktN3lKSG9XMjkyLWl3MDlNRTc4YUx0UFZtVUxSWE56cGJ0ekFCaTZUc1VPbVJkZ1JoMkdsN3pnQkVIc0NpSEhRS2VfR043NU5SeThaUEhpSjNmZjFsNF9WbHM?oc=5",
+          "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOYXV6S05EQ3Eydjktb2hSb1JYY21RbW9kRUhKbG5VY3RjY0hPTGRpRlNsNjRGLVpYVmhPY1NZalFmVVh4VWdHUWtzSmFoMGVzY2NWajIteHRqYksteHU5YXlpZzJ1VjNWNlhsN3hySjhpSjZfY1dyaHdDRDY1a3RvQXZEci1KeV9nZkc5SktmTDRHaTdFSDJzeXlsb0dpWnpBY0ZudzliR1BfaHl4R0gyYQ?oc=5\" target=\"_blank\">Microsoft launches its own AI deployment company with $2.5 billion commitment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYXV6S05EQ3Eydjktb2hSb1JYY21RbW9kRUhKbG5VY3RjY0hPTGRpRlNsNjRGLVpYVmhPY1NZalFmVVh4VWdHUWtzSmFoMGVzY2NWajIteHRqYksteHU5YXlpZzJ1VjNWNlhsN3hySjhpSjZfY1dyaHdDRDY1a3RvQXZEci1KeV9nZkc5SktmTDRHaTdFSDJzeXlsb0dpWnpBY0ZudzliR1BfaHl4R0gyYQ?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-07-02",
+          "views": "18.0K"
+        },
+        {
+          "title": "Fable 5 outage: the AI model strategy hedge - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMXh1cFNudlBMT1ZVN1hIWUp5OVM2ZzRpa0xMLXZLZFhJcUxhcGZ1VXNHUVpoWTJOV0toYko1ZG8tT1hnM0tmTEx4VnQ1Ml9jWWQ2NXVNTGpKWERtVGNTbUZKbTVNOEwyTkRSeDMyTEFIY2ZjU3hWTjdkQm9fbDVQUXhHa1pieGdwb3hLQVI1aVFWazZieHhobWg3bmFFVTR2WVJnQnA5bTZHZERhVktpSy1GX1drcDRkd0hOVWllcVV6Y1lnWG8xSzZiWTFnQVN2cEdUdVR6ZDQ?oc=5\" target=\"_blank\">Fable 5 outage: the AI model strategy hedge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMXh1cFNudlBMT1ZVN1hIWUp5OVM2ZzRpa0xMLXZLZFhJcUxhcGZ1VXNHUVpoWTJOV0toYko1ZG8tT1hnM0tmTEx4VnQ1Ml9jWWQ2NXVNTGpKWERtVGNTbUZKbTVNOEwyTkRSeDMyTEFIY2ZjU3hWTjdkQm9fbDVQUXhHa1pieGdwb3hLQVI1aVFWazZieHhobWg3bmFFVTR2WVJnQnA5bTZHZERhVktpSy1GX1drcDRkd0hOVWllcVV6Y1lnWG8xSzZiWTFnQVN2cEdUdVR6ZDQ?oc=5",
           "source": "VentureBeat AI",
-          "publishedAt": "2026-07-01",
-          "views": "13.0K"
-        },
-        {
-          "title": "India asks WhatsApp to hold 'usernames' rollout pending consultations, letter shows - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSkdEcHFGZnV4YzNiXzFkdmVzTWJ6WG1TaFg5dnVKZG0tZlEzU0xZQW9QM3J3dGpJWHhKbk5xVklBanU3bFRWVC1mTWlzQ3FnMkJYc1F5VnNhVEFqUVRhb3FCeklPdWRqcm5Lc0U4SjBTSk9mU05tRFdXRm9oOXNicElKM1hmZl9FTUVCY2VOTFpaMlo0WUZkNlE4cTNLdlJWTDY2aHpnTGlmRjFjVWEtM0JLN1k3VjZWaUVGVTlaVkxpdDA?oc=5\" target=\"_blank\">India asks WhatsApp to hold 'usernames' rollout pending consultations, letter shows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSkdEcHFGZnV4YzNiXzFkdmVzTWJ6WG1TaFg5dnVKZG0tZlEzU0xZQW9QM3J3dGpJWHhKbk5xVklBanU3bFRWVC1mTWlzQ3FnMkJYc1F5VnNhVEFqUVRhb3FCeklPdWRqcm5Lc0U4SjBTSk9mU05tRFdXRm9oOXNicElKM1hmZl9FTUVCY2VOTFpaMlo0WUZkNlE4cTNLdlJWTDY2aHpnTGlmRjFjVWEtM0JLN1k3VjZWaUVGVTlaVkxpdDA?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-07-01",
+          "publishedAt": "2026-07-03",
           "views": "13.0K"
         }
       ]
