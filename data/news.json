@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-08T03:41:29.501Z",
+  "lastUpdated": "2026-07-09T04:11:20.730Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,27 +49,27 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
-          "title": "Anthropic is bringing back Claude Fable 5 globally after US lifts export control order — where can enterprises access it? - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYktUSUZTeUJ2c1ZEZnhRN0dRd1NnY3JfWHpSVFlSQjhVMGNvaTNSSjFDSFRzREU5MUxiOU1XNTN6Z204LWE2TWtjdGRVSzRXN2h1MHpON09MRnRIRjFheUFBdzBqR0lreFlFQzlkWTlVMURLcXhvVzY5QTdwS3ByTDFkWjgyYzhWNEIxZk51dy1CaHllM1ZQN1hFb1R5OGxIV0pXc3cxX1FPaXltbmF2S0xXZ3JYRTV5OFJRY2RmQzZ4aWxuZG4wd2VCUXBjMHNRdUJSbHpjN0NZWklfcnlqdnJiVnV5NFVI?oc=5\" target=\"_blank\">Anthropic is bringing back Claude Fable 5 globally after US lifts export control order — where can enterprises access it?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYktUSUZTeUJ2c1ZEZnhRN0dRd1NnY3JfWHpSVFlSQjhVMGNvaTNSSjFDSFRzREU5MUxiOU1XNTN6Z204LWE2TWtjdGRVSzRXN2h1MHpON09MRnRIRjFheUFBdzBqR0lreFlFQzlkWTlVMURLcXhvVzY5QTdwS3ByTDFkWjgyYzhWNEIxZk51dy1CaHllM1ZQN1hFb1R5OGxIV0pXc3cxX1FPaXltbmF2S0xXZ3JYRTV5OFJRY2RmQzZ4aWxuZG4wd2VCUXBjMHNRdUJSbHpjN0NZWklfcnlqdnJiVnV5NFVI?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-07-01",
-          "views": "18.0K"
-        },
-        {
-          "title": "Restaurants can now accept orders placed directly from ChatGPT and Claude thanks to Square's new, low-fee, no setup integration - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxOYWl5RWx2MzdqRDFuTVNwN2hTLWhrQnZ3Vm02ZXdZV2lhTmVUOWgtSE55V21EQzhNR0oyc3lXRU40UlpkNGU1U3g5MmFXX0QxR1BDcFRYSkswdEgyN0VkLXIzdWF1UzVHNnd4TzBmcTdEZS00aGdDUzE3MEN5UnFuM3JrVE9EeEFnV3h4Zm9DVVRVQm5MZTZwZ2hZWW55ZmNnZVQ4b0dVaDBLWEhxOE8wS0hrelR4RDB2LWp5OUxJNS1CUDdxWExYWG9LTXZZOF9HOE0xZFVoVGxDM0M5endjZjZNcy1ia0prMXhieDZUSFM?oc=5\" target=\"_blank\">Restaurants can now accept orders placed directly from ChatGPT and Claude thanks to Square's new, low-fee, no setup integration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOYWl5RWx2MzdqRDFuTVNwN2hTLWhrQnZ3Vm02ZXdZV2lhTmVUOWgtSE55V21EQzhNR0oyc3lXRU40UlpkNGU1U3g5MmFXX0QxR1BDcFRYSkswdEgyN0VkLXIzdWF1UzVHNnd4TzBmcTdEZS00aGdDUzE3MEN5UnFuM3JrVE9EeEFnV3h4Zm9DVVRVQm5MZTZwZ2hZWW55ZmNnZVQ4b0dVaDBLWEhxOE8wS0hrelR4RDB2LWp5OUxJNS1CUDdxWExYWG9LTXZZOF9HOE0xZFVoVGxDM0M5endjZjZNcy1ia0prMXhieDZUSFM?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-07-01",
-          "views": "18.0K"
-        },
-        {
-          "title": "Daekyo expands global education footprint with personalized learning model - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOb0hBaGRSUF9uaXBvWFdERXU5Ti1iNG00QmNnZHZtN3JWQThYZUZQcE1veWtLUkpxckhxMWt3bVJjaTcwV2dKQkpoeHlNcmpBMWZUd1FjQkppYnF5a2xJQXlqbXcxUl9YM1FPdzNVVVlTWWk3NGd6amNhLU1NdWFGNjFkajhPVXdQUHJaOUl3LXRBTjN6c2hEenFHYXhBbnVqd2I4UzRUc0YxRHVKcUZFbUc0S1dWY0gwZTBpSWJoOUQzUndsbXR6TnVVRdIB0AFBVV95cUxOaFNDWW9ZY3phUERLdjlhZ0FOYmhETWk1aVRvYXlBRmJubU5HNDdnWktzOFFsRTdmNUZ3R2R0c25aTUFQejhJbktsYzhYWWM4SzcxdTdUS0pMeGNIMldIVU1yNE9rRzdNd2l3N1h3cnFjZWRKV2p2UXZRMEdqS0oxZU5VUVBERENJSnVWSVd4LXV5NGx3LWJjckN4Z1JWamNpem9aZGVWRkliVC0tUk56RkZUdFVpYW1wSmt5T0tFTzNnTGFQb1hjZjg4MkdWYnZ1?oc=5\" target=\"_blank\">Daekyo expands global education footprint with personalized learning model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb0hBaGRSUF9uaXBvWFdERXU5Ti1iNG00QmNnZHZtN3JWQThYZUZQcE1veWtLUkpxckhxMWt3bVJjaTcwV2dKQkpoeHlNcmpBMWZUd1FjQkppYnF5a2xJQXlqbXcxUl9YM1FPdzNVVVlTWWk3NGd6amNhLU1NdWFGNjFkajhPVXdQUHJaOUl3LXRBTjN6c2hEenFHYXhBbnVqd2I4UzRUc0YxRHVKcUZFbUc0S1dWY0gwZTBpSWJoOUQzUndsbXR6TnVVRdIB0AFBVV95cUxOaFNDWW9ZY3phUERLdjlhZ0FOYmhETWk1aVRvYXlBRmJubU5HNDdnWktzOFFsRTdmNUZ3R2R0c25aTUFQejhJbktsYzhYWWM4SzcxdTdUS0pMeGNIMldIVU1yNE9rRzdNd2l3N1h3cnFjZWRKV2p2UXZRMEdqS0oxZU5VUVBERENJSnVWSVd4LXV5NGx3LWJjckN4Z1JWamNpem9aZGVWRkliVC0tUk56RkZUdFVpYW1wSmt5T0tFTzNnTGFQb1hjZjg4MkdWYnZ1?oc=5",
-          "source": "The Korea Times",
+          "title": "OpenAI launches GPT-Live voice models that listen and speak simultaneously - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPUEx6Y21CZ0l1NDduWVB4dFcyX2pjdm9jY0RhU3Nna1N4V1VnZTB2Wjh4X01PLTRubDgtRGtjOTZCTWRPQy1DTllJQl94TVF6QmxFQWJfbkMta0xXNzJ4ekIyazBRNkxLVHZqVElSZDJoRGVYbFIzYlBXWnFGeXJ2VFJQRjBQQjlUQURUbVdCaU90SC1LanNaVVRWZjBiR0pJMXdjZE9Dczc3YVMzQzl0VHktT0FiZw?oc=5\" target=\"_blank\">OpenAI launches GPT-Live voice models that listen and speak simultaneously</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUEx6Y21CZ0l1NDduWVB4dFcyX2pjdm9jY0RhU3Nna1N4V1VnZTB2Wjh4X01PLTRubDgtRGtjOTZCTWRPQy1DTllJQl94TVF6QmxFQWJfbkMta0xXNzJ4ekIyazBRNkxLVHZqVElSZDJoRGVYbFIzYlBXWnFGeXJ2VFJQRjBQQjlUQURUbVdCaU90SC1LanNaVVRWZjBiR0pJMXdjZE9Dczc3YVMzQzl0VHktT0FiZw?oc=5",
+          "source": "Reuters AI",
           "publishedAt": "2026-07-08",
+          "views": "18.0K"
+        },
+        {
+          "title": "OpenAI set to launch most capable GPT model after delayed rollout - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeGRZM3dfemdtVmJpUmlMMzB2VW5yNXJUZ0tEM1BTeVlDOWt4cGRWbFk0d0VZY2h0a082WFB0NGRoZmFHZV8zZlVkTVpnakdIUFdTSkQxMlg2bktUWGtFa1FwQkdGVFZfZnQ2QzJXTnVxQmdqQXpxUkJKTXJPMXVFbE1oZklob2NMZUVSa05nMXlwX096aElmMlh2UWUweXNNeGFqUDJORE4?oc=5\" target=\"_blank\">OpenAI set to launch most capable GPT model after delayed rollout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeGRZM3dfemdtVmJpUmlMMzB2VW5yNXJUZ0tEM1BTeVlDOWt4cGRWbFk0d0VZY2h0a082WFB0NGRoZmFHZV8zZlVkTVpnakdIUFdTSkQxMlg2bktUWGtFa1FwQkdGVFZfZnQ2QzJXTnVxQmdqQXpxUkJKTXJPMXVFbE1oZklob2NMZUVSa05nMXlwX096aElmMlh2UWUweXNNeGFqUDJORE4?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-07-08",
+          "views": "18.0K"
+        },
+        {
+          "title": "Asian shares climb on chip rally, oil jumps as Gulf hostilities resume - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNU2dFb1NsRUVjbDhlRWp1VHVuZk9ud2JqcXdJbUxTOGhXLUpvcmJ1UzI4Zk45YmREYzlpVnRHS1dzMkxJemEtZmJRUHFHRm0tcTdqZlZxQXlvM2JKZE5Ed1VZT215aUxERjVGUk5reGZVamdYWXFLV3hfMnBuWXFYNVg3TQ?oc=5\" target=\"_blank\">Asian shares climb on chip rally, oil jumps as Gulf hostilities resume</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNU2dFb1NsRUVjbDhlRWp1VHVuZk9ud2JqcXdJbUxTOGhXLUpvcmJ1UzI4Zk45YmREYzlpVnRHS1dzMkxJemEtZmJRUHFHRm0tcTdqZlZxQXlvM2JKZE5Ed1VZT215aUxERjVGUk5reGZVamdYWXFLV3hfMnBuWXFYNVg3TQ?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-07-09",
           "views": "13.0K"
         }
       ]
@@ -79,6 +79,14 @@
       "hashtag": "#활용사례",
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
+        {
+          "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVWs0Y0htWE03N0JMbjZ2czFUUHozVm5pV0Fya3hJMEtjM3ZwRTJxNjJHN29XaDg2bG5rWmFVcHRuSjc3SGhJOGRLOU51aXBzYTdjVGhKVkZuT0dlakotaWMzQnl4c0dwVk1fQ1hKUjFiYXRvdTdpeFpmRkg3OHV3MFNPajJTUHA4eldKMG5JM3dTQWM1emlROUxTOUZMdDlqLXRmMEdod2wzQTlvazBhaTZNZjB6enE2?oc=5\" target=\"_blank\">Prime Intellect raises $130M Series A to help enterprises build their own AI agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVWs0Y0htWE03N0JMbjZ2czFUUHozVm5pV0Fya3hJMEtjM3ZwRTJxNjJHN29XaDg2bG5rWmFVcHRuSjc3SGhJOGRLOU51aXBzYTdjVGhKVkZuT0dlakotaWMzQnl4c0dwVk1fQ1hKUjFiYXRvdTdpeFpmRkg3OHV3MFNPajJTUHA4eldKMG5JM3dTQWM1emlROUxTOUZMdDlqLXRmMEdod2wzQTlvazBhaTZNZjB6enE2?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-07-08",
+          "views": "18.0K"
+        },
         {
           "title": "The real cost, security, and culture problems behind enterprise AI agents - VentureBeat",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOd2tJREVSQlkzdjdBeWlDeFY4ZkRocml4RFh6NGpjMC1BblFvYWtaSkNzdzVEZmN5NE1DUDNWdEZUMzQxUXY3Um5LQmRhcWtXSUFMVjZKRmFaYUNCcTQ5TEl4UHlWZHNoY05wRFB4bFhqbGlmVFpQUFpCVWZidlVuOHJSWTFqeHBBelRyYjRXTmpLVEJ4RGh2NzVOZzFKM0QxaVNXTWJMOA?oc=5\" target=\"_blank\">The real cost, security, and culture problems behind enterprise AI agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
@@ -94,14 +102,6 @@
           "source": "The Korea Times",
           "publishedAt": "2026-07-02",
           "views": "18.0K"
-        },
-        {
-          "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac - TechCrunch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNTDVKblBucGxXMUtkNXZjWk5raElhdjZsUUE5SFZqcGVsU1k0RDJHd1lMZjQ2YTIyeEFWT2l2dmV5UDY0TFB3RmZwWm02X00ySm5iSFlJSUxGbUFweGdEX3FwTjRlNUJsU0tORERWUTRtSmlQVzBLakFLX2FabGJtRUdaWFhxX1RZYzFBdlJtd2ZUOXQzX3dGcV9vT1REQQ?oc=5\" target=\"_blank\">Gemini Spark, Google’s agentic assistant, is now available on Mac</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTDVKblBucGxXMUtkNXZjWk5raElhdjZsUUE5SFZqcGVsU1k0RDJHd1lMZjQ2YTIyeEFWT2l2dmV5UDY0TFB3RmZwWm02X00ySm5iSFlJSUxGbUFweGdEX3FwTjRlNUJsU0tORERWUTRtSmlQVzBLakFLX2FabGJtRUdaWFhxX1RZYzFBdlJtd2ZUOXQzX3dGcV9vT1REQQ?oc=5",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-07-01",
-          "views": "18.0K"
         }
       ]
     },
@@ -112,26 +112,26 @@
       "items": [
         {
           "title": "PPP holds ethics committee meeting to review disciplinary measures against lawmakers - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeGpvaV9MenVhN1NfNFhiS1NlaW9fR2RTbkhSMTdlRDc0aWJlRE1OOTNmeFRxMkFfLVNucTgtblo0N2VjZnZfM2k3SktWMEFIUkM3RTJJWDU2UmItUmV3ajR2WDZRNnlaTlB1T2E1QmlZNGlscEFmS21RNmY1ODZIcnpaczQ0d0pYUWtiRkdXZjdsOXVvcVhYU0N4b3dwYXNOSmZkcjNLNTFDTFZYNzQ1S2VsZWZmbHk4akNQWVdiRmJGTURwTTBNeFFOZ1RJNmlHRHRlcERGU1Atd0g1OHAw0gHfAUFVX3lxTE54am9pX0x6dWE3U180WGJLU2Vpb19HZFNuSFIxN2VENzRpYmVETU45M2Z4VHEyQV8tU25xOC1uWjQ3ZWNmdl8zaTdKS1YwQUhSQzdFMklYNTZSYi1SZXdqNHZYNlE2eVpOUHVPYTVCaVk0aWxwQWZLbVE2ZjU4NkhyelpzNDR3SlhRa2JGR1dmN2w5dW9xWFhTQ3hvd3Bhc05KZmRyM0s1MUNMVlg3NDVLZWxlZmZseThqQ1BZV2JGYkZNRHBNME14UU5nVEk2aUdEdGVwREZTUC13SDU4cDA?oc=5\" target=\"_blank\">PPP holds ethics committee meeting to review disciplinary measures against lawmakers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeGpvaV9MenVhN1NfNFhiS1NlaW9fR2RTbkhSMTdlRDc0aWJlRE1OOTNmeFRxMkFfLVNucTgtblo0N2VjZnZfM2k3SktWMEFIUkM3RTJJWDU2UmItUmV3ajR2WDZRNnlaTlB1T2E1QmlZNGlscEFmS21RNmY1ODZIcnpaczQ0d0pYUWtiRkdXZjdsOXVvcVhYU0N4b3dwYXNOSmZkcjNLNTFDTFZYNzQ1S2VsZWZmbHk4akNQWVdiRmJGTURwTTBNeFFOZ1RJNmlHRHRlcERGU1Atd0g1OHAw0gHfAUFVX3lxTE54am9pX0x6dWE3U180WGJLU2Vpb19HZFNuSFIxN2VENzRpYmVETU45M2Z4VHEyQV8tU25xOC1uWjQ3ZWNmdl8zaTdKS1YwQUhSQzdFMklYNTZSYi1SZXdqNHZYNlE2eVpOUHVPYTVCaVk0aWxwQWZLbVE2ZjU4NkhyelpzNDR3SlhRa2JGR1dmN2w5dW9xWFhTQ3hvd3Bhc05KZmRyM0s1MUNMVlg3NDVLZWxlZmZseThqQ1BZV2JGYkZNRHBNME14UU5nVEk2aUdEdGVwREZTUC13SDU4cDA?oc=5",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeTdkQnk4WDFNZXUtQjN4MDNrejgxU0hPcTQ1Q0pwMVk3MUIzcHpZYmIwQ2tRbnkwTUhEYzZkTmdOTnRpNkI3c2tOdno1ak5sc192VkpWSGlXMnhhMnhWbmJSU1hGWHBmZDBFVTFtTDJWYmFpa2Z3a29LSEV3Z2FZdW1JRkNiWnJELXVXaVJ5cXI4Q0lEN3BRVkpWS3dYbWxxenBlZ3A3TlBoY3JLWDhmcWxRcTZvT2w5Q3I2Q3ZJUE85VmllRThNTTZUYktwUkl5NmZ3ME43ZjdSd9IB3wFBVV95cUxOeGpvaV9MenVhN1NfNFhiS1NlaW9fR2RTbkhSMTdlRDc0aWJlRE1OOTNmeFRxMkFfLVNucTgtblo0N2VjZnZfM2k3SktWMEFIUkM3RTJJWDU2UmItUmV3ajR2WDZRNnlaTlB1T2E1QmlZNGlscEFmS21RNmY1ODZIcnpaczQ0d0pYUWtiRkdXZjdsOXVvcVhYU0N4b3dwYXNOSmZkcjNLNTFDTFZYNzQ1S2VsZWZmbHk4akNQWVdiRmJGTURwTTBNeFFOZ1RJNmlHRHRlcERGU1Atd0g1OHAw?oc=5\" target=\"_blank\">PPP holds ethics committee meeting to review disciplinary measures against lawmakers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeTdkQnk4WDFNZXUtQjN4MDNrejgxU0hPcTQ1Q0pwMVk3MUIzcHpZYmIwQ2tRbnkwTUhEYzZkTmdOTnRpNkI3c2tOdno1ak5sc192VkpWSGlXMnhhMnhWbmJSU1hGWHBmZDBFVTFtTDJWYmFpa2Z3a29LSEV3Z2FZdW1JRkNiWnJELXVXaVJ5cXI4Q0lEN3BRVkpWS3dYbWxxenBlZ3A3TlBoY3JLWDhmcWxRcTZvT2w5Q3I2Q3ZJUE85VmllRThNTTZUYktwUkl5NmZ3ME43ZjdSd9IB3wFBVV95cUxOeGpvaV9MenVhN1NfNFhiS1NlaW9fR2RTbkhSMTdlRDc0aWJlRE1OOTNmeFRxMkFfLVNucTgtblo0N2VjZnZfM2k3SktWMEFIUkM3RTJJWDU2UmItUmV3ajR2WDZRNnlaTlB1T2E1QmlZNGlscEFmS21RNmY1ODZIcnpaczQ0d0pYUWtiRkdXZjdsOXVvcVhYU0N4b3dwYXNOSmZkcjNLNTFDTFZYNzQ1S2VsZWZmbHk4akNQWVdiRmJGTURwTTBNeFFOZ1RJNmlHRHRlcERGU1Atd0g1OHAw?oc=5",
           "source": "The Korea Times",
           "publishedAt": "2026-07-06",
           "views": "18.0K"
         },
         {
-          "title": "[Q&A] Korea's 'fake news' law is in force — what you need to know - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOaGIxU2RrSVRBZ0UwTDBKNEMzaGJMczVFbUlUVExXR0JLLWhRTzk1SmVpMmNFbmhwQlNRUnp2ZEdEZ1l1X19LOHNQemVheERBdTNKR05BN3lfaEJOQzFvSEpPMTJtc3M0QXl1RmIzc1pWeS1PYWNzRjIzQUtqdmFGdy1nNXBmYmJHaWxsVzluRWw1T1VfQlVLQldSR25kd2RTb3ZDdkRLMklmV0cyQjRMbWxJODFzcWvSAbwBQVVfeXFMTi1WOUk5dlRuUEYya1I5VXgxb1ZDb004YVRiei1uUHFKOXFvZWhVX0l0N0xkR2F1Tm9nUDhWZFd2c250YnJlcjdLTzlKRlBCOXJNVFE2YUl0eFc1SjFENFBZUi1XSExqT203UUtGQ3JWTXhYTFZScXYzbk9yZlNRR1A1Nm1ta085WXZuQWxqbTNlTk1PZHoxbjlIWm9iMjBvQ3ZKckREVjl2MlpUVUc2Y2pFYXVmZEwxYzJVemg?oc=5\" target=\"_blank\">[Q&A] Korea's 'fake news' law is in force — what you need to know</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaGIxU2RrSVRBZ0UwTDBKNEMzaGJMczVFbUlUVExXR0JLLWhRTzk1SmVpMmNFbmhwQlNRUnp2ZEdEZ1l1X19LOHNQemVheERBdTNKR05BN3lfaEJOQzFvSEpPMTJtc3M0QXl1RmIzc1pWeS1PYWNzRjIzQUtqdmFGdy1nNXBmYmJHaWxsVzluRWw1T1VfQlVLQldSR25kd2RTb3ZDdkRLMklmV0cyQjRMbWxJODFzcWvSAbwBQVVfeXFMTi1WOUk5dlRuUEYya1I5VXgxb1ZDb004YVRiei1uUHFKOXFvZWhVX0l0N0xkR2F1Tm9nUDhWZFd2c250YnJlcjdLTzlKRlBCOXJNVFE2YUl0eFc1SjFENFBZUi1XSExqT203UUtGQ3JWTXhYTFZScXYzbk9yZlNRR1A1Nm1ta085WXZuQWxqbTNlTk1PZHoxbjlIWm9iMjBvQ3ZKckREVjl2MlpUVUc2Y2pFYXVmZEwxYzJVemg?oc=5",
+          "title": "Google, Meta, TikTok named under 'fake news' law - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU0ZJUENKeUZ4Q1JZaXdPU1k2QXJMd1pxUXMzWi1ZekVFeEhxTTVuSDItUUtJRG9zV3JueV9ER0tsdWtBSHN0SlYwOGF6bzRKZTN2MF9pZ0Z2d3E3WkZOYzg0RlpEc0ZIQzQyNlY4TXJkdTF6X3JSZE9OVzkyU3ZfaGJwc29KeWFmck83a0NvNWFYLVdYVmUxWkUtY3ZOdkFYUWs3Nl80a1JhaEXSAasBQVVfeXFMUFNGSVBDSnlGeENSWWl3T1NZNkFyTHdacVFzM1otWXpFRXhIcU01bkgyLVFLSURvc1dybnlfREdLbHVrQUhzdEpWMDhhem80SmUzdjBfaWdGdndxN1pGTmM4NEZaRHNGSEM0MjZWOE1yZHUxel9yUmRPTlc5MlN2X2hicHNvSnlhZnJPN2tDbzVhWC1XWFZlMVpFLWN2TnZBWFFrNzZfNGtSYWhF?oc=5\" target=\"_blank\">Google, Meta, TikTok named under 'fake news' law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU0ZJUENKeUZ4Q1JZaXdPU1k2QXJMd1pxUXMzWi1ZekVFeEhxTTVuSDItUUtJRG9zV3JueV9ER0tsdWtBSHN0SlYwOGF6bzRKZTN2MF9pZ0Z2d3E3WkZOYzg0RlpEc0ZIQzQyNlY4TXJkdTF6X3JSZE9OVzkyU3ZfaGJwc29KeWFmck83a0NvNWFYLVdYVmUxWkUtY3ZOdkFYUWs3Nl80a1JhaEXSAasBQVVfeXFMUFNGSVBDSnlGeENSWWl3T1NZNkFyTHdacVFzM1otWXpFRXhIcU01bkgyLVFLSURvc1dybnlfREdLbHVrQUhzdEpWMDhhem80SmUzdjBfaWdGdndxN1pGTmM4NEZaRHNGSEM0MjZWOE1yZHUxel9yUmRPTlc5MlN2X2hicHNvSnlhZnJPN2tDbzVhWC1XWFZlMVpFLWN2TnZBWFFrNzZfNGtSYWhF?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-07-07",
+          "publishedAt": "2026-07-08",
           "views": "13.0K"
         },
         {
-          "title": "70% of Koreans back pursuing EU-style economic community with Japan: survey - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNc2xIU0VfMlVQSnlfV3ZtaW82c1BnRlJpVkJXR3dsbndBRFpOeGVYdkd5QS05dWFqR1hXWjUyWTVOaW1XQXZsSERRbVJzX294cFdOd24xUEppb2lRRURLNXRDYTFhSTE1NklFYWRyU3JnaTJVT3BBZnY0RzBOM2RfelFpd0oxWXpVajFtZkVZT3oxSEl4NXBXQkdKaHBtQWtYbTZ1b1ZndzFKZ3pZSzdIR19mUllpbHB2N3RLak4zQUI3akRV0gHKAUFVX3lxTFBvSUVFenZmRjZYZUdsRjFPa2dGTnlYNzNaVHhrOHJtQk53amRiMXFKUHF3bkpWcWpfdlFXOFpxZzc5RG5mOVpyUVBDM0lGamtFT3JscDZlUkRPMnVSVTg2U0FjZTFvRzI0N2laWEdpM0VqMjVPeUNyV21xalE2b0JTRTU0d1NZZzg4RWNNZUE4eXVackRrNVBuVDYxdEVLVF9vaUtHaVREN1NwbXNZaTFWODRNQUo4ZTBlakY2VmVodzZucGVzYnRBd2c?oc=5\" target=\"_blank\">70% of Koreans back pursuing EU-style economic community with Japan: survey</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc2xIU0VfMlVQSnlfV3ZtaW82c1BnRlJpVkJXR3dsbndBRFpOeGVYdkd5QS05dWFqR1hXWjUyWTVOaW1XQXZsSERRbVJzX294cFdOd24xUEppb2lRRURLNXRDYTFhSTE1NklFYWRyU3JnaTJVT3BBZnY0RzBOM2RfelFpd0oxWXpVajFtZkVZT3oxSEl4NXBXQkdKaHBtQWtYbTZ1b1ZndzFKZ3pZSzdIR19mUllpbHB2N3RLak4zQUI3akRV0gHKAUFVX3lxTFBvSUVFenZmRjZYZUdsRjFPa2dGTnlYNzNaVHhrOHJtQk53amRiMXFKUHF3bkpWcWpfdlFXOFpxZzc5RG5mOVpyUVBDM0lGamtFT3JscDZlUkRPMnVSVTg2U0FjZTFvRzI0N2laWEdpM0VqMjVPeUNyV21xalE2b0JTRTU0d1NZZzg4RWNNZUE4eXVackRrNVBuVDYxdEVLVF9vaUtHaVREN1NwbXNZaTFWODRNQUo4ZTBlakY2VmVodzZucGVzYnRBd2c?oc=5",
+          "title": "Airbags, robots and cooling vests: Korea pushes smart safety - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQck5tVVFlUVNBZUtjRElHZEFIRFhKbjRfTU5WaktpRXRocDJJUEdEUXoxR0NEeEMyVUxnR0RTUVN4WEluZUZGTEVKOWlwQ2ExdlBIdm9hdGJVbGx5b2I0aUdFM19HV09Hc3pNYnFIWVltaHhtOVhOQWttUnUxVVppOWMxMlNyOUlpb2VHbXZyelV2X0ZjSjZlZjBLS25hUndqZ3VBVEkxNFdMS0cwOGxMOERzd3VTRDEtZUHSAboBQVVfeXFMUHJObVVRZVFTQWVLY0RJR2RBSERYSm40X01OVmpLaUV0aHAySVBHRFF6MUdDRHhDMlVMZ0dEU1FTeFhJbmVGRkxFSjlpcENhMXZQSHZvYXRiVWxseW9iNGlHRTNfR1dPR3N6TWJxSFlZbWh4bTlYTkFrbVJ1MVVaaTljMTJTcjlJaW9lR212cnpVdl9GY0o2ZWYwS0tuYVJ3amd1QVRJMTRXTEtHMDhsTDhEc3d1U0QxLWVB?oc=5\" target=\"_blank\">Airbags, robots and cooling vests: Korea pushes smart safety</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQck5tVVFlUVNBZUtjRElHZEFIRFhKbjRfTU5WaktpRXRocDJJUEdEUXoxR0NEeEMyVUxnR0RTUVN4WEluZUZGTEVKOWlwQ2ExdlBIdm9hdGJVbGx5b2I0aUdFM19HV09Hc3pNYnFIWVltaHhtOVhOQWttUnUxVVppOWMxMlNyOUlpb2VHbXZyelV2X0ZjSjZlZjBLS25hUndqZ3VBVEkxNFdMS0cwOGxMOERzd3VTRDEtZUHSAboBQVVfeXFMUHJObVVRZVFTQWVLY0RJR2RBSERYSm40X01OVmpLaUV0aHAySVBHRFF6MUdDRHhDMlVMZ0dEU1FTeFhJbmVGRkxFSjlpcENhMXZQSHZvYXRiVWxseW9iNGlHRTNfR1dPR3N6TWJxSFlZbWh4bTlYTkFrbVJ1MVVaaTljMTJTcjlJaW9lR212cnpVdl9GY0o2ZWYwS0tuYVJ3amd1QVRJMTRXTEtHMDhsTDhEc3d1U0QxLWVB?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-07-07",
+          "publishedAt": "2026-07-08",
           "views": "13.0K"
         }
       ]
@@ -141,6 +141,14 @@
       "hashtag": "#경제",
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
+        {
+          "title": "AI chip startup SambaNova valued at $11 billion in $1 billion funding round - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQVFN4Q3MyZ0picXpkUUFKamxOY1RlNktsaVVQVkVCWXVPbGNobjBKeGlWaE9HTm4xVXM0RUFOUU1vbmt1M1A1eUxRdEJ2X2lzZUQ5NDZKVDMteG5tSkk3Q1Y4WlR4SUN0WmxVd1VwUUFZNzlzVVBiRTd6R19qOFoydDJkRUJTMXFZOTc4dHRxQk5wZC1MOF9ac3lMUjY1c1Rzd05mQi1KUUU1ZkF4aHgxN1Vrbm8zZ2RLYm5paQ?oc=5\" target=\"_blank\">AI chip startup SambaNova valued at $11 billion in $1 billion funding round</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVFN4Q3MyZ0picXpkUUFKamxOY1RlNktsaVVQVkVCWXVPbGNobjBKeGlWaE9HTm4xVXM0RUFOUU1vbmt1M1A1eUxRdEJ2X2lzZUQ5NDZKVDMteG5tSkk3Q1Y4WlR4SUN0WmxVd1VwUUFZNzlzVVBiRTd6R19qOFoydDJkRUJTMXFZOTc4dHRxQk5wZC1MOF9ac3lMUjY1c1Rzd05mQi1KUUU1ZkF4aHgxN1Vrbm8zZ2RLYm5paQ?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-07-08",
+          "views": "18.0K"
+        },
         {
           "title": "Woori Financial Group unveils $4.5 bil. investment roadmap to support startups - The Korea Times",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaHRrdDBQM3ZtdGxlQlVvMFhsR0E2UElOSS02VlZsQ1hoY0lkUXNTOUpiVGlBU3N2WW0zMTllUzVvSXF2eVlDbHRCMnFNNENHLUs3UUIwV2pVOE1XTDFRNTQ5aVFXRy1iU0xlTjMwMGZ5Z1Uta3VhLUhaVmtiTENQR3NrVG1nLVVUZ3l1c2FWckxYeHpiRERNNVhLazczbXN0QS1JZm00WTYtMUlnR3luY0FQb01ldFhRUmVXSWdadzUxUDlSczhrN1hGWWVRVFE4NV93R0c2YnpoWUJBVEQzeVB1bFBRQ2lVemfSAdoBQVVfeXFMUE5selVnOGR6R3YzcEZ0Z0tXdzZwU1dLclhrek51SnlNRkk0X3NablRjM2cyRzBQaXphVzNTR0QxU3Q0M28wcnBQZVRJWGNaSHc3ZTFfT21nc293U2xIcHpKMkM2SFNJb2JZcEpRQWp2VXl3OU0zdkl1SklNUENYLXZCck9Tc2ltb1hmMXJMRUo4XzE3cGdud19ZOFNVU3dUVVAtbVpENG15czhsdnZZTHoxdG9JSFZPVzlOMUx6RFltOGVCNklRSkZnOG0zTHZLQ2tyZGNLVFkxZkE?oc=5\" target=\"_blank\">Woori Financial Group unveils $4.5 bil. investment roadmap to support startups</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
@@ -153,14 +161,6 @@
           "title": "Woori Financial Group unveils $4.5 bil. investment road map to support startups - The Korea Times",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbEFULWZralppNERrM3FpVzh0elNvUU1VcmdUR1FMV3NHZGFzTnhrZjFuZEV0ajRNZ2x0YWwtN25XV280Y0laNUoyM19yV2VxaGxPUzYxd2xqRklmRDg3SWlHOVpxNGdyQjNFenM5WjNWS0tZTXlpU2VCY25lQnZpZjljWkNiWjJ1STBWZGdXM21YX3NLcWdmVUF1NDlPUmhUX1JFR0EtTjhtaVhMejB2dzhYRWpHV0xIcnZtMXYxTXdQYmlHaTd3TG8wMFB4X2JKR3pYc0pB0gHbAUFVX3lxTFBlY0FzdXhuSUUzRUEyaERYTHFfYm05bVllRjZZRTZSLUIwMUp5MWRVSmdoSDRGU1Z5ZTdZYTQ3WmtfeGhXaG00SnlZdWJBcE02S1p0WFBYVXozSUVJZmxkUVFRRGxXZndiYS1udDdYV1l1X0lUTG5qUEMwZ0JsUnFOcXNSenFFck13ZERfTWVtdjBad0VfSzR2WjU4b3JBVTRKNnVqaTFBcEU3Z2NVZmtneXdFak1oWUctMDVraUUyWU9kTXhwRmN6aXNxazYyaUFlSUJyZXhvQUd0aw?oc=5\" target=\"_blank\">Woori Financial Group unveils $4.5 bil. investment road map to support startups</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbEFULWZralppNERrM3FpVzh0elNvUU1VcmdUR1FMV3NHZGFzTnhrZjFuZEV0ajRNZ2x0YWwtN25XV280Y0laNUoyM19yV2VxaGxPUzYxd2xqRklmRDg3SWlHOVpxNGdyQjNFenM5WjNWS0tZTXlpU2VCY25lQnZpZjljWkNiWjJ1STBWZGdXM21YX3NLcWdmVUF1NDlPUmhUX1JFR0EtTjhtaVhMejB2dzhYRWpHV0xIcnZtMXYxTXdQYmlHaTd3TG8wMFB4X2JKR3pYc0pB0gHbAUFVX3lxTFBlY0FzdXhuSUUzRUEyaERYTHFfYm05bVllRjZZRTZSLUIwMUp5MWRVSmdoSDRGU1Z5ZTdZYTQ3WmtfeGhXaG00SnlZdWJBcE02S1p0WFBYVXozSUVJZmxkUVFRRGxXZndiYS1udDdYV1l1X0lUTG5qUEMwZ0JsUnFOcXNSenFFck13ZERfTWVtdjBad0VfSzR2WjU4b3JBVTRKNnVqaTFBcEU3Z2NVZmtneXdFak1oWUctMDVraUUyWU9kTXhwRmN6aXNxazYyaUFlSUJyZXhvQUd0aw?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-07-07",
-          "views": "18.0K"
-        },
-        {
-          "title": "Woori Financial Group unveils $4.5 bil. investment roadmap to support startups - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQUh4N2F1azZFa2Nib0xtZ01wamxGQW0xdW9lWXZzMEJPQUZyYk9tTmcyVXcyd2pQM3lSWDYzTTczcl9VVncyYjBZUDJYVEhMTnRWWW8xV2p6eWQ2MEVkTndDS3h0ZnlJOGdYaVJKTDhPZWVEOS1vTTV5RDFnM1pPRndndVhTWWhfR1hHYWJHUHlsb2tqWTk1YnBRZmRhbTNuZS1XMDFsem9MS1JFZUlDR0VmaGxLSGlwcVpFZTVmNXk2dy01Qi1wNzdsVFc2R2NJV1VRUdIB2gFBVV95cUxQTmx6VWc4ZHpHdjNwRnRnS1d3NnBTV0tyWGt6TnVKeU1GSTRfc1puVGMzZzJHMFBpemFXM1NHRDFTdDQzbzBycFBlVElYY1pIdzdlMV9PbWdzb3dTbEhwekoyQzZIU0lvYllwSlFBanZVeXc5TTN2SXVKSU1QQ1gtdkJyT1NzaW1vWGYxckxFSjhfMTdwZ253X1k4U1VTd1RVUC1tWkQ0bXlzOGx2dllMejF0b0lIVk9XOU4xTHpEWW04ZUI2SVFKRmc4bTNMdktDa3JkY0tUWTFmQQ?oc=5\" target=\"_blank\">Woori Financial Group unveils $4.5 bil. investment roadmap to support startups</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQUh4N2F1azZFa2Nib0xtZ01wamxGQW0xdW9lWXZzMEJPQUZyYk9tTmcyVXcyd2pQM3lSWDYzTTczcl9VVncyYjBZUDJYVEhMTnRWWW8xV2p6eWQ2MEVkTndDS3h0ZnlJOGdYaVJKTDhPZWVEOS1vTTV5RDFnM1pPRndndVhTWWhfR1hHYWJHUHlsb2tqWTk1YnBRZmRhbTNuZS1XMDFsem9MS1JFZUlDR0VmaGxLSGlwcVpFZTVmNXk2dy01Qi1wNzdsVFc2R2NJV1VRUdIB2gFBVV95cUxQTmx6VWc4ZHpHdjNwRnRnS1d3NnBTV0tyWGt6TnVKeU1GSTRfc1puVGMzZzJHMFBpemFXM1NHRDFTdDQzbzBycFBlVElYY1pIdzdlMV9PbWdzb3dTbEhwekoyQzZIU0lvYllwSlFBanZVeXc5TTN2SXVKSU1QQ1gtdkJyT1NzaW1vWGYxckxFSjhfMTdwZ253X1k4U1VTd1RVUC1tWkQ0bXlzOGx2dllMejF0b0lIVk9XOU4xTHpEWW04ZUI2SVFKRmc4bTNMdktDa3JkY0tUWTFmQQ?oc=5",
           "source": "The Korea Times",
           "publishedAt": "2026-07-07",
           "views": "18.0K"
@@ -181,19 +181,19 @@
           "views": "18.0K"
         },
         {
-          "title": "[INTERVIEW] Sangmyung University builds distinctive global strategy around arts, culture - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOUHJLalcxd0JZZGdXRFh4WTR5Z1BlSC1pZkltX1lTeF8wLUJRNHl0OTZSTzlWWWNNb0h1ZXNpU2ItX3NkQlEtLVY4ZElfM2FBV0U1QVpscEpaZzZPYU5Wa1hOZmJzbDFrblFqQ0s3UnRwY1ZUdmplUUxBSklXV0dvdUdTcWFodzhMRGFjLTZqX1ZkTS1RS1p2ejJSdS0tVGdJOXQ4SC0zUmllYVRXanAyTkpRdjZSMWtmSWNnRXFtVUFkY2xaUm1mcVdVSENFUlnSAdQBQVVfeXFMTVN1VjJwdDdYekdNWEIwWFV5aHFUVE5ya0o3a1NkUzBpbU0tRFA3R28wQmdwa1llZGVqZkdhNnFZZlRsZTRVYzZZZHZRMWRrbFVKU2lHQ3VtTWp6M09Vb3Y5VzdlNHpEcGlCWVd1REpyMzBLcHQ1WnFCeFR2MlJCeXhlWWIwNHhSQjZ5U0U5SnkzNUxNczF5U00xcW5kdkFsQjBQaU1HWFNobWU3NEZ1RlRkU21KV3RWS1BWN0FUcEdLNnFKVFpac2JBMXpiZWJ0OC1hX18?oc=5\" target=\"_blank\">[INTERVIEW] Sangmyung University builds distinctive global strategy around arts, culture</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUHJLalcxd0JZZGdXRFh4WTR5Z1BlSC1pZkltX1lTeF8wLUJRNHl0OTZSTzlWWWNNb0h1ZXNpU2ItX3NkQlEtLVY4ZElfM2FBV0U1QVpscEpaZzZPYU5Wa1hOZmJzbDFrblFqQ0s3UnRwY1ZUdmplUUxBSklXV0dvdUdTcWFodzhMRGFjLTZqX1ZkTS1RS1p2ejJSdS0tVGdJOXQ4SC0zUmllYVRXanAyTkpRdjZSMWtmSWNnRXFtVUFkY2xaUm1mcVdVSENFUlnSAdQBQVVfeXFMTVN1VjJwdDdYekdNWEIwWFV5aHFUVE5ya0o3a1NkUzBpbU0tRFA3R28wQmdwa1llZGVqZkdhNnFZZlRsZTRVYzZZZHZRMWRrbFVKU2lHQ3VtTWp6M09Vb3Y5VzdlNHpEcGlCWVd1REpyMzBLcHQ1WnFCeFR2MlJCeXhlWWIwNHhSQjZ5U0U5SnkzNUxNczF5U00xcW5kdkFsQjBQaU1HWFNobWU3NEZ1RlRkU21KV3RWS1BWN0FUcEdLNnFKVFpac2JBMXpiZWJ0OC1hX18?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-07-07",
+          "title": "Truecaller clashes with India’s telecom regulator over anti-spam rules - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOX0ZiaE1VNjJwbDBfenZ4Uk5xcE45U1dtaUpENWJxVXgzS0llVGNYbHRmLXV4dzVobHp0ZkFDanlhRnhEMFV6LThNYllDbk0xM0xkYmdWWE1LV0FQNnZCOWRaZmtrODBCLVhULVBhWnQtS3g5cDROVThURjU3VGNPeTMzeEVsdXhvN05HX2RrZ0RvN2IwODdPdE50ZEhNWlJMNzFvaHN0SQ?oc=5\" target=\"_blank\">Truecaller clashes with India’s telecom regulator over anti-spam rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX0ZiaE1VNjJwbDBfenZ4Uk5xcE45U1dtaUpENWJxVXgzS0llVGNYbHRmLXV4dzVobHp0ZkFDanlhRnhEMFV6LThNYllDbk0xM0xkYmdWWE1LV0FQNnZCOWRaZmtrODBCLVhULVBhWnQtS3g5cDROVThURjU3VGNPeTMzeEVsdXhvN05HX2RrZ0RvN2IwODdPdE50ZEhNWlJMNzFvaHN0SQ?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-07-09",
           "views": "13.0K"
         },
         {
-          "title": "Lee, Canadian PM Carney discuss cooperation on defense industry, critical minerals - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNllBNm9qQTlPNko4cEJQYzhnRExnSDlmazJlbnF3MUJqaEFndkxONUxZeGJUVC1xXzhiMW85eFZGZFQybnpoSnBwVmo2NTZOeFpOcmw2Yi1OR19GUWRMNzk3VWtVU2ZxeTY2ZlBJVWowbFVGcVdTUEdnb3paNU9Ca1YwYzJQRzlWLVFpbVFZME9BU01OX1dHWUlGamdab0FBc1JnY3VXbGpneEVnU0paeHJfaWpsanVxVHNvOHY3ZjQ5Z2lxYTk2NnRNYzRLeVZKT3dZ0gHTAUFVX3lxTE82WUE2b2pBOU82SjhwQlBjOGdETGdIOWZrMmVucXcxQmpoQWd2TE41TFl4YlRULXFfOGIxbzl4VkZkVDJuemhKcHBWajY1Nk54Wk5ybDZiLU5HX0ZRZEw3OTdVa1VTZnF5NjZmUElVajBsVUZxV1NQR2dvelo1T0JrVjBjMlBHOVYtUWltUVkwT0FTTU5fV0dZSUZqZ1pvQUFzUmdjdVdsamd4RWdTSlp4cl9pamxqdXFUc284djdmNDlnaXFhOTY2dE1jNEt5VkpPd1k?oc=5\" target=\"_blank\">Lee, Canadian PM Carney discuss cooperation on defense industry, critical minerals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNllBNm9qQTlPNko4cEJQYzhnRExnSDlmazJlbnF3MUJqaEFndkxONUxZeGJUVC1xXzhiMW85eFZGZFQybnpoSnBwVmo2NTZOeFpOcmw2Yi1OR19GUWRMNzk3VWtVU2ZxeTY2ZlBJVWowbFVGcVdTUEdnb3paNU9Ca1YwYzJQRzlWLVFpbVFZME9BU01OX1dHWUlGamdab0FBc1JnY3VXbGpneEVnU0paeHJfaWpsanVxVHNvOHY3ZjQ5Z2lxYTk2NnRNYzRLeVZKT3dZ0gHTAUFVX3lxTE82WUE2b2pBOU82SjhwQlBjOGdETGdIOWZrMmVucXcxQmpoQWd2TE41TFl4YlRULXFfOGIxbzl4VkZkVDJuemhKcHBWajY1Nk54Wk5ybDZiLU5HX0ZRZEw3OTdVa1VTZnF5NjZmUElVajBsVUZxV1NQR2dvelo1T0JrVjBjMlBHOVYtUWltUVkwT0FTTU5fV0dZSUZqZ1pvQUFzUmdjdVdsamd4RWdTSlp4cl9pamxqdXFUc284djdmNDlnaXFhOTY2dE1jNEt5VkpPd1k?oc=5",
+          "title": "Korea's digital industry expands 9.3 % in 2024: report - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOTGJVeGVYb0xXYm4xMVdTQlJJN2V2aC1WdEpsQWV4RFV2VlpIQThtckZOSDV3aEswV2Jjek1LM0JlMlBkZGZOOC1kOERETjAzRXlaZHBJN0JkUXBtYzRpYnpCMGo1RllWTHp3TmlzSzU3RE93SThYbm5CMkVGekNZMVJNUTFjYkN3RmhvaWVZMU5iRWxVX254clczemE1UDZUdVZtYnNUU2NUblpwUmNGa1NQZ9IBswFBVV95cUxOTGJVeGVYb0xXYm4xMVdTQlJJN2V2aC1WdEpsQWV4RFV2VlpIQThtckZOSDV3aEswV2Jjek1LM0JlMlBkZGZOOC1kOERETjAzRXlaZHBJN0JkUXBtYzRpYnpCMGo1RllWTHp3TmlzSzU3RE93SThYbm5CMkVGekNZMVJNUTFjYkN3RmhvaWVZMU5iRWxVX254clczemE1UDZUdVZtYnNUU2NUblpwUmNGa1NQZw?oc=5\" target=\"_blank\">Korea's digital industry expands 9.3 % in 2024: report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTGJVeGVYb0xXYm4xMVdTQlJJN2V2aC1WdEpsQWV4RFV2VlpIQThtckZOSDV3aEswV2Jjek1LM0JlMlBkZGZOOC1kOERETjAzRXlaZHBJN0JkUXBtYzRpYnpCMGo1RllWTHp3TmlzSzU3RE93SThYbm5CMkVGekNZMVJNUTFjYkN3RmhvaWVZMU5iRWxVX254clczemE1UDZUdVZtYnNUU2NUblpwUmNGa1NQZ9IBswFBVV95cUxOTGJVeGVYb0xXYm4xMVdTQlJJN2V2aC1WdEpsQWV4RFV2VlpIQThtckZOSDV3aEswV2Jjek1LM0JlMlBkZGZOOC1kOERETjAzRXlaZHBJN0JkUXBtYzRpYnpCMGo1RllWTHp3TmlzSzU3RE93SThYbm5CMkVGekNZMVJNUTFjYkN3RmhvaWVZMU5iRWxVX254clczemE1UDZUdVZtYnNUU2NUblpwUmNGa1NQZw?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-07-07",
+          "publishedAt": "2026-07-08",
           "views": "13.0K"
         }
       ]
