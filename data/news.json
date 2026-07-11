@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T04:11:55.296Z",
+  "lastUpdated": "2026-07-11T03:38:50.936Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -65,9 +65,9 @@
           "views": "18.0K"
         },
         {
-          "title": "OpenAI launches GPT-Live voice models that listen and speak simultaneously - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPUEx6Y21CZ0l1NDduWVB4dFcyX2pjdm9jY0RhU3Nna1N4V1VnZTB2Wjh4X01PLTRubDgtRGtjOTZCTWRPQy1DTllJQl94TVF6QmxFQWJfbkMta0xXNzJ4ekIyazBRNkxLVHZqVElSZDJoRGVYbFIzYlBXWnFGeXJ2VFJQRjBQQjlUQURUbVdCaU90SC1LanNaVVRWZjBiR0pJMXdjZE9Dczc3YVMzQzl0VHktT0FiZw?oc=5\" target=\"_blank\">OpenAI launches GPT-Live voice models that listen and speak simultaneously</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUEx6Y21CZ0l1NDduWVB4dFcyX2pjdm9jY0RhU3Nna1N4V1VnZTB2Wjh4X01PLTRubDgtRGtjOTZCTWRPQy1DTllJQl94TVF6QmxFQWJfbkMta0xXNzJ4ekIyazBRNkxLVHZqVElSZDJoRGVYbFIzYlBXWnFGeXJ2VFJQRjBQQjlUQURUbVdCaU90SC1LanNaVVRWZjBiR0pJMXdjZE9Dczc3YVMzQzl0VHktT0FiZw?oc=5",
+          "title": "OpenAI set to launch most capable GPT model after delayed rollout - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeGRZM3dfemdtVmJpUmlMMzB2VW5yNXJUZ0tEM1BTeVlDOWt4cGRWbFk0d0VZY2h0a082WFB0NGRoZmFHZV8zZlVkTVpnakdIUFdTSkQxMlg2bktUWGtFa1FwQkdGVFZfZnQ2QzJXTnVxQmdqQXpxUkJKTXJPMXVFbE1oZklob2NMZUVSa05nMXlwX096aElmMlh2UWUweXNNeGFqUDJORE4?oc=5\" target=\"_blank\">OpenAI set to launch most capable GPT model after delayed rollout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeGRZM3dfemdtVmJpUmlMMzB2VW5yNXJUZ0tEM1BTeVlDOWt4cGRWbFk0d0VZY2h0a082WFB0NGRoZmFHZV8zZlVkTVpnakdIUFdTSkQxMlg2bktUWGtFa1FwQkdGVFZfZnQ2QzJXTnVxQmdqQXpxUkJKTXJPMXVFbE1oZklob2NMZUVSa05nMXlwX096aElmMlh2UWUweXNNeGFqUDJORE4?oc=5",
           "source": "Reuters AI",
           "publishedAt": "2026-07-08",
           "views": "18.0K"
@@ -79,6 +79,14 @@
       "hashtag": "#활용사례",
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
+        {
+          "title": "Enterprise AI agent controls lag deployment - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcU9hTjRveWR3QUlaQ25jMlozTXNGOUV5Ul9kVHk0aHpzbElCOXBtNzlhRS1YcXpMakNORFFjelpzUzNMd3Y2dzExTHBCMV9CZ1FBN0V0YWdPOUJpMlZaZkJDS2oxZWZMaS10ektXZWZlSkQ1VlhibmxPeHVxMzh1NkEzVUF5NGdyNzIyOXhzSU9ESGxJc0N0RGhlRGprZm9Ec3c2Mldjclo2dmlJT3ZONWhSWWl4NEpkYUVLbEFfSEx6Uzd3ek82Uk44U1hOdVNZTHVKTHFCUTB5YlNVNnZLQkdjckI?oc=5\" target=\"_blank\">Enterprise AI agent controls lag deployment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcU9hTjRveWR3QUlaQ25jMlozTXNGOUV5Ul9kVHk0aHpzbElCOXBtNzlhRS1YcXpMakNORFFjelpzUzNMd3Y2dzExTHBCMV9CZ1FBN0V0YWdPOUJpMlZaZkJDS2oxZWZMaS10ektXZWZlSkQ1VlhibmxPeHVxMzh1NkEzVUF5NGdyNzIyOXhzSU9ESGxJc0N0RGhlRGprZm9Ec3c2Mldjclo2dmlJT3ZONWhSWWl4NEpkYUVLbEFfSEx6Uzd3ek82Uk44U1hOdVNZTHVKTHFCUTB5YlNVNnZLQkdjckI?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-07-10",
+          "views": "18.0K"
+        },
         {
           "title": "69% of enterprises share AI agent credentials - VentureBeat",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOdUJNVUQ4dDZ4R3ZpUC1KWnFGMGtjUjEtZGtMUFE1R3VJLXAwaWxJTHQ5X3JJeERlRHRaQmJlWnRVZ29pbVRvWGZDYy1SSnV0UzBRSUszQmFmZ29NTlVJZ1dpc3hjUWtiay1KV0RjZ0poV1VpN0ViRWtoN0RLTC1sYWs4VmRRc0NVb0U3VkFPSEVsQTF3ZjY0?oc=5\" target=\"_blank\">69% of enterprises share AI agent credentials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
@@ -94,14 +102,6 @@
           "source": "TechCrunch AI",
           "publishedAt": "2026-07-08",
           "views": "18.0K"
-        },
-        {
-          "title": "The real cost, security, and culture problems behind enterprise AI agents - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOd2tJREVSQlkzdjdBeWlDeFY4ZkRocml4RFh6NGpjMC1BblFvYWtaSkNzdzVEZmN5NE1DUDNWdEZUMzQxUXY3Um5LQmRhcWtXSUFMVjZKRmFaYUNCcTQ5TEl4UHlWZHNoY05wRFB4bFhqbGlmVFpQUFpCVWZidlVuOHJSWTFqeHBBelRyYjRXTmpLVEJ4RGh2NzVOZzFKM0QxaVNXTWJMOA?oc=5\" target=\"_blank\">The real cost, security, and culture problems behind enterprise AI agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOd2tJREVSQlkzdjdBeWlDeFY4ZkRocml4RFh6NGpjMC1BblFvYWtaSkNzdzVEZmN5NE1DUDNWdEZUMzQxUXY3Um5LQmRhcWtXSUFMVjZKRmFaYUNCcTQ5TEl4UHlWZHNoY05wRFB4bFhqbGlmVFpQUFpCVWZidlVuOHJSWTFqeHBBelRyYjRXTmpLVEJ4RGh2NzVOZzFKM0QxaVNXTWJMOA?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-07-07",
-          "views": "18.0K"
         }
       ]
     },
@@ -111,6 +111,14 @@
       "description": "규제, 책임, 신뢰, 저작권 같은 문제를 보는 관점",
       "items": [
         {
+          "title": "OpenAI’s Head of Safety Is Leaving the Company - WIRED",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1pQ3hmbzl1bzFjNmJ3dWs1WWNmNGYyTXpUVVQ3SEIxOXRXY0xDUjF0VUN3TXEyT1JpSVFfeDJRWkFKT1lNTjJPTWNjRU1FQlAwTEx5SHBJelhZRzI4Q0FXUi1MOVMtbThrTWc?oc=5\" target=\"_blank\">OpenAI’s Head of Safety Is Leaving the Company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pQ3hmbzl1bzFjNmJ3dWs1WWNmNGYyTXpUVVQ3SEIxOXRXY0xDUjF0VUN3TXEyT1JpSVFfeDJRWkFKT1lNTjJPTWNjRU1FQlAwTEx5SHBJelhZRzI4Q0FXUi1MOVMtbThrTWc?oc=5",
+          "source": "WIRED AI",
+          "publishedAt": "2026-07-11",
+          "views": "18.0K"
+        },
+        {
           "title": "Breakingviews - Le Pen can run, but can’t hide her policy flaws - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNRGZSQzFoMDFZck41RHI4dnl6Sl84N29XaDNqU3FKdk9YT01hTDBOcEtLYnctVXk3bkZDclhPLUxqaTNsZG1GZUI2M2FRRWk1WjVKY1Zuajh6bEtlQS1tRXNmbkxXQ2hNcGk2VFhSejRTUG80c2piUDVTRU1lWVBISGNnYkJDbVdiNFJISUVKaHhLaDE5Y2xWdUFJbVo4czFlMEFmNQ?oc=5\" target=\"_blank\">Breakingviews - Le Pen can run, but can’t hide her policy flaws</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRGZSQzFoMDFZck41RHI4dnl6Sl84N29XaDNqU3FKdk9YT01hTDBOcEtLYnctVXk3bkZDclhPLUxqaTNsZG1GZUI2M2FRRWk1WjVKY1Zuajh6bEtlQS1tRXNmbkxXQ2hNcGk2VFhSejRTUG80c2piUDVTRU1lWVBISGNnYkJDbVdiNFJISUVKaHhLaDE5Y2xWdUFJbVo4czFlMEFmNQ?oc=5",
@@ -119,20 +127,12 @@
           "views": "18.0K"
         },
         {
-          "title": "PPP holds ethics committee meeting to review disciplinary measures against lawmakers - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeTdkQnk4WDFNZXUtQjN4MDNrejgxU0hPcTQ1Q0pwMVk3MUIzcHpZYmIwQ2tRbnkwTUhEYzZkTmdOTnRpNkI3c2tOdno1ak5sc192VkpWSGlXMnhhMnhWbmJSU1hGWHBmZDBFVTFtTDJWYmFpa2Z3a29LSEV3Z2FZdW1JRkNiWnJELXVXaVJ5cXI4Q0lEN3BRVkpWS3dYbWxxenBlZ3A3TlBoY3JLWDhmcWxRcTZvT2w5Q3I2Q3ZJUE85VmllRThNTTZUYktwUkl5NmZ3ME43ZjdSd9IB3wFBVV95cUxOeGpvaV9MenVhN1NfNFhiS1NlaW9fR2RTbkhSMTdlRDc0aWJlRE1OOTNmeFRxMkFfLVNucTgtblo0N2VjZnZfM2k3SktWMEFIUkM3RTJJWDU2UmItUmV3ajR2WDZRNnlaTlB1T2E1QmlZNGlscEFmS21RNmY1ODZIcnpaczQ0d0pYUWtiRkdXZjdsOXVvcVhYU0N4b3dwYXNOSmZkcjNLNTFDTFZYNzQ1S2VsZWZmbHk4akNQWVdiRmJGTURwTTBNeFFOZ1RJNmlHRHRlcERGU1Atd0g1OHAw?oc=5\" target=\"_blank\">PPP holds ethics committee meeting to review disciplinary measures against lawmakers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeTdkQnk4WDFNZXUtQjN4MDNrejgxU0hPcTQ1Q0pwMVk3MUIzcHpZYmIwQ2tRbnkwTUhEYzZkTmdOTnRpNkI3c2tOdno1ak5sc192VkpWSGlXMnhhMnhWbmJSU1hGWHBmZDBFVTFtTDJWYmFpa2Z3a29LSEV3Z2FZdW1JRkNiWnJELXVXaVJ5cXI4Q0lEN3BRVkpWS3dYbWxxenBlZ3A3TlBoY3JLWDhmcWxRcTZvT2w5Q3I2Q3ZJUE85VmllRThNTTZUYktwUkl5NmZ3ME43ZjdSd9IB3wFBVV95cUxOeGpvaV9MenVhN1NfNFhiS1NlaW9fR2RTbkhSMTdlRDc0aWJlRE1OOTNmeFRxMkFfLVNucTgtblo0N2VjZnZfM2k3SktWMEFIUkM3RTJJWDU2UmItUmV3ajR2WDZRNnlaTlB1T2E1QmlZNGlscEFmS21RNmY1ODZIcnpaczQ0d0pYUWtiRkdXZjdsOXVvcVhYU0N4b3dwYXNOSmZkcjNLNTFDTFZYNzQ1S2VsZWZmbHk4akNQWVdiRmJGTURwTTBNeFFOZ1RJNmlHRHRlcERGU1Atd0g1OHAw?oc=5",
+          "title": "Special counsel seeks arrest warrant for ex-presidential security aide over alleged role in martial law - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWFpndDJ3bUJYSG15eHR3Yk0xNjA3SXJXRlczQ0ZXVzdELV8weVlyV0hEc3kzRzUwNHh2bEduUldocnpYLTNnUlRrUXNwQ3Vwa2FHVk16RWJQSWVud1ozY3I5U2xmTEFJQlpkQlItYzFTN2FHQzRFTzlpVDUwLVprV3RISks2WkFKSFFMdF9YS2lyN3hleEY2YlpGMThxa0tiOThTOU1ieXF6MkU4ak1LSkZGQkdld3Zsc1ZMUU1NZXhHTVlWajU0em1NQjVpTnlwZE4zeHZKbHdqQVJMMmFueW5EbkJ6VzhpMEszeXNzRW9qMnN30gH6AUFVX3lxTE9yaDUwb3ZubklGTWdCN3RRWWxwUFpmSWZaYUZZeWFVbE5NQ1h0eVhMdjdnUGdnMVFWRkhhTm5lZ3ZJSFBQNjFyb3VraFQzb0lGTTlBdkNrd3VjdmFmaUJ4Y1VWQW5uellrR3dYdmZaYTh5WmxJbGFUR1B6MDEwVWlsVngtNThRY3dXWXZ5SnlKS2VxUHRxMGNQYm9MZzRiRzFGYk5aQ0pZMmZfaE5mOFhJUlR3ZU82dUsyUS1PVTkyb0FVR3BhT09pcnlUYUlpaWppZEhraW83U3J4TkhwV3NSWTJVcWRkTVNuNnpKNG5LblRUejdBWS1SdGc?oc=5\" target=\"_blank\">Special counsel seeks arrest warrant for ex-presidential security aide over alleged role in martial law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWFpndDJ3bUJYSG15eHR3Yk0xNjA3SXJXRlczQ0ZXVzdELV8weVlyV0hEc3kzRzUwNHh2bEduUldocnpYLTNnUlRrUXNwQ3Vwa2FHVk16RWJQSWVud1ozY3I5U2xmTEFJQlpkQlItYzFTN2FHQzRFTzlpVDUwLVprV3RISks2WkFKSFFMdF9YS2lyN3hleEY2YlpGMThxa0tiOThTOU1ieXF6MkU4ak1LSkZGQkdld3Zsc1ZMUU1NZXhHTVlWajU0em1NQjVpTnlwZE4zeHZKbHdqQVJMMmFueW5EbkJ6VzhpMEszeXNzRW9qMnN30gH6AUFVX3lxTE9yaDUwb3ZubklGTWdCN3RRWWxwUFpmSWZaYUZZeWFVbE5NQ1h0eVhMdjdnUGdnMVFWRkhhTm5lZ3ZJSFBQNjFyb3VraFQzb0lGTTlBdkNrd3VjdmFmaUJ4Y1VWQW5uellrR3dYdmZaYTh5WmxJbGFUR1B6MDEwVWlsVngtNThRY3dXWXZ5SnlKS2VxUHRxMGNQYm9MZzRiRzFGYk5aQ0pZMmZfaE5mOFhJUlR3ZU82dUsyUS1PVTkyb0FVR3BhT09pcnlUYUlpaWppZEhraW83U3J4TkhwV3NSWTJVcWRkTVNuNnpKNG5LblRUejdBWS1SdGc?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-07-06",
+          "publishedAt": "2026-07-07",
           "views": "18.0K"
-        },
-        {
-          "title": "NewJeans sued for alleged copyright infringement in US - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNSmgtV3JxbEtkSmdnOW92S0J3cHZNUzUzZGYtWWlYajJ3VzJUbXFWd2RNVEFTdk0tc09iNWo2V3g4dUVodDJSVE9qUjRJT0tjanBxSEo3S3FEV3pUeUNOVjZxQ0paRXFNYndibWZNV2lEY09IejV4elZhbXFOVk1ibFhnUVRHXzdFMVBLWExxVFBlejJVbkw2Vlo5a3hWZ0M3V1NYcWpfOGxMZG9IMFlqYUJn0gG3AUFVX3lxTE1lZTB2eXVDbkhkU0tpc093OTc0dXZLcWJnUGNpNG9zdWdLS0R6bFZhSC1IN0Y1YTVJeTBzZUUyTnduQWVmY1BnWVZvWWtqckVjYkphRHhOR01LMXpOTkhhbTc4eDlrcmtjMG5mNGQ4c0lCamRSUTFwcW04SGRFOV9EMmJTY3VhVGx0RjVjeWZmRkJfYlpNR3cyWEVPNUlMNGtJNUlvYWpOdVhSenI0cm1LczlLOU9QZw?oc=5\" target=\"_blank\">NewJeans sued for alleged copyright infringement in US</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSmgtV3JxbEtkSmdnOW92S0J3cHZNUzUzZGYtWWlYajJ3VzJUbXFWd2RNVEFTdk0tc09iNWo2V3g4dUVodDJSVE9qUjRJT0tjanBxSEo3S3FEV3pUeUNOVjZxQ0paRXFNYndibWZNV2lEY09IejV4elZhbXFOVk1ibFhnUVRHXzdFMVBLWExxVFBlejJVbkw2Vlo5a3hWZ0M3V1NYcWpfOGxMZG9IMFlqYUJn0gG3AUFVX3lxTE1lZTB2eXVDbkhkU0tpc093OTc0dXZLcWJnUGNpNG9zdWdLS0R6bFZhSC1IN0Y1YTVJeTBzZUUyTnduQWVmY1BnWVZvWWtqckVjYkphRHhOR01LMXpOTkhhbTc4eDlrcmtjMG5mNGQ4c0lCamRSUTFwcW04SGRFOV9EMmJTY3VhVGx0RjVjeWZmRkJfYlpNR3cyWEVPNUlMNGtJNUlvYWpOdVhSenI0cm1LczlLOU9QZw?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-07-09",
-          "views": "13.0K"
         }
       ]
     },
@@ -181,19 +181,19 @@
           "views": "18.0K"
         },
         {
-          "title": "Telecoms set for mixed Q2 as AI investment race looms - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZm9vVzYzVkRId3NZTDZXSEc4SHkzZmc5eTlhZ0VfTzV6bWE0TFNIekN1NDE0VXl4UklNcThCWnhEWFM4UGdxTTNEYXpqZUJiRHlTcUdSTkFPNDJqUjdfcm5yS2t5cU1YWk1yMVlDbzk3Qmt1WmktNmhROW1DeTNUZVYwdkwzZEQta2hzS2NvQVpyc3NFV0xSSF9HU20xWU9MVFZhUWNlaVh5cGZPYXRKX1RNN0F4TGc30gG4AUFVX3lxTE5mb29XNjNWREh3c1lMNldIRzhIeTNmZzl5OWFnRV9PNXptYTRMU0h6Q3U0MTRVeXhSSU1xOEJaeERYUzhQZ3FNM0RhemplQmJEeVNxR1JOQU80MmpSN19ybnJLa3lxTVhaTXIxWUNvOTdCa3VaaS02aFE5bUN5M1RlVjB2TDNkRC1raHNLY29BWnJzc0VXTFJIX0dTbTFZT0xUVmFRY2VpWHlwZk9hdEpfVE03QXhMZzc?oc=5\" target=\"_blank\">Telecoms set for mixed Q2 as AI investment race looms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZm9vVzYzVkRId3NZTDZXSEc4SHkzZmc5eTlhZ0VfTzV6bWE0TFNIekN1NDE0VXl4UklNcThCWnhEWFM4UGdxTTNEYXpqZUJiRHlTcUdSTkFPNDJqUjdfcm5yS2t5cU1YWk1yMVlDbzk3Qmt1WmktNmhROW1DeTNUZVYwdkwzZEQta2hzS2NvQVpyc3NFV0xSSF9HU20xWU9MVFZhUWNlaVh5cGZPYXRKX1RNN0F4TGc30gG4AUFVX3lxTE5mb29XNjNWREh3c1lMNldIRzhIeTNmZzl5OWFnRV9PNXptYTRMU0h6Q3U0MTRVeXhSSU1xOEJaeERYUzhQZ3FNM0RhemplQmJEeVNxR1JOQU80MmpSN19ybnJLa3lxTVhaTXIxWUNvOTdCa3VaaS02aFE5bUN5M1RlVjB2TDNkRC1raHNLY29BWnJzc0VXTFJIX0dTbTFZT0xUVmFRY2VpWHlwZk9hdEpfVE03QXhMZzc?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-07-09",
+          "title": "OpenAI’s Head of Safety Is Leaving the Company - WIRED",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1pQ3hmbzl1bzFjNmJ3dWs1WWNmNGYyTXpUVVQ3SEIxOXRXY0xDUjF0VUN3TXEyT1JpSVFfeDJRWkFKT1lNTjJPTWNjRU1FQlAwTEx5SHBJelhZRzI4Q0FXUi1MOVMtbThrTWc?oc=5\" target=\"_blank\">OpenAI’s Head of Safety Is Leaving the Company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pQ3hmbzl1bzFjNmJ3dWs1WWNmNGYyTXpUVVQ3SEIxOXRXY0xDUjF0VUN3TXEyT1JpSVFfeDJRWkFKT1lNTjJPTWNjRU1FQlAwTEx5SHBJelhZRzI4Q0FXUi1MOVMtbThrTWc?oc=5",
+          "source": "WIRED AI",
+          "publishedAt": "2026-07-11",
           "views": "13.0K"
         },
         {
-          "title": "INSPIRE rallies industry leaders to drive inbound tourism boom - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYVdMQ2ttdkNab25EQW45S08wRXpMR21pajZDaDFHZkZ1UnlTTjdMVDNOVXltU3o4bmpmSmtnOFZJSXkwZWU0SlEzLWJLTS16UjFjdUVPZHhuOVJfMkhlbk1RSGYwVmcyRjNxVVpvcnozMWo1VVdLOTRjM3FXaDhvUmg1VU13RzhBcXpKYWUzWnpWNEJjME11WnpUUWFXSGNtdGFJdjN1VW5NRVQwUDh0eXhaYnBzX3lpM1Ew0gHAAUFVX3lxTE0zUmMyclVyb0JXR1VDaVNCbjFqak1VTUhXSTU1RDJQTnZReHRzMlYwMnpPU29DX1YwQk84Rm1HaHplSjBiTU8xNVMyaXJvRmkxT3B3X1QwakV4ZW9PZ1FEYkJCR19OWmZKVFQtRWZkVmtLcjVrSUFQZ3JfNlQxUVppMndST2NURGRKVWZ3aWNHaUo1WnJrMGhoaTRJN2ItRllnSWtwX0hNektrbkFWbjVzSTlKLURqbkJHb2lodGxEeQ?oc=5\" target=\"_blank\">INSPIRE rallies industry leaders to drive inbound tourism boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYVdMQ2ttdkNab25EQW45S08wRXpMR21pajZDaDFHZkZ1UnlTTjdMVDNOVXltU3o4bmpmSmtnOFZJSXkwZWU0SlEzLWJLTS16UjFjdUVPZHhuOVJfMkhlbk1RSGYwVmcyRjNxVVpvcnozMWo1VVdLOTRjM3FXaDhvUmg1VU13RzhBcXpKYWUzWnpWNEJjME11WnpUUWFXSGNtdGFJdjN1VW5NRVQwUDh0eXhaYnBzX3lpM1Ew0gHAAUFVX3lxTE0zUmMyclVyb0JXR1VDaVNCbjFqak1VTUhXSTU1RDJQTnZReHRzMlYwMnpPU29DX1YwQk84Rm1HaHplSjBiTU8xNVMyaXJvRmkxT3B3X1QwakV4ZW9PZ1FEYkJCR19OWmZKVFQtRWZkVmtLcjVrSUFQZ3JfNlQxUVppMndST2NURGRKVWZ3aWNHaUo1WnJrMGhoaTRJN2ItRllnSWtwX0hNektrbkFWbjVzSTlKLURqbkJHb2lodGxEeQ?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-07-09",
+          "title": "“AI Will Redefine T-Commerce”: KT Alpha Unveils Connected Commerce Strategy - 전자신문",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBrTVRXcnVLMHJmdUstTmszZENaMHFlT3FSQ1BSbE5BbUVUakRfeDBoTkVyN2lKQ3RqRVB4NC1fTF82N3FnTTUzN2NJeXU?oc=5\" target=\"_blank\">“AI Will Redefine T-Commerce”: KT Alpha Unveils Connected Commerce Strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전자신문</font>",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBrTVRXcnVLMHJmdUstTmszZENaMHFlT3FSQ1BSbE5BbUVUakRfeDBoTkVyN2lKQ3RqRVB4NC1fTF82N3FnTTUzN2NJeXU?oc=5",
+          "source": "전자신문",
+          "publishedAt": "2026-07-10",
           "views": "13.0K"
         }
       ]
