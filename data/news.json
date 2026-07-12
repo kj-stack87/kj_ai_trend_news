@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-11T03:38:50.936Z",
+  "lastUpdated": "2026-07-12T03:53:42.583Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -80,6 +80,14 @@
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
         {
+          "title": "57% of enterprises have watched AI agents be confidently wrong. The fix is an agentic context layer, but who has one? - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOWdSUXBUQjk2aUw1TG1LYkJnOGc2ZENLclN6UlNEbmhDd25OLW1HelF3YXFzTXJvbU42TndqY2tnRGNsTmNrVWlnbXYzQVZzRnNyQmhfN0VtemZ3NVpFcG45Q0w4SGs4MnhKWFJ1c2hkWU9UeFBfcE1admVuOWNJZ29sVDdBdWo4QUFNd0JKTjVqMGt0Zm5sb21YaDV4YklaUThqVFlvdElUcXJQRjRpRk9yOHdVbWloQ0xkZUhpOGF3em1MRjVCSUs1U3B6ZVNuRGhoMFdfTXlvQQ?oc=5\" target=\"_blank\">57% of enterprises have watched AI agents be confidently wrong. The fix is an agentic context layer, but who has one?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOWdSUXBUQjk2aUw1TG1LYkJnOGc2ZENLclN6UlNEbmhDd25OLW1HelF3YXFzTXJvbU42TndqY2tnRGNsTmNrVWlnbXYzQVZzRnNyQmhfN0VtemZ3NVpFcG45Q0w4SGs4MnhKWFJ1c2hkWU9UeFBfcE1admVuOWNJZ29sVDdBdWo4QUFNd0JKTjVqMGt0Zm5sb21YaDV4YklaUThqVFlvdElUcXJQRjRpRk9yOHdVbWloQ0xkZUhpOGF3em1MRjVCSUs1U3B6ZVNuRGhoMFdfTXlvQQ?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-07-10",
+          "views": "18.0K"
+        },
+        {
           "title": "Enterprise AI agent controls lag deployment - VentureBeat",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcU9hTjRveWR3QUlaQ25jMlozTXNGOUV5Ul9kVHk0aHpzbElCOXBtNzlhRS1YcXpMakNORFFjelpzUzNMd3Y2dzExTHBCMV9CZ1FBN0V0YWdPOUJpMlZaZkJDS2oxZWZMaS10ektXZWZlSkQ1VlhibmxPeHVxMzh1NkEzVUF5NGdyNzIyOXhzSU9ESGxJc0N0RGhlRGprZm9Ec3c2Mldjclo2dmlJT3ZONWhSWWl4NEpkYUVLbEFfSEx6Uzd3ek82Uk44U1hOdVNZTHVKTHFCUTB5YlNVNnZLQkdjckI?oc=5\" target=\"_blank\">Enterprise AI agent controls lag deployment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcU9hTjRveWR3QUlaQ25jMlozTXNGOUV5Ul9kVHk0aHpzbElCOXBtNzlhRS1YcXpMakNORFFjelpzUzNMd3Y2dzExTHBCMV9CZ1FBN0V0YWdPOUJpMlZaZkJDS2oxZWZMaS10ektXZWZlSkQ1VlhibmxPeHVxMzh1NkEzVUF5NGdyNzIyOXhzSU9ESGxJc0N0RGhlRGprZm9Ec3c2Mldjclo2dmlJT3ZONWhSWWl4NEpkYUVLbEFfSEx6Uzd3ek82Uk44U1hOdVNZTHVKTHFCUTB5YlNVNnZLQkdjckI?oc=5",
@@ -88,19 +96,11 @@
           "views": "18.0K"
         },
         {
-          "title": "69% of enterprises share AI agent credentials - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOdUJNVUQ4dDZ4R3ZpUC1KWnFGMGtjUjEtZGtMUFE1R3VJLXAwaWxJTHQ5X3JJeERlRHRaQmJlWnRVZ29pbVRvWGZDYy1SSnV0UzBRSUszQmFmZ29NTlVJZ1dpc3hjUWtiay1KV0RjZ0poV1VpN0ViRWtoN0RLTC1sYWs4VmRRc0NVb0U3VkFPSEVsQTF3ZjY0?oc=5\" target=\"_blank\">69% of enterprises share AI agent credentials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdUJNVUQ4dDZ4R3ZpUC1KWnFGMGtjUjEtZGtMUFE1R3VJLXAwaWxJTHQ5X3JJeERlRHRaQmJlWnRVZ29pbVRvWGZDYy1SSnV0UzBRSUszQmFmZ29NTlVJZ1dpc3hjUWtiay1KV0RjZ0poV1VpN0ViRWtoN0RLTC1sYWs4VmRRc0NVb0U3VkFPSEVsQTF3ZjY0?oc=5",
+          "title": "Enterprise AI is entering an evaluation gap: Agents are gaining autonomy faster than companies can verify them - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPU005NzZmY25YZ1FjalZaNVo5WjJ0SFpheTBhNDVUQWFCbEg5Q0ZDODdBZ29SY1NpZW9rUDJLNThtQ2lQWjZMbm9oOE5IMFZXUHgzVWl0WmZWOWphWE1lUGpBbDhGcjk2RzZTUWNScmM3VEY1eVp6ZnZUSkp1TWY2V1dyMVg1VkNPSkZZZW9Ba2VFbDJrZXNYWmYwZmx0QkxROW1JV2FLMHFNSDloQTZ1emdBQUtGQUJRZENIaTlTZE5tN3JUcW91YkVtd01lQ0lzZXloSHFXb2o3Sjlrb2pBdw?oc=5\" target=\"_blank\">Enterprise AI is entering an evaluation gap: Agents are gaining autonomy faster than companies can verify them</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPU005NzZmY25YZ1FjalZaNVo5WjJ0SFpheTBhNDVUQWFCbEg5Q0ZDODdBZ29SY1NpZW9rUDJLNThtQ2lQWjZMbm9oOE5IMFZXUHgzVWl0WmZWOWphWE1lUGpBbDhGcjk2RzZTUWNScmM3VEY1eVp6ZnZUSkp1TWY2V1dyMVg1VkNPSkZZZW9Ba2VFbDJrZXNYWmYwZmx0QkxROW1JV2FLMHFNSDloQTZ1emdBQUtGQUJRZENIaTlTZE5tN3JUcW91YkVtd01lQ0lzZXloSHFXb2o3Sjlrb2pBdw?oc=5",
           "source": "VentureBeat AI",
-          "publishedAt": "2026-07-09",
-          "views": "18.0K"
-        },
-        {
-          "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents - TechCrunch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVWs0Y0htWE03N0JMbjZ2czFUUHozVm5pV0Fya3hJMEtjM3ZwRTJxNjJHN29XaDg2bG5rWmFVcHRuSjc3SGhJOGRLOU51aXBzYTdjVGhKVkZuT0dlakotaWMzQnl4c0dwVk1fQ1hKUjFiYXRvdTdpeFpmRkg3OHV3MFNPajJTUHA4eldKMG5JM3dTQWM1emlROUxTOUZMdDlqLXRmMEdod2wzQTlvazBhaTZNZjB6enE2?oc=5\" target=\"_blank\">Prime Intellect raises $130M Series A to help enterprises build their own AI agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVWs0Y0htWE03N0JMbjZ2czFUUHozVm5pV0Fya3hJMEtjM3ZwRTJxNjJHN29XaDg2bG5rWmFVcHRuSjc3SGhJOGRLOU51aXBzYTdjVGhKVkZuT0dlakotaWMzQnl4c0dwVk1fQ1hKUjFiYXRvdTdpeFpmRkg3OHV3MFNPajJTUHA4eldKMG5JM3dTQWM1emlROUxTOUZMdDlqLXRmMEdod2wzQTlvazBhaTZNZjB6enE2?oc=5",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-07-08",
+          "publishedAt": "2026-07-10",
           "views": "18.0K"
         }
       ]
@@ -150,17 +150,17 @@
           "views": "18.0K"
         },
         {
-          "title": "AI chip startup SambaNova valued at $11 billion in $1 billion funding round - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQVFN4Q3MyZ0picXpkUUFKamxOY1RlNktsaVVQVkVCWXVPbGNobjBKeGlWaE9HTm4xVXM0RUFOUU1vbmt1M1A1eUxRdEJ2X2lzZUQ5NDZKVDMteG5tSkk3Q1Y4WlR4SUN0WmxVd1VwUUFZNzlzVVBiRTd6R19qOFoydDJkRUJTMXFZOTc4dHRxQk5wZC1MOF9ac3lMUjY1c1Rzd05mQi1KUUU1ZkF4aHgxN1Vrbm8zZ2RLYm5paQ?oc=5\" target=\"_blank\">AI chip startup SambaNova valued at $11 billion in $1 billion funding round</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVFN4Q3MyZ0picXpkUUFKamxOY1RlNktsaVVQVkVCWXVPbGNobjBKeGlWaE9HTm4xVXM0RUFOUU1vbmt1M1A1eUxRdEJ2X2lzZUQ5NDZKVDMteG5tSkk3Q1Y4WlR4SUN0WmxVd1VwUUFZNzlzVVBiRTd6R19qOFoydDJkRUJTMXFZOTc4dHRxQk5wZC1MOF9ac3lMUjY1c1Rzd05mQi1KUUU1ZkF4aHgxN1Vrbm8zZ2RLYm5paQ?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-07-08",
+          "title": "Woori Financial Group unveils $4.5 bil. investment road map to support startups - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbEFULWZralppNERrM3FpVzh0elNvUU1VcmdUR1FMV3NHZGFzTnhrZjFuZEV0ajRNZ2x0YWwtN25XV280Y0laNUoyM19yV2VxaGxPUzYxd2xqRklmRDg3SWlHOVpxNGdyQjNFenM5WjNWS0tZTXlpU2VCY25lQnZpZjljWkNiWjJ1STBWZGdXM21YX3NLcWdmVUF1NDlPUmhUX1JFR0EtTjhtaVhMejB2dzhYRWpHV0xIcnZtMXYxTXdQYmlHaTd3TG8wMFB4X2JKR3pYc0pB0gHbAUFVX3lxTFBlY0FzdXhuSUUzRUEyaERYTHFfYm05bVllRjZZRTZSLUIwMUp5MWRVSmdoSDRGU1Z5ZTdZYTQ3WmtfeGhXaG00SnlZdWJBcE02S1p0WFBYVXozSUVJZmxkUVFRRGxXZndiYS1udDdYV1l1X0lUTG5qUEMwZ0JsUnFOcXNSenFFck13ZERfTWVtdjBad0VfSzR2WjU4b3JBVTRKNnVqaTFBcEU3Z2NVZmtneXdFak1oWUctMDVraUUyWU9kTXhwRmN6aXNxazYyaUFlSUJyZXhvQUd0aw?oc=5\" target=\"_blank\">Woori Financial Group unveils $4.5 bil. investment road map to support startups</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbEFULWZralppNERrM3FpVzh0elNvUU1VcmdUR1FMV3NHZGFzTnhrZjFuZEV0ajRNZ2x0YWwtN25XV280Y0laNUoyM19yV2VxaGxPUzYxd2xqRklmRDg3SWlHOVpxNGdyQjNFenM5WjNWS0tZTXlpU2VCY25lQnZpZjljWkNiWjJ1STBWZGdXM21YX3NLcWdmVUF1NDlPUmhUX1JFR0EtTjhtaVhMejB2dzhYRWpHV0xIcnZtMXYxTXdQYmlHaTd3TG8wMFB4X2JKR3pYc0pB0gHbAUFVX3lxTFBlY0FzdXhuSUUzRUEyaERYTHFfYm05bVllRjZZRTZSLUIwMUp5MWRVSmdoSDRGU1Z5ZTdZYTQ3WmtfeGhXaG00SnlZdWJBcE02S1p0WFBYVXozSUVJZmxkUVFRRGxXZndiYS1udDdYV1l1X0lUTG5qUEMwZ0JsUnFOcXNSenFFck13ZERfTWVtdjBad0VfSzR2WjU4b3JBVTRKNnVqaTFBcEU3Z2NVZmtneXdFak1oWUctMDVraUUyWU9kTXhwRmN6aXNxazYyaUFlSUJyZXhvQUd0aw?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-07-07",
           "views": "18.0K"
         },
         {
           "title": "Woori Financial Group unveils $4.5 bil. investment roadmap to support startups - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaHRrdDBQM3ZtdGxlQlVvMFhsR0E2UElOSS02VlZsQ1hoY0lkUXNTOUpiVGlBU3N2WW0zMTllUzVvSXF2eVlDbHRCMnFNNENHLUs3UUIwV2pVOE1XTDFRNTQ5aVFXRy1iU0xlTjMwMGZ5Z1Uta3VhLUhaVmtiTENQR3NrVG1nLVVUZ3l1c2FWckxYeHpiRERNNVhLazczbXN0QS1JZm00WTYtMUlnR3luY0FQb01ldFhRUmVXSWdadzUxUDlSczhrN1hGWWVRVFE4NV93R0c2YnpoWUJBVEQzeVB1bFBRQ2lVemfSAdoBQVVfeXFMUE5selVnOGR6R3YzcEZ0Z0tXdzZwU1dLclhrek51SnlNRkk0X3NablRjM2cyRzBQaXphVzNTR0QxU3Q0M28wcnBQZVRJWGNaSHc3ZTFfT21nc293U2xIcHpKMkM2SFNJb2JZcEpRQWp2VXl3OU0zdkl1SklNUENYLXZCck9Tc2ltb1hmMXJMRUo4XzE3cGdud19ZOFNVU3dUVVAtbVpENG15czhsdnZZTHoxdG9JSFZPVzlOMUx6RFltOGVCNklRSkZnOG0zTHZLQ2tyZGNLVFkxZkE?oc=5\" target=\"_blank\">Woori Financial Group unveils $4.5 bil. investment roadmap to support startups</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaHRrdDBQM3ZtdGxlQlVvMFhsR0E2UElOSS02VlZsQ1hoY0lkUXNTOUpiVGlBU3N2WW0zMTllUzVvSXF2eVlDbHRCMnFNNENHLUs3UUIwV2pVOE1XTDFRNTQ5aVFXRy1iU0xlTjMwMGZ5Z1Uta3VhLUhaVmtiTENQR3NrVG1nLVVUZ3l1c2FWckxYeHpiRERNNVhLazczbXN0QS1JZm00WTYtMUlnR3luY0FQb01ldFhRUmVXSWdadzUxUDlSczhrN1hGWWVRVFE4NV93R0c2YnpoWUJBVEQzeVB1bFBRQ2lVemfSAdoBQVVfeXFMUE5selVnOGR6R3YzcEZ0Z0tXdzZwU1dLclhrek51SnlNRkk0X3NablRjM2cyRzBQaXphVzNTR0QxU3Q0M28wcnBQZVRJWGNaSHc3ZTFfT21nc293U2xIcHpKMkM2SFNJb2JZcEpRQWp2VXl3OU0zdkl1SklNUENYLXZCck9Tc2ltb1hmMXJMRUo4XzE3cGdud19ZOFNVU3dUVVAtbVpENG15czhsdnZZTHoxdG9JSFZPVzlOMUx6RFltOGVCNklRSkZnOG0zTHZLQ2tyZGNLVFkxZkE?oc=5",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTmx6VWc4ZHpHdjNwRnRnS1d3NnBTV0tyWGt6TnVKeU1GSTRfc1puVGMzZzJHMFBpemFXM1NHRDFTdDQzbzBycFBlVElYY1pIdzdlMV9PbWdzb3dTbEhwekoyQzZIU0lvYllwSlFBanZVeXc5TTN2SXVKSU1QQ1gtdkJyT1NzaW1vWGYxckxFSjhfMTdwZ253X1k4U1VTd1RVUC1tWkQ0bXlzOGx2dllMejF0b0lIVk9XOU4xTHpEWW04ZUI2SVFKRmc4bTNMdktDa3JkY0tUWTFmQdIB2gFBVV95cUxQTmx6VWc4ZHpHdjNwRnRnS1d3NnBTV0tyWGt6TnVKeU1GSTRfc1puVGMzZzJHMFBpemFXM1NHRDFTdDQzbzBycFBlVElYY1pIdzdlMV9PbWdzb3dTbEhwekoyQzZIU0lvYllwSlFBanZVeXc5TTN2SXVKSU1QQ1gtdkJyT1NzaW1vWGYxckxFSjhfMTdwZ253X1k4U1VTd1RVUC1tWkQ0bXlzOGx2dllMejF0b0lIVk9XOU4xTHpEWW04ZUI2SVFKRmc4bTNMdktDa3JkY0tUWTFmQQ?oc=5\" target=\"_blank\">Woori Financial Group unveils $4.5 bil. investment roadmap to support startups</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTmx6VWc4ZHpHdjNwRnRnS1d3NnBTV0tyWGt6TnVKeU1GSTRfc1puVGMzZzJHMFBpemFXM1NHRDFTdDQzbzBycFBlVElYY1pIdzdlMV9PbWdzb3dTbEhwekoyQzZIU0lvYllwSlFBanZVeXc5TTN2SXVKSU1QQ1gtdkJyT1NzaW1vWGYxckxFSjhfMTdwZ253X1k4U1VTd1RVUC1tWkQ0bXlzOGx2dllMejF0b0lIVk9XOU4xTHpEWW04ZUI2SVFKRmc4bTNMdktDa3JkY0tUWTFmQdIB2gFBVV95cUxQTmx6VWc4ZHpHdjNwRnRnS1d3NnBTV0tyWGt6TnVKeU1GSTRfc1puVGMzZzJHMFBpemFXM1NHRDFTdDQzbzBycFBlVElYY1pIdzdlMV9PbWdzb3dTbEhwekoyQzZIU0lvYllwSlFBanZVeXc5TTN2SXVKSU1QQ1gtdkJyT1NzaW1vWGYxckxFSjhfMTdwZ253X1k4U1VTd1RVUC1tWkQ0bXlzOGx2dllMejF0b0lIVk9XOU4xTHpEWW04ZUI2SVFKRmc4bTNMdktDa3JkY0tUWTFmQQ?oc=5",
           "source": "The Korea Times",
           "publishedAt": "2026-07-07",
           "views": "18.0K"
