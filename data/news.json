@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-12T03:53:42.583Z",
+  "lastUpdated": "2026-07-13T03:56:54.249Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,6 +49,14 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
+          "title": "Taiwanese chipmaker Nanya plans $6 billion in spending in 2027, riding AI boom - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcFBjVlJTY0NNOGZDNVNOc09qdDRZcEdhd1M0dVFBWHdWZFdkOXNWWmFwdG9LUHZmNFpQWXVHOFROMGJKZG1LcjBiYjdQRmdKSlg3bFFKX0hFUTdhS28yMVNjbURLWkZTOXRfVTBwQ0t5YmYtVUJQaHkyRGlRWUxwM0xtVXpoTk1BLWZDWlNRZlZid0doa2ZVWmgtcERDdTNZX2RGMFR2U0RiX0VIdHlEbkxXenllM0pNdWtYWmRSdVlaNEE?oc=5\" target=\"_blank\">Taiwanese chipmaker Nanya plans $6 billion in spending in 2027, riding AI boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcFBjVlJTY0NNOGZDNVNOc09qdDRZcEdhd1M0dVFBWHdWZFdkOXNWWmFwdG9LUHZmNFpQWXVHOFROMGJKZG1LcjBiYjdQRmdKSlg3bFFKX0hFUTdhS28yMVNjbURLWkZTOXRfVTBwQ0t5YmYtVUJQaHkyRGlRWUxwM0xtVXpoTk1BLWZDWlNRZlZid0doa2ZVWmgtcERDdTNZX2RGMFR2U0RiX0VIdHlEbkxXenllM0pNdWtYWmRSdVlaNEE?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-07-10",
+          "views": "18.0K"
+        },
+        {
           "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter - TechCrunch",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQNHpKYVNrMUdfcEtpTkM4Q2VVczFna1VodlE5UU02MTI2aGtGVVhrbzM5amNnU2dMREJrcHEySUI5Z2NOMHUtOXZZeVAzZTRDcHNtQXN3cXJPNGZYdXpLcWtHSl9kamwtVEdDM2lpcEhoTWlnYUpJVlQ5Rl9UMERnZlU0MHZDa2N2bXpZVnRReGgzRFh2c2dZbDhORGZfakhUemszYkYzYUp5ZUEwSVJSWFFpdXZtYTdRTmdKMQ?oc=5\" target=\"_blank\">OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNHpKYVNrMUdfcEtpTkM4Q2VVczFna1VodlE5UU02MTI2aGtGVVhrbzM5amNnU2dMREJrcHEySUI5Z2NOMHUtOXZZeVAzZTRDcHNtQXN3cXJPNGZYdXpLcWtHSl9kamwtVEdDM2lpcEhoTWlnYUpJVlQ5Rl9UMERnZlU0MHZDa2N2bXpZVnRReGgzRFh2c2dZbDhORGZfakhUemszYkYzYUp5ZUEwSVJSWFFpdXZtYTdRTmdKMQ?oc=5",
@@ -63,14 +71,6 @@
           "source": "TechCrunch AI",
           "publishedAt": "2026-07-09",
           "views": "18.0K"
-        },
-        {
-          "title": "OpenAI set to launch most capable GPT model after delayed rollout - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeGRZM3dfemdtVmJpUmlMMzB2VW5yNXJUZ0tEM1BTeVlDOWt4cGRWbFk0d0VZY2h0a082WFB0NGRoZmFHZV8zZlVkTVpnakdIUFdTSkQxMlg2bktUWGtFa1FwQkdGVFZfZnQ2QzJXTnVxQmdqQXpxUkJKTXJPMXVFbE1oZklob2NMZUVSa05nMXlwX096aElmMlh2UWUweXNNeGFqUDJORE4?oc=5\" target=\"_blank\">OpenAI set to launch most capable GPT model after delayed rollout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeGRZM3dfemdtVmJpUmlMMzB2VW5yNXJUZ0tEM1BTeVlDOWt4cGRWbFk0d0VZY2h0a082WFB0NGRoZmFHZV8zZlVkTVpnakdIUFdTSkQxMlg2bktUWGtFa1FwQkdGVFZfZnQ2QzJXTnVxQmdqQXpxUkJKTXJPMXVFbE1oZklob2NMZUVSa05nMXlwX096aElmMlh2UWUweXNNeGFqUDJORE4?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-07-08",
-          "views": "18.0K"
         }
       ]
     },
@@ -80,17 +80,17 @@
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
         {
-          "title": "57% of enterprises have watched AI agents be confidently wrong. The fix is an agentic context layer, but who has one? - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOWdSUXBUQjk2aUw1TG1LYkJnOGc2ZENLclN6UlNEbmhDd25OLW1HelF3YXFzTXJvbU42TndqY2tnRGNsTmNrVWlnbXYzQVZzRnNyQmhfN0VtemZ3NVpFcG45Q0w4SGs4MnhKWFJ1c2hkWU9UeFBfcE1admVuOWNJZ29sVDdBdWo4QUFNd0JKTjVqMGt0Zm5sb21YaDV4YklaUThqVFlvdElUcXJQRjRpRk9yOHdVbWloQ0xkZUhpOGF3em1MRjVCSUs1U3B6ZVNuRGhoMFdfTXlvQQ?oc=5\" target=\"_blank\">57% of enterprises have watched AI agents be confidently wrong. The fix is an agentic context layer, but who has one?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOWdSUXBUQjk2aUw1TG1LYkJnOGc2ZENLclN6UlNEbmhDd25OLW1HelF3YXFzTXJvbU42TndqY2tnRGNsTmNrVWlnbXYzQVZzRnNyQmhfN0VtemZ3NVpFcG45Q0w4SGs4MnhKWFJ1c2hkWU9UeFBfcE1admVuOWNJZ29sVDdBdWo4QUFNd0JKTjVqMGt0Zm5sb21YaDV4YklaUThqVFlvdElUcXJQRjRpRk9yOHdVbWloQ0xkZUhpOGF3em1MRjVCSUs1U3B6ZVNuRGhoMFdfTXlvQQ?oc=5",
+          "title": "Enterprise AI agent controls lag deployment - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcU9hTjRveWR3QUlaQ25jMlozTXNGOUV5Ul9kVHk0aHpzbElCOXBtNzlhRS1YcXpMakNORFFjelpzUzNMd3Y2dzExTHBCMV9CZ1FBN0V0YWdPOUJpMlZaZkJDS2oxZWZMaS10ektXZWZlSkQ1VlhibmxPeHVxMzh1NkEzVUF5NGdyNzIyOXhzSU9ESGxJc0N0RGhlRGprZm9Ec3c2Mldjclo2dmlJT3ZONWhSWWl4NEpkYUVLbEFfSEx6Uzd3ek82Uk44U1hOdVNZTHVKTHFCUTB5YlNVNnZLQkdjckI?oc=5\" target=\"_blank\">Enterprise AI agent controls lag deployment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcU9hTjRveWR3QUlaQ25jMlozTXNGOUV5Ul9kVHk0aHpzbElCOXBtNzlhRS1YcXpMakNORFFjelpzUzNMd3Y2dzExTHBCMV9CZ1FBN0V0YWdPOUJpMlZaZkJDS2oxZWZMaS10ektXZWZlSkQ1VlhibmxPeHVxMzh1NkEzVUF5NGdyNzIyOXhzSU9ESGxJc0N0RGhlRGprZm9Ec3c2Mldjclo2dmlJT3ZONWhSWWl4NEpkYUVLbEFfSEx6Uzd3ek82Uk44U1hOdVNZTHVKTHFCUTB5YlNVNnZLQkdjckI?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-07-10",
           "views": "18.0K"
         },
         {
-          "title": "Enterprise AI agent controls lag deployment - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcU9hTjRveWR3QUlaQ25jMlozTXNGOUV5Ul9kVHk0aHpzbElCOXBtNzlhRS1YcXpMakNORFFjelpzUzNMd3Y2dzExTHBCMV9CZ1FBN0V0YWdPOUJpMlZaZkJDS2oxZWZMaS10ektXZWZlSkQ1VlhibmxPeHVxMzh1NkEzVUF5NGdyNzIyOXhzSU9ESGxJc0N0RGhlRGprZm9Ec3c2Mldjclo2dmlJT3ZONWhSWWl4NEpkYUVLbEFfSEx6Uzd3ek82Uk44U1hOdVNZTHVKTHFCUTB5YlNVNnZLQkdjckI?oc=5\" target=\"_blank\">Enterprise AI agent controls lag deployment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcU9hTjRveWR3QUlaQ25jMlozTXNGOUV5Ul9kVHk0aHpzbElCOXBtNzlhRS1YcXpMakNORFFjelpzUzNMd3Y2dzExTHBCMV9CZ1FBN0V0YWdPOUJpMlZaZkJDS2oxZWZMaS10ektXZWZlSkQ1VlhibmxPeHVxMzh1NkEzVUF5NGdyNzIyOXhzSU9ESGxJc0N0RGhlRGprZm9Ec3c2Mldjclo2dmlJT3ZONWhSWWl4NEpkYUVLbEFfSEx6Uzd3ek82Uk44U1hOdVNZTHVKTHFCUTB5YlNVNnZLQkdjckI?oc=5",
+          "title": "57% of enterprises have watched AI agents be confidently wrong. The fix is an agentic context layer, but who has one? - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOWdSUXBUQjk2aUw1TG1LYkJnOGc2ZENLclN6UlNEbmhDd25OLW1HelF3YXFzTXJvbU42TndqY2tnRGNsTmNrVWlnbXYzQVZzRnNyQmhfN0VtemZ3NVpFcG45Q0w4SGs4MnhKWFJ1c2hkWU9UeFBfcE1admVuOWNJZ29sVDdBdWo4QUFNd0JKTjVqMGt0Zm5sb21YaDV4YklaUThqVFlvdElUcXJQRjRpRk9yOHdVbWloQ0xkZUhpOGF3em1MRjVCSUs1U3B6ZVNuRGhoMFdfTXlvQQ?oc=5\" target=\"_blank\">57% of enterprises have watched AI agents be confidently wrong. The fix is an agentic context layer, but who has one?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOWdSUXBUQjk2aUw1TG1LYkJnOGc2ZENLclN6UlNEbmhDd25OLW1HelF3YXFzTXJvbU42TndqY2tnRGNsTmNrVWlnbXYzQVZzRnNyQmhfN0VtemZ3NVpFcG45Q0w4SGs4MnhKWFJ1c2hkWU9UeFBfcE1admVuOWNJZ29sVDdBdWo4QUFNd0JKTjVqMGt0Zm5sb21YaDV4YklaUThqVFlvdElUcXJQRjRpRk9yOHdVbWloQ0xkZUhpOGF3em1MRjVCSUs1U3B6ZVNuRGhoMFdfTXlvQQ?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-07-10",
           "views": "18.0K"
@@ -119,19 +119,19 @@
           "views": "18.0K"
         },
         {
-          "title": "Breakingviews - Le Pen can run, but can’t hide her policy flaws - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNRGZSQzFoMDFZck41RHI4dnl6Sl84N29XaDNqU3FKdk9YT01hTDBOcEtLYnctVXk3bkZDclhPLUxqaTNsZG1GZUI2M2FRRWk1WjVKY1Zuajh6bEtlQS1tRXNmbkxXQ2hNcGk2VFhSejRTUG80c2piUDVTRU1lWVBISGNnYkJDbVdiNFJISUVKaHhLaDE5Y2xWdUFJbVo4czFlMEFmNQ?oc=5\" target=\"_blank\">Breakingviews - Le Pen can run, but can’t hide her policy flaws</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRGZSQzFoMDFZck41RHI4dnl6Sl84N29XaDNqU3FKdk9YT01hTDBOcEtLYnctVXk3bkZDclhPLUxqaTNsZG1GZUI2M2FRRWk1WjVKY1Zuajh6bEtlQS1tRXNmbkxXQ2hNcGk2VFhSejRTUG80c2piUDVTRU1lWVBISGNnYkJDbVdiNFJISUVKaHhLaDE5Y2xWdUFJbVo4czFlMEFmNQ?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-07-08",
-          "views": "18.0K"
-        },
-        {
           "title": "Special counsel seeks arrest warrant for ex-presidential security aide over alleged role in martial law - The Korea Times",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWFpndDJ3bUJYSG15eHR3Yk0xNjA3SXJXRlczQ0ZXVzdELV8weVlyV0hEc3kzRzUwNHh2bEduUldocnpYLTNnUlRrUXNwQ3Vwa2FHVk16RWJQSWVud1ozY3I5U2xmTEFJQlpkQlItYzFTN2FHQzRFTzlpVDUwLVprV3RISks2WkFKSFFMdF9YS2lyN3hleEY2YlpGMThxa0tiOThTOU1ieXF6MkU4ak1LSkZGQkdld3Zsc1ZMUU1NZXhHTVlWajU0em1NQjVpTnlwZE4zeHZKbHdqQVJMMmFueW5EbkJ6VzhpMEszeXNzRW9qMnN30gH6AUFVX3lxTE9yaDUwb3ZubklGTWdCN3RRWWxwUFpmSWZaYUZZeWFVbE5NQ1h0eVhMdjdnUGdnMVFWRkhhTm5lZ3ZJSFBQNjFyb3VraFQzb0lGTTlBdkNrd3VjdmFmaUJ4Y1VWQW5uellrR3dYdmZaYTh5WmxJbGFUR1B6MDEwVWlsVngtNThRY3dXWXZ5SnlKS2VxUHRxMGNQYm9MZzRiRzFGYk5aQ0pZMmZfaE5mOFhJUlR3ZU82dUsyUS1PVTkyb0FVR3BhT09pcnlUYUlpaWppZEhraW83U3J4TkhwV3NSWTJVcWRkTVNuNnpKNG5LblRUejdBWS1SdGc?oc=5\" target=\"_blank\">Special counsel seeks arrest warrant for ex-presidential security aide over alleged role in martial law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
           "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWFpndDJ3bUJYSG15eHR3Yk0xNjA3SXJXRlczQ0ZXVzdELV8weVlyV0hEc3kzRzUwNHh2bEduUldocnpYLTNnUlRrUXNwQ3Vwa2FHVk16RWJQSWVud1ozY3I5U2xmTEFJQlpkQlItYzFTN2FHQzRFTzlpVDUwLVprV3RISks2WkFKSFFMdF9YS2lyN3hleEY2YlpGMThxa0tiOThTOU1ieXF6MkU4ak1LSkZGQkdld3Zsc1ZMUU1NZXhHTVlWajU0em1NQjVpTnlwZE4zeHZKbHdqQVJMMmFueW5EbkJ6VzhpMEszeXNzRW9qMnN30gH6AUFVX3lxTE9yaDUwb3ZubklGTWdCN3RRWWxwUFpmSWZaYUZZeWFVbE5NQ1h0eVhMdjdnUGdnMVFWRkhhTm5lZ3ZJSFBQNjFyb3VraFQzb0lGTTlBdkNrd3VjdmFmaUJ4Y1VWQW5uellrR3dYdmZaYTh5WmxJbGFUR1B6MDEwVWlsVngtNThRY3dXWXZ5SnlKS2VxUHRxMGNQYm9MZzRiRzFGYk5aQ0pZMmZfaE5mOFhJUlR3ZU82dUsyUS1PVTkyb0FVR3BhT09pcnlUYUlpaWppZEhraW83U3J4TkhwV3NSWTJVcWRkTVNuNnpKNG5LblRUejdBWS1SdGc?oc=5",
           "source": "The Korea Times",
           "publishedAt": "2026-07-07",
+          "views": "18.0K"
+        },
+        {
+          "title": "PPP holds ethics committee meeting to review disciplinary measures against lawmakers - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeTdkQnk4WDFNZXUtQjN4MDNrejgxU0hPcTQ1Q0pwMVk3MUIzcHpZYmIwQ2tRbnkwTUhEYzZkTmdOTnRpNkI3c2tOdno1ak5sc192VkpWSGlXMnhhMnhWbmJSU1hGWHBmZDBFVTFtTDJWYmFpa2Z3a29LSEV3Z2FZdW1JRkNiWnJELXVXaVJ5cXI4Q0lEN3BRVkpWS3dYbWxxenBlZ3A3TlBoY3JLWDhmcWxRcTZvT2w5Q3I2Q3ZJUE85VmllRThNTTZUYktwUkl5NmZ3ME43ZjdSd9IB3wFBVV95cUxOeGpvaV9MenVhN1NfNFhiS1NlaW9fR2RTbkhSMTdlRDc0aWJlRE1OOTNmeFRxMkFfLVNucTgtblo0N2VjZnZfM2k3SktWMEFIUkM3RTJJWDU2UmItUmV3ajR2WDZRNnlaTlB1T2E1QmlZNGlscEFmS21RNmY1ODZIcnpaczQ0d0pYUWtiRkdXZjdsOXVvcVhYU0N4b3dwYXNOSmZkcjNLNTFDTFZYNzQ1S2VsZWZmbHk4akNQWVdiRmJGTURwTTBNeFFOZ1RJNmlHRHRlcERGU1Atd0g1OHAw?oc=5\" target=\"_blank\">PPP holds ethics committee meeting to review disciplinary measures against lawmakers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeTdkQnk4WDFNZXUtQjN4MDNrejgxU0hPcTQ1Q0pwMVk3MUIzcHpZYmIwQ2tRbnkwTUhEYzZkTmdOTnRpNkI3c2tOdno1ak5sc192VkpWSGlXMnhhMnhWbmJSU1hGWHBmZDBFVTFtTDJWYmFpa2Z3a29LSEV3Z2FZdW1JRkNiWnJELXVXaVJ5cXI4Q0lEN3BRVkpWS3dYbWxxenBlZ3A3TlBoY3JLWDhmcWxRcTZvT2w5Q3I2Q3ZJUE85VmllRThNTTZUYktwUkl5NmZ3ME43ZjdSd9IB3wFBVV95cUxOeGpvaV9MenVhN1NfNFhiS1NlaW9fR2RTbkhSMTdlRDc0aWJlRE1OOTNmeFRxMkFfLVNucTgtblo0N2VjZnZfM2k3SktWMEFIUkM3RTJJWDU2UmItUmV3ajR2WDZRNnlaTlB1T2E1QmlZNGlscEFmS21RNmY1ODZIcnpaczQ0d0pYUWtiRkdXZjdsOXVvcVhYU0N4b3dwYXNOSmZkcjNLNTFDTFZYNzQ1S2VsZWZmbHk4akNQWVdiRmJGTURwTTBNeFFOZ1RJNmlHRHRlcERGU1Atd0g1OHAw?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-07-06",
           "views": "18.0K"
         }
       ]
@@ -181,19 +181,19 @@
           "views": "18.0K"
         },
         {
-          "title": "OpenAI’s Head of Safety Is Leaving the Company - WIRED",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1pQ3hmbzl1bzFjNmJ3dWs1WWNmNGYyTXpUVVQ3SEIxOXRXY0xDUjF0VUN3TXEyT1JpSVFfeDJRWkFKT1lNTjJPTWNjRU1FQlAwTEx5SHBJelhZRzI4Q0FXUi1MOVMtbThrTWc?oc=5\" target=\"_blank\">OpenAI’s Head of Safety Is Leaving the Company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pQ3hmbzl1bzFjNmJ3dWs1WWNmNGYyTXpUVVQ3SEIxOXRXY0xDUjF0VUN3TXEyT1JpSVFfeDJRWkFKT1lNTjJPTWNjRU1FQlAwTEx5SHBJelhZRzI4Q0FXUi1MOVMtbThrTWc?oc=5",
+          "title": "Uber’s Autonomous Vehicle Strategy: Slow Their Adoption - WIRED",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNVlFsUVczamg4aTVpQzVjUmQwUkNmcUZRSTVqbzJTblpYbk5JdXBLaFJRUXpHN2xwcVNhaFJPT25UeTVhSE5nT0FZTUhaZnBEaXZxYl84NlJic0NDWm80bjFWMEt2MnZha3BwYWlhRGcxUExBaWlBNWllUkJsak42VnVDR293a1NiM3c?oc=5\" target=\"_blank\">Uber’s Autonomous Vehicle Strategy: Slow Their Adoption</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVlFsUVczamg4aTVpQzVjUmQwUkNmcUZRSTVqbzJTblpYbk5JdXBLaFJRUXpHN2xwcVNhaFJPT25UeTVhSE5nT0FZTUhaZnBEaXZxYl84NlJic0NDWm80bjFWMEt2MnZha3BwYWlhRGcxUExBaWlBNWllUkJsak42VnVDR293a1NiM3c?oc=5",
           "source": "WIRED AI",
-          "publishedAt": "2026-07-11",
+          "publishedAt": "2026-07-12",
           "views": "13.0K"
         },
         {
-          "title": "“AI Will Redefine T-Commerce”: KT Alpha Unveils Connected Commerce Strategy - 전자신문",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBrTVRXcnVLMHJmdUstTmszZENaMHFlT3FSQ1BSbE5BbUVUakRfeDBoTkVyN2lKQ3RqRVB4NC1fTF82N3FnTTUzN2NJeXU?oc=5\" target=\"_blank\">“AI Will Redefine T-Commerce”: KT Alpha Unveils Connected Commerce Strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">전자신문</font>",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBrTVRXcnVLMHJmdUstTmszZENaMHFlT3FSQ1BSbE5BbUVUakRfeDBoTkVyN2lKQ3RqRVB4NC1fTF82N3FnTTUzN2NJeXU?oc=5",
-          "source": "전자신문",
-          "publishedAt": "2026-07-10",
+          "title": "India's Tata Consultancy Services plans up to 8,900 AI deployment engineers, seeks AI acquisitions - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPZHVWMTZfdlZoNHBPbVhNSTktYk5yTzBaN3BOTWc2NjNhczhUWVJVTktLZld3WC0zeGEyREFDZk1kWkFjNzBFaXV0M3JSMC1mNFlPQU9DYy1palFFbTRoUFYxR1JZVDNRVmhCQzREYnMxOGd1cEFhNE9aeTFOVzhDTjF6UVY3b0RzUm5ReWIyQkQ2ZjF2OC1kNG40clpPNzhkTTJZOWJUckc0SUlaWVhaa1VFOVpkVXA3am9aY1I2bWlqODM3N2c?oc=5\" target=\"_blank\">India's Tata Consultancy Services plans up to 8,900 AI deployment engineers, seeks AI acquisitions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZHVWMTZfdlZoNHBPbVhNSTktYk5yTzBaN3BOTWc2NjNhczhUWVJVTktLZld3WC0zeGEyREFDZk1kWkFjNzBFaXV0M3JSMC1mNFlPQU9DYy1palFFbTRoUFYxR1JZVDNRVmhCQzREYnMxOGd1cEFhNE9aeTFOVzhDTjF6UVY3b0RzUm5ReWIyQkQ2ZjF2OC1kNG40clpPNzhkTTJZOWJUckc0SUlaWVhaa1VFOVpkVXA3am9aY1I2bWlqODM3N2c?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-07-12",
           "views": "13.0K"
         }
       ]
