@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14T03:30:31.245Z",
+  "lastUpdated": "2026-07-15T03:30:18.832Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,11 +49,11 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
-          "title": "Taiwanese chipmaker Nanya plans $6 billion in spending in 2027, riding AI boom - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcFBjVlJTY0NNOGZDNVNOc09qdDRZcEdhd1M0dVFBWHdWZFdkOXNWWmFwdG9LUHZmNFpQWXVHOFROMGJKZG1LcjBiYjdQRmdKSlg3bFFKX0hFUTdhS28yMVNjbURLWkZTOXRfVTBwQ0t5YmYtVUJQaHkyRGlRWUxwM0xtVXpoTk1BLWZDWlNRZlZid0doa2ZVWmgtcERDdTNZX2RGMFR2U0RiX0VIdHlEbkxXenllM0pNdWtYWmRSdVlaNEE?oc=5\" target=\"_blank\">Taiwanese chipmaker Nanya plans $6 billion in spending in 2027, riding AI boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcFBjVlJTY0NNOGZDNVNOc09qdDRZcEdhd1M0dVFBWHdWZFdkOXNWWmFwdG9LUHZmNFpQWXVHOFROMGJKZG1LcjBiYjdQRmdKSlg3bFFKX0hFUTdhS28yMVNjbURLWkZTOXRfVTBwQ0t5YmYtVUJQaHkyRGlRWUxwM0xtVXpoTk1BLWZDWlNRZlZid0doa2ZVWmgtcERDdTNZX2RGMFR2U0RiX0VIdHlEbkxXenllM0pNdWtYWmRSdVlaNEE?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-07-10",
+          "title": "The Download: Claude’s inner workings, and the future of world models - MIT Technology Review",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOM3NTR2pydklxaktFQlhZMWFGUUVuZktxQWJVYXptUmY1MVpKcGMtd0gySEpYN2Z5TXRnbmRJRThNeTQ3bzVUaW84YUpMNjlteXZ3TFZ0VG5uWU9INUFQYjFHREI5cEZqTkRRMUpuOW9qeWhfRXZQLWMzZzRIa3IwVjFzcFRNa1pPSy11Ymh2aGJIUDU0MUV3R01mbGpiTEpsQVJXbnhjUlIyY181aU9GN20xSdIBuAFBVV95cUxPSWJhS0NhQnJJeUpqRG9fYzJnNDNmNTQwUjhHZ1dORHc3MnU3ZlRQanhMQWVJN2d2d0JLMkhxc081aGd4T1UzMEJGWG5jeVR4Y3lqb1lDM0d3OFc0VkVmallnMUdzTWFjTmhqM2p4YzVsTjVJZWV0d1lZZFhiemNkWlhwSEMwSEJhamJHcmRsR2dVVXlKSHZlVG8tTDlxSXczTlZETTROdXRCSHdTODBnbnZEamdrVWZn?oc=5\" target=\"_blank\">The Download: Claude’s inner workings, and the future of world models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MIT Technology Review</font>",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM3NTR2pydklxaktFQlhZMWFGUUVuZktxQWJVYXptUmY1MVpKcGMtd0gySEpYN2Z5TXRnbmRJRThNeTQ3bzVUaW84YUpMNjlteXZ3TFZ0VG5uWU9INUFQYjFHREI5cEZqTkRRMUpuOW9qeWhfRXZQLWMzZzRIa3IwVjFzcFRNa1pPSy11Ymh2aGJIUDU0MUV3R01mbGpiTEpsQVJXbnhjUlIyY181aU9GN20xSdIBuAFBVV95cUxPSWJhS0NhQnJJeUpqRG9fYzJnNDNmNTQwUjhHZ1dORHc3MnU3ZlRQanhMQWVJN2d2d0JLMkhxc081aGd4T1UzMEJGWG5jeVR4Y3lqb1lDM0d3OFc0VkVmallnMUdzTWFjTmhqM2p4YzVsTjVJZWV0d1lZZFhiemNkWlhwSEMwSEJhamJHcmRsR2dVVXlKSHZlVG8tTDlxSXczTlZETTROdXRCSHdTODBnbnZEamdrVWZn?oc=5",
+          "source": "MIT Technology Review (AI)",
+          "publishedAt": "2026-07-14",
           "views": "18.0K"
         },
         {
@@ -111,6 +111,14 @@
       "description": "규제, 책임, 신뢰, 저작권 같은 문제를 보는 관점",
       "items": [
         {
+          "title": "Lee to begin receiving briefings from gov't ministries on progress of policy tasks - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZDRSOWFIelRTTWF5Mk51QjJCZzV3LTQ3SUduNFJxZFhrVktwS2FTeDZVSDFNR2huckNmWkhxNlF1QzZ1RjhRWTlvQmlPUzB0VS00RGZwaDlLU3EybDF3S1lfNFluemVBZG1kdXQ3VTUxWU1BaUZiQzRGeWhGZ1VXNlZEMFlaVW1ablhZSzdIQjNpcUtnaHloR0NIM3kwZkVETHFxdFdhbnpGaTA4UjRRYnZPaTRLWmY2YmRCQlFPT3doWGRDajBtRTMwdldpOU9pemJlLTJSaXlaWk3SAdsBQVVfeXFMTWQ0UjlhSHpUU01heTJOdUIyQmc1dy00N0lHbjRScWRYa1ZLcEthU3g2VUgxTUdobnJDZlpIcTZRdUM2dUY4UVk5b0JpT1MwdFUtNERmcGg5S1NxMmwxd0tZXzRZbnplQWRtZHV0N1U1MVlNQWlGYkM0RnloRmdVVzZWRDBZWlVtWm5YWUs3SEIzaXFLZ2h5aEdDSDN5MGZFRExxcXRXYW56RmkwOFI0UWJ2T2k0S1pmNmJkQkJRT093aFhkQ2owbUUzMHZXaTlPaXpiZS0yUml5WlpN?oc=5\" target=\"_blank\">Lee to begin receiving briefings from gov't ministries on progress of policy tasks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZDRSOWFIelRTTWF5Mk51QjJCZzV3LTQ3SUduNFJxZFhrVktwS2FTeDZVSDFNR2huckNmWkhxNlF1QzZ1RjhRWTlvQmlPUzB0VS00RGZwaDlLU3EybDF3S1lfNFluemVBZG1kdXQ3VTUxWU1BaUZiQzRGeWhGZ1VXNlZEMFlaVW1ablhZSzdIQjNpcUtnaHloR0NIM3kwZkVETHFxdFdhbnpGaTA4UjRRYnZPaTRLWmY2YmRCQlFPT3doWGRDajBtRTMwdldpOU9pemJlLTJSaXlaWk3SAdsBQVVfeXFMTWQ0UjlhSHpUU01heTJOdUIyQmc1dy00N0lHbjRScWRYa1ZLcEthU3g2VUgxTUdobnJDZlpIcTZRdUM2dUY4UVk5b0JpT1MwdFUtNERmcGg5S1NxMmwxd0tZXzRZbnplQWRtZHV0N1U1MVlNQWlGYkM0RnloRmdVVzZWRDBZWlVtWm5YWUs3SEIzaXFLZ2h5aEdDSDN5MGZFRExxcXRXYW56RmkwOFI0UWJ2T2k0S1pmNmJkQkJRT093aFhkQ2owbUUzMHZXaTlPaXpiZS0yUml5WlpN?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-07-15",
+          "views": "18.0K"
+        },
+        {
           "title": "Hormuz traffic slows to two-month low as renewed US, Iran strikes raise safety risk - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQVVJyVWNDbGpUSGtYdm1NUzhqZmpSVFp2SnEtS0N4VzBJZnJTeDZ5X21NN0I4SGJ6V2lYZDBLM3FvSkNTbFRNTkkxWlhtNjRqakpmRGotN3lub0RMZkxmOUlWSUU4WEdBVUZrU09lNzl2d0xMT09aVEw3aU5KNkJaZmpEYlllTTZfMl9ULXg4cDBHZkd4MVJ4OEo0SzNwYkxRUjIta0tONkVJb2puQnhNN0g1WTQwcjZaX0ZYZG85dnZWT0pyUHZFbUY2TQ?oc=5\" target=\"_blank\">Hormuz traffic slows to two-month low as renewed US, Iran strikes raise safety risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVVJyVWNDbGpUSGtYdm1NUzhqZmpSVFp2SnEtS0N4VzBJZnJTeDZ5X21NN0I4SGJ6V2lYZDBLM3FvSkNTbFRNTkkxWlhtNjRqakpmRGotN3lub0RMZkxmOUlWSUU4WEdBVUZrU09lNzl2d0xMT09aVEw3aU5KNkJaZmpEYlllTTZfMl9ULXg4cDBHZkd4MVJ4OEo0SzNwYkxRUjIta0tONkVJb2puQnhNN0g1WTQwcjZaX0ZYZG85dnZWT0pyUHZFbUY2TQ?oc=5",
@@ -124,14 +132,6 @@
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pQ3hmbzl1bzFjNmJ3dWs1WWNmNGYyTXpUVVQ3SEIxOXRXY0xDUjF0VUN3TXEyT1JpSVFfeDJRWkFKT1lNTjJPTWNjRU1FQlAwTEx5SHBJelhZRzI4Q0FXUi1MOVMtbThrTWc?oc=5",
           "source": "WIRED AI",
           "publishedAt": "2026-07-11",
-          "views": "18.0K"
-        },
-        {
-          "title": "Special counsel seeks arrest warrant for ex-presidential security aide over alleged role in martial law - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWFpndDJ3bUJYSG15eHR3Yk0xNjA3SXJXRlczQ0ZXVzdELV8weVlyV0hEc3kzRzUwNHh2bEduUldocnpYLTNnUlRrUXNwQ3Vwa2FHVk16RWJQSWVud1ozY3I5U2xmTEFJQlpkQlItYzFTN2FHQzRFTzlpVDUwLVprV3RISks2WkFKSFFMdF9YS2lyN3hleEY2YlpGMThxa0tiOThTOU1ieXF6MkU4ak1LSkZGQkdld3Zsc1ZMUU1NZXhHTVlWajU0em1NQjVpTnlwZE4zeHZKbHdqQVJMMmFueW5EbkJ6VzhpMEszeXNzRW9qMnN30gH6AUFVX3lxTE9yaDUwb3ZubklGTWdCN3RRWWxwUFpmSWZaYUZZeWFVbE5NQ1h0eVhMdjdnUGdnMVFWRkhhTm5lZ3ZJSFBQNjFyb3VraFQzb0lGTTlBdkNrd3VjdmFmaUJ4Y1VWQW5uellrR3dYdmZaYTh5WmxJbGFUR1B6MDEwVWlsVngtNThRY3dXWXZ5SnlKS2VxUHRxMGNQYm9MZzRiRzFGYk5aQ0pZMmZfaE5mOFhJUlR3ZU82dUsyUS1PVTkyb0FVR3BhT09pcnlUYUlpaWppZEhraW83U3J4TkhwV3NSWTJVcWRkTVNuNnpKNG5LblRUejdBWS1SdGc?oc=5\" target=\"_blank\">Special counsel seeks arrest warrant for ex-presidential security aide over alleged role in martial law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWFpndDJ3bUJYSG15eHR3Yk0xNjA3SXJXRlczQ0ZXVzdELV8weVlyV0hEc3kzRzUwNHh2bEduUldocnpYLTNnUlRrUXNwQ3Vwa2FHVk16RWJQSWVud1ozY3I5U2xmTEFJQlpkQlItYzFTN2FHQzRFTzlpVDUwLVprV3RISks2WkFKSFFMdF9YS2lyN3hleEY2YlpGMThxa0tiOThTOU1ieXF6MkU4ak1LSkZGQkdld3Zsc1ZMUU1NZXhHTVlWajU0em1NQjVpTnlwZE4zeHZKbHdqQVJMMmFueW5EbkJ6VzhpMEszeXNzRW9qMnN30gH6AUFVX3lxTE9yaDUwb3ZubklGTWdCN3RRWWxwUFpmSWZaYUZZeWFVbE5NQ1h0eVhMdjdnUGdnMVFWRkhhTm5lZ3ZJSFBQNjFyb3VraFQzb0lGTTlBdkNrd3VjdmFmaUJ4Y1VWQW5uellrR3dYdmZaYTh5WmxJbGFUR1B6MDEwVWlsVngtNThRY3dXWXZ5SnlKS2VxUHRxMGNQYm9MZzRiRzFGYk5aQ0pZMmZfaE5mOFhJUlR3ZU82dUsyUS1PVTkyb0FVR3BhT09pcnlUYUlpaWppZEhraW83U3J4TkhwV3NSWTJVcWRkTVNuNnpKNG5LblRUejdBWS1SdGc?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-07-07",
           "views": "18.0K"
         }
       ]
@@ -150,20 +150,20 @@
           "views": "18.0K"
         },
         {
-          "title": "Woori Financial Group unveils $4.5 bil. investment road map to support startups - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbEFULWZralppNERrM3FpVzh0elNvUU1VcmdUR1FMV3NHZGFzTnhrZjFuZEV0ajRNZ2x0YWwtN25XV280Y0laNUoyM19yV2VxaGxPUzYxd2xqRklmRDg3SWlHOVpxNGdyQjNFenM5WjNWS0tZTXlpU2VCY25lQnZpZjljWkNiWjJ1STBWZGdXM21YX3NLcWdmVUF1NDlPUmhUX1JFR0EtTjhtaVhMejB2dzhYRWpHV0xIcnZtMXYxTXdQYmlHaTd3TG8wMFB4X2JKR3pYc0pB0gHbAUFVX3lxTFBlY0FzdXhuSUUzRUEyaERYTHFfYm05bVllRjZZRTZSLUIwMUp5MWRVSmdoSDRGU1Z5ZTdZYTQ3WmtfeGhXaG00SnlZdWJBcE02S1p0WFBYVXozSUVJZmxkUVFRRGxXZndiYS1udDdYV1l1X0lUTG5qUEMwZ0JsUnFOcXNSenFFck13ZERfTWVtdjBad0VfSzR2WjU4b3JBVTRKNnVqaTFBcEU3Z2NVZmtneXdFak1oWUctMDVraUUyWU9kTXhwRmN6aXNxazYyaUFlSUJyZXhvQUd0aw?oc=5\" target=\"_blank\">Woori Financial Group unveils $4.5 bil. investment road map to support startups</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbEFULWZralppNERrM3FpVzh0elNvUU1VcmdUR1FMV3NHZGFzTnhrZjFuZEV0ajRNZ2x0YWwtN25XV280Y0laNUoyM19yV2VxaGxPUzYxd2xqRklmRDg3SWlHOVpxNGdyQjNFenM5WjNWS0tZTXlpU2VCY25lQnZpZjljWkNiWjJ1STBWZGdXM21YX3NLcWdmVUF1NDlPUmhUX1JFR0EtTjhtaVhMejB2dzhYRWpHV0xIcnZtMXYxTXdQYmlHaTd3TG8wMFB4X2JKR3pYc0pB0gHbAUFVX3lxTFBlY0FzdXhuSUUzRUEyaERYTHFfYm05bVllRjZZRTZSLUIwMUp5MWRVSmdoSDRGU1Z5ZTdZYTQ3WmtfeGhXaG00SnlZdWJBcE02S1p0WFBYVXozSUVJZmxkUVFRRGxXZndiYS1udDdYV1l1X0lUTG5qUEMwZ0JsUnFOcXNSenFFck13ZERfTWVtdjBad0VfSzR2WjU4b3JBVTRKNnVqaTFBcEU3Z2NVZmtneXdFak1oWUctMDVraUUyWU9kTXhwRmN6aXNxazYyaUFlSUJyZXhvQUd0aw?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-07-07",
-          "views": "18.0K"
+          "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxORWJnZnZDeWFpVmRkSmpBZkxodDVPT3BiaXV0SmM0NHNnSDJMSjh4cm42bVBETFhfMFFBWE1vZEQzVVJWbVBJNEhiY01qNm0taGY4MXRnQ1FIejk0a3hvbFFUN29wM09LYVd0QjN1RV9na19kT092bURjQzdCTU5oRnh1VW9GcmV1Um5uTDlrLTFRcHhoUno2TGtLRkR3NEg1UlRyTHFBYjRTOTM2TC1kYjZEemNaQ05rdWJTTVR3?oc=5\" target=\"_blank\">OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORWJnZnZDeWFpVmRkSmpBZkxodDVPT3BiaXV0SmM0NHNnSDJMSjh4cm42bVBETFhfMFFBWE1vZEQzVVJWbVBJNEhiY01qNm0taGY4MXRnQ1FIejk0a3hvbFFUN29wM09LYVd0QjN1RV9na19kT092bURjQzdCTU5oRnh1VW9GcmV1Um5uTDlrLTFRcHhoUno2TGtLRkR3NEg1UlRyTHFBYjRTOTM2TC1kYjZEemNaQ05rdWJTTVR3?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-07-15",
+          "views": "13.0K"
         },
         {
-          "title": "Woori Financial Group unveils $4.5 bil. investment roadmap to support startups - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTmx6VWc4ZHpHdjNwRnRnS1d3NnBTV0tyWGt6TnVKeU1GSTRfc1puVGMzZzJHMFBpemFXM1NHRDFTdDQzbzBycFBlVElYY1pIdzdlMV9PbWdzb3dTbEhwekoyQzZIU0lvYllwSlFBanZVeXc5TTN2SXVKSU1QQ1gtdkJyT1NzaW1vWGYxckxFSjhfMTdwZ253X1k4U1VTd1RVUC1tWkQ0bXlzOGx2dllMejF0b0lIVk9XOU4xTHpEWW04ZUI2SVFKRmc4bTNMdktDa3JkY0tUWTFmQdIB2gFBVV95cUxQTmx6VWc4ZHpHdjNwRnRnS1d3NnBTV0tyWGt6TnVKeU1GSTRfc1puVGMzZzJHMFBpemFXM1NHRDFTdDQzbzBycFBlVElYY1pIdzdlMV9PbWdzb3dTbEhwekoyQzZIU0lvYllwSlFBanZVeXc5TTN2SXVKSU1QQ1gtdkJyT1NzaW1vWGYxckxFSjhfMTdwZ253X1k4U1VTd1RVUC1tWkQ0bXlzOGx2dllMejF0b0lIVk9XOU4xTHpEWW04ZUI2SVFKRmc4bTNMdktDa3JkY0tUWTFmQQ?oc=5\" target=\"_blank\">Woori Financial Group unveils $4.5 bil. investment roadmap to support startups</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTmx6VWc4ZHpHdjNwRnRnS1d3NnBTV0tyWGt6TnVKeU1GSTRfc1puVGMzZzJHMFBpemFXM1NHRDFTdDQzbzBycFBlVElYY1pIdzdlMV9PbWdzb3dTbEhwekoyQzZIU0lvYllwSlFBanZVeXc5TTN2SXVKSU1QQ1gtdkJyT1NzaW1vWGYxckxFSjhfMTdwZ253X1k4U1VTd1RVUC1tWkQ0bXlzOGx2dllMejF0b0lIVk9XOU4xTHpEWW04ZUI2SVFKRmc4bTNMdktDa3JkY0tUWTFmQdIB2gFBVV95cUxQTmx6VWc4ZHpHdjNwRnRnS1d3NnBTV0tyWGt6TnVKeU1GSTRfc1puVGMzZzJHMFBpemFXM1NHRDFTdDQzbzBycFBlVElYY1pIdzdlMV9PbWdzb3dTbEhwekoyQzZIU0lvYllwSlFBanZVeXc5TTN2SXVKSU1QQ1gtdkJyT1NzaW1vWGYxckxFSjhfMTdwZ253X1k4U1VTd1RVUC1tWkQ0bXlzOGx2dllMejF0b0lIVk9XOU4xTHpEWW04ZUI2SVFKRmc4bTNMdktDa3JkY0tUWTFmQQ?oc=5",
+          "title": "Korea adds 63,000 jobs in June despite weak manufacturing - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOaXBpeVhySXZZZnZoRFVNUHBLajZIeWNYaXVKZ1VNMndCUTFFbllvY3hFMWYydy1sWVo2V2dqZkJNM2xBTW1IbU85V1hQMzNzMl9wVlAweGM1bGVseW1CRmJyWWJxSmJkS0Fqa3Ryc25EcEhGaDNBRkVLX3g4N3ZnMjJYTjhVNFN6S1VNSFlFdFFOeUVRc29ZS0RVQnZYNDRycWtZS9IBqgFBVV95cUxQazBxZGUyMnY2RVVtYUFfQ09qTFVhbWdvaDdTNUhkeFNFbHBNMkpVbjhBZkVSbnVBZ0kzQ0ttTjZHbk9ZODhJMkZ2UVpVb2tNRzJyb3hzd2c3SG1BU1pRQVZfT0dtM3BmU1hvVzdLN2VnUENDa0ZKUlY2LUNiclBUS2M3NkxNWko1ZmZfSC1nU0tYZHFrMjRNMXYwVlZkZlNuQ3dpWHpSTlNEUQ?oc=5\" target=\"_blank\">Korea adds 63,000 jobs in June despite weak manufacturing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaXBpeVhySXZZZnZoRFVNUHBLajZIeWNYaXVKZ1VNMndCUTFFbllvY3hFMWYydy1sWVo2V2dqZkJNM2xBTW1IbU85V1hQMzNzMl9wVlAweGM1bGVseW1CRmJyWWJxSmJkS0Fqa3Ryc25EcEhGaDNBRkVLX3g4N3ZnMjJYTjhVNFN6S1VNSFlFdFFOeUVRc29ZS0RVQnZYNDRycWtZS9IBqgFBVV95cUxQazBxZGUyMnY2RVVtYUFfQ09qTFVhbWdvaDdTNUhkeFNFbHBNMkpVbjhBZkVSbnVBZ0kzQ0ttTjZHbk9ZODhJMkZ2UVpVb2tNRzJyb3hzd2c3SG1BU1pRQVZfT0dtM3BmU1hvVzdLN2VnUENDa0ZKUlY2LUNiclBUS2M3NkxNWko1ZmZfSC1nU0tYZHFrMjRNMXYwVlZkZlNuQ3dpWHpSTlNEUQ?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-07-07",
-          "views": "18.0K"
+          "publishedAt": "2026-07-14",
+          "views": "13.0K"
         }
       ]
     },
@@ -181,19 +181,19 @@
           "views": "18.0K"
         },
         {
-          "title": "Uber's product chief on hotels, robotaxis, and why the company doesn't want to be \"everything for everyone\" - TechCrunch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVWJMREtEV2VCUTFSZ09iVTVrVmo3OEhSdTU2ZnNyYnNlbkhMeVBNZTNXVXY1b3RHMEduN3plc19LTHpLTHVoYnJmVkpab2piY3FFMXZ0ekRjZUNwWERGdzhqVWVDUVNoMy1sWWRJTXYtX0NnTV9UbUVaSFBNSlZOTkptdzBDTG1xcTdXVlYxTTg0Y3RnRk93eW5ubjRTRHVfTVB2UzNBNV8ybDZoc003TjJwUnpGS2NjWE9ibEdTWERWUGRSOUl0TEFCd1duUWFaenc?oc=5\" target=\"_blank\">Uber's product chief on hotels, robotaxis, and why the company doesn't want to be \"everything for everyone\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVWJMREtEV2VCUTFSZ09iVTVrVmo3OEhSdTU2ZnNyYnNlbkhMeVBNZTNXVXY1b3RHMEduN3plc19LTHpLTHVoYnJmVkpab2piY3FFMXZ0ekRjZUNwWERGdzhqVWVDUVNoMy1sWWRJTXYtX0NnTV9UbUVaSFBNSlZOTkptdzBDTG1xcTdXVlYxTTg0Y3RnRk93eW5ubjRTRHVfTVB2UzNBNV8ybDZoc003TjJwUnpGS2NjWE9ibEdTWERWUGRSOUl0TEFCd1duUWFaenc?oc=5",
-          "source": "TechCrunch AI",
+          "title": "Korean gov't, industry closely monitor Trump's Hormuz toll plan - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOURBTU81eFNqT1ZqOHdkZHVMNHpRcThLMWpSM01tUmU2bDJmd2c4WlIxbE9pdDI5U2ZwSDJFNi0yOGh1YWtnYTVJVkZMak1lUHhONFA4elREbVB3NlRCcVFwd1BpNFhTODNTVTJfdjhGQTBuRTFPU2lDUlY0UGhQeF80dFVKR0Q5LTZTdk5GdEw4bElUdmdQY3hzYjRYZVppU1FtWnhrWVBXTDZUd3Nnc2NEam9MaVMz0gG-AUFVX3lxTFBOMlh5NkNFaHRJT25GU2g0T0duSEp0VE4wRzRnNXdSeVBIbFcwbDZ3UzYtdDNjVnp2cklweWt4eHQ0UjJnMlZ4NEN0dXh1cjFLSEcyNk9IZG9ROUt4WjViS29lWUh6RWtvVnp5LTBJb0JDeC00VnJKb2w2UVIwYWlINzlET0RPcDhrTWJUdEcxNFNuWnJQSUZLVDlZX0lmNnVoTDlkaWR5ZERmbWFuaXowd295dUduRk1oSG1YNlE?oc=5\" target=\"_blank\">Korean gov't, industry closely monitor Trump's Hormuz toll plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOURBTU81eFNqT1ZqOHdkZHVMNHpRcThLMWpSM01tUmU2bDJmd2c4WlIxbE9pdDI5U2ZwSDJFNi0yOGh1YWtnYTVJVkZMak1lUHhONFA4elREbVB3NlRCcVFwd1BpNFhTODNTVTJfdjhGQTBuRTFPU2lDUlY0UGhQeF80dFVKR0Q5LTZTdk5GdEw4bElUdmdQY3hzYjRYZVppU1FtWnhrWVBXTDZUd3Nnc2NEam9MaVMz0gG-AUFVX3lxTFBOMlh5NkNFaHRJT25GU2g0T0duSEp0VE4wRzRnNXdSeVBIbFcwbDZ3UzYtdDNjVnp2cklweWt4eHQ0UjJnMlZ4NEN0dXh1cjFLSEcyNk9IZG9ROUt4WjViS29lWUh6RWtvVnp5LTBJb0JDeC00VnJKb2w2UVIwYWlINzlET0RPcDhrTWJUdEcxNFNuWnJQSUZLVDlZX0lmNnVoTDlkaWR5ZERmbWFuaXowd295dUduRk1oSG1YNlE?oc=5",
+          "source": "The Korea Times",
           "publishedAt": "2026-07-14",
           "views": "13.0K"
         },
         {
-          "title": "Telecoms step up cybersecurity spending after breaches - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQaENqUFFkRUMxSWJESHlmMkNQQ21DR21UTE0tbzk2WHg5dS1LM0NGNTZkc1dpcE5CYkJvc0NjOE5vandZYU94aWVYbmtLSXBrdGRCYnhKcnRqbU5TT25UV0lmMGRvZTkyMWl4TWIyWDBjRXhrR1BpMkpYb3FDcW56SVk4LTJTZVdEbHpOUjYyV09GSk5IZlNoMlp2eE0xMFRWVGEyeThUR0tIa3NHblFEOW0zc2NTRWRwU1HSAboBQVVfeXFMUGhDalBRZEVDMUliREh5ZjJDUENtQ0dtVExNLW85Nlh4OXUtSzNDRjU2ZHNXaXBOQmJCb3NDYzhOb2p3WWFPeGllWG5rS0lwa3RkQmJ4SnJ0am1OU09uVFdJZjBkb2U5MjFpeE1iMlgwY0V4a0dQaTJKWG9xQ3FueklZOC0yU2VXRGx6TlI2MldPRkpOSGZTaDJadnhNMTBUVlRhMnk4VEdLSGtzR25RRDltM3NjU0VkcFNR?oc=5\" target=\"_blank\">Telecoms step up cybersecurity spending after breaches</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaENqUFFkRUMxSWJESHlmMkNQQ21DR21UTE0tbzk2WHg5dS1LM0NGNTZkc1dpcE5CYkJvc0NjOE5vandZYU94aWVYbmtLSXBrdGRCYnhKcnRqbU5TT25UV0lmMGRvZTkyMWl4TWIyWDBjRXhrR1BpMkpYb3FDcW56SVk4LTJTZVdEbHpOUjYyV09GSk5IZlNoMlp2eE0xMFRWVGEyeThUR0tIa3NHblFEOW0zc2NTRWRwU1HSAboBQVVfeXFMUGhDalBRZEVDMUliREh5ZjJDUENtQ0dtVExNLW85Nlh4OXUtSzNDRjU2ZHNXaXBOQmJCb3NDYzhOb2p3WWFPeGllWG5rS0lwa3RkQmJ4SnJ0am1OU09uVFdJZjBkb2U5MjFpeE1iMlgwY0V4a0dQaTJKWG9xQ3FueklZOC0yU2VXRGx6TlI2MldPRkpOSGZTaDJadnhNMTBUVlRhMnk4VEdLSGtzR25RRDltM3NjU0VkcFNR?oc=5",
+          "title": "Korea adds 63,000 jobs in June despite weak manufacturing - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOaXBpeVhySXZZZnZoRFVNUHBLajZIeWNYaXVKZ1VNMndCUTFFbllvY3hFMWYydy1sWVo2V2dqZkJNM2xBTW1IbU85V1hQMzNzMl9wVlAweGM1bGVseW1CRmJyWWJxSmJkS0Fqa3Ryc25EcEhGaDNBRkVLX3g4N3ZnMjJYTjhVNFN6S1VNSFlFdFFOeUVRc29ZS0RVQnZYNDRycWtZS9IBqgFBVV95cUxQazBxZGUyMnY2RVVtYUFfQ09qTFVhbWdvaDdTNUhkeFNFbHBNMkpVbjhBZkVSbnVBZ0kzQ0ttTjZHbk9ZODhJMkZ2UVpVb2tNRzJyb3hzd2c3SG1BU1pRQVZfT0dtM3BmU1hvVzdLN2VnUENDa0ZKUlY2LUNiclBUS2M3NkxNWko1ZmZfSC1nU0tYZHFrMjRNMXYwVlZkZlNuQ3dpWHpSTlNEUQ?oc=5\" target=\"_blank\">Korea adds 63,000 jobs in June despite weak manufacturing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaXBpeVhySXZZZnZoRFVNUHBLajZIeWNYaXVKZ1VNMndCUTFFbllvY3hFMWYydy1sWVo2V2dqZkJNM2xBTW1IbU85V1hQMzNzMl9wVlAweGM1bGVseW1CRmJyWWJxSmJkS0Fqa3Ryc25EcEhGaDNBRkVLX3g4N3ZnMjJYTjhVNFN6S1VNSFlFdFFOeUVRc29ZS0RVQnZYNDRycWtZS9IBqgFBVV95cUxQazBxZGUyMnY2RVVtYUFfQ09qTFVhbWdvaDdTNUhkeFNFbHBNMkpVbjhBZkVSbnVBZ0kzQ0ttTjZHbk9ZODhJMkZ2UVpVb2tNRzJyb3hzd2c3SG1BU1pRQVZfT0dtM3BmU1hvVzdLN2VnUENDa0ZKUlY2LUNiclBUS2M3NkxNWko1ZmZfSC1nU0tYZHFrMjRNMXYwVlZkZlNuQ3dpWHpSTlNEUQ?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-07-13",
+          "publishedAt": "2026-07-14",
           "views": "13.0K"
         }
       ]
