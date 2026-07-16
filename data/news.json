@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T03:30:18.832Z",
+  "lastUpdated": "2026-07-16T03:34:01.374Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,27 +49,27 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
+          "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer - MIT Technology Review",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaEZNa3ZZZUpGMGRLajIyY2pLTjduZmhTVHp1Q0VkNEl0X0lGVUs3aXRfb1lrRjlWSS1IckF0MV80X0Rxb2o0MU1VbU8zVVlNMElnOWhjdGp4Zlp3ZkRuOGlodnpwZmhJOWpvYnB6WVd0OXhnR2J1MHlFWUZ0ZlJ1cUpWTjFkMU1qV0JzZFBDZUVMRTFoVzhSZWNRWXZVTFdxRk1HMFhUYlpRQkRNdnZGNWFiS0h5VVFCNlNzMlRrdV_SAcYBQVVfeXFMTWtlMlUwMFM4STZCMTRXVlg5VngxWU04cVRndWRmdlRhWTM3aV9ZUHB1TFNSa0hpTmpQUFltTTc4ZGhFMFhNNTVYdGRHLTRFbUo3Qm9JaE8xZGktVTh2LUhGMU55QWQ0WWRmY1NSdm45a0JWbXptZ0NBYWgzTV9UQ0N0ZzBveUVoQ2VRZnc4V3VCYTMyUlVhSk9sMG1xR1hYMnZLUmUzbmZZOFllQ1dET1FTTHRCMGpIQWhtQXRqSmtYZWdBS2R3?oc=5\" target=\"_blank\">Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MIT Technology Review</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaEZNa3ZZZUpGMGRLajIyY2pLTjduZmhTVHp1Q0VkNEl0X0lGVUs3aXRfb1lrRjlWSS1IckF0MV80X0Rxb2o0MU1VbU8zVVlNMElnOWhjdGp4Zlp3ZkRuOGlodnpwZmhJOWpvYnB6WVd0OXhnR2J1MHlFWUZ0ZlJ1cUpWTjFkMU1qV0JzZFBDZUVMRTFoVzhSZWNRWXZVTFdxRk1HMFhUYlpRQkRNdnZGNWFiS0h5VVFCNlNzMlRrdV_SAcYBQVVfeXFMTWtlMlUwMFM4STZCMTRXVlg5VngxWU04cVRndWRmdlRhWTM3aV9ZUHB1TFNSa0hpTmpQUFltTTc4ZGhFMFhNNTVYdGRHLTRFbUo3Qm9JaE8xZGktVTh2LUhGMU55QWQ0WWRmY1NSdm45a0JWbXptZ0NBYWgzTV9UQ0N0ZzBveUVoQ2VRZnc4V3VCYTMyUlVhSk9sMG1xR1hYMnZLUmUzbmZZOFllQ1dET1FTTHRCMGpIQWhtQXRqSmtYZWdBS2R3?oc=5",
+          "source": "MIT Technology Review (AI)",
+          "publishedAt": "2026-07-15",
+          "views": "23.0K"
+        },
+        {
+          "title": "KOSPI closes higher after wild swing, Kosdaq hits year low - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOelRVaTRyOV94Ml9PQzFZSkxCT2VwNlp2RWZkTm8yVTF6R1lLM0ZfWWp0NVJYVUxxLVJkTl9SamNmOWczeENqcll6SXFiXzZUTlNWN2dzSlZyc3lrYk1Zc3h3OEplOG10dFBnLS1kLXoxNFdfcEs3cW1xZmJFcGIzeFJPdmo1cWZnaU53bktKWHRTUUttRlM2Z09neGdyVElOdGptUHlESVk2RknSAasBQVVfeXFMTnpUVWk0cjlfeDJfT0MxWUpMQk9lcDZadkVmZE5vMlUxekdZSzNGX1lqdDVSWFVMcS1SZE5fUmpjZjlnM3hDanJZeklxYl82VE5TVjdnc0pWcnN5a2JNWXN4dzhKZThtdHRQZy0tZC16MTRXX3BLN3FtcWZiRXBiM3hST3ZqNXFmZ2lOd25LSlh0U1FLbUZTNmdPZ3hnclRJTnRqbVB5RElZNkZJ?oc=5\" target=\"_blank\">KOSPI closes higher after wild swing, Kosdaq hits year low</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOelRVaTRyOV94Ml9PQzFZSkxCT2VwNlp2RWZkTm8yVTF6R1lLM0ZfWWp0NVJYVUxxLVJkTl9SamNmOWczeENqcll6SXFiXzZUTlNWN2dzSlZyc3lrYk1Zc3h3OEplOG10dFBnLS1kLXoxNFdfcEs3cW1xZmJFcGIzeFJPdmo1cWZnaU53bktKWHRTUUttRlM2Z09neGdyVElOdGptUHlESVk2RknSAasBQVVfeXFMTnpUVWk0cjlfeDJfT0MxWUpMQk9lcDZadkVmZE5vMlUxekdZSzNGX1lqdDVSWFVMcS1SZE5fUmpjZjlnM3hDanJZeklxYl82VE5TVjdnc0pWcnN5a2JNWXN4dzhKZThtdHRQZy0tZC16MTRXX3BLN3FtcWZiRXBiM3hST3ZqNXFmZ2lOd25LSlh0U1FLbUZTNmdPZ3hnclRJTnRqbVB5RElZNkZJ?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-07-14",
+          "views": "18.0K"
+        },
+        {
           "title": "The Download: Claude’s inner workings, and the future of world models - MIT Technology Review",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOM3NTR2pydklxaktFQlhZMWFGUUVuZktxQWJVYXptUmY1MVpKcGMtd0gySEpYN2Z5TXRnbmRJRThNeTQ3bzVUaW84YUpMNjlteXZ3TFZ0VG5uWU9INUFQYjFHREI5cEZqTkRRMUpuOW9qeWhfRXZQLWMzZzRIa3IwVjFzcFRNa1pPSy11Ymh2aGJIUDU0MUV3R01mbGpiTEpsQVJXbnhjUlIyY181aU9GN20xSdIBuAFBVV95cUxPSWJhS0NhQnJJeUpqRG9fYzJnNDNmNTQwUjhHZ1dORHc3MnU3ZlRQanhMQWVJN2d2d0JLMkhxc081aGd4T1UzMEJGWG5jeVR4Y3lqb1lDM0d3OFc0VkVmallnMUdzTWFjTmhqM2p4YzVsTjVJZWV0d1lZZFhiemNkWlhwSEMwSEJhamJHcmRsR2dVVXlKSHZlVG8tTDlxSXczTlZETTROdXRCSHdTODBnbnZEamdrVWZn?oc=5\" target=\"_blank\">The Download: Claude’s inner workings, and the future of world models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MIT Technology Review</font>",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM3NTR2pydklxaktFQlhZMWFGUUVuZktxQWJVYXptUmY1MVpKcGMtd0gySEpYN2Z5TXRnbmRJRThNeTQ3bzVUaW84YUpMNjlteXZ3TFZ0VG5uWU9INUFQYjFHREI5cEZqTkRRMUpuOW9qeWhfRXZQLWMzZzRIa3IwVjFzcFRNa1pPSy11Ymh2aGJIUDU0MUV3R01mbGpiTEpsQVJXbnhjUlIyY181aU9GN20xSdIBuAFBVV95cUxPSWJhS0NhQnJJeUpqRG9fYzJnNDNmNTQwUjhHZ1dORHc3MnU3ZlRQanhMQWVJN2d2d0JLMkhxc081aGd4T1UzMEJGWG5jeVR4Y3lqb1lDM0d3OFc0VkVmallnMUdzTWFjTmhqM2p4YzVsTjVJZWV0d1lZZFhiemNkWlhwSEMwSEJhamJHcmRsR2dVVXlKSHZlVG8tTDlxSXczTlZETTROdXRCSHdTODBnbnZEamdrVWZn?oc=5",
           "source": "MIT Technology Review (AI)",
           "publishedAt": "2026-07-14",
-          "views": "18.0K"
-        },
-        {
-          "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter - TechCrunch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQNHpKYVNrMUdfcEtpTkM4Q2VVczFna1VodlE5UU02MTI2aGtGVVhrbzM5amNnU2dMREJrcHEySUI5Z2NOMHUtOXZZeVAzZTRDcHNtQXN3cXJPNGZYdXpLcWtHSl9kamwtVEdDM2lpcEhoTWlnYUpJVlQ5Rl9UMERnZlU0MHZDa2N2bXpZVnRReGgzRFh2c2dZbDhORGZfakhUemszYkYzYUp5ZUEwSVJSWFFpdXZtYTdRTmdKMQ?oc=5\" target=\"_blank\">OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNHpKYVNrMUdfcEtpTkM4Q2VVczFna1VodlE5UU02MTI2aGtGVVhrbzM5amNnU2dMREJrcHEySUI5Z2NOMHUtOXZZeVAzZTRDcHNtQXN3cXJPNGZYdXpLcWtHSl9kamwtVEdDM2lpcEhoTWlnYUpJVlQ5Rl9UMERnZlU0MHZDa2N2bXpZVnRReGgzRFh2c2dZbDhORGZfakhUemszYkYzYUp5ZUEwSVJSWFFpdXZtYTdRTmdKMQ?oc=5",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-07-10",
-          "views": "18.0K"
-        },
-        {
-          "title": "OpenAI launches its new family of models with GPT-5.6 - TechCrunch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPODlSQVppYTZVQ29pdmg2d1dSSFMzR3Z6TTdBWF9jN1ZiQUw4REZNUUkzN1JJLXFTMXRjakVRek9NbEV2VnE3WVJ2YlNnYjlyeGtQMHVSM3JUaExBTEoxaG1TMk5pZkFPZzB6Mlg4b3NDQ1FIcF8zVmR2NzlLcXNaUzJ5MFI2SmlLWE5vQ21Xa3dmQQ?oc=5\" target=\"_blank\">OpenAI launches its new family of models with GPT-5.6</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPODlSQVppYTZVQ29pdmg2d1dSSFMzR3Z6TTdBWF9jN1ZiQUw4REZNUUkzN1JJLXFTMXRjakVRek9NbEV2VnE3WVJ2YlNnYjlyeGtQMHVSM3JUaExBTEoxaG1TMk5pZkFPZzB6Mlg4b3NDQ1FIcF8zVmR2NzlLcXNaUzJ5MFI2SmlLWE5vQ21Xa3dmQQ?oc=5",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-07-09",
           "views": "18.0K"
         }
       ]
@@ -80,27 +80,27 @@
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
         {
-          "title": "Enterprise AI agent controls lag deployment - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcU9hTjRveWR3QUlaQ25jMlozTXNGOUV5Ul9kVHk0aHpzbElCOXBtNzlhRS1YcXpMakNORFFjelpzUzNMd3Y2dzExTHBCMV9CZ1FBN0V0YWdPOUJpMlZaZkJDS2oxZWZMaS10ektXZWZlSkQ1VlhibmxPeHVxMzh1NkEzVUF5NGdyNzIyOXhzSU9ESGxJc0N0RGhlRGprZm9Ec3c2Mldjclo2dmlJT3ZONWhSWWl4NEpkYUVLbEFfSEx6Uzd3ek82Uk44U1hOdVNZTHVKTHFCUTB5YlNVNnZLQkdjckI?oc=5\" target=\"_blank\">Enterprise AI agent controls lag deployment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcU9hTjRveWR3QUlaQ25jMlozTXNGOUV5Ul9kVHk0aHpzbElCOXBtNzlhRS1YcXpMakNORFFjelpzUzNMd3Y2dzExTHBCMV9CZ1FBN0V0YWdPOUJpMlZaZkJDS2oxZWZMaS10ektXZWZlSkQ1VlhibmxPeHVxMzh1NkEzVUF5NGdyNzIyOXhzSU9ESGxJc0N0RGhlRGprZm9Ec3c2Mldjclo2dmlJT3ZONWhSWWl4NEpkYUVLbEFfSEx6Uzd3ek82Uk44U1hOdVNZTHVKTHFCUTB5YlNVNnZLQkdjckI?oc=5",
+          "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOY1JVSEV3aF94czZ6Vl91aWxZUWkyZktmR2h5T091TmJNVnFIemkzSmpXSjRoUFh4U0dldlhqYWVJNkhJTzczSDB2T1MxQjJlQzIzTnhpcEVzTHFYRjc3SWNfRTFIV3hJek9rQ292WGEyRWg2WmgyclhOd1loMDI4YXByQmVpdGFRVmF4Q21qWlJhSFBEVlI2QXo0b3JWcHQ1S3Jmd1FPX21tU2ZLR1dTQ1NVRkRKMVpKSGxoZ2JIeXNjbXI0NkpwNEh4QVQ5RlN3akhZVEI3ZE11T3NNc1JJWkY1a2lWbEpVbjB0aFhfZkhTLTVZ?oc=5\" target=\"_blank\">Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOY1JVSEV3aF94czZ6Vl91aWxZUWkyZktmR2h5T091TmJNVnFIemkzSmpXSjRoUFh4U0dldlhqYWVJNkhJTzczSDB2T1MxQjJlQzIzTnhpcEVzTHFYRjc3SWNfRTFIV3hJek9rQ292WGEyRWg2WmgyclhOd1loMDI4YXByQmVpdGFRVmF4Q21qWlJhSFBEVlI2QXo0b3JWcHQ1S3Jmd1FPX21tU2ZLR1dTQ1NVRkRKMVpKSGxoZ2JIeXNjbXI0NkpwNEh4QVQ5RlN3akhZVEI3ZE11T3NNc1JJWkY1a2lWbEpVbjB0aFhfZkhTLTVZ?oc=5",
           "source": "VentureBeat AI",
-          "publishedAt": "2026-07-10",
+          "publishedAt": "2026-07-15",
           "views": "18.0K"
         },
         {
-          "title": "57% of enterprises have watched AI agents be confidently wrong. The fix is an agentic context layer, but who has one? - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOWdSUXBUQjk2aUw1TG1LYkJnOGc2ZENLclN6UlNEbmhDd25OLW1HelF3YXFzTXJvbU42TndqY2tnRGNsTmNrVWlnbXYzQVZzRnNyQmhfN0VtemZ3NVpFcG45Q0w4SGs4MnhKWFJ1c2hkWU9UeFBfcE1admVuOWNJZ29sVDdBdWo4QUFNd0JKTjVqMGt0Zm5sb21YaDV4YklaUThqVFlvdElUcXJQRjRpRk9yOHdVbWloQ0xkZUhpOGF3em1MRjVCSUs1U3B6ZVNuRGhoMFdfTXlvQQ?oc=5\" target=\"_blank\">57% of enterprises have watched AI agents be confidently wrong. The fix is an agentic context layer, but who has one?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOWdSUXBUQjk2aUw1TG1LYkJnOGc2ZENLclN6UlNEbmhDd25OLW1HelF3YXFzTXJvbU42TndqY2tnRGNsTmNrVWlnbXYzQVZzRnNyQmhfN0VtemZ3NVpFcG45Q0w4SGs4MnhKWFJ1c2hkWU9UeFBfcE1admVuOWNJZ29sVDdBdWo4QUFNd0JKTjVqMGt0Zm5sb21YaDV4YklaUThqVFlvdElUcXJQRjRpRk9yOHdVbWloQ0xkZUhpOGF3em1MRjVCSUs1U3B6ZVNuRGhoMFdfTXlvQQ?oc=5",
+          "title": "Amazon AGI director says AI agent reliability, not capability, is blocking enterprise deployment at VB Transform 2026 - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxON3lxMy1nc2p2SWtTal94M21paDVjSzBHUmdBUmhpdVExTmY5dmlyVmVUdWZUZzIxcWprREZZRHZqZnpXRDdXZ2RRdUJGa0lnUk9PanhESnRyelREUzlVcDdEY3hGQlRsWTBjb0d3RnQzYVhEUGQ0dVEtZTN1UW0tZHVMaDNJUS1QY09WOTFfYU5QQ21WMkVpTlJGZm5NVld3NmI4dHJvckxaSjJMb0hhM01BLWI0b2o4dTlsRjhiazQ1ZnRZcE9CWmxqbEQzVjEtbmFhNk9YRWVPUUl2LXN3SXJ1SkM?oc=5\" target=\"_blank\">Amazon AGI director says AI agent reliability, not capability, is blocking enterprise deployment at VB Transform 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxON3lxMy1nc2p2SWtTal94M21paDVjSzBHUmdBUmhpdVExTmY5dmlyVmVUdWZUZzIxcWprREZZRHZqZnpXRDdXZ2RRdUJGa0lnUk9PanhESnRyelREUzlVcDdEY3hGQlRsWTBjb0d3RnQzYVhEUGQ0dVEtZTN1UW0tZHVMaDNJUS1QY09WOTFfYU5QQ21WMkVpTlJGZm5NVld3NmI4dHJvckxaSjJMb0hhM01BLWI0b2o4dTlsRjhiazQ1ZnRZcE9CWmxqbEQzVjEtbmFhNk9YRWVPUUl2LXN3SXJ1SkM?oc=5",
           "source": "VentureBeat AI",
-          "publishedAt": "2026-07-10",
+          "publishedAt": "2026-07-15",
           "views": "18.0K"
         },
         {
-          "title": "Enterprise AI is entering an evaluation gap: Agents are gaining autonomy faster than companies can verify them - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPU005NzZmY25YZ1FjalZaNVo5WjJ0SFpheTBhNDVUQWFCbEg5Q0ZDODdBZ29SY1NpZW9rUDJLNThtQ2lQWjZMbm9oOE5IMFZXUHgzVWl0WmZWOWphWE1lUGpBbDhGcjk2RzZTUWNScmM3VEY1eVp6ZnZUSkp1TWY2V1dyMVg1VkNPSkZZZW9Ba2VFbDJrZXNYWmYwZmx0QkxROW1JV2FLMHFNSDloQTZ1emdBQUtGQUJRZENIaTlTZE5tN3JUcW91YkVtd01lQ0lzZXloSHFXb2o3Sjlrb2pBdw?oc=5\" target=\"_blank\">Enterprise AI is entering an evaluation gap: Agents are gaining autonomy faster than companies can verify them</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPU005NzZmY25YZ1FjalZaNVo5WjJ0SFpheTBhNDVUQWFCbEg5Q0ZDODdBZ29SY1NpZW9rUDJLNThtQ2lQWjZMbm9oOE5IMFZXUHgzVWl0WmZWOWphWE1lUGpBbDhGcjk2RzZTUWNScmM3VEY1eVp6ZnZUSkp1TWY2V1dyMVg1VkNPSkZZZW9Ba2VFbDJrZXNYWmYwZmx0QkxROW1JV2FLMHFNSDloQTZ1emdBQUtGQUJRZENIaTlTZE5tN3JUcW91YkVtd01lQ0lzZXloSHFXb2o3Sjlrb2pBdw?oc=5",
+          "title": "Cohere VP says enterprise AI sovereignty requires control of the full agent stack at VB Transform 2026 - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNY3NiZ2N1Sno3eC1sSWs4WEQ1VXg0NS00ZmlPazFiRUpZYl9QNmlEMGJDV2t1U2JPaWVPQ1JnaE9RS0NsYTAtRFU0MWdYM3hEUUNpUG9NRVl6eXlPclphYk5WWGJUcjhJWkppc1VaY09yQ2VXMTUyVVkwR2lBd1g4SXhrVGdqaUh2QXNrWndrSDk0ZDlRQWpDejZSQ2FhTHBzdkxEMlhDaDBzNjJvb1Ixd3Z0cjZEWTA?oc=5\" target=\"_blank\">Cohere VP says enterprise AI sovereignty requires control of the full agent stack at VB Transform 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNY3NiZ2N1Sno3eC1sSWs4WEQ1VXg0NS00ZmlPazFiRUpZYl9QNmlEMGJDV2t1U2JPaWVPQ1JnaE9RS0NsYTAtRFU0MWdYM3hEUUNpUG9NRVl6eXlPclphYk5WWGJUcjhJWkppc1VaY09yQ2VXMTUyVVkwR2lBd1g4SXhrVGdqaUh2QXNrWndrSDk0ZDlRQWpDejZSQ2FhTHBzdkxEMlhDaDBzNjJvb1Ixd3Z0cjZEWTA?oc=5",
           "source": "VentureBeat AI",
-          "publishedAt": "2026-07-10",
+          "publishedAt": "2026-07-15",
           "views": "18.0K"
         }
       ]
@@ -142,27 +142,27 @@
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
         {
-          "title": "Bank of America hires nine senior investment bankers to target US middle market - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNY2piVTMzejIzNkdzSEk0X3RPNlNzTkJwcE5EaTBIcG5HRGU2X3hFLVByeE1mYmtoS1pydmZTT28wM2p6ekNNRDNCS1dxb21VZnpkeTltY1liYjIxaDQ0LWhGemNvU0lpUDJzWlBfS3ZWbkZDdmpSYU5jT2VLZVNBbmRLdkdUWTEtOHpXWFNjd09KZXFvUkZCVERNd0tsZlRZbXpaTlI4ckstTkVzZGFNMU5GLXREYXpsRVUycldpT0RZWUky?oc=5\" target=\"_blank\">Bank of America hires nine senior investment bankers to target US middle market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY2piVTMzejIzNkdzSEk0X3RPNlNzTkJwcE5EaTBIcG5HRGU2X3hFLVByeE1mYmtoS1pydmZTT28wM2p6ekNNRDNCS1dxb21VZnpkeTltY1liYjIxaDQ0LWhGemNvU0lpUDJzWlBfS3ZWbkZDdmpSYU5jT2VLZVNBbmRLdkdUWTEtOHpXWFNjd09KZXFvUkZCVERNd0tsZlRZbXpaTlI4ckstTkVzZGFNMU5GLXREYXpsRVUycldpT0RZWUky?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-07-13",
-          "views": "18.0K"
+          "title": "Gov't to closely monitor job market amid renewed Middle East tensions - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNTjhqT2RRMTN2MUpRN01fYzVjRzFBdHNNNjk0bVlSSTFfTTl6a0FVamxlRExkdmk1bzBUMTF5TjBlMnhPQXpmTGFscnN4UUhQb1J4YU5uWWRBdkRfMnhSSl95WGg4NzFyX2RZYzE5Smh3b2N6bDRYQzRxbFZRSmtTMWVWVjlqMnFsZ1NvVjhoMWJMeXN1UXNua1NWOHZXcVJOdkx6SFdxVjdZNFZHTWZmWVNIYkcxUjZ0S1HSAboBQVVfeXFMTU44ak9kUTEzdjFKUTdNX2M1Y0cxQXRzTTY5NG1ZUkkxX005emtBVWpsZURMZHZpNW8wVDExeU4wZTJ4T0F6ZkxhbHJzeFFIUG9SeGFObllkQXZEXzJ4UkpfeVhoODcxcl9kWWMxOUpod29jemw0WEM0cWxWUUprUzFlVlY5ajJxbGdTb1Y4aDFiTHlzdVFzbmtTVjh2V3FSTnZMekhXcVY3WTRWR01mZllTSGJHMVI2dEtR?oc=5\" target=\"_blank\">Gov't to closely monitor job market amid renewed Middle East tensions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTjhqT2RRMTN2MUpRN01fYzVjRzFBdHNNNjk0bVlSSTFfTTl6a0FVamxlRExkdmk1bzBUMTF5TjBlMnhPQXpmTGFscnN4UUhQb1J4YU5uWWRBdkRfMnhSSl95WGg4NzFyX2RZYzE5Smh3b2N6bDRYQzRxbFZRSmtTMWVWVjlqMnFsZ1NvVjhoMWJMeXN1UXNua1NWOHZXcVJOdkx6SFdxVjdZNFZHTWZmWVNIYkcxUjZ0S1HSAboBQVVfeXFMTU44ak9kUTEzdjFKUTdNX2M1Y0cxQXRzTTY5NG1ZUkkxX005emtBVWpsZURMZHZpNW8wVDExeU4wZTJ4T0F6ZkxhbHJzeFFIUG9SeGFObllkQXZEXzJ4UkpfeVhoODcxcl9kWWMxOUpod29jemw0WEM0cWxWUUprUzFlVlY5ajJxbGdTb1Y4aDFiTHlzdVFzbmtTVjh2V3FSTnZMekhXcVY3WTRWR01mZllTSGJHMVI2dEtR?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-07-16",
+          "views": "13.0K"
         },
         {
-          "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B - TechCrunch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxORWJnZnZDeWFpVmRkSmpBZkxodDVPT3BiaXV0SmM0NHNnSDJMSjh4cm42bVBETFhfMFFBWE1vZEQzVVJWbVBJNEhiY01qNm0taGY4MXRnQ1FIejk0a3hvbFFUN29wM09LYVd0QjN1RV9na19kT092bURjQzdCTU5oRnh1VW9GcmV1Um5uTDlrLTFRcHhoUno2TGtLRkR3NEg1UlRyTHFBYjRTOTM2TC1kYjZEemNaQ05rdWJTTVR3?oc=5\" target=\"_blank\">OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORWJnZnZDeWFpVmRkSmpBZkxodDVPT3BiaXV0SmM0NHNnSDJMSjh4cm42bVBETFhfMFFBWE1vZEQzVVJWbVBJNEhiY01qNm0taGY4MXRnQ1FIejk0a3hvbFFUN29wM09LYVd0QjN1RV9na19kT092bURjQzdCTU5oRnh1VW9GcmV1Um5uTDlrLTFRcHhoUno2TGtLRkR3NEg1UlRyTHFBYjRTOTM2TC1kYjZEemNaQ05rdWJTTVR3?oc=5",
-          "source": "TechCrunch AI",
+          "title": "LGD to Review Gen 6 TFT Investment - ETNEWS",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE5oemtmNm1LT0ZjaURwWVlrZTJZcnQ2bHl3bG9TZzkyWHNieGh3MFA0TGdVaG1RdXJKTXlPQWNaWFdCMzZRYllOZDN1Ums?oc=5\" target=\"_blank\">LGD to Review Gen 6 TFT Investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5oemtmNm1LT0ZjaURwWVlrZTJZcnQ2bHl3bG9TZzkyWHNieGh3MFA0TGdVaG1RdXJKTXlPQWNaWFdCMzZRYllOZDN1Ums?oc=5",
+          "source": "전자신문",
           "publishedAt": "2026-07-15",
           "views": "13.0K"
         },
         {
-          "title": "Korea adds 63,000 jobs in June despite weak manufacturing - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOaXBpeVhySXZZZnZoRFVNUHBLajZIeWNYaXVKZ1VNMndCUTFFbllvY3hFMWYydy1sWVo2V2dqZkJNM2xBTW1IbU85V1hQMzNzMl9wVlAweGM1bGVseW1CRmJyWWJxSmJkS0Fqa3Ryc25EcEhGaDNBRkVLX3g4N3ZnMjJYTjhVNFN6S1VNSFlFdFFOeUVRc29ZS0RVQnZYNDRycWtZS9IBqgFBVV95cUxQazBxZGUyMnY2RVVtYUFfQ09qTFVhbWdvaDdTNUhkeFNFbHBNMkpVbjhBZkVSbnVBZ0kzQ0ttTjZHbk9ZODhJMkZ2UVpVb2tNRzJyb3hzd2c3SG1BU1pRQVZfT0dtM3BmU1hvVzdLN2VnUENDa0ZKUlY2LUNiclBUS2M3NkxNWko1ZmZfSC1nU0tYZHFrMjRNMXYwVlZkZlNuQ3dpWHpSTlNEUQ?oc=5\" target=\"_blank\">Korea adds 63,000 jobs in June despite weak manufacturing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaXBpeVhySXZZZnZoRFVNUHBLajZIeWNYaXVKZ1VNMndCUTFFbllvY3hFMWYydy1sWVo2V2dqZkJNM2xBTW1IbU85V1hQMzNzMl9wVlAweGM1bGVseW1CRmJyWWJxSmJkS0Fqa3Ryc25EcEhGaDNBRkVLX3g4N3ZnMjJYTjhVNFN6S1VNSFlFdFFOeUVRc29ZS0RVQnZYNDRycWtZS9IBqgFBVV95cUxQazBxZGUyMnY2RVVtYUFfQ09qTFVhbWdvaDdTNUhkeFNFbHBNMkpVbjhBZkVSbnVBZ0kzQ0ttTjZHbk9ZODhJMkZ2UVpVb2tNRzJyb3hzd2c3SG1BU1pRQVZfT0dtM3BmU1hvVzdLN2VnUENDa0ZKUlY2LUNiclBUS2M3NkxNWko1ZmZfSC1nU0tYZHFrMjRNMXYwVlZkZlNuQ3dpWHpSTlNEUQ?oc=5",
+          "title": "Empty streets and restaurants at Moran Market signal end of dog meat era - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOWkzSTNNM3gwOEVYclQ1SXlnbDZIRGExSTJaYXFtRktmc2dSTncwalUzUXVyOU4wTWx6UW9NM29BaWphR3VXR2paTktkNFJnYzFJZnFhc3V5aTkyMDVFZDdueXpBTWI3czJrOTZoei02TkU0MGw2b3RFWnRydk9TdnhEZEJJZW95RDNCUGdXdjQ3MXpUZmF6WDRtVjRFVDJEOWVIUThLOWpFWHJQekM5MUtUNEZWdm1PRlZPZlNWUGg0ejMtdXYzQdIBzgFBVV95cUxON2hrMWt3emhhbUFzMVFjcmFPQkRfWml0cENNOXpKazRKOTZNRk9heHFIM2J4T182ZjJGbl9UOXo3VmRWeUdfTTRNR19DTXVyMkpCcFU2Vm12c2JJdnpGal9JUlZKU3NnNE5fcVJnQVJ6VmVwdjJjQ0dYMHpDOXVjMDRnQi1yd21lS3E3LVFjQktoOFpmVHZEaWlVSnhZaHc0OTRjWUpJNlBvRjlGOHhPcW5zaXVPRktpcVdJU1dZNmVoYVAzWXBrdzVaN3hjZw?oc=5\" target=\"_blank\">Empty streets and restaurants at Moran Market signal end of dog meat era</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOWkzSTNNM3gwOEVYclQ1SXlnbDZIRGExSTJaYXFtRktmc2dSTncwalUzUXVyOU4wTWx6UW9NM29BaWphR3VXR2paTktkNFJnYzFJZnFhc3V5aTkyMDVFZDdueXpBTWI3czJrOTZoei02TkU0MGw2b3RFWnRydk9TdnhEZEJJZW95RDNCUGdXdjQ3MXpUZmF6WDRtVjRFVDJEOWVIUThLOWpFWHJQekM5MUtUNEZWdm1PRlZPZlNWUGg0ejMtdXYzQdIBzgFBVV95cUxON2hrMWt3emhhbUFzMVFjcmFPQkRfWml0cENNOXpKazRKOTZNRk9heHFIM2J4T182ZjJGbl9UOXo3VmRWeUdfTTRNR19DTXVyMkpCcFU2Vm12c2JJdnpGal9JUlZKU3NnNE5fcVJnQVJ6VmVwdjJjQ0dYMHpDOXVjMDRnQi1yd21lS3E3LVFjQktoOFpmVHZEaWlVSnhZaHc0OTRjWUpJNlBvRjlGOHhPcW5zaXVPRktpcVdJU1dZNmVoYVAzWXBrdzVaN3hjZw?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-07-14",
+          "publishedAt": "2026-07-15",
           "views": "13.0K"
         }
       ]
@@ -181,19 +181,19 @@
           "views": "18.0K"
         },
         {
-          "title": "Korean gov't, industry closely monitor Trump's Hormuz toll plan - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOURBTU81eFNqT1ZqOHdkZHVMNHpRcThLMWpSM01tUmU2bDJmd2c4WlIxbE9pdDI5U2ZwSDJFNi0yOGh1YWtnYTVJVkZMak1lUHhONFA4elREbVB3NlRCcVFwd1BpNFhTODNTVTJfdjhGQTBuRTFPU2lDUlY0UGhQeF80dFVKR0Q5LTZTdk5GdEw4bElUdmdQY3hzYjRYZVppU1FtWnhrWVBXTDZUd3Nnc2NEam9MaVMz0gG-AUFVX3lxTFBOMlh5NkNFaHRJT25GU2g0T0duSEp0VE4wRzRnNXdSeVBIbFcwbDZ3UzYtdDNjVnp2cklweWt4eHQ0UjJnMlZ4NEN0dXh1cjFLSEcyNk9IZG9ROUt4WjViS29lWUh6RWtvVnp5LTBJb0JDeC00VnJKb2w2UVIwYWlINzlET0RPcDhrTWJUdEcxNFNuWnJQSUZLVDlZX0lmNnVoTDlkaWR5ZERmbWFuaXowd295dUduRk1oSG1YNlE?oc=5\" target=\"_blank\">Korean gov't, industry closely monitor Trump's Hormuz toll plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOURBTU81eFNqT1ZqOHdkZHVMNHpRcThLMWpSM01tUmU2bDJmd2c4WlIxbE9pdDI5U2ZwSDJFNi0yOGh1YWtnYTVJVkZMak1lUHhONFA4elREbVB3NlRCcVFwd1BpNFhTODNTVTJfdjhGQTBuRTFPU2lDUlY0UGhQeF80dFVKR0Q5LTZTdk5GdEw4bElUdmdQY3hzYjRYZVppU1FtWnhrWVBXTDZUd3Nnc2NEam9MaVMz0gG-AUFVX3lxTFBOMlh5NkNFaHRJT25GU2g0T0duSEp0VE4wRzRnNXdSeVBIbFcwbDZ3UzYtdDNjVnp2cklweWt4eHQ0UjJnMlZ4NEN0dXh1cjFLSEcyNk9IZG9ROUt4WjViS29lWUh6RWtvVnp5LTBJb0JDeC00VnJKb2w2UVIwYWlINzlET0RPcDhrTWJUdEcxNFNuWnJQSUZLVDlZX0lmNnVoTDlkaWR5ZERmbWFuaXowd295dUduRk1oSG1YNlE?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-07-14",
+          "title": "SAP Puts the Autonomous Enterprise at the Center of Its AI Strategy - ETNEWS",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ZSkVYZHFnaEUwUkRSTjRlcXR2N2hQRXc5WFlpaWlDcTJPYk8zdWN0akpGRzBOc21YMVA4eG1WR085cGVNQm1mUXhwSVQ?oc=5\" target=\"_blank\">SAP Puts the Autonomous Enterprise at the Center of Its AI Strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ZSkVYZHFnaEUwUkRSTjRlcXR2N2hQRXc5WFlpaWlDcTJPYk8zdWN0akpGRzBOc21YMVA4eG1WR085cGVNQm1mUXhwSVQ?oc=5",
+          "source": "전자신문",
+          "publishedAt": "2026-07-15",
           "views": "13.0K"
         },
         {
-          "title": "Korea adds 63,000 jobs in June despite weak manufacturing - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOaXBpeVhySXZZZnZoRFVNUHBLajZIeWNYaXVKZ1VNMndCUTFFbllvY3hFMWYydy1sWVo2V2dqZkJNM2xBTW1IbU85V1hQMzNzMl9wVlAweGM1bGVseW1CRmJyWWJxSmJkS0Fqa3Ryc25EcEhGaDNBRkVLX3g4N3ZnMjJYTjhVNFN6S1VNSFlFdFFOeUVRc29ZS0RVQnZYNDRycWtZS9IBqgFBVV95cUxQazBxZGUyMnY2RVVtYUFfQ09qTFVhbWdvaDdTNUhkeFNFbHBNMkpVbjhBZkVSbnVBZ0kzQ0ttTjZHbk9ZODhJMkZ2UVpVb2tNRzJyb3hzd2c3SG1BU1pRQVZfT0dtM3BmU1hvVzdLN2VnUENDa0ZKUlY2LUNiclBUS2M3NkxNWko1ZmZfSC1nU0tYZHFrMjRNMXYwVlZkZlNuQ3dpWHpSTlNEUQ?oc=5\" target=\"_blank\">Korea adds 63,000 jobs in June despite weak manufacturing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaXBpeVhySXZZZnZoRFVNUHBLajZIeWNYaXVKZ1VNMndCUTFFbllvY3hFMWYydy1sWVo2V2dqZkJNM2xBTW1IbU85V1hQMzNzMl9wVlAweGM1bGVseW1CRmJyWWJxSmJkS0Fqa3Ryc25EcEhGaDNBRkVLX3g4N3ZnMjJYTjhVNFN6S1VNSFlFdFFOeUVRc29ZS0RVQnZYNDRycWtZS9IBqgFBVV95cUxQazBxZGUyMnY2RVVtYUFfQ09qTFVhbWdvaDdTNUhkeFNFbHBNMkpVbjhBZkVSbnVBZ0kzQ0ttTjZHbk9ZODhJMkZ2UVpVb2tNRzJyb3hzd2c3SG1BU1pRQVZfT0dtM3BmU1hvVzdLN2VnUENDa0ZKUlY2LUNiclBUS2M3NkxNWko1ZmZfSC1nU0tYZHFrMjRNMXYwVlZkZlNuQ3dpWHpSTlNEUQ?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-07-14",
+          "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOY1JVSEV3aF94czZ6Vl91aWxZUWkyZktmR2h5T091TmJNVnFIemkzSmpXSjRoUFh4U0dldlhqYWVJNkhJTzczSDB2T1MxQjJlQzIzTnhpcEVzTHFYRjc3SWNfRTFIV3hJek9rQ292WGEyRWg2WmgyclhOd1loMDI4YXByQmVpdGFRVmF4Q21qWlJhSFBEVlI2QXo0b3JWcHQ1S3Jmd1FPX21tU2ZLR1dTQ1NVRkRKMVpKSGxoZ2JIeXNjbXI0NkpwNEh4QVQ5RlN3akhZVEI3ZE11T3NNc1JJWkY1a2lWbEpVbjB0aFhfZkhTLTVZ?oc=5\" target=\"_blank\">Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOY1JVSEV3aF94czZ6Vl91aWxZUWkyZktmR2h5T091TmJNVnFIemkzSmpXSjRoUFh4U0dldlhqYWVJNkhJTzczSDB2T1MxQjJlQzIzTnhpcEVzTHFYRjc3SWNfRTFIV3hJek9rQ292WGEyRWg2WmgyclhOd1loMDI4YXByQmVpdGFRVmF4Q21qWlJhSFBEVlI2QXo0b3JWcHQ1S3Jmd1FPX21tU2ZLR1dTQ1NVRkRKMVpKSGxoZ2JIeXNjbXI0NkpwNEh4QVQ5RlN3akhZVEI3ZE11T3NNc1JJWkY1a2lWbEpVbjB0aFhfZkhTLTVZ?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-07-15",
           "views": "13.0K"
         }
       ]
