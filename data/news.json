@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-16T03:34:01.374Z",
+  "lastUpdated": "2026-07-17T03:34:17.923Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -57,20 +57,20 @@
           "views": "23.0K"
         },
         {
-          "title": "KOSPI closes higher after wild swing, Kosdaq hits year low - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOelRVaTRyOV94Ml9PQzFZSkxCT2VwNlp2RWZkTm8yVTF6R1lLM0ZfWWp0NVJYVUxxLVJkTl9SamNmOWczeENqcll6SXFiXzZUTlNWN2dzSlZyc3lrYk1Zc3h3OEplOG10dFBnLS1kLXoxNFdfcEs3cW1xZmJFcGIzeFJPdmo1cWZnaU53bktKWHRTUUttRlM2Z09neGdyVElOdGptUHlESVk2RknSAasBQVVfeXFMTnpUVWk0cjlfeDJfT0MxWUpMQk9lcDZadkVmZE5vMlUxekdZSzNGX1lqdDVSWFVMcS1SZE5fUmpjZjlnM3hDanJZeklxYl82VE5TVjdnc0pWcnN5a2JNWXN4dzhKZThtdHRQZy0tZC16MTRXX3BLN3FtcWZiRXBiM3hST3ZqNXFmZ2lOd25LSlh0U1FLbUZTNmdPZ3hnclRJTnRqbVB5RElZNkZJ?oc=5\" target=\"_blank\">KOSPI closes higher after wild swing, Kosdaq hits year low</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOelRVaTRyOV94Ml9PQzFZSkxCT2VwNlp2RWZkTm8yVTF6R1lLM0ZfWWp0NVJYVUxxLVJkTl9SamNmOWczeENqcll6SXFiXzZUTlNWN2dzSlZyc3lrYk1Zc3h3OEplOG10dFBnLS1kLXoxNFdfcEs3cW1xZmJFcGIzeFJPdmo1cWZnaU53bktKWHRTUUttRlM2Z09neGdyVElOdGptUHlESVk2RknSAasBQVVfeXFMTnpUVWk0cjlfeDJfT0MxWUpMQk9lcDZadkVmZE5vMlUxekdZSzNGX1lqdDVSWFVMcS1SZE5fUmpjZjlnM3hDanJZeklxYl82VE5TVjdnc0pWcnN5a2JNWXN4dzhKZThtdHRQZy0tZC16MTRXX3BLN3FtcWZiRXBiM3hST3ZqNXFmZ2lOd25LSlh0U1FLbUZTNmdPZ3hnclRJTnRqbVB5RElZNkZJ?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-07-14",
-          "views": "18.0K"
-        },
-        {
           "title": "The Download: Claude’s inner workings, and the future of world models - MIT Technology Review",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOM3NTR2pydklxaktFQlhZMWFGUUVuZktxQWJVYXptUmY1MVpKcGMtd0gySEpYN2Z5TXRnbmRJRThNeTQ3bzVUaW84YUpMNjlteXZ3TFZ0VG5uWU9INUFQYjFHREI5cEZqTkRRMUpuOW9qeWhfRXZQLWMzZzRIa3IwVjFzcFRNa1pPSy11Ymh2aGJIUDU0MUV3R01mbGpiTEpsQVJXbnhjUlIyY181aU9GN20xSdIBuAFBVV95cUxPSWJhS0NhQnJJeUpqRG9fYzJnNDNmNTQwUjhHZ1dORHc3MnU3ZlRQanhMQWVJN2d2d0JLMkhxc081aGd4T1UzMEJGWG5jeVR4Y3lqb1lDM0d3OFc0VkVmallnMUdzTWFjTmhqM2p4YzVsTjVJZWV0d1lZZFhiemNkWlhwSEMwSEJhamJHcmRsR2dVVXlKSHZlVG8tTDlxSXczTlZETTROdXRCSHdTODBnbnZEamdrVWZn?oc=5\" target=\"_blank\">The Download: Claude’s inner workings, and the future of world models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MIT Technology Review</font>",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM3NTR2pydklxaktFQlhZMWFGUUVuZktxQWJVYXptUmY1MVpKcGMtd0gySEpYN2Z5TXRnbmRJRThNeTQ3bzVUaW84YUpMNjlteXZ3TFZ0VG5uWU9INUFQYjFHREI5cEZqTkRRMUpuOW9qeWhfRXZQLWMzZzRIa3IwVjFzcFRNa1pPSy11Ymh2aGJIUDU0MUV3R01mbGpiTEpsQVJXbnhjUlIyY181aU9GN20xSdIBuAFBVV95cUxPSWJhS0NhQnJJeUpqRG9fYzJnNDNmNTQwUjhHZ1dORHc3MnU3ZlRQanhMQWVJN2d2d0JLMkhxc081aGd4T1UzMEJGWG5jeVR4Y3lqb1lDM0d3OFc0VkVmallnMUdzTWFjTmhqM2p4YzVsTjVJZWV0d1lZZFhiemNkWlhwSEMwSEJhamJHcmRsR2dVVXlKSHZlVG8tTDlxSXczTlZETTROdXRCSHdTODBnbnZEamdrVWZn?oc=5",
           "source": "MIT Technology Review (AI)",
           "publishedAt": "2026-07-14",
           "views": "18.0K"
+        },
+        {
+          "title": "Small Models, Massive Wins: Shopify's New AI Formula - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQaVRwc0N0MHVWc3U5TzI1R2JhUlg2dDFyWEFQWUFFdXBubTU4aUFOUkFxQTVpNWo1dHpGQmdESjk4Qk9CdWRpUmlOX082WDhLbzNPYlV3YmkzM293alpyQy1zell3NzlERm03Vjg0eTU2VG5hYTBFcVJXeExEX2xQU1pOYmxPdw?oc=5\" target=\"_blank\">Small Models, Massive Wins: Shopify's New AI Formula</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaVRwc0N0MHVWc3U5TzI1R2JhUlg2dDFyWEFQWUFFdXBubTU4aUFOUkFxQTVpNWo1dHpGQmdESjk4Qk9CdWRpUmlOX082WDhLbzNPYlV3YmkzM293alpyQy1zell3NzlERm03Vjg0eTU2VG5hYTBFcVJXeExEX2xQU1pOYmxPdw?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-07-17",
+          "views": "13.0K"
         }
       ]
     },
@@ -80,25 +80,25 @@
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
         {
+          "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxNWU1OUG1XRnVrcVptaGt3WDFZQ2xwQlpNTDlhMXRVaXdKWlJwMzhfSzhyby0zR1prQTRvY3lFdGdQcHMtc1UzN0pRR0pRQ0c3LWFqQnd1MWlYZjdETS1oeDFqc01QMzNiaW9JaVg2dFR6YkVPMHU2MFh6OXZ6N1F4RjNHeWc3V2tIUXpweFNrM3NYdnFHbkRZaXcybWwzYVFpRW1xbzY1N3Z0b2NUVWI0V1h3dF9uRzVXeUlrdFVESUo2MU9QSGU5NFo1VmxiSi1NeC1DNUljRUQwMXl1ZDNhRDJjNDhTVy1na1R3ZnRsYm9OSGdlblltRmlPNjkwUjJXaThOVUVFR2YxZw?oc=5\" target=\"_blank\">The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNWU1OUG1XRnVrcVptaGt3WDFZQ2xwQlpNTDlhMXRVaXdKWlJwMzhfSzhyby0zR1prQTRvY3lFdGdQcHMtc1UzN0pRR0pRQ0c3LWFqQnd1MWlYZjdETS1oeDFqc01QMzNiaW9JaVg2dFR6YkVPMHU2MFh6OXZ6N1F4RjNHeWc3V2tIUXpweFNrM3NYdnFHbkRZaXcybWwzYVFpRW1xbzY1N3Z0b2NUVWI0V1h3dF9uRzVXeUlrdFVESUo2MU9QSGU5NFo1VmxiSi1NeC1DNUljRUQwMXl1ZDNhRDJjNDhTVy1na1R3ZnRsYm9OSGdlblltRmlPNjkwUjJXaThOVUVFR2YxZw?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-07-16",
+          "views": "18.0K"
+        },
+        {
+          "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOUtHdXBVdy12QmhUMzVUdEt0SHdwX2ZCbWhPY0JFTjEzUnZ4Rm5XX1FmdHNNMmNxY1ZOeF9rQWlIWWlNZlZNYURzdFFFZFhVb3ZfMTVJS001a00tR0VFRWNxakdWNUR5MzNnSVh0ZVFrY0QtcWV6NDZsVklGLUFQa0hjQXBhNjFBOTZtc1pZSUdVakZzZHZsOVA2YTVWWm0taXdZaEQyNXZHUmFNX1Q1NHNtYWlZRWNGMUM3em9lcmlXU0RWUjRySFJrUWYzanVGS01nWlVtU3J2ZllPeFVuSGRsQQ?oc=5\" target=\"_blank\">The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOUtHdXBVdy12QmhUMzVUdEt0SHdwX2ZCbWhPY0JFTjEzUnZ4Rm5XX1FmdHNNMmNxY1ZOeF9rQWlIWWlNZlZNYURzdFFFZFhVb3ZfMTVJS001a00tR0VFRWNxakdWNUR5MzNnSVh0ZVFrY0QtcWV6NDZsVklGLUFQa0hjQXBhNjFBOTZtc1pZSUdVakZzZHZsOVA2YTVWWm0taXdZaEQyNXZHUmFNX1Q1NHNtYWlZRWNGMUM3em9lcmlXU0RWUjRySFJrUWYzanVGS01nWlVtU3J2ZllPeFVuSGRsQQ?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-07-16",
+          "views": "18.0K"
+        },
+        {
           "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents - VentureBeat",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOY1JVSEV3aF94czZ6Vl91aWxZUWkyZktmR2h5T091TmJNVnFIemkzSmpXSjRoUFh4U0dldlhqYWVJNkhJTzczSDB2T1MxQjJlQzIzTnhpcEVzTHFYRjc3SWNfRTFIV3hJek9rQ292WGEyRWg2WmgyclhOd1loMDI4YXByQmVpdGFRVmF4Q21qWlJhSFBEVlI2QXo0b3JWcHQ1S3Jmd1FPX21tU2ZLR1dTQ1NVRkRKMVpKSGxoZ2JIeXNjbXI0NkpwNEh4QVQ5RlN3akhZVEI3ZE11T3NNc1JJWkY1a2lWbEpVbjB0aFhfZkhTLTVZ?oc=5\" target=\"_blank\">Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOY1JVSEV3aF94czZ6Vl91aWxZUWkyZktmR2h5T091TmJNVnFIemkzSmpXSjRoUFh4U0dldlhqYWVJNkhJTzczSDB2T1MxQjJlQzIzTnhpcEVzTHFYRjc3SWNfRTFIV3hJek9rQ292WGEyRWg2WmgyclhOd1loMDI4YXByQmVpdGFRVmF4Q21qWlJhSFBEVlI2QXo0b3JWcHQ1S3Jmd1FPX21tU2ZLR1dTQ1NVRkRKMVpKSGxoZ2JIeXNjbXI0NkpwNEh4QVQ5RlN3akhZVEI3ZE11T3NNc1JJWkY1a2lWbEpVbjB0aFhfZkhTLTVZ?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-07-15",
-          "views": "18.0K"
-        },
-        {
-          "title": "Amazon AGI director says AI agent reliability, not capability, is blocking enterprise deployment at VB Transform 2026 - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxON3lxMy1nc2p2SWtTal94M21paDVjSzBHUmdBUmhpdVExTmY5dmlyVmVUdWZUZzIxcWprREZZRHZqZnpXRDdXZ2RRdUJGa0lnUk9PanhESnRyelREUzlVcDdEY3hGQlRsWTBjb0d3RnQzYVhEUGQ0dVEtZTN1UW0tZHVMaDNJUS1QY09WOTFfYU5QQ21WMkVpTlJGZm5NVld3NmI4dHJvckxaSjJMb0hhM01BLWI0b2o4dTlsRjhiazQ1ZnRZcE9CWmxqbEQzVjEtbmFhNk9YRWVPUUl2LXN3SXJ1SkM?oc=5\" target=\"_blank\">Amazon AGI director says AI agent reliability, not capability, is blocking enterprise deployment at VB Transform 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxON3lxMy1nc2p2SWtTal94M21paDVjSzBHUmdBUmhpdVExTmY5dmlyVmVUdWZUZzIxcWprREZZRHZqZnpXRDdXZ2RRdUJGa0lnUk9PanhESnRyelREUzlVcDdEY3hGQlRsWTBjb0d3RnQzYVhEUGQ0dVEtZTN1UW0tZHVMaDNJUS1QY09WOTFfYU5QQ21WMkVpTlJGZm5NVld3NmI4dHJvckxaSjJMb0hhM01BLWI0b2o4dTlsRjhiazQ1ZnRZcE9CWmxqbEQzVjEtbmFhNk9YRWVPUUl2LXN3SXJ1SkM?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-07-15",
-          "views": "18.0K"
-        },
-        {
-          "title": "Cohere VP says enterprise AI sovereignty requires control of the full agent stack at VB Transform 2026 - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNY3NiZ2N1Sno3eC1sSWs4WEQ1VXg0NS00ZmlPazFiRUpZYl9QNmlEMGJDV2t1U2JPaWVPQ1JnaE9RS0NsYTAtRFU0MWdYM3hEUUNpUG9NRVl6eXlPclphYk5WWGJUcjhJWkppc1VaY09yQ2VXMTUyVVkwR2lBd1g4SXhrVGdqaUh2QXNrWndrSDk0ZDlRQWpDejZSQ2FhTHBzdkxEMlhDaDBzNjJvb1Ixd3Z0cjZEWTA?oc=5\" target=\"_blank\">Cohere VP says enterprise AI sovereignty requires control of the full agent stack at VB Transform 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNY3NiZ2N1Sno3eC1sSWs4WEQ1VXg0NS00ZmlPazFiRUpZYl9QNmlEMGJDV2t1U2JPaWVPQ1JnaE9RS0NsYTAtRFU0MWdYM3hEUUNpUG9NRVl6eXlPclphYk5WWGJUcjhJWkppc1VaY09yQ2VXMTUyVVkwR2lBd1g4SXhrVGdqaUh2QXNrWndrSDk0ZDlRQWpDejZSQ2FhTHBzdkxEMlhDaDBzNjJvb1Ixd3Z0cjZEWTA?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-07-15",
           "views": "18.0K"
@@ -142,27 +142,27 @@
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
         {
+          "title": "Nvidia-backed startup Fireworks valued at $17.5 billion in latest funding - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPcVMyTzJFWnJNTW9uSUk2ZEI1bmY1RHdIaGRWUzY0dHZCUEdZZDlodjZXOXlmZ25UUTRON3lqYnQ0RTdZRC1tT1M0WENucUlCQTM1c2F1b2pGZFJTS3ZyOFFLZFNFR3lVRVcwdGxJUzdRMy1od0x2ZENwSDdIeWZFdVc5cjdWLTBMamtieFlVX29STElwNnNxOU82Rk84emJZd0RQdk9qZ2lQUDJfWGFOTkxn?oc=5\" target=\"_blank\">Nvidia-backed startup Fireworks valued at $17.5 billion in latest funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcVMyTzJFWnJNTW9uSUk2ZEI1bmY1RHdIaGRWUzY0dHZCUEdZZDlodjZXOXlmZ25UUTRON3lqYnQ0RTdZRC1tT1M0WENucUlCQTM1c2F1b2pGZFJTS3ZyOFFLZFNFR3lVRVcwdGxJUzdRMy1od0x2ZENwSDdIeWZFdVc5cjdWLTBMamtieFlVX29STElwNnNxOU82Rk84emJZd0RQdk9qZ2lQUDJfWGFOTkxn?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-07-16",
+          "views": "18.0K"
+        },
+        {
+          "title": "Space startup funding holds near record highs as SpaceX IPO draws new investors - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNTVdsRWdOSmRZWWNrODBlN2RpcFh2aGdpQ0F0bE1fS3lNOFpWR1h6MnNuam1sc2xmb2VmVVhOVkNkZFhOOGY4NFJsb2JGUy14X2FCU0dSZzQteExXYmZnZFBacktleS1TdDVGaE03MjF4MWV3XzdCZFctSElNaTJZWU5JekdDN0JPNlRyYWhnLWdoWTFieVdxVFczdkxaYXJvcEducEM4bGs0NzkwLXFTeFk3OEJTT1BUT3dYaU5vY1VQZXB3VVpMeHN5MGg?oc=5\" target=\"_blank\">Space startup funding holds near record highs as SpaceX IPO draws new investors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTVdsRWdOSmRZWWNrODBlN2RpcFh2aGdpQ0F0bE1fS3lNOFpWR1h6MnNuam1sc2xmb2VmVVhOVkNkZFhOOGY4NFJsb2JGUy14X2FCU0dSZzQteExXYmZnZFBacktleS1TdDVGaE03MjF4MWV3XzdCZFctSElNaTJZWU5JekdDN0JPNlRyYWhnLWdoWTFieVdxVFczdkxaYXJvcEducEM4bGs0NzkwLXFTeFk3OEJTT1BUT3dYaU5vY1VQZXB3VVpMeHN5MGg?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-07-16",
+          "views": "18.0K"
+        },
+        {
           "title": "Gov't to closely monitor job market amid renewed Middle East tensions - The Korea Times",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNTjhqT2RRMTN2MUpRN01fYzVjRzFBdHNNNjk0bVlSSTFfTTl6a0FVamxlRExkdmk1bzBUMTF5TjBlMnhPQXpmTGFscnN4UUhQb1J4YU5uWWRBdkRfMnhSSl95WGg4NzFyX2RZYzE5Smh3b2N6bDRYQzRxbFZRSmtTMWVWVjlqMnFsZ1NvVjhoMWJMeXN1UXNua1NWOHZXcVJOdkx6SFdxVjdZNFZHTWZmWVNIYkcxUjZ0S1HSAboBQVVfeXFMTU44ak9kUTEzdjFKUTdNX2M1Y0cxQXRzTTY5NG1ZUkkxX005emtBVWpsZURMZHZpNW8wVDExeU4wZTJ4T0F6ZkxhbHJzeFFIUG9SeGFObllkQXZEXzJ4UkpfeVhoODcxcl9kWWMxOUpod29jemw0WEM0cWxWUUprUzFlVlY5ajJxbGdTb1Y4aDFiTHlzdVFzbmtTVjh2V3FSTnZMekhXcVY3WTRWR01mZllTSGJHMVI2dEtR?oc=5\" target=\"_blank\">Gov't to closely monitor job market amid renewed Middle East tensions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTjhqT2RRMTN2MUpRN01fYzVjRzFBdHNNNjk0bVlSSTFfTTl6a0FVamxlRExkdmk1bzBUMTF5TjBlMnhPQXpmTGFscnN4UUhQb1J4YU5uWWRBdkRfMnhSSl95WGg4NzFyX2RZYzE5Smh3b2N6bDRYQzRxbFZRSmtTMWVWVjlqMnFsZ1NvVjhoMWJMeXN1UXNua1NWOHZXcVJOdkx6SFdxVjdZNFZHTWZmWVNIYkcxUjZ0S1HSAboBQVVfeXFMTU44ak9kUTEzdjFKUTdNX2M1Y0cxQXRzTTY5NG1ZUkkxX005emtBVWpsZURMZHZpNW8wVDExeU4wZTJ4T0F6ZkxhbHJzeFFIUG9SeGFObllkQXZEXzJ4UkpfeVhoODcxcl9kWWMxOUpod29jemw0WEM0cWxWUUprUzFlVlY5ajJxbGdTb1Y4aDFiTHlzdVFzbmtTVjh2V3FSTnZMekhXcVY3WTRWR01mZllTSGJHMVI2dEtR?oc=5",
           "source": "The Korea Times",
           "publishedAt": "2026-07-16",
-          "views": "13.0K"
-        },
-        {
-          "title": "LGD to Review Gen 6 TFT Investment - ETNEWS",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE5oemtmNm1LT0ZjaURwWVlrZTJZcnQ2bHl3bG9TZzkyWHNieGh3MFA0TGdVaG1RdXJKTXlPQWNaWFdCMzZRYllOZDN1Ums?oc=5\" target=\"_blank\">LGD to Review Gen 6 TFT Investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5oemtmNm1LT0ZjaURwWVlrZTJZcnQ2bHl3bG9TZzkyWHNieGh3MFA0TGdVaG1RdXJKTXlPQWNaWFdCMzZRYllOZDN1Ums?oc=5",
-          "source": "전자신문",
-          "publishedAt": "2026-07-15",
-          "views": "13.0K"
-        },
-        {
-          "title": "Empty streets and restaurants at Moran Market signal end of dog meat era - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOWkzSTNNM3gwOEVYclQ1SXlnbDZIRGExSTJaYXFtRktmc2dSTncwalUzUXVyOU4wTWx6UW9NM29BaWphR3VXR2paTktkNFJnYzFJZnFhc3V5aTkyMDVFZDdueXpBTWI3czJrOTZoei02TkU0MGw2b3RFWnRydk9TdnhEZEJJZW95RDNCUGdXdjQ3MXpUZmF6WDRtVjRFVDJEOWVIUThLOWpFWHJQekM5MUtUNEZWdm1PRlZPZlNWUGg0ejMtdXYzQdIBzgFBVV95cUxON2hrMWt3emhhbUFzMVFjcmFPQkRfWml0cENNOXpKazRKOTZNRk9heHFIM2J4T182ZjJGbl9UOXo3VmRWeUdfTTRNR19DTXVyMkpCcFU2Vm12c2JJdnpGal9JUlZKU3NnNE5fcVJnQVJ6VmVwdjJjQ0dYMHpDOXVjMDRnQi1yd21lS3E3LVFjQktoOFpmVHZEaWlVSnhZaHc0OTRjWUpJNlBvRjlGOHhPcW5zaXVPRktpcVdJU1dZNmVoYVAzWXBrdzVaN3hjZw?oc=5\" target=\"_blank\">Empty streets and restaurants at Moran Market signal end of dog meat era</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOWkzSTNNM3gwOEVYclQ1SXlnbDZIRGExSTJaYXFtRktmc2dSTncwalUzUXVyOU4wTWx6UW9NM29BaWphR3VXR2paTktkNFJnYzFJZnFhc3V5aTkyMDVFZDdueXpBTWI3czJrOTZoei02TkU0MGw2b3RFWnRydk9TdnhEZEJJZW95RDNCUGdXdjQ3MXpUZmF6WDRtVjRFVDJEOWVIUThLOWpFWHJQekM5MUtUNEZWdm1PRlZPZlNWUGg0ejMtdXYzQdIBzgFBVV95cUxON2hrMWt3emhhbUFzMVFjcmFPQkRfWml0cENNOXpKazRKOTZNRk9heHFIM2J4T182ZjJGbl9UOXo3VmRWeUdfTTRNR19DTXVyMkpCcFU2Vm12c2JJdnpGal9JUlZKU3NnNE5fcVJnQVJ6VmVwdjJjQ0dYMHpDOXVjMDRnQi1yd21lS3E3LVFjQktoOFpmVHZEaWlVSnhZaHc0OTRjWUpJNlBvRjlGOHhPcW5zaXVPRktpcVdJU1dZNmVoYVAzWXBrdzVaN3hjZw?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-07-15",
           "views": "13.0K"
         }
       ]
@@ -173,27 +173,27 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
-          "title": "EU curbs on Chinese components risk halting renewables rollout in poorer countries, industry warns - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQTkp4UkdrWTRXYVNwZU5hd1hSQmloUzNtZll3UFN0cXpURjlfV19icGN6Y3psQlpLeEpKS1Q1cEV5VFZDUkJPY3dSWUVXT091N3dHa2EyTXpKTzZTRDJVRnljOWNDRnVPbC0yMmJEb2ZwUTBFSUhzUE1VMHVHMEVaNjdTRHc4WnZnN3BONTRkS2EzaHVIUlRtQ0tIM3owUDJtaS1rblFZM3VEamJtd0JTLWhfZE9LSGdxeTJiY1huYWdmcXlVOE53?oc=5\" target=\"_blank\">EU curbs on Chinese components risk halting renewables rollout in poorer countries, industry warns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTkp4UkdrWTRXYVNwZU5hd1hSQmloUzNtZll3UFN0cXpURjlfV19icGN6Y3psQlpLeEpKS1Q1cEV5VFZDUkJPY3dSWUVXT091N3dHa2EyTXpKTzZTRDJVRnljOWNDRnVPbC0yMmJEb2ZwUTBFSUhzUE1VMHVHMEVaNjdTRHc4WnZnN3BONTRkS2EzaHVIUlRtQ0tIM3owUDJtaS1rblFZM3VEamJtd0JTLWhfZE9LSGdxeTJiY1huYWdmcXlVOE53?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-07-09",
-          "views": "18.0K"
-        },
-        {
-          "title": "SAP Puts the Autonomous Enterprise at the Center of Its AI Strategy - ETNEWS",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ZSkVYZHFnaEUwUkRSTjRlcXR2N2hQRXc5WFlpaWlDcTJPYk8zdWN0akpGRzBOc21YMVA4eG1WR085cGVNQm1mUXhwSVQ?oc=5\" target=\"_blank\">SAP Puts the Autonomous Enterprise at the Center of Its AI Strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ZSkVYZHFnaEUwUkRSTjRlcXR2N2hQRXc5WFlpaWlDcTJPYk8zdWN0akpGRzBOc21YMVA4eG1WR085cGVNQm1mUXhwSVQ?oc=5",
+          "title": "S. Korea Industry Minister Warns Against Splitting Chip Profits - ETNEWS",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE5oU3ZVTW12SWc1X1NUS2hCU3BCanF5TmstR2hMMVYteWhxNHdBYURoYlZCaDBaZ1RyaTlrM0d6dWVyZzA0ZjZTbDRVZi0?oc=5\" target=\"_blank\">S. Korea Industry Minister Warns Against Splitting Chip Profits</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5oU3ZVTW12SWc1X1NUS2hCU3BCanF5TmstR2hMMVYteWhxNHdBYURoYlZCaDBaZ1RyaTlrM0d6dWVyZzA0ZjZTbDRVZi0?oc=5",
           "source": "전자신문",
-          "publishedAt": "2026-07-15",
+          "publishedAt": "2026-07-16",
           "views": "13.0K"
         },
         {
-          "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOY1JVSEV3aF94czZ6Vl91aWxZUWkyZktmR2h5T091TmJNVnFIemkzSmpXSjRoUFh4U0dldlhqYWVJNkhJTzczSDB2T1MxQjJlQzIzTnhpcEVzTHFYRjc3SWNfRTFIV3hJek9rQ292WGEyRWg2WmgyclhOd1loMDI4YXByQmVpdGFRVmF4Q21qWlJhSFBEVlI2QXo0b3JWcHQ1S3Jmd1FPX21tU2ZLR1dTQ1NVRkRKMVpKSGxoZ2JIeXNjbXI0NkpwNEh4QVQ5RlN3akhZVEI3ZE11T3NNc1JJWkY1a2lWbEpVbjB0aFhfZkhTLTVZ?oc=5\" target=\"_blank\">Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOY1JVSEV3aF94czZ6Vl91aWxZUWkyZktmR2h5T091TmJNVnFIemkzSmpXSjRoUFh4U0dldlhqYWVJNkhJTzczSDB2T1MxQjJlQzIzTnhpcEVzTHFYRjc3SWNfRTFIV3hJek9rQ292WGEyRWg2WmgyclhOd1loMDI4YXByQmVpdGFRVmF4Q21qWlJhSFBEVlI2QXo0b3JWcHQ1S3Jmd1FPX21tU2ZLR1dTQ1NVRkRKMVpKSGxoZ2JIeXNjbXI0NkpwNEh4QVQ5RlN3akhZVEI3ZE11T3NNc1JJWkY1a2lWbEpVbjB0aFhfZkhTLTVZ?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-07-15",
+          "title": "Taiwan chipmaker TSMC to spend another $100 bil. on expanding manufacturing capacity in US - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxORzF4N1RURG83ZFFXM1duQ25Tckt2ZzNwSlgtYnZRUmNMWUNxZDl2VFE5S3JMZGNTUi1VQmVWMUZkd3RNRFZ0R2ktampndWxISTNPOUlZWUJqOFdfcW5aQ3hPRmZFUFFQMFhTaGg5Zm53STVScjBHaHVPTk5KRFVuMnBrOVQ3ZVFiYnlaLUk2UVkxZEZCZ1UyQmV0Mk03Wm9RQVZudWwzclVsa3J1clRvTU9yNnpmdWwtZVZUUm9lX3A3T2MyZll1OFZ0dm85dzNWVFHSAdIBQVVfeXFMTkcxeDdUVERvN2RRVzNXbkNuU3JLdmczcEpYLWJ2UVJjTFlDcWQ5dlRROUtyTGRjU1ItVUJlVjFGZHd0TURWdEdpLWpqZ3VsSEkzTzlJWVlCajhXX3FuWkN4T0ZmRVBRUDBYU2hoOWZud0k1UnIwR2h1T05OSkRVbjJwazlUN2VRYmJ5Wi1JNlFZMWRGQmdVMkJldDJNN1pvUUFWbnVsM3JVbGtydXJUb01PcjZ6ZnVsLWVWVFJvZV9wN09jMmZZdThWdHZvOXczVlRR?oc=5\" target=\"_blank\">Taiwan chipmaker TSMC to spend another $100 bil. on expanding manufacturing capacity in US</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORzF4N1RURG83ZFFXM1duQ25Tckt2ZzNwSlgtYnZRUmNMWUNxZDl2VFE5S3JMZGNTUi1VQmVWMUZkd3RNRFZ0R2ktampndWxISTNPOUlZWUJqOFdfcW5aQ3hPRmZFUFFQMFhTaGg5Zm53STVScjBHaHVPTk5KRFVuMnBrOVQ3ZVFiYnlaLUk2UVkxZEZCZ1UyQmV0Mk03Wm9RQVZudWwzclVsa3J1clRvTU9yNnpmdWwtZVZUUm9lX3A3T2MyZll1OFZ0dm85dzNWVFHSAdIBQVVfeXFMTkcxeDdUVERvN2RRVzNXbkNuU3JLdmczcEpYLWJ2UVJjTFlDcWQ5dlRROUtyTGRjU1ItVUJlVjFGZHd0TURWdEdpLWpqZ3VsSEkzTzlJWVlCajhXX3FuWkN4T0ZmRVBRUDBYU2hoOWZud0k1UnIwR2h1T05OSkRVbjJwazlUN2VRYmJ5Wi1JNlFZMWRGQmdVMkJldDJNN1pvUUFWbnVsM3JVbGtydXJUb01PcjZ6ZnVsLWVWVFJvZV9wN09jMmZZdThWdHZvOXczVlRR?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-07-16",
+          "views": "13.0K"
+        },
+        {
+          "title": "How Orcar redefines car rental industry - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQSUxiWWl6OFRuemQtYWQ0T1gyQ3VXdWJNTk12TV95bzdYR3g0dDZOR3ZyM2cwencwWEVpLWhTSFFiaWdBOTZVQzVndTZNM2IyOUJkREU1elBqQi1IX0RGeTNiUE1JQlhnWmdJTWlzazlOWV9sTjNhQ0ctUFJWcGdVemYtN1JxSEdEX01lYzVNeFc1dHV4SmhjdWxOUXFiN2ZCMC0zUkE0Z9IBrAFBVV95cUxNWllMTlBtSTBQdGhVWndtX2RQT0lTb1p3TWx3aEx0UVBMVzVCSExqcEplWXBrTHl2bnd4UnVPdU9DR3JMTEM2RmhHSmxtTVpJNXdkenN3SzJvS3A5UjUwX2ppdVVydmt2QkdXQ0V3REFxTzJHRkx0SXV6T1JKSXUtQ192a1RGbmE4aUE4NlFBZGhJX3J4VkN1V3lackJXdlJKaTQ1UElIWDVCX3Rj?oc=5\" target=\"_blank\">How Orcar redefines car rental industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSUxiWWl6OFRuemQtYWQ0T1gyQ3VXdWJNTk12TV95bzdYR3g0dDZOR3ZyM2cwencwWEVpLWhTSFFiaWdBOTZVQzVndTZNM2IyOUJkREU1elBqQi1IX0RGeTNiUE1JQlhnWmdJTWlzazlOWV9sTjNhQ0ctUFJWcGdVemYtN1JxSEdEX01lYzVNeFc1dHV4SmhjdWxOUXFiN2ZCMC0zUkE0Z9IBrAFBVV95cUxNWllMTlBtSTBQdGhVWndtX2RQT0lTb1p3TWx3aEx0UVBMVzVCSExqcEplWXBrTHl2bnd4UnVPdU9DR3JMTEM2RmhHSmxtTVpJNXdkenN3SzJvS3A5UjUwX2ppdVVydmt2QkdXQ0V3REFxTzJHRkx0SXV6T1JKSXUtQ192a1RGbmE4aUE4NlFBZGhJX3J4VkN1V3lackJXdlJKaTQ1UElIWDVCX3Rj?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-07-16",
           "views": "13.0K"
         }
       ]
