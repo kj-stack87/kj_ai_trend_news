@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-18T03:28:39.941Z",
+  "lastUpdated": "2026-07-19T03:50:25.476Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -57,20 +57,20 @@
           "views": "23.0K"
         },
         {
-          "title": "Anthropic Measures Claude's Differing Attitudes by Model and Language - ETNEWS",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE8ySTFMekt2THRMWmVYdmVlU2tpVFJ2VHFmR09FbXBuamNoYkNWcGV1SEo2VmIyWWVsa0ZNUkVyNzJUMVBsT3Zob04yZ2s?oc=5\" target=\"_blank\">Anthropic Measures Claude's Differing Attitudes by Model and Language</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8ySTFMekt2THRMWmVYdmVlU2tpVFJ2VHFmR09FbXBuamNoYkNWcGV1SEo2VmIyWWVsa0ZNUkVyNzJUMVBsT3Zob04yZ2s?oc=5",
-          "source": "전자신문",
-          "publishedAt": "2026-07-15",
-          "views": "18.0K"
-        },
-        {
           "title": "The Download: Claude’s inner workings, and the future of world models - MIT Technology Review",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOM3NTR2pydklxaktFQlhZMWFGUUVuZktxQWJVYXptUmY1MVpKcGMtd0gySEpYN2Z5TXRnbmRJRThNeTQ3bzVUaW84YUpMNjlteXZ3TFZ0VG5uWU9INUFQYjFHREI5cEZqTkRRMUpuOW9qeWhfRXZQLWMzZzRIa3IwVjFzcFRNa1pPSy11Ymh2aGJIUDU0MUV3R01mbGpiTEpsQVJXbnhjUlIyY181aU9GN20xSdIBuAFBVV95cUxPSWJhS0NhQnJJeUpqRG9fYzJnNDNmNTQwUjhHZ1dORHc3MnU3ZlRQanhMQWVJN2d2d0JLMkhxc081aGd4T1UzMEJGWG5jeVR4Y3lqb1lDM0d3OFc0VkVmallnMUdzTWFjTmhqM2p4YzVsTjVJZWV0d1lZZFhiemNkWlhwSEMwSEJhamJHcmRsR2dVVXlKSHZlVG8tTDlxSXczTlZETTROdXRCSHdTODBnbnZEamdrVWZn?oc=5\" target=\"_blank\">The Download: Claude’s inner workings, and the future of world models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MIT Technology Review</font>",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM3NTR2pydklxaktFQlhZMWFGUUVuZktxQWJVYXptUmY1MVpKcGMtd0gySEpYN2Z5TXRnbmRJRThNeTQ3bzVUaW84YUpMNjlteXZ3TFZ0VG5uWU9INUFQYjFHREI5cEZqTkRRMUpuOW9qeWhfRXZQLWMzZzRIa3IwVjFzcFRNa1pPSy11Ymh2aGJIUDU0MUV3R01mbGpiTEpsQVJXbnhjUlIyY181aU9GN20xSdIBuAFBVV95cUxPSWJhS0NhQnJJeUpqRG9fYzJnNDNmNTQwUjhHZ1dORHc3MnU3ZlRQanhMQWVJN2d2d0JLMkhxc081aGd4T1UzMEJGWG5jeVR4Y3lqb1lDM0d3OFc0VkVmallnMUdzTWFjTmhqM2p4YzVsTjVJZWV0d1lZZFhiemNkWlhwSEMwSEJhamJHcmRsR2dVVXlKSHZlVG8tTDlxSXczTlZETTROdXRCSHdTODBnbnZEamdrVWZn?oc=5",
           "source": "MIT Technology Review (AI)",
           "publishedAt": "2026-07-14",
           "views": "18.0K"
+        },
+        {
+          "title": "How Google’s New Gemini Rates Work and How to Track Your Usage - WIRED",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQMzlfYzR4ZnZEU1p1akF0SWFIV0NZOUp1bWNBOGZNenRjY0lOSnA5Z1I1SWliR1NoNTB0RzNwaEU3NXo3YWhuNTBSc2FRMktjSmhOdXhaT1o3My1XT2dtSFZOUnEyb0xHWHg4VHBTVDdxWmh0MVc5WG1kVFdVS1dEUWljMG5WLU5KNHpYZ3lsX0tRMmpl?oc=5\" target=\"_blank\">How Google’s New Gemini Rates Work and How to Track Your Usage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMzlfYzR4ZnZEU1p1akF0SWFIV0NZOUp1bWNBOGZNenRjY0lOSnA5Z1I1SWliR1NoNTB0RzNwaEU3NXo3YWhuNTBSc2FRMktjSmhOdXhaT1o3My1XT2dtSFZOUnEyb0xHWHg4VHBTVDdxWmh0MVc5WG1kVFdVS1dEUWljMG5WLU5KNHpYZ3lsX0tRMmpl?oc=5",
+          "source": "WIRED AI",
+          "publishedAt": "2026-07-18",
+          "views": "13.0K"
         }
       ]
     },
@@ -119,19 +119,19 @@
           "views": "18.0K"
         },
         {
-          "title": "[CONTRIBUTION] Korean bank buffers ready to absorb macro, policy shifts in 2nd half - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPZ3NBZTg4MHIzTU5IZnhWY09CN242T0xPNkw4NWdXYnRERHZNaGROVkJwUGtUdFcxVER2QVBrT0NEQjlaMXZzc19jdm5HaFE4cVRxS1NjR0luRDRZRjYxS2N0ZzE0aTFoQlpYRU9VcTRwVTBndklEMV8xUnRfZm01U0oyeFMzS09PdkxKVkFYcDNtZld6RXhsVVZzeDJUYkNvVUhTWUZmWEpiVjNubW16ajNONER1RkJrYnZ3eVc0NmtCclcwU1RPZDNYSHYxZDDSAc8BQVVfeXFMT2dzQWU4ODByM01OSGZ4VmNPQjduNk9MTzZMODVnV2J0RER2TWhkTlZCcFBrVHRXMVREdkFQa09DREI5WjF2c3NfY3ZuR2hROHFUcUtTY0dJbkQ0WUY2MUtjdGcxNGkxaEJaWEVPVXE0cFUwZ3ZJRDFfMVJ0X2ZtNVNKMnhTM0tPT3ZMSlZBWHAzbWZXekV4bFVWc3gyVGJDb1VIU1lGZlhKYlYzbm1temozTjREdUZCa2J2d3lXNDZrQnJXMFNUT2QzWEh2MWQw?oc=5\" target=\"_blank\">[CONTRIBUTION] Korean bank buffers ready to absorb macro, policy shifts in 2nd half</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZ3NBZTg4MHIzTU5IZnhWY09CN242T0xPNkw4NWdXYnRERHZNaGROVkJwUGtUdFcxVER2QVBrT0NEQjlaMXZzc19jdm5HaFE4cVRxS1NjR0luRDRZRjYxS2N0ZzE0aTFoQlpYRU9VcTRwVTBndklEMV8xUnRfZm01U0oyeFMzS09PdkxKVkFYcDNtZld6RXhsVVZzeDJUYkNvVUhTWUZmWEpiVjNubW16ajNONER1RkJrYnZ3eVc0NmtCclcwU1RPZDNYSHYxZDDSAc8BQVVfeXFMT2dzQWU4ODByM01OSGZ4VmNPQjduNk9MTzZMODVnV2J0RER2TWhkTlZCcFBrVHRXMVREdkFQa09DREI5WjF2c3NfY3ZuR2hROHFUcUtTY0dJbkQ0WUY2MUtjdGcxNGkxaEJaWEVPVXE0cFUwZ3ZJRDFfMVJ0X2ZtNVNKMnhTM0tPT3ZMSlZBWHAzbWZXekV4bFVWc3gyVGJDb1VIU1lGZlhKYlYzbm1temozTjREdUZCa2J2d3lXNDZrQnJXMFNUT2QzWEh2MWQw?oc=5",
+          "title": "Todd Blanche hasn't stopped putting Trump ahead of the law. That's why he can't be attorney general - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdk5SM3l6NmJCNGhqT1pxQ1NLcklQMDJVelpremZydkd2eGpaek5UdEdEOE0tWC1KRlpHa19kT2xPU085Smo0RWlmWDd5bHhnRzhVSDVDMzVEd2xRS3JYYlVDaXAwSjFKeTEwRnRJMDZZLVgxNVdEMXJRZFNOWG9Fa2pWOExubXhVUHdJMFd3N0gwYW5QLVFTQTlyWTZkVE9yYXd2al9XR1lZMlVnWmRBVHgzdlRVSzZpMmlhbURnb3MyVDNSMVd4M21VRFVfTk9XOW5qZ3p0eWlKRjJMS0HSAd4BQVVfeXFMTXZOUjN5ejZiQjRoak9acUNTS3JJUDAyVXpaa3pmcnZHdnhqWnpOVHRHRDhNLVgtSkZaR2tfZE9sT1NPOUpqNEVpZlg3eWx4Z0c4VUg1QzM1RHdsUUtyWGJVQ2lwMEoxSnkxMEZ0STA2WS1YMTVXRDFyUWRTTlhvRWtqVjhMbm14VVB3STBXdzdIMGFuUC1RU0E5clk2ZFRPcmF3dmpfV0dZWTJVZ1pkQVR4M3ZUVUs2aTJpYW1EZ29zMlQzUjFXeDNtVURVX05PVzluamd6dHlpSkYyTEtB?oc=5\" target=\"_blank\">Todd Blanche hasn't stopped putting Trump ahead of the law. That's why he can't be attorney general</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdk5SM3l6NmJCNGhqT1pxQ1NLcklQMDJVelpremZydkd2eGpaek5UdEdEOE0tWC1KRlpHa19kT2xPU085Smo0RWlmWDd5bHhnRzhVSDVDMzVEd2xRS3JYYlVDaXAwSjFKeTEwRnRJMDZZLVgxNVdEMXJRZFNOWG9Fa2pWOExubXhVUHdJMFd3N0gwYW5QLVFTQTlyWTZkVE9yYXd2al9XR1lZMlVnWmRBVHgzdlRVSzZpMmlhbURnb3MyVDNSMVd4M21VRFVfTk9XOW5qZ3p0eWlKRjJMS0HSAd4BQVVfeXFMTXZOUjN5ejZiQjRoak9acUNTS3JJUDAyVXpaa3pmcnZHdnhqWnpOVHRHRDhNLVgtSkZaR2tfZE9sT1NPOUpqNEVpZlg3eWx4Z0c4VUg1QzM1RHdsUUtyWGJVQ2lwMEoxSnkxMEZ0STA2WS1YMTVXRDFyUWRTTlhvRWtqVjhMbm14VVB3STBXdzdIMGFuUC1RU0E5clk2ZFRPcmF3dmpfV0dZWTJVZ1pkQVR4M3ZUVUs2aTJpYW1EZ29zMlQzUjFXeDNtVURVX05PVzluamd6dHlpSkYyTEtB?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-07-17",
+          "publishedAt": "2026-07-19",
           "views": "13.0K"
         },
         {
-          "title": "The risk of weather data sabotage is rising - MIT Technology Review",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5xZmxoNVQyZloyTFU0UWR0ZWc2dmR4NUFJRE1NWGpZS2c2aGJneG1QdVNPWHVGbUhSV0xrempEZ1E1R3pHNmFLQTBvSFQ3U2NqVE43MlBMcmR4Vlppd254MWtJS0xxZzRfQ3l0eDBjdmdrVjVSZm9kUVRobF9UTEnSAYQBQVVfeXFMTXRDYi1qcUtvNWhaLW56bW53Wlp6Y2pSb3UyRXA2UGU4VWRTSWoyWUVsR0F5WEdDMndCQ0RrR2cwdEFQTmRnWDRjdGptOElwbVNzMlpPajJJYkxiazZDMXRrUG5LbW10VDFwamh2R3N3NE15TlVaNml6LTNQOWE0SFVRa0Y5?oc=5\" target=\"_blank\">The risk of weather data sabotage is rising</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MIT Technology Review</font>",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xZmxoNVQyZloyTFU0UWR0ZWc2dmR4NUFJRE1NWGpZS2c2aGJneG1QdVNPWHVGbUhSV0xrempEZ1E1R3pHNmFLQTBvSFQ3U2NqVE43MlBMcmR4Vlppd254MWtJS0xxZzRfQ3l0eDBjdmdrVjVSZm9kUVRobF9UTEnSAYQBQVVfeXFMTXRDYi1qcUtvNWhaLW56bW53Wlp6Y2pSb3UyRXA2UGU4VWRTSWoyWUVsR0F5WEdDMndCQ0RrR2cwdEFQTmRnWDRjdGptOElwbVNzMlpPajJJYkxiazZDMXRrUG5LbW10VDFwamh2R3N3NE15TlVaNml6LTNQOWE0SFVRa0Y5?oc=5",
-          "source": "MIT Technology Review (AI)",
-          "publishedAt": "2026-07-17",
+          "title": "Hungary's president signs law change ending his term in office - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNRExvZWZaR0NUN0NMcHg1UTR0TnMwWC1aYlhTcW9XamNiSHVxU1JFa1pMMnc0cWkxNEdGVS1rU2F3Ui04YjFjUmtlaXEyTXdFVmtwYkZmbmdsdFJqSVg2TzNuZlJ2Nnc3cWtwenB0SGdTWlZfUWhIYlRTWTdEcV9QcjRVblBmT293YlZoZW5PdW5rczMwZVFROERVdVFkbmZWX2c?oc=5\" target=\"_blank\">Hungary's president signs law change ending his term in office</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRExvZWZaR0NUN0NMcHg1UTR0TnMwWC1aYlhTcW9XamNiSHVxU1JFa1pMMnc0cWkxNEdGVS1rU2F3Ui04YjFjUmtlaXEyTXdFVmtwYkZmbmdsdFJqSVg2TzNuZlJ2Nnc3cWtwenB0SGdTWlZfUWhIYlRTWTdEcV9QcjRVblBmT293YlZoZW5PdW5rczMwZVFROERVdVFkbmZWX2c?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-07-18",
           "views": "13.0K"
         }
       ]
@@ -173,6 +173,14 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
+          "title": "Telecom Italia board backs Poste's takeover offer - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQcTdlRG5WdjdSanBPZXUtVWpCbWRrMWoxOEpwWVRJdDBRMW9hSzFjd0JGMkxKQV9jT1RKRHJxY1FTa3MtTVF3VWd1b19QMDk0cDRXM0c4NUVPZXYwanNFS0JZOG1BbXNJMFd1anp0WHgybzRIOTNkNmFtRlFRU1Qtellfek9OaEszdl84WG1VSnhvOUxRSkI0TQ?oc=5\" target=\"_blank\">Telecom Italia board backs Poste's takeover offer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcTdlRG5WdjdSanBPZXUtVWpCbWRrMWoxOEpwWVRJdDBRMW9hSzFjd0JGMkxKQV9jT1RKRHJxY1FTa3MtTVF3VWd1b19QMDk0cDRXM0c4NUVPZXYwanNFS0JZOG1BbXNJMFd1anp0WHgybzRIOTNkNmFtRlFRU1Qtellfek9OaEszdl84WG1VSnhvOUxRSkI0TQ?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-07-18",
+          "views": "13.0K"
+        },
+        {
           "title": "A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War - WIRED",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPTWE3T3hOTUFjc3NIbmZMRHJHRlpWTGs4RWM1QmFQM3dSVGswOWRRbzl5Vzl4OExJOWUxMlFUNEt2NjA5VFVEanZQanpmOHQ1NG04M3E4TDhaS3dMam1fYXVtUFRSTHBCZGdkckw4WmpDVUhIMHB4VzhuYjZ6ZFVKYUpMWVBTSHNfaklMQWlWMV9PRXNfWVE?oc=5\" target=\"_blank\">A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTWE3T3hOTUFjc3NIbmZMRHJHRlpWTGs4RWM1QmFQM3dSVGswOWRRbzl5Vzl4OExJOWUxMlFUNEt2NjA5VFVEanZQanpmOHQ1NG04M3E4TDhaS3dMam1fYXVtUFRSTHBCZGdkckw4WmpDVUhIMHB4VzhuYjZ6ZFVKYUpMWVBTSHNfaklMQWlWMV9PRXNfWVE?oc=5",
@@ -184,14 +192,6 @@
           "title": "Apple unseats Nvidia to become world's most valuable company as AI bets shift - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ0dxV3BmWDRMVmZLTHI0bWpNR2hCVTVfdWloZGRCdnZxTUZNNnBQMGs1bm9oVGpiZVVtclBiNkIxQjF5NlFJY2JjalR4cTIyVEg1TVAycGZpakdXQUxZWEtZWEdMemFhVXFDX2RPX21HV05QMnpVU0REaFpOYjlUVVROV09RdFFURmdVS1FUeFRRcUtoZHdTd3ZKRjNjWVk?oc=5\" target=\"_blank\">Apple unseats Nvidia to become world's most valuable company as AI bets shift</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ0dxV3BmWDRMVmZLTHI0bWpNR2hCVTVfdWloZGRCdnZxTUZNNnBQMGs1bm9oVGpiZVVtclBiNkIxQjF5NlFJY2JjalR4cTIyVEg1TVAycGZpakdXQUxZWEtZWEdMemFhVXFDX2RPX21HV05QMnpVU0REaFpOYjlUVVROV09RdFFURmdVS1FUeFRRcUtoZHdTd3ZKRjNjWVk?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-07-17",
-          "views": "13.0K"
-        },
-        {
-          "title": "EU softens carbon market to ease pressure on industry - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOYS1kcGtvX2FiY0N0Rl9Ta0txX19fcUZJU3VWMDdqLU51Y1hpVmtyZ040UERmSzJROWdMVWZ4ZlhoRFVRY2V2R3NPRERFTWJvQU51VkkxZkVGMTlzYTJZaURHWmd6V1dwMWxpdGxneUpkby1YekZMdzFnRHJUVlNRZ1Bkdk5lanlhMTNqNy0wZnQ0MldNNHRpMHc5LXpETWtMZm8xRzN3?oc=5\" target=\"_blank\">EU softens carbon market to ease pressure on industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYS1kcGtvX2FiY0N0Rl9Ta0txX19fcUZJU3VWMDdqLU51Y1hpVmtyZ040UERmSzJROWdMVWZ4ZlhoRFVRY2V2R3NPRERFTWJvQU51VkkxZkVGMTlzYTJZaURHWmd6V1dwMWxpdGxneUpkby1YekZMdzFnRHJUVlNRZ1Bkdk5lanlhMTNqNy0wZnQ0MldNNHRpMHc5LXpETWtMZm8xRzN3?oc=5",
           "source": "Reuters AI",
           "publishedAt": "2026-07-17",
           "views": "13.0K"
