@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-20T04:01:10.570Z",
+  "lastUpdated": "2026-07-21T03:41:38.068Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,6 +49,14 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
+          "title": "Google plans new chip to run Gemini models more efficiently, the Information reports - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPOU1rMGpSd0lvTDE3aFVId2tXRG04enY0ek9mcDFyR09IVm1TUE1tTEVrR0FuUWpPcnpJbmR5cGQzeFNBZFlBWjdwUE1PSGJFUkpEZ1NwalMxRGhmdjJtYTVaeTh4Mlotek5NOE9YNzRMbERhaVFHQndLSC01cnpVSjlzRHVYV3J2eWtfVkgwZzVuWVFETUNPbkZzeXBzamJ0UHpyNGlRaEItTmpqT05ubE1heGFVcmNIWS05UkR3?oc=5\" target=\"_blank\">Google plans new chip to run Gemini models more efficiently, the Information reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOU1rMGpSd0lvTDE3aFVId2tXRG04enY0ek9mcDFyR09IVm1TUE1tTEVrR0FuUWpPcnpJbmR5cGQzeFNBZFlBWjdwUE1PSGJFUkpEZ1NwalMxRGhmdjJtYTVaeTh4Mlotek5NOE9YNzRMbERhaVFHQndLSC01cnpVSjlzRHVYV3J2eWtfVkgwZzVuWVFETUNPbkZzeXBzamJ0UHpyNGlRaEItTmpqT05ubE1heGFVcmNIWS05UkR3?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-07-20",
+          "views": "23.0K"
+        },
+        {
           "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer - MIT Technology Review",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaEZNa3ZZZUpGMGRLajIyY2pLTjduZmhTVHp1Q0VkNEl0X0lGVUs3aXRfb1lrRjlWSS1IckF0MV80X0Rxb2o0MU1VbU8zVVlNMElnOWhjdGp4Zlp3ZkRuOGlodnpwZmhJOWpvYnB6WVd0OXhnR2J1MHlFWUZ0ZlJ1cUpWTjFkMU1qV0JzZFBDZUVMRTFoVzhSZWNRWXZVTFdxRk1HMFhUYlpRQkRNdnZGNWFiS0h5VVFCNlNzMlRrdV_SAcYBQVVfeXFMTWtlMlUwMFM4STZCMTRXVlg5VngxWU04cVRndWRmdlRhWTM3aV9ZUHB1TFNSa0hpTmpQUFltTTc4ZGhFMFhNNTVYdGRHLTRFbUo3Qm9JaE8xZGktVTh2LUhGMU55QWQ0WWRmY1NSdm45a0JWbXptZ0NBYWgzTV9UQ0N0ZzBveUVoQ2VRZnc4V3VCYTMyUlVhSk9sMG1xR1hYMnZLUmUzbmZZOFllQ1dET1FTTHRCMGpIQWhtQXRqSmtYZWdBS2R3?oc=5\" target=\"_blank\">Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MIT Technology Review</font>",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaEZNa3ZZZUpGMGRLajIyY2pLTjduZmhTVHp1Q0VkNEl0X0lGVUs3aXRfb1lrRjlWSS1IckF0MV80X0Rxb2o0MU1VbU8zVVlNMElnOWhjdGp4Zlp3ZkRuOGlodnpwZmhJOWpvYnB6WVd0OXhnR2J1MHlFWUZ0ZlJ1cUpWTjFkMU1qV0JzZFBDZUVMRTFoVzhSZWNRWXZVTFdxRk1HMFhUYlpRQkRNdnZGNWFiS0h5VVFCNlNzMlRrdV_SAcYBQVVfeXFMTWtlMlUwMFM4STZCMTRXVlg5VngxWU04cVRndWRmdlRhWTM3aV9ZUHB1TFNSa0hpTmpQUFltTTc4ZGhFMFhNNTVYdGRHLTRFbUo3Qm9JaE8xZGktVTh2LUhGMU55QWQ0WWRmY1NSdm45a0JWbXptZ0NBYWgzTV9UQ0N0ZzBveUVoQ2VRZnc4V3VCYTMyUlVhSk9sMG1xR1hYMnZLUmUzbmZZOFllQ1dET1FTTHRCMGpIQWhtQXRqSmtYZWdBS2R3?oc=5",
@@ -57,20 +65,12 @@
           "views": "23.0K"
         },
         {
-          "title": "The Download: Claude’s inner workings, and the future of world models - MIT Technology Review",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOM3NTR2pydklxaktFQlhZMWFGUUVuZktxQWJVYXptUmY1MVpKcGMtd0gySEpYN2Z5TXRnbmRJRThNeTQ3bzVUaW84YUpMNjlteXZ3TFZ0VG5uWU9INUFQYjFHREI5cEZqTkRRMUpuOW9qeWhfRXZQLWMzZzRIa3IwVjFzcFRNa1pPSy11Ymh2aGJIUDU0MUV3R01mbGpiTEpsQVJXbnhjUlIyY181aU9GN20xSdIBuAFBVV95cUxPSWJhS0NhQnJJeUpqRG9fYzJnNDNmNTQwUjhHZ1dORHc3MnU3ZlRQanhMQWVJN2d2d0JLMkhxc081aGd4T1UzMEJGWG5jeVR4Y3lqb1lDM0d3OFc0VkVmallnMUdzTWFjTmhqM2p4YzVsTjVJZWV0d1lZZFhiemNkWlhwSEMwSEJhamJHcmRsR2dVVXlKSHZlVG8tTDlxSXczTlZETTROdXRCSHdTODBnbnZEamdrVWZn?oc=5\" target=\"_blank\">The Download: Claude’s inner workings, and the future of world models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MIT Technology Review</font>",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM3NTR2pydklxaktFQlhZMWFGUUVuZktxQWJVYXptUmY1MVpKcGMtd0gySEpYN2Z5TXRnbmRJRThNeTQ3bzVUaW84YUpMNjlteXZ3TFZ0VG5uWU9INUFQYjFHREI5cEZqTkRRMUpuOW9qeWhfRXZQLWMzZzRIa3IwVjFzcFRNa1pPSy11Ymh2aGJIUDU0MUV3R01mbGpiTEpsQVJXbnhjUlIyY181aU9GN20xSdIBuAFBVV95cUxPSWJhS0NhQnJJeUpqRG9fYzJnNDNmNTQwUjhHZ1dORHc3MnU3ZlRQanhMQWVJN2d2d0JLMkhxc081aGd4T1UzMEJGWG5jeVR4Y3lqb1lDM0d3OFc0VkVmallnMUdzTWFjTmhqM2p4YzVsTjVJZWV0d1lZZFhiemNkWlhwSEMwSEJhamJHcmRsR2dVVXlKSHZlVG8tTDlxSXczTlZETTROdXRCSHdTODBnbnZEamdrVWZn?oc=5",
-          "source": "MIT Technology Review (AI)",
-          "publishedAt": "2026-07-14",
-          "views": "18.0K"
-        },
-        {
-          "title": "Seoul shares extend losses late Monday morning on extended chip rout - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNbC03VEJob1lXci1UcVBTWEpxNlJuRHR2RTYyU0FHVWttNlVSbXZxUktUNjN2NkRTUEtsOGcxLXdYU1otMHFRNDhJUHNmNmFsNFNJRVV6U01fdmJ2TTZPM2VibG5JbTRRNWVRWmpxZ0xUQTktMnYxZnJwUUNuZjd5alk5XzRsV082NVJDQXp5NDUzSExWaEV5UmxXUzJESVRhajZsWjJGWmkzVS1reGRSbUZ2MnU2SV9VaHfSAboBQVVfeXFMTWwtN1RCaG9ZV3ItVHFQU1hKcTZSbkR0dkU2MlNBR1VrbTZVUm12cVJLVDYzdjZEU1BLbDhnMS13WFNaLTBxUTQ4SVBzZjZhbDRTSUVVelNNX3Zidk02TzNlYmxuSW00UTVlUVpqcWdMVEE5LTJ2MWZycFFDbmY3eWpZOV80bFdPNjVSQ0F6eTQ1M0hMVmhFeVJsV1MyRElUYWo2bFoyRlppM1Uta3hkUm1GdjJ1NklfVWh3?oc=5\" target=\"_blank\">Seoul shares extend losses late Monday morning on extended chip rout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbC03VEJob1lXci1UcVBTWEpxNlJuRHR2RTYyU0FHVWttNlVSbXZxUktUNjN2NkRTUEtsOGcxLXdYU1otMHFRNDhJUHNmNmFsNFNJRVV6U01fdmJ2TTZPM2VibG5JbTRRNWVRWmpxZ0xUQTktMnYxZnJwUUNuZjd5alk5XzRsV082NVJDQXp5NDUzSExWaEV5UmxXUzJESVRhajZsWjJGWmkzVS1reGRSbUZ2MnU2SV9VaHfSAboBQVVfeXFMTWwtN1RCaG9ZV3ItVHFQU1hKcTZSbkR0dkU2MlNBR1VrbTZVUm12cVJLVDYzdjZEU1BLbDhnMS13WFNaLTBxUTQ4SVBzZjZhbDRTSUVVelNNX3Zidk02TzNlYmxuSW00UTVlUVpqcWdMVEE5LTJ2MWZycFFDbmY3eWpZOV80bFdPNjVSQ0F6eTQ1M0hMVmhFeVJsV1MyRElUYWo2bFoyRlppM1Uta3hkUm1GdjJ1NklfVWh3?oc=5",
+          "title": "Gov't to launch security-focused AI model for public sector this year - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQOEppc3Q3NnFKQ3hJQzJKYlRTWC1KSk16cTVlR3dWeF9RckVaaG9rcmlwWkQwb2w3Y3pBX0hRMmVweU5HMTJpS2d5NUJrSFR5emdqM3YzYzh6WGswUHBpU0xzb25PSmltZWgtWDlMc3RNNFdxVkNOWE9XRVp0OHd5cm1ZNkdwa2J6aURjWDRpZkJPeWkzb2c1a0tRX2JMbmhEd2NyRllmQWVNQzJfREpTcDBKckNodVZHTldGdHNPQi05OEdCMmlv0gHMAUFVX3lxTE1LclJxd3BmNEQ1RVY0UGVJdG9vUWJlVjV6VDhFbl9vajEyNng3ZENzQXlTUkdROUJuSkNTZWl3ekVBaUNsVy16ZUFpYmxyakNreTVyQkN0TFY2R2lrTFA3Y0lZWEtvRkFiOWJyam92VGpGdllUSUJWZUdCS1lZZmFFdGRkMEluVk95cHd2OGdFSzdndENuMnJhNWRGV3RSczdjUFc1bDVoTXoyS3NOalBpLUs2ZFUxRnExMDExTGNkMFBBZVVZQlh3ejZ1eg?oc=5\" target=\"_blank\">Gov't to launch security-focused AI model for public sector this year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOEppc3Q3NnFKQ3hJQzJKYlRTWC1KSk16cTVlR3dWeF9RckVaaG9rcmlwWkQwb2w3Y3pBX0hRMmVweU5HMTJpS2d5NUJrSFR5emdqM3YzYzh6WGswUHBpU0xzb25PSmltZWgtWDlMc3RNNFdxVkNOWE9XRVp0OHd5cm1ZNkdwa2J6aURjWDRpZkJPeWkzb2c1a0tRX2JMbmhEd2NyRllmQWVNQzJfREpTcDBKckNodVZHTldGdHNPQi05OEdCMmlv0gHMAUFVX3lxTE1LclJxd3BmNEQ1RVY0UGVJdG9vUWJlVjV6VDhFbl9vajEyNng3ZENzQXlTUkdROUJuSkNTZWl3ekVBaUNsVy16ZUFpYmxyakNreTVyQkN0TFY2R2lrTFA3Y0lZWEtvRkFiOWJyam92VGpGdllUSUJWZUdCS1lZZmFFdGRkMEluVk95cHd2OGdFSzdndENuMnJhNWRGV3RSczdjUFc1bDVoTXoyS3NOalBpLUs2ZFUxRnExMDExTGNkMFBBZVVZQlh3ejZ1eg?oc=5",
           "source": "The Korea Times",
           "publishedAt": "2026-07-20",
-          "views": "13.0K"
+          "views": "18.0K"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
         {
-          "title": "AI agent infrastructure: 3 enterprise fixes - Venturebeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxOZDEybGFzemJUYWJ4UEZ0UzlnU1BodU9Cd3FlazBaYXVJVmlOS3JSRXA5Y3V0UDFTdmFVRUxjUGVzaGN1SmpJRG9qTEZPdktmSGZvenRXTnlSbHo1SlJ4Z3BZTU1NTjFGSXhtTjBUczUzeU5jeS1Yc2ZPWmZZNk5BeGZJSzNzcG5DRl9RQk1wdy1rckwtNWV6ei0wUUE4Yk0ybzNlc1hwZjJ1UU80U2JHRHQxNjhQRTVFMlBiUzVwTHNFSFMtOTBjMHQ4cXM0SXpJZ0xlUDNmMDh3SmZuODNPbTRhUldEOU1aMS1JMXZEMWhTc1VaNW5QU1RBcw?oc=5\" target=\"_blank\">AI agent infrastructure: 3 enterprise fixes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Venturebeat</font>",
+          "title": "AI agent infrastructure: 3 enterprise fixes - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxOZDEybGFzemJUYWJ4UEZ0UzlnU1BodU9Cd3FlazBaYXVJVmlOS3JSRXA5Y3V0UDFTdmFVRUxjUGVzaGN1SmpJRG9qTEZPdktmSGZvenRXTnlSbHo1SlJ4Z3BZTU1NTjFGSXhtTjBUczUzeU5jeS1Yc2ZPWmZZNk5BeGZJSzNzcG5DRl9RQk1wdy1rckwtNWV6ei0wUUE4Yk0ybzNlc1hwZjJ1UU80U2JHRHQxNjhQRTVFMlBiUzVwTHNFSFMtOTBjMHQ4cXM0SXpJZ0xlUDNmMDh3SmZuODNPbTRhUldEOU1aMS1JMXZEMWhTc1VaNW5QU1RBcw?oc=5\" target=\"_blank\">AI agent infrastructure: 3 enterprise fixes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOZDEybGFzemJUYWJ4UEZ0UzlnU1BodU9Cd3FlazBaYXVJVmlOS3JSRXA5Y3V0UDFTdmFVRUxjUGVzaGN1SmpJRG9qTEZPdktmSGZvenRXTnlSbHo1SlJ4Z3BZTU1NTjFGSXhtTjBUczUzeU5jeS1Yc2ZPWmZZNk5BeGZJSzNzcG5DRl9RQk1wdy1rckwtNWV6ei0wUUE4Yk0ybzNlc1hwZjJ1UU80U2JHRHQxNjhQRTVFMlBiUzVwTHNFSFMtOTBjMHQ4cXM0SXpJZ0xlUDNmMDh3SmZuODNPbTRhUldEOU1aMS1JMXZEMWhTc1VaNW5QU1RBcw?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-07-17",
           "views": "18.0K"
         },
         {
-          "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials - Venturebeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOUtHdXBVdy12QmhUMzVUdEt0SHdwX2ZCbWhPY0JFTjEzUnZ4Rm5XX1FmdHNNMmNxY1ZOeF9rQWlIWWlNZlZNYURzdFFFZFhVb3ZfMTVJS001a00tR0VFRWNxakdWNUR5MzNnSVh0ZVFrY0QtcWV6NDZsVklGLUFQa0hjQXBhNjFBOTZtc1pZSUdVakZzZHZsOVA2YTVWWm0taXdZaEQyNXZHUmFNX1Q1NHNtYWlZRWNGMUM3em9lcmlXU0RWUjRySFJrUWYzanVGS01nWlVtU3J2ZllPeFVuSGRsQQ?oc=5\" target=\"_blank\">The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Venturebeat</font>",
+          "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOUtHdXBVdy12QmhUMzVUdEt0SHdwX2ZCbWhPY0JFTjEzUnZ4Rm5XX1FmdHNNMmNxY1ZOeF9rQWlIWWlNZlZNYURzdFFFZFhVb3ZfMTVJS001a00tR0VFRWNxakdWNUR5MzNnSVh0ZVFrY0QtcWV6NDZsVklGLUFQa0hjQXBhNjFBOTZtc1pZSUdVakZzZHZsOVA2YTVWWm0taXdZaEQyNXZHUmFNX1Q1NHNtYWlZRWNGMUM3em9lcmlXU0RWUjRySFJrUWYzanVGS01nWlVtU3J2ZllPeFVuSGRsQQ?oc=5\" target=\"_blank\">The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOUtHdXBVdy12QmhUMzVUdEt0SHdwX2ZCbWhPY0JFTjEzUnZ4Rm5XX1FmdHNNMmNxY1ZOeF9rQWlIWWlNZlZNYURzdFFFZFhVb3ZfMTVJS001a00tR0VFRWNxakdWNUR5MzNnSVh0ZVFrY0QtcWV6NDZsVklGLUFQa0hjQXBhNjFBOTZtc1pZSUdVakZzZHZsOVA2YTVWWm0taXdZaEQyNXZHUmFNX1Q1NHNtYWlZRWNGMUM3em9lcmlXU0RWUjRySFJrUWYzanVGS01nWlVtU3J2ZllPeFVuSGRsQQ?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-07-16",
           "views": "18.0K"
         },
         {
-          "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway - Venturebeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxNWU1OUG1XRnVrcVptaGt3WDFZQ2xwQlpNTDlhMXRVaXdKWlJwMzhfSzhyby0zR1prQTRvY3lFdGdQcHMtc1UzN0pRR0pRQ0c3LWFqQnd1MWlYZjdETS1oeDFqc01QMzNiaW9JaVg2dFR6YkVPMHU2MFh6OXZ6N1F4RjNHeWc3V2tIUXpweFNrM3NYdnFHbkRZaXcybWwzYVFpRW1xbzY1N3Z0b2NUVWI0V1h3dF9uRzVXeUlrdFVESUo2MU9QSGU5NFo1VmxiSi1NeC1DNUljRUQwMXl1ZDNhRDJjNDhTVy1na1R3ZnRsYm9OSGdlblltRmlPNjkwUjJXaThOVUVFR2YxZw?oc=5\" target=\"_blank\">The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Venturebeat</font>",
+          "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxNWU1OUG1XRnVrcVptaGt3WDFZQ2xwQlpNTDlhMXRVaXdKWlJwMzhfSzhyby0zR1prQTRvY3lFdGdQcHMtc1UzN0pRR0pRQ0c3LWFqQnd1MWlYZjdETS1oeDFqc01QMzNiaW9JaVg2dFR6YkVPMHU2MFh6OXZ6N1F4RjNHeWc3V2tIUXpweFNrM3NYdnFHbkRZaXcybWwzYVFpRW1xbzY1N3Z0b2NUVWI0V1h3dF9uRzVXeUlrdFVESUo2MU9QSGU5NFo1VmxiSi1NeC1DNUljRUQwMXl1ZDNhRDJjNDhTVy1na1R3ZnRsYm9OSGdlblltRmlPNjkwUjJXaThOVUVFR2YxZw?oc=5\" target=\"_blank\">The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNWU1OUG1XRnVrcVptaGt3WDFZQ2xwQlpNTDlhMXRVaXdKWlJwMzhfSzhyby0zR1prQTRvY3lFdGdQcHMtc1UzN0pRR0pRQ0c3LWFqQnd1MWlYZjdETS1oeDFqc01QMzNiaW9JaVg2dFR6YkVPMHU2MFh6OXZ6N1F4RjNHeWc3V2tIUXpweFNrM3NYdnFHbkRZaXcybWwzYVFpRW1xbzY1N3Z0b2NUVWI0V1h3dF9uRzVXeUlrdFVESUo2MU9QSGU5NFo1VmxiSi1NeC1DNUljRUQwMXl1ZDNhRDJjNDhTVy1na1R3ZnRsYm9OSGdlblltRmlPNjkwUjJXaThOVUVFR2YxZw?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-07-16",
@@ -111,28 +111,28 @@
       "description": "규제, 책임, 신뢰, 저작권 같은 문제를 보는 관점",
       "items": [
         {
-          "title": "Hormuz traffic slows to two-month low as renewed US, Iran strikes raise safety risk - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQVVJyVWNDbGpUSGtYdm1NUzhqZmpSVFp2SnEtS0N4VzBJZnJTeDZ5X21NN0I4SGJ6V2lYZDBLM3FvSkNTbFRNTkkxWlhtNjRqakpmRGotN3lub0RMZkxmOUlWSUU4WEdBVUZrU09lNzl2d0xMT09aVEw3aU5KNkJaZmpEYlllTTZfMl9ULXg4cDBHZkd4MVJ4OEo0SzNwYkxRUjIta0tONkVJb2puQnhNN0g1WTQwcjZaX0ZYZG85dnZWT0pyUHZFbUY2TQ?oc=5\" target=\"_blank\">Hormuz traffic slows to two-month low as renewed US, Iran strikes raise safety risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVVJyVWNDbGpUSGtYdm1NUzhqZmpSVFp2SnEtS0N4VzBJZnJTeDZ5X21NN0I4SGJ6V2lYZDBLM3FvSkNTbFRNTkkxWlhtNjRqakpmRGotN3lub0RMZkxmOUlWSUU4WEdBVUZrU09lNzl2d0xMT09aVEw3aU5KNkJaZmpEYlllTTZfMl9ULXg4cDBHZkd4MVJ4OEo0SzNwYkxRUjIta0tONkVJb2puQnhNN0g1WTQwcjZaX0ZYZG85dnZWT0pyUHZFbUY2TQ?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-07-13",
+          "title": "US judge approves Anthropic's $1.5 bil. settlement of copyright lawsuit - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ0wwSVRUREF0N24xOTByWUIzNUMwOFo1SV9xVm9penhGeHJMX1cyWjI4WXkyVkt4YXpjLS13ZmhUeDdwTEFlZXg4OFBvTTMyLTVMZUdHQkZRVzRKSkdvc3BpMTQtMjNVc1dBSGtScDFFTUJobUl3ald5Qmhrak9pZFhVeVc2d2Myc1pKcEE0MW5RbzR4bnduU2tBTVhDbUwyR2VQdUI1N3plQXhtOWZiedIBtgFBVV95cUxOZ1l2NWtIVWVpOVFhYzUxd2ZQV25KX3c0b0ZsS0t5WkVLVFlYanNRVDhzQ2hJcklNNDlIZ05CRFdfMEQ0VExSOXZZazlna1JqUDNNeXdhOEFaN2FnWlV6bjcyVkd6RWgzUklCcWI1Um1VQVB4T2ZGWDJBckltaFVEMWl1Q3VOYXRtQzRkc2N4SFplaXRUY3RpckdEOGU5V1RDTlhldk1VR1F0czVYZE1rTUItakZYZw?oc=5\" target=\"_blank\">US judge approves Anthropic's $1.5 bil. settlement of copyright lawsuit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ0wwSVRUREF0N24xOTByWUIzNUMwOFo1SV9xVm9penhGeHJMX1cyWjI4WXkyVkt4YXpjLS13ZmhUeDdwTEFlZXg4OFBvTTMyLTVMZUdHQkZRVzRKSkdvc3BpMTQtMjNVc1dBSGtScDFFTUJobUl3ald5Qmhrak9pZFhVeVc2d2Myc1pKcEE0MW5RbzR4bnduU2tBTVhDbUwyR2VQdUI1N3plQXhtOWZiedIBtgFBVV95cUxOZ1l2NWtIVWVpOVFhYzUxd2ZQV25KX3c0b0ZsS0t5WkVLVFlYanNRVDhzQ2hJcklNNDlIZ05CRFdfMEQ0VExSOXZZazlna1JqUDNNeXdhOEFaN2FnWlV6bjcyVkd6RWgzUklCcWI1Um1VQVB4T2ZGWDJBckltaFVEMWl1Q3VOYXRtQzRkc2N4SFplaXRUY3RpckdEOGU5V1RDTlhldk1VR1F0czVYZE1rTUItakZYZw?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-07-21",
           "views": "18.0K"
         },
         {
-          "title": "Chip-driven growth could fuel Dutch disease risks: BOK - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOVlFkNWlueFF4OGlJdGNCWlhBNzYzajlvRlU4WHlDLUlPRDRDWmJtaE1MNWxfZTEzMGZfdWU5WHBINmszeHJVRTd3QXUtRmtDOGEyb0xBMU9NNUtTUS15MExSN3ZpT21yVXdvUGNnUWkteVMwanpHU2JkZ1dheEJmYjdBM2tLWUUyUktkMGFlNFpTSk8yR0hYcTEyOV9ZZ1VF0gGmAUFVX3lxTFAxb0VBRTBDYWNvalN2aWFPaVVrX3lma1VUdWs1enMzVzdUVTM4RlpwWmxjYUFzTVdJdmVEMTZEZk5ieElzb1E5ZkRNOVliQ2MxZXVhSjJ0M1hsNW1yZnBHTURhaUpwQnVzUjduc2lVMERKM2IzMWRvRG1wSGliVWRJZEltcEtXdDhBUlJ0ZUIydUJzQllVZHBRVjhpYXc5Z2kzU21GcFE?oc=5\" target=\"_blank\">Chip-driven growth could fuel Dutch disease risks: BOK</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVlFkNWlueFF4OGlJdGNCWlhBNzYzajlvRlU4WHlDLUlPRDRDWmJtaE1MNWxfZTEzMGZfdWU5WHBINmszeHJVRTd3QXUtRmtDOGEyb0xBMU9NNUtTUS15MExSN3ZpT21yVXdvUGNnUWkteVMwanpHU2JkZ1dheEJmYjdBM2tLWUUyUktkMGFlNFpTSk8yR0hYcTEyOV9ZZ1VF0gGmAUFVX3lxTFAxb0VBRTBDYWNvalN2aWFPaVVrX3lma1VUdWs1enMzVzdUVTM4RlpwWmxjYUFzTVdJdmVEMTZEZk5ieElzb1E5ZkRNOVliQ2MxZXVhSjJ0M1hsNW1yZnBHTURhaUpwQnVzUjduc2lVMERKM2IzMWRvRG1wSGliVWRJZEltcEtXdDhBUlJ0ZUIydUJzQllVZHBRVjhpYXc5Z2kzU21GcFE?oc=5",
+          "title": "Coupang logistics center fire exposes warehouse safety risks - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOdUlKNU1DLTVsdVcwcW00MWk4ZF9nQzRybHNHTnB5cW1CZnBPMW1kWFl0Z1hRRzYtUFhka0MwcWxZaHlGUGtVem1HQ2VGYVlraktaLVAxUWQwQVVlTl9idWwwSlFFcGoyNUMxUkl2SHdGaEJpNlBvZ1pfQjR2aENnc2FGUTMyR3VwNnY3WUJHYjJiZGEyUi1TY3Y2STIyYUpwdnp2Z3RBYnNvQUExY1RRb1NvaExWRGI2d1llelZB0gG-AUFVX3lxTE51SUo1TUMtNWx1VzBxbTQxaThkX2dDNHJsc0dOcHlxbUJmcE8xbWRYWXRnWFFHNi1QWGRrQzBxbFloeUZQa1V6bUdDZUZhWWtqS1otUDFRZDBBVWVOX2J1bDBKUUVwajI1QzFSSXZId0ZoQmk2UG9nWl9CNHZoQ2dzYUZRMzJHdXA2djdZQkdiMmJkYTJSLVNjdjZJMjJhSnB2enZndEFic29BQTFjVFFvU29oTFZEYjZ3WWV6VkE?oc=5\" target=\"_blank\">Coupang logistics center fire exposes warehouse safety risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdUlKNU1DLTVsdVcwcW00MWk4ZF9nQzRybHNHTnB5cW1CZnBPMW1kWFl0Z1hRRzYtUFhka0MwcWxZaHlGUGtVem1HQ2VGYVlraktaLVAxUWQwQVVlTl9idWwwSlFFcGoyNUMxUkl2SHdGaEJpNlBvZ1pfQjR2aENnc2FGUTMyR3VwNnY3WUJHYjJiZGEyUi1TY3Y2STIyYUpwdnp2Z3RBYnNvQUExY1RRb1NvaExWRGI2d1llelZB0gG-AUFVX3lxTE51SUo1TUMtNWx1VzBxbTQxaThkX2dDNHJsc0dOcHlxbUJmcE8xbWRYWXRnWFFHNi1QWGRrQzBxbFloeUZQa1V6bUdDZUZhWWtqS1otUDFRZDBBVWVOX2J1bDBKUUVwajI1QzFSSXZId0ZoQmk2UG9nWl9CNHZoQ2dzYUZRMzJHdXA2djdZQkdiMmJkYTJSLVNjdjZJMjJhSnB2enZndEFic29BQTFjVFFvU29oTFZEYjZ3WWV6VkE?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-07-19",
-          "views": "13.0K"
+          "publishedAt": "2026-07-20",
+          "views": "18.0K"
         },
         {
-          "title": "[ED] Single-stock leverage: a major policy bungle - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVElaZTF5SVFnT3dEZVV4ZlNReEZGR0V2aWxRWXh6cXVjZ01PdGstZEtPX3dqNWR0Zy0xZ0FhbkNKQ00wQU5HUzJ6NENlWl9QYWNHc0JVVlU2WURUb1RnbXBXYzBvaXExR2d3QnlJQ3VibHNFc1l5ZnROZTlhNU8yUjdISXpZemlCRTJWcXpOb0lNYjlMeVBrdElsRTJuVk42dUlIQlpkNm5vQdIBqgFBVV95cUxNVElaZTF5SVFnT3dEZVV4ZlNReEZGR0V2aWxRWXh6cXVjZ01PdGstZEtPX3dqNWR0Zy0xZ0FhbkNKQ00wQU5HUzJ6NENlWl9QYWNHc0JVVlU2WURUb1RnbXBXYzBvaXExR2d3QnlJQ3VibHNFc1l5ZnROZTlhNU8yUjdISXpZemlCRTJWcXpOb0lNYjlMeVBrdElsRTJuVk42dUlIQlpkNm5vQQ?oc=5\" target=\"_blank\">[ED] Single-stock leverage: a major policy bungle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVElaZTF5SVFnT3dEZVV4ZlNReEZGR0V2aWxRWXh6cXVjZ01PdGstZEtPX3dqNWR0Zy0xZ0FhbkNKQ00wQU5HUzJ6NENlWl9QYWNHc0JVVlU2WURUb1RnbXBXYzBvaXExR2d3QnlJQ3VibHNFc1l5ZnROZTlhNU8yUjdISXpZemlCRTJWcXpOb0lNYjlMeVBrdElsRTJuVk42dUlIQlpkNm5vQdIBqgFBVV95cUxNVElaZTF5SVFnT3dEZVV4ZlNReEZGR0V2aWxRWXh6cXVjZ01PdGstZEtPX3dqNWR0Zy0xZ0FhbkNKQ00wQU5HUzJ6NENlWl9QYWNHc0JVVlU2WURUb1RnbXBXYzBvaXExR2d3QnlJQ3VibHNFc1l5ZnROZTlhNU8yUjdISXpZemlCRTJWcXpOb0lNYjlMeVBrdElsRTJuVk42dUlIQlpkNm5vQQ?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-07-19",
-          "views": "13.0K"
+          "title": "US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOa1Ztc1Z3QjhWekJJTmEySVd4OUFoNkxzQWdkeWRqY0lSNkEwT1FEam1MR21fNE1LSlpFcjZvZnJIZmZwS1Rsa3RJM01uWkFLOTNWUzQycGVlcUhYaWcxNENFT1A4Nks2YUQxLXdOaWxpenBCNVVUdFFrYm5NRGdXLWNWeno2OVNkc1VWTDNDWGFnbFhRbUNON1V3Z1ljNGR3d19DUmlMNFJIWXg1UU5n?oc=5\" target=\"_blank\">US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa1Ztc1Z3QjhWekJJTmEySVd4OUFoNkxzQWdkeWRqY0lSNkEwT1FEam1MR21fNE1LSlpFcjZvZnJIZmZwS1Rsa3RJM01uWkFLOTNWUzQycGVlcUhYaWcxNENFT1A4Nks2YUQxLXdOaWxpenBCNVVUdFFrYm5NRGdXLWNWeno2OVNkc1VWTDNDWGFnbFhRbUNON1V3Z1ljNGR3d19DUmlMNFJIWXg1UU5n?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-07-20",
+          "views": "18.0K"
         }
       ]
     },
@@ -142,6 +142,14 @@
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
         {
+          "title": "Global chip equipment market forecast to hit record high in 2028 on AI infrastructure investment - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWDQtSjNUa2p4MDVoTjRFNWw3UjJsTnZQUUk0N19qbkpJUGJ0eWhVTTZvcFpoRHBBeVZZdEJrQ0J6cDdIWHVEUWxYYVJUbGIyT3VhSnVobkpZQVBiZU1paHUxeWRyTVVqeDg3OTFZSmtNeGZGd3lZd1FiYXVjMWlGeF85TjhVa1dOdllzcFN0TUZUbll1YjNJU3NxMWFJYXlpelg1bGFGZm92NDYwU1FnS3hIVU11RlBzb19SRl9IZUY5TkVuOWJseXZ0OTV2dUd2VFBETFZFUy1lamdsaTNrTnc2cWw4UnRva1QwdNIB8gFBVV95cUxQQjRsTkRsR2pUN3U0RndFN0pvU2lJNUpOWW5KUlJISUhqRXpHb0xDVDBVdXRSNDAyNWNsOS1YSDE4dHkxUHFpdEJ0SnctNHM3Zlo1ZlMyazN6bmZTRGJxWGxkcU1VdlNWaU9zT2hsQ2FKR0tkLVRlYjk0cU0wdzZ4ODVrQVpFQmlSUGdnUFZDcHRzbW9MelRuaDkwX0tlSjlBUjVxLWxFdC1SWFFSRjFxR2hZSGJjeFVYei1WRkgxWnZkakZYQXJNUnF5alU0S0dYSVd4MXdzbEV1Y3JKTTBlZVQ4X3lhUW9fYklaLV81NlRWdw?oc=5\" target=\"_blank\">Global chip equipment market forecast to hit record high in 2028 on AI infrastructure investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWDQtSjNUa2p4MDVoTjRFNWw3UjJsTnZQUUk0N19qbkpJUGJ0eWhVTTZvcFpoRHBBeVZZdEJrQ0J6cDdIWHVEUWxYYVJUbGIyT3VhSnVobkpZQVBiZU1paHUxeWRyTVVqeDg3OTFZSmtNeGZGd3lZd1FiYXVjMWlGeF85TjhVa1dOdllzcFN0TUZUbll1YjNJU3NxMWFJYXlpelg1bGFGZm92NDYwU1FnS3hIVU11RlBzb19SRl9IZUY5TkVuOWJseXZ0OTV2dUd2VFBETFZFUy1lamdsaTNrTnc2cWw4UnRva1QwdNIB8gFBVV95cUxQQjRsTkRsR2pUN3U0RndFN0pvU2lJNUpOWW5KUlJISUhqRXpHb0xDVDBVdXRSNDAyNWNsOS1YSDE4dHkxUHFpdEJ0SnctNHM3Zlo1ZlMyazN6bmZTRGJxWGxkcU1VdlNWaU9zT2hsQ2FKR0tkLVRlYjk0cU0wdzZ4ODVrQVpFQmlSUGdnUFZDcHRzbW9MelRuaDkwX0tlSjlBUjVxLWxFdC1SWFFSRjFxR2hZSGJjeFVYei1WRkgxWnZkakZYQXJNUnF5alU0S0dYSVd4MXdzbEV1Y3JKTTBlZVQ4X3lhUW9fYklaLV81NlRWdw?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-07-21",
+          "views": "18.0K"
+        },
+        {
           "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation - TechCrunch",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQdnBoNXNCTGtvcWdpbWExMzB6WXFPa09xVVE3QXpBaGJYNDM1MTlzWEpfd3lQcWtLX1UwVkNnTHJEX0dPY3B0eVFHb0tmQjczVlRVem8wUExudzVYYUFpd095TnJrZGRlV0VSc1ZYUHNVX0MyTHUtdVZTUU50SWg1dThMQkFBSXE1aC1VZ2wxMTdMLWlyTUlrMHBVd2JoZm1iQXQwUnpVbmI3VWJ6WUxz?oc=5\" target=\"_blank\">Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdnBoNXNCTGtvcWdpbWExMzB6WXFPa09xVVE3QXpBaGJYNDM1MTlzWEpfd3lQcWtLX1UwVkNnTHJEX0dPY3B0eVFHb0tmQjczVlRVem8wUExudzVYYUFpd095TnJrZGRlV0VSc1ZYUHNVX0MyTHUtdVZTUU50SWg1dThMQkFBSXE1aC1VZ2wxMTdMLWlyTUlrMHBVd2JoZm1iQXQwUnpVbmI3VWJ6WUxz?oc=5",
@@ -150,20 +158,12 @@
           "views": "18.0K"
         },
         {
-          "title": "Nvidia-backed startup Fireworks valued at $17.5 billion in latest funding - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPcVMyTzJFWnJNTW9uSUk2ZEI1bmY1RHdIaGRWUzY0dHZCUEdZZDlodjZXOXlmZ25UUTRON3lqYnQ0RTdZRC1tT1M0WENucUlCQTM1c2F1b2pGZFJTS3ZyOFFLZFNFR3lVRVcwdGxJUzdRMy1od0x2ZENwSDdIeWZFdVc5cjdWLTBMamtieFlVX29STElwNnNxOU82Rk84emJZd0RQdk9qZ2lQUDJfWGFOTkxn?oc=5\" target=\"_blank\">Nvidia-backed startup Fireworks valued at $17.5 billion in latest funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcVMyTzJFWnJNTW9uSUk2ZEI1bmY1RHdIaGRWUzY0dHZCUEdZZDlodjZXOXlmZ25UUTRON3lqYnQ0RTdZRC1tT1M0WENucUlCQTM1c2F1b2pGZFJTS3ZyOFFLZFNFR3lVRVcwdGxJUzdRMy1od0x2ZENwSDdIeWZFdVc5cjdWLTBMamtieFlVX29STElwNnNxOU82Rk84emJZd0RQdk9qZ2lQUDJfWGFOTkxn?oc=5",
+          "title": "What is China's next surprise for oil markets? Lower imports, higher fuel exports? - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNkVNby0tbVgtVUxCWFJyNVVXM2V4VUVOb0tDdlFLOUc4djJnRi1jTTBTNnY4T2doUVlYaWVyZkhHbU9CLTV2cDcwQzJTTGttdWIzZHpidkFiQ2RlSV9fbEFmcE9nVHlfQXRoUTFvOUFvUFJQQURsUkxFMUFWaXV6QnBYdmtrRTY2YlhYWk41clc4WlNTdUswYlZLNFBXeGlBQ0VvS0xWZ181cEdvdVF3djNLeUtwQ3VVMllwemJZNkRJTHc4cU9mXzAycGFWdUxkSy13MU1zTmZRdWc?oc=5\" target=\"_blank\">What is China's next surprise for oil markets? Lower imports, higher fuel exports?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNkVNby0tbVgtVUxCWFJyNVVXM2V4VUVOb0tDdlFLOUc4djJnRi1jTTBTNnY4T2doUVlYaWVyZkhHbU9CLTV2cDcwQzJTTGttdWIzZHpidkFiQ2RlSV9fbEFmcE9nVHlfQXRoUTFvOUFvUFJQQURsUkxFMUFWaXV6QnBYdmtrRTY2YlhYWk41clc4WlNTdUswYlZLNFBXeGlBQ0VvS0xWZ181cEdvdVF3djNLeUtwQ3VVMllwemJZNkRJTHc4cU9mXzAycGFWdUxkSy13MU1zTmZRdWc?oc=5",
           "source": "Reuters AI",
-          "publishedAt": "2026-07-16",
-          "views": "18.0K"
-        },
-        {
-          "title": "Space startup funding holds near record highs as SpaceX IPO draws new investors - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNTVdsRWdOSmRZWWNrODBlN2RpcFh2aGdpQ0F0bE1fS3lNOFpWR1h6MnNuam1sc2xmb2VmVVhOVkNkZFhOOGY4NFJsb2JGUy14X2FCU0dSZzQteExXYmZnZFBacktleS1TdDVGaE03MjF4MWV3XzdCZFctSElNaTJZWU5JekdDN0JPNlRyYWhnLWdoWTFieVdxVFczdkxaYXJvcEducEM4bGs0NzkwLXFTeFk3OEJTT1BUT3dYaU5vY1VQZXB3VVpMeHN5MGg?oc=5\" target=\"_blank\">Space startup funding holds near record highs as SpaceX IPO draws new investors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTVdsRWdOSmRZWWNrODBlN2RpcFh2aGdpQ0F0bE1fS3lNOFpWR1h6MnNuam1sc2xmb2VmVVhOVkNkZFhOOGY4NFJsb2JGUy14X2FCU0dSZzQteExXYmZnZFBacktleS1TdDVGaE03MjF4MWV3XzdCZFctSElNaTJZWU5JekdDN0JPNlRyYWhnLWdoWTFieVdxVFczdkxaYXJvcEducEM4bGs0NzkwLXFTeFk3OEJTT1BUT3dYaU5vY1VQZXB3VVpMeHN5MGg?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-07-16",
-          "views": "18.0K"
+          "publishedAt": "2026-07-21",
+          "views": "13.0K"
         }
       ]
     },
@@ -173,27 +173,27 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
-          "title": "Industry minister to visit US this week for talks on bilateral issues, possibly including Coupang - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWm5YbmJQRXZKX19JZlBWNnJUYldKLVY4QVpLUzFrRTVEeFg5S3djMDduV3g5Qjl3RFVrY3lwcF9JQUludG9nalNmR1hjM29IQ1A3anVMLVRGQmZMeENhRlcybzFjYzBSWURiVG1vWjN4LV93NEM5ZTVUNWF3WDVmUXhVUXRmTmR1S3lkX1hPT0ljdWtpNDFGaF9KWjBERzVmaFFRSF9XSGsyUVpIVTlXcXJHUXRzZ3JTd3lPUldJazlibHB0WDhWVXl3SjdqRGxmYUJHUmhNUnVSRS0yMk1MMlAtWdIB6AFBVV95cUxQWXFwZWdsaWdJNjluYUFrN095SnZUcWEyUmxGYXAzVE9mU29LczZ6VVBGdFVvenFkS0RsN1J0RVVuS1VMTVlFZ1dMWkd1aW5mUWVTeWl4MnMzNko5ekRUWURXalJMZV9WSDBjNEpYcm11TXFYM2RrcDZleHJwSlRLQ3Nrb3VETEU2UEZUT2tjNmVmREY4c2VNUG4xQjF2ZUhyYnNBNVRVNTloYVM3WjJUQ3l0T3AyWXZmSzh6Q1NUcDl5Vmt1cTRTa19idS1CcldWdTZocUpxa3pXdlVmNE1hNVZMcWNZMDFn?oc=5\" target=\"_blank\">Industry minister to visit US this week for talks on bilateral issues, possibly including Coupang</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWm5YbmJQRXZKX19JZlBWNnJUYldKLVY4QVpLUzFrRTVEeFg5S3djMDduV3g5Qjl3RFVrY3lwcF9JQUludG9nalNmR1hjM29IQ1A3anVMLVRGQmZMeENhRlcybzFjYzBSWURiVG1vWjN4LV93NEM5ZTVUNWF3WDVmUXhVUXRmTmR1S3lkX1hPT0ljdWtpNDFGaF9KWjBERzVmaFFRSF9XSGsyUVpIVTlXcXJHUXRzZ3JTd3lPUldJazlibHB0WDhWVXl3SjdqRGxmYUJHUmhNUnVSRS0yMk1MMlAtWdIB6AFBVV95cUxQWXFwZWdsaWdJNjluYUFrN095SnZUcWEyUmxGYXAzVE9mU29LczZ6VVBGdFVvenFkS0RsN1J0RVVuS1VMTVlFZ1dMWkd1aW5mUWVTeWl4MnMzNko5ekRUWURXalJMZV9WSDBjNEpYcm11TXFYM2RrcDZleHJwSlRLQ3Nrb3VETEU2UEZUT2tjNmVmREY4c2VNUG4xQjF2ZUhyYnNBNVRVNTloYVM3WjJUQ3l0T3AyWXZmSzh6Q1NUcDl5Vmt1cTRTa19idS1CcldWdTZocUpxa3pXdlVmNE1hNVZMcWNZMDFn?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-07-19",
-          "views": "13.0K"
-        },
-        {
-          "title": "Telecom Italia board backs Poste's takeover offer - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQcTdlRG5WdjdSanBPZXUtVWpCbWRrMWoxOEpwWVRJdDBRMW9hSzFjd0JGMkxKQV9jT1RKRHJxY1FTa3MtTVF3VWd1b19QMDk0cDRXM0c4NUVPZXYwanNFS0JZOG1BbXNJMFd1anp0WHgybzRIOTNkNmFtRlFRU1Qtellfek9OaEszdl84WG1VSnhvOUxRSkI0TQ?oc=5\" target=\"_blank\">Telecom Italia board backs Poste's takeover offer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcTdlRG5WdjdSanBPZXUtVWpCbWRrMWoxOEpwWVRJdDBRMW9hSzFjd0JGMkxKQV9jT1RKRHJxY1FTa3MtTVF3VWd1b19QMDk0cDRXM0c4NUVPZXYwanNFS0JZOG1BbXNJMFd1anp0WHgybzRIOTNkNmFtRlFRU1Qtellfek9OaEszdl84WG1VSnhvOUxRSkI0TQ?oc=5",
+          "title": "Samsung Electronics creates robotics division; ex-Hyundai executive to head strategy - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUUZzV0hGcjR4YUpvTFkyVDhjRUE2M0VUWEtvTWhydFpQZDhaRDdaU1RyRmNtR05HZkhjQVVpU25mSTBHbkdWNXdmNjd4eFYxQW55Z08walRTai1aNjB1SGplODZTZVB3aEl2OVdMZ3RZN19Wd0l5dVRYQWV6LUMwaVZWNzhrTGk0RXJXNlF5LW1Pb3ZZal9UZFJuSE9mN3d6VWJpYTZ6Q1Z6NnBId2JXS2V6aHRhenNJcnBtUENJZXBNTmc?oc=5\" target=\"_blank\">Samsung Electronics creates robotics division; ex-Hyundai executive to head strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUUZzV0hGcjR4YUpvTFkyVDhjRUE2M0VUWEtvTWhydFpQZDhaRDdaU1RyRmNtR05HZkhjQVVpU25mSTBHbkdWNXdmNjd4eFYxQW55Z08walRTai1aNjB1SGplODZTZVB3aEl2OVdMZ3RZN19Wd0l5dVRYQWV6LUMwaVZWNzhrTGk0RXJXNlF5LW1Pb3ZZal9UZFJuSE9mN3d6VWJpYTZ6Q1Z6NnBId2JXS2V6aHRhenNJcnBtUENJZXBNTmc?oc=5",
           "source": "Reuters AI",
-          "publishedAt": "2026-07-18",
+          "publishedAt": "2026-07-21",
           "views": "13.0K"
         },
         {
-          "title": "A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War - WIRED",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPTWE3T3hOTUFjc3NIbmZMRHJHRlpWTGs4RWM1QmFQM3dSVGswOWRRbzl5Vzl4OExJOWUxMlFUNEt2NjA5VFVEanZQanpmOHQ1NG04M3E4TDhaS3dMam1fYXVtUFRSTHBCZGdkckw4WmpDVUhIMHB4VzhuYjZ6ZFVKYUpMWVBTSHNfaklMQWlWMV9PRXNfWVE?oc=5\" target=\"_blank\">A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTWE3T3hOTUFjc3NIbmZMRHJHRlpWTGs4RWM1QmFQM3dSVGswOWRRbzl5Vzl4OExJOWUxMlFUNEt2NjA5VFVEanZQanpmOHQ1NG04M3E4TDhaS3dMam1fYXVtUFRSTHBCZGdkckw4WmpDVUhIMHB4VzhuYjZ6ZFVKYUpMWVBTSHNfaklMQWlWMV9PRXNfWVE?oc=5",
+          "title": "An Ebike Company Was Sued for Misleading Info on Safety. It Points to a Big Problem - WIRED",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOVBKY3lYSUNFcjRpLV9aMktTY0ZGbGU5RTcyY2RCc2VSZFdOTTRXVGdiSzVrMXQ1QXRCcGtObFB0OG5KMWFDYmU0V295b25SaVhRSkM5bTZUNlhlckJTbnRZSEZTM1Z1X3JqVE45QWJqY28xbC04RFNzN1dNT3M0OFQ5eWNjU2pGcDdvYWNzNXBOdDdtVU13YnhTUmNQMy1Obm0ycVBjUndsUQ?oc=5\" target=\"_blank\">An Ebike Company Was Sued for Misleading Info on Safety. It Points to a Big Problem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOVBKY3lYSUNFcjRpLV9aMktTY0ZGbGU5RTcyY2RCc2VSZFdOTTRXVGdiSzVrMXQ1QXRCcGtObFB0OG5KMWFDYmU0V295b25SaVhRSkM5bTZUNlhlckJTbnRZSEZTM1Z1X3JqVE45QWJqY28xbC04RFNzN1dNT3M0OFQ5eWNjU2pGcDdvYWNzNXBOdDdtVU13YnhTUmNQMy1Obm0ycVBjUndsUQ?oc=5",
           "source": "WIRED AI",
-          "publishedAt": "2026-07-17",
+          "publishedAt": "2026-07-20",
+          "views": "13.0K"
+        },
+        {
+          "title": "Mattress company Sleep Number sells assets for $700 million in bankruptcy - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPb3hCWlhnMEtCcUtDSDVsTEI4WVZYZWNjTVlnWkM0TkJieE1qWkFQdkNnc0tLSnRJbWlydGNKbFFrQjNvWHdrMzBuNnNfRzZPb0JxMi01OXRTRlBwbnZLNk5Zdy1wVFVZY0pObWdmREtUTEdSamFReU8xejcxMmt2Tzg2dE85c1psLWx6aUNDM2F6Z0VaZGtDb3VBcWFJZFZaaTRZNzBrNm52NVZ2UGN4NE9qYWNNVTZFc0E?oc=5\" target=\"_blank\">Mattress company Sleep Number sells assets for $700 million in bankruptcy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb3hCWlhnMEtCcUtDSDVsTEI4WVZYZWNjTVlnWkM0TkJieE1qWkFQdkNnc0tLSnRJbWlydGNKbFFrQjNvWHdrMzBuNnNfRzZPb0JxMi01OXRTRlBwbnZLNk5Zdy1wVFVZY0pObWdmREtUTEdSamFReU8xejcxMmt2Tzg2dE85c1psLWx6aUNDM2F6Z0VaZGtDb3VBcWFJZFZaaTRZNzBrNm52NVZ2UGN4NE9qYWNNVTZFc0E?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-07-20",
           "views": "13.0K"
         }
       ]
