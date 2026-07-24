@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-23T03:41:24.363Z",
+  "lastUpdated": "2026-07-24T03:40:05.359Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,12 +49,12 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
-          "title": "Google plans new chip to run Gemini models more efficiently, the Information reports - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPOU1rMGpSd0lvTDE3aFVId2tXRG04enY0ek9mcDFyR09IVm1TUE1tTEVrR0FuUWpPcnpJbmR5cGQzeFNBZFlBWjdwUE1PSGJFUkpEZ1NwalMxRGhmdjJtYTVaeTh4Mlotek5NOE9YNzRMbERhaVFHQndLSC01cnpVSjlzRHVYV3J2eWtfVkgwZzVuWVFETUNPbkZzeXBzamJ0UHpyNGlRaEItTmpqT05ubE1heGFVcmNIWS05UkR3?oc=5\" target=\"_blank\">Google plans new chip to run Gemini models more efficiently, the Information reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOU1rMGpSd0lvTDE3aFVId2tXRG04enY0ek9mcDFyR09IVm1TUE1tTEVrR0FuUWpPcnpJbmR5cGQzeFNBZFlBWjdwUE1PSGJFUkpEZ1NwalMxRGhmdjJtYTVaeTh4Mlotek5NOE9YNzRMbERhaVFHQndLSC01cnpVSjlzRHVYV3J2eWtfVkgwZzVuWVFETUNPbkZzeXBzamJ0UHpyNGlRaEItTmpqT05ubE1heGFVcmNIWS05UkR3?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-07-20",
-          "views": "23.0K"
+          "title": "Anthropic updates Claude voice mode with more capable models - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPTlo0bXJZb1JaV0MteE1fQkhUNU1uRjlpN2lxcmd5aVM0eTZfbjMwYldQWXdxU2EzLWhOcXdnQkh5WnJmTzRoZEk1c3laczdESFpOQmUwRkl6SmJVTHhVYVdqS1AyTFpSVkhIdkNTMFNPQUJVNzJITU9hQzBrQnJ1cjY0cjZ0aG9VVEdCTVl6R0NjcmtSbFM0M3ZhWQ?oc=5\" target=\"_blank\">Anthropic updates Claude voice mode with more capable models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTlo0bXJZb1JaV0MteE1fQkhUNU1uRjlpN2lxcmd5aVM0eTZfbjMwYldQWXdxU2EzLWhOcXdnQkh5WnJmTzRoZEk1c3laczdESFpOQmUwRkl6SmJVTHhVYVdqS1AyTFpSVkhIdkNTMFNPQUJVNzJITU9hQzBrQnJ1cjY0cjZ0aG9VVEdCTVl6R0NjcmtSbFM0M3ZhWQ?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-07-23",
+          "views": "18.0K"
         },
         {
           "title": "Morning Bid: The new ad for chips? An AI model Breaking Bad - Reuters",
@@ -80,27 +80,27 @@
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
         {
-          "title": "OpenAI unveils Presence, a new platform that lets enterprises launch and manage realtime voice agents and chatbots - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxONWRmT2UwdXduVGFBNFVJRTRwQ19uMEJuZGZ4TmxjQ3RBWExKcTdRclhyeVBPWkxQMWZTdUh3aGowNTVqbl9oVWNhMjZ6RmxVTC1UbXkwRTRETjQ0b21WTm5kMzlQMDVjdzEzUktjdkNvZ2hXeWxGN3k0bTVFNUF0UElZRDVoNkZDbEdYbVRBanlVWTY5a1pNekE1N2VSVTUtdWhNb05uaExlaF95RlVmOGo4V1g5QU1vT1ppVGhuWDBfVTU0Q3NvTW5iNTJ3ZzRFSWZyQjN6c09za1hUR21PdXRPWmVJUQ?oc=5\" target=\"_blank\">OpenAI unveils Presence, a new platform that lets enterprises launch and manage realtime voice agents and chatbots</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONWRmT2UwdXduVGFBNFVJRTRwQ19uMEJuZGZ4TmxjQ3RBWExKcTdRclhyeVBPWkxQMWZTdUh3aGowNTVqbl9oVWNhMjZ6RmxVTC1UbXkwRTRETjQ0b21WTm5kMzlQMDVjdzEzUktjdkNvZ2hXeWxGN3k0bTVFNUF0UElZRDVoNkZDbEdYbVRBanlVWTY5a1pNekE1N2VSVTUtdWhNb05uaExlaF95RlVmOGo4V1g5QU1vT1ppVGhuWDBfVTU0Q3NvTW5iNTJ3ZzRFSWZyQjN6c09za1hUR21PdXRPWmVJUQ?oc=5",
+          "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPcmlvOWZqWW1jNmFiQ0d1dlQ4aHRJS0UyMXhnTTMxLTdpWXRzWTd6Y0M1MXhoczkyb2Jkd2phcWhFRF9VQUlET05vVmJUdi10N0RzaENSNUtoZ3hDV1h3elpDQzF6NjdIZlBTVnBXOWdCR2Etai1QOXg1bDZSM01PSnJrM0xoMHRmY3J6V0JWZXVzTVh5VWV5eFJDRXdzR255ck9haHhOQ1VRXzl6V0Vlb2VRai1jMGM0aFVYNmR0cl8yMnVvYzRkT1d5cnotcWxDQWpmQmlPcUVOQjExZGc2RTVDYUd5NGpIVFNSZg?oc=5\" target=\"_blank\">The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPcmlvOWZqWW1jNmFiQ0d1dlQ4aHRJS0UyMXhnTTMxLTdpWXRzWTd6Y0M1MXhoczkyb2Jkd2phcWhFRF9VQUlET05vVmJUdi10N0RzaENSNUtoZ3hDV1h3elpDQzF6NjdIZlBTVnBXOWdCR2Etai1QOXg1bDZSM01PSnJrM0xoMHRmY3J6V0JWZXVzTVh5VWV5eFJDRXdzR255ck9haHhOQ1VRXzl6V0Vlb2VRai1jMGM0aFVYNmR0cl8yMnVvYzRkT1d5cnotcWxDQWpmQmlPcUVOQjExZGc2RTVDYUd5NGpIVFNSZg?oc=5",
           "source": "VentureBeat AI",
-          "publishedAt": "2026-07-22",
+          "publishedAt": "2026-07-23",
           "views": "18.0K"
         },
         {
-          "title": "Google’s Gemini 3.6 Flash targets enterprise agent token costs - AI News",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNdmJnUWFUTlZYTDJDb3NfWWc2c1BlUHgtazdjZVFzS2J6NnhEcDBFUzY3eXdEYUQ2dmhsR284WXA5UG9QcjR1ME1Td29sd2ppS04wc2dOcDNjOFNGRl9HZ3FBUTdwVXhlcXFTVUlRbTMtazZsNVhjWXprZncyazhUN2MxS1pFbWYzOHpxR2xfNmlEMFJNeEZOMkRSSjB6Q3RBNmRnSDMxQnZqa0VzbzNSOQ?oc=5\" target=\"_blank\">Google’s Gemini 3.6 Flash targets enterprise agent token costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI News</font>",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdmJnUWFUTlZYTDJDb3NfWWc2c1BlUHgtazdjZVFzS2J6NnhEcDBFUzY3eXdEYUQ2dmhsR284WXA5UG9QcjR1ME1Td29sd2ppS04wc2dOcDNjOFNGRl9HZ3FBUTdwVXhlcXFTVUlRbTMtazZsNVhjWXprZncyazhUN2MxS1pFbWYzOHpxR2xfNmlEMFJNeEZOMkRSSjB6Q3RBNmRnSDMxQnZqa0VzbzNSOQ?oc=5",
-          "source": "AI News",
-          "publishedAt": "2026-07-21",
+          "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUUgyMk9qZWYwRkhNdkE4SWJnSmo1Skg4Z2EtTC1uYnRUWXBMVEpvWHNVLWlSbUZLRFBTdDdsTDdQSWkwZmdsSjRRbXZIZHRYV1E4UGwzQzVXZmxIWkJRYy1KZi11em90N1FVckQtS0xiX2EyTWoxWUtDTFd6S200eWxkOHNPZDYxODAzTnEydjlhc1R4OUliNXdkWmFyWjlZVl9GSkRsQjFiSXNwU0ZiQVFZbDQ3OC1rOHNpb1dyVTJIbnNVSWRIckt6QmxkNjEzcmN2RUNObVAxT0VoZFdRS05qejlLb05qTEpIS254OUtmczRNLWJySktDUGRHUQ?oc=5\" target=\"_blank\">Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUUgyMk9qZWYwRkhNdkE4SWJnSmo1Skg4Z2EtTC1uYnRUWXBMVEpvWHNVLWlSbUZLRFBTdDdsTDdQSWkwZmdsSjRRbXZIZHRYV1E4UGwzQzVXZmxIWkJRYy1KZi11em90N1FVckQtS0xiX2EyTWoxWUtDTFd6S200eWxkOHNPZDYxODAzTnEydjlhc1R4OUliNXdkWmFyWjlZVl9GSkRsQjFiSXNwU0ZiQVFZbDQ3OC1rOHNpb1dyVTJIbnNVSWRIckt6QmxkNjEzcmN2RUNObVAxT0VoZFdRS05qejlLb05qTEpIS254OUtmczRNLWJySktDUGRHUQ?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-07-23",
           "views": "18.0K"
         },
         {
-          "title": "AI agent infrastructure: 3 enterprise fixes - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxOZDEybGFzemJUYWJ4UEZ0UzlnU1BodU9Cd3FlazBaYXVJVmlOS3JSRXA5Y3V0UDFTdmFVRUxjUGVzaGN1SmpJRG9qTEZPdktmSGZvenRXTnlSbHo1SlJ4Z3BZTU1NTjFGSXhtTjBUczUzeU5jeS1Yc2ZPWmZZNk5BeGZJSzNzcG5DRl9RQk1wdy1rckwtNWV6ei0wUUE4Yk0ybzNlc1hwZjJ1UU80U2JHRHQxNjhQRTVFMlBiUzVwTHNFSFMtOTBjMHQ4cXM0SXpJZ0xlUDNmMDh3SmZuODNPbTRhUldEOU1aMS1JMXZEMWhTc1VaNW5QU1RBcw?oc=5\" target=\"_blank\">AI agent infrastructure: 3 enterprise fixes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOZDEybGFzemJUYWJ4UEZ0UzlnU1BodU9Cd3FlazBaYXVJVmlOS3JSRXA5Y3V0UDFTdmFVRUxjUGVzaGN1SmpJRG9qTEZPdktmSGZvenRXTnlSbHo1SlJ4Z3BZTU1NTjFGSXhtTjBUczUzeU5jeS1Yc2ZPWmZZNk5BeGZJSzNzcG5DRl9RQk1wdy1rckwtNWV6ei0wUUE4Yk0ybzNlc1hwZjJ1UU80U2JHRHQxNjhQRTVFMlBiUzVwTHNFSFMtOTBjMHQ4cXM0SXpJZ0xlUDNmMDh3SmZuODNPbTRhUldEOU1aMS1JMXZEMWhTc1VaNW5QU1RBcw?oc=5",
+          "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxOT1ZRMFZOaG5DUjZtU2pPZ0s4bFdNRVlpQVk4SWxGT3BWTE5UTmNVWE9UWjd4RWxGcnBZYWZtVnN1Q3lONUd5UTN2dmZDbkcyRV91VHFLWGc3TW1NNl9VX1hGWEc5bUtvRUJTNnN4RktJenczZHJHNkZQdjV2ZncybGNJU3BnelF1Qjh2bkk0Y3JOaXplTENUbGJjWklxZzJtMEtHM3pLLXRxOERqNG8yald1T2U1Y0xZQXhHbkRheHBhVy1sZnM5dzdONER2M1lVajFjNmNnY0UxZXY4c2dfQjRxa081UzMwQzNVeUZqRFF6LWN4THgxMzhUZVVaczBqbUhzbEZJZHZWQkVha3BRQ1ZNaw?oc=5\" target=\"_blank\">The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOT1ZRMFZOaG5DUjZtU2pPZ0s4bFdNRVlpQVk4SWxGT3BWTE5UTmNVWE9UWjd4RWxGcnBZYWZtVnN1Q3lONUd5UTN2dmZDbkcyRV91VHFLWGc3TW1NNl9VX1hGWEc5bUtvRUJTNnN4RktJenczZHJHNkZQdjV2ZncybGNJU3BnelF1Qjh2bkk0Y3JOaXplTENUbGJjWklxZzJtMEtHM3pLLXRxOERqNG8yald1T2U1Y0xZQXhHbkRheHBhVy1sZnM5dzdONER2M1lVajFjNmNnY0UxZXY4c2dfQjRxa081UzMwQzNVeUZqRFF6LWN4THgxMzhUZVVaczBqbUhzbEZJZHZWQkVha3BRQ1ZNaw?oc=5",
           "source": "VentureBeat AI",
-          "publishedAt": "2026-07-17",
+          "publishedAt": "2026-07-23",
           "views": "18.0K"
         }
       ]
@@ -111,11 +111,11 @@
       "description": "규제, 책임, 신뢰, 저작권 같은 문제를 보는 관점",
       "items": [
         {
-          "title": "UK's Bloomsbury among beneficiaries of $1.5 billion Anthropic copyright lawsuit settlement - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQTkV5Sk5uTFEtWmE2Qkl3RGtCUGZhdEhaeW1mTS1LRVptbGl0dzE1Z3Q4eFJhV25SM0ROdjR5NlNEczNvODhvVUd3ZDh2LWdGYmxYX240NmtDSFgxU0pQQ1hpYl8tOEp2Uk0wSWNPaXdNNEYzSWFBSkd1bXFTbFkwbnktcU9ZaFBQT2YtNFN5elRDUWlEWXVSYUxkbXZxcWppVFdBc0Z2a2VUU2Z0dTFNc3pDQ3lYWHdFMDVOTU9kMWVtaEky?oc=5\" target=\"_blank\">UK's Bloomsbury among beneficiaries of $1.5 billion Anthropic copyright lawsuit settlement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTkV5Sk5uTFEtWmE2Qkl3RGtCUGZhdEhaeW1mTS1LRVptbGl0dzE1Z3Q4eFJhV25SM0ROdjR5NlNEczNvODhvVUd3ZDh2LWdGYmxYX240NmtDSFgxU0pQQ1hpYl8tOEp2Uk0wSWNPaXdNNEYzSWFBSkd1bXFTbFkwbnktcU9ZaFBQT2YtNFN5elRDUWlEWXVSYUxkbXZxcWppVFdBc0Z2a2VUU2Z0dTFNc3pDQ3lYWHdFMDVOTU9kMWVtaEky?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-07-22",
+          "title": "US keeps S. Korea, 9 other economies on FX policy 'monitoring list' - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPbjM4TjcwRi05RERZdWxRbHFDMDVEMVQwbkhGbHM5ekhfMkNQRTNGRnpZX0F3UElqc2VYVG84dVJZcU1UV2dtOVNUSUNNY1hiYjJYWThZVWJwOUJrMjR1ZllJbUNmbkFSYTE3QUNsY2h6WEI3THQ2aW1CN256UjZmUFNmdEl1S29OY2k4dVhST21ndWhnT3hRWmR6dHVfeDY2QkhRWndXcDJORmViWnRPSnplaktqSnfSAbwBQVVfeXFMTkVpNWpsSWxLM1l1UjZrMWQ1S0p6TGJ0WkM3cmFud3g2RTNQZ3JjNV9GMGZLaWdNYk5pbTBKbFlQak5obVYzcEFuMkh3NGw2TkltaUhYUXpmdHdWVWRFcE9YeU55a2loOE9pQXQxNjREYkZuVEdVV0xvbUJjM1dhdWh2M3E1NloteVlpbS0xNXRCYWJMd0xVeVVraGNoa2t3R2N0TzhSSGJHdXVEZHhPaWU4WmU4bGxKTFBCQVo?oc=5\" target=\"_blank\">US keeps S. Korea, 9 other economies on FX policy 'monitoring list'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbjM4TjcwRi05RERZdWxRbHFDMDVEMVQwbkhGbHM5ekhfMkNQRTNGRnpZX0F3UElqc2VYVG84dVJZcU1UV2dtOVNUSUNNY1hiYjJYWThZVWJwOUJrMjR1ZllJbUNmbkFSYTE3QUNsY2h6WEI3THQ2aW1CN256UjZmUFNmdEl1S29OY2k4dVhST21ndWhnT3hRWmR6dHVfeDY2QkhRWndXcDJORmViWnRPSnplaktqSnfSAbwBQVVfeXFMTkVpNWpsSWxLM1l1UjZrMWQ1S0p6TGJ0WkM3cmFud3g2RTNQZ3JjNV9GMGZLaWdNYk5pbTBKbFlQak5obVYzcEFuMkh3NGw2TkltaUhYUXpmdHdWVWRFcE9YeU55a2loOE9pQXQxNjREYkZuVEdVV0xvbUJjM1dhdWh2M3E1NloteVlpbS0xNXRCYWJMd0xVeVVraGNoa2t3R2N0TzhSSGJHdXVEZHhPaWU4WmU4bGxKTFBCQVo?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-07-23",
           "views": "18.0K"
         },
         {
@@ -127,11 +127,11 @@
           "views": "18.0K"
         },
         {
-          "title": "US judge approves Anthropic's $1.5 bil. settlement of copyright lawsuit - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ0wwSVRUREF0N24xOTByWUIzNUMwOFo1SV9xVm9penhGeHJMX1cyWjI4WXkyVkt4YXpjLS13ZmhUeDdwTEFlZXg4OFBvTTMyLTVMZUdHQkZRVzRKSkdvc3BpMTQtMjNVc1dBSGtScDFFTUJobUl3ald5Qmhrak9pZFhVeVc2d2Myc1pKcEE0MW5RbzR4bnduU2tBTVhDbUwyR2VQdUI1N3plQXhtOWZiedIBtgFBVV95cUxOZ1l2NWtIVWVpOVFhYzUxd2ZQV25KX3c0b0ZsS0t5WkVLVFlYanNRVDhzQ2hJcklNNDlIZ05CRFdfMEQ0VExSOXZZazlna1JqUDNNeXdhOEFaN2FnWlV6bjcyVkd6RWgzUklCcWI1Um1VQVB4T2ZGWDJBckltaFVEMWl1Q3VOYXRtQzRkc2N4SFplaXRUY3RpckdEOGU5V1RDTlhldk1VR1F0czVYZE1rTUItakZYZw?oc=5\" target=\"_blank\">US judge approves Anthropic's $1.5 bil. settlement of copyright lawsuit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ0wwSVRUREF0N24xOTByWUIzNUMwOFo1SV9xVm9penhGeHJMX1cyWjI4WXkyVkt4YXpjLS13ZmhUeDdwTEFlZXg4OFBvTTMyLTVMZUdHQkZRVzRKSkdvc3BpMTQtMjNVc1dBSGtScDFFTUJobUl3ald5Qmhrak9pZFhVeVc2d2Myc1pKcEE0MW5RbzR4bnduU2tBTVhDbUwyR2VQdUI1N3plQXhtOWZiedIBtgFBVV95cUxOZ1l2NWtIVWVpOVFhYzUxd2ZQV25KX3c0b0ZsS0t5WkVLVFlYanNRVDhzQ2hJcklNNDlIZ05CRFdfMEQ0VExSOXZZazlna1JqUDNNeXdhOEFaN2FnWlV6bjcyVkd6RWgzUklCcWI1Um1VQVB4T2ZGWDJBckltaFVEMWl1Q3VOYXRtQzRkc2N4SFplaXRUY3RpckdEOGU5V1RDTlhldk1VR1F0czVYZE1rTUItakZYZw?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-07-21",
+          "title": "UK's Bloomsbury among beneficiaries of $1.5 billion Anthropic copyright lawsuit settlement - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQTkV5Sk5uTFEtWmE2Qkl3RGtCUGZhdEhaeW1mTS1LRVptbGl0dzE1Z3Q4eFJhV25SM0ROdjR5NlNEczNvODhvVUd3ZDh2LWdGYmxYX240NmtDSFgxU0pQQ1hpYl8tOEp2Uk0wSWNPaXdNNEYzSWFBSkd1bXFTbFkwbnktcU9ZaFBQT2YtNFN5elRDUWlEWXVSYUxkbXZxcWppVFdBc0Z2a2VUU2Z0dTFNc3pDQ3lYWHdFMDVOTU9kMWVtaEky?oc=5\" target=\"_blank\">UK's Bloomsbury among beneficiaries of $1.5 billion Anthropic copyright lawsuit settlement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTkV5Sk5uTFEtWmE2Qkl3RGtCUGZhdEhaeW1mTS1LRVptbGl0dzE1Z3Q4eFJhV25SM0ROdjR5NlNEczNvODhvVUd3ZDh2LWdGYmxYX240NmtDSFgxU0pQQ1hpYl8tOEp2Uk0wSWNPaXdNNEYzSWFBSkd1bXFTbFkwbnktcU9ZaFBQT2YtNFN5elRDUWlEWXVSYUxkbXZxcWppVFdBc0Z2a2VUU2Z0dTFNc3pDQ3lYWHdFMDVOTU9kMWVtaEky?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-07-22",
           "views": "18.0K"
         }
       ]
@@ -158,11 +158,11 @@
           "views": "18.0K"
         },
         {
-          "title": "OpenAI says AI models went rogue during testing, triggering 'unprecedented' breach at startup - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPblMtUml3bUJKbXRNTDRwdFVlNXR3VWxDXzFQZUhZZDF4dnlZSlQ3dUR6Yk9Helg3dzV1VE85Wjh6el9TZkVFZm1rbnh2U3JyOGh3czkzcHRzaFdrQzZxY2JlcEltS0RrY1Jfbkg1OWxzQWtvdnV4VmpiQjVLajdjQ2ZFTXkzYnJ4NlhvOUlIN01aLWJFQzdMel9yQkVOTm5VVmVPZnF5LVFCaVUwclBzeTRBU3Jka3ZzSFhleW5kcTNsc2ZDT213YjdzQ0hrY0HSAdQBQVVfeXFMT1hzQlE3WE5veHBIMk11SVBiUFNPdjB2WHV5SElTOE9JanZoWGVTajJtOVV0UGZJNWQwaVRQdmNYQkRVbTBLVlA2Uk9UdzJMMEV0OWdKU25RMEduYnFNQ2FfMzJFWnduOFJOcUdhYy1WR05vWFlkY1dUQk53MGx6aEpjck16bi1HNjVuSDRmZEU0YzBWcHZGVzFuRjNMZU84a1FYWE5NZHQ4dnNCS2lPbW9xQkZTNEEzM0VZVGxQaTZSUmg0VW5KR2ZpUzVpWHplaEZ5dU4?oc=5\" target=\"_blank\">OpenAI says AI models went rogue during testing, triggering 'unprecedented' breach at startup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPblMtUml3bUJKbXRNTDRwdFVlNXR3VWxDXzFQZUhZZDF4dnlZSlQ3dUR6Yk9Helg3dzV1VE85Wjh6el9TZkVFZm1rbnh2U3JyOGh3czkzcHRzaFdrQzZxY2JlcEltS0RrY1Jfbkg1OWxzQWtvdnV4VmpiQjVLajdjQ2ZFTXkzYnJ4NlhvOUlIN01aLWJFQzdMel9yQkVOTm5VVmVPZnF5LVFCaVUwclBzeTRBU3Jka3ZzSFhleW5kcTNsc2ZDT213YjdzQ0hrY0HSAdQBQVVfeXFMT1hzQlE3WE5veHBIMk11SVBiUFNPdjB2WHV5SElTOE9JanZoWGVTajJtOVV0UGZJNWQwaVRQdmNYQkRVbTBLVlA2Uk9UdzJMMEV0OWdKU25RMEduYnFNQ2FfMzJFWnduOFJOcUdhYy1WR05vWFlkY1dUQk53MGx6aEpjck16bi1HNjVuSDRmZEU0YzBWcHZGVzFuRjNMZU84a1FYWE5NZHQ4dnNCS2lPbW9xQkZTNEEzM0VZVGxQaTZSUmg0VW5KR2ZpUzVpWHplaEZ5dU4?oc=5",
+          "title": "Korean firms review Canada investment plans after submarine bid loss - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT0F6amluc2dmSndlQnJjUG1UaWV2YXdUVGVidno5V3ZfcVdPUDRBYmg4VzQwM2plRmY2RTIwYjVjNWhCNzV5TDBzVjZmbU9MSFhzVkdRWlgxOFF0dDZkYnZJNHViRkFycGpKNjJYeHgtUm50MDRvbGl6Q3JKS3loTC1NdzZfTDdZTmZxcVpUWnZmWG1WcndEVVZBTzZNNlpEQ2dPVGRxaVEyMHRoSkNUTUZjdzZXS1V5MWQwS0ZrSDFfU3fSAcgBQVVfeXFMTVRsbWI3c0RRdkVpQ09UaFNZTjBtREQwZGw4WXNnNVpjVHB3UzhFZERoQ1VZYjItVWwyd3BsU3JrWmVVNURsRFZaaHVlOXJLUXcyUmJoVzJpWk9pQlJtRFBXM2RIM25zNzMzR1FlMUpFWEVYS0Nkb0Z2YmozNTBCMVVuSHp1WS03YWlpeC04M2Qta2NCTm11YzlWMEg3NnJIVmFITkNZRDFHOUVNRThNSzQzSkFMUS1CSXpHeEZvbGplTVE3VUcyUWY?oc=5\" target=\"_blank\">Korean firms review Canada investment plans after submarine bid loss</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT0F6amluc2dmSndlQnJjUG1UaWV2YXdUVGVidno5V3ZfcVdPUDRBYmg4VzQwM2plRmY2RTIwYjVjNWhCNzV5TDBzVjZmbU9MSFhzVkdRWlgxOFF0dDZkYnZJNHViRkFycGpKNjJYeHgtUm50MDRvbGl6Q3JKS3loTC1NdzZfTDdZTmZxcVpUWnZmWG1WcndEVVZBTzZNNlpEQ2dPVGRxaVEyMHRoSkNUTUZjdzZXS1V5MWQwS0ZrSDFfU3fSAcgBQVVfeXFMTVRsbWI3c0RRdkVpQ09UaFNZTjBtREQwZGw4WXNnNVpjVHB3UzhFZERoQ1VZYjItVWwyd3BsU3JrWmVVNURsRFZaaHVlOXJLUXcyUmJoVzJpWk9pQlJtRFBXM2RIM25zNzMzR1FlMUpFWEVYS0Nkb0Z2YmozNTBCMVVuSHp1WS03YWlpeC04M2Qta2NCTm11YzlWMEg3NnJIVmFITkNZRDFHOUVNRThNSzQzSkFMUS1CSXpHeEZvbGplTVE3VUcyUWY?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-07-22",
+          "publishedAt": "2026-07-23",
           "views": "13.0K"
         }
       ]
@@ -173,27 +173,27 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
-          "title": "Samsung SDS, Naver Cloud Vie for 47 Agencies in OnAI Rollout - ETNEWS",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE1aaTV4UWw5a1VEaWpVN09MUkVwRlZTSHdSZTB1VUUzdjVpdXczM2RpdDQ3cDg1VFk5YXNudHlDWU1NVlZuU05BS2hYbE0?oc=5\" target=\"_blank\">Samsung SDS, Naver Cloud Vie for 47 Agencies in OnAI Rollout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1aaTV4UWw5a1VEaWpVN09MUkVwRlZTSHdSZTB1VUUzdjVpdXczM2RpdDQ3cDg1VFk5YXNudHlDWU1NVlZuU05BS2hYbE0?oc=5",
-          "source": "전자신문",
-          "publishedAt": "2026-07-22",
+          "title": "Another 'DeepSeek moment'? What China's Kimi K3 means for global AI industry - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPbnlTOUNuUS0tU3oyZ2ZsSXhWQmNuTTB0ZFF6N2duLXlyRWtkaF9XcnZMLWZMaFhEa2Q2TnlFTmJzZnZZV0JpaThUbm1ud2pMNGRQTkJBN1I0VE1iLV8tZm5RbTNxT1Vlc0Q3dER4WXpnNXVwQXFNbTZ0ZlByemlKYXotdFRHb1dsMllWYndTZ0Zpa3BaSkUzaUN5eE5wa2hqOS0zR2F2OTNucUlSaGxob18tN0R6dDDSAbwBQVVfeXFMUE52bVE0cUdfWFMtZ3ZaYldmcXMxU3BmLW9ubkJUUWNzeHM0T3YzTmVVZ213LUZvWEdQeTBOeUR4dDl2Zi1PdmhVYTV1OVhpZzB5bnZuQkJ4OUxXbGFjZGkyMDJxcmdoTnhLbU4zbWw4aGFXajJzTW5sQlBLbmNQVUdsTGFwaEtUWWVzeW8wd0J0bnlwNE1Jek00ajA3c0NkV2ROVkxLLVRaMFRvM3ctNTVuTWdyYUpDVW5ZdVE?oc=5\" target=\"_blank\">Another 'DeepSeek moment'? What China's Kimi K3 means for global AI industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbnlTOUNuUS0tU3oyZ2ZsSXhWQmNuTTB0ZFF6N2duLXlyRWtkaF9XcnZMLWZMaFhEa2Q2TnlFTmJzZnZZV0JpaThUbm1ud2pMNGRQTkJBN1I0VE1iLV8tZm5RbTNxT1Vlc0Q3dER4WXpnNXVwQXFNbTZ0ZlByemlKYXotdFRHb1dsMllWYndTZ0Zpa3BaSkUzaUN5eE5wa2hqOS0zR2F2OTNucUlSaGxob18tN0R6dDDSAbwBQVVfeXFMUE52bVE0cUdfWFMtZ3ZaYldmcXMxU3BmLW9ubkJUUWNzeHM0T3YzTmVVZ213LUZvWEdQeTBOeUR4dDl2Zi1PdmhVYTV1OVhpZzB5bnZuQkJ4OUxXbGFjZGkyMDJxcmdoTnhLbU4zbWw4aGFXajJzTW5sQlBLbmNQVUdsTGFwaEtUWWVzeW8wd0J0bnlwNE1Jek00ajA3c0NkV2ROVkxLLVRaMFRvM3ctNTVuTWdyYUpDVW5ZdVE?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-07-23",
           "views": "13.0K"
         },
         {
-          "title": "Industry minister heads to Washington to manage tariff risks, advance $350 bil. investment in US - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzNOSzBIOUdmLWNxbmV0bU5DaUt0NkM1ckxodFJOOEVYM1JLbkxkMGliQWdScUFyN3lMb2FBVS11Q24zSXJqNGdhNVJDLVEzVm5ZWDZVdTNZb3JReFR1Q3NQVkJfVlk4eFhLNVY5ejcwYk4zaHpVdFpheElVa2xtdWRlcTlabW1ZbGY3THRaVmFhSWlRUGZCYlRxS2t1T0h5cHVsa01tVklhMGlYaVVtTnBMYll5Q3h5MEwwM19wcG1NX1ZFQlpWbHlaSk16QUxyc05CcEZQZTc3QlF0TFhpbVl5eWnSAeoBQVVfeXFMTUtFcVp1RkE1ZVJ2QjVoZUhmN2NDUmQxNFdfNXo1TlktcUlzN1FtNXNzb09UUHZ4d19LZHEwVUk3bGMtU2FVbEpQcHpFay1HcDV4cXVfS1NRLUUtVnl1T0tqVUlRU3Z0SVFtWlpaal9jU1RnTGZQU0VjaXhndlRaYjVpS0N1Q05nTEw5cTlFMGVERGJOMWFIWVZBRmhOazF2YnIxNG9EZTd0UlNXWE41R3lLUVItbWZMV3J2SWQtVEY4Qm0zblRkQktOaWlMQ0VqbWdRUFR3OG5GazI2ZkYtb09FbXdEZHFjNl93?oc=5\" target=\"_blank\">Industry minister heads to Washington to manage tariff risks, advance $350 bil. investment in US</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVzNOSzBIOUdmLWNxbmV0bU5DaUt0NkM1ckxodFJOOEVYM1JLbkxkMGliQWdScUFyN3lMb2FBVS11Q24zSXJqNGdhNVJDLVEzVm5ZWDZVdTNZb3JReFR1Q3NQVkJfVlk4eFhLNVY5ejcwYk4zaHpVdFpheElVa2xtdWRlcTlabW1ZbGY3THRaVmFhSWlRUGZCYlRxS2t1T0h5cHVsa01tVklhMGlYaVVtTnBMYll5Q3h5MEwwM19wcG1NX1ZFQlpWbHlaSk16QUxyc05CcEZQZTc3QlF0TFhpbVl5eWnSAeoBQVVfeXFMTUtFcVp1RkE1ZVJ2QjVoZUhmN2NDUmQxNFdfNXo1TlktcUlzN1FtNXNzb09UUHZ4d19LZHEwVUk3bGMtU2FVbEpQcHpFay1HcDV4cXVfS1NRLUUtVnl1T0tqVUlRU3Z0SVFtWlpaal9jU1RnTGZQU0VjaXhndlRaYjVpS0N1Q05nTEw5cTlFMGVERGJOMWFIWVZBRmhOazF2YnIxNG9EZTd0UlNXWE41R3lLUVItbWZMV3J2SWQtVEY4Qm0zblRkQktOaWlMQ0VqbWdRUFR3OG5GazI2ZkYtb09FbXdEZHFjNl93?oc=5",
+          "title": "Another 'DeepSeek moment'? What China's Kimi K3 means for the global AI industry - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU000ZTRxdUNpUmhsNjE3eV9Bczl5UXQ1WE9uOEFsU2ZSZzhVeUFNZVpyNUJpSTloWUUtbGlGdlBfYzFaRk91dzBiVmJvVHRCSmF0TWZMSXB0dFhxamlET2F2VWNoS2dXSWxXNmJDbmxlOWRmR3dLLUZkeFFMNXNoWkZBMnZ5R1N4dFQ4WW83bjhQdlRaRlh6QmtKY3hFUlUtX2kzNVNXZzctZVh2cy1MRDhRR3VUekJRdGg1MGRvaEt6QdIBwgFBVV95cUxNU000ZTRxdUNpUmhsNjE3eV9Bczl5UXQ1WE9uOEFsU2ZSZzhVeUFNZVpyNUJpSTloWUUtbGlGdlBfYzFaRk91dzBiVmJvVHRCSmF0TWZMSXB0dFhxamlET2F2VWNoS2dXSWxXNmJDbmxlOWRmR3dLLUZkeFFMNXNoWkZBMnZ5R1N4dFQ4WW83bjhQdlRaRlh6QmtKY3hFUlUtX2kzNVNXZzctZVh2cy1MRDhRR3VUekJRdGg1MGRvaEt6QQ?oc=5\" target=\"_blank\">Another 'DeepSeek moment'? What China's Kimi K3 means for the global AI industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU000ZTRxdUNpUmhsNjE3eV9Bczl5UXQ1WE9uOEFsU2ZSZzhVeUFNZVpyNUJpSTloWUUtbGlGdlBfYzFaRk91dzBiVmJvVHRCSmF0TWZMSXB0dFhxamlET2F2VWNoS2dXSWxXNmJDbmxlOWRmR3dLLUZkeFFMNXNoWkZBMnZ5R1N4dFQ4WW83bjhQdlRaRlh6QmtKY3hFUlUtX2kzNVNXZzctZVh2cy1MRDhRR3VUekJRdGg1MGRvaEt6QdIBwgFBVV95cUxNU000ZTRxdUNpUmhsNjE3eV9Bczl5UXQ1WE9uOEFsU2ZSZzhVeUFNZVpyNUJpSTloWUUtbGlGdlBfYzFaRk91dzBiVmJvVHRCSmF0TWZMSXB0dFhxamlET2F2VWNoS2dXSWxXNmJDbmxlOWRmR3dLLUZkeFFMNXNoWkZBMnZ5R1N4dFQ4WW83bjhQdlRaRlh6QmtKY3hFUlUtX2kzNVNXZzctZVh2cy1MRDhRR3VUekJRdGg1MGRvaEt6QQ?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-07-22",
+          "publishedAt": "2026-07-23",
           "views": "13.0K"
         },
         {
-          "title": "Korea, US expected to unveil 1st investment project as early as late next month: industry minister - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPa1d6Rk5hSWQybTM3cFphWlU5aGZTdTNnVW9NMUZQelZYNUVMTXFXV3BONkVRU093WEZWaTl3Sy05a1RFVzhtRHNCRElqWXdoM0JWQ0cyLWRLNUw5RnRVa2tPSy1zMDViWWpNWkM4NkFvU0NveW1CTURranB1bW8xTXduRHIyUS1EYVZHOFZ5N1lqaE9xNm93VHp3a1h1QVdsa1NvYU5femJsZ0pPN09xMHZ3WXdiZkdYNXdUSGZ5MEdGc1MzSFFOSWFoUW40cmszb1NUS0ZFcTdHUExZYVlsVl9WZ9IB6AFBVV95cUxPR0Nud1hBdFRnelRMcUxJWDB3SEw2VGtZUmJMNklMU25CMzdDeXFKSmRRNzBBVVl6MTB0VXBLRXFuVHVnalM1eDhtaU1EY2ozUkFNSnVLODMyRWFUa3hhak9ja2xyNmVUZmFGTUlTVkFwYm5iMVhuY1JXNm83eXRKNUdrcElMemZqMEo4aThWTE5FQ1lDbnB0emh3cXpyelFpM1BlWW1DYXNSUEMyQ1ZvanFycEdzX0ZSOUFzNUZNc3VSMzZhOXdlN2U4cWJURmNud0VzeXlNczlLWjYwSGtTekNqUV9qemxm?oc=5\" target=\"_blank\">Korea, US expected to unveil 1st investment project as early as late next month: industry minister</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPa1d6Rk5hSWQybTM3cFphWlU5aGZTdTNnVW9NMUZQelZYNUVMTXFXV3BONkVRU093WEZWaTl3Sy05a1RFVzhtRHNCRElqWXdoM0JWQ0cyLWRLNUw5RnRVa2tPSy1zMDViWWpNWkM4NkFvU0NveW1CTURranB1bW8xTXduRHIyUS1EYVZHOFZ5N1lqaE9xNm93VHp3a1h1QVdsa1NvYU5femJsZ0pPN09xMHZ3WXdiZkdYNXdUSGZ5MEdGc1MzSFFOSWFoUW40cmszb1NUS0ZFcTdHUExZYVlsVl9WZ9IB6AFBVV95cUxPR0Nud1hBdFRnelRMcUxJWDB3SEw2VGtZUmJMNklMU25CMzdDeXFKSmRRNzBBVVl6MTB0VXBLRXFuVHVnalM1eDhtaU1EY2ozUkFNSnVLODMyRWFUa3hhak9ja2xyNmVUZmFGTUlTVkFwYm5iMVhuY1JXNm83eXRKNUdrcElMemZqMEo4aThWTE5FQ1lDbnB0emh3cXpyelFpM1BlWW1DYXNSUEMyQ1ZvanFycEdzX0ZSOUFzNUZNc3VSMzZhOXdlN2U4cWJURmNud0VzeXlNczlLWjYwSGtTekNqUV9qemxm?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-07-22",
+          "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUUgyMk9qZWYwRkhNdkE4SWJnSmo1Skg4Z2EtTC1uYnRUWXBMVEpvWHNVLWlSbUZLRFBTdDdsTDdQSWkwZmdsSjRRbXZIZHRYV1E4UGwzQzVXZmxIWkJRYy1KZi11em90N1FVckQtS0xiX2EyTWoxWUtDTFd6S200eWxkOHNPZDYxODAzTnEydjlhc1R4OUliNXdkWmFyWjlZVl9GSkRsQjFiSXNwU0ZiQVFZbDQ3OC1rOHNpb1dyVTJIbnNVSWRIckt6QmxkNjEzcmN2RUNObVAxT0VoZFdRS05qejlLb05qTEpIS254OUtmczRNLWJySktDUGRHUQ?oc=5\" target=\"_blank\">Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUUgyMk9qZWYwRkhNdkE4SWJnSmo1Skg4Z2EtTC1uYnRUWXBMVEpvWHNVLWlSbUZLRFBTdDdsTDdQSWkwZmdsSjRRbXZIZHRYV1E4UGwzQzVXZmxIWkJRYy1KZi11em90N1FVckQtS0xiX2EyTWoxWUtDTFd6S200eWxkOHNPZDYxODAzTnEydjlhc1R4OUliNXdkWmFyWjlZVl9GSkRsQjFiSXNwU0ZiQVFZbDQ3OC1rOHNpb1dyVTJIbnNVSWRIckt6QmxkNjEzcmN2RUNObVAxT0VoZFdRS05qejlLb05qTEpIS254OUtmczRNLWJySktDUGRHUQ?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-07-23",
           "views": "13.0K"
         }
       ]
