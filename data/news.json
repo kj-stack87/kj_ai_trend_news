@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T03:40:05.359Z",
+  "lastUpdated": "2026-07-25T03:34:35.411Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,6 +49,14 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
+          "title": "Anthropic launches Claude Opus 5, a cheaper AI model for coding, agents and enterprise workflows - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPNDVjSTNCT2dCd2dyTkFLUEFTdDNzTzJnUUdfbkFwNWlwcHp0aVpUcEthUFRKNXhkczBuSUhqdkEzLTlKaVRiWkFlRG9PdkVvenNUWUxvOG8wZlNOLTh2VHJpZ0NxN2ZHTDg4MkJWY1RvNVJ5R2MxWmNrY1F6UEdqOXNUVnhBNjI4N1p0OVdKcjR3dzFzemFlYk12bW5TOFNxMTRkRDdfXzFkWlFiWTl2ZDhELV9oWnBDaTNYODVxODRnQU9XcjFMSlhZNTk?oc=5\" target=\"_blank\">Anthropic launches Claude Opus 5, a cheaper AI model for coding, agents and enterprise workflows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNDVjSTNCT2dCd2dyTkFLUEFTdDNzTzJnUUdfbkFwNWlwcHp0aVpUcEthUFRKNXhkczBuSUhqdkEzLTlKaVRiWkFlRG9PdkVvenNUWUxvOG8wZlNOLTh2VHJpZ0NxN2ZHTDg4MkJWY1RvNVJ5R2MxWmNrY1F6UEdqOXNUVnhBNjI4N1p0OVdKcjR3dzFzemFlYk12bW5TOFNxMTRkRDdfXzFkWlFiWTl2ZDhELV9oWnBDaTNYODVxODRnQU9XcjFMSlhZNTk?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-07-24",
+          "views": "18.0K"
+        },
+        {
           "title": "Anthropic updates Claude voice mode with more capable models - TechCrunch",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPTlo0bXJZb1JaV0MteE1fQkhUNU1uRjlpN2lxcmd5aVM0eTZfbjMwYldQWXdxU2EzLWhOcXdnQkh5WnJmTzRoZEk1c3laczdESFpOQmUwRkl6SmJVTHhVYVdqS1AyTFpSVkhIdkNTMFNPQUJVNzJITU9hQzBrQnJ1cjY0cjZ0aG9VVEdCTVl6R0NjcmtSbFM0M3ZhWQ?oc=5\" target=\"_blank\">Anthropic updates Claude voice mode with more capable models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTlo0bXJZb1JaV0MteE1fQkhUNU1uRjlpN2lxcmd5aVM0eTZfbjMwYldQWXdxU2EzLWhOcXdnQkh5WnJmTzRoZEk1c3laczdESFpOQmUwRkl6SmJVTHhVYVdqS1AyTFpSVkhIdkNTMFNPQUJVNzJITU9hQzBrQnJ1cjY0cjZ0aG9VVEdCTVl6R0NjcmtSbFM0M3ZhWQ?oc=5",
@@ -63,14 +71,6 @@
           "source": "Reuters AI",
           "publishedAt": "2026-07-22",
           "views": "18.0K"
-        },
-        {
-          "title": "Google's Gemini 3.6 Flash model cuts AI agent token costs by up to 65% on long horizon engineering tasks —and 3.5 Pro is on the way - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOM09LZlZPbmVyQnAweFVhV2dDVUtqcnFUOTRReXFydG1IOTBGRjNHQ1J6ZkJubktfeUtQTHhxSkJoQ1g1WkU1U25wVjVkSF93Q2lOMWpDdlR0ZV9sNWxLTmtkMGw0UG8yUjVHNm5vajJ1d3F3cTFoT3dEb2NGSmFTWDNOZDFTUGVHTmtQcUtTMG5GcXRubl9xc0dod2ozaHVaM08zc2N5TjgyQ01zdV8xVjU2NVMyUlBTNDVYOE51bFVZNVFaWXc5emMzamlUTDFCYnBMbk9IVFNyWFkwZWNTd1lGb0d5QVZQd0E0X0NIVW1QX3BqX2c?oc=5\" target=\"_blank\">Google's Gemini 3.6 Flash model cuts AI agent token costs by up to 65% on long horizon engineering tasks —and 3.5 Pro is on the way</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOM09LZlZPbmVyQnAweFVhV2dDVUtqcnFUOTRReXFydG1IOTBGRjNHQ1J6ZkJubktfeUtQTHhxSkJoQ1g1WkU1U25wVjVkSF93Q2lOMWpDdlR0ZV9sNWxLTmtkMGw0UG8yUjVHNm5vajJ1d3F3cTFoT3dEb2NGSmFTWDNOZDFTUGVHTmtQcUtTMG5GcXRubl9xc0dod2ozaHVaM08zc2N5TjgyQ01zdV8xVjU2NVMyUlBTNDVYOE51bFVZNVFaWXc5emMzamlUTDFCYnBMbk9IVFNyWFkwZWNTd1lGb0d5QVZQd0E0X0NIVW1QX3BqX2c?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-07-21",
-          "views": "18.0K"
         }
       ]
     },
@@ -80,27 +80,27 @@
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
         {
-          "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPcmlvOWZqWW1jNmFiQ0d1dlQ4aHRJS0UyMXhnTTMxLTdpWXRzWTd6Y0M1MXhoczkyb2Jkd2phcWhFRF9VQUlET05vVmJUdi10N0RzaENSNUtoZ3hDV1h3elpDQzF6NjdIZlBTVnBXOWdCR2Etai1QOXg1bDZSM01PSnJrM0xoMHRmY3J6V0JWZXVzTVh5VWV5eFJDRXdzR255ck9haHhOQ1VRXzl6V0Vlb2VRai1jMGM0aFVYNmR0cl8yMnVvYzRkT1d5cnotcWxDQWpmQmlPcUVOQjExZGc2RTVDYUd5NGpIVFNSZg?oc=5\" target=\"_blank\">The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPcmlvOWZqWW1jNmFiQ0d1dlQ4aHRJS0UyMXhnTTMxLTdpWXRzWTd6Y0M1MXhoczkyb2Jkd2phcWhFRF9VQUlET05vVmJUdi10N0RzaENSNUtoZ3hDV1h3elpDQzF6NjdIZlBTVnBXOWdCR2Etai1QOXg1bDZSM01PSnJrM0xoMHRmY3J6V0JWZXVzTVh5VWV5eFJDRXdzR255ck9haHhOQ1VRXzl6V0Vlb2VRai1jMGM0aFVYNmR0cl8yMnVvYzRkT1d5cnotcWxDQWpmQmlPcUVOQjExZGc2RTVDYUd5NGpIVFNSZg?oc=5",
+          "title": "Anthropic launches Claude Opus 5, a cheaper AI model for coding, agents and enterprise workflows - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPNDVjSTNCT2dCd2dyTkFLUEFTdDNzTzJnUUdfbkFwNWlwcHp0aVpUcEthUFRKNXhkczBuSUhqdkEzLTlKaVRiWkFlRG9PdkVvenNUWUxvOG8wZlNOLTh2VHJpZ0NxN2ZHTDg4MkJWY1RvNVJ5R2MxWmNrY1F6UEdqOXNUVnhBNjI4N1p0OVdKcjR3dzFzemFlYk12bW5TOFNxMTRkRDdfXzFkWlFiWTl2ZDhELV9oWnBDaTNYODVxODRnQU9XcjFMSlhZNTk?oc=5\" target=\"_blank\">Anthropic launches Claude Opus 5, a cheaper AI model for coding, agents and enterprise workflows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNDVjSTNCT2dCd2dyTkFLUEFTdDNzTzJnUUdfbkFwNWlwcHp0aVpUcEthUFRKNXhkczBuSUhqdkEzLTlKaVRiWkFlRG9PdkVvenNUWUxvOG8wZlNOLTh2VHJpZ0NxN2ZHTDg4MkJWY1RvNVJ5R2MxWmNrY1F6UEdqOXNUVnhBNjI4N1p0OVdKcjR3dzFzemFlYk12bW5TOFNxMTRkRDdfXzFkWlFiWTl2ZDhELV9oWnBDaTNYODVxODRnQU9XcjFMSlhZNTk?oc=5",
           "source": "VentureBeat AI",
-          "publishedAt": "2026-07-23",
+          "publishedAt": "2026-07-24",
+          "views": "23.0K"
+        },
+        {
+          "title": "Enterprise AI agent governance: the gaps - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNS0c3S0tObjJxa0xLXzc0YW12cHV3TWthNkphVkVRcGMzRjBNdjNGSjBrQjdHU0JvSGliUjFMSXdqc1JqVU0wM29SOTZfcjUxbmxCVmV2clF2M0dpT3RuTnd0LUd2WVVEZDFEOG1QRWNxZ1NsTlY4a2VoWHVpV1RXZUJqNlBRRE5QWWl2cm1hUUhUMHBUaWFoZnk0U3R3eWZ5U2xwYWhXSF8tUVdu?oc=5\" target=\"_blank\">Enterprise AI agent governance: the gaps</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS0c3S0tObjJxa0xLXzc0YW12cHV3TWthNkphVkVRcGMzRjBNdjNGSjBrQjdHU0JvSGliUjFMSXdqc1JqVU0wM29SOTZfcjUxbmxCVmV2clF2M0dpT3RuTnd0LUd2WVVEZDFEOG1QRWNxZ1NsTlY4a2VoWHVpV1RXZUJqNlBRRE5QWWl2cm1hUUhUMHBUaWFoZnk0U3R3eWZ5U2xwYWhXSF8tUVdu?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-07-24",
           "views": "18.0K"
         },
         {
-          "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUUgyMk9qZWYwRkhNdkE4SWJnSmo1Skg4Z2EtTC1uYnRUWXBMVEpvWHNVLWlSbUZLRFBTdDdsTDdQSWkwZmdsSjRRbXZIZHRYV1E4UGwzQzVXZmxIWkJRYy1KZi11em90N1FVckQtS0xiX2EyTWoxWUtDTFd6S200eWxkOHNPZDYxODAzTnEydjlhc1R4OUliNXdkWmFyWjlZVl9GSkRsQjFiSXNwU0ZiQVFZbDQ3OC1rOHNpb1dyVTJIbnNVSWRIckt6QmxkNjEzcmN2RUNObVAxT0VoZFdRS05qejlLb05qTEpIS254OUtmczRNLWJySktDUGRHUQ?oc=5\" target=\"_blank\">Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUUgyMk9qZWYwRkhNdkE4SWJnSmo1Skg4Z2EtTC1uYnRUWXBMVEpvWHNVLWlSbUZLRFBTdDdsTDdQSWkwZmdsSjRRbXZIZHRYV1E4UGwzQzVXZmxIWkJRYy1KZi11em90N1FVckQtS0xiX2EyTWoxWUtDTFd6S200eWxkOHNPZDYxODAzTnEydjlhc1R4OUliNXdkWmFyWjlZVl9GSkRsQjFiSXNwU0ZiQVFZbDQ3OC1rOHNpb1dyVTJIbnNVSWRIckt6QmxkNjEzcmN2RUNObVAxT0VoZFdRS05qejlLb05qTEpIS254OUtmczRNLWJySktDUGRHUQ?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-07-23",
-          "views": "18.0K"
-        },
-        {
-          "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxOT1ZRMFZOaG5DUjZtU2pPZ0s4bFdNRVlpQVk4SWxGT3BWTE5UTmNVWE9UWjd4RWxGcnBZYWZtVnN1Q3lONUd5UTN2dmZDbkcyRV91VHFLWGc3TW1NNl9VX1hGWEc5bUtvRUJTNnN4RktJenczZHJHNkZQdjV2ZncybGNJU3BnelF1Qjh2bkk0Y3JOaXplTENUbGJjWklxZzJtMEtHM3pLLXRxOERqNG8yald1T2U1Y0xZQXhHbkRheHBhVy1sZnM5dzdONER2M1lVajFjNmNnY0UxZXY4c2dfQjRxa081UzMwQzNVeUZqRFF6LWN4THgxMzhUZVVaczBqbUhzbEZJZHZWQkVha3BRQ1ZNaw?oc=5\" target=\"_blank\">The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOT1ZRMFZOaG5DUjZtU2pPZ0s4bFdNRVlpQVk4SWxGT3BWTE5UTmNVWE9UWjd4RWxGcnBZYWZtVnN1Q3lONUd5UTN2dmZDbkcyRV91VHFLWGc3TW1NNl9VX1hGWEc5bUtvRUJTNnN4RktJenczZHJHNkZQdjV2ZncybGNJU3BnelF1Qjh2bkk0Y3JOaXplTENUbGJjWklxZzJtMEtHM3pLLXRxOERqNG8yald1T2U1Y0xZQXhHbkRheHBhVy1sZnM5dzdONER2M1lVajFjNmNnY0UxZXY4c2dfQjRxa081UzMwQzNVeUZqRFF6LWN4THgxMzhUZVVaczBqbUhzbEZJZHZWQkVha3BRQ1ZNaw?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-07-23",
+          "title": "OpenAI Presence sells enterprise AI agents with engineers attached - AI News",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNWGFnSWl2VEFhM3lxWkZaQVlPRHY0WVAycGVlX3hUNV9oM1BHNTZSTmk3NnhjSzdOeTNNZjJIeEcyaFM0REVKb0lRQ0JjUDJubWYzVFlXaWFmQkhDRUlLazdSOHdZczBTSC1OYTZPcHhJajFtQ0tROFBjTTY0YjA0dkhIWkV0NHRqUHUzOXRwVQ?oc=5\" target=\"_blank\">OpenAI Presence sells enterprise AI agents with engineers attached</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI News</font>",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWGFnSWl2VEFhM3lxWkZaQVlPRHY0WVAycGVlX3hUNV9oM1BHNTZSTmk3NnhjSzdOeTNNZjJIeEcyaFM0REVKb0lRQ0JjUDJubWYzVFlXaWFmQkhDRUlLazdSOHdZczBTSC1OYTZPcHhJajFtQ0tROFBjTTY0YjA0dkhIWkV0NHRqUHUzOXRwVQ?oc=5",
+          "source": "AI News",
+          "publishedAt": "2026-07-24",
           "views": "18.0K"
         }
       ]
@@ -111,6 +111,14 @@
       "description": "규제, 책임, 신뢰, 저작권 같은 문제를 보는 관점",
       "items": [
         {
+          "title": "US appeals court blocks part of Texas children's online safety law - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQMTVYLVZKS3pVbzN0WFNCVWt2TFZXd2k5SkxOQ0dQOUx6SEsyVk42UzI3d0lnalJPR1JFSmloV21RQi00d0hJQWRRcF9ka2oxNXdpenFfREhZTHkxZ043Y2RwSDdGNDNjd2hiOVREY0haM1hNNmNNTEFjVlZhaXFBT2NfNnc3cEd3bnAwR2hOZHhmOWxkTUd5ckRQSmdCSXhNUU1uOUpNOEkzc3Bfa2VRX2tzOG54WURoY3hwQjRR?oc=5\" target=\"_blank\">US appeals court blocks part of Texas children's online safety law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMTVYLVZKS3pVbzN0WFNCVWt2TFZXd2k5SkxOQ0dQOUx6SEsyVk42UzI3d0lnalJPR1JFSmloV21RQi00d0hJQWRRcF9ka2oxNXdpenFfREhZTHkxZ043Y2RwSDdGNDNjd2hiOVREY0haM1hNNmNNTEFjVlZhaXFBT2NfNnc3cEd3bnAwR2hOZHhmOWxkTUd5ckRQSmdCSXhNUU1uOUpNOEkzc3Bfa2VRX2tzOG54WURoY3hwQjRR?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-07-24",
+          "views": "18.0K"
+        },
+        {
           "title": "US keeps S. Korea, 9 other economies on FX policy 'monitoring list' - The Korea Times",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPbjM4TjcwRi05RERZdWxRbHFDMDVEMVQwbkhGbHM5ekhfMkNQRTNGRnpZX0F3UElqc2VYVG84dVJZcU1UV2dtOVNUSUNNY1hiYjJYWThZVWJwOUJrMjR1ZllJbUNmbkFSYTE3QUNsY2h6WEI3THQ2aW1CN256UjZmUFNmdEl1S29OY2k4dVhST21ndWhnT3hRWmR6dHVfeDY2QkhRWndXcDJORmViWnRPSnplaktqSnfSAbwBQVVfeXFMTkVpNWpsSWxLM1l1UjZrMWQ1S0p6TGJ0WkM3cmFud3g2RTNQZ3JjNV9GMGZLaWdNYk5pbTBKbFlQak5obVYzcEFuMkh3NGw2TkltaUhYUXpmdHdWVWRFcE9YeU55a2loOE9pQXQxNjREYkZuVEdVV0xvbUJjM1dhdWh2M3E1NloteVlpbS0xNXRCYWJMd0xVeVVraGNoa2t3R2N0TzhSSGJHdXVEZHhPaWU4WmU4bGxKTFBCQVo?oc=5\" target=\"_blank\">US keeps S. Korea, 9 other economies on FX policy 'monitoring list'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbjM4TjcwRi05RERZdWxRbHFDMDVEMVQwbkhGbHM5ekhfMkNQRTNGRnpZX0F3UElqc2VYVG84dVJZcU1UV2dtOVNUSUNNY1hiYjJYWThZVWJwOUJrMjR1ZllJbUNmbkFSYTE3QUNsY2h6WEI3THQ2aW1CN256UjZmUFNmdEl1S29OY2k4dVhST21ndWhnT3hRWmR6dHVfeDY2QkhRWndXcDJORmViWnRPSnplaktqSnfSAbwBQVVfeXFMTkVpNWpsSWxLM1l1UjZrMWQ1S0p6TGJ0WkM3cmFud3g2RTNQZ3JjNV9GMGZLaWdNYk5pbTBKbFlQak5obVYzcEFuMkh3NGw2TkltaUhYUXpmdHdWVWRFcE9YeU55a2loOE9pQXQxNjREYkZuVEdVV0xvbUJjM1dhdWh2M3E1NloteVlpbS0xNXRCYWJMd0xVeVVraGNoa2t3R2N0TzhSSGJHdXVEZHhPaWU4WmU4bGxKTFBCQVo?oc=5",
@@ -119,19 +127,11 @@
           "views": "18.0K"
         },
         {
-          "title": "Anthropic to donate $20 million to US political group that supports AI regulation - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQYjVuYzdvaWlCQnplaW5rS3FwcFNjOHpQT3plWjNtVkp5cXQ5eTlTcl9naTZ6WWpwR1FWdlROYTBhR0pRRHZXNzZiT0dDcTkzMmFaampfZzdEeWtEZVJ4SG8tbU5aQ0hrQmU5ZmJqcUh5bVNqM3ViX3Z6N2lUTHRnc2ZnVjNHcEFwblpQRUVnQ2pGTzl6SktMR2FtMURUeUY2ek5oa2IyVkJlR0V5RkZwSTZra1U4WlNGOUtFd2RFNWdheHR3Y0E?oc=5\" target=\"_blank\">Anthropic to donate $20 million to US political group that supports AI regulation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYjVuYzdvaWlCQnplaW5rS3FwcFNjOHpQT3plWjNtVkp5cXQ5eTlTcl9naTZ6WWpwR1FWdlROYTBhR0pRRHZXNzZiT0dDcTkzMmFaampfZzdEeWtEZVJ4SG8tbU5aQ0hrQmU5ZmJqcUh5bVNqM3ViX3Z6N2lUTHRnc2ZnVjNHcEFwblpQRUVnQ2pGTzl6SktMR2FtMURUeUY2ek5oa2IyVkJlR0V5RkZwSTZra1U4WlNGOUtFd2RFNWdheHR3Y0E?oc=5",
+          "title": "Alabama updates ethics guidance for lawyers amid worries about AI misuse - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQZnlnZXloQUZiY2dxcmFBU0Z2OElxR0dSMHV5YTc5Tm16NWJLMWxTWk9ZNWR1TzQ0dzdjalVOS0g4MTNRZzNXLTRNRzFPQ1dHN1hJd0YyRjRIOVBUR2pLQmhMMUJ4bXRGNzkyZWs4YldNS1NiYUxiQ1A3ZnZRT2pCUFJTWENsSW9TNnd4MUdKb3dTQUpkcWlDUVdPclJZRVVuZ19fQkpIMzUwZ1hZRExDTVdGaDlWYzhrN2lsVy1R?oc=5\" target=\"_blank\">Alabama updates ethics guidance for lawyers amid worries about AI misuse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZnlnZXloQUZiY2dxcmFBU0Z2OElxR0dSMHV5YTc5Tm16NWJLMWxTWk9ZNWR1TzQ0dzdjalVOS0g4MTNRZzNXLTRNRzFPQ1dHN1hJd0YyRjRIOVBUR2pLQmhMMUJ4bXRGNzkyZWs4YldNS1NiYUxiQ1A3ZnZRT2pCUFJTWENsSW9TNnd4MUdKb3dTQUpkcWlDUVdPclJZRVVuZ19fQkpIMzUwZ1hZRExDTVdGaDlWYzhrN2lsVy1R?oc=5",
           "source": "Reuters AI",
-          "publishedAt": "2026-07-22",
-          "views": "18.0K"
-        },
-        {
-          "title": "UK's Bloomsbury among beneficiaries of $1.5 billion Anthropic copyright lawsuit settlement - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQTkV5Sk5uTFEtWmE2Qkl3RGtCUGZhdEhaeW1mTS1LRVptbGl0dzE1Z3Q4eFJhV25SM0ROdjR5NlNEczNvODhvVUd3ZDh2LWdGYmxYX240NmtDSFgxU0pQQ1hpYl8tOEp2Uk0wSWNPaXdNNEYzSWFBSkd1bXFTbFkwbnktcU9ZaFBQT2YtNFN5elRDUWlEWXVSYUxkbXZxcWppVFdBc0Z2a2VUU2Z0dTFNc3pDQ3lYWHdFMDVOTU9kMWVtaEky?oc=5\" target=\"_blank\">UK's Bloomsbury among beneficiaries of $1.5 billion Anthropic copyright lawsuit settlement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTkV5Sk5uTFEtWmE2Qkl3RGtCUGZhdEhaeW1mTS1LRVptbGl0dzE1Z3Q4eFJhV25SM0ROdjR5NlNEczNvODhvVUd3ZDh2LWdGYmxYX240NmtDSFgxU0pQQ1hpYl8tOEp2Uk0wSWNPaXdNNEYzSWFBSkd1bXFTbFkwbnktcU9ZaFBQT2YtNFN5elRDUWlEWXVSYUxkbXZxcWppVFdBc0Z2a2VUU2Z0dTFNc3pDQ3lYWHdFMDVOTU9kMWVtaEky?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-07-22",
+          "publishedAt": "2026-07-23",
           "views": "18.0K"
         }
       ]
@@ -150,19 +150,19 @@
           "views": "18.0K"
         },
         {
-          "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation - TechCrunch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQdnBoNXNCTGtvcWdpbWExMzB6WXFPa09xVVE3QXpBaGJYNDM1MTlzWEpfd3lQcWtLX1UwVkNnTHJEX0dPY3B0eVFHb0tmQjczVlRVem8wUExudzVYYUFpd095TnJrZGRlV0VSc1ZYUHNVX0MyTHUtdVZTUU50SWg1dThMQkFBSXE1aC1VZ2wxMTdMLWlyTUlrMHBVd2JoZm1iQXQwUnpVbmI3VWJ6WUxz?oc=5\" target=\"_blank\">Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdnBoNXNCTGtvcWdpbWExMzB6WXFPa09xVVE3QXpBaGJYNDM1MTlzWEpfd3lQcWtLX1UwVkNnTHJEX0dPY3B0eVFHb0tmQjczVlRVem8wUExudzVYYUFpd095TnJrZGRlV0VSc1ZYUHNVX0MyTHUtdVZTUU50SWg1dThMQkFBSXE1aC1VZ2wxMTdMLWlyTUlrMHBVd2JoZm1iQXQwUnpVbmI3VWJ6WUxz?oc=5",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-07-17",
-          "views": "18.0K"
+          "title": "Lee meets OpenAI, Nvidia CEOs, calls for greater roles in S. Korea's AI investment projects - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOTldSelNvY3pYbzhXeUFCTVFpY3JxZjRxSnAzeU4wNVFsSXZ2Z3pUV3NYb2k0UFNUVEZlM2lFU3lxbFVFLWJCblhPeHJjTGtWdlZuMWx1RHBkbS1oU2xNdHZMVmJrMEFXQzFzV2JLMTNxN1R5b1A0NVA5TXJoNUFGRmRUQ1VfZ0dQQndyU1M1MEJCZXRrT2hVQjJNMmZCQWxINHVwTk8tWXpvR3NqOUdtUHFGMkFXWFZaTHdGSHlpWXF0eWMwRFJpUV8xbmNOWUHSAdQBQVVfeXFMTnZOc0V4MDBsVi1nR0lWWld4c210TkdlVWRfc201elZEdmpmYlNEZ0dXTE44YWJOOWNrV3pEV3E4a2FDOE9IcVVCSnJKaEJhRGJFWldhTC1uUW1pTHI0eFFMSlRGZnYwWUhRenktaXJXWlhhbVl1OGZWSGpJdWMtcjhtMk0zdUZCYzdRMHEtbWp1aENqVUdGZ2I0aXRKMG1jbTlBUkhickhHaE11VkpaZVpGcXNPcHdLa1d3dEplZnNXSU1fd3pOaUo5eXJyWDJfa0JOSzE?oc=5\" target=\"_blank\">Lee meets OpenAI, Nvidia CEOs, calls for greater roles in S. Korea's AI investment projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTldSelNvY3pYbzhXeUFCTVFpY3JxZjRxSnAzeU4wNVFsSXZ2Z3pUV3NYb2k0UFNUVEZlM2lFU3lxbFVFLWJCblhPeHJjTGtWdlZuMWx1RHBkbS1oU2xNdHZMVmJrMEFXQzFzV2JLMTNxN1R5b1A0NVA5TXJoNUFGRmRUQ1VfZ0dQQndyU1M1MEJCZXRrT2hVQjJNMmZCQWxINHVwTk8tWXpvR3NqOUdtUHFGMkFXWFZaTHdGSHlpWXF0eWMwRFJpUV8xbmNOWUHSAdQBQVVfeXFMTnZOc0V4MDBsVi1nR0lWWld4c210TkdlVWRfc201elZEdmpmYlNEZ0dXTE44YWJOOWNrV3pEV3E4a2FDOE9IcVVCSnJKaEJhRGJFWldhTC1uUW1pTHI0eFFMSlRGZnYwWUhRenktaXJXWlhhbVl1OGZWSGpJdWMtcjhtMk0zdUZCYzdRMHEtbWp1aENqVUdGZ2I0aXRKMG1jbTlBUkhickhHaE11VkpaZVpGcXNPcHdLa1d3dEplZnNXSU1fd3pOaUo5eXJyWDJfa0JOSzE?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-07-25",
+          "views": "13.0K"
         },
         {
-          "title": "Korean firms review Canada investment plans after submarine bid loss - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT0F6amluc2dmSndlQnJjUG1UaWV2YXdUVGVidno5V3ZfcVdPUDRBYmg4VzQwM2plRmY2RTIwYjVjNWhCNzV5TDBzVjZmbU9MSFhzVkdRWlgxOFF0dDZkYnZJNHViRkFycGpKNjJYeHgtUm50MDRvbGl6Q3JKS3loTC1NdzZfTDdZTmZxcVpUWnZmWG1WcndEVVZBTzZNNlpEQ2dPVGRxaVEyMHRoSkNUTUZjdzZXS1V5MWQwS0ZrSDFfU3fSAcgBQVVfeXFMTVRsbWI3c0RRdkVpQ09UaFNZTjBtREQwZGw4WXNnNVpjVHB3UzhFZERoQ1VZYjItVWwyd3BsU3JrWmVVNURsRFZaaHVlOXJLUXcyUmJoVzJpWk9pQlJtRFBXM2RIM25zNzMzR1FlMUpFWEVYS0Nkb0Z2YmozNTBCMVVuSHp1WS03YWlpeC04M2Qta2NCTm11YzlWMEg3NnJIVmFITkNZRDFHOUVNRThNSzQzSkFMUS1CSXpHeEZvbGplTVE3VUcyUWY?oc=5\" target=\"_blank\">Korean firms review Canada investment plans after submarine bid loss</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT0F6amluc2dmSndlQnJjUG1UaWV2YXdUVGVidno5V3ZfcVdPUDRBYmg4VzQwM2plRmY2RTIwYjVjNWhCNzV5TDBzVjZmbU9MSFhzVkdRWlgxOFF0dDZkYnZJNHViRkFycGpKNjJYeHgtUm50MDRvbGl6Q3JKS3loTC1NdzZfTDdZTmZxcVpUWnZmWG1WcndEVVZBTzZNNlpEQ2dPVGRxaVEyMHRoSkNUTUZjdzZXS1V5MWQwS0ZrSDFfU3fSAcgBQVVfeXFMTVRsbWI3c0RRdkVpQ09UaFNZTjBtREQwZGw4WXNnNVpjVHB3UzhFZERoQ1VZYjItVWwyd3BsU3JrWmVVNURsRFZaaHVlOXJLUXcyUmJoVzJpWk9pQlJtRFBXM2RIM25zNzMzR1FlMUpFWEVYS0Nkb0Z2YmozNTBCMVVuSHp1WS03YWlpeC04M2Qta2NCTm11YzlWMEg3NnJIVmFITkNZRDFHOUVNRThNSzQzSkFMUS1CSXpHeEZvbGplTVE3VUcyUWY?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-07-23",
+          "title": "Semiconductor Equipment Lead Times Double as Global Fab Investment Surges - ETNEWS",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE8zRUJUNUlIVllzai1kaXU2eEN6NDNnU1padVRLY3dkQ3UtXzJjRnlSLXlialhFVVpwRGhRcUFTQjNEczM5UEJRelY1OXo?oc=5\" target=\"_blank\">Semiconductor Equipment Lead Times Double as Global Fab Investment Surges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8zRUJUNUlIVllzai1kaXU2eEN6NDNnU1padVRLY3dkQ3UtXzJjRnlSLXlialhFVVpwRGhRcUFTQjNEczM5UEJRelY1OXo?oc=5",
+          "source": "전자신문",
+          "publishedAt": "2026-07-24",
           "views": "13.0K"
         }
       ]
@@ -173,27 +173,27 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
-          "title": "Another 'DeepSeek moment'? What China's Kimi K3 means for global AI industry - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPbnlTOUNuUS0tU3oyZ2ZsSXhWQmNuTTB0ZFF6N2duLXlyRWtkaF9XcnZMLWZMaFhEa2Q2TnlFTmJzZnZZV0JpaThUbm1ud2pMNGRQTkJBN1I0VE1iLV8tZm5RbTNxT1Vlc0Q3dER4WXpnNXVwQXFNbTZ0ZlByemlKYXotdFRHb1dsMllWYndTZ0Zpa3BaSkUzaUN5eE5wa2hqOS0zR2F2OTNucUlSaGxob18tN0R6dDDSAbwBQVVfeXFMUE52bVE0cUdfWFMtZ3ZaYldmcXMxU3BmLW9ubkJUUWNzeHM0T3YzTmVVZ213LUZvWEdQeTBOeUR4dDl2Zi1PdmhVYTV1OVhpZzB5bnZuQkJ4OUxXbGFjZGkyMDJxcmdoTnhLbU4zbWw4aGFXajJzTW5sQlBLbmNQVUdsTGFwaEtUWWVzeW8wd0J0bnlwNE1Jek00ajA3c0NkV2ROVkxLLVRaMFRvM3ctNTVuTWdyYUpDVW5ZdVE?oc=5\" target=\"_blank\">Another 'DeepSeek moment'? What China's Kimi K3 means for global AI industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbnlTOUNuUS0tU3oyZ2ZsSXhWQmNuTTB0ZFF6N2duLXlyRWtkaF9XcnZMLWZMaFhEa2Q2TnlFTmJzZnZZV0JpaThUbm1ud2pMNGRQTkJBN1I0VE1iLV8tZm5RbTNxT1Vlc0Q3dER4WXpnNXVwQXFNbTZ0ZlByemlKYXotdFRHb1dsMllWYndTZ0Zpa3BaSkUzaUN5eE5wa2hqOS0zR2F2OTNucUlSaGxob18tN0R6dDDSAbwBQVVfeXFMUE52bVE0cUdfWFMtZ3ZaYldmcXMxU3BmLW9ubkJUUWNzeHM0T3YzTmVVZ213LUZvWEdQeTBOeUR4dDl2Zi1PdmhVYTV1OVhpZzB5bnZuQkJ4OUxXbGFjZGkyMDJxcmdoTnhLbU4zbWw4aGFXajJzTW5sQlBLbmNQVUdsTGFwaEtUWWVzeW8wd0J0bnlwNE1Jek00ajA3c0NkV2ROVkxLLVRaMFRvM3ctNTVuTWdyYUpDVW5ZdVE?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-07-23",
+          "title": "AI agent deployment Archives - AI News",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE9kREJ6VGI5VzUtaDVVNXBtQmd3U3ZuckJ3cEpETzVSeXQ1QWRHdGFHeDloRUFKaGtPTXVhN1dIbUp2c0xkX0pWaFhNT1d1ZG1pOTkzQmRSVEsyT1JwOXlYV2VtQTlZVjAtYlc4VWJXN256NnBTcVdKUmYwLWxKUQ?oc=5\" target=\"_blank\">AI agent deployment Archives</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI News</font>",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kREJ6VGI5VzUtaDVVNXBtQmd3U3ZuckJ3cEpETzVSeXQ1QWRHdGFHeDloRUFKaGtPTXVhN1dIbUp2c0xkX0pWaFhNT1d1ZG1pOTkzQmRSVEsyT1JwOXlYV2VtQTlZVjAtYlc4VWJXN256NnBTcVdKUmYwLWxKUQ?oc=5",
+          "source": "AI News",
+          "publishedAt": "2026-07-24",
           "views": "13.0K"
         },
         {
-          "title": "Another 'DeepSeek moment'? What China's Kimi K3 means for the global AI industry - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU000ZTRxdUNpUmhsNjE3eV9Bczl5UXQ1WE9uOEFsU2ZSZzhVeUFNZVpyNUJpSTloWUUtbGlGdlBfYzFaRk91dzBiVmJvVHRCSmF0TWZMSXB0dFhxamlET2F2VWNoS2dXSWxXNmJDbmxlOWRmR3dLLUZkeFFMNXNoWkZBMnZ5R1N4dFQ4WW83bjhQdlRaRlh6QmtKY3hFUlUtX2kzNVNXZzctZVh2cy1MRDhRR3VUekJRdGg1MGRvaEt6QdIBwgFBVV95cUxNU000ZTRxdUNpUmhsNjE3eV9Bczl5UXQ1WE9uOEFsU2ZSZzhVeUFNZVpyNUJpSTloWUUtbGlGdlBfYzFaRk91dzBiVmJvVHRCSmF0TWZMSXB0dFhxamlET2F2VWNoS2dXSWxXNmJDbmxlOWRmR3dLLUZkeFFMNXNoWkZBMnZ5R1N4dFQ4WW83bjhQdlRaRlh6QmtKY3hFUlUtX2kzNVNXZzctZVh2cy1MRDhRR3VUekJRdGg1MGRvaEt6QQ?oc=5\" target=\"_blank\">Another 'DeepSeek moment'? What China's Kimi K3 means for the global AI industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU000ZTRxdUNpUmhsNjE3eV9Bczl5UXQ1WE9uOEFsU2ZSZzhVeUFNZVpyNUJpSTloWUUtbGlGdlBfYzFaRk91dzBiVmJvVHRCSmF0TWZMSXB0dFhxamlET2F2VWNoS2dXSWxXNmJDbmxlOWRmR3dLLUZkeFFMNXNoWkZBMnZ5R1N4dFQ4WW83bjhQdlRaRlh6QmtKY3hFUlUtX2kzNVNXZzctZVh2cy1MRDhRR3VUekJRdGg1MGRvaEt6QdIBwgFBVV95cUxNU000ZTRxdUNpUmhsNjE3eV9Bczl5UXQ1WE9uOEFsU2ZSZzhVeUFNZVpyNUJpSTloWUUtbGlGdlBfYzFaRk91dzBiVmJvVHRCSmF0TWZMSXB0dFhxamlET2F2VWNoS2dXSWxXNmJDbmxlOWRmR3dLLUZkeFFMNXNoWkZBMnZ5R1N4dFQ4WW83bjhQdlRaRlh6QmtKY3hFUlUtX2kzNVNXZzctZVh2cy1MRDhRR3VUekJRdGg1MGRvaEt6QQ?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-07-23",
+          "title": "EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc3Vadng3eFVJX2E0cGhld0pQbGMxMWlmQU1WWFFLaFA3VkdtV1FtYnpPeGs4OHZ0TzZHX2VLaE55cDlsR2poS1JxVDA3emxoVnhiSkNrUWpDOVFKWFJsb0QydHo5VWdyQTFUemh1aFdDa1RRYVJybGFhUXhrLTFVQjN5bTRoY1lFbEhuSXR1ZVFCQW1VT3pGMlBLSkFSc3E2N1dpcjVBVVdkWklwTGF3cTZraklYNkFobDFUbENwZXY?oc=5\" target=\"_blank\">EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc3Vadng3eFVJX2E0cGhld0pQbGMxMWlmQU1WWFFLaFA3VkdtV1FtYnpPeGs4OHZ0TzZHX2VLaE55cDlsR2poS1JxVDA3emxoVnhiSkNrUWpDOVFKWFJsb0QydHo5VWdyQTFUemh1aFdDa1RRYVJybGFhUXhrLTFVQjN5bTRoY1lFbEhuSXR1ZVFCQW1VT3pGMlBLSkFSc3E2N1dpcjVBVVdkWklwTGF3cTZraklYNkFobDFUbENwZXY?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-07-24",
           "views": "13.0K"
         },
         {
-          "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUUgyMk9qZWYwRkhNdkE4SWJnSmo1Skg4Z2EtTC1uYnRUWXBMVEpvWHNVLWlSbUZLRFBTdDdsTDdQSWkwZmdsSjRRbXZIZHRYV1E4UGwzQzVXZmxIWkJRYy1KZi11em90N1FVckQtS0xiX2EyTWoxWUtDTFd6S200eWxkOHNPZDYxODAzTnEydjlhc1R4OUliNXdkWmFyWjlZVl9GSkRsQjFiSXNwU0ZiQVFZbDQ3OC1rOHNpb1dyVTJIbnNVSWRIckt6QmxkNjEzcmN2RUNObVAxT0VoZFdRS05qejlLb05qTEpIS254OUtmczRNLWJySktDUGRHUQ?oc=5\" target=\"_blank\">Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUUgyMk9qZWYwRkhNdkE4SWJnSmo1Skg4Z2EtTC1uYnRUWXBMVEpvWHNVLWlSbUZLRFBTdDdsTDdQSWkwZmdsSjRRbXZIZHRYV1E4UGwzQzVXZmxIWkJRYy1KZi11em90N1FVckQtS0xiX2EyTWoxWUtDTFd6S200eWxkOHNPZDYxODAzTnEydjlhc1R4OUliNXdkWmFyWjlZVl9GSkRsQjFiSXNwU0ZiQVFZbDQ3OC1rOHNpb1dyVTJIbnNVSWRIckt6QmxkNjEzcmN2RUNObVAxT0VoZFdRS05qejlLb05qTEpIS254OUtmczRNLWJySktDUGRHUQ?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-07-23",
+          "title": "EXCLUSIVE: Defense tech company Anduril in talks to raise funding at about $100 billion valuation - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQi1vbktDeWx4OVF5U01jenY1R21ZSUxPeGtSU0xBYVBndjA1VFBlU2ZvRG4yb1p6bXJPLWpUcVNYQzk3OGR0d1diSHVhOGVSU1RiT0N5U0p6LU1qMjZ4eXEyNXc3UGJhYzhwOC1xVV9pRHVmMkNDX2NCMDQ0V0hudndUd0NfZURXaHRNUXpXWEczTmtRZXd3TldIS0VQaU9EcmR1ZTQtajNjRWVOc0s5dFlXMlh2SS1wUEZNYkNGMUNkRFlPeVNCbzVIeGZiWThpVjlYZ3R3?oc=5\" target=\"_blank\">EXCLUSIVE: Defense tech company Anduril in talks to raise funding at about $100 billion valuation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQi1vbktDeWx4OVF5U01jenY1R21ZSUxPeGtSU0xBYVBndjA1VFBlU2ZvRG4yb1p6bXJPLWpUcVNYQzk3OGR0d1diSHVhOGVSU1RiT0N5U0p6LU1qMjZ4eXEyNXc3UGJhYzhwOC1xVV9pRHVmMkNDX2NCMDQ0V0hudndUd0NfZURXaHRNUXpXWEczTmtRZXd3TldIS0VQaU9EcmR1ZTQtajNjRWVOc0s5dFlXMlh2SS1wUEZNYkNGMUNkRFlPeVNCbzVIeGZiWThpVjlYZ3R3?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-07-24",
           "views": "13.0K"
         }
       ]
