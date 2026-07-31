@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30T03:24:34.205Z",
+  "lastUpdated": "2026-07-31T03:47:20.246Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,6 +49,14 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
+          "title": "AI price wars: OpenAI cuts GPT-5.6 Luna prices by 80% as model competition shifts toward cost - Venturebeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ2hVQW43d3QzOWlhMnMta2dhbDFTSDFSWC1Ua01fb09wcGFvR1d4M2dPcWlnTlRTdFBqVzVZT202dVpfV2FOYkpncmxlSnRhSUVZZ0Z0TDBiYXhmejBTVkRPRmhENHlMME1HOHQ3NU5BeTV1OVR3d2E4amRjRnZ6VV9TQXotcjRXVUpSTWU3UWxJTlVOZFNLWGUzY0dMVnhGZUNVakFPTFBwY1ZiU2wwNDVoSDk0dG9LR1NpZDdndEFsbWVW?oc=5\" target=\"_blank\">AI price wars: OpenAI cuts GPT-5.6 Luna prices by 80% as model competition shifts toward cost</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Venturebeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ2hVQW43d3QzOWlhMnMta2dhbDFTSDFSWC1Ua01fb09wcGFvR1d4M2dPcWlnTlRTdFBqVzVZT202dVpfV2FOYkpncmxlSnRhSUVZZ0Z0TDBiYXhmejBTVkRPRmhENHlMME1HOHQ3NU5BeTV1OVR3d2E4amRjRnZ6VV9TQXotcjRXVUpSTWU3UWxJTlVOZFNLWGUzY0dMVnhGZUNVakFPTFBwY1ZiU2wwNDVoSDk0dG9LR1NpZDdndEFsbWVW?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-07-30",
+          "views": "18.0K"
+        },
+        {
           "title": "Samsung Elec wins $200 billion Broadcom AI chip partnership, boosting foundry push - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVVhSemYyWk9XZmJzMXhYLXFvUm1rdElNNW0zYVktUlBGVFdtbHNJa1NBX2gwSGNVbEZpbnlYVi1CcnBvT1BiZEtNSHdDSDllMTNYQXVKMDN2UEdTS2ZOb1FPNzFBMEhpRERtOXVkODJ5ZEEycTVnRXpaTzlsX2Y5ZXdmUndUakpPUlAtaHY3NzIxczd5X3k4ODk0dW9Fenk0TzlCQ2dQaml2aURvTEgtNENFNTVodmcybEVlTGQ5Nmt4Nm9LUTJNOXV2U05jV3ByVzB5cU85OExDRWlKRjlJ?oc=5\" target=\"_blank\">Samsung Elec wins $200 billion Broadcom AI chip partnership, boosting foundry push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVVhSemYyWk9XZmJzMXhYLXFvUm1rdElNNW0zYVktUlBGVFdtbHNJa1NBX2gwSGNVbEZpbnlYVi1CcnBvT1BiZEtNSHdDSDllMTNYQXVKMDN2UEdTS2ZOb1FPNzFBMEhpRERtOXVkODJ5ZEEycTVnRXpaTzlsX2Y5ZXdmUndUakpPUlAtaHY3NzIxczd5X3k4ODk0dW9Fenk0TzlCQ2dQaml2aURvTEgtNENFNTVodmcybEVlTGQ5Nmt4Nm9LUTJNOXV2U05jV3ByVzB5cU85OExDRWlKRjlJ?oc=5",
@@ -57,19 +65,11 @@
           "views": "18.0K"
         },
         {
-          "title": "Anthropic launches Claude Opus 5, a cheaper AI model for coding, agents and enterprise workflows - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPNDVjSTNCT2dCd2dyTkFLUEFTdDNzTzJnUUdfbkFwNWlwcHp0aVpUcEthUFRKNXhkczBuSUhqdkEzLTlKaVRiWkFlRG9PdkVvenNUWUxvOG8wZlNOLTh2VHJpZ0NxN2ZHTDg4MkJWY1RvNVJ5R2MxWmNrY1F6UEdqOXNUVnhBNjI4N1p0OVdKcjR3dzFzemFlYk12bW5TOFNxMTRkRDdfXzFkWlFiWTl2ZDhELV9oWnBDaTNYODVxODRnQU9XcjFMSlhZNTk?oc=5\" target=\"_blank\">Anthropic launches Claude Opus 5, a cheaper AI model for coding, agents and enterprise workflows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "title": "Anthropic launches Claude Opus 5, a cheaper AI model for coding, agents and enterprise workflows - Venturebeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPNDVjSTNCT2dCd2dyTkFLUEFTdDNzTzJnUUdfbkFwNWlwcHp0aVpUcEthUFRKNXhkczBuSUhqdkEzLTlKaVRiWkFlRG9PdkVvenNUWUxvOG8wZlNOLTh2VHJpZ0NxN2ZHTDg4MkJWY1RvNVJ5R2MxWmNrY1F6UEdqOXNUVnhBNjI4N1p0OVdKcjR3dzFzemFlYk12bW5TOFNxMTRkRDdfXzFkWlFiWTl2ZDhELV9oWnBDaTNYODVxODRnQU9XcjFMSlhZNTk?oc=5\" target=\"_blank\">Anthropic launches Claude Opus 5, a cheaper AI model for coding, agents and enterprise workflows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Venturebeat</font>",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNDVjSTNCT2dCd2dyTkFLUEFTdDNzTzJnUUdfbkFwNWlwcHp0aVpUcEthUFRKNXhkczBuSUhqdkEzLTlKaVRiWkFlRG9PdkVvenNUWUxvOG8wZlNOLTh2VHJpZ0NxN2ZHTDg4MkJWY1RvNVJ5R2MxWmNrY1F6UEdqOXNUVnhBNjI4N1p0OVdKcjR3dzFzemFlYk12bW5TOFNxMTRkRDdfXzFkWlFiWTl2ZDhELV9oWnBDaTNYODVxODRnQU9XcjFMSlhZNTk?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-07-24",
-          "views": "18.0K"
-        },
-        {
-          "title": "Anthropic updates Claude voice mode with more capable models - TechCrunch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPTlo0bXJZb1JaV0MteE1fQkhUNU1uRjlpN2lxcmd5aVM0eTZfbjMwYldQWXdxU2EzLWhOcXdnQkh5WnJmTzRoZEk1c3laczdESFpOQmUwRkl6SmJVTHhVYVdqS1AyTFpSVkhIdkNTMFNPQUJVNzJITU9hQzBrQnJ1cjY0cjZ0aG9VVEdCTVl6R0NjcmtSbFM0M3ZhWQ?oc=5\" target=\"_blank\">Anthropic updates Claude voice mode with more capable models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTlo0bXJZb1JaV0MteE1fQkhUNU1uRjlpN2lxcmd5aVM0eTZfbjMwYldQWXdxU2EzLWhOcXdnQkh5WnJmTzRoZEk1c3laczdESFpOQmUwRkl6SmJVTHhVYVdqS1AyTFpSVkhIdkNTMFNPQUJVNzJITU9hQzBrQnJ1cjY0cjZ0aG9VVEdCTVl6R0NjcmtSbFM0M3ZhWQ?oc=5",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-07-23",
           "views": "18.0K"
         }
       ]
@@ -80,12 +80,20 @@
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
         {
-          "title": "Anthropic launches Claude Opus 5, a cheaper AI model for coding, agents and enterprise workflows - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPNDVjSTNCT2dCd2dyTkFLUEFTdDNzTzJnUUdfbkFwNWlwcHp0aVpUcEthUFRKNXhkczBuSUhqdkEzLTlKaVRiWkFlRG9PdkVvenNUWUxvOG8wZlNOLTh2VHJpZ0NxN2ZHTDg4MkJWY1RvNVJ5R2MxWmNrY1F6UEdqOXNUVnhBNjI4N1p0OVdKcjR3dzFzemFlYk12bW5TOFNxMTRkRDdfXzFkWlFiWTl2ZDhELV9oWnBDaTNYODVxODRnQU9XcjFMSlhZNTk?oc=5\" target=\"_blank\">Anthropic launches Claude Opus 5, a cheaper AI model for coding, agents and enterprise workflows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "title": "Anthropic launches Claude Opus 5, a cheaper AI model for coding, agents and enterprise workflows - Venturebeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPNDVjSTNCT2dCd2dyTkFLUEFTdDNzTzJnUUdfbkFwNWlwcHp0aVpUcEthUFRKNXhkczBuSUhqdkEzLTlKaVRiWkFlRG9PdkVvenNUWUxvOG8wZlNOLTh2VHJpZ0NxN2ZHTDg4MkJWY1RvNVJ5R2MxWmNrY1F6UEdqOXNUVnhBNjI4N1p0OVdKcjR3dzFzemFlYk12bW5TOFNxMTRkRDdfXzFkWlFiWTl2ZDhELV9oWnBDaTNYODVxODRnQU9XcjFMSlhZNTk?oc=5\" target=\"_blank\">Anthropic launches Claude Opus 5, a cheaper AI model for coding, agents and enterprise workflows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Venturebeat</font>",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNDVjSTNCT2dCd2dyTkFLUEFTdDNzTzJnUUdfbkFwNWlwcHp0aVpUcEthUFRKNXhkczBuSUhqdkEzLTlKaVRiWkFlRG9PdkVvenNUWUxvOG8wZlNOLTh2VHJpZ0NxN2ZHTDg4MkJWY1RvNVJ5R2MxWmNrY1F6UEdqOXNUVnhBNjI4N1p0OVdKcjR3dzFzemFlYk12bW5TOFNxMTRkRDdfXzFkWlFiWTl2ZDhELV9oWnBDaTNYODVxODRnQU9XcjFMSlhZNTk?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-07-24",
           "views": "23.0K"
+        },
+        {
+          "title": "NTT DATA AIVista and Snowflake: Identity alone won’t secure enterprise AI agents - Venturebeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNeWtMSjJOb2pzVGUybmdsRnlqR2tQQUJqS0hsbndxWUx2aDJXb0IxYjNPdW5iWnlGam5wRDBGRnJTYm1vQUtkeS1JdFZYZE9lYnpKS0tjNmFqRXB0UzM0VnpBOUFhUnBmM1Y2YTBTZHY5OGpENktRSWphOEFvWTRENUpBcXgzM3NwTEwyazBGOHFYNXJqeWVYd1VTMFlJTDlZQVA4SGthc0c1Z3hiYURPbQ?oc=5\" target=\"_blank\">NTT DATA AIVista and Snowflake: Identity alone won’t secure enterprise AI agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Venturebeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeWtMSjJOb2pzVGUybmdsRnlqR2tQQUJqS0hsbndxWUx2aDJXb0IxYjNPdW5iWnlGam5wRDBGRnJTYm1vQUtkeS1JdFZYZE9lYnpKS0tjNmFqRXB0UzM0VnpBOUFhUnBmM1Y2YTBTZHY5OGpENktRSWphOEFvWTRENUpBcXgzM3NwTEwyazBGOHFYNXJqeWVYd1VTMFlJTDlZQVA4SGthc0c1Z3hiYURPbQ?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-07-30",
+          "views": "18.0K"
         },
         {
           "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents - TechCrunch",
@@ -93,14 +101,6 @@
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYVo5VDhNVW9kVlBLZTJpWklDb2t2Y3lqdVh6bHR1cHo4RVl0ZmlVbXh6WXQxN09LYzhzUW1qTVMyZm1IUl96RzJDVWIwSUJHMFF3UHRveHltcS1zaUhkaWE0cXBEbEx4THFmaXBUN2RnaUk2OWVja3gwM3h6ZXpUYXVuLVNYLTFIVXpxVkIxcndtSjhaZDU1dS1XRHRGdm45WDQ0ZWh6QQ?oc=5",
           "source": "TechCrunch AI",
           "publishedAt": "2026-07-29",
-          "views": "18.0K"
-        },
-        {
-          "title": "Snowflake launches Cortex AI Gateway to control AI agents and prevent runaway enterprise costs - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPYXZ3R3RZdlNEaUx6SDFoeUFjalZtLWEzVDdEdjdnMjl5WFNOU1NfaXBUdFZ5WmZBOFh0ckN6U0R1aV9qbm5CNXpyeDc0U2FNekc2TmFOaThIYkZodnRXR1hCazRaWE5tQkJweEU3dF83MGQ3dk1XWkt3a3dfODlLUnV1cGp6dGxvTkRaMWVUSHZXVW5jb202X0FWaENuT3dONDQ0TFpESDY5eTM2aVpUR2FZQ0M2dEU0T2JtbzhlS2ZKUzB5MFE?oc=5\" target=\"_blank\">Snowflake launches Cortex AI Gateway to control AI agents and prevent runaway enterprise costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYXZ3R3RZdlNEaUx6SDFoeUFjalZtLWEzVDdEdjdnMjl5WFNOU1NfaXBUdFZ5WmZBOFh0ckN6U0R1aV9qbm5CNXpyeDc0U2FNekc2TmFOaThIYkZodnRXR1hCazRaWE5tQkJweEU3dF83MGQ3dk1XWkt3a3dfODlLUnV1cGp6dGxvTkRaMWVUSHZXVW5jb202X0FWaENuT3dONDQ0TFpESDY5eTM2aVpUR2FZQ0M2dEU0T2JtbzhlS2ZKUzB5MFE?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-07-28",
           "views": "18.0K"
         }
       ]
@@ -127,12 +127,12 @@
           "views": "18.0K"
         },
         {
-          "title": "US keeps S. Korea, 9 other economies on FX policy 'monitoring list' - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPbjM4TjcwRi05RERZdWxRbHFDMDVEMVQwbkhGbHM5ekhfMkNQRTNGRnpZX0F3UElqc2VYVG84dVJZcU1UV2dtOVNUSUNNY1hiYjJYWThZVWJwOUJrMjR1ZllJbUNmbkFSYTE3QUNsY2h6WEI3THQ2aW1CN256UjZmUFNmdEl1S29OY2k4dVhST21ndWhnT3hRWmR6dHVfeDY2QkhRWndXcDJORmViWnRPSnplaktqSnfSAbwBQVVfeXFMTkVpNWpsSWxLM1l1UjZrMWQ1S0p6TGJ0WkM3cmFud3g2RTNQZ3JjNV9GMGZLaWdNYk5pbTBKbFlQak5obVYzcEFuMkh3NGw2TkltaUhYUXpmdHdWVWRFcE9YeU55a2loOE9pQXQxNjREYkZuVEdVV0xvbUJjM1dhdWh2M3E1NloteVlpbS0xNXRCYWJMd0xVeVVraGNoa2t3R2N0TzhSSGJHdXVEZHhPaWU4WmU4bGxKTFBCQVo?oc=5\" target=\"_blank\">US keeps S. Korea, 9 other economies on FX policy 'monitoring list'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbjM4TjcwRi05RERZdWxRbHFDMDVEMVQwbkhGbHM5ekhfMkNQRTNGRnpZX0F3UElqc2VYVG84dVJZcU1UV2dtOVNUSUNNY1hiYjJYWThZVWJwOUJrMjR1ZllJbUNmbkFSYTE3QUNsY2h6WEI3THQ2aW1CN256UjZmUFNmdEl1S29OY2k4dVhST21ndWhnT3hRWmR6dHVfeDY2QkhRWndXcDJORmViWnRPSnplaktqSnfSAbwBQVVfeXFMTkVpNWpsSWxLM1l1UjZrMWQ1S0p6TGJ0WkM3cmFud3g2RTNQZ3JjNV9GMGZLaWdNYk5pbTBKbFlQak5obVYzcEFuMkh3NGw2TkltaUhYUXpmdHdWVWRFcE9YeU55a2loOE9pQXQxNjREYkZuVEdVV0xvbUJjM1dhdWh2M3E1NloteVlpbS0xNXRCYWJMd0xVeVVraGNoa2t3R2N0TzhSSGJHdXVEZHhPaWU4WmU4bGxKTFBCQVo?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-07-23",
-          "views": "18.0K"
+          "title": "Yen weakens after intervention-led surge ahead of BOJ policy decision - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxObG50QjFDY2VPUEhRMEx0U1JQb0lobkF2V2QwRVdVMVZKR3NEMDZEbGphZmU0RURka0xtQ1dVbHd3Y01HMDlGSkVnWXBNQ1BDa0dfNk5Ed1k2Q0lCV0dKYXdVMDI5MHlRSlBZZjktbVVBZENUdjdYRy1iOXJnVXBodzNNNEtzV3BXVmdqN2pfVWVDalRvVW5Wd3JndlBsM2pMSlVtTzBySHpoQ2pSYTd4alQ0RWl6OWNLc3hIODNB?oc=5\" target=\"_blank\">Yen weakens after intervention-led surge ahead of BOJ policy decision</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObG50QjFDY2VPUEhRMEx0U1JQb0lobkF2V2QwRVdVMVZKR3NEMDZEbGphZmU0RURka0xtQ1dVbHd3Y01HMDlGSkVnWXBNQ1BDa0dfNk5Ed1k2Q0lCV0dKYXdVMDI5MHlRSlBZZjktbVVBZENUdjdYRy1iOXJnVXBodzNNNEtzV3BXVmdqN2pfVWVDalRvVW5Wd3JndlBsM2pMSlVtTzBySHpoQ2pSYTd4alQ0RWl6OWNLc3hIODNB?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-07-31",
+          "views": "13.0K"
         }
       ]
     },
@@ -142,11 +142,11 @@
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
         {
-          "title": "UK's Burnham outlines youth training overhaul as AI reshapes jobs market - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPU1NVVnp2amYxR05CeFVvaUhQcnhYcF9NYi0yYkY0SVJtTnN5RVQ4TlRFbW8ta3k2emF4WEZTNk1FVGMwblFQcENoSmxPUUwyVEhzUmppMFRDdDdNVGJ3Y0FUa1V6cnY0S0dDZkUwUV9iM1EyX1FyUmRwZzBGR0gtd0l2RjhFUURlSTFmdm84YllEd3BfRGVBeE5mZHpJbGFfaVNxTE9QRjFObVdWdkN6aEZJYw?oc=5\" target=\"_blank\">UK's Burnham outlines youth training overhaul as AI reshapes jobs market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU1NVVnp2amYxR05CeFVvaUhQcnhYcF9NYi0yYkY0SVJtTnN5RVQ4TlRFbW8ta3k2emF4WEZTNk1FVGMwblFQcENoSmxPUUwyVEhzUmppMFRDdDdNVGJ3Y0FUa1V6cnY0S0dDZkUwUV9iM1EyX1FyUmRwZzBGR0gtd0l2RjhFUURlSTFmdm84YllEd3BfRGVBeE5mZHpJbGFfaVNxTE9QRjFObVdWdkN6aEZJYw?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-07-28",
+          "title": "DOGE Veterans Are Landing Big Jobs at Prediction Markets - WIRED",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNa09OczB2QnQybHR6cnpaME1hemkzckYxekJ0M3lJeTFlci1NMEFrN2VNWVp1T0hCX0ZGcV9JQU1IU3IyVlNRVFJpM0d5V0d4bTN0ZU1KUU1uMUhIXy10ZG1MY2lJeVpacmxNMlFsQjFVeWlLOThKZEhGRkxfRno0RzNXQW5kMGU0UmdZYVZn?oc=5\" target=\"_blank\">DOGE Veterans Are Landing Big Jobs at Prediction Markets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa09OczB2QnQybHR6cnpaME1hemkzckYxekJ0M3lJeTFlci1NMEFrN2VNWVp1T0hCX0ZGcV9JQU1IU3IyVlNRVFJpM0d5V0d4bTN0ZU1KUU1uMUhIXy10ZG1MY2lJeVpacmxNMlFsQjFVeWlLOThKZEhGRkxfRno0RzNXQW5kMGU0UmdZYVZn?oc=5",
+          "source": "WIRED AI",
+          "publishedAt": "2026-07-30",
           "views": "18.0K"
         },
         {
@@ -173,27 +173,27 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
-          "title": "Bill Gates planning to visit Korea next month: industry sources - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUEYyLWdCaE9lazJtb2dNRDFzX1JqaklOVlN3amk4dWVFa1NxUFN0TlZLc1A0SXBVOWR3MUJZV05uTU9rUXpwYmNCZW81MWRzZGVFMlAzRkp6VFZNUHZuSGh4Q2tjdEJ1c3ZKSGFTQ21MTFZXUVpPYkZ2TTdtTjVtNVZVeXQ5MWd3NWVreHNuMzRETEhmVWtuQlZ6RmxMWU8wekdOZkxHQWRPOXRWbzFOX0k0TlVyX2l4NjNn0gHAAUFVX3lxTE92Uzl2RXZIZkVBRDZ5YlZFNGljTUM4YU14MVVGNXh2S3RnUEhlVUJocldCMHY1RDA1dHBnMUZXaGRjODg0RldndXF4VTBVcW1EUFBwMXotMWItNFU2bmhkRkJ3ZUZPSjNleFc5a2ZhSkEyVlhwd21oQzBzZVZoU0NTVC1RampGQl9xMGtIckxuV1NuUGs0NnFrbVJ6ODRVMnlyeEM5b09RSXJQWW1sQVhjTXJEazlVUk5sQkdoQ19QMQ?oc=5\" target=\"_blank\">Bill Gates planning to visit Korea next month: industry sources</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUEYyLWdCaE9lazJtb2dNRDFzX1JqaklOVlN3amk4dWVFa1NxUFN0TlZLc1A0SXBVOWR3MUJZV05uTU9rUXpwYmNCZW81MWRzZGVFMlAzRkp6VFZNUHZuSGh4Q2tjdEJ1c3ZKSGFTQ21MTFZXUVpPYkZ2TTdtTjVtNVZVeXQ5MWd3NWVreHNuMzRETEhmVWtuQlZ6RmxMWU8wekdOZkxHQWRPOXRWbzFOX0k0TlVyX2l4NjNn0gHAAUFVX3lxTE92Uzl2RXZIZkVBRDZ5YlZFNGljTUM4YU14MVVGNXh2S3RnUEhlVUJocldCMHY1RDA1dHBnMUZXaGRjODg0RldndXF4VTBVcW1EUFBwMXotMWItNFU2bmhkRkJ3ZUZPSjNleFc5a2ZhSkEyVlhwd21oQzBzZVZoU0NTVC1RampGQl9xMGtIckxuV1NuUGs0NnFrbVJ6ODRVMnlyeEM5b09RSXJQWW1sQVhjTXJEazlVUk5sQkdoQ19QMQ?oc=5",
+          "title": "Telecom bets on AI-RAN to win global 6G standards race - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNaXk1M3dzeEIzNzJGZU1NVzI0WFhqWlFsUzBaTHQ2YVhnalVYT0o5TWdEMktqVW4xdjdIZFlJUk9FcHg0aVhmU2NQUi1YQmNmM1JDY29rbHp5YlBWN2E3Wm8teG1PbzRPS0dvaTQ5SXdxUmFJZXFDWnRURDI2a0VXLU9wUWdnUEZvbnRwNDluX2N2TmE0ZU5yYms4OGpNTVhTemdTX1dnX0dJdEFVUFQ0Y3JLcGLSAboBQVVfeXFMUDFwM0Nfd0psZlM2VVRLYWE1WkVRaEdsanFpY281dUMtM0U0b2pRVlFGRk5Ibmt0cmZOc0UwRi1KOWFvR2tkZE9iNExSTGdlSDg2dEFmMHo4empPRnNRZDg2c1VLajJzMDd0R0cyZG0xSlZBdDVXTGFuVnVfR2trRnhGeG1sdFNSQTZMZFJkbTcyWkZ3cGRxMWxZb2xOZkZSSDdaTkxITmxibFhpWlJ6RXBydEZxU3daOEZB?oc=5\" target=\"_blank\">Telecom bets on AI-RAN to win global 6G standards race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaXk1M3dzeEIzNzJGZU1NVzI0WFhqWlFsUzBaTHQ2YVhnalVYT0o5TWdEMktqVW4xdjdIZFlJUk9FcHg0aVhmU2NQUi1YQmNmM1JDY29rbHp5YlBWN2E3Wm8teG1PbzRPS0dvaTQ5SXdxUmFJZXFDWnRURDI2a0VXLU9wUWdnUEZvbnRwNDluX2N2TmE0ZU5yYms4OGpNTVhTemdTX1dnX0dJdEFVUFQ0Y3JLcGLSAboBQVVfeXFMUDFwM0Nfd0psZlM2VVRLYWE1WkVRaEdsanFpY281dUMtM0U0b2pRVlFGRk5Ibmt0cmZOc0UwRi1KOWFvR2tkZE9iNExSTGdlSDg2dEFmMHo4empPRnNRZDg2c1VLajJzMDd0R0cyZG0xSlZBdDVXTGFuVnVfR2trRnhGeG1sdFNSQTZMZFJkbTcyWkZ3cGRxMWxZb2xOZkZSSDdaTkxITmxibFhpWlJ6RXBydEZxU3daOEZB?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-07-29",
+          "publishedAt": "2026-07-31",
           "views": "13.0K"
         },
         {
-          "title": "Huons Meditech wins trademark infringement lawsuit against Chinese company - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYlJKcVV6RE14N29YWHlnNVZ1R3lPS0Z6V1ZiYjR3OXJLd0NNMjhuUGhWTWM2TXVFd3FoNmpUbE5HZ2hSWWpMdm5ManlnaDc1YnoxLVczRmc1VEE3aDdVNHB4R2stVnZoWk5WWEFMRnQwOEhSbXd4VG9EM2F4SlB3M25GQVQzYzJWd01qNjQ4Z1NvNFM0MDBEelA1enFZdHFKWkdWcV84WC01SmF6aEFCZ0JpRk4wdFc1bHZCVkNSYk9uOENLRlJRNTVyZEpCTTR50gHQAUFVX3lxTE9iUkpxVXpETXg3b1hYeWc1VnVHeU9LRnpXVmJiNHc5ckt3Q00yOG5QaFZNYzZNdUV3cWg2alRsTkdnaFJZakx2bkxqeWdoNzViejEtVzNGZzVUQTdoN1U0cHhHay1WdmhaTlZYQUxGdDA4SFJtd3hUb0QzYXhKUHczbkZBVDNjMlZ3TWo2NDhnU280UzQwMER6UDV6cVl0cUpaR1ZxXzhYLTVKYXpoQUJnQmlGTjB0VzVsdkJWQ1JiT244Q0tGUlE1NXJkSkJNNHk?oc=5\" target=\"_blank\">Huons Meditech wins trademark infringement lawsuit against Chinese company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYlJKcVV6RE14N29YWHlnNVZ1R3lPS0Z6V1ZiYjR3OXJLd0NNMjhuUGhWTWM2TXVFd3FoNmpUbE5HZ2hSWWpMdm5ManlnaDc1YnoxLVczRmc1VEE3aDdVNHB4R2stVnZoWk5WWEFMRnQwOEhSbXd4VG9EM2F4SlB3M25GQVQzYzJWd01qNjQ4Z1NvNFM0MDBEelA1enFZdHFKWkdWcV84WC01SmF6aEFCZ0JpRk4wdFc1bHZCVkNSYk9uOENLRlJRNTVyZEpCTTR50gHQAUFVX3lxTE9iUkpxVXpETXg3b1hYeWc1VnVHeU9LRnpXVmJiNHc5ckt3Q00yOG5QaFZNYzZNdUV3cWg2alRsTkdnaFJZakx2bkxqeWdoNzViejEtVzNGZzVUQTdoN1U0cHhHay1WdmhaTlZYQUxGdDA4SFJtd3hUb0QzYXhKUHczbkZBVDNjMlZ3TWo2NDhnU280UzQwMER6UDV6cVl0cUpaR1ZxXzhYLTVKYXpoQUJnQmlGTjB0VzVsdkJWQ1JiT244Q0tGUlE1NXJkSkJNNHk?oc=5",
+          "title": "Lee says S. Korea, Chile can create synergy on critical minerals, defense industry - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNb3FVOW1NVE1IRGJVZUZJT2NMel9QV2haWm0xb3J1dTJnejZNV0R0QmcwdEVxY0VVZmpXMTBWR3ZaMzlxSEI0ejlHN3VFOWttTjhNanAyTktSa0kxSzM5RUl5bWRmSE8tOS1mYTFpeDZ0cmVxNjhnOXBVNEZ4Z3FyVGpTckQzMW9sSjQtQzhVeTZyUkJpNTBiWlNMOE9Uc0kzWGdXVkxHZGtxNGt6WTdtY05sbDgtR2M4aHdrc2d3YWVaU2hS0gHKAUFVX3lxTE1sVUJjWDU1eEhyblVHYjNpbVlPVy1qUzJmay1LSEdjRXdCUW1jajN4b1hnLURhSExDZWprWWZLMjZQTTRFdVo3SWdfMGxLcDJFRzhBWE8tVE1RcFZqVXdlVFFGc0lxcVlSc0JpSkFDUmdYVVREbjJ1bjFsVGlueVpOX1UtaWh1aUh6RExrVGY4dWN1TXh3ZFlPb0Q2Mjd5emhDTWdmdC1fNVVGcUx3Q0g0WjFRdTJ2aG1jaHd6QUs1M0JvZWFFSHhjZkE?oc=5\" target=\"_blank\">Lee says S. Korea, Chile can create synergy on critical minerals, defense industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNb3FVOW1NVE1IRGJVZUZJT2NMel9QV2haWm0xb3J1dTJnejZNV0R0QmcwdEVxY0VVZmpXMTBWR3ZaMzlxSEI0ejlHN3VFOWttTjhNanAyTktSa0kxSzM5RUl5bWRmSE8tOS1mYTFpeDZ0cmVxNjhnOXBVNEZ4Z3FyVGpTckQzMW9sSjQtQzhVeTZyUkJpNTBiWlNMOE9Uc0kzWGdXVkxHZGtxNGt6WTdtY05sbDgtR2M4aHdrc2d3YWVaU2hS0gHKAUFVX3lxTE1sVUJjWDU1eEhyblVHYjNpbVlPVy1qUzJmay1LSEdjRXdCUW1jajN4b1hnLURhSExDZWprWWZLMjZQTTRFdVo3SWdfMGxLcDJFRzhBWE8tVE1RcFZqVXdlVFFGc0lxcVlSc0JpSkFDUmdYVVREbjJ1bjFsVGlueVpOX1UtaWh1aUh6RExrVGY4dWN1TXh3ZFlPb0Q2Mjd5emhDTWdmdC1fNVVGcUx3Q0g0WjFRdTJ2aG1jaHd6QUs1M0JvZWFFSHhjZkE?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-07-29",
+          "publishedAt": "2026-07-30",
           "views": "13.0K"
         },
         {
-          "title": "Biz sentiment rebounds in July on strong manufacturing outlook: BOK - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNbE16MXRSdkg3a2FNelFadmdWQ2ducm9xOUtfWW5PVVNwVDVNbHA3eS1ad2JvbnV0SVZ3VkV2S21wUU1lZ1BOOVo4UGpNelhLZlhkUm50Mi1LWjYya1FvRHhsT0VGZGtBaEI0VjkxekprelZ5QmVlczVkMEM2VFFjaWdVYlVGdEFWaWF4S2wwUUt6bTRjb1gxYW1tYjV2Wlc2VnRMbE5vQWpVTi1zLXl5MktR0gG3AUFVX3lxTE1FS2ZJRi1PZkR0XzFGRXdkSTdINUt6RlNaN1ZtTmlsM1gyLTR2TFdwOTNNQXpBUGh6bW5TaE1QcG9jVmIxTXFvdlVQbTlyTFBndVdkQm9uQWMyOC1qYWNjbGo2WktrMHJRLVI5UUlUVmJkc1Z1a0NaSGpVcEdlSXlIb3phMm1SYkFOY1k3eGdvX3VYX2JMTUtmT2p5ZWdodFlScmFUR3ZlaWI3elhTU1E5VlphaXlBUQ?oc=5\" target=\"_blank\">Biz sentiment rebounds in July on strong manufacturing outlook: BOK</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbE16MXRSdkg3a2FNelFadmdWQ2ducm9xOUtfWW5PVVNwVDVNbHA3eS1ad2JvbnV0SVZ3VkV2S21wUU1lZ1BOOVo4UGpNelhLZlhkUm50Mi1LWjYya1FvRHhsT0VGZGtBaEI0VjkxekprelZ5QmVlczVkMEM2VFFjaWdVYlVGdEFWaWF4S2wwUUt6bTRjb1gxYW1tYjV2Wlc2VnRMbE5vQWpVTi1zLXl5MktR0gG3AUFVX3lxTE1FS2ZJRi1PZkR0XzFGRXdkSTdINUt6RlNaN1ZtTmlsM1gyLTR2TFdwOTNNQXpBUGh6bW5TaE1QcG9jVmIxTXFvdlVQbTlyTFBndVdkQm9uQWMyOC1qYWNjbGo2WktrMHJRLVI5UUlUVmJkc1Z1a0NaSGpVcEdlSXlIb3phMm1SYkFOY1k3eGdvX3VYX2JMTUtmT2p5ZWdodFlScmFUR3ZlaWI3elhTU1E5VlphaXlBUQ?oc=5",
+          "title": "Korea sets standards for newly legalized tattoo industry - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPVGZHUlRBMDlkc05kZHVDR3h0NFkweWhZYXpRdllyVTBIaWxhNGNCalBUWnVkbGZSV0g2eG1ESGNlV2VRdjFXYXptQ1llLUhrOG5JRWp4Y2xpc1BlRmpOQmJaeGlnUXh2Q3BMdDRUbmppaXNZZWpvZmxWUGZZR2VPdzdlOV9pZ1NoUFRyUVNPaC1VbUd4QWRqRUtYNXplaVgyWlN4YzdEWXRlYlpGSWVQODhB0gG3AUFVX3lxTE1aNTdSRGc3RG9jM19BWkdHbVRCYk80MFRwMjh0TEMxUU15bEVxM2c3SVhtWnFVakhZMlBaLU8yVThnSlRuU1lNNVdKS3V5ZHJOejViWnRLd215MkV0MWpQTjBYRHRQbVpqU0RSeVhRM2l2UUhkRzlfWWQ4Yklnd2V0U0ptUkNUTk9YNGo1dThlMHJQUG1aZUVhdHNhRk0zaXBnQlZ6NmpFb1RRbnluZ3RrRUNYQUU3Yw?oc=5\" target=\"_blank\">Korea sets standards for newly legalized tattoo industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVGZHUlRBMDlkc05kZHVDR3h0NFkweWhZYXpRdllyVTBIaWxhNGNCalBUWnVkbGZSV0g2eG1ESGNlV2VRdjFXYXptQ1llLUhrOG5JRWp4Y2xpc1BlRmpOQmJaeGlnUXh2Q3BMdDRUbmppaXNZZWpvZmxWUGZZR2VPdzdlOV9pZ1NoUFRyUVNPaC1VbUd4QWRqRUtYNXplaVgyWlN4YzdEWXRlYlpGSWVQODhB0gG3AUFVX3lxTE1aNTdSRGc3RG9jM19BWkdHbVRCYk80MFRwMjh0TEMxUU15bEVxM2c3SVhtWnFVakhZMlBaLU8yVThnSlRuU1lNNVdKS3V5ZHJOejViWnRLd215MkV0MWpQTjBYRHRQbVpqU0RSeVhRM2l2UUhkRzlfWWQ4Yklnd2V0U0ptUkNUTk9YNGo1dThlMHJQUG1aZUVhdHNhRk0zaXBnQlZ6NmpFb1RRbnluZ3RrRUNYQUU3Yw?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-07-29",
+          "publishedAt": "2026-07-30",
           "views": "13.0K"
         }
       ]
