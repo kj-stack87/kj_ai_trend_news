@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-02T03:49:48.000Z",
+  "lastUpdated": "2026-08-03T03:57:29.907Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -47,156 +47,31 @@
       "name": "모델",
       "hashtag": "#모델",
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
-      "items": [
-        {
-          "title": "AI price wars: OpenAI cuts GPT-5.6 Luna prices by 80% as model competition shifts toward cost - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ2hVQW43d3QzOWlhMnMta2dhbDFTSDFSWC1Ua01fb09wcGFvR1d4M2dPcWlnTlRTdFBqVzVZT202dVpfV2FOYkpncmxlSnRhSUVZZ0Z0TDBiYXhmejBTVkRPRmhENHlMME1HOHQ3NU5BeTV1OVR3d2E4amRjRnZ6VV9TQXotcjRXVUpSTWU3UWxJTlVOZFNLWGUzY0dMVnhGZUNVakFPTFBwY1ZiU2wwNDVoSDk0dG9LR1NpZDdndEFsbWVW?oc=5\" target=\"_blank\">AI price wars: OpenAI cuts GPT-5.6 Luna prices by 80% as model competition shifts toward cost</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ2hVQW43d3QzOWlhMnMta2dhbDFTSDFSWC1Ua01fb09wcGFvR1d4M2dPcWlnTlRTdFBqVzVZT202dVpfV2FOYkpncmxlSnRhSUVZZ0Z0TDBiYXhmejBTVkRPRmhENHlMME1HOHQ3NU5BeTV1OVR3d2E4amRjRnZ6VV9TQXotcjRXVUpSTWU3UWxJTlVOZFNLWGUzY0dMVnhGZUNVakFPTFBwY1ZiU2wwNDVoSDk0dG9LR1NpZDdndEFsbWVW?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-07-30",
-          "views": "18.0K"
-        },
-        {
-          "title": "Korea's monthly exports up 62.8% in July on strong chip shipments - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQS1drQTBFTWlBRWtXVVo0blJrcjFNTnU1YUFsNVRXeV9qQUVYMU9vMTlISzB4cnU5dnB6MWNGX1NwcHdOazBaNzQ0ZDZNUUwySmg5dWRYa1Jja0plbUlVRW40WHROWm96eDhVTFFidjJGa2RwY2poOVJGdnFOb2VkN2g4TlBUSUw3NDZ6T0YwLURvZkN5dkhwU2RjSUthc2JxaHRLZ1E1cDZKclY10gGyAUFVX3lxTE0tQktEbUtaUzFYYU0tYnZGaUdNSmxvQ2JOWi1QZDVuMWtRV1Y4Y0ZoRU9DYktTOGdEVXJ0MEMtZGtLa1NxYzRMamRfYnFQQm5RUXRJSUNLU1VZd2VhRHpINEQ0MHZKOUtGUXp3bC1vWG1YN21lMy1JS0g2eU1XcnRmck03dm01YUVabVZXX05vUVdjNnN2OXp1US1adUpna283WjEzek9oWDBQb2cxMW1MUlE?oc=5\" target=\"_blank\">Korea's monthly exports up 62.8% in July on strong chip shipments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQS1drQTBFTWlBRWtXVVo0blJrcjFNTnU1YUFsNVRXeV9qQUVYMU9vMTlISzB4cnU5dnB6MWNGX1NwcHdOazBaNzQ0ZDZNUUwySmg5dWRYa1Jja0plbUlVRW40WHROWm96eDhVTFFidjJGa2RwY2poOVJGdnFOb2VkN2g4TlBUSUw3NDZ6T0YwLURvZkN5dkhwU2RjSUthc2JxaHRLZ1E1cDZKclY10gGyAUFVX3lxTE0tQktEbUtaUzFYYU0tYnZGaUdNSmxvQ2JOWi1QZDVuMWtRV1Y4Y0ZoRU9DYktTOGdEVXJ0MEMtZGtLa1NxYzRMamRfYnFQQm5RUXRJSUNLU1VZd2VhRHpINEQ0MHZKOUtGUXp3bC1vWG1YN21lMy1JS0g2eU1XcnRmck03dm01YUVabVZXX05vUVdjNnN2OXp1US1adUpna283WjEzek9oWDBQb2cxMW1MUlE?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-08-01",
-          "views": "13.0K"
-        },
-        {
-          "title": "Korea's monthly exports up 62.8% in July on strong chip shipments - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR2UzLWFRNzU1SVJwVjhpdlVHX05rQ3dTSXVPcHpfcHZvUy01ZzdaN2pyaUtKUG12WGNFS3JmQVRPU3lVOTVaMEk1Nk1rNzlzU2tYU1FCeWZJaXRpYnpMUXRUd2d0bGRYSzNuVjFWVldNNldJTV8zUXo4VWJYQ1dZa013N1ZQc0tvS2hqSEl0eU9JdnkxdzFjUnlnNUJXdjdNaHV5VjR3bWtUM1VJODh3TWNMUXNuc1NVYTBSR1BzdkXSAbIBQVVfeXFMTS1CS0RtS1pTMVhhTS1idkZpR01KbG9DYk5aLVBkNW4xa1FXVjhjRmhFT0NiS1M4Z0RVcnQwQy1ka0trU3FjNExqZF9icVBCblFRdElJQ0tTVVl3ZWFEekg0RDQwdko5S0ZRendsLW9YbVg3bWUzLUlLSDZ5TVdydGZyTTd2bTVhRVptVldfTm9RV2M2c3Y5enVRLVp1SmdrbzdaMTN6T2hYMFBvZzExbUxSUQ?oc=5\" target=\"_blank\">Korea's monthly exports up 62.8% in July on strong chip shipments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR2UzLWFRNzU1SVJwVjhpdlVHX05rQ3dTSXVPcHpfcHZvUy01ZzdaN2pyaUtKUG12WGNFS3JmQVRPU3lVOTVaMEk1Nk1rNzlzU2tYU1FCeWZJaXRpYnpMUXRUd2d0bGRYSzNuVjFWVldNNldJTV8zUXo4VWJYQ1dZa013N1ZQc0tvS2hqSEl0eU9JdnkxdzFjUnlnNUJXdjdNaHV5VjR3bWtUM1VJODh3TWNMUXNuc1NVYTBSR1BzdkXSAbIBQVVfeXFMTS1CS0RtS1pTMVhhTS1idkZpR01KbG9DYk5aLVBkNW4xa1FXVjhjRmhFT0NiS1M4Z0RVcnQwQy1ka0trU3FjNExqZF9icVBCblFRdElJQ0tTVVl3ZWFEekg0RDQwdko5S0ZRendsLW9YbVg3bWUzLUlLSDZ5TVdydGZyTTd2bTVhRVptVldfTm9RV2M2c3Y5enVRLVp1SmdrbzdaMTN6T2hYMFBvZzExbUxSUQ?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-08-01",
-          "views": "13.0K"
-        }
-      ]
+      "items": []
     },
     {
       "name": "활용사례",
       "hashtag": "#활용사례",
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
-      "items": [
-        {
-          "title": "How is your enterprise tracking AI agent telemetry? Groundcover thinks it should never leave your cloud - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQckNzVkwtaDlHTENrZG5TdnlMRV9WZjhSVVZVOGZRcDIyTklWMk1tS19ibjlTVWgzektoa0VURXZtNzBHMXZlc25XcEVHX1hoa2lSbFFwZU81TnNFMzVRNnRPTUh4eENqbno3T2hhZElPbzNTV05KdW5yaW90VWFQcTlONlhOU0txYkx3LVJtYVdSY2RXYWpJd1RFR1lnS2ZXV1pYUXpCcWhxQUlESEVUZE9vMERCZWt4TFE4cEhzS0d6Q2tKci12eFpicw?oc=5\" target=\"_blank\">How is your enterprise tracking AI agent telemetry? Groundcover thinks it should never leave your cloud</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQckNzVkwtaDlHTENrZG5TdnlMRV9WZjhSVVZVOGZRcDIyTklWMk1tS19ibjlTVWgzektoa0VURXZtNzBHMXZlc25XcEVHX1hoa2lSbFFwZU81TnNFMzVRNnRPTUh4eENqbno3T2hhZElPbzNTV05KdW5yaW90VWFQcTlONlhOU0txYkx3LVJtYVdSY2RXYWpJd1RFR1lnS2ZXV1pYUXpCcWhxQUlESEVUZE9vMERCZWt4TFE4cEhzS0d6Q2tKci12eFpicw?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-07-31",
-          "views": "18.0K"
-        },
-        {
-          "title": "NTT DATA AIVista and Snowflake: Identity alone won’t secure enterprise AI agents - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNeWtMSjJOb2pzVGUybmdsRnlqR2tQQUJqS0hsbndxWUx2aDJXb0IxYjNPdW5iWnlGam5wRDBGRnJTYm1vQUtkeS1JdFZYZE9lYnpKS0tjNmFqRXB0UzM0VnpBOUFhUnBmM1Y2YTBTZHY5OGpENktRSWphOEFvWTRENUpBcXgzM3NwTEwyazBGOHFYNXJqeWVYd1VTMFlJTDlZQVA4SGthc0c1Z3hiYURPbQ?oc=5\" target=\"_blank\">NTT DATA AIVista and Snowflake: Identity alone won’t secure enterprise AI agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeWtMSjJOb2pzVGUybmdsRnlqR2tQQUJqS0hsbndxWUx2aDJXb0IxYjNPdW5iWnlGam5wRDBGRnJTYm1vQUtkeS1JdFZYZE9lYnpKS0tjNmFqRXB0UzM0VnpBOUFhUnBmM1Y2YTBTZHY5OGpENktRSWphOEFvWTRENUpBcXgzM3NwTEwyazBGOHFYNXJqeWVYd1VTMFlJTDlZQVA4SGthc0c1Z3hiYURPbQ?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-07-30",
-          "views": "18.0K"
-        },
-        {
-          "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents - TechCrunch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOYVo5VDhNVW9kVlBLZTJpWklDb2t2Y3lqdVh6bHR1cHo4RVl0ZmlVbXh6WXQxN09LYzhzUW1qTVMyZm1IUl96RzJDVWIwSUJHMFF3UHRveHltcS1zaUhkaWE0cXBEbEx4THFmaXBUN2RnaUk2OWVja3gwM3h6ZXpUYXVuLVNYLTFIVXpxVkIxcndtSjhaZDU1dS1XRHRGdm45WDQ0ZWh6QQ?oc=5\" target=\"_blank\">Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYVo5VDhNVW9kVlBLZTJpWklDb2t2Y3lqdVh6bHR1cHo4RVl0ZmlVbXh6WXQxN09LYzhzUW1qTVMyZm1IUl96RzJDVWIwSUJHMFF3UHRveHltcS1zaUhkaWE0cXBEbEx4THFmaXBUN2RnaUk2OWVja3gwM3h6ZXpUYXVuLVNYLTFIVXpxVkIxcndtSjhaZDU1dS1XRHRGdm45WDQ0ZWh6QQ?oc=5",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-07-29",
-          "views": "18.0K"
-        }
-      ]
+      "items": []
     },
     {
       "name": "윤리",
       "hashtag": "#윤리",
       "description": "규제, 책임, 신뢰, 저작권 같은 문제를 보는 관점",
-      "items": [
-        {
-          "title": "US auto safety regulator probes 1.2 million Tesla vehicles over suspension failure risks - reuters.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWXBVTW4xd3dLcmJXNU41TGx6ZkJadG1walRhRWw5VzkxVnV6Uk5ZQUtTeEhZRHloMDF2WHpPNXNfRkM5UWJUY2RwR3FKM09Da0lDRzg3elRHRWF2SmVvemp1RFItYW5Pc01hM0IxQnBXdExuY3hTeVY1X3oySjVJR0JmMEpqZmUzdWhSYXVGM1FKWmFNZ3lKOWFkX29qbXNCWlhFWktOTmdsMWdWb2d6SjdyeWgwQ3pGLWh5MnNrR0VKQQ?oc=5\" target=\"_blank\">US auto safety regulator probes 1.2 million Tesla vehicles over suspension failure risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWXBVTW4xd3dLcmJXNU41TGx6ZkJadG1walRhRWw5VzkxVnV6Uk5ZQUtTeEhZRHloMDF2WHpPNXNfRkM5UWJUY2RwR3FKM09Da0lDRzg3elRHRWF2SmVvemp1RFItYW5Pc01hM0IxQnBXdExuY3hTeVY1X3oySjVJR0JmMEpqZmUzdWhSYXVGM1FKWmFNZ3lKOWFkX29qbXNCWlhFWktOTmdsMWdWb2d6SjdyeWgwQ3pGLWh5MnNrR0VKQQ?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-07-31",
-          "views": "18.0K"
-        },
-        {
-          "title": "X Says Australia’s Under-16 Social Media Ban Risks Interfering With Foreign Law - WIRED",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ2FPRy1ZNnc3MzA0ckJWbVRKczJHeEZfdjJ5eEFac21tNENuQVlzTUF6T3ZIRVRoVXFoVDI4X24wc1pmZm5CQTNRTHgzbjJLVVlLWVFDZHpRTllzdENqSk96NG9iUDMyQjRNaHRCbUlpeWpmUGp5Z1JONlJ3OVRQRDJ2cFhhUGhZUDVaY1VUdmpCMVc5NkV4OXpsSXhGNDlfMFBRX2dpY3VFWXJm?oc=5\" target=\"_blank\">X Says Australia’s Under-16 Social Media Ban Risks Interfering With Foreign Law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ2FPRy1ZNnc3MzA0ckJWbVRKczJHeEZfdjJ5eEFac21tNENuQVlzTUF6T3ZIRVRoVXFoVDI4X24wc1pmZm5CQTNRTHgzbjJLVVlLWVFDZHpRTllzdENqSk96NG9iUDMyQjRNaHRCbUlpeWpmUGp5Z1JONlJ3OVRQRDJ2cFhhUGhZUDVaY1VUdmpCMVc5NkV4OXpsSXhGNDlfMFBRX2dpY3VFWXJm?oc=5",
-          "source": "WIRED AI",
-          "publishedAt": "2026-07-29",
-          "views": "18.0K"
-        },
-        {
-          "title": "Top prosecutor offers to resign after passage of bill on stripping prosecution of investigative powers - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxPMzFuTDI5cDAzZjJRSWMtTnU2Tlp0bHhadkNZbkg5TmphRmMtd3A5dXZsV2NUVk12X1ZvVTR1SzFzRnpqZk1heXdMNkRoTTdXSmJ6bzNQTldOUHpjbzJaVXlXYVFMeTV1Z3JYSzlaem42YUlSYnVyaURGV3oxaGg1djVIT2lfem14bzVnVFFLakl1QmFqZ3kzRXZoeTFVaXVUNU1pcTZEQjNzVldOZWhib1IyQWlPcUJ5M0lZZDBTUnpFLUE0RVJVX01nV3ptMHhZNW4yX1NocnpkQ2I1cVJ1R2hwekxpSUt1a0hzZ21LaWpUU21BTndyeNIB-AFBVV95cUxPMzFuTDI5cDAzZjJRSWMtTnU2Tlp0bHhadkNZbkg5TmphRmMtd3A5dXZsV2NUVk12X1ZvVTR1SzFzRnpqZk1heXdMNkRoTTdXSmJ6bzNQTldOUHpjbzJaVXlXYVFMeTV1Z3JYSzlaem42YUlSYnVyaURGV3oxaGg1djVIT2lfem14bzVnVFFLakl1QmFqZ3kzRXZoeTFVaXVUNU1pcTZEQjNzVldOZWhib1IyQWlPcUJ5M0lZZDBTUnpFLUE0RVJVX01nV3ptMHhZNW4yX1NocnpkQ2I1cVJ1R2hwekxpSUt1a0hzZ21LaWpUU21BTndyeA?oc=5\" target=\"_blank\">Top prosecutor offers to resign after passage of bill on stripping prosecution of investigative powers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPMzFuTDI5cDAzZjJRSWMtTnU2Tlp0bHhadkNZbkg5TmphRmMtd3A5dXZsV2NUVk12X1ZvVTR1SzFzRnpqZk1heXdMNkRoTTdXSmJ6bzNQTldOUHpjbzJaVXlXYVFMeTV1Z3JYSzlaem42YUlSYnVyaURGV3oxaGg1djVIT2lfem14bzVnVFFLakl1QmFqZ3kzRXZoeTFVaXVUNU1pcTZEQjNzVldOZWhib1IyQWlPcUJ5M0lZZDBTUnpFLUE0RVJVX01nV3ptMHhZNW4yX1NocnpkQ2I1cVJ1R2hwekxpSUt1a0hzZ21LaWpUU21BTndyeNIB-AFBVV95cUxPMzFuTDI5cDAzZjJRSWMtTnU2Tlp0bHhadkNZbkg5TmphRmMtd3A5dXZsV2NUVk12X1ZvVTR1SzFzRnpqZk1heXdMNkRoTTdXSmJ6bzNQTldOUHpjbzJaVXlXYVFMeTV1Z3JYSzlaem42YUlSYnVyaURGV3oxaGg1djVIT2lfem14bzVnVFFLakl1QmFqZ3kzRXZoeTFVaXVUNU1pcTZEQjNzVldOZWhib1IyQWlPcUJ5M0lZZDBTUnpFLUE0RVJVX01nV3ptMHhZNW4yX1NocnpkQ2I1cVJ1R2hwekxpSUt1a0hzZ21LaWpUU21BTndyeA?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-07-31",
-          "views": "13.0K"
-        }
-      ]
+      "items": []
     },
     {
       "name": "경제",
       "hashtag": "#경제",
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
-      "items": [
-        {
-          "title": "Wall St Week Ahead Teetering US stock market faces jobs report, big earnings week - reuters.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxONXJVQnRLbDN6Q1ZZdnVtaFMzYXIxM2RlT214dFlNMkdlWDYwSWt2cjBoQzBlME9CbFVPcVhDRzk3YnNMak5xeVVYX0NwR2NFazJQR3pKaTl5NlBfTTVDWHAwNGg1QWxIYzJ2UGJ5cUxBUm5yOThySUZmcS1xRXF5MkxNMVRVVUtQX19sZXY5bmVjam5sbFVYYnpxOTJ5WjJZckxXdnd0R2Y5UFIydzFWWGZaczdwVVZVN1AyU2pQLV9jcFU?oc=5\" target=\"_blank\">Wall St Week Ahead Teetering US stock market faces jobs report, big earnings week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONXJVQnRLbDN6Q1ZZdnVtaFMzYXIxM2RlT214dFlNMkdlWDYwSWt2cjBoQzBlME9CbFVPcVhDRzk3YnNMak5xeVVYX0NwR2NFazJQR3pKaTl5NlBfTTVDWHAwNGg1QWxIYzJ2UGJ5cUxBUm5yOThySUZmcS1xRXF5MkxNMVRVVUtQX19sZXY5bmVjam5sbFVYYnpxOTJ5WjJZckxXdnd0R2Y5UFIydzFWWGZaczdwVVZVN1AyU2pQLV9jcFU?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-07-31",
-          "views": "18.0K"
-        },
-        {
-          "title": "DOGE Veterans Are Landing Big Jobs at Prediction Markets - WIRED",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNa09OczB2QnQybHR6cnpaME1hemkzckYxekJ0M3lJeTFlci1NMEFrN2VNWVp1T0hCX0ZGcV9JQU1IU3IyVlNRVFJpM0d5V0d4bTN0ZU1KUU1uMUhIXy10ZG1MY2lJeVpacmxNMlFsQjFVeWlLOThKZEhGRkxfRno0RzNXQW5kMGU0UmdZYVZn?oc=5\" target=\"_blank\">DOGE Veterans Are Landing Big Jobs at Prediction Markets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa09OczB2QnQybHR6cnpaME1hemkzckYxekJ0M3lJeTFlci1NMEFrN2VNWVp1T0hCX0ZGcV9JQU1IU3IyVlNRVFJpM0d5V0d4bTN0ZU1KUU1uMUhIXy10ZG1MY2lJeVpacmxNMlFsQjFVeWlLOThKZEhGRkxfRno0RzNXQW5kMGU0UmdZYVZn?oc=5",
-          "source": "WIRED AI",
-          "publishedAt": "2026-07-30",
-          "views": "18.0K"
-        },
-        {
-          "title": "6 universities recognized for supporting int'l student jobs, startups - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOaWhCbXRqTjNocW05M1QxeXkwRDUzVGJYY3V6UVZYLXByNlh2Y3B6d2lmdlM2NWNFR2dFcUZISXg2V0ZUZG9odGpNQzA1TTVlMjJBYXo3SkYyN21pNUFZdmhtSnhwYkhtQk12QkgtN1F6NUVMY2VVUW1wa3BxZmdmeFRnQnJRV2RDV0g0ZjJpTWg3SEp3QV9pMHEzVXRRajBkak9UVmFxdDJNaVJidlNaNkpZM2VfYWwtRkNMUlJwcnZxS3Ew0gHKAUFVX3lxTE9UdE1CNkh4cU5uQ2JzWnVyYW9VdTJFUC1jNThJZ3VHY19jOHlwNDNoaDY5VV9SaUVuSEwzaG5oZlBubU9XbjdhTXFJUEpWRWMxWHJxd0ktbGVGemZhMzZUanN1UlJHYk00Zi1NMnRDX1Q5QlA4bWRua2lTQV8xWm5zSjhvUnBUMlFHSzJQZHRUWjdJUzlCMnA1Z05nV2VWZGJmek1NcXFoZ3JtV1liRmVuXzBtMVhaQld4ZTZCYWpGUDl2MWF5R1V0WUE?oc=5\" target=\"_blank\">6 universities recognized for supporting int'l student jobs, startups</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaWhCbXRqTjNocW05M1QxeXkwRDUzVGJYY3V6UVZYLXByNlh2Y3B6d2lmdlM2NWNFR2dFcUZISXg2V0ZUZG9odGpNQzA1TTVlMjJBYXo3SkYyN21pNUFZdmhtSnhwYkhtQk12QkgtN1F6NUVMY2VVUW1wa3BxZmdmeFRnQnJRV2RDV0g0ZjJpTWg3SEp3QV9pMHEzVXRRajBkak9UVmFxdDJNaVJidlNaNkpZM2VfYWwtRkNMUlJwcnZxS3Ew0gHKAUFVX3lxTE9UdE1CNkh4cU5uQ2JzWnVyYW9VdTJFUC1jNThJZ3VHY19jOHlwNDNoaDY5VV9SaUVuSEwzaG5oZlBubU9XbjdhTXFJUEpWRWMxWHJxd0ktbGVGemZhMzZUanN1UlJHYk00Zi1NMnRDX1Q5QlA4bWRua2lTQV8xWm5zSjhvUnBUMlFHSzJQZHRUWjdJUzlCMnA1Z05nV2VWZGJmek1NcXFoZ3JtV1liRmVuXzBtMVhaQld4ZTZCYWpGUDl2MWF5R1V0WUE?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-07-27",
-          "views": "18.0K"
-        }
-      ]
+      "items": []
     },
     {
       "name": "산업전략",
       "hashtag": "#산업전략",
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
-      "items": [
-        {
-          "title": "Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it - TechCrunch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE5OVXhmNjNaVUFiUk9LWWJhTmJ6QllXX0xfTW91RDk1QV9BN2dBQ2t6aUZiaVRRcUd5RUtDTVJBWkxlNW81T1JFSW1FQnRyN0tuYXhMMjdqNHUzM2E0X3hJUEw2ZE9sUDVaR0pRTC0wRmpZLVRjTm4xRGJHbUU?oc=5\" target=\"_blank\">Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5OVXhmNjNaVUFiUk9LWWJhTmJ6QllXX0xfTW91RDk1QV9BN2dBQ2t6aUZiaVRRcUd5RUtDTVJBWkxlNW81T1JFSW1FQnRyN0tuYXhMMjdqNHUzM2E0X3hJUEw2ZE9sUDVaR0pRTC0wRmpZLVRjTm4xRGJHbUU?oc=5",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-08-01",
-          "views": "13.0K"
-        },
-        {
-          "title": "Telecom bets on AI-RAN to win global 6G standards race - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQMXAzQ193SmxmUzZVVEthYTVaRVFoR2xqcWljbzV1Qy0zRTRvalFWUUZGTkhua3RyZk5zRTBGLUo5YW9Ha2RkT2I0TFJMZ2VIODZ0QWYwejh6ak9Gc1FkODZzVUtqMnMwN3RHRzJkbTFKVkF0NVdMYW5WdV9Ha2tGeEZ4bWx0U1JBNkxkUmRtNzJaRndwZHExbFlvbE5mRlJIN1pOTEhObGJsWGlaUnpFcHJ0RnFTd1o4RkHSAboBQVVfeXFMUDFwM0Nfd0psZlM2VVRLYWE1WkVRaEdsanFpY281dUMtM0U0b2pRVlFGRk5Ibmt0cmZOc0UwRi1KOWFvR2tkZE9iNExSTGdlSDg2dEFmMHo4empPRnNRZDg2c1VLajJzMDd0R0cyZG0xSlZBdDVXTGFuVnVfR2trRnhGeG1sdFNSQTZMZFJkbTcyWkZ3cGRxMWxZb2xOZkZSSDdaTkxITmxibFhpWlJ6RXBydEZxU3daOEZB?oc=5\" target=\"_blank\">Telecom bets on AI-RAN to win global 6G standards race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMXAzQ193SmxmUzZVVEthYTVaRVFoR2xqcWljbzV1Qy0zRTRvalFWUUZGTkhua3RyZk5zRTBGLUo5YW9Ha2RkT2I0TFJMZ2VIODZ0QWYwejh6ak9Gc1FkODZzVUtqMnMwN3RHRzJkbTFKVkF0NVdMYW5WdV9Ha2tGeEZ4bWx0U1JBNkxkUmRtNzJaRndwZHExbFlvbE5mRlJIN1pOTEhObGJsWGlaUnpFcHJ0RnFTd1o4RkHSAboBQVVfeXFMUDFwM0Nfd0psZlM2VVRLYWE1WkVRaEdsanFpY281dUMtM0U0b2pRVlFGRk5Ibmt0cmZOc0UwRi1KOWFvR2tkZE9iNExSTGdlSDg2dEFmMHo4empPRnNRZDg2c1VLajJzMDd0R0cyZG0xSlZBdDVXTGFuVnVfR2trRnhGeG1sdFNSQTZMZFJkbTcyWkZ3cGRxMWxZb2xOZkZSSDdaTkxITmxibFhpWlJ6RXBydEZxU3daOEZB?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-07-31",
-          "views": "13.0K"
-        },
-        {
-          "title": "Europe makes trillion-euro bet to revive its battered industry - reuters.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNVWdCLU5ySHhPVUdKWXBLakpaVVotQ2dHNE1TT29MRDhpZ0ExRFI3cjl2NFVfUlBCR2JtUmxaeUliaUVNb3FLeE15WW1ITDh2U2NBeWtsalpYc3FxS19rdjVHM3RmUHR5M3NBOU9Lc2wzWnJTcVR1ZzViSDVVd0FqalZYRmhxaDdtSU1SVC13NXpwemRURHVtTi1WM3JoTmc3ejh0TktSaFl2cDR2eVF5Z3B1TmdDSWs3WllKZUYxc1VKdE9kdVMw?oc=5\" target=\"_blank\">Europe makes trillion-euro bet to revive its battered industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVWdCLU5ySHhPVUdKWXBLakpaVVotQ2dHNE1TT29MRDhpZ0ExRFI3cjl2NFVfUlBCR2JtUmxaeUliaUVNb3FLeE15WW1ITDh2U2NBeWtsalpYc3FxS19rdjVHM3RmUHR5M3NBOU9Lc2wzWnJTcVR1ZzViSDVVd0FqalZYRmhxaDdtSU1SVC13NXpwemRURHVtTi1WM3JoTmc3ejh0TktSaFl2cDR2eVF5Z3B1TmdDSWs3WllKZUYxc1VKdE9kdVMw?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-07-31",
-          "views": "13.0K"
-        }
-      ]
+      "items": []
     }
   ]
 }
