@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-04T03:33:51.201Z",
+  "lastUpdated": "2026-08-05T03:29:17.013Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,6 +49,14 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
+          "title": "Open-weight AI models are catching up to the frontier. The safety gap remains. - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPa2VhSllrM29KN1BCdkxDUWRyNW81dlp6WXllMXB3UnBjWjNiakVSdlE4cDBidmctN05EbllEcDVhY3EzeWl1NEhEazZuMUdLMkhwMEVlR2dOOUM2ZGVuQ2NDRnFBRl9mM3gzSEluak1ZM3lSOVBEZmFPVVRPd00xRWFpS3lPZjRtVEZsX3RielBpTnR2TlhlVEk2N3J0Qk4zTFNHa1BnTG51NjVqZUF3aA?oc=5\" target=\"_blank\">Open-weight AI models are catching up to the frontier. The safety gap remains.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa2VhSllrM29KN1BCdkxDUWRyNW81dlp6WXllMXB3UnBjWjNiakVSdlE4cDBidmctN05EbllEcDVhY3EzeWl1NEhEazZuMUdLMkhwMEVlR2dOOUM2ZGVuQ2NDRnFBRl9mM3gzSEluak1ZM3lSOVBEZmFPVVRPd00xRWFpS3lPZjRtVEZsX3RielBpTnR2TlhlVEk2N3J0Qk4zTFNHa1BnTG51NjVqZUF3aA?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-08-04",
+          "views": "18.0K"
+        },
+        {
           "title": "The researcher behind an early LLM for chip design says buying AI alone may not determine semiconductor leadership - VentureBeat",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWTE2VmF4U3dYVVlKanR3RGlUVWVmQ2YybUY5bWJtMWd1SHJrOXNCbktpQWFqV3YtR0Y4c3cwcUpTNW9qbTRxQXB2YVR3cTFfODRJM0c2SEJxbkpRYXdYcm9SbUJMVE5STGs3V3RrbHB4MFdWYnpFeWJkRzFQV2RJQ3JuNnFwTGhGTFlaWnU0bzRxZlFvR0IwcjhHa1pUUDE4a3htZmowLU1ZcDNGNkNFdmpPbXZWN1N6TjI0YXFrbmlKck1xeFItcE5jTFdFUXdvd0FJYTByV3lqMGtsdGo4WA?oc=5\" target=\"_blank\">The researcher behind an early LLM for chip design says buying AI alone may not determine semiconductor leadership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWTE2VmF4U3dYVVlKanR3RGlUVWVmQ2YybUY5bWJtMWd1SHJrOXNCbktpQWFqV3YtR0Y4c3cwcUpTNW9qbTRxQXB2YVR3cTFfODRJM0c2SEJxbkpRYXdYcm9SbUJMVE5STGs3V3RrbHB4MFdWYnpFeWJkRzFQV2RJQ3JuNnFwTGhGTFlaWnU0bzRxZlFvR0IwcjhHa1pUUDE4a3htZmowLU1ZcDNGNkNFdmpPbXZWN1N6TjI0YXFrbmlKck1xeFItcE5jTFdFUXdvd0FJYTByV3lqMGtsdGo4WA?oc=5",
@@ -63,14 +71,6 @@
           "source": "VentureBeat AI",
           "publishedAt": "2026-07-30",
           "views": "18.0K"
-        },
-        {
-          "title": "Galaxy S27 Series to Feature Triple Rear Cameras Across All Models - ETNEWS",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Pa0ZrRG5SWllLT3pnZ2NSS19hb0NvdHA2YTNhdWJmMUJhWE1LUE9rN3VaR0w3OHdqcWs0Ni1oN3BRVW9DdlJZN2JBeWk?oc=5\" target=\"_blank\">Galaxy S27 Series to Feature Triple Rear Cameras Across All Models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Pa0ZrRG5SWllLT3pnZ2NSS19hb0NvdHA2YTNhdWJmMUJhWE1LUE9rN3VaR0w3OHdqcWs0Ni1oN3BRVW9DdlJZN2JBeWk?oc=5",
-          "source": "전자신문",
-          "publishedAt": "2026-08-03",
-          "views": "13.0K"
         }
       ]
     },
@@ -111,27 +111,27 @@
       "description": "규제, 책임, 신뢰, 저작권 같은 문제를 보는 관점",
       "items": [
         {
-          "title": "US says some older Ford cars, SUVs pose unreasonable safety risks - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ2dldU1mUldzVThXUm9CTWlFbGI1ckxwdmRCb1ZmVWZ3ZGFyWmRPNWFubFVfOE5LaVdXMzhhaDhDT2o2T0VsaTE5ZkYzV2lCMGZRRjFqM0RzR3loRnhXYnUzOE1TNnRMSXA3MXoyZUlzbEpWUEM1LXRERXhXLW4tdlVKMVZjMzN3U0M0MW5ldHJLc1p6Vk5nRDBFWWM5eHV4YVBlY1VoQnNMU0paVjlDU1p6VmRDZk4w?oc=5\" target=\"_blank\">US says some older Ford cars, SUVs pose unreasonable safety risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "title": "Trump advisers tell AI firms they will not safety-test open-weight models - reuters.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa1dFYnlpdVZxSzIyWnptbDAxbjlwMzNtdEFtVFRkYXQ5OWpxbTBBaU44LUg5Tl9oX2ZnT2R2REQ0S2JWdjVid1NkWmM5aUJyOTZFZE9lQnNRWHhhS1NIVXBsTW9CRGZoRHlQTVZTOXhzVndCYkxZUEFUcElGdG9leU1ISlpLaWJER3dZUC13NmQ2SjNGMVpPcXc4NzdrbWlhekFiV19aYWZKaGJCblhvNnVFbWo0UVJUSWQ4eWVCSHZtRXFqU01zOQ?oc=5\" target=\"_blank\">Trump advisers tell AI firms they will not safety-test open-weight models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa1dFYnlpdVZxSzIyWnptbDAxbjlwMzNtdEFtVFRkYXQ5OWpxbTBBaU44LUg5Tl9oX2ZnT2R2REQ0S2JWdjVid1NkWmM5aUJyOTZFZE9lQnNRWHhhS1NIVXBsTW9CRGZoRHlQTVZTOXhzVndCYkxZUEFUcElGdG9leU1ISlpLaWJER3dZUC13NmQ2SjNGMVpPcXc4NzdrbWlhekFiV19aYWZKaGJCblhvNnVFbWo0UVJUSWQ4eWVCSHZtRXFqU01zOQ?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-08-04",
+          "views": "18.0K"
+        },
+        {
+          "title": "US says some older Ford cars, SUVs pose unreasonable safety risks - reuters.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ2dldU1mUldzVThXUm9CTWlFbGI1ckxwdmRCb1ZmVWZ3ZGFyWmRPNWFubFVfOE5LaVdXMzhhaDhDT2o2T0VsaTE5ZkYzV2lCMGZRRjFqM0RzR3loRnhXYnUzOE1TNnRMSXA3MXoyZUlzbEpWUEM1LXRERXhXLW4tdlVKMVZjMzN3U0M0MW5ldHJLc1p6Vk5nRDBFWWM5eHV4YVBlY1VoQnNMU0paVjlDU1p6VmRDZk4w?oc=5\" target=\"_blank\">US says some older Ford cars, SUVs pose unreasonable safety risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ2dldU1mUldzVThXUm9CTWlFbGI1ckxwdmRCb1ZmVWZ3ZGFyWmRPNWFubFVfOE5LaVdXMzhhaDhDT2o2T0VsaTE5ZkYzV2lCMGZRRjFqM0RzR3loRnhXYnUzOE1TNnRMSXA3MXoyZUlzbEpWUEM1LXRERXhXLW4tdlVKMVZjMzN3U0M0MW5ldHJLc1p6Vk5nRDBFWWM5eHV4YVBlY1VoQnNMU0paVjlDU1p6VmRDZk4w?oc=5",
           "source": "Reuters AI",
           "publishedAt": "2026-08-03",
           "views": "18.0K"
         },
         {
-          "title": "US auto safety regulator probes 1.2 million Tesla vehicles over suspension failure risks - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWXBVTW4xd3dLcmJXNU41TGx6ZkJadG1walRhRWw5VzkxVnV6Uk5ZQUtTeEhZRHloMDF2WHpPNXNfRkM5UWJUY2RwR3FKM09Da0lDRzg3elRHRWF2SmVvemp1RFItYW5Pc01hM0IxQnBXdExuY3hTeVY1X3oySjVJR0JmMEpqZmUzdWhSYXVGM1FKWmFNZ3lKOWFkX29qbXNCWlhFWktOTmdsMWdWb2d6SjdyeWgwQ3pGLWh5MnNrR0VKQQ?oc=5\" target=\"_blank\">US auto safety regulator probes 1.2 million Tesla vehicles over suspension failure risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "title": "US auto safety regulator probes 1.2 million Tesla vehicles over suspension failure risks - reuters.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWXBVTW4xd3dLcmJXNU41TGx6ZkJadG1walRhRWw5VzkxVnV6Uk5ZQUtTeEhZRHloMDF2WHpPNXNfRkM5UWJUY2RwR3FKM09Da0lDRzg3elRHRWF2SmVvemp1RFItYW5Pc01hM0IxQnBXdExuY3hTeVY1X3oySjVJR0JmMEpqZmUzdWhSYXVGM1FKWmFNZ3lKOWFkX29qbXNCWlhFWktOTmdsMWdWb2d6SjdyeWgwQ3pGLWh5MnNrR0VKQQ?oc=5\" target=\"_blank\">US auto safety regulator probes 1.2 million Tesla vehicles over suspension failure risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWXBVTW4xd3dLcmJXNU41TGx6ZkJadG1walRhRWw5VzkxVnV6Uk5ZQUtTeEhZRHloMDF2WHpPNXNfRkM5UWJUY2RwR3FKM09Da0lDRzg3elRHRWF2SmVvemp1RFItYW5Pc01hM0IxQnBXdExuY3hTeVY1X3oySjVJR0JmMEpqZmUzdWhSYXVGM1FKWmFNZ3lKOWFkX29qbXNCWlhFWktOTmdsMWdWb2d6SjdyeWgwQ3pGLWh5MnNrR0VKQQ?oc=5",
           "source": "Reuters AI",
           "publishedAt": "2026-07-31",
-          "views": "18.0K"
-        },
-        {
-          "title": "X Says Australia’s Under-16 Social Media Ban Risks Interfering With Foreign Law - WIRED",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ2FPRy1ZNnc3MzA0ckJWbVRKczJHeEZfdjJ5eEFac21tNENuQVlzTUF6T3ZIRVRoVXFoVDI4X24wc1pmZm5CQTNRTHgzbjJLVVlLWVFDZHpRTllzdENqSk96NG9iUDMyQjRNaHRCbUlpeWpmUGp5Z1JONlJ3OVRQRDJ2cFhhUGhZUDVaY1VUdmpCMVc5NkV4OXpsSXhGNDlfMFBRX2dpY3VFWXJm?oc=5\" target=\"_blank\">X Says Australia’s Under-16 Social Media Ban Risks Interfering With Foreign Law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ2FPRy1ZNnc3MzA0ckJWbVRKczJHeEZfdjJ5eEFac21tNENuQVlzTUF6T3ZIRVRoVXFoVDI4X24wc1pmZm5CQTNRTHgzbjJLVVlLWVFDZHpRTllzdENqSk96NG9iUDMyQjRNaHRCbUlpeWpmUGp5Z1JONlJ3OVRQRDJ2cFhhUGhZUDVaY1VUdmpCMVc5NkV4OXpsSXhGNDlfMFBRX2dpY3VFWXJm?oc=5",
-          "source": "WIRED AI",
-          "publishedAt": "2026-07-29",
           "views": "18.0K"
         }
       ]
@@ -142,6 +142,14 @@
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
         {
+          "title": "US economy is overstimulated — and bond markets fear it - reuters.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOOEZFQkFyNE41ZEZVYjFwVVdyeV9WaGtIalV3LUhpUDUxald1WDFnQm05WmxPN2pTbk9iaUlnSzJNUGplbDJScnNSMU9XdTVzcWFsVVFXZXlMS0Y5dWc4Z0FCQUJKOF82ZWJGVDZXZFFzSGxEVURGSkNwUjkxbDVQSTJfWHRxYm13VDZKeHZDR2JRNVI0WDQwa05pZHRCbVh1NGIydm9sSzg4Z2RIOUc5NWxiRFRXSnVtSXc?oc=5\" target=\"_blank\">US economy is overstimulated — and bond markets fear it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOEZFQkFyNE41ZEZVYjFwVVdyeV9WaGtIalV3LUhpUDUxald1WDFnQm05WmxPN2pTbk9iaUlnSzJNUGplbDJScnNSMU9XdTVzcWFsVVFXZXlMS0Y5dWc4Z0FCQUJKOF82ZWJGVDZXZFFzSGxEVURGSkNwUjkxbDVQSTJfWHRxYm13VDZKeHZDR2JRNVI0WDQwa05pZHRCbVh1NGIydm9sSzg4Z2RIOUc5NWxiRFRXSnVtSXc?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-08-04",
+          "views": "18.0K"
+        },
+        {
           "title": "DOGE Veterans Are Landing Big Jobs at Prediction Markets - WIRED",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNa09OczB2QnQybHR6cnpaME1hemkzckYxekJ0M3lJeTFlci1NMEFrN2VNWVp1T0hCX0ZGcV9JQU1IU3IyVlNRVFJpM0d5V0d4bTN0ZU1KUU1uMUhIXy10ZG1MY2lJeVpacmxNMlFsQjFVeWlLOThKZEhGRkxfRno0RzNXQW5kMGU0UmdZYVZn?oc=5\" target=\"_blank\">DOGE Veterans Are Landing Big Jobs at Prediction Markets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa09OczB2QnQybHR6cnpaME1hemkzckYxekJ0M3lJeTFlci1NMEFrN2VNWVp1T0hCX0ZGcV9JQU1IU3IyVlNRVFJpM0d5V0d4bTN0ZU1KUU1uMUhIXy10ZG1MY2lJeVpacmxNMlFsQjFVeWlLOThKZEhGRkxfRno0RzNXQW5kMGU0UmdZYVZn?oc=5",
@@ -150,19 +158,11 @@
           "views": "18.0K"
         },
         {
-          "title": "Vermont turns to the free market to lower health insurance costs - koreatimes.co.kr",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNc2NfV3prVUVBQUsycUZSZFdZaVN0bElGRlJLUmRQNFZ3NjczdGtXS0xZY0VXU2xYaFBRc0tFNHNWcTF0Q0VBS0pBaGVRdWFyMFVyWGg4REVPVzA2SUowM0xIVTA1amlKQXZCUFd5Z2FPWnJ5X2NUWW95UmtsUVVDcFU1SXhyZTVtWW1nZ1NjLTAzdE5weGNsdmVBX1h4cEltbjhJSTlRQjFjMVllUTF3Z1gyaWnSAbQBQVVfeXFMTXNjX1d6a1VFQUFLMnFGUmRXWWlTdGxJRkZSS1JkUDRWdzY3M3RrV0tMWWNFV1NsWGhQUXNLRTRzVnExdENFQUtKQWhlUXVhcjBVclhoOERFT1cwNklKMDNMSFUwNWppSkF2QlBXeWdhT1pyeV9jVFlveVJrbFFVQ3BVNUl4cmU1bVltZ2dTYy0wM3ROcHhjbHZlQV9YeHBJbW44SUk5UUIxYzFZZVExd2dYMmlp?oc=5\" target=\"_blank\">Vermont turns to the free market to lower health insurance costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">koreatimes.co.kr</font>",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc2NfV3prVUVBQUsycUZSZFdZaVN0bElGRlJLUmRQNFZ3NjczdGtXS0xZY0VXU2xYaFBRc0tFNHNWcTF0Q0VBS0pBaGVRdWFyMFVyWGg4REVPVzA2SUowM0xIVTA1amlKQXZCUFd5Z2FPWnJ5X2NUWW95UmtsUVVDcFU1SXhyZTVtWW1nZ1NjLTAzdE5weGNsdmVBX1h4cEltbjhJSTlRQjFjMVllUTF3Z1gyaWnSAbQBQVVfeXFMTXNjX1d6a1VFQUFLMnFGUmRXWWlTdGxJRkZSS1JkUDRWdzY3M3RrV0tMWWNFV1NsWGhQUXNLRTRzVnExdENFQUtKQWhlUXVhcjBVclhoOERFT1cwNklKMDNMSFUwNWppSkF2QlBXeWdhT1pyeV9jVFlveVJrbFFVQ3BVNUl4cmU1bVltZ2dTYy0wM3ROcHhjbHZlQV9YeHBJbW44SUk5UUIxYzFZZVExd2dYMmlp?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-08-04",
-          "views": "13.0K"
-        },
-        {
-          "title": "Neopulse's Funding Remains Mysterious Amid 9.2 Trillion Won Wemade Acquisition - ETNEWS",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFA4SUpmWFpDZ2ZiVXJKZHRHdFBrNElfdlVIX3RVeTZLazBwdGZPRDJ2VE5HWG1iSmV3ajg1dEh5UXdqVktBX2JmVUpwNWw?oc=5\" target=\"_blank\">Neopulse's Funding Remains Mysterious Amid 9.2 Trillion Won Wemade Acquisition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA4SUpmWFpDZ2ZiVXJKZHRHdFBrNElfdlVIX3RVeTZLazBwdGZPRDJ2VE5HWG1iSmV3ajg1dEh5UXdqVktBX2JmVUpwNWw?oc=5",
-          "source": "전자신문",
-          "publishedAt": "2026-08-03",
+          "title": "SpaceX's mobile ambitions jolt US telecom market, analysts debate threat - reuters.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOXzdtUXFDTFJmekk3eHU1U3hzV0MyM21yTUdIS2tIZ1N2WkRSQW9Vcm5vaHFONlYxaExidlotWWZVbk1QQi1OaHFDc0xPdE1vMjRzY3d6QnhjbUVMV05pUEtNYVlnUXNSaG9kYzBPZk9xMTlvUlNlVEJ3ajM3M05nT255V09GOXA2S2pmQ191aDZVU1Zoa3RaQ3ZfbnhiT3FwLVV6aWxUb1Jvc2NwWjhucVIwMUhGS2tQOGtKQ3ZHZURFUVZ5M2xEXw?oc=5\" target=\"_blank\">SpaceX's mobile ambitions jolt US telecom market, analysts debate threat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOXzdtUXFDTFJmekk3eHU1U3hzV0MyM21yTUdIS2tIZ1N2WkRSQW9Vcm5vaHFONlYxaExidlotWWZVbk1QQi1OaHFDc0xPdE1vMjRzY3d6QnhjbUVMV05pUEtNYVlnUXNSaG9kYzBPZk9xMTlvUlNlVEJ3ajM3M05nT255V09GOXA2S2pmQ191aDZVU1Zoa3RaQ3ZfbnhiT3FwLVV6aWxUb1Jvc2NwWjhucVIwMUhGS2tQOGtKQ3ZHZURFUVZ5M2xEXw?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-08-05",
           "views": "13.0K"
         }
       ]
@@ -173,27 +173,27 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
-          "title": "US manufacturing activity hits more than four-year high; input prices elevated - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS1pRYktWWVFTT181ekNrN3VSNXR5WGJBTG1PVlRkNl9HZlk0TUxvaXhpRVp6bXZwQUc5MzdPWXEzTGN2U1lUY3BPdEtLOEtvQlhCUDVpekMzVlpMZy1ra010ZW1pYkdSdTMwUHRCa1VNckNaUnVsRWRJdGNxZlMwSnREWWk1eVpyUUo0NWdIZzU5VlpSeWtNa25LUTFXcnFGd1lFYkV2elpEQQ?oc=5\" target=\"_blank\">US manufacturing activity hits more than four-year high; input prices elevated</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS1pRYktWWVFTT181ekNrN3VSNXR5WGJBTG1PVlRkNl9HZlk0TUxvaXhpRVp6bXZwQUc5MzdPWXEzTGN2U1lUY3BPdEtLOEtvQlhCUDVpekMzVlpMZy1ra010ZW1pYkdSdTMwUHRCa1VNckNaUnVsRWRJdGNxZlMwSnREWWk1eVpyUUo0NWdIZzU5VlpSeWtNa25LUTFXcnFGd1lFYkV2elpEQQ?oc=5",
+          "title": "SpaceX's mobile ambitions jolt US telecom market, analysts debate threat - reuters.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOXzdtUXFDTFJmekk3eHU1U3hzV0MyM21yTUdIS2tIZ1N2WkRSQW9Vcm5vaHFONlYxaExidlotWWZVbk1QQi1OaHFDc0xPdE1vMjRzY3d6QnhjbUVMV05pUEtNYVlnUXNSaG9kYzBPZk9xMTlvUlNlVEJ3ajM3M05nT255V09GOXA2S2pmQ191aDZVU1Zoa3RaQ3ZfbnhiT3FwLVV6aWxUb1Jvc2NwWjhucVIwMUhGS2tQOGtKQ3ZHZURFUVZ5M2xEXw?oc=5\" target=\"_blank\">SpaceX's mobile ambitions jolt US telecom market, analysts debate threat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOXzdtUXFDTFJmekk3eHU1U3hzV0MyM21yTUdIS2tIZ1N2WkRSQW9Vcm5vaHFONlYxaExidlotWWZVbk1QQi1OaHFDc0xPdE1vMjRzY3d6QnhjbUVMV05pUEtNYVlnUXNSaG9kYzBPZk9xMTlvUlNlVEJ3ajM3M05nT255V09GOXA2S2pmQ191aDZVU1Zoa3RaQ3ZfbnhiT3FwLVV6aWxUb1Jvc2NwWjhucVIwMUhGS2tQOGtKQ3ZHZURFUVZ5M2xEXw?oc=5",
           "source": "Reuters AI",
-          "publishedAt": "2026-08-03",
+          "publishedAt": "2026-08-05",
           "views": "13.0K"
         },
         {
-          "title": "India proposes extending tax breaks for contract manufacturing in a boost for Apple - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPWUNBY19KVllkb2drU0RkRnBTVmZLVV9kbzNxajl6a01VNTJuYnRwNTFCLUlTM2ZYOFZUeGVFTWJSV01lbXVWeWpZYzlTa0VUTnB4cTB0WV9pREI5dkp5b19HVEtONy0xRG56QlkxM0I0MjF4VFZjQzVBWjRiMkVSbDVtOTY5NW1QTDVpOTZxMHdPRW5oZEREZUt1ajZ5NTVacG1ENVhPTWlfQ2V4YjVJOVRCTTFoNnRzazNfTGNLeWlEbXgwVDdjRkdCMA?oc=5\" target=\"_blank\">India proposes extending tax breaks for contract manufacturing in a boost for Apple</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWUNBY19KVllkb2drU0RkRnBTVmZLVV9kbzNxajl6a01VNTJuYnRwNTFCLUlTM2ZYOFZUeGVFTWJSV01lbXVWeWpZYzlTa0VUTnB4cTB0WV9pREI5dkp5b19HVEtONy0xRG56QlkxM0I0MjF4VFZjQzVBWjRiMkVSbDVtOTY5NW1QTDVpOTZxMHdPRW5oZEREZUt1ajZ5NTVacG1ENVhPTWlfQ2V4YjVJOVRCTTFoNnRzazNfTGNLeWlEbXgwVDdjRkdCMA?oc=5",
+          "title": "Oracle Corp goes for high-stakes ratings gamble in AI strategy - reuters.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNUTZDLU9YVTRMN1NqaS1WSGh6Tk54VnBycmlfZ0pQVnA5R2p1VTc0YWFkbTMyZF9uRldPYTRnNmY5X2tRaW9iY0prV082RU9yLUo3WFFGc1h6emd1b3JtN1BscG1qX3ZZdG0zenptenZWV0xOWXY0WWZUSFpUTUg3UE9nWE5MR1NpSlZUWHJqTW4yRXE1emxKWnRGS0xqZ0pyZUE?oc=5\" target=\"_blank\">Oracle Corp goes for high-stakes ratings gamble in AI strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUTZDLU9YVTRMN1NqaS1WSGh6Tk54VnBycmlfZ0pQVnA5R2p1VTc0YWFkbTMyZF9uRldPYTRnNmY5X2tRaW9iY0prV082RU9yLUo3WFFGc1h6emd1b3JtN1BscG1qX3ZZdG0zenptenZWV0xOWXY0WWZUSFpUTUg3UE9nWE5MR1NpSlZUWHJqTW4yRXE1emxKWnRGS0xqZ0pyZUE?oc=5",
           "source": "Reuters AI",
-          "publishedAt": "2026-08-03",
+          "publishedAt": "2026-08-04",
           "views": "13.0K"
         },
         {
-          "title": "Which midterm candidates is the crypto industry backing? - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPeXlOLU1Ld3hmUGtwbGJxSW83M3ZLa0wydU1VSFlwSkZKSHRXVUFfUm92ZmYzbGY3eW1kWU5rdkNveGM3Vk1JYjQxTU9HaUsyanhOX2laVXRvWkhrMnZ5MmREYURfeUl0S0VyaHdTUGx4c1lVWHJxNEcxdjhnaDVyQll1akQ1NEtWUmUzWF91bHptTVd1ZFlVLWxZay1nc3gya3AyelRjdw?oc=5\" target=\"_blank\">Which midterm candidates is the crypto industry backing?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeXlOLU1Ld3hmUGtwbGJxSW83M3ZLa0wydU1VSFlwSkZKSHRXVUFfUm92ZmYzbGY3eW1kWU5rdkNveGM3Vk1JYjQxTU9HaUsyanhOX2laVXRvWkhrMnZ5MmREYURfeUl0S0VyaHdTUGx4c1lVWHJxNEcxdjhnaDVyQll1akQ1NEtWUmUzWF91bHptTVd1ZFlVLWxZay1nc3gya3AyelRjdw?oc=5",
+          "title": "VIEW SpaceX's first quarterly results as a public company beat expectations, but AI costs hit stock - reuters.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQY3o4ck4yYVNwd29hbGtSN1d3dGZ6ZjdNR2JRWi11NWJXMHphclFkVmFlRTNXVl9NeWljSFR3VERaUUhmamNYMG1YU19GNmxZbzZNRWNiZDRBc2RSMDltXzZ3SklteTZuWEFXZmJkX2plSXlUaUJ4bkctamUwWHdIeGFUWnhKdXdKcFloNFVibjlWZ1JHU3h1cGRoNFp2UUFtaFdQdlpJZlF2Z0ktX2ZCVmJRaV9YNnFCeS1PLTQyUkNIZWpXTmZBdWJST3FJMzlWbTNN?oc=5\" target=\"_blank\">VIEW SpaceX's first quarterly results as a public company beat expectations, but AI costs hit stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQY3o4ck4yYVNwd29hbGtSN1d3dGZ6ZjdNR2JRWi11NWJXMHphclFkVmFlRTNXVl9NeWljSFR3VERaUUhmamNYMG1YU19GNmxZbzZNRWNiZDRBc2RSMDltXzZ3SklteTZuWEFXZmJkX2plSXlUaUJ4bkctamUwWHdIeGFUWnhKdXdKcFloNFVibjlWZ1JHU3h1cGRoNFp2UUFtaFdQdlpJZlF2Z0ktX2ZCVmJRaV9YNnFCeS1PLTQyUkNIZWpXTmZBdWJST3FJMzlWbTNN?oc=5",
           "source": "Reuters AI",
-          "publishedAt": "2026-08-03",
+          "publishedAt": "2026-08-04",
           "views": "13.0K"
         }
       ]
