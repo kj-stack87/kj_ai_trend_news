@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-05T03:29:17.013Z",
+  "lastUpdated": "2026-08-06T03:33:07.641Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,6 +49,14 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
+          "title": "Anthropic to build in-house chip design team for Claude, hire engineers - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPVWxwdXZrbVFwRlFONnozZzBTNzdmbU9LaWc3alMtUmFJUXVfaW1hR2J1QVlsLU9razNxemdDQ012Z2NCR19XNHk1VHFIbUNLNWs2b0FlSTZwZWV2WUlicnBuNnRRLVdNXzRFYnhRRkhQdjdfenRyRzNJLUVCc1hMRXhkYy1pR19yaS1vZXh2SUZlenNRSnFFLURzOTNFQWxIaFd2TjcwSFhYbS1w?oc=5\" target=\"_blank\">Anthropic to build in-house chip design team for Claude, hire engineers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVWxwdXZrbVFwRlFONnozZzBTNzdmbU9LaWc3alMtUmFJUXVfaW1hR2J1QVlsLU9razNxemdDQ012Z2NCR19XNHk1VHFIbUNLNWs2b0FlSTZwZWV2WUlicnBuNnRRLVdNXzRFYnhRRkhQdjdfenRyRzNJLUVCc1hMRXhkYy1pR19yaS1vZXh2SUZlenNRSnFFLURzOTNFQWxIaFd2TjcwSFhYbS1w?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-08-05",
+          "views": "18.0K"
+        },
+        {
           "title": "Open-weight AI models are catching up to the frontier. The safety gap remains. - TechCrunch",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPa2VhSllrM29KN1BCdkxDUWRyNW81dlp6WXllMXB3UnBjWjNiakVSdlE4cDBidmctN05EbllEcDVhY3EzeWl1NEhEazZuMUdLMkhwMEVlR2dOOUM2ZGVuQ2NDRnFBRl9mM3gzSEluak1ZM3lSOVBEZmFPVVRPd00xRWFpS3lPZjRtVEZsX3RielBpTnR2TlhlVEk2N3J0Qk4zTFNHa1BnTG51NjVqZUF3aA?oc=5\" target=\"_blank\">Open-weight AI models are catching up to the frontier. The safety gap remains.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa2VhSllrM29KN1BCdkxDUWRyNW81dlp6WXllMXB3UnBjWjNiakVSdlE4cDBidmctN05EbllEcDVhY3EzeWl1NEhEazZuMUdLMkhwMEVlR2dOOUM2ZGVuQ2NDRnFBRl9mM3gzSEluak1ZM3lSOVBEZmFPVVRPd00xRWFpS3lPZjRtVEZsX3RielBpTnR2TlhlVEk2N3J0Qk4zTFNHa1BnTG51NjVqZUF3aA?oc=5",
@@ -62,14 +70,6 @@
           "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWTE2VmF4U3dYVVlKanR3RGlUVWVmQ2YybUY5bWJtMWd1SHJrOXNCbktpQWFqV3YtR0Y4c3cwcUpTNW9qbTRxQXB2YVR3cTFfODRJM0c2SEJxbkpRYXdYcm9SbUJMVE5STGs3V3RrbHB4MFdWYnpFeWJkRzFQV2RJQ3JuNnFwTGhGTFlaWnU0bzRxZlFvR0IwcjhHa1pUUDE4a3htZmowLU1ZcDNGNkNFdmpPbXZWN1N6TjI0YXFrbmlKck1xeFItcE5jTFdFUXdvd0FJYTByV3lqMGtsdGo4WA?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-08-03",
-          "views": "18.0K"
-        },
-        {
-          "title": "AI price wars: OpenAI cuts GPT-5.6 Luna prices by 80% as model competition shifts toward cost - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ2hVQW43d3QzOWlhMnMta2dhbDFTSDFSWC1Ua01fb09wcGFvR1d4M2dPcWlnTlRTdFBqVzVZT202dVpfV2FOYkpncmxlSnRhSUVZZ0Z0TDBiYXhmejBTVkRPRmhENHlMME1HOHQ3NU5BeTV1OVR3d2E4amRjRnZ6VV9TQXotcjRXVUpSTWU3UWxJTlVOZFNLWGUzY0dMVnhGZUNVakFPTFBwY1ZiU2wwNDVoSDk0dG9LR1NpZDdndEFsbWVW?oc=5\" target=\"_blank\">AI price wars: OpenAI cuts GPT-5.6 Luna prices by 80% as model competition shifts toward cost</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ2hVQW43d3QzOWlhMnMta2dhbDFTSDFSWC1Ua01fb09wcGFvR1d4M2dPcWlnTlRTdFBqVzVZT202dVpfV2FOYkpncmxlSnRhSUVZZ0Z0TDBiYXhmejBTVkRPRmhENHlMME1HOHQ3NU5BeTV1OVR3d2E4amRjRnZ6VV9TQXotcjRXVUpSTWU3UWxJTlVOZFNLWGUzY0dMVnhGZUNVakFPTFBwY1ZiU2wwNDVoSDk0dG9LR1NpZDdndEFsbWVW?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-07-30",
           "views": "18.0K"
         }
       ]
@@ -111,24 +111,24 @@
       "description": "규제, 책임, 신뢰, 저작권 같은 문제를 보는 관점",
       "items": [
         {
-          "title": "Trump advisers tell AI firms they will not safety-test open-weight models - reuters.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa1dFYnlpdVZxSzIyWnptbDAxbjlwMzNtdEFtVFRkYXQ5OWpxbTBBaU44LUg5Tl9oX2ZnT2R2REQ0S2JWdjVid1NkWmM5aUJyOTZFZE9lQnNRWHhhS1NIVXBsTW9CRGZoRHlQTVZTOXhzVndCYkxZUEFUcElGdG9leU1ISlpLaWJER3dZUC13NmQ2SjNGMVpPcXc4NzdrbWlhekFiV19aYWZKaGJCblhvNnVFbWo0UVJUSWQ4eWVCSHZtRXFqU01zOQ?oc=5\" target=\"_blank\">Trump advisers tell AI firms they will not safety-test open-weight models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNa1dFYnlpdVZxSzIyWnptbDAxbjlwMzNtdEFtVFRkYXQ5OWpxbTBBaU44LUg5Tl9oX2ZnT2R2REQ0S2JWdjVid1NkWmM5aUJyOTZFZE9lQnNRWHhhS1NIVXBsTW9CRGZoRHlQTVZTOXhzVndCYkxZUEFUcElGdG9leU1ISlpLaWJER3dZUC13NmQ2SjNGMVpPcXc4NzdrbWlhekFiV19aYWZKaGJCblhvNnVFbWo0UVJUSWQ4eWVCSHZtRXFqU01zOQ?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-08-04",
+          "title": "17 Michelin-listed restaurants found violating Korea's food safety laws; 2-star restaurant used ants - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdFhIcDJoZVdBcjZrank3QXdubjlicW5JcmxScU1pdXpNT2JCcjJnY0kzdVJKeW9xdVA1TndZMl9iSUNZYlVJTFVDbmdGdGRqS0ZndF9rZUZUT2pGZmdzUk55REpUMHA2VHlFdTNYd1dWbF9OT0tvbEpINDQtSHlMbVhabXdZUmR6RG5DRXNaVDBXMGtDN3Jrd0pYYnZObEJlRHUtMnFTaDBGemo4b1ppdXYwaTJUMlBIRjdIWGhOcHA4TWJscllINFdxelV3THV4dFZ5TG1nT0tWUlY2WnFpRtIB5gFBVV95cUxPS3pVVnphdDRaaHZWWE8yX3Z5ZWw2ZHdLVC02am82QWhUUmFHbmlYV0otY2NpLWQyZUZITlF3SkdERkxsd3U4SFVHZ0c2UXdrZ3VHTi15Tm4yQWh3ck1rRWlFVC1vZmJ3UmU0RXRuMkJKTENIcjRUWHlTd0lIVzJlZ2h1c3ZSTllxakRTc3hHVjNmbkZxVVE3XzZ0M2IxazVUZW1aVzRWcmVuUmFKWHJLYzExRDY4MHBKU1lzZ2YwOVRvX2NaZ2xfWGZJRVpBUDRWbml3azluSG01cko2SERIZzc2cHVhdw?oc=5\" target=\"_blank\">17 Michelin-listed restaurants found violating Korea's food safety laws; 2-star restaurant used ants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdFhIcDJoZVdBcjZrank3QXdubjlicW5JcmxScU1pdXpNT2JCcjJnY0kzdVJKeW9xdVA1TndZMl9iSUNZYlVJTFVDbmdGdGRqS0ZndF9rZUZUT2pGZmdzUk55REpUMHA2VHlFdTNYd1dWbF9OT0tvbEpINDQtSHlMbVhabXdZUmR6RG5DRXNaVDBXMGtDN3Jrd0pYYnZObEJlRHUtMnFTaDBGemo4b1ppdXYwaTJUMlBIRjdIWGhOcHA4TWJscllINFdxelV3THV4dFZ5TG1nT0tWUlY2WnFpRtIB5gFBVV95cUxPS3pVVnphdDRaaHZWWE8yX3Z5ZWw2ZHdLVC02am82QWhUUmFHbmlYV0otY2NpLWQyZUZITlF3SkdERkxsd3U4SFVHZ0c2UXdrZ3VHTi15Tm4yQWh3ck1rRWlFVC1vZmJ3UmU0RXRuMkJKTENIcjRUWHlTd0lIVzJlZ2h1c3ZSTllxakRTc3hHVjNmbkZxVVE3XzZ0M2IxazVUZW1aVzRWcmVuUmFKWHJLYzExRDY4MHBKU1lzZ2YwOVRvX2NaZ2xfWGZJRVpBUDRWbml3azluSG01cko2SERIZzc2cHVhdw?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-08-05",
           "views": "18.0K"
         },
         {
-          "title": "US says some older Ford cars, SUVs pose unreasonable safety risks - reuters.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ2dldU1mUldzVThXUm9CTWlFbGI1ckxwdmRCb1ZmVWZ3ZGFyWmRPNWFubFVfOE5LaVdXMzhhaDhDT2o2T0VsaTE5ZkYzV2lCMGZRRjFqM0RzR3loRnhXYnUzOE1TNnRMSXA3MXoyZUlzbEpWUEM1LXRERXhXLW4tdlVKMVZjMzN3U0M0MW5ldHJLc1p6Vk5nRDBFWWM5eHV4YVBlY1VoQnNMU0paVjlDU1p6VmRDZk4w?oc=5\" target=\"_blank\">US says some older Ford cars, SUVs pose unreasonable safety risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ2dldU1mUldzVThXUm9CTWlFbGI1ckxwdmRCb1ZmVWZ3ZGFyWmRPNWFubFVfOE5LaVdXMzhhaDhDT2o2T0VsaTE5ZkYzV2lCMGZRRjFqM0RzR3loRnhXYnUzOE1TNnRMSXA3MXoyZUlzbEpWUEM1LXRERXhXLW4tdlVKMVZjMzN3U0M0MW5ldHJLc1p6Vk5nRDBFWWM5eHV4YVBlY1VoQnNMU0paVjlDU1p6VmRDZk4w?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-08-03",
+          "title": "17 Michelin-listed restaurants found violating Korea's food safety laws; 2-star restaurant used inedible ants - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTWlQVkNXdjhYVHdFeWRwR0pSN0VrZVNtZzBnU3psaVViSW04RjhNUWVYUHFGckxwbnI0WHRiTWpwdnItcHVzMG5VbW96THRyUG1ZQ2dDTzkxd3VRRDBGT3RfUGVzdkdFVzVHVmxDNW9xUzM5aHAyWm5zb2NfbUxIRXZPUVZwU3ozVnNCVUtBWTYxQTd5NEpCTW5UNGpOdUN6NGlxRUFlbk9qdjIyNnZiT2pxYUhQYnFGUmFhOTFRd0RUNGozVUdzR1gyNzFLTUw1bE9ZMVZsd09jSWF1azVDcHFCa0xuTm9PbG9oQdIB8gFBVV95cUxOV0d1ZkpZUWh5a1Vzc2ZZTTU1TWpYMVVLSVQ2THB0dGF1Y0EyWEw0eDA1U0hfRUtNMEtSRjdicGhPOFY4WUJPRGZMOUlaek9reXdOczdkXzkxZExLVmFXYlozbnZYWnNKX1BOMzVKcVpoNi16MTZZa2xEcnNmM3ZHY1NLYTh2VFBORlU5ZVpMQlZlYnY3dWNSSXh1UnRRR3lIc2gwZUVURFc2Z3AzUFB0R0p3MzFBUzJ3aTE4ajhXaWRzZ2hHdmxmSWVDazBQZE5pamRuUy1nRHlqMTZidG1EZFNESkhGTm1aRzljZHNmTUNDQQ?oc=5\" target=\"_blank\">17 Michelin-listed restaurants found violating Korea's food safety laws; 2-star restaurant used inedible ants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTWlQVkNXdjhYVHdFeWRwR0pSN0VrZVNtZzBnU3psaVViSW04RjhNUWVYUHFGckxwbnI0WHRiTWpwdnItcHVzMG5VbW96THRyUG1ZQ2dDTzkxd3VRRDBGT3RfUGVzdkdFVzVHVmxDNW9xUzM5aHAyWm5zb2NfbUxIRXZPUVZwU3ozVnNCVUtBWTYxQTd5NEpCTW5UNGpOdUN6NGlxRUFlbk9qdjIyNnZiT2pxYUhQYnFGUmFhOTFRd0RUNGozVUdzR1gyNzFLTUw1bE9ZMVZsd09jSWF1azVDcHFCa0xuTm9PbG9oQdIB8gFBVV95cUxOV0d1ZkpZUWh5a1Vzc2ZZTTU1TWpYMVVLSVQ2THB0dGF1Y0EyWEw0eDA1U0hfRUtNMEtSRjdicGhPOFY4WUJPRGZMOUlaek9reXdOczdkXzkxZExLVmFXYlozbnZYWnNKX1BOMzVKcVpoNi16MTZZa2xEcnNmM3ZHY1NLYTh2VFBORlU5ZVpMQlZlYnY3dWNSSXh1UnRRR3lIc2gwZUVURFc2Z3AzUFB0R0p3MzFBUzJ3aTE4ajhXaWRzZ2hHdmxmSWVDazBQZE5pamRuUy1nRHlqMTZidG1EZFNESkhGTm1aRzljZHNmTUNDQQ?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-08-05",
           "views": "18.0K"
         },
         {
-          "title": "US auto safety regulator probes 1.2 million Tesla vehicles over suspension failure risks - reuters.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWXBVTW4xd3dLcmJXNU41TGx6ZkJadG1walRhRWw5VzkxVnV6Uk5ZQUtTeEhZRHloMDF2WHpPNXNfRkM5UWJUY2RwR3FKM09Da0lDRzg3elRHRWF2SmVvemp1RFItYW5Pc01hM0IxQnBXdExuY3hTeVY1X3oySjVJR0JmMEpqZmUzdWhSYXVGM1FKWmFNZ3lKOWFkX29qbXNCWlhFWktOTmdsMWdWb2d6SjdyeWgwQ3pGLWh5MnNrR0VKQQ?oc=5\" target=\"_blank\">US auto safety regulator probes 1.2 million Tesla vehicles over suspension failure risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+          "title": "US auto safety regulator probes 1.2 million Tesla vehicles over suspension failure risks - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWXBVTW4xd3dLcmJXNU41TGx6ZkJadG1walRhRWw5VzkxVnV6Uk5ZQUtTeEhZRHloMDF2WHpPNXNfRkM5UWJUY2RwR3FKM09Da0lDRzg3elRHRWF2SmVvemp1RFItYW5Pc01hM0IxQnBXdExuY3hTeVY1X3oySjVJR0JmMEpqZmUzdWhSYXVGM1FKWmFNZ3lKOWFkX29qbXNCWlhFWktOTmdsMWdWb2d6SjdyeWgwQ3pGLWh5MnNrR0VKQQ?oc=5\" target=\"_blank\">US auto safety regulator probes 1.2 million Tesla vehicles over suspension failure risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWXBVTW4xd3dLcmJXNU41TGx6ZkJadG1walRhRWw5VzkxVnV6Uk5ZQUtTeEhZRHloMDF2WHpPNXNfRkM5UWJUY2RwR3FKM09Da0lDRzg3elRHRWF2SmVvemp1RFItYW5Pc01hM0IxQnBXdExuY3hTeVY1X3oySjVJR0JmMEpqZmUzdWhSYXVGM1FKWmFNZ3lKOWFkX29qbXNCWlhFWktOTmdsMWdWb2d6SjdyeWgwQ3pGLWh5MnNrR0VKQQ?oc=5",
           "source": "Reuters AI",
           "publishedAt": "2026-07-31",
@@ -142,8 +142,16 @@
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
         {
-          "title": "US economy is overstimulated — and bond markets fear it - reuters.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOOEZFQkFyNE41ZEZVYjFwVVdyeV9WaGtIalV3LUhpUDUxald1WDFnQm05WmxPN2pTbk9iaUlnSzJNUGplbDJScnNSMU9XdTVzcWFsVVFXZXlMS0Y5dWc4Z0FCQUJKOF82ZWJGVDZXZFFzSGxEVURGSkNwUjkxbDVQSTJfWHRxYm13VDZKeHZDR2JRNVI0WDQwa05pZHRCbVh1NGIydm9sSzg4Z2RIOUc5NWxiRFRXSnVtSXc?oc=5\" target=\"_blank\">US economy is overstimulated — and bond markets fear it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+          "title": "Finance minister voices confidence in economy, vows efforts to stabilize stock market - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPVXNQaXBTdnN2MmRnaWFmQ2FNLXQ4dEJEWGNvbnpVQmlKdTB0M0ZnSFlKbFJHbnF5SmNlc1lHN1RWYWp2dTdTSjl2djdpS0x2SnBYU3R3c3NtWmltc2xZYjZlN3JldW94S1ZDMnVmOHNLVUZPRjlHUGh4WE5fRU5NcUhER2hyc051N1ZoV1YtSkRCR3g3UzhvQ25LdElHX1J0UG1IdUszLTc1Q3ctVjJsMjhVNThQb29wLXBnUU1abjhHZ2RaQlZ4dEFn0gHPAUFVX3lxTE56VjV4TVRjMV9mcEVFT2lJNTBhZk5qcW01NEdQVk9aVG94OGNyNlNzclVyR3pPYWhwZ0x2S2RsYjg4ajdOeUlhZjU1bXBFdFl0RUdpc1B2WjZyTzl6ZWpHNUY3M1ByaFNmcl91blAyaktvNHI3eFBnWURaaFNCSmlleWVQRWI4NW5zSktRWFV6RUFMSndoMGxLQUJaXzBrWGNibFhicEZZUjU2SVQwZDZWOHNJS0tLeG9IY3o1R2FlZ3FReVhtbWRsMnJqMXlnMA?oc=5\" target=\"_blank\">Finance minister voices confidence in economy, vows efforts to stabilize stock market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVXNQaXBTdnN2MmRnaWFmQ2FNLXQ4dEJEWGNvbnpVQmlKdTB0M0ZnSFlKbFJHbnF5SmNlc1lHN1RWYWp2dTdTSjl2djdpS0x2SnBYU3R3c3NtWmltc2xZYjZlN3JldW94S1ZDMnVmOHNLVUZPRjlHUGh4WE5fRU5NcUhER2hyc051N1ZoV1YtSkRCR3g3UzhvQ25LdElHX1J0UG1IdUszLTc1Q3ctVjJsMjhVNThQb29wLXBnUU1abjhHZ2RaQlZ4dEFn0gHPAUFVX3lxTE56VjV4TVRjMV9mcEVFT2lJNTBhZk5qcW01NEdQVk9aVG94OGNyNlNzclVyR3pPYWhwZ0x2S2RsYjg4ajdOeUlhZjU1bXBFdFl0RUdpc1B2WjZyTzl6ZWpHNUY3M1ByaFNmcl91blAyaktvNHI3eFBnWURaaFNCSmlleWVQRWI4NW5zSktRWFV6RUFMSndoMGxLQUJaXzBrWGNibFhicEZZUjU2SVQwZDZWOHNJS0tLeG9IY3o1R2FlZ3FReVhtbWRsMnJqMXlnMA?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-08-06",
+          "views": "18.0K"
+        },
+        {
+          "title": "US economy is overstimulated — and bond markets fear it - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOOEZFQkFyNE41ZEZVYjFwVVdyeV9WaGtIalV3LUhpUDUxald1WDFnQm05WmxPN2pTbk9iaUlnSzJNUGplbDJScnNSMU9XdTVzcWFsVVFXZXlMS0Y5dWc4Z0FCQUJKOF82ZWJGVDZXZFFzSGxEVURGSkNwUjkxbDVQSTJfWHRxYm13VDZKeHZDR2JRNVI0WDQwa05pZHRCbVh1NGIydm9sSzg4Z2RIOUc5NWxiRFRXSnVtSXc?oc=5\" target=\"_blank\">US economy is overstimulated — and bond markets fear it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOEZFQkFyNE41ZEZVYjFwVVdyeV9WaGtIalV3LUhpUDUxald1WDFnQm05WmxPN2pTbk9iaUlnSzJNUGplbDJScnNSMU9XdTVzcWFsVVFXZXlMS0Y5dWc4Z0FCQUJKOF82ZWJGVDZXZFFzSGxEVURGSkNwUjkxbDVQSTJfWHRxYm13VDZKeHZDR2JRNVI0WDQwa05pZHRCbVh1NGIydm9sSzg4Z2RIOUc5NWxiRFRXSnVtSXc?oc=5",
           "source": "Reuters AI",
           "publishedAt": "2026-08-04",
@@ -156,14 +164,6 @@
           "source": "WIRED AI",
           "publishedAt": "2026-07-30",
           "views": "18.0K"
-        },
-        {
-          "title": "SpaceX's mobile ambitions jolt US telecom market, analysts debate threat - reuters.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOXzdtUXFDTFJmekk3eHU1U3hzV0MyM21yTUdIS2tIZ1N2WkRSQW9Vcm5vaHFONlYxaExidlotWWZVbk1QQi1OaHFDc0xPdE1vMjRzY3d6QnhjbUVMV05pUEtNYVlnUXNSaG9kYzBPZk9xMTlvUlNlVEJ3ajM3M05nT255V09GOXA2S2pmQ191aDZVU1Zoa3RaQ3ZfbnhiT3FwLVV6aWxUb1Jvc2NwWjhucVIwMUhGS2tQOGtKQ3ZHZURFUVZ5M2xEXw?oc=5\" target=\"_blank\">SpaceX's mobile ambitions jolt US telecom market, analysts debate threat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOXzdtUXFDTFJmekk3eHU1U3hzV0MyM21yTUdIS2tIZ1N2WkRSQW9Vcm5vaHFONlYxaExidlotWWZVbk1QQi1OaHFDc0xPdE1vMjRzY3d6QnhjbUVMV05pUEtNYVlnUXNSaG9kYzBPZk9xMTlvUlNlVEJ3ajM3M05nT255V09GOXA2S2pmQ191aDZVU1Zoa3RaQ3ZfbnhiT3FwLVV6aWxUb1Jvc2NwWjhucVIwMUhGS2tQOGtKQ3ZHZURFUVZ5M2xEXw?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-08-05",
-          "views": "13.0K"
         }
       ]
     },
@@ -173,27 +173,27 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
-          "title": "SpaceX's mobile ambitions jolt US telecom market, analysts debate threat - reuters.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOXzdtUXFDTFJmekk3eHU1U3hzV0MyM21yTUdIS2tIZ1N2WkRSQW9Vcm5vaHFONlYxaExidlotWWZVbk1QQi1OaHFDc0xPdE1vMjRzY3d6QnhjbUVMV05pUEtNYVlnUXNSaG9kYzBPZk9xMTlvUlNlVEJ3ajM3M05nT255V09GOXA2S2pmQ191aDZVU1Zoa3RaQ3ZfbnhiT3FwLVV6aWxUb1Jvc2NwWjhucVIwMUhGS2tQOGtKQ3ZHZURFUVZ5M2xEXw?oc=5\" target=\"_blank\">SpaceX's mobile ambitions jolt US telecom market, analysts debate threat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOXzdtUXFDTFJmekk3eHU1U3hzV0MyM21yTUdIS2tIZ1N2WkRSQW9Vcm5vaHFONlYxaExidlotWWZVbk1QQi1OaHFDc0xPdE1vMjRzY3d6QnhjbUVMV05pUEtNYVlnUXNSaG9kYzBPZk9xMTlvUlNlVEJ3ajM3M05nT255V09GOXA2S2pmQ191aDZVU1Zoa3RaQ3ZfbnhiT3FwLVV6aWxUb1Jvc2NwWjhucVIwMUhGS2tQOGtKQ3ZHZURFUVZ5M2xEXw?oc=5",
-          "source": "Reuters AI",
+          "title": "After record global presales, Na Hong-jin's 'Hope' prepares for world rollout - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLWhmT2w1b1NnOGR1WndSQUZWSWwwcUg2bXBFT01WTzhNV25Zd3R3a0ZOWm9LRVg3ejV1bERYUWlNXzdNNENlMlBWdzd6OTY5T3A4OG11YjZjWkNHb3VJaFJuY013dTFwVXU5cFd3dDhRVjI1YWc0UXE0b3FKZXZyaXRXaWhjQi1SY0I1SmtCb2tuTlBKdHF5empQWl8yc3A1aFlQdmVPQUlxdFhGRzdHN1RpbWdPVVhCVkFXOWwzQjNfcmtlZnAtc1dHZVJ4WlF00gHQAUFVX3lxTE8taGZPbDVvU2c4ZHVad1JBRlZJbDBxSDZtcEVPTVZPOE1Xbll3dHdrRk5ab0tFWDd6NXVsRFhRaU1fN000Q2UyUFZ3N3o5NjlPcDg4bXViNmNaQ0dvdUloUm5jTXd1MXBVdTlwV3d0OFFWMjVhZzRRcTRvcUpldnJpdFdpaGNCLVJjQjVKa0Jva25OUEp0cXl6alBaXzJzcDVoWVB2ZU9BSXF0WEZHN0c3VGltZ09VWEJWQVc5bDNCM19ya2VmcC1zV0dlUnhaUXQ?oc=5\" target=\"_blank\">After record global presales, Na Hong-jin's 'Hope' prepares for world rollout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLWhmT2w1b1NnOGR1WndSQUZWSWwwcUg2bXBFT01WTzhNV25Zd3R3a0ZOWm9LRVg3ejV1bERYUWlNXzdNNENlMlBWdzd6OTY5T3A4OG11YjZjWkNHb3VJaFJuY013dTFwVXU5cFd3dDhRVjI1YWc0UXE0b3FKZXZyaXRXaWhjQi1SY0I1SmtCb2tuTlBKdHF5empQWl8yc3A1aFlQdmVPQUlxdFhGRzdHN1RpbWdPVVhCVkFXOWwzQjNfcmtlZnAtc1dHZVJ4WlF00gHQAUFVX3lxTE8taGZPbDVvU2c4ZHVad1JBRlZJbDBxSDZtcEVPTVZPOE1Xbll3dHdrRk5ab0tFWDd6NXVsRFhRaU1fN000Q2UyUFZ3N3o5NjlPcDg4bXViNmNaQ0dvdUloUm5jTXd1MXBVdTlwV3d0OFFWMjVhZzRRcTRvcUpldnJpdFdpaGNCLVJjQjVKa0Jva25OUEp0cXl6alBaXzJzcDVoWVB2ZU9BSXF0WEZHN0c3VGltZ09VWEJWQVc5bDNCM19ya2VmcC1zV0dlUnhaUXQ?oc=5",
+          "source": "The Korea Times",
           "publishedAt": "2026-08-05",
           "views": "13.0K"
         },
         {
-          "title": "Oracle Corp goes for high-stakes ratings gamble in AI strategy - reuters.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNUTZDLU9YVTRMN1NqaS1WSGh6Tk54VnBycmlfZ0pQVnA5R2p1VTc0YWFkbTMyZF9uRldPYTRnNmY5X2tRaW9iY0prV082RU9yLUo3WFFGc1h6emd1b3JtN1BscG1qX3ZZdG0zenptenZWV0xOWXY0WWZUSFpUTUg3UE9nWE5MR1NpSlZUWHJqTW4yRXE1emxKWnRGS0xqZ0pyZUE?oc=5\" target=\"_blank\">Oracle Corp goes for high-stakes ratings gamble in AI strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUTZDLU9YVTRMN1NqaS1WSGh6Tk54VnBycmlfZ0pQVnA5R2p1VTc0YWFkbTMyZF9uRldPYTRnNmY5X2tRaW9iY0prV082RU9yLUo3WFFGc1h6emd1b3JtN1BscG1qX3ZZdG0zenptenZWV0xOWXY0WWZUSFpUTUg3UE9nWE5MR1NpSlZUWHJqTW4yRXE1emxKWnRGS0xqZ0pyZUE?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-08-04",
+          "title": "Meta's AI model hacked another company during testing, The Information reports - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZW0yOHNlMVhCOXpSWWZ0enVTalFSQlJOYVZ6a0ZKMXVuYzhZd3NPcTNDd1BNdTIzbUpRREg4OGcyNlJhdXZkOXhIcXloUlZiMVpwVTV4ZFVDRGVuYmI2b0hIVXFFQ18wdU5SblE5Rk42S2U2YU9OU0NqQWVUcURocmg2cTUtc3o5TEFGUDluV0xnSVM1ZDdxLXVsS0xMdWxGaG41WVRfaEE0S2F2SHdHeUR1M2lvSko1T3dURDR4VlJfZ9IBwgFBVV95cUxNZW0yOHNlMVhCOXpSWWZ0enVTalFSQlJOYVZ6a0ZKMXVuYzhZd3NPcTNDd1BNdTIzbUpRREg4OGcyNlJhdXZkOXhIcXloUlZiMVpwVTV4ZFVDRGVuYmI2b0hIVXFFQ18wdU5SblE5Rk42S2U2YU9OU0NqQWVUcURocmg2cTUtc3o5TEFGUDluV0xnSVM1ZDdxLXVsS0xMdWxGaG41WVRfaEE0S2F2SHdHeUR1M2lvSko1T3dURDR4VlJfZw?oc=5\" target=\"_blank\">Meta's AI model hacked another company during testing, The Information reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZW0yOHNlMVhCOXpSWWZ0enVTalFSQlJOYVZ6a0ZKMXVuYzhZd3NPcTNDd1BNdTIzbUpRREg4OGcyNlJhdXZkOXhIcXloUlZiMVpwVTV4ZFVDRGVuYmI2b0hIVXFFQ18wdU5SblE5Rk42S2U2YU9OU0NqQWVUcURocmg2cTUtc3o5TEFGUDluV0xnSVM1ZDdxLXVsS0xMdWxGaG41WVRfaEE0S2F2SHdHeUR1M2lvSko1T3dURDR4VlJfZ9IBwgFBVV95cUxNZW0yOHNlMVhCOXpSWWZ0enVTalFSQlJOYVZ6a0ZKMXVuYzhZd3NPcTNDd1BNdTIzbUpRREg4OGcyNlJhdXZkOXhIcXloUlZiMVpwVTV4ZFVDRGVuYmI2b0hIVXFFQ18wdU5SblE5Rk42S2U2YU9OU0NqQWVUcURocmg2cTUtc3o5TEFGUDluV0xnSVM1ZDdxLXVsS0xMdWxGaG41WVRfaEE0S2F2SHdHeUR1M2lvSko1T3dURDR4VlJfZw?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-08-05",
           "views": "13.0K"
         },
         {
-          "title": "VIEW SpaceX's first quarterly results as a public company beat expectations, but AI costs hit stock - reuters.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQY3o4ck4yYVNwd29hbGtSN1d3dGZ6ZjdNR2JRWi11NWJXMHphclFkVmFlRTNXVl9NeWljSFR3VERaUUhmamNYMG1YU19GNmxZbzZNRWNiZDRBc2RSMDltXzZ3SklteTZuWEFXZmJkX2plSXlUaUJ4bkctamUwWHdIeGFUWnhKdXdKcFloNFVibjlWZ1JHU3h1cGRoNFp2UUFtaFdQdlpJZlF2Z0ktX2ZCVmJRaV9YNnFCeS1PLTQyUkNIZWpXTmZBdWJST3FJMzlWbTNN?oc=5\" target=\"_blank\">VIEW SpaceX's first quarterly results as a public company beat expectations, but AI costs hit stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQY3o4ck4yYVNwd29hbGtSN1d3dGZ6ZjdNR2JRWi11NWJXMHphclFkVmFlRTNXVl9NeWljSFR3VERaUUhmamNYMG1YU19GNmxZbzZNRWNiZDRBc2RSMDltXzZ3SklteTZuWEFXZmJkX2plSXlUaUJ4bkctamUwWHdIeGFUWnhKdXdKcFloNFVibjlWZ1JHU3h1cGRoNFp2UUFtaFdQdlpJZlF2Z0ktX2ZCVmJRaV9YNnFCeS1PLTQyUkNIZWpXTmZBdWJST3FJMzlWbTNN?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-08-04",
+          "title": "Record spending by int'l visitors drives Seoul's new experience-first tourism strategy - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRHdFMjNaVWpuaFJIVjI4MmpYaGlNWGllWHNXWEcyQkw1akJ5ckxHaVVVYS1QdFowRHh4TWpTb3FLQ2NTTDI3OTdUYW05SFotTW9JTzYwMTlwb1FrQktfX3pjYjlibmc4U1pjRGxrTGM5aHE2MjBNV0R6Vld6Rmx4UXF4OGR4czVYZVBidTVVUXVxcTZmWlUtdEdNaXNaU01CaE1JQjdvYWs3a3hDMGt1NV9sUkg5LUJNV2hRQmxRTWhFNDkyaVI3Mnd3MFdKWVNnc1Nub3NYa3lmUEXSAdsBQVVfeXFMTUR3RTIzWlVqbmhSSFYyODJqWGhpTVhpZVhzV1hHMkJMNWpCeXJMR2lVVWEtUHRaMER4eE1qU29xS0NjU0wyNzk3VGFtOUhaLU1vSU82MDE5cG9Ra0JLX196Y2I5Ym5nOFNaY0Rsa0xjOWhxNjIwTVdEelZXekZseFFxeDhkeHM1WGVQYnU1VVF1cXE2ZlpVLXRHTWlzWlNNQmhNSUI3b2FrN2t4QzBrdTVfbFJIOS1CTVdoUUJsUU1oRTQ5MmlSNzJ3dzBXSllTZ3NTbm9zWGt5ZlBF?oc=5\" target=\"_blank\">Record spending by int'l visitors drives Seoul's new experience-first tourism strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRHdFMjNaVWpuaFJIVjI4MmpYaGlNWGllWHNXWEcyQkw1akJ5ckxHaVVVYS1QdFowRHh4TWpTb3FLQ2NTTDI3OTdUYW05SFotTW9JTzYwMTlwb1FrQktfX3pjYjlibmc4U1pjRGxrTGM5aHE2MjBNV0R6Vld6Rmx4UXF4OGR4czVYZVBidTVVUXVxcTZmWlUtdEdNaXNaU01CaE1JQjdvYWs3a3hDMGt1NV9sUkg5LUJNV2hRQmxRTWhFNDkyaVI3Mnd3MFdKWVNnc1Nub3NYa3lmUEXSAdsBQVVfeXFMTUR3RTIzWlVqbmhSSFYyODJqWGhpTVhpZVhzV1hHMkJMNWpCeXJMR2lVVWEtUHRaMER4eE1qU29xS0NjU0wyNzk3VGFtOUhaLU1vSU82MDE5cG9Ra0JLX196Y2I5Ym5nOFNaY0Rsa0xjOWhxNjIwTVdEelZXekZseFFxeDhkeHM1WGVQYnU1VVF1cXE2ZlpVLXRHTWlzWlNNQmhNSUI3b2FrN2t4QzBrdTVfbFJIOS1CTVdoUUJsUU1oRTQ5MmlSNzJ3dzBXSllTZ3NTbm9zWGt5ZlBF?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-08-05",
           "views": "13.0K"
         }
       ]
