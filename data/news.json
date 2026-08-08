@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T03:13:17.831Z",
+  "lastUpdated": "2026-08-08T02:19:10.260Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -57,8 +57,8 @@
           "views": "18.0K"
         },
         {
-          "title": "Anthropic to build in-house chip design team for Claude, hire engineers - reuters.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPVWxwdXZrbVFwRlFONnozZzBTNzdmbU9LaWc3alMtUmFJUXVfaW1hR2J1QVlsLU9razNxemdDQ012Z2NCR19XNHk1VHFIbUNLNWs2b0FlSTZwZWV2WUlicnBuNnRRLVdNXzRFYnhRRkhQdjdfenRyRzNJLUVCc1hMRXhkYy1pR19yaS1vZXh2SUZlenNRSnFFLURzOTNFQWxIaFd2TjcwSFhYbS1w?oc=5\" target=\"_blank\">Anthropic to build in-house chip design team for Claude, hire engineers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+          "title": "Anthropic to build in-house chip design team for Claude, hire engineers - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPVWxwdXZrbVFwRlFONnozZzBTNzdmbU9LaWc3alMtUmFJUXVfaW1hR2J1QVlsLU9razNxemdDQ012Z2NCR19XNHk1VHFIbUNLNWs2b0FlSTZwZWV2WUlicnBuNnRRLVdNXzRFYnhRRkhQdjdfenRyRzNJLUVCc1hMRXhkYy1pR19yaS1vZXh2SUZlenNRSnFFLURzOTNFQWxIaFd2TjcwSFhYbS1w?oc=5\" target=\"_blank\">Anthropic to build in-house chip design team for Claude, hire engineers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVWxwdXZrbVFwRlFONnozZzBTNzdmbU9LaWc3alMtUmFJUXVfaW1hR2J1QVlsLU9razNxemdDQ012Z2NCR19XNHk1VHFIbUNLNWs2b0FlSTZwZWV2WUlicnBuNnRRLVdNXzRFYnhRRkhQdjdfenRyRzNJLUVCc1hMRXhkYy1pR19yaS1vZXh2SUZlenNRSnFFLURzOTNFQWxIaFd2TjcwSFhYbS1w?oc=5",
           "source": "Reuters AI",
           "publishedAt": "2026-08-05",
@@ -80,6 +80,14 @@
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
         {
+          "title": "Four AI agents coordinating in real time outperformed Claude Opus 4.8 on enterprise coding tasks - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNSmJwVlk5WE5BZjh5SkJWaEtRUFQ2WldNcVBDSkJZenp1UlltVlE3cmhEUEV0LXpxVHVram93dkZhc25ZV1FLazdwbWxDQlczdjV5S1Q5eVgyLUFKRDR3NEJqb3BrWWhuMHFSTkV1WVJoSmpiMVJCaGFxTFVaOE5ETVhVUXV0c2JWZFRNRi1XaDltZ21DN1JlMVVZbUUtRlpUeEhORkkzYVp3bkw2YWZfeFY0dEQtQlhKbTlDNVMyNjQ1TUtMUWdZODlZeWdOTnc?oc=5\" target=\"_blank\">Four AI agents coordinating in real time outperformed Claude Opus 4.8 on enterprise coding tasks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSmJwVlk5WE5BZjh5SkJWaEtRUFQ2WldNcVBDSkJZenp1UlltVlE3cmhEUEV0LXpxVHVram93dkZhc25ZV1FLazdwbWxDQlczdjV5S1Q5eVgyLUFKRDR3NEJqb3BrWWhuMHFSTkV1WVJoSmpiMVJCaGFxTFVaOE5ETVhVUXV0c2JWZFRNRi1XaDltZ21DN1JlMVVZbUUtRlpUeEhORkkzYVp3bkw2YWZfeFY0dEQtQlhKbTlDNVMyNjQ1TUtMUWdZODlZeWdOTnc?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-08-07",
+          "views": "18.0K"
+        },
+        {
           "title": "How NTT DATA AIVista closes the last mile of agentic AI for enterprise agents - VentureBeat",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQZFdHY3dNbXg4UFRULXUwMzgyS1h4ZTRYVUczNGFOSWhCZzcwcXMtVmRHdmh5eDdtNUR0M3hsSDAtR083ZEpvQkpSbnhHcU1NYWU4Tmd6VDBRSG11alYyZHUzZnhlQmNtdEJxN0JGazdyWUR0SV9BU1duM3FVVUYzRXlRZDMzdGwzWXFPSEZjaGI4aGtJTGJzVmtjOTJBT2dSeGpteklGUkZvY244cW9SSUlwYkZEUQ?oc=5\" target=\"_blank\">How NTT DATA AIVista closes the last mile of agentic AI for enterprise agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZFdHY3dNbXg4UFRULXUwMzgyS1h4ZTRYVUczNGFOSWhCZzcwcXMtVmRHdmh5eDdtNUR0M3hsSDAtR083ZEpvQkpSbnhHcU1NYWU4Tmd6VDBRSG11alYyZHUzZnhlQmNtdEJxN0JGazdyWUR0SV9BU1duM3FVVUYzRXlRZDMzdGwzWXFPSEZjaGI4aGtJTGJzVmtjOTJBT2dSeGpteklGUkZvY244cW9SSUlwYkZEUQ?oc=5",
@@ -88,19 +96,11 @@
           "views": "18.0K"
         },
         {
-          "title": "How is your enterprise tracking AI agent telemetry? Groundcover thinks it should never leave your cloud - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQckNzVkwtaDlHTENrZG5TdnlMRV9WZjhSVVZVOGZRcDIyTklWMk1tS19ibjlTVWgzektoa0VURXZtNzBHMXZlc25XcEVHX1hoa2lSbFFwZU81TnNFMzVRNnRPTUh4eENqbno3T2hhZElPbzNTV05KdW5yaW90VWFQcTlONlhOU0txYkx3LVJtYVdSY2RXYWpJd1RFR1lnS2ZXV1pYUXpCcWhxQUlESEVUZE9vMERCZWt4TFE4cEhzS0d6Q2tKci12eFpicw?oc=5\" target=\"_blank\">How is your enterprise tracking AI agent telemetry? Groundcover thinks it should never leave your cloud</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQckNzVkwtaDlHTENrZG5TdnlMRV9WZjhSVVZVOGZRcDIyTklWMk1tS19ibjlTVWgzektoa0VURXZtNzBHMXZlc25XcEVHX1hoa2lSbFFwZU81TnNFMzVRNnRPTUh4eENqbno3T2hhZElPbzNTV05KdW5yaW90VWFQcTlONlhOU0txYkx3LVJtYVdSY2RXYWpJd1RFR1lnS2ZXV1pYUXpCcWhxQUlESEVUZE9vMERCZWt4TFE4cEhzS0d6Q2tKci12eFpicw?oc=5",
+          "title": "Stanford's AI agents designed a drug Merck later built, too - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSU9WM3dTSzVOcDRLTkRJNmxGSTMtb2NpaXQ1aEo2clFnVU5HWE9Wa1ByU0p4cXhMT1cwMHN6MkJ6ek9VWHBzc1k4UFlCc082ZHhZUlh4QU1oa0lDOFpKakptSDFwMlFYMlhhRDNWVl9meVBQdG9FeGloXzlwdm5sUTlFbXgxd3FlVUczYVMtbno2UUdFUzRWUEstcjByRmphX2xCMWhyNG5aT3ZOX3hzbGJRazRHQWtEOXpmb2t6QkQ5VmJIb3RTdUx0Mk5WaThOOWpfNjc2czRYRXZDZjB5cFQ5R2ZEdU5NcFBDbG1ONXFkUQ?oc=5\" target=\"_blank\">Stanford's AI agents designed a drug Merck later built, too</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSU9WM3dTSzVOcDRLTkRJNmxGSTMtb2NpaXQ1aEo2clFnVU5HWE9Wa1ByU0p4cXhMT1cwMHN6MkJ6ek9VWHBzc1k4UFlCc082ZHhZUlh4QU1oa0lDOFpKakptSDFwMlFYMlhhRDNWVl9meVBQdG9FeGloXzlwdm5sUTlFbXgxd3FlVUczYVMtbno2UUdFUzRWUEstcjByRmphX2xCMWhyNG5aT3ZOX3hzbGJRazRHQWtEOXpmb2t6QkQ5VmJIb3RTdUx0Mk5WaThOOWpfNjc2czRYRXZDZjB5cFQ5R2ZEdU5NcFBDbG1ONXFkUQ?oc=5",
           "source": "VentureBeat AI",
-          "publishedAt": "2026-07-31",
-          "views": "18.0K"
-        },
-        {
-          "title": "No cloud, no GPUs, no problem: Liquid AI's new model LFM2.5-2.6B brings powerful AI agents to devices as small as a Raspberry Pi - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMHV6SXVlbVZOMUhVVkVvR1VvMjhXazNsdGdmXzI2M3RmekkyUVJOcUktWjBzYzFYRWdfMGNUVWh3UEZWdTlBZWJ4M2hTQjZuODI2WVkzSUhYZGNhM3NWRkp3VGJNbHFxamJPajFZbUQ2a28yeXp2VUk1aDNmTmY4by1PbG4ybUQtMWtUSUJfSXlSTmY5NExfWFB1UHRZMW5ET296d0dTRktCdVVLeFlzMDc2c05qanlMak9Cc29Za2h1OHJIQXV0ZS1IX3dUYTR2LWZSS1dzd0JVZFFTX1JYUXkyeFk0T3NDSVBZNFMwUk8?oc=5\" target=\"_blank\">No cloud, no GPUs, no problem: Liquid AI's new model LFM2.5-2.6B brings powerful AI agents to devices as small as a Raspberry Pi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMHV6SXVlbVZOMUhVVkVvR1VvMjhXazNsdGdmXzI2M3RmekkyUVJOcUktWjBzYzFYRWdfMGNUVWh3UEZWdTlBZWJ4M2hTQjZuODI2WVkzSUhYZGNhM3NWRkp3VGJNbHFxamJPajFZbUQ2a28yeXp2VUk1aDNmTmY4by1PbG4ybUQtMWtUSUJfSXlSTmY5NExfWFB1UHRZMW5ET296d0dTRktCdVVLeFlzMDc2c05qanlMak9Cc29Za2h1OHJIQXV0ZS1IX3dUYTR2LWZSS1dzd0JVZFFTX1JYUXkyeFk0T3NDSVBZNFMwUk8?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-08-06",
+          "publishedAt": "2026-08-07",
           "views": "13.0K"
         }
       ]
@@ -111,9 +111,17 @@
       "description": "규제, 책임, 신뢰, 저작권 같은 문제를 보는 관점",
       "items": [
         {
-          "title": "Pressured by Tesla, European regulators keep 'Full Self-Driving' safety data secret - reuters.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPa0FjOVZXTy1YOTYxX1lISUlaWVVBQVFkOXM1bmxtQ1JOc0xERmJTWFRuNU54Q29SSGxqZlJubXVSUEVvUzR6eFQ3QzRUQjBQNFFsY3FuZFo3cTJZcGhRelUyU1NPck9pTExrbm1uQ21wY2s3M0FwZGMzWF9ZUHFnQVR3OTV2LTdab3VqYUlGMXlEdkg1U2JCZmNDd01ZSzlXcFZBSzByWU5BMExzbjJXTVNpSWgzRHpVLTI3VnFDN3p0M2tUbUJ5MFBZRzh1dw?oc=5\" target=\"_blank\">Pressured by Tesla, European regulators keep 'Full Self-Driving' safety data secret</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+          "title": "Pressured by Tesla, European regulators keep 'Full Self-Driving' safety data secret - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPa0FjOVZXTy1YOTYxX1lISUlaWVVBQVFkOXM1bmxtQ1JOc0xERmJTWFRuNU54Q29SSGxqZlJubXVSUEVvUzR6eFQ3QzRUQjBQNFFsY3FuZFo3cTJZcGhRelUyU1NPck9pTExrbm1uQ21wY2s3M0FwZGMzWF9ZUHFnQVR3OTV2LTdab3VqYUlGMXlEdkg1U2JCZmNDd01ZSzlXcFZBSzByWU5BMExzbjJXTVNpSWgzRHpVLTI3VnFDN3p0M2tUbUJ5MFBZRzh1dw?oc=5\" target=\"_blank\">Pressured by Tesla, European regulators keep 'Full Self-Driving' safety data secret</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPa0FjOVZXTy1YOTYxX1lISUlaWVVBQVFkOXM1bmxtQ1JOc0xERmJTWFRuNU54Q29SSGxqZlJubXVSUEVvUzR6eFQ3QzRUQjBQNFFsY3FuZFo3cTJZcGhRelUyU1NPck9pTExrbm1uQ21wY2s3M0FwZGMzWF9ZUHFnQVR3OTV2LTdab3VqYUlGMXlEdkg1U2JCZmNDd01ZSzlXcFZBSzByWU5BMExzbjJXTVNpSWgzRHpVLTI3VnFDN3p0M2tUbUJ5MFBZRzh1dw?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-08-06",
+          "views": "18.0K"
+        },
+        {
+          "title": "Law firm Skadden defends ethics amid Democrats' questions on Trump deal - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQV1ZoQl9qMHRYWDc0QXZlWXVoLVEtM0pKMmZvNW5LRVZUdm5yZVAwQ0VNWU5kdWdfSUtNVkhCNWFPQkl0UllQSnhyZE40MlAyU3JnejRsbEdmQnVNdEc1SDVJMGkybmp2ZnJoSWF0X19MYW9JUXYtalEtbmJnV3Utb056YTY2UGxEVmFCQmxXSG53VlVzazNoVlFIeVJ2dkVYNy0wbnhIVThLVDdlUzA3amxISlhCVFdUMWxFaA?oc=5\" target=\"_blank\">Law firm Skadden defends ethics amid Democrats' questions on Trump deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQV1ZoQl9qMHRYWDc0QXZlWXVoLVEtM0pKMmZvNW5LRVZUdm5yZVAwQ0VNWU5kdWdfSUtNVkhCNWFPQkl0UllQSnhyZE40MlAyU3JnejRsbEdmQnVNdEc1SDVJMGkybmp2ZnJoSWF0X19MYW9JUXYtalEtbmJnV3Utb056YTY2UGxEVmFCQmxXSG53VlVzazNoVlFIeVJ2dkVYNy0wbnhIVThLVDdlUzA3amxISlhCVFdUMWxFaA?oc=5",
           "source": "Reuters AI",
           "publishedAt": "2026-08-06",
           "views": "18.0K"
@@ -122,14 +130,6 @@
           "title": "17 Michelin-listed restaurants found violating Korea's food safety laws; 2-star restaurant used ants - The Korea Times",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdFhIcDJoZVdBcjZrank3QXdubjlicW5JcmxScU1pdXpNT2JCcjJnY0kzdVJKeW9xdVA1TndZMl9iSUNZYlVJTFVDbmdGdGRqS0ZndF9rZUZUT2pGZmdzUk55REpUMHA2VHlFdTNYd1dWbF9OT0tvbEpINDQtSHlMbVhabXdZUmR6RG5DRXNaVDBXMGtDN3Jrd0pYYnZObEJlRHUtMnFTaDBGemo4b1ppdXYwaTJUMlBIRjdIWGhOcHA4TWJscllINFdxelV3THV4dFZ5TG1nT0tWUlY2WnFpRtIB5gFBVV95cUxPS3pVVnphdDRaaHZWWE8yX3Z5ZWw2ZHdLVC02am82QWhUUmFHbmlYV0otY2NpLWQyZUZITlF3SkdERkxsd3U4SFVHZ0c2UXdrZ3VHTi15Tm4yQWh3ck1rRWlFVC1vZmJ3UmU0RXRuMkJKTENIcjRUWHlTd0lIVzJlZ2h1c3ZSTllxakRTc3hHVjNmbkZxVVE3XzZ0M2IxazVUZW1aVzRWcmVuUmFKWHJLYzExRDY4MHBKU1lzZ2YwOVRvX2NaZ2xfWGZJRVpBUDRWbml3azluSG01cko2SERIZzc2cHVhdw?oc=5\" target=\"_blank\">17 Michelin-listed restaurants found violating Korea's food safety laws; 2-star restaurant used ants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
           "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdFhIcDJoZVdBcjZrank3QXdubjlicW5JcmxScU1pdXpNT2JCcjJnY0kzdVJKeW9xdVA1TndZMl9iSUNZYlVJTFVDbmdGdGRqS0ZndF9rZUZUT2pGZmdzUk55REpUMHA2VHlFdTNYd1dWbF9OT0tvbEpINDQtSHlMbVhabXdZUmR6RG5DRXNaVDBXMGtDN3Jrd0pYYnZObEJlRHUtMnFTaDBGemo4b1ppdXYwaTJUMlBIRjdIWGhOcHA4TWJscllINFdxelV3THV4dFZ5TG1nT0tWUlY2WnFpRtIB5gFBVV95cUxPS3pVVnphdDRaaHZWWE8yX3Z5ZWw2ZHdLVC02am82QWhUUmFHbmlYV0otY2NpLWQyZUZITlF3SkdERkxsd3U4SFVHZ0c2UXdrZ3VHTi15Tm4yQWh3ck1rRWlFVC1vZmJ3UmU0RXRuMkJKTENIcjRUWHlTd0lIVzJlZ2h1c3ZSTllxakRTc3hHVjNmbkZxVVE3XzZ0M2IxazVUZW1aVzRWcmVuUmFKWHJLYzExRDY4MHBKU1lzZ2YwOVRvX2NaZ2xfWGZJRVpBUDRWbml3azluSG01cko2SERIZzc2cHVhdw?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-08-05",
-          "views": "18.0K"
-        },
-        {
-          "title": "17 Michelin-listed restaurants found violating Korea's food safety laws; 2-star restaurant used inedible ants - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTWlQVkNXdjhYVHdFeWRwR0pSN0VrZVNtZzBnU3psaVViSW04RjhNUWVYUHFGckxwbnI0WHRiTWpwdnItcHVzMG5VbW96THRyUG1ZQ2dDTzkxd3VRRDBGT3RfUGVzdkdFVzVHVmxDNW9xUzM5aHAyWm5zb2NfbUxIRXZPUVZwU3ozVnNCVUtBWTYxQTd5NEpCTW5UNGpOdUN6NGlxRUFlbk9qdjIyNnZiT2pxYUhQYnFGUmFhOTFRd0RUNGozVUdzR1gyNzFLTUw1bE9ZMVZsd09jSWF1azVDcHFCa0xuTm9PbG9oQdIB8gFBVV95cUxOV0d1ZkpZUWh5a1Vzc2ZZTTU1TWpYMVVLSVQ2THB0dGF1Y0EyWEw0eDA1U0hfRUtNMEtSRjdicGhPOFY4WUJPRGZMOUlaek9reXdOczdkXzkxZExLVmFXYlozbnZYWnNKX1BOMzVKcVpoNi16MTZZa2xEcnNmM3ZHY1NLYTh2VFBORlU5ZVpMQlZlYnY3dWNSSXh1UnRRR3lIc2gwZUVURFc2Z3AzUFB0R0p3MzFBUzJ3aTE4ajhXaWRzZ2hHdmxmSWVDazBQZE5pamRuUy1nRHlqMTZidG1EZFNESkhGTm1aRzljZHNmTUNDQQ?oc=5\" target=\"_blank\">17 Michelin-listed restaurants found violating Korea's food safety laws; 2-star restaurant used inedible ants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTWlQVkNXdjhYVHdFeWRwR0pSN0VrZVNtZzBnU3psaVViSW04RjhNUWVYUHFGckxwbnI0WHRiTWpwdnItcHVzMG5VbW96THRyUG1ZQ2dDTzkxd3VRRDBGT3RfUGVzdkdFVzVHVmxDNW9xUzM5aHAyWm5zb2NfbUxIRXZPUVZwU3ozVnNCVUtBWTYxQTd5NEpCTW5UNGpOdUN6NGlxRUFlbk9qdjIyNnZiT2pxYUhQYnFGUmFhOTFRd0RUNGozVUdzR1gyNzFLTUw1bE9ZMVZsd09jSWF1azVDcHFCa0xuTm9PbG9oQdIB8gFBVV95cUxOV0d1ZkpZUWh5a1Vzc2ZZTTU1TWpYMVVLSVQ2THB0dGF1Y0EyWEw0eDA1U0hfRUtNMEtSRjdicGhPOFY4WUJPRGZMOUlaek9reXdOczdkXzkxZExLVmFXYlozbnZYWnNKX1BOMzVKcVpoNi16MTZZa2xEcnNmM3ZHY1NLYTh2VFBORlU5ZVpMQlZlYnY3dWNSSXh1UnRRR3lIc2gwZUVURFc2Z3AzUFB0R0p3MzFBUzJ3aTE4ajhXaWRzZ2hHdmxmSWVDazBQZE5pamRuUy1nRHlqMTZidG1EZFNESkhGTm1aRzljZHNmTUNDQQ?oc=5",
           "source": "The Korea Times",
           "publishedAt": "2026-08-05",
           "views": "18.0K"
@@ -142,26 +142,26 @@
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
         {
+          "title": "America’s AI Investment Boom Is Reshaping the Economy - AI News",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQa3dQVGlGcno0S1BsSUwxTVE2YjFsLWgtbGlUU1ZqTTRaSGNXVnZROExITk90U2tPbGtsTUptNDk2TEdMZmIyc29MVHNaLVVKVktjeVR2S18yYkhteFB3eUVqS0JULVkwdGxPeF9XT2EzNjJkOFplSGhna0xhQUVXYVdvVi1GSjZteHpSTFd6YkJ6OGdoU3Y5YXQxTnJYX3pvdmhNbg?oc=5\" target=\"_blank\">America’s AI Investment Boom Is Reshaping the Economy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI News</font>",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa3dQVGlGcno0S1BsSUwxTVE2YjFsLWgtbGlUU1ZqTTRaSGNXVnZROExITk90U2tPbGtsTUptNDk2TEdMZmIyc29MVHNaLVVKVktjeVR2S18yYkhteFB3eUVqS0JULVkwdGxPeF9XT2EzNjJkOFplSGhna0xhQUVXYVdvVi1GSjZteHpSTFd6YkJ6OGdoU3Y5YXQxTnJYX3pvdmhNbg?oc=5",
+          "source": "AI News",
+          "publishedAt": "2026-08-07",
+          "views": "18.0K"
+        },
+        {
+          "title": "Market cuts odds of Fed hike after jobs data, but economists still see case for tightening - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQc20xOTBqRG9tVV9IUnA4T1JoVHo1dUpfSV85UzZQdzFqeWZPZ0hFb3kzUVZDUTlUcS10b205dzIyWVRaWUpxUmJJa0EtR2tfQ0sxa0tsRl82SkFXMF9BRWFCSzJDSkRpb25EOW5Fd0hUUzdrMU4wMlRDZVNiQTVoazN4dHFpeUhfNjJaUkkyUnVtdWh4V2l0LXlVcWtzM1pqdmZHVnVCT3ZoT3o5?oc=5\" target=\"_blank\">Market cuts odds of Fed hike after jobs data, but economists still see case for tightening</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc20xOTBqRG9tVV9IUnA4T1JoVHo1dUpfSV85UzZQdzFqeWZPZ0hFb3kzUVZDUTlUcS10b205dzIyWVRaWUpxUmJJa0EtR2tfQ0sxa0tsRl82SkFXMF9BRWFCSzJDSkRpb25EOW5Fd0hUUzdrMU4wMlRDZVNiQTVoazN4dHFpeUhfNjJaUkkyUnVtdWh4V2l0LXlVcWtzM1pqdmZHVnVCT3ZoT3o5?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-08-07",
+          "views": "18.0K"
+        },
+        {
           "title": "Finance minister voices confidence in economy, vows efforts to stabilize stock market - The Korea Times",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOelY1eE1UYzFfZnBFRU9pSTUwYWZOanFtNTRHUFZPWlRveDhjcjZTc3JVckd6T2FocGdMdktkbGI4OGo3TnlJYWY1NW1wRXRZdEVHaXNQdlo2ck85emVqRzVGNzNQcmhTZnJfdW5QMmpLbzRyN3hQZ1lEWmhTQkppZXllUEViODVuc0pLUVhVekVBTEp3aDBsS0FCWl8wa1hjYmxYYnBGWVI1NklUMGQ2VjhzSUtLS3hvSGN6NUdhZWdxUXlYbW1kbDJyajF5ZzDSAc8BQVVfeXFMTnpWNXhNVGMxX2ZwRUVPaUk1MGFmTmpxbTU0R1BWT1pUb3g4Y3I2U3NyVXJHek9haHBnTHZLZGxiODhqN055SWFmNTVtcEV0WXRFR2lzUHZaNnJPOXplakc1RjczUHJoU2ZyX3VuUDJqS280cjd4UGdZRFpoU0JKaWV5ZVBFYjg1bnNKS1FYVXpFQUxKd2gwbEtBQlpfMGtYY2JsWGJwRllSNTZJVDBkNlY4c0lLS0t4b0hjejVHYWVncVF5WG1tZGwycmoxeWcw?oc=5\" target=\"_blank\">Finance minister voices confidence in economy, vows efforts to stabilize stock market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOelY1eE1UYzFfZnBFRU9pSTUwYWZOanFtNTRHUFZPWlRveDhjcjZTc3JVckd6T2FocGdMdktkbGI4OGo3TnlJYWY1NW1wRXRZdEVHaXNQdlo2ck85emVqRzVGNzNQcmhTZnJfdW5QMmpLbzRyN3hQZ1lEWmhTQkppZXllUEViODVuc0pLUVhVekVBTEp3aDBsS0FCWl8wa1hjYmxYYnBGWVI1NklUMGQ2VjhzSUtLS3hvSGN6NUdhZWdxUXlYbW1kbDJyajF5ZzDSAc8BQVVfeXFMTnpWNXhNVGMxX2ZwRUVPaUk1MGFmTmpxbTU0R1BWT1pUb3g4Y3I2U3NyVXJHek9haHBnTHZLZGxiODhqN055SWFmNTVtcEV0WXRFR2lzUHZaNnJPOXplakc1RjczUHJoU2ZyX3VuUDJqS280cjd4UGdZRFpoU0JKaWV5ZVBFYjg1bnNKS1FYVXpFQUxKd2gwbEtBQlpfMGtYY2JsWGJwRllSNTZJVDBkNlY4c0lLS0t4b0hjejVHYWVncVF5WG1tZGwycmoxeWcw?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-08-06",
-          "views": "18.0K"
-        },
-        {
-          "title": "America’s AI Investment Boom Is Reshaping the Economy - artificialintelligence-news.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQa3dQVGlGcno0S1BsSUwxTVE2YjFsLWgtbGlUU1ZqTTRaSGNXVnZROExITk90U2tPbGtsTUptNDk2TEdMZmIyc29MVHNaLVVKVktjeVR2S18yYkhteFB3eUVqS0JULVkwdGxPeF9XT2EzNjJkOFplSGhna0xhQUVXYVdvVi1GSjZteHpSTFd6YkJ6OGdoU3Y5YXQxTnJYX3pvdmhNbg?oc=5\" target=\"_blank\">America’s AI Investment Boom Is Reshaping the Economy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">artificialintelligence-news.com</font>",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa3dQVGlGcno0S1BsSUwxTVE2YjFsLWgtbGlUU1ZqTTRaSGNXVnZROExITk90U2tPbGtsTUptNDk2TEdMZmIyc29MVHNaLVVKVktjeVR2S18yYkhteFB3eUVqS0JULVkwdGxPeF9XT2EzNjJkOFplSGhna0xhQUVXYVdvVi1GSjZteHpSTFd6YkJ6OGdoU3Y5YXQxTnJYX3pvdmhNbg?oc=5",
-          "source": "AI News",
-          "publishedAt": "2026-08-06",
-          "views": "18.0K"
-        },
-        {
-          "title": "US labor market stable; worker productivity accelerates in second quarter - reuters.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPTTJpcnp3M3Zob2xWSjlneXRmc25pWUNJZms0SWxPVzhXV1dLX1RRaFp5VHBQZTRDaFA4TGhWSE5STWx4YVBZN1dMcDlRYTNfbXhORk9PYldJaTREcWotSnkzZVAwanVEQ2V5SHdrTVRSZDgzbV9DNW5DbGhkdW8xeXhsdWM4YTQtLS1TNUxDV2dWUnQ5Vk9BaUY1eDdiSzBHc054ZTdVRXFaNW80Z01BQ1BKS3E?oc=5\" target=\"_blank\">US labor market stable; worker productivity accelerates in second quarter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTTJpcnp3M3Zob2xWSjlneXRmc25pWUNJZms0SWxPVzhXV1dLX1RRaFp5VHBQZTRDaFA4TGhWSE5STWx4YVBZN1dMcDlRYTNfbXhORk9PYldJaTREcWotSnkzZVAwanVEQ2V5SHdrTVRSZDgzbV9DNW5DbGhkdW8xeXhsdWM4YTQtLS1TNUxDV2dWUnQ5Vk9BaUY1eDdiSzBHc054ZTdVRXFaNW80Z01BQ1BKS3E?oc=5",
-          "source": "Reuters AI",
           "publishedAt": "2026-08-06",
           "views": "18.0K"
         }
@@ -173,27 +173,27 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
-          "title": "Proposed Hormuz passage deal not feasible for shipping industry, sources say - reuters.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQajNmWTdWUHQ1RkRPd0FjWUUzSkd5cTNhN1NxREdIUUxGZklfbGEycml6emw1VThlRXk3YU5aakNULU5DanUwclZDWEpLUTg0c0xjRElxaTlKU2NiRHJzT1JiVmltOTVlQ1hNcGkxaTNjYndSX29leFl6S1l0OGxJd0hfSGZKOEwzZ3JVOURWVGgtY2JWUDZ2aXFoTWNDZV83eXllTko1WjVCSmpCb2IwM0ZNTTRTdDdxaXJGOHhZS2laUTg?oc=5\" target=\"_blank\">Proposed Hormuz passage deal not feasible for shipping industry, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQajNmWTdWUHQ1RkRPd0FjWUUzSkd5cTNhN1NxREdIUUxGZklfbGEycml6emw1VThlRXk3YU5aakNULU5DanUwclZDWEpLUTg0c0xjRElxaTlKU2NiRHJzT1JiVmltOTVlQ1hNcGkxaTNjYndSX29leFl6S1l0OGxJd0hfSGZKOEwzZ3JVOURWVGgtY2JWUDZ2aXFoTWNDZV83eXllTko1WjVCSmpCb2IwM0ZNTTRTdDdxaXJGOHhZS2laUTg?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-08-06",
+          "title": "The ‘Manosphere’ Isn’t a Movement. It’s a Multibillion-Dollar Grievance Industry - WIRED",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNT2lEanRpb3VWc1EwdWI1TDUwbGF6VS0tT05XRXBCcngyd0tTaWNJbEg5MGwwV3g3Vkw2TVNFQy1WRl9Mcl9iZDBJU0dxTmtYd0E2Q3p6WkJQVXJyUTFjTmZZYkVBSGdJMXpDR3p6ZlQ2Nm16RmN3OGtEcEJRNXp3UG5zcFBkTGwwSFA0aGVZVi1UajNVOVc0NFk0ZS1TV2NKODRWNWVJSQ?oc=5\" target=\"_blank\">The ‘Manosphere’ Isn’t a Movement. It’s a Multibillion-Dollar Grievance Industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNT2lEanRpb3VWc1EwdWI1TDUwbGF6VS0tT05XRXBCcngyd0tTaWNJbEg5MGwwV3g3Vkw2TVNFQy1WRl9Mcl9iZDBJU0dxTmtYd0E2Q3p6WkJQVXJyUTFjTmZZYkVBSGdJMXpDR3p6ZlQ2Nm16RmN3OGtEcEJRNXp3UG5zcFBkTGwwSFA0aGVZVi1UajNVOVc0NFk0ZS1TV2NKODRWNWVJSQ?oc=5",
+          "source": "WIRED AI",
+          "publishedAt": "2026-08-07",
           "views": "13.0K"
         },
         {
-          "title": "Trump likely to reject US industry requests for quicker polysilicon tariff, source says - reuters.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOVnAzTU5XYlJURHNCMFRsSFpHZDktbWZFTjEwZWM4ZVZMWU9Demg2dFpMUXVvR2hlbEZSZHZ2aTBZb2RHTnJfb1BZTGZKdzhtZ0dqb1ljckZuOWdXS09QczBuczJvQUVFT0NaTjFMRU5YUWs0VXlDMW5oenJVbHRBY3dfd3ByQkZxRmdGZ0psaGJUV240SVh1QzJhdmJJakU0TG5rblR4N3JTc3R4bjJnak1Hb2p2S0IxM1lKOHFxRmdWMV92d2c?oc=5\" target=\"_blank\">Trump likely to reject US industry requests for quicker polysilicon tariff, source says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVnAzTU5XYlJURHNCMFRsSFpHZDktbWZFTjEwZWM4ZVZMWU9Demg2dFpMUXVvR2hlbEZSZHZ2aTBZb2RHTnJfb1BZTGZKdzhtZ0dqb1ljckZuOWdXS09QczBuczJvQUVFT0NaTjFMRU5YUWs0VXlDMW5oenJVbHRBY3dfd3ByQkZxRmdGZ0psaGJUV240SVh1QzJhdmJJakU0TG5rblR4N3JTc3R4bjJnak1Hb2p2S0IxM1lKOHFxRmdWMV92d2c?oc=5",
+          "title": "Volkswagen to overhaul US strategy with planned pick-up truck, source says - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNmowYng0bEtZUTBsek5Xd2N0aU1hV1E1U1R4LXV6M01aM1NDZHFfY2swcmplSkhMbE0yQjd0UlhkRkZlcmlMV3hnUFQ4MmM1VXdKNjctdUpNWldjMVVMbmNoRTBfZTdSbkt0WFB4eXAzSFBOQ19WbW1zb2RFUF9mN0hVSUVhSTYyQnhWRThxeGhKUmhxbmt1eUc4OUJhY1MxWmR5YlRwX2VsQ292SG1OMzdMeEpGeVZkNlZ1X3MxdWtZa01FWjJmSkx4MU43ZDN3WHc?oc=5\" target=\"_blank\">Volkswagen to overhaul US strategy with planned pick-up truck, source says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNmowYng0bEtZUTBsek5Xd2N0aU1hV1E1U1R4LXV6M01aM1NDZHFfY2swcmplSkhMbE0yQjd0UlhkRkZlcmlMV3hnUFQ4MmM1VXdKNjctdUpNWldjMVVMbmNoRTBfZTdSbkt0WFB4eXAzSFBOQ19WbW1zb2RFUF9mN0hVSUVhSTYyQnhWRThxeGhKUmhxbmt1eUc4OUJhY1MxWmR5YlRwX2VsQ292SG1OMzdMeEpGeVZkNlZ1X3MxdWtZa01FWjJmSkx4MU43ZDN3WHc?oc=5",
           "source": "Reuters AI",
-          "publishedAt": "2026-08-06",
+          "publishedAt": "2026-08-07",
           "views": "13.0K"
         },
         {
-          "title": "Uganda clears way for deployment of troops to Gaza under Trump plan - reuters.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLTk2MzJnclRYLTdkYWNfN2RxTEZFVHFaYXlLbnZ6eDVNVUJzM0dYZHM3Z2NvRDBicDdJSGZGLWJXdU1fQzcxbmNScndlS210bGxWMzNKWng0WGdnRVItb0FmX2E1WGl3dVVzTVJicVA5UlRhN0xRQ1hMSnNIUkEwY053RGI3cW1nclcwRlZLb2RKeHhXNHFmQ1BWS1puM1lucFRXMWRvbTRIUQ?oc=5\" target=\"_blank\">Uganda clears way for deployment of troops to Gaza under Trump plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLTk2MzJnclRYLTdkYWNfN2RxTEZFVHFaYXlLbnZ6eDVNVUJzM0dYZHM3Z2NvRDBicDdJSGZGLWJXdU1fQzcxbmNScndlS210bGxWMzNKWng0WGdnRVItb0FmX2E1WGl3dVVzTVJicVA5UlRhN0xRQ1hMSnNIUkEwY053RGI3cW1nclcwRlZLb2RKeHhXNHFmQ1BWS1puM1lucFRXMWRvbTRIUQ?oc=5",
+          "title": "Trump says Congress wants to regulate AI industry 'out of business' - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQaVE4dmstNmk3N1JPOUFaN1kyQlJEbUNjUTdadXBXNGRyNzRvaWpNNXd2VDFQdU5JQ3JmejhVZHlKYU1KeXFvQnVFZHhpVGJkTGR2NjZWakJmeUl6TVRlTVNOWEROdF8yd0ZQb3FWTUJhWUxkT2dIYXo1TGJkMEFuYkNSWXZjbk9MNGJmNHdjaDBtOVRqb2F1SVpEYUk2Y0tMR2RqcW5VQlRTSVBlOTZCMC1B?oc=5\" target=\"_blank\">Trump says Congress wants to regulate AI industry 'out of business'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaVE4dmstNmk3N1JPOUFaN1kyQlJEbUNjUTdadXBXNGRyNzRvaWpNNXd2VDFQdU5JQ3JmejhVZHlKYU1KeXFvQnVFZHhpVGJkTGR2NjZWakJmeUl6TVRlTVNOWEROdF8yd0ZQb3FWTUJhWUxkT2dIYXo1TGJkMEFuYkNSWXZjbk9MNGJmNHdjaDBtOVRqb2F1SVpEYUk2Y0tMR2RqcW5VQlRTSVBlOTZCMC1B?oc=5",
           "source": "Reuters AI",
-          "publishedAt": "2026-08-06",
+          "publishedAt": "2026-08-07",
           "views": "13.0K"
         }
       ]
