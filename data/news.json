@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-09T02:26:28.341Z",
+  "lastUpdated": "2026-08-10T02:31:14.535Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -65,8 +65,8 @@
           "views": "18.0K"
         },
         {
-          "title": "Open-weight AI models are catching up to the frontier. The safety gap remains. - TechCrunch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPa2VhSllrM29KN1BCdkxDUWRyNW81dlp6WXllMXB3UnBjWjNiakVSdlE4cDBidmctN05EbllEcDVhY3EzeWl1NEhEazZuMUdLMkhwMEVlR2dOOUM2ZGVuQ2NDRnFBRl9mM3gzSEluak1ZM3lSOVBEZmFPVVRPd00xRWFpS3lPZjRtVEZsX3RielBpTnR2TlhlVEk2N3J0Qk4zTFNHa1BnTG51NjVqZUF3aA?oc=5\" target=\"_blank\">Open-weight AI models are catching up to the frontier. The safety gap remains.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "title": "Open-weight AI models are catching up to the frontier. The safety gap remains. - techcrunch.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPa2VhSllrM29KN1BCdkxDUWRyNW81dlp6WXllMXB3UnBjWjNiakVSdlE4cDBidmctN05EbllEcDVhY3EzeWl1NEhEazZuMUdLMkhwMEVlR2dOOUM2ZGVuQ2NDRnFBRl9mM3gzSEluak1ZM3lSOVBEZmFPVVRPd00xRWFpS3lPZjRtVEZsX3RielBpTnR2TlhlVEk2N3J0Qk4zTFNHa1BnTG51NjVqZUF3aA?oc=5\" target=\"_blank\">Open-weight AI models are catching up to the frontier. The safety gap remains.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">techcrunch.com</font>",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa2VhSllrM29KN1BCdkxDUWRyNW81dlp6WXllMXB3UnBjWjNiakVSdlE4cDBidmctN05EbllEcDVhY3EzeWl1NEhEazZuMUdLMkhwMEVlR2dOOUM2ZGVuQ2NDRnFBRl9mM3gzSEluak1ZM3lSOVBEZmFPVVRPd00xRWFpS3lPZjRtVEZsX3RielBpTnR2TlhlVEk2N3J0Qk4zTFNHa1BnTG51NjVqZUF3aA?oc=5",
           "source": "TechCrunch AI",
           "publishedAt": "2026-08-04",
@@ -111,6 +111,14 @@
       "description": "규제, 책임, 신뢰, 저작권 같은 문제를 보는 관점",
       "items": [
         {
+          "title": "The AI safety test is becoming a safety risk - techcrunch.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2Y4VVpMVDBscWktWGlhaWRBSFN0cFQwM3JIY05QZW1rQ3laTU81eU14N2NDV2pSRC15R1RvNlNXY1Fxa1V2dEU4dzR4TWJqWWdGZHFtV0I0RlF2cWxrYzFPODRnODh5eUhOOUJ4Ulk4T2Nqdk9DNWZ2SFhaekZGdURwMHlZZw?oc=5\" target=\"_blank\">The AI safety test is becoming a safety risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">techcrunch.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2Y4VVpMVDBscWktWGlhaWRBSFN0cFQwM3JIY05QZW1rQ3laTU81eU14N2NDV2pSRC15R1RvNlNXY1Fxa1V2dEU4dzR4TWJqWWdGZHFtV0I0RlF2cWxrYzFPODRnODh5eUhOOUJ4Ulk4T2Nqdk9DNWZ2SFhaekZGdURwMHlZZw?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-08-09",
+          "views": "18.0K"
+        },
+        {
           "title": "Who is liable when AI goes rogue? Lawyers see new risks - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOdm5IRWdwV3E1N1BVWXFDY21mTGJoMTg1TXB3VXFyYXRodDYycGNpZkhxOVp5SGF0NzkwVFlXaHpER2Mwdk1IcU5OaENIMV9MTkZJZFNTU0E5ODV6a1BqS2VacDVZeWhtbWRnaHpIVVpMOGRqR2l4bHNpYW8wZmxvcm90SGxNelNmUmVNS3hSbHhTY1RPem5GTmd0NF91bnNw?oc=5\" target=\"_blank\">Who is liable when AI goes rogue? Lawyers see new risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdm5IRWdwV3E1N1BVWXFDY21mTGJoMTg1TXB3VXFyYXRodDYycGNpZkhxOVp5SGF0NzkwVFlXaHpER2Mwdk1IcU5OaENIMV9MTkZJZFNTU0E5ODV6a1BqS2VacDVZeWhtbWRnaHpIVVpMOGRqR2l4bHNpYW8wZmxvcm90SGxNelNmUmVNS3hSbHhTY1RPem5GTmd0NF91bnNw?oc=5",
@@ -125,14 +133,6 @@
           "source": "Reuters AI",
           "publishedAt": "2026-08-06",
           "views": "18.0K"
-        },
-        {
-          "title": "Law firm Skadden defends ethics amid Democrats' questions on Trump deal - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQV1ZoQl9qMHRYWDc0QXZlWXVoLVEtM0pKMmZvNW5LRVZUdm5yZVAwQ0VNWU5kdWdfSUtNVkhCNWFPQkl0UllQSnhyZE40MlAyU3JnejRsbEdmQnVNdEc1SDVJMGkybmp2ZnJoSWF0X19MYW9JUXYtalEtbmJnV3Utb056YTY2UGxEVmFCQmxXSG53VlVzazNoVlFIeVJ2dkVYNy0wbnhIVThLVDdlUzA3amxISlhCVFdUMWxFaA?oc=5\" target=\"_blank\">Law firm Skadden defends ethics amid Democrats' questions on Trump deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQV1ZoQl9qMHRYWDc0QXZlWXVoLVEtM0pKMmZvNW5LRVZUdm5yZVAwQ0VNWU5kdWdfSUtNVkhCNWFPQkl0UllQSnhyZE40MlAyU3JnejRsbEdmQnVNdEc1SDVJMGkybmp2ZnJoSWF0X19MYW9JUXYtalEtbmJnV3Utb056YTY2UGxEVmFCQmxXSG53VlVzazNoVlFIeVJ2dkVYNy0wbnhIVThLVDdlUzA3amxISlhCVFdUMWxFaA?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-08-06",
-          "views": "18.0K"
         }
       ]
     },
@@ -141,6 +141,14 @@
       "hashtag": "#경제",
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
+        {
+          "title": "America’s AI Investment Boom Is Reshaping the Economy - AI News",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQa3dQVGlGcno0S1BsSUwxTVE2YjFsLWgtbGlUU1ZqTTRaSGNXVnZROExITk90U2tPbGtsTUptNDk2TEdMZmIyc29MVHNaLVVKVktjeVR2S18yYkhteFB3eUVqS0JULVkwdGxPeF9XT2EzNjJkOFplSGhna0xhQUVXYVdvVi1GSjZteHpSTFd6YkJ6OGdoU3Y5YXQxTnJYX3pvdmhNbg?oc=5\" target=\"_blank\">America’s AI Investment Boom Is Reshaping the Economy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI News</font>",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa3dQVGlGcno0S1BsSUwxTVE2YjFsLWgtbGlUU1ZqTTRaSGNXVnZROExITk90U2tPbGtsTUptNDk2TEdMZmIyc29MVHNaLVVKVktjeVR2S18yYkhteFB3eUVqS0JULVkwdGxPeF9XT2EzNjJkOFplSGhna0xhQUVXYVdvVi1GSjZteHpSTFd6YkJ6OGdoU3Y5YXQxTnJYX3pvdmhNbg?oc=5",
+          "source": "AI News",
+          "publishedAt": "2026-08-09",
+          "views": "18.0K"
+        },
         {
           "title": "Market cuts odds of Fed hike after jobs data, but economists still see case for tightening - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQc20xOTBqRG9tVV9IUnA4T1JoVHo1dUpfSV85UzZQdzFqeWZPZ0hFb3kzUVZDUTlUcS10b205dzIyWVRaWUpxUmJJa0EtR2tfQ0sxa0tsRl82SkFXMF9BRWFCSzJDSkRpb25EOW5Fd0hUUzdrMU4wMlRDZVNiQTVoazN4dHFpeUhfNjJaUkkyUnVtdWh4V2l0LXlVcWtzM1pqdmZHVnVCT3ZoT3o5?oc=5\" target=\"_blank\">Market cuts odds of Fed hike after jobs data, but economists still see case for tightening</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
@@ -156,14 +164,6 @@
           "source": "The Korea Times",
           "publishedAt": "2026-08-06",
           "views": "18.0K"
-        },
-        {
-          "title": "US labor market stable; worker productivity accelerates in second quarter - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPTTJpcnp3M3Zob2xWSjlneXRmc25pWUNJZms0SWxPVzhXV1dLX1RRaFp5VHBQZTRDaFA4TGhWSE5STWx4YVBZN1dMcDlRYTNfbXhORk9PYldJaTREcWotSnkzZVAwanVEQ2V5SHdrTVRSZDgzbV9DNW5DbGhkdW8xeXhsdWM4YTQtLS1TNUxDV2dWUnQ5Vk9BaUY1eDdiSzBHc054ZTdVRXFaNW80Z01BQ1BKS3E?oc=5\" target=\"_blank\">US labor market stable; worker productivity accelerates in second quarter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTTJpcnp3M3Zob2xWSjlneXRmc25pWUNJZms0SWxPVzhXV1dLX1RRaFp5VHBQZTRDaFA4TGhWSE5STWx4YVBZN1dMcDlRYTNfbXhORk9PYldJaTREcWotSnkzZVAwanVEQ2V5SHdrTVRSZDgzbV9DNW5DbGhkdW8xeXhsdWM4YTQtLS1TNUxDV2dWUnQ5Vk9BaUY1eDdiSzBHc054ZTdVRXFaNW80Z01BQ1BKS3E?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-08-06",
-          "views": "18.0K"
         }
       ]
     },
@@ -173,6 +173,14 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
+          "title": "German trade deficit with China grows as Beijing relies less on European industry - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOODQ2YlF3a0ZsOFRad3lFOW5WTzdtOFVSWmYwTEhTVkNhQ283ckFGd0YtR2hxa1EzYTd0LWVSN2NHNnhESFNpLXhJVTNMRlVCTW8waDI2RFpOeGZKX2dvTGZoM3JzNWJ3ZjRUMFdMaHZleVo1ZG5ackJES1lBZ2ZvelE4Tm1hbGdCaWoxaWE4dlExZGNsaWdKV085cDNFcml3aGxkZUJYdnJvYk8wZnJ2MVNMOXdxbFA4Tk1RQVo1cGc?oc=5\" target=\"_blank\">German trade deficit with China grows as Beijing relies less on European industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOODQ2YlF3a0ZsOFRad3lFOW5WTzdtOFVSWmYwTEhTVkNhQ283ckFGd0YtR2hxa1EzYTd0LWVSN2NHNnhESFNpLXhJVTNMRlVCTW8waDI2RFpOeGZKX2dvTGZoM3JzNWJ3ZjRUMFdMaHZleVo1ZG5ackJES1lBZ2ZvelE4Tm1hbGdCaWoxaWE4dlExZGNsaWdKV085cDNFcml3aGxkZUJYdnJvYk8wZnJ2MVNMOXdxbFA4Tk1RQVo1cGc?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-08-09",
+          "views": "13.0K"
+        },
+        {
           "title": "Jongno District's new strategy: Legalizing unpermitted homes to save hanok - The Korea Times",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdFNMSzFwZnpEbWRVcjlYckJEcEQySnhUVlVRaFQwX2JnUFFhS3dHSGdrLUQ4TGZEVi1vc2I3bTFYRUtERGU3dTNTbm51dEIyNFdWckY2UVAyQi00ZkxKUi1oZUdSaGg2cFZZNkNTYW1xLWJpWXRTbnhxQ3k3N1JVTUM0TEYtVkUwZzZSUUYtTzU0X1ZYcEMwbHRoeEdWUF9jNk5Ka2pKVm5jRmtnZU9qLTV0T0JBNXREMTBrLVRwTlRpaHfSAcMBQVVfeXFMTnRTTEsxcGZ6RG1kVXI5WHJCRHBEMkp4VFZVUWhUMF9iZ1BRYUt3R0hnay1EOExmRFYtb3NiN20xWEVLRERlN3UzU25udXRCMjRXVnJGNlFQMkItNGZMSlItaGVHUmhoNnBWWTZDU2FtcS1iaVl0U254cUN5NzdSVU1DNExGLVZFMGc2UlFGLU81NF9WWHBDMGx0aHhHVlBfYzZOSmtqSlZuY0ZrZ2VPai01dE9CQTV0RDEway1UcE5UaWh3?oc=5\" target=\"_blank\">Jongno District's new strategy: Legalizing unpermitted homes to save hanok</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdFNMSzFwZnpEbWRVcjlYckJEcEQySnhUVlVRaFQwX2JnUFFhS3dHSGdrLUQ4TGZEVi1vc2I3bTFYRUtERGU3dTNTbm51dEIyNFdWckY2UVAyQi00ZkxKUi1oZUdSaGg2cFZZNkNTYW1xLWJpWXRTbnhxQ3k3N1JVTUM0TEYtVkUwZzZSUUYtTzU0X1ZYcEMwbHRoeEdWUF9jNk5Ka2pKVm5jRmtnZU9qLTV0T0JBNXREMTBrLVRwTlRpaHfSAcMBQVVfeXFMTnRTTEsxcGZ6RG1kVXI5WHJCRHBEMkp4VFZVUWhUMF9iZ1BRYUt3R0hnay1EOExmRFYtb3NiN20xWEVLRERlN3UzU25udXRCMjRXVnJGNlFQMkItNGZMSlItaGVHUmhoNnBWWTZDU2FtcS1iaVl0U254cUN5NzdSVU1DNExGLVZFMGc2UlFGLU81NF9WWHBDMGx0aHhHVlBfYzZOSmtqSlZuY0ZrZ2VPai01dE9CQTV0RDEway1UcE5UaWh3?oc=5",
@@ -181,19 +189,11 @@
           "views": "13.0K"
         },
         {
-          "title": "The ‘Manosphere’ Isn’t a Movement. It’s a Multibillion-Dollar Grievance Industry - WIRED",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNT2lEanRpb3VWc1EwdWI1TDUwbGF6VS0tT05XRXBCcngyd0tTaWNJbEg5MGwwV3g3Vkw2TVNFQy1WRl9Mcl9iZDBJU0dxTmtYd0E2Q3p6WkJQVXJyUTFjTmZZYkVBSGdJMXpDR3p6ZlQ2Nm16RmN3OGtEcEJRNXp3UG5zcFBkTGwwSFA0aGVZVi1UajNVOVc0NFk0ZS1TV2NKODRWNWVJSQ?oc=5\" target=\"_blank\">The ‘Manosphere’ Isn’t a Movement. It’s a Multibillion-Dollar Grievance Industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNT2lEanRpb3VWc1EwdWI1TDUwbGF6VS0tT05XRXBCcngyd0tTaWNJbEg5MGwwV3g3Vkw2TVNFQy1WRl9Mcl9iZDBJU0dxTmtYd0E2Q3p6WkJQVXJyUTFjTmZZYkVBSGdJMXpDR3p6ZlQ2Nm16RmN3OGtEcEJRNXp3UG5zcFBkTGwwSFA0aGVZVi1UajNVOVc0NFk0ZS1TV2NKODRWNWVJSQ?oc=5",
-          "source": "WIRED AI",
-          "publishedAt": "2026-08-07",
-          "views": "13.0K"
-        },
-        {
-          "title": "Trump says Congress wants to regulate AI industry 'out of business' - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQaVE4dmstNmk3N1JPOUFaN1kyQlJEbUNjUTdadXBXNGRyNzRvaWpNNXd2VDFQdU5JQ3JmejhVZHlKYU1KeXFvQnVFZHhpVGJkTGR2NjZWakJmeUl6TVRlTVNOWEROdF8yd0ZQb3FWTUJhWUxkT2dIYXo1TGJkMEFuYkNSWXZjbk9MNGJmNHdjaDBtOVRqb2F1SVpEYUk2Y0tMR2RqcW5VQlRTSVBlOTZCMC1B?oc=5\" target=\"_blank\">Trump says Congress wants to regulate AI industry 'out of business'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaVE4dmstNmk3N1JPOUFaN1kyQlJEbUNjUTdadXBXNGRyNzRvaWpNNXd2VDFQdU5JQ3JmejhVZHlKYU1KeXFvQnVFZHhpVGJkTGR2NjZWakJmeUl6TVRlTVNOWEROdF8yd0ZQb3FWTUJhWUxkT2dIYXo1TGJkMEFuYkNSWXZjbk9MNGJmNHdjaDBtOVRqb2F1SVpEYUk2Y0tMR2RqcW5VQlRTSVBlOTZCMC1B?oc=5",
+          "title": "US immigration agency will finish body camera rollout this month, ICE leader says - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdVJ3VEoyWURGM3hvUEZuZEc3WWJ2NjBQZGthRTJmX2U4M3BoR1pyczBjcWNtcVFvc0toUG13N0lEcllPLUE0cFh0aXNEWkVGeW9uOHloaHRtNmVSYmUxaVhNblo2amR0R0RMcjFob0NPRVZSdlhhaU56akR2Ym54N2RFVm92VldBSmdJZ0NjWXktU3pkaHIwV21ILUxCMy1Xd0RWcl9NaFpSaUNXT3RuY2ZWUzNTTVpBWEtSZm9Ga0c3dWM?oc=5\" target=\"_blank\">US immigration agency will finish body camera rollout this month, ICE leader says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdVJ3VEoyWURGM3hvUEZuZEc3WWJ2NjBQZGthRTJmX2U4M3BoR1pyczBjcWNtcVFvc0toUG13N0lEcllPLUE0cFh0aXNEWkVGeW9uOHloaHRtNmVSYmUxaVhNblo2amR0R0RMcjFob0NPRVZSdlhhaU56akR2Ym54N2RFVm92VldBSmdJZ0NjWXktU3pkaHIwV21ILUxCMy1Xd0RWcl9NaFpSaUNXT3RuY2ZWUzNTTVpBWEtSZm9Ga0c3dWM?oc=5",
           "source": "Reuters AI",
-          "publishedAt": "2026-08-07",
+          "publishedAt": "2026-08-08",
           "views": "13.0K"
         }
       ]
