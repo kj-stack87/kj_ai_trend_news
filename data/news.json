@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-10T02:31:14.535Z",
+  "lastUpdated": "2026-08-11T02:25:02.772Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,27 +49,27 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
+          "title": "OpenAI Provides Unlimited Latest Model to Free ChatGPT Users; Postpones Astra - ETNEWS",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBTSUdhZk1rSWpCcTQxOTZ5MDJvRmdEdkNzQ2dpSUVDM3pTeWdkaUwyek5RTjhnZDgwYjlFVWg2RmYyMFdjQ3ZncjA4M24?oc=5\" target=\"_blank\">OpenAI Provides Unlimited Latest Model to Free ChatGPT Users; Postpones Astra</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBTSUdhZk1rSWpCcTQxOTZ5MDJvRmdEdkNzQ2dpSUVDM3pTeWdkaUwyek5RTjhnZDgwYjlFVWg2RmYyMFdjQ3ZncjA4M24?oc=5",
+          "source": "전자신문",
+          "publishedAt": "2026-08-10",
+          "views": "18.0K"
+        },
+        {
+          "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNM2VDMDMyWE56Z3JTcEZzTTFndmhMR1A0Zl8yNXVocEt3OWt5eVZSTTFtR09hNE40QV9FeTA5bXBOTEpFVGd4X2tKaDN1VHdYb1ZUcHU3Q0dkaGxkQm5PU1ZOeE9LLWVaYWRuSndUMUpFcmM1cGpTMmlEZE1FU0Rnc3ZLOUd4d2xTeWFxT2N1UmZsY3RiNm8wLVRJb1cybUtxSmlJMjFR?oc=5\" target=\"_blank\">Discovered Materials is playing AI whack-a-mole to hunt cooler chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM2VDMDMyWE56Z3JTcEZzTTFndmhMR1A0Zl8yNXVocEt3OWt5eVZSTTFtR09hNE40QV9FeTA5bXBOTEpFVGd4X2tKaDN1VHdYb1ZUcHU3Q0dkaGxkQm5PU1ZOeE9LLWVaYWRuSndUMUpFcmM1cGpTMmlEZE1FU0Rnc3ZLOUd4d2xTeWFxT2N1UmZsY3RiNm8wLVRJb1cybUtxSmlJMjFR?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-08-10",
+          "views": "18.0K"
+        },
+        {
           "title": "Qwen 3.8-Max and Claude Opus 5 show why raw benchmark scores don't predict the bill - VentureBeat",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPNEItdTFINFNkdHFOeVFzSHpQdVJVM1RzTFFYcDRMUVVCNUVONUxxQUN5dTRjcXBVTmdSS2ZaQXZWMUlCaTVpbmZwTWMxcnNyWENUY3dLMW5kLWttbWRIZmJycUpqNzNmdDJiQTRaZW1sRXVrRzRkSFdIS2VrMkNFaUNGMnhtR0N6eGVZN3VzVi1zZ0ZxUEE0eTFSNldTNlhuOGFPbWJqRUtaeFVvMk1JRURkbElCcjR5dkRKdA?oc=5\" target=\"_blank\">Qwen 3.8-Max and Claude Opus 5 show why raw benchmark scores don't predict the bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNEItdTFINFNkdHFOeVFzSHpQdVJVM1RzTFFYcDRMUVVCNUVONUxxQUN5dTRjcXBVTmdSS2ZaQXZWMUlCaTVpbmZwTWMxcnNyWENUY3dLMW5kLWttbWRIZmJycUpqNzNmdDJiQTRaZW1sRXVrRzRkSFdIS2VrMkNFaUNGMnhtR0N6eGVZN3VzVi1zZ0ZxUEE0eTFSNldTNlhuOGFPbWJqRUtaeFVvMk1JRURkbElCcjR5dkRKdA?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-08-06",
-          "views": "18.0K"
-        },
-        {
-          "title": "Anthropic to build in-house chip design team for Claude, hire engineers - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPVWxwdXZrbVFwRlFONnozZzBTNzdmbU9LaWc3alMtUmFJUXVfaW1hR2J1QVlsLU9razNxemdDQ012Z2NCR19XNHk1VHFIbUNLNWs2b0FlSTZwZWV2WUlicnBuNnRRLVdNXzRFYnhRRkhQdjdfenRyRzNJLUVCc1hMRXhkYy1pR19yaS1vZXh2SUZlenNRSnFFLURzOTNFQWxIaFd2TjcwSFhYbS1w?oc=5\" target=\"_blank\">Anthropic to build in-house chip design team for Claude, hire engineers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVWxwdXZrbVFwRlFONnozZzBTNzdmbU9LaWc3alMtUmFJUXVfaW1hR2J1QVlsLU9razNxemdDQ012Z2NCR19XNHk1VHFIbUNLNWs2b0FlSTZwZWV2WUlicnBuNnRRLVdNXzRFYnhRRkhQdjdfenRyRzNJLUVCc1hMRXhkYy1pR19yaS1vZXh2SUZlenNRSnFFLURzOTNFQWxIaFd2TjcwSFhYbS1w?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-08-05",
-          "views": "18.0K"
-        },
-        {
-          "title": "Open-weight AI models are catching up to the frontier. The safety gap remains. - techcrunch.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPa2VhSllrM29KN1BCdkxDUWRyNW81dlp6WXllMXB3UnBjWjNiakVSdlE4cDBidmctN05EbllEcDVhY3EzeWl1NEhEazZuMUdLMkhwMEVlR2dOOUM2ZGVuQ2NDRnFBRl9mM3gzSEluak1ZM3lSOVBEZmFPVVRPd00xRWFpS3lPZjRtVEZsX3RielBpTnR2TlhlVEk2N3J0Qk4zTFNHa1BnTG51NjVqZUF3aA?oc=5\" target=\"_blank\">Open-weight AI models are catching up to the frontier. The safety gap remains.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">techcrunch.com</font>",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa2VhSllrM29KN1BCdkxDUWRyNW81dlp6WXllMXB3UnBjWjNiakVSdlE4cDBidmctN05EbllEcDVhY3EzeWl1NEhEazZuMUdLMkhwMEVlR2dOOUM2ZGVuQ2NDRnFBRl9mM3gzSEluak1ZM3lSOVBEZmFPVVRPd00xRWFpS3lPZjRtVEZsX3RielBpTnR2TlhlVEk2N3J0Qk4zTFNHa1BnTG51NjVqZUF3aA?oc=5",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-08-04",
           "views": "18.0K"
         }
       ]
@@ -88,19 +88,19 @@
           "views": "18.0K"
         },
         {
-          "title": "How NTT DATA AIVista closes the last mile of agentic AI for enterprise agents - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQZFdHY3dNbXg4UFRULXUwMzgyS1h4ZTRYVUczNGFOSWhCZzcwcXMtVmRHdmh5eDdtNUR0M3hsSDAtR083ZEpvQkpSbnhHcU1NYWU4Tmd6VDBRSG11alYyZHUzZnhlQmNtdEJxN0JGazdyWUR0SV9BU1duM3FVVUYzRXlRZDMzdGwzWXFPSEZjaGI4aGtJTGJzVmtjOTJBT2dSeGpteklGUkZvY244cW9SSUlwYkZEUQ?oc=5\" target=\"_blank\">How NTT DATA AIVista closes the last mile of agentic AI for enterprise agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZFdHY3dNbXg4UFRULXUwMzgyS1h4ZTRYVUczNGFOSWhCZzcwcXMtVmRHdmh5eDdtNUR0M3hsSDAtR083ZEpvQkpSbnhHcU1NYWU4Tmd6VDBRSG11alYyZHUzZnhlQmNtdEJxN0JGazdyWUR0SV9BU1duM3FVVUYzRXlRZDMzdGwzWXFPSEZjaGI4aGtJTGJzVmtjOTJBT2dSeGpteklGUkZvY244cW9SSUlwYkZEUQ?oc=5",
+          "title": "Your agent didn’t hallucinate; it exceeded its authority - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPdlFtRy1KTnVrYUViSTlOcVpSSm1jSHlGNjhLay1VdktQRnFDQklrcEpNeVg1UW5SX3lhSUxHZS0ycWhWNFhEV29LZTQwcWloaXBzX3JBcnl6YU5ucTJpS3p2Wi1RRXlzN1BFTEtiTm5YYnZYRkxXelF1SkVkdlJ1UWpWbzJIM1ZFNWlyQlJUbmdKVGs?oc=5\" target=\"_blank\">Your agent didn’t hallucinate; it exceeded its authority</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdlFtRy1KTnVrYUViSTlOcVpSSm1jSHlGNjhLay1VdktQRnFDQklrcEpNeVg1UW5SX3lhSUxHZS0ycWhWNFhEV29LZTQwcWloaXBzX3JBcnl6YU5ucTJpS3p2Wi1RRXlzN1BFTEtiTm5YYnZYRkxXelF1SkVkdlJ1UWpWbzJIM1ZFNWlyQlJUbmdKVGs?oc=5",
           "source": "VentureBeat AI",
-          "publishedAt": "2026-08-03",
-          "views": "18.0K"
+          "publishedAt": "2026-08-10",
+          "views": "13.0K"
         },
         {
-          "title": "Stanford's AI agents designed a drug Merck later built, too - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSU9WM3dTSzVOcDRLTkRJNmxGSTMtb2NpaXQ1aEo2clFnVU5HWE9Wa1ByU0p4cXhMT1cwMHN6MkJ6ek9VWHBzc1k4UFlCc082ZHhZUlh4QU1oa0lDOFpKakptSDFwMlFYMlhhRDNWVl9meVBQdG9FeGloXzlwdm5sUTlFbXgxd3FlVUczYVMtbno2UUdFUzRWUEstcjByRmphX2xCMWhyNG5aT3ZOX3hzbGJRazRHQWtEOXpmb2t6QkQ5VmJIb3RTdUx0Mk5WaThOOWpfNjc2czRYRXZDZjB5cFQ5R2ZEdU5NcFBDbG1ONXFkUQ?oc=5\" target=\"_blank\">Stanford's AI agents designed a drug Merck later built, too</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSU9WM3dTSzVOcDRLTkRJNmxGSTMtb2NpaXQ1aEo2clFnVU5HWE9Wa1ByU0p4cXhMT1cwMHN6MkJ6ek9VWHBzc1k4UFlCc082ZHhZUlh4QU1oa0lDOFpKakptSDFwMlFYMlhhRDNWVl9meVBQdG9FeGloXzlwdm5sUTlFbXgxd3FlVUczYVMtbno2UUdFUzRWUEstcjByRmphX2xCMWhyNG5aT3ZOX3hzbGJRazRHQWtEOXpmb2t6QkQ5VmJIb3RTdUx0Mk5WaThOOWpfNjc2czRYRXZDZjB5cFQ5R2ZEdU5NcFBDbG1ONXFkUQ?oc=5",
+          "title": "SmartSource and the growing operational side of enterprise IT - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNejNuX2MyTVoyVHRlRzc1Y3VUY3cweDUwcGJlQVdwR3lJLVUxck9oU2lXLWxJZ3pvVkUwMFZPbG1BWFVCWnpJcWhFdVlBQkNGS2J0aUI2d2lXX3J4TE1sMjNHRi05NlJfNWtWUjgwOEJDdzJkSUJnX3RxZ010OEVVS2dRSHlKaEdzWXRSZ0ZlSHZnR1RLdjltVXpn?oc=5\" target=\"_blank\">SmartSource and the growing operational side of enterprise IT</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNejNuX2MyTVoyVHRlRzc1Y3VUY3cweDUwcGJlQVdwR3lJLVUxck9oU2lXLWxJZ3pvVkUwMFZPbG1BWFVCWnpJcWhFdVlBQkNGS2J0aUI2d2lXX3J4TE1sMjNHRi05NlJfNWtWUjgwOEJDdzJkSUJnX3RxZ010OEVVS2dRSHlKaEdzWXRSZ0ZlSHZnR1RLdjltVXpn?oc=5",
           "source": "VentureBeat AI",
-          "publishedAt": "2026-08-07",
+          "publishedAt": "2026-08-10",
           "views": "13.0K"
         }
       ]
@@ -111,27 +111,27 @@
       "description": "규제, 책임, 신뢰, 저작권 같은 문제를 보는 관점",
       "items": [
         {
-          "title": "The AI safety test is becoming a safety risk - techcrunch.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2Y4VVpMVDBscWktWGlhaWRBSFN0cFQwM3JIY05QZW1rQ3laTU81eU14N2NDV2pSRC15R1RvNlNXY1Fxa1V2dEU4dzR4TWJqWWdGZHFtV0I0RlF2cWxrYzFPODRnODh5eUhOOUJ4Ulk4T2Nqdk9DNWZ2SFhaekZGdURwMHlZZw?oc=5\" target=\"_blank\">The AI safety test is becoming a safety risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">techcrunch.com</font>",
+          "title": "EXCLUSIVE: India seizes thousands of Diageo whisky, vodka bottles in food safety crackdown - reuters.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcWVWaVdOVF94TXZTT0ZTWE5YaE92YjU1UGV3aGdOWHRSMHA4RWEwbmVWY24wcTUyRERtT1hkM0NMLW5YbVdQVXdKcTRxem1vaUhITHRzOFZuRnRmX3RYbWxVNGxDekZwc3FLazlaWHRMdWhlR3E5UG9sZGwzV1hoU3ZMSHg0NlhoYjNOVlc4VUtnQlE2U1VtTmFYM0ZBbkluamVwNWlISlVueGNtZGNXT29McjJNZzNfY09EVnNhSFluRGM?oc=5\" target=\"_blank\">EXCLUSIVE: India seizes thousands of Diageo whisky, vodka bottles in food safety crackdown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcWVWaVdOVF94TXZTT0ZTWE5YaE92YjU1UGV3aGdOWHRSMHA4RWEwbmVWY24wcTUyRERtT1hkM0NMLW5YbVdQVXdKcTRxem1vaUhITHRzOFZuRnRmX3RYbWxVNGxDekZwc3FLazlaWHRMdWhlR3E5UG9sZGwzV1hoU3ZMSHg0NlhoYjNOVlc4VUtnQlE2U1VtTmFYM0ZBbkluamVwNWlISlVueGNtZGNXT29McjJNZzNfY09EVnNhSFluRGM?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-08-10",
+          "views": "18.0K"
+        },
+        {
+          "title": "The AI safety test is becoming a safety risk - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2Y4VVpMVDBscWktWGlhaWRBSFN0cFQwM3JIY05QZW1rQ3laTU81eU14N2NDV2pSRC15R1RvNlNXY1Fxa1V2dEU4dzR4TWJqWWdGZHFtV0I0RlF2cWxrYzFPODRnODh5eUhOOUJ4Ulk4T2Nqdk9DNWZ2SFhaekZGdURwMHlZZw?oc=5\" target=\"_blank\">The AI safety test is becoming a safety risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2Y4VVpMVDBscWktWGlhaWRBSFN0cFQwM3JIY05QZW1rQ3laTU81eU14N2NDV2pSRC15R1RvNlNXY1Fxa1V2dEU4dzR4TWJqWWdGZHFtV0I0RlF2cWxrYzFPODRnODh5eUhOOUJ4Ulk4T2Nqdk9DNWZ2SFhaekZGdURwMHlZZw?oc=5",
           "source": "TechCrunch AI",
           "publishedAt": "2026-08-09",
           "views": "18.0K"
         },
         {
-          "title": "Who is liable when AI goes rogue? Lawyers see new risks - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOdm5IRWdwV3E1N1BVWXFDY21mTGJoMTg1TXB3VXFyYXRodDYycGNpZkhxOVp5SGF0NzkwVFlXaHpER2Mwdk1IcU5OaENIMV9MTkZJZFNTU0E5ODV6a1BqS2VacDVZeWhtbWRnaHpIVVpMOGRqR2l4bHNpYW8wZmxvcm90SGxNelNmUmVNS3hSbHhTY1RPem5GTmd0NF91bnNw?oc=5\" target=\"_blank\">Who is liable when AI goes rogue? Lawyers see new risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "title": "Who is liable when AI goes rogue? Lawyers see new risks - reuters.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOdm5IRWdwV3E1N1BVWXFDY21mTGJoMTg1TXB3VXFyYXRodDYycGNpZkhxOVp5SGF0NzkwVFlXaHpER2Mwdk1IcU5OaENIMV9MTkZJZFNTU0E5ODV6a1BqS2VacDVZeWhtbWRnaHpIVVpMOGRqR2l4bHNpYW8wZmxvcm90SGxNelNmUmVNS3hSbHhTY1RPem5GTmd0NF91bnNw?oc=5\" target=\"_blank\">Who is liable when AI goes rogue? Lawyers see new risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdm5IRWdwV3E1N1BVWXFDY21mTGJoMTg1TXB3VXFyYXRodDYycGNpZkhxOVp5SGF0NzkwVFlXaHpER2Mwdk1IcU5OaENIMV9MTkZJZFNTU0E5ODV6a1BqS2VacDVZeWhtbWRnaHpIVVpMOGRqR2l4bHNpYW8wZmxvcm90SGxNelNmUmVNS3hSbHhTY1RPem5GTmd0NF91bnNw?oc=5",
           "source": "Reuters AI",
           "publishedAt": "2026-08-07",
-          "views": "18.0K"
-        },
-        {
-          "title": "Pressured by Tesla, European regulators keep 'Full Self-Driving' safety data secret - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPa0FjOVZXTy1YOTYxX1lISUlaWVVBQVFkOXM1bmxtQ1JOc0xERmJTWFRuNU54Q29SSGxqZlJubXVSUEVvUzR6eFQ3QzRUQjBQNFFsY3FuZFo3cTJZcGhRelUyU1NPck9pTExrbm1uQ21wY2s3M0FwZGMzWF9ZUHFnQVR3OTV2LTdab3VqYUlGMXlEdkg1U2JCZmNDd01ZSzlXcFZBSzByWU5BMExzbjJXTVNpSWgzRHpVLTI3VnFDN3p0M2tUbUJ5MFBZRzh1dw?oc=5\" target=\"_blank\">Pressured by Tesla, European regulators keep 'Full Self-Driving' safety data secret</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPa0FjOVZXTy1YOTYxX1lISUlaWVVBQVFkOXM1bmxtQ1JOc0xERmJTWFRuNU54Q29SSGxqZlJubXVSUEVvUzR6eFQ3QzRUQjBQNFFsY3FuZFo3cTJZcGhRelUyU1NPck9pTExrbm1uQ21wY2s3M0FwZGMzWF9ZUHFnQVR3OTV2LTdab3VqYUlGMXlEdkg1U2JCZmNDd01ZSzlXcFZBSzByWU5BMExzbjJXTVNpSWgzRHpVLTI3VnFDN3p0M2tUbUJ5MFBZRzh1dw?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-08-06",
           "views": "18.0K"
         }
       ]
@@ -150,19 +150,19 @@
           "views": "18.0K"
         },
         {
-          "title": "Market cuts odds of Fed hike after jobs data, but economists still see case for tightening - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQc20xOTBqRG9tVV9IUnA4T1JoVHo1dUpfSV85UzZQdzFqeWZPZ0hFb3kzUVZDUTlUcS10b205dzIyWVRaWUpxUmJJa0EtR2tfQ0sxa0tsRl82SkFXMF9BRWFCSzJDSkRpb25EOW5Fd0hUUzdrMU4wMlRDZVNiQTVoazN4dHFpeUhfNjJaUkkyUnVtdWh4V2l0LXlVcWtzM1pqdmZHVnVCT3ZoT3o5?oc=5\" target=\"_blank\">Market cuts odds of Fed hike after jobs data, but economists still see case for tightening</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc20xOTBqRG9tVV9IUnA4T1JoVHo1dUpfSV85UzZQdzFqeWZPZ0hFb3kzUVZDUTlUcS10b205dzIyWVRaWUpxUmJJa0EtR2tfQ0sxa0tsRl82SkFXMF9BRWFCSzJDSkRpb25EOW5Fd0hUUzdrMU4wMlRDZVNiQTVoazN4dHFpeUhfNjJaUkkyUnVtdWh4V2l0LXlVcWtzM1pqdmZHVnVCT3ZoT3o5?oc=5",
+          "title": "UK's jobs market shows signs of stabilisation, REC/KPMG say - reuters.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNYWRTaHh5clphbDB3dHVxOUlQS3laWHZfWUNPYWZlSjdaVE9KUkM4YVp6QXNtVzR5dU51WHVEbG1jZ1JHSWZsT2VadWNWRC1tMDF3dElVM1U1MHVIM1U3aHIyTk5YSW9TUjV0bW03VzF6OXlabGUyN1J3XzhtazF4QXBsbnNDZURkandPZDhyRVJVMjJzVUY5R1JfOEtWNFBoU2FvcW81bkFHWkpjS1VMa053?oc=5\" target=\"_blank\">UK's jobs market shows signs of stabilisation, REC/KPMG say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYWRTaHh5clphbDB3dHVxOUlQS3laWHZfWUNPYWZlSjdaVE9KUkM4YVp6QXNtVzR5dU51WHVEbG1jZ1JHSWZsT2VadWNWRC1tMDF3dElVM1U1MHVIM1U3aHIyTk5YSW9TUjV0bW03VzF6OXlabGUyN1J3XzhtazF4QXBsbnNDZURkandPZDhyRVJVMjJzVUY5R1JfOEtWNFBoU2FvcW81bkFHWkpjS1VMa053?oc=5",
           "source": "Reuters AI",
-          "publishedAt": "2026-08-07",
+          "publishedAt": "2026-08-09",
           "views": "18.0K"
         },
         {
-          "title": "Finance minister voices confidence in economy, vows efforts to stabilize stock market - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPVXNQaXBTdnN2MmRnaWFmQ2FNLXQ4dEJEWGNvbnpVQmlKdTB0M0ZnSFlKbFJHbnF5SmNlc1lHN1RWYWp2dTdTSjl2djdpS0x2SnBYU3R3c3NtWmltc2xZYjZlN3JldW94S1ZDMnVmOHNLVUZPRjlHUGh4WE5fRU5NcUhER2hyc051N1ZoV1YtSkRCR3g3UzhvQ25LdElHX1J0UG1IdUszLTc1Q3ctVjJsMjhVNThQb29wLXBnUU1abjhHZ2RaQlZ4dEFn0gHPAUFVX3lxTE56VjV4TVRjMV9mcEVFT2lJNTBhZk5qcW01NEdQVk9aVG94OGNyNlNzclVyR3pPYWhwZ0x2S2RsYjg4ajdOeUlhZjU1bXBFdFl0RUdpc1B2WjZyTzl6ZWpHNUY3M1ByaFNmcl91blAyaktvNHI3eFBnWURaaFNCSmlleWVQRWI4NW5zSktRWFV6RUFMSndoMGxLQUJaXzBrWGNibFhicEZZUjU2SVQwZDZWOHNJS0tLeG9IY3o1R2FlZ3FReVhtbWRsMnJqMXlnMA?oc=5\" target=\"_blank\">Finance minister voices confidence in economy, vows efforts to stabilize stock market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVXNQaXBTdnN2MmRnaWFmQ2FNLXQ4dEJEWGNvbnpVQmlKdTB0M0ZnSFlKbFJHbnF5SmNlc1lHN1RWYWp2dTdTSjl2djdpS0x2SnBYU3R3c3NtWmltc2xZYjZlN3JldW94S1ZDMnVmOHNLVUZPRjlHUGh4WE5fRU5NcUhER2hyc051N1ZoV1YtSkRCR3g3UzhvQ25LdElHX1J0UG1IdUszLTc1Q3ctVjJsMjhVNThQb29wLXBnUU1abjhHZ2RaQlZ4dEFn0gHPAUFVX3lxTE56VjV4TVRjMV9mcEVFT2lJNTBhZk5qcW01NEdQVk9aVG94OGNyNlNzclVyR3pPYWhwZ0x2S2RsYjg4ajdOeUlhZjU1bXBFdFl0RUdpc1B2WjZyTzl6ZWpHNUY3M1ByaFNmcl91blAyaktvNHI3eFBnWURaaFNCSmlleWVQRWI4NW5zSktRWFV6RUFMSndoMGxLQUJaXzBrWGNibFhicEZZUjU2SVQwZDZWOHNJS0tLeG9IY3o1R2FlZ3FReVhtbWRsMnJqMXlnMA?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-08-06",
+          "title": "Market cuts odds of Fed hike after jobs data, but economists still see case for tightening - reuters.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQc20xOTBqRG9tVV9IUnA4T1JoVHo1dUpfSV85UzZQdzFqeWZPZ0hFb3kzUVZDUTlUcS10b205dzIyWVRaWUpxUmJJa0EtR2tfQ0sxa0tsRl82SkFXMF9BRWFCSzJDSkRpb25EOW5Fd0hUUzdrMU4wMlRDZVNiQTVoazN4dHFpeUhfNjJaUkkyUnVtdWh4V2l0LXlVcWtzM1pqdmZHVnVCT3ZoT3o5?oc=5\" target=\"_blank\">Market cuts odds of Fed hike after jobs data, but economists still see case for tightening</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc20xOTBqRG9tVV9IUnA4T1JoVHo1dUpfSV85UzZQdzFqeWZPZ0hFb3kzUVZDUTlUcS10b205dzIyWVRaWUpxUmJJa0EtR2tfQ0sxa0tsRl82SkFXMF9BRWFCSzJDSkRpb25EOW5Fd0hUUzdrMU4wMlRDZVNiQTVoazN4dHFpeUhfNjJaUkkyUnVtdWh4V2l0LXlVcWtzM1pqdmZHVnVCT3ZoT3o5?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-08-07",
           "views": "18.0K"
         }
       ]
@@ -173,27 +173,27 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
-          "title": "German trade deficit with China grows as Beijing relies less on European industry - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOODQ2YlF3a0ZsOFRad3lFOW5WTzdtOFVSWmYwTEhTVkNhQ283ckFGd0YtR2hxa1EzYTd0LWVSN2NHNnhESFNpLXhJVTNMRlVCTW8waDI2RFpOeGZKX2dvTGZoM3JzNWJ3ZjRUMFdMaHZleVo1ZG5ackJES1lBZ2ZvelE4Tm1hbGdCaWoxaWE4dlExZGNsaWdKV085cDNFcml3aGxkZUJYdnJvYk8wZnJ2MVNMOXdxbFA4Tk1RQVo1cGc?oc=5\" target=\"_blank\">German trade deficit with China grows as Beijing relies less on European industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOODQ2YlF3a0ZsOFRad3lFOW5WTzdtOFVSWmYwTEhTVkNhQ283ckFGd0YtR2hxa1EzYTd0LWVSN2NHNnhESFNpLXhJVTNMRlVCTW8waDI2RFpOeGZKX2dvTGZoM3JzNWJ3ZjRUMFdMaHZleVo1ZG5ackJES1lBZ2ZvelE4Tm1hbGdCaWoxaWE4dlExZGNsaWdKV085cDNFcml3aGxkZUJYdnJvYk8wZnJ2MVNMOXdxbFA4Tk1RQVo1cGc?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-08-09",
-          "views": "13.0K"
-        },
-        {
-          "title": "Jongno District's new strategy: Legalizing unpermitted homes to save hanok - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdFNMSzFwZnpEbWRVcjlYckJEcEQySnhUVlVRaFQwX2JnUFFhS3dHSGdrLUQ4TGZEVi1vc2I3bTFYRUtERGU3dTNTbm51dEIyNFdWckY2UVAyQi00ZkxKUi1oZUdSaGg2cFZZNkNTYW1xLWJpWXRTbnhxQ3k3N1JVTUM0TEYtVkUwZzZSUUYtTzU0X1ZYcEMwbHRoeEdWUF9jNk5Ka2pKVm5jRmtnZU9qLTV0T0JBNXREMTBrLVRwTlRpaHfSAcMBQVVfeXFMTnRTTEsxcGZ6RG1kVXI5WHJCRHBEMkp4VFZVUWhUMF9iZ1BRYUt3R0hnay1EOExmRFYtb3NiN20xWEVLRERlN3UzU25udXRCMjRXVnJGNlFQMkItNGZMSlItaGVHUmhoNnBWWTZDU2FtcS1iaVl0U254cUN5NzdSVU1DNExGLVZFMGc2UlFGLU81NF9WWHBDMGx0aHhHVlBfYzZOSmtqSlZuY0ZrZ2VPai01dE9CQTV0RDEway1UcE5UaWh3?oc=5\" target=\"_blank\">Jongno District's new strategy: Legalizing unpermitted homes to save hanok</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdFNMSzFwZnpEbWRVcjlYckJEcEQySnhUVlVRaFQwX2JnUFFhS3dHSGdrLUQ4TGZEVi1vc2I3bTFYRUtERGU3dTNTbm51dEIyNFdWckY2UVAyQi00ZkxKUi1oZUdSaGg2cFZZNkNTYW1xLWJpWXRTbnhxQ3k3N1JVTUM0TEYtVkUwZzZSUUYtTzU0X1ZYcEMwbHRoeEdWUF9jNk5Ka2pKVm5jRmtnZU9qLTV0T0JBNXREMTBrLVRwTlRpaHfSAcMBQVVfeXFMTnRTTEsxcGZ6RG1kVXI5WHJCRHBEMkp4VFZVUWhUMF9iZ1BRYUt3R0hnay1EOExmRFYtb3NiN20xWEVLRERlN3UzU25udXRCMjRXVnJGNlFQMkItNGZMSlItaGVHUmhoNnBWWTZDU2FtcS1iaVl0U254cUN5NzdSVU1DNExGLVZFMGc2UlFGLU81NF9WWHBDMGx0aHhHVlBfYzZOSmtqSlZuY0ZrZ2VPai01dE9CQTV0RDEway1UcE5UaWh3?oc=5",
+          "title": "Korea showing signs of improvement on robust chip industry: KDI - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOR0hoVDVXeVRYS1YxVDhNNHduNVpmeTVGZ19URDBKd1VTRFJPOUthQTlMb0k4bGltOTZ0VlRWa00xRWo0VjBaei1QMnhpYnpFRXFkTVFQRWV0c2tVZGQyXy16XzhoMDdDa3JiSUhWUVE5c0dncHVvMHRtNldCSmxWX3RYTUpLR3liNGVybEVldmxPWTBTaGFBaFFLYmFKYkRmLUVaU00wVlBmUUI00gGyAUFVX3lxTE4yV1JwUWRJQ21uUWQzb1lhMFBUNmw0NHEzOG84SUVqRE5VTFpnUDdLQlNzTURDNDdNUUE2UmhsM1NBUVhfbGdIeHhsbERMVFN2cmg1cWhIUWF2QjV5SzJjVnVjMUJPaWtrNm4tbXdLRFhhVUdQTkh1VUlvbkpjcmRLbUdUbW9veGNrYVhZZmU4UncxeEdwZXpKTGxQNkJudkRCUGlrYXl6ZmhxQm4yeEVQVEE?oc=5\" target=\"_blank\">Korea showing signs of improvement on robust chip industry: KDI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR0hoVDVXeVRYS1YxVDhNNHduNVpmeTVGZ19URDBKd1VTRFJPOUthQTlMb0k4bGltOTZ0VlRWa00xRWo0VjBaei1QMnhpYnpFRXFkTVFQRWV0c2tVZGQyXy16XzhoMDdDa3JiSUhWUVE5c0dncHVvMHRtNldCSmxWX3RYTUpLR3liNGVybEVldmxPWTBTaGFBaFFLYmFKYkRmLUVaU00wVlBmUUI00gGyAUFVX3lxTE4yV1JwUWRJQ21uUWQzb1lhMFBUNmw0NHEzOG84SUVqRE5VTFpnUDdLQlNzTURDNDdNUUE2UmhsM1NBUVhfbGdIeHhsbERMVFN2cmg1cWhIUWF2QjV5SzJjVnVjMUJPaWtrNm4tbXdLRFhhVUdQTkh1VUlvbkpjcmRLbUdUbW9veGNrYVhZZmU4UncxeEdwZXpKTGxQNkJudkRCUGlrYXl6ZmhxQm4yeEVQVEE?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-08-08",
+          "publishedAt": "2026-08-10",
           "views": "13.0K"
         },
         {
-          "title": "US immigration agency will finish body camera rollout this month, ICE leader says - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdVJ3VEoyWURGM3hvUEZuZEc3WWJ2NjBQZGthRTJmX2U4M3BoR1pyczBjcWNtcVFvc0toUG13N0lEcllPLUE0cFh0aXNEWkVGeW9uOHloaHRtNmVSYmUxaVhNblo2amR0R0RMcjFob0NPRVZSdlhhaU56akR2Ym54N2RFVm92VldBSmdJZ0NjWXktU3pkaHIwV21ILUxCMy1Xd0RWcl9NaFpSaUNXT3RuY2ZWUzNTTVpBWEtSZm9Ga0c3dWM?oc=5\" target=\"_blank\">US immigration agency will finish body camera rollout this month, ICE leader says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdVJ3VEoyWURGM3hvUEZuZEc3WWJ2NjBQZGthRTJmX2U4M3BoR1pyczBjcWNtcVFvc0toUG13N0lEcllPLUE0cFh0aXNEWkVGeW9uOHloaHRtNmVSYmUxaVhNblo2amR0R0RMcjFob0NPRVZSdlhhaU56akR2Ym54N2RFVm92VldBSmdJZ0NjWXktU3pkaHIwV21ILUxCMy1Xd0RWcl9NaFpSaUNXT3RuY2ZWUzNTTVpBWEtSZm9Ga0c3dWM?oc=5",
+          "title": "Austria breaks up sanctions-evasion scheme supplying Russian arms industry - reuters.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQemhDNHRGckVHU3hGazZNNld4QTVOcjd0SUVzUTdrRHZkQXUtcUZmOC1DQkRhX2VMV3BuZExJSl9xZXM1YVVObjk4Z3RZeTBnNnhrWkQtZzdRSkFtM2hCZl9NUFpVemlTbThiUzRURmV4UURfOTlpN0Z2QTdodEJQR1pBWVJzNl90eEt5TUR5VWRSZy10TWtFVmo1Y1kzTGRQd3BKaEVkckJEampOMFdjVi1tN3ZvMlk5WHdKdTdSeVhzSnpZYUpudG9wWDAxVEVfSFhJ?oc=5\" target=\"_blank\">Austria breaks up sanctions-evasion scheme supplying Russian arms industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQemhDNHRGckVHU3hGazZNNld4QTVOcjd0SUVzUTdrRHZkQXUtcUZmOC1DQkRhX2VMV3BuZExJSl9xZXM1YVVObjk4Z3RZeTBnNnhrWkQtZzdRSkFtM2hCZl9NUFpVemlTbThiUzRURmV4UURfOTlpN0Z2QTdodEJQR1pBWVJzNl90eEt5TUR5VWRSZy10TWtFVmo1Y1kzTGRQd3BKaEVkckJEampOMFdjVi1tN3ZvMlk5WHdKdTdSeVhzSnpZYUpudG9wWDAxVEVfSFhJ?oc=5",
           "source": "Reuters AI",
-          "publishedAt": "2026-08-08",
+          "publishedAt": "2026-08-10",
+          "views": "13.0K"
+        },
+        {
+          "title": "Bristol Myers to build $2.3 billion manufacturing site in Houston - reuters.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQQWpzV09IWVJGNWNUYXV3cURuN291SVoyLWIwYnBvZGt4aE1YbUgwNG5WX3JFTEc3VURCZE5UNTc3RHJjM0QzY1hPQjZBMDJyU0pxNE9XczEtRlJTQjlsQXFtR0VVS29vWjBUMVVlbHktZEcyM0FseGQ0cDh1WVB1WktsUi05TWd5TFJvMFZsNko0eVNQMXNnVjN6cFVaV0tnTFk4TWNFWjZOLTlQcEM4?oc=5\" target=\"_blank\">Bristol Myers to build $2.3 billion manufacturing site in Houston</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQWpzV09IWVJGNWNUYXV3cURuN291SVoyLWIwYnBvZGt4aE1YbUgwNG5WX3JFTEc3VURCZE5UNTc3RHJjM0QzY1hPQjZBMDJyU0pxNE9XczEtRlJTQjlsQXFtR0VVS29vWjBUMVVlbHktZEcyM0FseGQ0cDh1WVB1WktsUi05TWd5TFJvMFZsNko0eVNQMXNnVjN6cFVaV0tnTFk4TWNFWjZOLTlQcEM4?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-08-10",
           "views": "13.0K"
         }
       ]
