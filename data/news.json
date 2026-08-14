@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T02:44:28.740Z",
+  "lastUpdated": "2026-08-14T02:43:07.813Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,11 +49,11 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
-          "title": "OpenAI Provides Unlimited Latest Model to Free ChatGPT Users; Postpones Astra - ETNEWS",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBTSUdhZk1rSWpCcTQxOTZ5MDJvRmdEdkNzQ2dpSUVDM3pTeWdkaUwyek5RTjhnZDgwYjlFVWg2RmYyMFdjQ3ZncjA4M24?oc=5\" target=\"_blank\">OpenAI Provides Unlimited Latest Model to Free ChatGPT Users; Postpones Astra</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBTSUdhZk1rSWpCcTQxOTZ5MDJvRmdEdkNzQ2dpSUVDM3pTeWdkaUwyek5RTjhnZDgwYjlFVWg2RmYyMFdjQ3ZncjA4M24?oc=5",
-          "source": "전자신문",
-          "publishedAt": "2026-08-10",
+          "title": "Google unveils Gemini 3.7 Flash AI model for coding, agent workflows - reuters.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdlZyeUlWQWJSd1dqa0pMcjIxUE9wYTlBbGxna3g5QWt5aXIzSENaOWsxYTk4RkE1NXhfdmd0eEVSckF6ak9mQThZbHo3LXlFZHRGcVhRcHZtWUxoOF8tR3laa0xQalI0eWFxSGVqR0ZXTkpJVkVlUmwtRmFpMS1aeDRnY3F6Q0liN0E1Y1BkSi1oUWZJTTd3SmhzLXprZFB0SHNGY2NZbmE1bW8?oc=5\" target=\"_blank\">Google unveils Gemini 3.7 Flash AI model for coding, agent workflows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdlZyeUlWQWJSd1dqa0pMcjIxUE9wYTlBbGxna3g5QWt5aXIzSENaOWsxYTk4RkE1NXhfdmd0eEVSckF6ak9mQThZbHo3LXlFZHRGcVhRcHZtWUxoOF8tR3laa0xQalI0eWFxSGVqR0ZXTkpJVkVlUmwtRmFpMS1aeDRnY3F6Q0liN0E1Y1BkSi1oUWZJTTd3SmhzLXprZFB0SHNGY2NZbmE1bW8?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-08-13",
           "views": "18.0K"
         },
         {
@@ -65,12 +65,12 @@
           "views": "18.0K"
         },
         {
-          "title": "Qwen 3.8-Max and Claude Opus 5 show why raw benchmark scores don't predict the bill - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPNEItdTFINFNkdHFOeVFzSHpQdVJVM1RzTFFYcDRMUVVCNUVONUxxQUN5dTRjcXBVTmdSS2ZaQXZWMUlCaTVpbmZwTWMxcnNyWENUY3dLMW5kLWttbWRIZmJycUpqNzNmdDJiQTRaZW1sRXVrRzRkSFdIS2VrMkNFaUNGMnhtR0N6eGVZN3VzVi1zZ0ZxUEE0eTFSNldTNlhuOGFPbWJqRUtaeFVvMk1JRURkbElCcjR5dkRKdA?oc=5\" target=\"_blank\">Qwen 3.8-Max and Claude Opus 5 show why raw benchmark scores don't predict the bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNEItdTFINFNkdHFOeVFzSHpQdVJVM1RzTFFYcDRMUVVCNUVONUxxQUN5dTRjcXBVTmdSS2ZaQXZWMUlCaTVpbmZwTWMxcnNyWENUY3dLMW5kLWttbWRIZmJycUpqNzNmdDJiQTRaZW1sRXVrRzRkSFdIS2VrMkNFaUNGMnhtR0N6eGVZN3VzVi1zZ0ZxUEE0eTFSNldTNlhuOGFPbWJqRUtaeFVvMk1JRURkbElCcjR5dkRKdA?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-08-06",
-          "views": "18.0K"
+          "title": "Korea's ICT exports up 140% in July on sustained AI chip demand - koreatimes.co.kr",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQaVZWSE1jYndkT2JQUmF3QUUyZkRuNXRQV1FheDlfT043ZFJJWkJmM01OY21HSS1EakxRa2N4Ymc1aERFYmhLLUFqNl9yWXdfalNEUFNoTWVEY2dlbkVrTDl0aXNTelpHNTkyenRnOVJjY1l5RTlHY1ZiOFZqWUNLaVVxLVdiRFNOdUpxV2RCNlc5MlB5WU5yazFqN1NBbmNwZGtMekJoUHpPc0hVbzEtNdIBsAFBVV95cUxQaVZWSE1jYndkT2JQUmF3QUUyZkRuNXRQV1FheDlfT043ZFJJWkJmM01OY21HSS1EakxRa2N4Ymc1aERFYmhLLUFqNl9yWXdfalNEUFNoTWVEY2dlbkVrTDl0aXNTelpHNTkyenRnOVJjY1l5RTlHY1ZiOFZqWUNLaVVxLVdiRFNOdUpxV2RCNlc5MlB5WU5yazFqN1NBbmNwZGtMekJoUHpPc0hVbzEtNQ?oc=5\" target=\"_blank\">Korea's ICT exports up 140% in July on sustained AI chip demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">koreatimes.co.kr</font>",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaVZWSE1jYndkT2JQUmF3QUUyZkRuNXRQV1FheDlfT043ZFJJWkJmM01OY21HSS1EakxRa2N4Ymc1aERFYmhLLUFqNl9yWXdfalNEUFNoTWVEY2dlbkVrTDl0aXNTelpHNTkyenRnOVJjY1l5RTlHY1ZiOFZqWUNLaVVxLVdiRFNOdUpxV2RCNlc5MlB5WU5yazFqN1NBbmNwZGtMekJoUHpPc0hVbzEtNdIBsAFBVV95cUxQaVZWSE1jYndkT2JQUmF3QUUyZkRuNXRQV1FheDlfT043ZFJJWkJmM01OY21HSS1EakxRa2N4Ymc1aERFYmhLLUFqNl9yWXdfalNEUFNoTWVEY2dlbkVrTDl0aXNTelpHNTkyenRnOVJjY1l5RTlHY1ZiOFZqWUNLaVVxLVdiRFNOdUpxV2RCNlc5MlB5WU5yazFqN1NBbmNwZGtMekJoUHpPc0hVbzEtNQ?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-08-14",
+          "views": "13.0K"
         }
       ]
     },
@@ -80,28 +80,28 @@
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
         {
+          "title": "Google unveils Gemini 3.7 Flash AI model for coding, agent workflows - reuters.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdlZyeUlWQWJSd1dqa0pMcjIxUE9wYTlBbGxna3g5QWt5aXIzSENaOWsxYTk4RkE1NXhfdmd0eEVSckF6ak9mQThZbHo3LXlFZHRGcVhRcHZtWUxoOF8tR3laa0xQalI0eWFxSGVqR0ZXTkpJVkVlUmwtRmFpMS1aeDRnY3F6Q0liN0E1Y1BkSi1oUWZJTTd3SmhzLXprZFB0SHNGY2NZbmE1bW8?oc=5\" target=\"_blank\">Google unveils Gemini 3.7 Flash AI model for coding, agent workflows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdlZyeUlWQWJSd1dqa0pMcjIxUE9wYTlBbGxna3g5QWt5aXIzSENaOWsxYTk4RkE1NXhfdmd0eEVSckF6ak9mQThZbHo3LXlFZHRGcVhRcHZtWUxoOF8tR3laa0xQalI0eWFxSGVqR0ZXTkpJVkVlUmwtRmFpMS1aeDRnY3F6Q0liN0E1Y1BkSi1oUWZJTTd3SmhzLXprZFB0SHNGY2NZbmE1bW8?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-08-13",
+          "views": "18.0K"
+        },
+        {
+          "title": "Skan AI raises $63M to map enterprise workflows - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYy1BelJwVXA0RVJzQmx5YUE1RWZ4b2Nwem56QUU5d2ZsTklHdHJxYTRWSDBoaGNXWW00OXd5OXlXTFNTekl6YVliMVkxQzd3QlNkOFdHT0JGMVg0VWxzbk5oSlQxZmFUZGxHRTR1ZFJyaUJQUEMzdWFWSUQ2U1VpRVUzY2lrUVc4aExDelp0bzNHZzZoMy01Nks1c0hSbFhrS3pNZ2RtTmF0SEdVUkhTRVFKdF9OUEZqdnFxVXc1UTFzMjNHc05EQUpubmI0WDAyQlNNeVludjhEZw?oc=5\" target=\"_blank\">Skan AI raises $63M to map enterprise workflows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYy1BelJwVXA0RVJzQmx5YUE1RWZ4b2Nwem56QUU5d2ZsTklHdHJxYTRWSDBoaGNXWW00OXd5OXlXTFNTekl6YVliMVkxQzd3QlNkOFdHT0JGMVg0VWxzbk5oSlQxZmFUZGxHRTR1ZFJyaUJQUEMzdWFWSUQ2U1VpRVUzY2lrUVc4aExDelp0bzNHZzZoMy01Nks1c0hSbFhrS3pNZ2RtTmF0SEdVUkhTRVFKdF9OUEZqdnFxVXc1UTFzMjNHc05EQUpubmI0WDAyQlNNeVludjhEZw?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-08-12",
+          "views": "18.0K"
+        },
+        {
           "title": "Agentic orchestration: Enterprise AI organizations know how to govern agents but still can't meter what they cost - VentureBeat",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdjZkQ28xQlVGbnV5TUl0MnZBZG85dDhueUlqbU9Nb3dscGpzdUJ2S2dlM1JFRHhYUUJxdGhWSG5uQWdYU2o0X2E3OUZJckVHbU1oREJycjNaazNsNGxHbG9xSXctWW1YTHJ4dkpHQlhYc2JHSUNhWVd6RTBGWWpiXy1odXlvTWpkSjlpaHFKU1BRN1gtOE1hb1JqX3FCX1d3T290WVZ4T2tobXlhWG45MzJFVWdyS053Tlpzamw2UGZpRTd3WnRqSTJBTXMyY1FpU1ZuME1LNVQ4X1FzVVE?oc=5\" target=\"_blank\">Agentic orchestration: Enterprise AI organizations know how to govern agents but still can't meter what they cost</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdjZkQ28xQlVGbnV5TUl0MnZBZG85dDhueUlqbU9Nb3dscGpzdUJ2S2dlM1JFRHhYUUJxdGhWSG5uQWdYU2o0X2E3OUZJckVHbU1oREJycjNaazNsNGxHbG9xSXctWW1YTHJ4dkpHQlhYc2JHSUNhWVd6RTBGWWpiXy1odXlvTWpkSjlpaHFKU1BRN1gtOE1hb1JqX3FCX1d3T290WVZ4T2tobXlhWG45MzJFVWdyS053Tlpzamw2UGZpRTd3WnRqSTJBTXMyY1FpU1ZuME1LNVQ4X1FzVVE?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-08-12",
           "views": "18.0K"
-        },
-        {
-          "title": "Four AI agents coordinating in real time outperformed Claude Opus 4.8 on enterprise coding tasks - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNSmJwVlk5WE5BZjh5SkJWaEtRUFQ2WldNcVBDSkJZenp1UlltVlE3cmhEUEV0LXpxVHVram93dkZhc25ZV1FLazdwbWxDQlczdjV5S1Q5eVgyLUFKRDR3NEJqb3BrWWhuMHFSTkV1WVJoSmpiMVJCaGFxTFVaOE5ETVhVUXV0c2JWZFRNRi1XaDltZ21DN1JlMVVZbUUtRlpUeEhORkkzYVp3bkw2YWZfeFY0dEQtQlhKbTlDNVMyNjQ1TUtMUWdZODlZeWdOTnc?oc=5\" target=\"_blank\">Four AI agents coordinating in real time outperformed Claude Opus 4.8 on enterprise coding tasks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSmJwVlk5WE5BZjh5SkJWaEtRUFQ2WldNcVBDSkJZenp1UlltVlE3cmhEUEV0LXpxVHVram93dkZhc25ZV1FLazdwbWxDQlczdjV5S1Q5eVgyLUFKRDR3NEJqb3BrWWhuMHFSTkV1WVJoSmpiMVJCaGFxTFVaOE5ETVhVUXV0c2JWZFRNRi1XaDltZ21DN1JlMVVZbUUtRlpUeEhORkkzYVp3bkw2YWZfeFY0dEQtQlhKbTlDNVMyNjQ1TUtMUWdZODlZeWdOTnc?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-08-07",
-          "views": "18.0K"
-        },
-        {
-          "title": "Scaling AI agents with trustworthy data - MIT Technology Review",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNUjc5VjN4eEpLZTAwamNsd0F0eHNqTkR2ZUVxSlNsOEJYNW1JQVJVODVnN0ZIai1KY043NF9pZV9VVjlBM0c5RlVWM01OSjN4N3llUmhKR3BKZmEyVWZGZUdCTHFfc0JaYWRZNktlQnplX204djdPYnhSazA2ekY1WUdPaFJTM3BPUG56SFNjdVQwakVwUU1HWHV2aXU?oc=5\" target=\"_blank\">Scaling AI agents with trustworthy data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MIT Technology Review</font>",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUjc5VjN4eEpLZTAwamNsd0F0eHNqTkR2ZUVxSlNsOEJYNW1JQVJVODVnN0ZIai1KY043NF9pZV9VVjlBM0c5RlVWM01OSjN4N3llUmhKR3BKZmEyVWZGZUdCTHFfc0JaYWRZNktlQnplX204djdPYnhSazA2ekY1WUdPaFJTM3BPUG56SFNjdVQwakVwUU1HWHV2aXU?oc=5",
-          "source": "MIT Technology Review (AI)",
-          "publishedAt": "2026-08-12",
-          "views": "13.0K"
         }
       ]
     },
@@ -111,27 +111,27 @@
       "description": "규제, 책임, 신뢰, 저작권 같은 문제를 보는 관점",
       "items": [
         {
-          "title": "Prader-Willi experts flag safety risks linked to Neurocrine's rare disease drug - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOUHpjZ3JJLW02dWN5c1Z3N1hXUExHN1czcGxvRnR0bEQ4WHp0YzFOWlQ2Y193UmxNcl9BLTJHbnFDd0VpUS1INDN6d1EyYnFBUFlGaTJlOUFlUG5HWDA0ZE05dk9NVlEtQmlCazhJQlY2UVByZ1B2R3ZJZEJ4VHFGV3FLNmE0MTVBNk1EMGV5X3ZGRG5NbkR3SnZ0RmtURTRxSDMya3g5VEpybzF2ZzIxa3cyaDR3d3RuV3k3V2xGWVk2YzVraHYw?oc=5\" target=\"_blank\">Prader-Willi experts flag safety risks linked to Neurocrine's rare disease drug</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "title": "Shein loses UK copyright lawsuit against rival Temu in key e-commerce ruling - reuters.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOMFdCWm05MXVPcGVJM0JLeGszcGJsdVM0aUZIUEladkFoRzAtR25qdlpiVzkzaGIzUXREaVZ5cUt0aElmVUl1UEdmeU1yZjJLUmlxNXJ5RmRvQzZrYnZyOFhDUDVkUEhPb2FpY0p4RFV1X0RDVDFwS3FidXRXODJjdUpnbGN4X0pINk1mT0xHMm0wbi1kbmVtSkRQUWN1TVVrYXljN3FScVFxR1NpSE1oT05Ua2c?oc=5\" target=\"_blank\">Shein loses UK copyright lawsuit against rival Temu in key e-commerce ruling</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMFdCWm05MXVPcGVJM0JLeGszcGJsdVM0aUZIUEladkFoRzAtR25qdlpiVzkzaGIzUXREaVZ5cUt0aElmVUl1UEdmeU1yZjJLUmlxNXJ5RmRvQzZrYnZyOFhDUDVkUEhPb2FpY0p4RFV1X0RDVDFwS3FidXRXODJjdUpnbGN4X0pINk1mT0xHMm0wbi1kbmVtSkRQUWN1TVVrYXljN3FScVFxR1NpSE1oT05Ua2c?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-08-13",
+          "views": "18.0K"
+        },
+        {
+          "title": "Prader-Willi experts flag safety risks linked to Neurocrine's rare disease drug - reuters.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOUHpjZ3JJLW02dWN5c1Z3N1hXUExHN1czcGxvRnR0bEQ4WHp0YzFOWlQ2Y193UmxNcl9BLTJHbnFDd0VpUS1INDN6d1EyYnFBUFlGaTJlOUFlUG5HWDA0ZE05dk9NVlEtQmlCazhJQlY2UVByZ1B2R3ZJZEJ4VHFGV3FLNmE0MTVBNk1EMGV5X3ZGRG5NbkR3SnZ0RmtURTRxSDMya3g5VEpybzF2ZzIxa3cyaDR3d3RuV3k3V2xGWVk2YzVraHYw?oc=5\" target=\"_blank\">Prader-Willi experts flag safety risks linked to Neurocrine's rare disease drug</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUHpjZ3JJLW02dWN5c1Z3N1hXUExHN1czcGxvRnR0bEQ4WHp0YzFOWlQ2Y193UmxNcl9BLTJHbnFDd0VpUS1INDN6d1EyYnFBUFlGaTJlOUFlUG5HWDA0ZE05dk9NVlEtQmlCazhJQlY2UVByZ1B2R3ZJZEJ4VHFGV3FLNmE0MTVBNk1EMGV5X3ZGRG5NbkR3SnZ0RmtURTRxSDMya3g5VEpybzF2ZzIxa3cyaDR3d3RuV3k3V2xGWVk2YzVraHYw?oc=5",
           "source": "Reuters AI",
           "publishedAt": "2026-08-12",
           "views": "18.0K"
         },
         {
-          "title": "EXCLUSIVE: India seizes thousands of Diageo whisky, vodka bottles in food safety crackdown - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcWVWaVdOVF94TXZTT0ZTWE5YaE92YjU1UGV3aGdOWHRSMHA4RWEwbmVWY24wcTUyRERtT1hkM0NMLW5YbVdQVXdKcTRxem1vaUhITHRzOFZuRnRmX3RYbWxVNGxDekZwc3FLazlaWHRMdWhlR3E5UG9sZGwzV1hoU3ZMSHg0NlhoYjNOVlc4VUtnQlE2U1VtTmFYM0ZBbkluamVwNWlISlVueGNtZGNXT29McjJNZzNfY09EVnNhSFluRGM?oc=5\" target=\"_blank\">EXCLUSIVE: India seizes thousands of Diageo whisky, vodka bottles in food safety crackdown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "title": "EXCLUSIVE: India seizes thousands of Diageo whisky, vodka bottles in food safety crackdown - reuters.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcWVWaVdOVF94TXZTT0ZTWE5YaE92YjU1UGV3aGdOWHRSMHA4RWEwbmVWY24wcTUyRERtT1hkM0NMLW5YbVdQVXdKcTRxem1vaUhITHRzOFZuRnRmX3RYbWxVNGxDekZwc3FLazlaWHRMdWhlR3E5UG9sZGwzV1hoU3ZMSHg0NlhoYjNOVlc4VUtnQlE2U1VtTmFYM0ZBbkluamVwNWlISlVueGNtZGNXT29McjJNZzNfY09EVnNhSFluRGM?oc=5\" target=\"_blank\">EXCLUSIVE: India seizes thousands of Diageo whisky, vodka bottles in food safety crackdown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcWVWaVdOVF94TXZTT0ZTWE5YaE92YjU1UGV3aGdOWHRSMHA4RWEwbmVWY24wcTUyRERtT1hkM0NMLW5YbVdQVXdKcTRxem1vaUhITHRzOFZuRnRmX3RYbWxVNGxDekZwc3FLazlaWHRMdWhlR3E5UG9sZGwzV1hoU3ZMSHg0NlhoYjNOVlc4VUtnQlE2U1VtTmFYM0ZBbkluamVwNWlISlVueGNtZGNXT29McjJNZzNfY09EVnNhSFluRGM?oc=5",
           "source": "Reuters AI",
-          "publishedAt": "2026-08-10",
-          "views": "18.0K"
-        },
-        {
-          "title": "The AI safety test is becoming a safety risk - TechCrunch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2Y4VVpMVDBscWktWGlhaWRBSFN0cFQwM3JIY05QZW1rQ3laTU81eU14N2NDV2pSRC15R1RvNlNXY1Fxa1V2dEU4dzR4TWJqWWdGZHFtV0I0RlF2cWxrYzFPODRnODh5eUhOOUJ4Ulk4T2Nqdk9DNWZ2SFhaekZGdURwMHlZZw?oc=5\" target=\"_blank\">The AI safety test is becoming a safety risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN2Y4VVpMVDBscWktWGlhaWRBSFN0cFQwM3JIY05QZW1rQ3laTU81eU14N2NDV2pSRC15R1RvNlNXY1Fxa1V2dEU4dzR4TWJqWWdGZHFtV0I0RlF2cWxrYzFPODRnODh5eUhOOUJ4Ulk4T2Nqdk9DNWZ2SFhaekZGdURwMHlZZw?oc=5",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-08-09",
+          "publishedAt": "2026-08-11",
           "views": "18.0K"
         }
       ]
@@ -142,27 +142,27 @@
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
         {
-          "title": "US labor market stable; worker productivity accelerates in second quarter - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPTTJpcnp3M3Zob2xWSjlneXRmc25pWUNJZms0SWxPVzhXV1dLX1RRaFp5VHBQZTRDaFA4TGhWSE5STWx4YVBZN1dMcDlRYTNfbXhORk9PYldJaTREcWotSnkzZVAwanVEQ2V5SHdrTVRSZDgzbV9DNW5DbGhkdW8xeXhsdWM4YTQtLS1TNUxDV2dWUnQ5Vk9BaUY1eDdiSzBHc054ZTdVRXFaNW80Z01BQ1BKS3E?oc=5\" target=\"_blank\">US labor market stable; worker productivity accelerates in second quarter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTTJpcnp3M3Zob2xWSjlneXRmc25pWUNJZms0SWxPVzhXV1dLX1RRaFp5VHBQZTRDaFA4TGhWSE5STWx4YVBZN1dMcDlRYTNfbXhORk9PYldJaTREcWotSnkzZVAwanVEQ2V5SHdrTVRSZDgzbV9DNW5DbGhkdW8xeXhsdWM4YTQtLS1TNUxDV2dWUnQ5Vk9BaUY1eDdiSzBHc054ZTdVRXFaNW80Z01BQ1BKS3E?oc=5",
+          "title": "India markets regulator proposes easier access to riskier investment products for overseas investors - reuters.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPSHBzY3NRd2NQNFlUZHg1Vl9PNmRrVEVqWmV3Nmo3WkMwYld4aUpnNjQ5Tk9jcVFSZHFfOWx6aWJPTFdqbjRHT1FKSHpUMzZnZGk2SzQ5NmNnOU1QZV9MMTlPNWY2OGpiamZEX1BSQS1RRWJtZjZ0LUg3Z2xpUmRmdXZ2b0Y5THhwWkFSMTFvM1RqUVYyWjhidmU5djMyZkp0bV9jSjZVck5CcDZIR1VWTTBPU3dqR3YzX1JyOVNGMXY1Y3JBbVE?oc=5\" target=\"_blank\">India markets regulator proposes easier access to riskier investment products for overseas investors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSHBzY3NRd2NQNFlUZHg1Vl9PNmRrVEVqWmV3Nmo3WkMwYld4aUpnNjQ5Tk9jcVFSZHFfOWx6aWJPTFdqbjRHT1FKSHpUMzZnZGk2SzQ5NmNnOU1QZV9MMTlPNWY2OGpiamZEX1BSQS1RRWJtZjZ0LUg3Z2xpUmRmdXZ2b0Y5THhwWkFSMTFvM1RqUVYyWjhidmU5djMyZkp0bV9jSjZVck5CcDZIR1VWTTBPU3dqR3YzX1JyOVNGMXY1Y3JBbVE?oc=5",
           "source": "Reuters AI",
-          "publishedAt": "2026-08-06",
+          "publishedAt": "2026-08-13",
           "views": "18.0K"
         },
         {
-          "title": "BOK holds $250 mil. in US gold ETF, 1st gold investment in 13 yrs - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPdURBQk5kSC1hRVlYa2plSUowaHpldGM3MEFpWXEtbWlSSGsteGxBNnVQUGVkRWpOOHA3S2xrNU5qUUZsejZjSFpOa1A2T0RoQ3Y3Y3pYaE9YazF5QzBycFN5VzNVdEV4Tk1kTUY0NDNwb1g3b2dvc3BNamFXdERHZHJ4M2dJUUZMUGtWbXlLRG00NTFBbmlYQWN6Qi01N0lYaE1VTWZOTmVmV1d50gGyAUFVX3lxTE1mSE05Y0pfRkN1MTJPTnRIM3lrOF91SmU4Q0lOLXdQU3dQd19IU19qd2J0QVprZlpuT3RwR19BZmk4TTlpdENrUWdjZDFfWENKSHlNVjh1YkY4NlRUdTQwc3Z6LWdHRk5QcGZ5Vi1CUFVwUjl3UGlQVzJsSXJzeDdWbTFGWDJ5VXNGZlJhQVU5aXZrb0xPZXA2YzJPVnlabjRhbkNmbzRkZ19GLXFZS1F4WkE?oc=5\" target=\"_blank\">BOK holds $250 mil. in US gold ETF, 1st gold investment in 13 yrs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdURBQk5kSC1hRVlYa2plSUowaHpldGM3MEFpWXEtbWlSSGsteGxBNnVQUGVkRWpOOHA3S2xrNU5qUUZsejZjSFpOa1A2T0RoQ3Y3Y3pYaE9YazF5QzBycFN5VzNVdEV4Tk1kTUY0NDNwb1g3b2dvc3BNamFXdERHZHJ4M2dJUUZMUGtWbXlLRG00NTFBbmlYQWN6Qi01N0lYaE1VTWZOTmVmV1d50gGyAUFVX3lxTE1mSE05Y0pfRkN1MTJPTnRIM3lrOF91SmU4Q0lOLXdQU3dQd19IU19qd2J0QVprZlpuT3RwR19BZmk4TTlpdENrUWdjZDFfWENKSHlNVjh1YkY4NlRUdTQwc3Z6LWdHRk5QcGZ5Vi1CUFVwUjl3UGlQVzJsSXJzeDdWbTFGWDJ5VXNGZlJhQVU5aXZrb0xPZXA2YzJPVnlabjRhbkNmbzRkZ19GLXFZS1F4WkE?oc=5",
+          "title": "BOK holds $250 mil. in US gold ETF, 1st gold investment in 13 yrs - koreatimes.co.kr",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNZkhNOWNKX0ZDdTEyT050SDN5azhfdUplOENJTi13UFN3UHdfSFNfandidEFaa2Zabk90cEdfQWZpOE05aXRDa1FnY2QxX1hDSkh5TVY4dWJGODZUVHU0MHN2ei1nR0ZOUHBmeVYtQlBVcFI5d1BpUFcybElyc3g3Vm0xRlgyeVVzRmZSYUFVOWl2a29MT2VwNmMyT1Z5Wm40YW5DZm80ZGdfRi1xWUtReFpB0gGyAUFVX3lxTE1mSE05Y0pfRkN1MTJPTnRIM3lrOF91SmU4Q0lOLXdQU3dQd19IU19qd2J0QVprZlpuT3RwR19BZmk4TTlpdENrUWdjZDFfWENKSHlNVjh1YkY4NlRUdTQwc3Z6LWdHRk5QcGZ5Vi1CUFVwUjl3UGlQVzJsSXJzeDdWbTFGWDJ5VXNGZlJhQVU5aXZrb0xPZXA2YzJPVnlabjRhbkNmbzRkZ19GLXFZS1F4WkE?oc=5\" target=\"_blank\">BOK holds $250 mil. in US gold ETF, 1st gold investment in 13 yrs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">koreatimes.co.kr</font>",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZkhNOWNKX0ZDdTEyT050SDN5azhfdUplOENJTi13UFN3UHdfSFNfandidEFaa2Zabk90cEdfQWZpOE05aXRDa1FnY2QxX1hDSkh5TVY4dWJGODZUVHU0MHN2ei1nR0ZOUHBmeVYtQlBVcFI5d1BpUFcybElyc3g3Vm0xRlgyeVVzRmZSYUFVOWl2a29MT2VwNmMyT1Z5Wm40YW5DZm80ZGdfRi1xWUtReFpB0gGyAUFVX3lxTE1mSE05Y0pfRkN1MTJPTnRIM3lrOF91SmU4Q0lOLXdQU3dQd19IU19qd2J0QVprZlpuT3RwR19BZmk4TTlpdENrUWdjZDFfWENKSHlNVjh1YkY4NlRUdTQwc3Z6LWdHRk5QcGZ5Vi1CUFVwUjl3UGlQVzJsSXJzeDdWbTFGWDJ5VXNGZlJhQVU5aXZrb0xPZXA2YzJPVnlabjRhbkNmbzRkZ19GLXFZS1F4WkE?oc=5",
           "source": "The Korea Times",
           "publishedAt": "2026-08-13",
           "views": "13.0K"
         },
         {
-          "title": "Topic: low carbon economy - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFB6ek80VnZhRWdGV2ZndU8wLWxmLVctYXUwblJBMlAtRDk0M3NweDFzM2VSMEpGZEhtY1NHTTFfN1Y2RUVQaEFkLUcwQUYxa05iRmF1X2NJTVlOWVlLOS1tUzF3VzdkNDR6emc?oc=5\" target=\"_blank\">Topic: low carbon economy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6ek80VnZhRWdGV2ZndU8wLWxmLVctYXUwblJBMlAtRDk0M3NweDFzM2VSMEpGZEhtY1NHTTFfN1Y2RUVQaEFkLUcwQUYxa05iRmF1X2NJTVlOWVlLOS1tUzF3VzdkNDR6emc?oc=5",
+          "title": "Korea Investment Holdings named preferred bidder for KDB Life Insurance - koreatimes.co.kr",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPOTBxVFM1VHBnRWs1ZWNRcFhhUzN1ZDJoWTc2NlFwRGp1bzBBbmhKb1plbmZLaWpGUXEzNUVZd19kZW5LNnNCd3R1TDBUWlV5RFRWQV91al83RDE4Yk11SHBpWXRmalcwd0FzVHB6WC10ekItUUZnMjF2OGVQYWZNOVdQSTAwdHZzSjZXSEhBc2QwallFdGZTWDJYVXRDSENGR3NJM2RGX19nM2cwd0N4Q2RfYVRfZTUzSHpWVGp0b1V5SFhkRjM0c3dCeXVPb0HSAdQBQVVfeXFMT2J2SXh2VmktUDA2bW83N1JfVkdkZXZqM2lqemJjdENuTElxcTV1eS1PbGJkTWc1YmZrb2JKNlg1d1JMVE1PSVI3c29mNVRacG9Kcll4QjhiYUN0cXN2Z2p4SWcxakJLZll3U0FqM0ZpOFJjelZHSFlueTAtQlk3cnBRcUc3OTdZWlk1OFJ5UncxNVptbXZ3UkVCSmlUR2QwcmRSQlViS1RGYTFYQ0ZJczdBRFNybUQzVW5YMks0NlRpek5ab2JIUDVNSFpzWUhiNHpWUmM?oc=5\" target=\"_blank\">Korea Investment Holdings named preferred bidder for KDB Life Insurance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">koreatimes.co.kr</font>",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOTBxVFM1VHBnRWs1ZWNRcFhhUzN1ZDJoWTc2NlFwRGp1bzBBbmhKb1plbmZLaWpGUXEzNUVZd19kZW5LNnNCd3R1TDBUWlV5RFRWQV91al83RDE4Yk11SHBpWXRmalcwd0FzVHB6WC10ekItUUZnMjF2OGVQYWZNOVdQSTAwdHZzSjZXSEhBc2QwallFdGZTWDJYVXRDSENGR3NJM2RGX19nM2cwd0N4Q2RfYVRfZTUzSHpWVGp0b1V5SFhkRjM0c3dCeXVPb0HSAdQBQVVfeXFMT2J2SXh2VmktUDA2bW83N1JfVkdkZXZqM2lqemJjdENuTElxcTV1eS1PbGJkTWc1YmZrb2JKNlg1d1JMVE1PSVI3c29mNVRacG9Kcll4QjhiYUN0cXN2Z2p4SWcxakJLZll3U0FqM0ZpOFJjelZHSFlueTAtQlk3cnBRcUc3OTdZWlk1OFJ5UncxNVptbXZ3UkVCSmlUR2QwcmRSQlViS1RGYTFYQ0ZJczdBRFNybUQzVW5YMks0NlRpek5ab2JIUDVNSFpzWUhiNHpWUmM?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-08-12",
+          "publishedAt": "2026-08-13",
           "views": "13.0K"
         }
       ]
@@ -173,27 +173,27 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
-          "title": "Samsung completes new HVAC manufacturing facility in India - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNaTZjZ2NSLXdTR1lBd0FFYkFqTHFBSUtWM1NZZGR5YlBYMlFhMEx0OEtGQVNNVEl0bmVBdEsxWTZwS1RkanZubFZmUS1kTU9XbVh6N3FGMVhlMXVSSGJ1R1JuMlhZdkwxeXFRWXdMWDFUeWJVT1IzSEFRMVlzLUJXeGV5MVl5bGJPd01qaDNIRnZjMEYwYnJ2V1o3cC1WMm1SM0lWUVFZUm51aFhjNVJ5Vlk1bVRFZ9IBuwFBVV95cUxQM1dDaGZ5RFFoU1ZFVGhHcVgyYkp5b1JXcDU3WWFWeWwzVVZCVTd2bzJZd3BxUEVXamlDMHFaNnR5Qml4WldXQXBva0hZRmZWNDVtdFFUQ19ITG1EdkRvcnNrSWdsX2tHVU9lTG1Rdi1VeGxQS0Y1WGUxNng2NEhOMjl0TklhM2dYeEtkbVdrTU5QeE95UnUtdW1LNnRFanZTQTA4RzRIdm1EdzlnVkVTOW1CcmV4NGNDZjl3?oc=5\" target=\"_blank\">Samsung completes new HVAC manufacturing facility in India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaTZjZ2NSLXdTR1lBd0FFYkFqTHFBSUtWM1NZZGR5YlBYMlFhMEx0OEtGQVNNVEl0bmVBdEsxWTZwS1RkanZubFZmUS1kTU9XbVh6N3FGMVhlMXVSSGJ1R1JuMlhZdkwxeXFRWXdMWDFUeWJVT1IzSEFRMVlzLUJXeGV5MVl5bGJPd01qaDNIRnZjMEYwYnJ2V1o3cC1WMm1SM0lWUVFZUm51aFhjNVJ5Vlk1bVRFZ9IBuwFBVV95cUxQM1dDaGZ5RFFoU1ZFVGhHcVgyYkp5b1JXcDU3WWFWeWwzVVZCVTd2bzJZd3BxUEVXamlDMHFaNnR5Qml4WldXQXBva0hZRmZWNDVtdFFUQ19ITG1EdkRvcnNrSWdsX2tHVU9lTG1Rdi1VeGxQS0Y1WGUxNng2NEhOMjl0TklhM2dYeEtkbVdrTU5QeE95UnUtdW1LNnRFanZTQTA4RzRIdm1EdzlnVkVTOW1CcmV4NGNDZjl3?oc=5",
+          "title": "N. Korea warns of bolstering nuclear deterrent over US' new nuclear strategy - koreatimes.co.kr",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUkJJRFM2SkNtR1hua1Vnblo0WS1wRG5IdUdpYVBHTk9uSnZOSFI0ZG5DeHhDVWtONk13WlRyTjFmd0kwMkFvbDktbzNWSkowaWZyNUVkemhORE0xcU1PM1QwNkx4YTNXS3RtM051aXA3ZnVpUl9rTXh0eWFQWVNNNFdPVmR5OG94RGk4c2Q2VjEwOHF5TVBmOEljSWFVRmZCMlpXMGNjTjdIa0JKaWc2T3MwcC1sSEtjVXVPMnZuMmhkVXE1SjV2U0FGUk5MM3gzYUNjTdIB2gFBVV95cUxPdnZoTmladkZLT09GOU1HUVRsTVlyOWljemdFOUhwQ3l4WnVhd2ktbGQ0RF9fVVdpNXUtdFVjVjRIQmZ5ZFdFRWJ5M0FyYnFEZ1M0cXNERm5nck5BRlVGUkh4X2NXc29NUmxyYW9GZG9fakFJdVM1Yjc3ZExXUy0wWlF4STFEdVB3b0ptZGpBNV94UHJacmg3c0JWbnNldkNCTFpvTXBwS0t5QUZNaUlHdklOc1g0Q0NQUEd5RGUxaGp3QmJvd0c5Qjg2REZNNnEwVUlkNWd2VWZwdw?oc=5\" target=\"_blank\">N. Korea warns of bolstering nuclear deterrent over US' new nuclear strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">koreatimes.co.kr</font>",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUkJJRFM2SkNtR1hua1Vnblo0WS1wRG5IdUdpYVBHTk9uSnZOSFI0ZG5DeHhDVWtONk13WlRyTjFmd0kwMkFvbDktbzNWSkowaWZyNUVkemhORE0xcU1PM1QwNkx4YTNXS3RtM051aXA3ZnVpUl9rTXh0eWFQWVNNNFdPVmR5OG94RGk4c2Q2VjEwOHF5TVBmOEljSWFVRmZCMlpXMGNjTjdIa0JKaWc2T3MwcC1sSEtjVXVPMnZuMmhkVXE1SjV2U0FGUk5MM3gzYUNjTdIB2gFBVV95cUxPdnZoTmladkZLT09GOU1HUVRsTVlyOWljemdFOUhwQ3l4WnVhd2ktbGQ0RF9fVVdpNXUtdFVjVjRIQmZ5ZFdFRWJ5M0FyYnFEZ1M0cXNERm5nck5BRlVGUkh4X2NXc29NUmxyYW9GZG9fakFJdVM1Yjc3ZExXUy0wWlF4STFEdVB3b0ptZGpBNV94UHJacmg3c0JWbnNldkNCTFpvTXBwS0t5QUZNaUlHdklOc1g0Q0NQUEd5RGUxaGp3QmJvd0c5Qjg2REZNNnEwVUlkNWd2VWZwdw?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-08-14",
+          "views": "13.0K"
+        },
+        {
+          "title": "Colby says US nuclear strategy aimed at deterring use of nuclear weapons - koreatimes.co.kr",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPbGFKZEpCUm1CR2JaNFZqWFZZWTh3TXRWUV9ZNzJMeUFEcFRtQ1NaamZSNnBwMmg1LUJSdWNWbHdwbXFtQldZN3Z6WjRlUnVOWklSNVUwSTBlRTBrV1ptVmFlSG9RYXM3QzVBanhBUWJESVdoeFBCRDBUb1lkQ0FKdDRtQ3RGZUNXbjE5V2s3c0xCdkFJVkhiNDNoNEdLV3Z5S2pLZUVldEp5dFVuTy12R3M4bGZlczjSAbwBQVVfeXFMTVdqX1hVdE1yRUxzMDAzNGZ0VkFiQ21qSkNGT0t0LWpWUUdrakdrczZTbU9nempES2o5RGlUZjVxeDV0RzdxdHg1WnZxZW9RZ2lJMnYyR2FHZThrbmpmQU1SOE5tRjdiZnhYRlRaR2dLMzhCOW5QZEhhOHhZeXRSWjh2Z2pBSXF6SkV1cmhERjJad0JKMDJMNHhXOC0zRFVjZVVHcFF2X0lSX09sYm1jdDFidThuTEl2RnpWREo?oc=5\" target=\"_blank\">Colby says US nuclear strategy aimed at deterring use of nuclear weapons</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">koreatimes.co.kr</font>",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbGFKZEpCUm1CR2JaNFZqWFZZWTh3TXRWUV9ZNzJMeUFEcFRtQ1NaamZSNnBwMmg1LUJSdWNWbHdwbXFtQldZN3Z6WjRlUnVOWklSNVUwSTBlRTBrV1ptVmFlSG9RYXM3QzVBanhBUWJESVdoeFBCRDBUb1lkQ0FKdDRtQ3RGZUNXbjE5V2s3c0xCdkFJVkhiNDNoNEdLV3Z5S2pLZUVldEp5dFVuTy12R3M4bGZlczjSAbwBQVVfeXFMTVdqX1hVdE1yRUxzMDAzNGZ0VkFiQ21qSkNGT0t0LWpWUUdrakdrczZTbU9nempES2o5RGlUZjVxeDV0RzdxdHg1WnZxZW9RZ2lJMnYyR2FHZThrbmpmQU1SOE5tRjdiZnhYRlRaR2dLMzhCOW5QZEhhOHhZeXRSWjh2Z2pBSXF6SkV1cmhERjJad0JKMDJMNHhXOC0zRFVjZVVHcFF2X0lSX09sYm1jdDFidThuTEl2RnpWREo?oc=5",
           "source": "The Korea Times",
           "publishedAt": "2026-08-13",
           "views": "13.0K"
         },
         {
-          "title": "US Curbs Chinese Telecom Parts, Online Sales; Korean Firms Watch Impact - ETNEWS",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBmS2dabDFaRUt4TlNIa19tRzJma2tHMGJjbTQtSXhxRk9QYk9sWEtTQnBlN1hON1lObzlQNUQ3QVZnUTJaUThoVnZ5MWM?oc=5\" target=\"_blank\">US Curbs Chinese Telecom Parts, Online Sales; Korean Firms Watch Impact</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBmS2dabDFaRUt4TlNIa19tRzJma2tHMGJjbTQtSXhxRk9QYk9sWEtTQnBlN1hON1lObzlQNUQ3QVZnUTJaUThoVnZ5MWM?oc=5",
-          "source": "전자신문",
-          "publishedAt": "2026-08-12",
-          "views": "13.0K"
-        },
-        {
-          "title": "U.S. Imposes 15% Polysilicon Tariff…Industry Begins Countermeasures - ETNEWS",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBfOFlfb2dXYzB4dlE4MmF6WUZCcHU4STRuOXdiNTdkR0JuVlVDdmZFWE1uREpCalJHUDdPdXBNTjJSbm9kRG96VVNkSXk?oc=5\" target=\"_blank\">U.S. Imposes 15% Polysilicon Tariff…Industry Begins Countermeasures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBfOFlfb2dXYzB4dlE4MmF6WUZCcHU4STRuOXdiNTdkR0JuVlVDdmZFWE1uREpCalJHUDdPdXBNTjJSbm9kRG96VVNkSXk?oc=5",
-          "source": "전자신문",
-          "publishedAt": "2026-08-12",
+          "title": "Samsung completes new HVAC manufacturing facility in India - koreatimes.co.kr",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM1dDaGZ5RFFoU1ZFVGhHcVgyYkp5b1JXcDU3WWFWeWwzVVZCVTd2bzJZd3BxUEVXamlDMHFaNnR5Qml4WldXQXBva0hZRmZWNDVtdFFUQ19ITG1EdkRvcnNrSWdsX2tHVU9lTG1Rdi1VeGxQS0Y1WGUxNng2NEhOMjl0TklhM2dYeEtkbVdrTU5QeE95UnUtdW1LNnRFanZTQTA4RzRIdm1EdzlnVkVTOW1CcmV4NGNDZjl30gG7AUFVX3lxTFAzV0NoZnlEUWhTVkVUaEdxWDJiSnlvUldwNTdZYVZ5bDNVVkJVN3ZvMll3cHFQRVdqaUMwcVo2dHlCaXhaV1dBcG9rSFlGZlY0NW10UVRDX0hMbUR2RG9yc2tJZ2xfa0dVT2VMbVF2LVV4bFBLRjVYZTE2eDY0SE4yOXROSWEzZ1h4S2RtV2tNTlB4T3lSdS11bUs2dEVqdlNBMDhHNEh2bUR3OWdWRVM5bUJyZXg0Y0NmOXc?oc=5\" target=\"_blank\">Samsung completes new HVAC manufacturing facility in India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">koreatimes.co.kr</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM1dDaGZ5RFFoU1ZFVGhHcVgyYkp5b1JXcDU3WWFWeWwzVVZCVTd2bzJZd3BxUEVXamlDMHFaNnR5Qml4WldXQXBva0hZRmZWNDVtdFFUQ19ITG1EdkRvcnNrSWdsX2tHVU9lTG1Rdi1VeGxQS0Y1WGUxNng2NEhOMjl0TklhM2dYeEtkbVdrTU5QeE95UnUtdW1LNnRFanZTQTA4RzRIdm1EdzlnVkVTOW1CcmV4NGNDZjl30gG7AUFVX3lxTFAzV0NoZnlEUWhTVkVUaEdxWDJiSnlvUldwNTdZYVZ5bDNVVkJVN3ZvMll3cHFQRVdqaUMwcVo2dHlCaXhaV1dBcG9rSFlGZlY0NW10UVRDX0hMbUR2RG9yc2tJZ2xfa0dVT2VMbVF2LVV4bFBLRjVYZTE2eDY0SE4yOXROSWEzZ1h4S2RtV2tNTlB4T3lSdS11bUs2dEVqdlNBMDhHNEh2bUR3OWdWRVM5bUJyZXg0Y0NmOXc?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-08-13",
           "views": "13.0K"
         }
       ]
