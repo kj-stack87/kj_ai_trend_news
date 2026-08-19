@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T01:48:29.370Z",
+  "lastUpdated": "2026-08-19T01:50:59.891Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,6 +49,14 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
+          "title": "- WIRED",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AJBVV95cUxPdzBPWGRHWDE0Y1BjcmtCNFVMOVdJdnhsdG5rZG5ueFc5MlZJNHFKVVltWVBwRUt5NWh4V1NtWF9sOVp1X1Qxd3Q2b3dfal9RV1c3NzZIWFZJY2xXNUszYmJPWDNnbHQ3bENjYWZUYU50YUsweHVfMTllSVNiOGQ1RlU5cXlIbTRxaGxXWXRMSGF3OExKcUtPQTVWdHdicHloMGZWRW1mUHhhY0RzMEFrWmkwelB1U09XdUdPSkhIRk94YlJ3b0hocjgzNjg0TzRzVzVuakI1eng5ajBuanJ6RTZVN3FHNFJCOEJvUzhnTHBLZ1dSMGtPV3RlMVd2Sl9WTGptRDRQS1I2ZUhjQjh4Z0RQNXM4OEhfYjhFeVgtNWxWNTNIMWpLaVlteS1iUG5sQWZ2UG9ZLURHMkk1blZsNUkzUUJaNXdwRkhwampjQVktc2NhdTBSN3ZHTF90dllM?oc=5\" target=\"_blank\"></a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+          "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPdzBPWGRHWDE0Y1BjcmtCNFVMOVdJdnhsdG5rZG5ueFc5MlZJNHFKVVltWVBwRUt5NWh4V1NtWF9sOVp1X1Qxd3Q2b3dfal9RV1c3NzZIWFZJY2xXNUszYmJPWDNnbHQ3bENjYWZUYU50YUsweHVfMTllSVNiOGQ1RlU5cXlIbTRxaGxXWXRMSGF3OExKcUtPQTVWdHdicHloMGZWRW1mUHhhY0RzMEFrWmkwelB1U09XdUdPSkhIRk94YlJ3b0hocjgzNjg0TzRzVzVuakI1eng5ajBuanJ6RTZVN3FHNFJCOEJvUzhnTHBLZ1dSMGtPV3RlMVd2Sl9WTGptRDRQS1I2ZUhjQjh4Z0RQNXM4OEhfYjhFeVgtNWxWNTNIMWpLaVlteS1iUG5sQWZ2UG9ZLURHMkk1blZsNUkzUUJaNXdwRkhwampjQVktc2NhdTBSN3ZHTF90dllM?oc=5",
+          "source": "WIRED AI",
+          "publishedAt": "2026-08-14",
+          "views": "18.0K"
+        },
+        {
           "title": "Google unveils Gemini 3.7 Flash AI model for coding, agent workflows - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdlZyeUlWQWJSd1dqa0pMcjIxUE9wYTlBbGxna3g5QWt5aXIzSENaOWsxYTk4RkE1NXhfdmd0eEVSckF6ak9mQThZbHo3LXlFZHRGcVhRcHZtWUxoOF8tR3laa0xQalI0eWFxSGVqR0ZXTkpJVkVlUmwtRmFpMS1aeDRnY3F6Q0liN0E1Y1BkSi1oUWZJTTd3SmhzLXprZFB0SHNGY2NZbmE1bW8?oc=5\" target=\"_blank\">Google unveils Gemini 3.7 Flash AI model for coding, agent workflows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdlZyeUlWQWJSd1dqa0pMcjIxUE9wYTlBbGxna3g5QWt5aXIzSENaOWsxYTk4RkE1NXhfdmd0eEVSckF6ak9mQThZbHo3LXlFZHRGcVhRcHZtWUxoOF8tR3laa0xQalI0eWFxSGVqR0ZXTkpJVkVlUmwtRmFpMS1aeDRnY3F6Q0liN0E1Y1BkSi1oUWZJTTd3SmhzLXprZFB0SHNGY2NZbmE1bW8?oc=5",
@@ -57,19 +65,11 @@
           "views": "18.0K"
         },
         {
-          "title": "Qwen3.8-27B runs frontier-class coding agents and reasoning on a high-end laptop, no cloud API required - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY2NGbjBLTlVBVkRSckJQaXM3MlVaREhiM2dPWmZVdmhBQ3BOa2VST3AtWEdPVVFoeUxFcGxhenV1R0tybjZndktrVW90OVBXVUc3X3RjZFMtWHZEN2Y5N3l6YmxET3h0Z28tTmFqTGt6U2FfODA3UVNzLVQxdjJ1T3RTY0lXeFBDQ2JPMFJQbkhVSFpKdDhXc0xvNVF5aVo2NExkU1VHblF1a1psaFZFTVlDRlZVdjJnNkw5VlBkeGgzUQ?oc=5\" target=\"_blank\">Qwen3.8-27B runs frontier-class coding agents and reasoning on a high-end laptop, no cloud API required</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY2NGbjBLTlVBVkRSckJQaXM3MlVaREhiM2dPWmZVdmhBQ3BOa2VST3AtWEdPVVFoeUxFcGxhenV1R0tybjZndktrVW90OVBXVUc3X3RjZFMtWHZEN2Y5N3l6YmxET3h0Z28tTmFqTGt6U2FfODA3UVNzLVQxdjJ1T3RTY0lXeFBDQ2JPMFJQbkhVSFpKdDhXc0xvNVF5aVo2NExkU1VHblF1a1psaFZFTVlDRlZVdjJnNkw5VlBkeGgzUQ?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-08-18",
-          "views": "13.0K"
-        },
-        {
-          "title": "Trump seeks to scale down joint drills in bid to lure Kim back to talks, experts say - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeHBpNXpvS2RDNmdhWXRuc3hqOUtJcXRENHFKQkxlYzloRVBjRTdkSFF0RXZhMWU0YXVvUnBDaXB2MVhkWmh2cVl3bG9CZFNsOE80N0QxTG0tU3hwVHVsQ1BzQ2M3ZnBuWlFnZVNaVDJibktGYW91TTAxeDVDRDBkRjVnYXpxYXYzMmhxVFpHTk5aYllOVWszOGxqZ1o1NU5JQ0lSRjBaY0xRZ3pzQ3lMSm80Qm5SZGJ2T2RadTEzUU91QWU3TERWVFBxSXZFdGU2THQxSFo0VdIB3AFBVV95cUxNa194RUxoeUhLeEdGNzQ0TTVNdDYwNEdYaFlNN2p6eFFocXptUVhwczl1N3RTYVF3cGtmNnVCOHFVZk5HLXdIQ2tuS19oQUlKMG9WRU4tc29kd3BjT0hzQVZ5TEVjRG84OEpzbUlLMjlidDdhc1NvVU9VMGlSQXdvQ29yeXpGX3JiRTZoRjBtaGx0RXBSTTUxN3BJNmp6c3VLYTF3STlYQmJNNUFFcDNHcVlabXByUlFManVWajh6a0dTZjROLVhJM3JuN3FUMnNCZEg5dUUyd3pnZ2xG?oc=5\" target=\"_blank\">Trump seeks to scale down joint drills in bid to lure Kim back to talks, experts say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeHBpNXpvS2RDNmdhWXRuc3hqOUtJcXRENHFKQkxlYzloRVBjRTdkSFF0RXZhMWU0YXVvUnBDaXB2MVhkWmh2cVl3bG9CZFNsOE80N0QxTG0tU3hwVHVsQ1BzQ2M3ZnBuWlFnZVNaVDJibktGYW91TTAxeDVDRDBkRjVnYXpxYXYzMmhxVFpHTk5aYllOVWszOGxqZ1o1NU5JQ0lSRjBaY0xRZ3pzQ3lMSm80Qm5SZGJ2T2RadTEzUU91QWU3TERWVFBxSXZFdGU2THQxSFo0VdIB3AFBVV95cUxNa194RUxoeUhLeEdGNzQ0TTVNdDYwNEdYaFlNN2p6eFFocXptUVhwczl1N3RTYVF3cGtmNnVCOHFVZk5HLXdIQ2tuS19oQUlKMG9WRU4tc29kd3BjT0hzQVZ5TEVjRG84OEpzbUlLMjlidDdhc1NvVU9VMGlSQXdvQ29yeXpGX3JiRTZoRjBtaGx0RXBSTTUxN3BJNmp6c3VLYTF3STlYQmJNNUFFcDNHcVlabXByUlFManVWajh6a0dTZjROLVhJM3JuN3FUMnNCZEg5dUUyd3pnZ2xG?oc=5",
+          "title": "Hyundai Motor takes wraps off fully redesigned Tucson SUV - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPOFNRelNsX2Fnc0YzbGRuVUV4blVVSWxOa0pEVVlBWGgxdlBjV0ZyNnBpSXhEMmhSenI0VkJkRnU0b0I3U2ZSaFJxeGQtc0oxcWgyVktxM2p5UnB4VEFLX3RYZjExT0pzZGl0eTdFekdHMW4wZW1SczZLeUJXTER5SXYtbzlTdDBUanl3VFVUVXVaZUhPejBiSzhmVllmYnFyV3NleWVOTkp2UXBJeEFLVWtqSDfSAboBQVVfeXFMTTlkWEFIelFiUENCUXFPNmdWdnh4MjFxNjhZcGh4MTltRkk4SDgyZlVrcElPYUF1RTJyTE1iTnB3ZU5sYVdpWXlPOVk1TmRhbUEyMjVFN3IyZi05QW9oV0Jkal9ncXcya3JpM1plSTRXRlNzR0JyVGVmbS0yLXY4bGVvUWpvcmZ1UVd3cVdROTV1d1VkejdTUWIyaFBGdzZjYXZ1Q21tWUJHMmVZMXV4UjQtdEVNa1B3Y0hn?oc=5\" target=\"_blank\">Hyundai Motor takes wraps off fully redesigned Tucson SUV</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOFNRelNsX2Fnc0YzbGRuVUV4blVVSWxOa0pEVVlBWGgxdlBjV0ZyNnBpSXhEMmhSenI0VkJkRnU0b0I3U2ZSaFJxeGQtc0oxcWgyVktxM2p5UnB4VEFLX3RYZjExT0pzZGl0eTdFekdHMW4wZW1SczZLeUJXTER5SXYtbzlTdDBUanl3VFVUVXVaZUhPejBiSzhmVllmYnFyV3NleWVOTkp2UXBJeEFLVWtqSDfSAboBQVVfeXFMTTlkWEFIelFiUENCUXFPNmdWdnh4MjFxNjhZcGh4MTltRkk4SDgyZlVrcElPYUF1RTJyTE1iTnB3ZU5sYVdpWXlPOVk1TmRhbUEyMjVFN3IyZi05QW9oV0Jkal9ncXcya3JpM1plSTRXRlNzR0JyVGVmbS0yLXY4bGVvUWpvcmZ1UVd3cVdROTV1d1VkejdTUWIyaFBGdzZjYXZ1Q21tWUJHMmVZMXV4UjQtdEVNa1B3Y0hn?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-08-17",
+          "publishedAt": "2026-08-19",
           "views": "13.0K"
         }
       ]
@@ -79,6 +79,14 @@
       "hashtag": "#활용사례",
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
+        {
+          "title": "Alvys launches AI agents for freight TMS workflows - AI News",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ2QzX1QtRzR1dUkydEt0MkFBUkFzTU9XQkxUQkpjeFV6eU9FVW1pa0RvZlE2Sl9OVGhyYzd3WXE3UGluNDVFS1h1bHltVlZCUlozUlRIcTRnejB3WTZSUnJtUTJLandKdnJZcjhlY1hueDlhRVk2eUt5cjN6Nmx5ZFNRMA?oc=5\" target=\"_blank\">Alvys launches AI agents for freight TMS workflows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI News</font>",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ2QzX1QtRzR1dUkydEt0MkFBUkFzTU9XQkxUQkpjeFV6eU9FVW1pa0RvZlE2Sl9OVGhyYzd3WXE3UGluNDVFS1h1bHltVlZCUlozUlRIcTRnejB3WTZSUnJtUTJLandKdnJZcjhlY1hueDlhRVk2eUt5cjN6Nmx5ZFNRMA?oc=5",
+          "source": "AI News",
+          "publishedAt": "2026-08-18",
+          "views": "18.0K"
+        },
         {
           "title": "As enterprises confront AI agent sprawl, xpander wants them to own their own control and context layer - VentureBeat",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdTBOa1RscFd6RTB6RFRlcl90RW9KaDdBY0p3bUYwZ3RTUHBrM2drUTJSaW5BblcyaDBxRU9jS1VBNU1NVXRvZ2xnamxvczNrMEYtWldUdXAwUGRIaXVEUHBfcDhxODZXdzZYOXVWYU1YV0huTGpjbndncjJJOFUwMVcwdkRsdjJyV3VrbFcxa3dVeWdpMTdKZDdnNGx0dEJSeVpGeFBYX0NfMDBTZDg5Ymk0aXZFY296bmh6V2NzUjdqWkF3b3dvUVFRb0RxbXd3QzNXNHFB?oc=5\" target=\"_blank\">As enterprises confront AI agent sprawl, xpander wants them to own their own control and context layer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
@@ -94,14 +102,6 @@
           "source": "VentureBeat AI",
           "publishedAt": "2026-08-17",
           "views": "18.0K"
-        },
-        {
-          "title": "Google unveils Gemini 3.7 Flash AI model for coding, agent workflows - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdlZyeUlWQWJSd1dqa0pMcjIxUE9wYTlBbGxna3g5QWt5aXIzSENaOWsxYTk4RkE1NXhfdmd0eEVSckF6ak9mQThZbHo3LXlFZHRGcVhRcHZtWUxoOF8tR3laa0xQalI0eWFxSGVqR0ZXTkpJVkVlUmwtRmFpMS1aeDRnY3F6Q0liN0E1Y1BkSi1oUWZJTTd3SmhzLXprZFB0SHNGY2NZbmE1bW8?oc=5\" target=\"_blank\">Google unveils Gemini 3.7 Flash AI model for coding, agent workflows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdlZyeUlWQWJSd1dqa0pMcjIxUE9wYTlBbGxna3g5QWt5aXIzSENaOWsxYTk4RkE1NXhfdmd0eEVSckF6ak9mQThZbHo3LXlFZHRGcVhRcHZtWUxoOF8tR3laa0xQalI0eWFxSGVqR0ZXTkpJVkVlUmwtRmFpMS1aeDRnY3F6Q0liN0E1Y1BkSi1oUWZJTTd3SmhzLXprZFB0SHNGY2NZbmE1bW8?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-08-13",
-          "views": "18.0K"
         }
       ]
     },
@@ -111,6 +111,14 @@
       "description": "규제, 책임, 신뢰, 저작권 같은 문제를 보는 관점",
       "items": [
         {
+          "title": "OpenAI unveils ChatGPT for Teens with stronger guardrails to tackle safety risks - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOVlMzd203czRIQzl2a0RlczBUQnFHcklwTnNqc3hfdHNBSW5QdFVReFJZdTFBM1pvUGlLeWZJWUVHTHlzMUdTbHVBNXI1OWM2Q2FtS0ZON3hEcENqQ3J5Z0RvOFgwdm9FZzY0b3RfWlJIMmtINHZtQmdQYlplbi1rS3hkVGw3TXN3RThwZ3EwQzI0N2ZVVTN3WVBWVWI4c29wdGllRl9Pd09YTGxaRWxudHdZQmRaSFc4SEE?oc=5\" target=\"_blank\">OpenAI unveils ChatGPT for Teens with stronger guardrails to tackle safety risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVlMzd203czRIQzl2a0RlczBUQnFHcklwTnNqc3hfdHNBSW5QdFVReFJZdTFBM1pvUGlLeWZJWUVHTHlzMUdTbHVBNXI1OWM2Q2FtS0ZON3hEcENqQ3J5Z0RvOFgwdm9FZzY0b3RfWlJIMmtINHZtQmdQYlplbi1rS3hkVGw3TXN3RThwZ3EwQzI0N2ZVVTN3WVBWVWI4c29wdGllRl9Pd09YTGxaRWxudHdZQmRaSFc4SEE?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-08-18",
+          "views": "18.0K"
+        },
+        {
           "title": "Shein loses UK copyright lawsuit against rival Temu in key e-commerce ruling - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOMFdCWm05MXVPcGVJM0JLeGszcGJsdVM0aUZIUEladkFoRzAtR25qdlpiVzkzaGIzUXREaVZ5cUt0aElmVUl1UEdmeU1yZjJLUmlxNXJ5RmRvQzZrYnZyOFhDUDVkUEhPb2FpY0p4RFV1X0RDVDFwS3FidXRXODJjdUpnbGN4X0pINk1mT0xHMm0wbi1kbmVtSkRQUWN1TVVrYXljN3FScVFxR1NpSE1oT05Ua2c?oc=5\" target=\"_blank\">Shein loses UK copyright lawsuit against rival Temu in key e-commerce ruling</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMFdCWm05MXVPcGVJM0JLeGszcGJsdVM0aUZIUEladkFoRzAtR25qdlpiVzkzaGIzUXREaVZ5cUt0aElmVUl1UEdmeU1yZjJLUmlxNXJ5RmRvQzZrYnZyOFhDUDVkUEhPb2FpY0p4RFV1X0RDVDFwS3FidXRXODJjdUpnbGN4X0pINk1mT0xHMm0wbi1kbmVtSkRQUWN1TVVrYXljN3FScVFxR1NpSE1oT05Ua2c?oc=5",
@@ -119,20 +127,12 @@
           "views": "18.0K"
         },
         {
-          "title": "Lee says state's primary duty is to protect people's lives, safety - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNUmczcS1HMU5EaFdoVTRITnc4LTFRYXVMNk9oVkduMWxXcVlGUXk0dDJDVkRBSFpYUUVheXJKYllOa1RCdklST1hrUEgtbjBoQllqaEE3QWlNRF9WaFV4Tk1LaWxVRjNSeVNUQkxWcEtObUtuRlVveHM5VHRicHI2SHc0dFJOWDVmWm9fT25qRHlIc0o3b2k1OWRyYUdaeUtnYU1wdTFnLVN3ci1MSk01NE9VT0s1RGlmVi13UTNR0gHDAUFVX3lxTE1nTXFOMDdTeDlvamFCSENoZjB5ZTJxTDlVaVY4SUlMc3A1NzFBV2N1akpLVDNLMTJtMGJuVzZWOXBNRktmeHZVZ1hXNzkyRFg5Q1JyT24wTnpOWHN0b29nX0dTWWQtdWJ0b1V6Slc0dGx1S2U2UVVRRDBPUzVHcURxRjJid2prS2xUSndTNURGeWJFM0NKT3NReFllZWh6eDc4OVhxWG02RFJBX2thYVhFVGM2eHoyMlRGS0FYRlNZNHZ2RQ?oc=5\" target=\"_blank\">Lee says state's primary duty is to protect people's lives, safety</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUmczcS1HMU5EaFdoVTRITnc4LTFRYXVMNk9oVkduMWxXcVlGUXk0dDJDVkRBSFpYUUVheXJKYllOa1RCdklST1hrUEgtbjBoQllqaEE3QWlNRF9WaFV4Tk1LaWxVRjNSeVNUQkxWcEtObUtuRlVveHM5VHRicHI2SHc0dFJOWDVmWm9fT25qRHlIc0o3b2k1OWRyYUdaeUtnYU1wdTFnLVN3ci1MSk01NE9VT0s1RGlmVi13UTNR0gHDAUFVX3lxTE1nTXFOMDdTeDlvamFCSENoZjB5ZTJxTDlVaVY4SUlMc3A1NzFBV2N1akpLVDNLMTJtMGJuVzZWOXBNRktmeHZVZ1hXNzkyRFg5Q1JyT24wTnpOWHN0b29nX0dTWWQtdWJ0b1V6Slc0dGx1S2U2UVVRRDBPUzVHcURxRjJid2prS2xUSndTNURGeWJFM0NKT3NReFllZWh6eDc4OVhxWG02RFJBX2thYVhFVGM2eHoyMlRGS0FYRlNZNHZ2RQ?oc=5",
+          "title": "Can K-pop answer criticism that it is a corporate product? - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPNXRPRW9GTHUtNzJ2VEZHa1A1N1VOS0ljazdSX0d3YTNIQmlNZ0VYV3VzMzVVbXlmOGVVUHdJY25KQW1XalBDNUJpbERVNFZyVDdidWI1dDBCbS0zODJtZVBQRmN6QmE2WmQtTHpnV2x5YmMzUjJfLV9PZWI1cUh5UWo1ZmVJczlUM1pxRWt4VTFoM3h2UjV4bjV2NGRpN1ZtS2Z3OVpmdjhPQm9RNUtMNEdXWlAwZ9IBuwFBVV95cUxNUkZ0VnVUV0tybXBTMG4tckE4akw5OHQ1WVBPVGFpeTNTLVUzcDNpSllRVUItRWVfblNtXzRFWXJaSkIxWVZ2NjBGSWFFMEd1NVpxVGxCSjlnY3EteVZZZmhDc3JCTXRrNm9Qb3VsQU0zWDA4dnN5MXV1QnoxdnRHYi04WWxxd0taOTlBNVUwRzlMeFJ3NFJ1RFFhRk9YYUVtY1BDUjZFYXpYZkM1Qk9JVFlaNHFjRHNmR2Rr?oc=5\" target=\"_blank\">Can K-pop answer criticism that it is a corporate product?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNXRPRW9GTHUtNzJ2VEZHa1A1N1VOS0ljazdSX0d3YTNIQmlNZ0VYV3VzMzVVbXlmOGVVUHdJY25KQW1XalBDNUJpbERVNFZyVDdidWI1dDBCbS0zODJtZVBQRmN6QmE2WmQtTHpnV2x5YmMzUjJfLV9PZWI1cUh5UWo1ZmVJczlUM1pxRWt4VTFoM3h2UjV4bjV2NGRpN1ZtS2Z3OVpmdjhPQm9RNUtMNEdXWlAwZ9IBuwFBVV95cUxNUkZ0VnVUV0tybXBTMG4tckE4akw5OHQ1WVBPVGFpeTNTLVUzcDNpSllRVUItRWVfblNtXzRFWXJaSkIxWVZ2NjBGSWFFMEd1NVpxVGxCSjlnY3EteVZZZmhDc3JCTXRrNm9Qb3VsQU0zWDA4dnN5MXV1QnoxdnRHYi04WWxxd0taOTlBNVUwRzlMeFJ3NFJ1RFFhRk9YYUVtY1BDUjZFYXpYZkM1Qk9JVFlaNHFjRHNmR2Rr?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-08-11",
-          "views": "18.0K"
-        },
-        {
-          "title": "EXCLUSIVE: India seizes thousands of Diageo whisky, vodka bottles in food safety crackdown - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcWVWaVdOVF94TXZTT0ZTWE5YaE92YjU1UGV3aGdOWHRSMHA4RWEwbmVWY24wcTUyRERtT1hkM0NMLW5YbVdQVXdKcTRxem1vaUhITHRzOFZuRnRmX3RYbWxVNGxDekZwc3FLazlaWHRMdWhlR3E5UG9sZGwzV1hoU3ZMSHg0NlhoYjNOVlc4VUtnQlE2U1VtTmFYM0ZBbkluamVwNWlISlVueGNtZGNXT29McjJNZzNfY09EVnNhSFluRGM?oc=5\" target=\"_blank\">EXCLUSIVE: India seizes thousands of Diageo whisky, vodka bottles in food safety crackdown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcWVWaVdOVF94TXZTT0ZTWE5YaE92YjU1UGV3aGdOWHRSMHA4RWEwbmVWY24wcTUyRERtT1hkM0NMLW5YbVdQVXdKcTRxem1vaUhITHRzOFZuRnRmX3RYbWxVNGxDekZwc3FLazlaWHRMdWhlR3E5UG9sZGwzV1hoU3ZMSHg0NlhoYjNOVlc4VUtnQlE2U1VtTmFYM0ZBbkluamVwNWlISlVueGNtZGNXT29McjJNZzNfY09EVnNhSFluRGM?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-08-11",
-          "views": "18.0K"
+          "publishedAt": "2026-08-18",
+          "views": "13.0K"
         }
       ]
     },
@@ -142,27 +142,27 @@
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
         {
-          "title": "Industry minister says Korea, US seek to resolve outstanding issues over investment plan - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWktfNWl1X1BKT2VyVHNPZndNNC1Ca3FTdmU2WGctOWtRRTgxN3dSNTFWc3JYbDRVQUFoZ2ZLaXVlR2FROXBDNHNNVUlnd0pZRDN1UF9vZzhPMXI1NU1CS2k1clpDV0lmS0pEOHk5a2JsTGJDUzlXaWNIWGxJeTlrQjgtRW9veDFQRV9KdHRmcE05bUJ2OUVtRnhYZzlZZ1l5X3VzS1VQeEo4WXktQjNTd1B4Y1ZacUpTYW5La0F6M0lCWHFmRGlqbmdIdERFUEhVSjhlblRqa9IB3AFBVV95cUxQYm9BZTZROW9HMExpTEtrc0V1VmtHbHVTNExzTXVZcDFzVXJCSnRoNC1HNFhoVkxETk9zbXRsTnY0aHZQQTl1a2ExMDk5TC1ONlc3MkptNjhsYmJBMUpZSUJRNkJwY2xTSFFJdWRYWG9BTzlya25lSnFLRXFIeDh3aU10V1NEcl8tSDEwbkNjbHFfTjV2QUpFUjR4ajBMdWpIbnpCU2JBTTI2N2h5NWItNFBrLWkxM0RFZGlJTlZtUXk1N0hCYXBkX1JrT3VLMmR0RkU4N0tMU3FSTXBX?oc=5\" target=\"_blank\">Industry minister says Korea, US seek to resolve outstanding issues over investment plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWktfNWl1X1BKT2VyVHNPZndNNC1Ca3FTdmU2WGctOWtRRTgxN3dSNTFWc3JYbDRVQUFoZ2ZLaXVlR2FROXBDNHNNVUlnd0pZRDN1UF9vZzhPMXI1NU1CS2k1clpDV0lmS0pEOHk5a2JsTGJDUzlXaWNIWGxJeTlrQjgtRW9veDFQRV9KdHRmcE05bUJ2OUVtRnhYZzlZZ1l5X3VzS1VQeEo4WXktQjNTd1B4Y1ZacUpTYW5La0F6M0lCWHFmRGlqbmdIdERFUEhVSjhlblRqa9IB3AFBVV95cUxQYm9BZTZROW9HMExpTEtrc0V1VmtHbHVTNExzTXVZcDFzVXJCSnRoNC1HNFhoVkxETk9zbXRsTnY0aHZQQTl1a2ExMDk5TC1ONlc3MkptNjhsYmJBMUpZSUJRNkJwY2xTSFFJdWRYWG9BTzlya25lSnFLRXFIeDh3aU10V1NEcl8tSDEwbkNjbHFfTjV2QUpFUjR4ajBMdWpIbnpCU2JBTTI2N2h5NWItNFBrLWkxM0RFZGlJTlZtUXk1N0hCYXBkX1JrT3VLMmR0RkU4N0tMU3FSTXBX?oc=5",
+          "title": "Even as market clouds clear, AI investment anxiety still gnaws - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQbEp6UVdnQ0t5bGpUeHF1THM5SllRRjZqNFV0M1FUVFZtY25qN0NBY1R4ZzQxMUo2XzhzRlA2Mm9laDE0U1JtZDBfTTh3QjhTem9aMmQ4ZDhMR2Y5dDNUdVE2dVRuRThicGc1dW5XSklsM0hWalhkM0VQNU9MdmducEp2cy12RUtfNTlFZWdfVmxUc1NfNVo5aVZobkZOZ0stRnMydlVOYlotN0hHRG5mbGZTVXBrX2xwanVaak5xbFRKM3hjcVE?oc=5\" target=\"_blank\">Even as market clouds clear, AI investment anxiety still gnaws</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbEp6UVdnQ0t5bGpUeHF1THM5SllRRjZqNFV0M1FUVFZtY25qN0NBY1R4ZzQxMUo2XzhzRlA2Mm9laDE0U1JtZDBfTTh3QjhTem9aMmQ4ZDhMR2Y5dDNUdVE2dVRuRThicGc1dW5XSklsM0hWalhkM0VQNU9MdmducEp2cy12RUtfNTlFZWdfVmxUc1NfNVo5aVZobkZOZ0stRnMydlVOYlotN0hHRG5mbGZTVXBrX2xwanVaak5xbFRKM3hjcVE?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-08-18",
+          "views": "18.0K"
+        },
+        {
+          "title": "Young people expect AI to replace desired jobs within 5 years amid hiring slump - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbnlqS2ZXbDNLeWpFbXFsUkdFcmFCMmdiRGNRUHNhWnN0VXI5MFhaWnNpX0ZHVmtuNHV5Z21SRk1VaGNmVnlsblF5dVQyeVBRX0RhM0xzNGNZY3dScjlTUWpuMXV1SWdxSERldzd4dldBd1V4Y0xmOVI1ODJZdnp0RDMwak5yazU0SjJNR3d1NWhLM1RTQ3pSejk1RHBKMzlPT2NLWWEzYmNjZm5VTTExWk5GQVphN3YwdVZkWDJQOUNERWtjRFlRTElfN3NxaXA5UlHSAdcBQVVfeXFMUGlvUHJ4dEVBd3FGWGdSbU5TRGdUUmZFTWZUQ3dKUGM1OVplekVqZUhzSFhIZTRoWTVVUVhLcmpPU1kxbDh2SGVpNWhHM2t5cWNNaEFCRkxtcTlTMXBXWVZvcTNNR0QxSEthQmFUX2N1SnBFeHF6Q2htSVlmRGdmZENpTkk1dVlkbjJNOGI0U3VNRlktR2x2MmlFMzJLZnU4MnR2M3lEQU9VRGpZT0wtcEVoVnJsNUJwVWw1bGpXclpSRTlDelY2OTRjQVBlYlNiMmsyWnN3Z1k?oc=5\" target=\"_blank\">Young people expect AI to replace desired jobs within 5 years amid hiring slump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbnlqS2ZXbDNLeWpFbXFsUkdFcmFCMmdiRGNRUHNhWnN0VXI5MFhaWnNpX0ZHVmtuNHV5Z21SRk1VaGNmVnlsblF5dVQyeVBRX0RhM0xzNGNZY3dScjlTUWpuMXV1SWdxSERldzd4dldBd1V4Y0xmOVI1ODJZdnp0RDMwak5yazU0SjJNR3d1NWhLM1RTQ3pSejk1RHBKMzlPT2NLWWEzYmNjZm5VTTExWk5GQVphN3YwdVZkWDJQOUNERWtjRFlRTElfN3NxaXA5UlHSAdcBQVVfeXFMUGlvUHJ4dEVBd3FGWGdSbU5TRGdUUmZFTWZUQ3dKUGM1OVplekVqZUhzSFhIZTRoWTVVUVhLcmpPU1kxbDh2SGVpNWhHM2t5cWNNaEFCRkxtcTlTMXBXWVZvcTNNR0QxSEthQmFUX2N1SnBFeHF6Q2htSVlmRGdmZENpTkk1dVlkbjJNOGI0U3VNRlktR2x2MmlFMzJLZnU4MnR2M3lEQU9VRGpZT0wtcEVoVnJsNUJwVWw1bGpXclpSRTlDelY2OTRjQVBlYlNiMmsyWnN3Z1k?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-08-17",
+          "publishedAt": "2026-08-18",
           "views": "13.0K"
         },
         {
-          "title": "What Is El Niño, and What Does It Mean for Weather, Water, and the Global Economy? - WIRED",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxON0dDa0ZmYmhjYXk1TEZzckVGdjJTWjV2Qk9raHl5NmdaZ1J5MGt0bGtRZzBQczdQeEZOY3J4ZUVQb0QwMmRId0lhcTBRa2EzamUyVVdFZ0FIa2d0b3oxSS1ma013aGtqclljWDQ5LXZ4N3lRQjV0bHFxajJSMl9FUW9B?oc=5\" target=\"_blank\">What Is El Niño, and What Does It Mean for Weather, Water, and the Global Economy?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxON0dDa0ZmYmhjYXk1TEZzckVGdjJTWjV2Qk9raHl5NmdaZ1J5MGt0bGtRZzBQczdQeEZOY3J4ZUVQb0QwMmRId0lhcTBRa2EzamUyVVdFZ0FIa2d0b3oxSS1ma013aGtqclljWDQ5LXZ4N3lRQjV0bHFxajJSMl9FUW9B?oc=5",
-          "source": "WIRED AI",
-          "publishedAt": "2026-08-17",
-          "views": "13.0K"
-        },
-        {
-          "title": "Election Officials Are Preparing for Prediction Markets to Sow Chaos in the Midterms - WIRED",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPMzdxUjdDNEJXdzZ4azBwNW94eUJkYlA5bmVFZXVRN3UxdXBISTJ6WllDWGdVZVZrTllsRmczSUcwVFJ5SlA3djBJNmhNYTVVbnlBdElBU3E0VkM1S1M2NmM0QW8tU0JwZ2VpTzM3YmtueFM4ZlFPUXA1bTYwN1lKMUZ5a1ZzYW8yeVZ3eXhTam9XSFdidUR4Z19Ba0Zyb0FHZWdLeGVsTUlFcGxDTTNaWVQ0bw?oc=5\" target=\"_blank\">Election Officials Are Preparing for Prediction Markets to Sow Chaos in the Midterms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMzdxUjdDNEJXdzZ4azBwNW94eUJkYlA5bmVFZXVRN3UxdXBISTJ6WllDWGdVZVZrTllsRmczSUcwVFJ5SlA3djBJNmhNYTVVbnlBdElBU3E0VkM1S1M2NmM0QW8tU0JwZ2VpTzM3YmtueFM4ZlFPUXA1bTYwN1lKMUZ5a1ZzYW8yeVZ3eXhTam9XSFdidUR4Z19Ba0Zyb0FHZWdLeGVsTUlFcGxDTTNaWVQ0bw?oc=5",
-          "source": "WIRED AI",
-          "publishedAt": "2026-08-17",
+          "title": "Retail investors return to gold market as prices rebound - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOcWhMUDJZdHFPOHJCNUw5ZmNfVnZ2TDlDbXlDVUlKQTN2T2I0NXVwbUkyc3VINlVyNnYwZTJFalRBNWFweEE1MWpSWGYteV85ZnZrOUtkRDRKeTJsc1RVV1BqMjlrbGpSVlluR1dTaExqX1htRDljTmJfdEY3TlJmQmZLWVNTaGZsRk9ZM1VqdS15cmNULWtURi03Qm5HRS0tUjZxdTFkU3UtbVhOU0dLU0pIb9IBswFBVV95cUxOcWhMUDJZdHFPOHJCNUw5ZmNfVnZ2TDlDbXlDVUlKQTN2T2I0NXVwbUkyc3VINlVyNnYwZTJFalRBNWFweEE1MWpSWGYteV85ZnZrOUtkRDRKeTJsc1RVV1BqMjlrbGpSVlluR1dTaExqX1htRDljTmJfdEY3TlJmQmZLWVNTaGZsRk9ZM1VqdS15cmNULWtURi03Qm5HRS0tUjZxdTFkU3UtbVhOU0dLU0pIbw?oc=5\" target=\"_blank\">Retail investors return to gold market as prices rebound</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcWhMUDJZdHFPOHJCNUw5ZmNfVnZ2TDlDbXlDVUlKQTN2T2I0NXVwbUkyc3VINlVyNnYwZTJFalRBNWFweEE1MWpSWGYteV85ZnZrOUtkRDRKeTJsc1RVV1BqMjlrbGpSVlluR1dTaExqX1htRDljTmJfdEY3TlJmQmZLWVNTaGZsRk9ZM1VqdS15cmNULWtURi03Qm5HRS0tUjZxdTFkU3UtbVhOU0dLU0pIb9IBswFBVV95cUxOcWhMUDJZdHFPOHJCNUw5ZmNfVnZ2TDlDbXlDVUlKQTN2T2I0NXVwbUkyc3VINlVyNnYwZTJFalRBNWFweEE1MWpSWGYteV85ZnZrOUtkRDRKeTJsc1RVV1BqMjlrbGpSVlluR1dTaExqX1htRDljTmJfdEY3TlJmQmZLWVNTaGZsRk9ZM1VqdS15cmNULWtURi03Qm5HRS0tUjZxdTFkU3UtbVhOU0dLU0pIbw?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-08-18",
           "views": "13.0K"
         }
       ]
@@ -173,27 +173,27 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
-          "title": "Russian FM lauds N. Korea's troop deployment, pledges closer ties in Liberation Day letter - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNb2VKVXIzTlRzNTRpVjh0dWtKRkZKVXp1MW9pZ1dkZlNRbXJBcWxNZE9lRjdCRVdrcktlTmZJLWcxNzBrT2FtTF90TmI3UWlNZXUtWGx6NF9PRWhvbndEODBLeWZLSEhLR1JXQjdYQW4tZVFpdk5pNmtpNUFNdl9odHNWVFh6OFp1MkNQVlRWaGxWWUk4ZElXZEd2bnJJVXdxS1VmOXdwbzdJSWhzdmZuak1OQ2NGSFo1N0JKV294QnRKV2l2Wjk4MmYtQmRtYVd5SWZ0T2w2NGVXVm9NZHR1WWRIWVJCdlV1Mno40gHrAUFVX3lxTE1vZUpVcjNOVHM1NGlWOHR1a0pGRkpVenUxb2lnV2RmU1FtckFxbE1kT2VGN0JFV2tyS2VOZkktZzE3MGtPYW1MX3ROYjdRaU1ldS1YbHo0X09FaG9ud0Q4MEt5ZktISEtHUldCN1hBbi1lUWl2Tmk2a2k1QU12X2h0c1ZUWHo4WnUyQ1BWVFZobFZZSThkSVdkR3ZucklVd3FLVWY5d3BvN0lJaHN2Zm5qTU5DY0ZIWjU3QkpXb3hCdEpXaXZaOTgyZi1CZG1hV3lJZnRPbDY0ZVdWb01kdHVZZEhZUkJ2VXUyejg?oc=5\" target=\"_blank\">Russian FM lauds N. Korea's troop deployment, pledges closer ties in Liberation Day letter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNb2VKVXIzTlRzNTRpVjh0dWtKRkZKVXp1MW9pZ1dkZlNRbXJBcWxNZE9lRjdCRVdrcktlTmZJLWcxNzBrT2FtTF90TmI3UWlNZXUtWGx6NF9PRWhvbndEODBLeWZLSEhLR1JXQjdYQW4tZVFpdk5pNmtpNUFNdl9odHNWVFh6OFp1MkNQVlRWaGxWWUk4ZElXZEd2bnJJVXdxS1VmOXdwbzdJSWhzdmZuak1OQ2NGSFo1N0JKV294QnRKV2l2Wjk4MmYtQmRtYVd5SWZ0T2w2NGVXVm9NZHR1WWRIWVJCdlV1Mno40gHrAUFVX3lxTE1vZUpVcjNOVHM1NGlWOHR1a0pGRkpVenUxb2lnV2RmU1FtckFxbE1kT2VGN0JFV2tyS2VOZkktZzE3MGtPYW1MX3ROYjdRaU1ldS1YbHo0X09FaG9ud0Q4MEt5ZktISEtHUldCN1hBbi1lUWl2Tmk2a2k1QU12X2h0c1ZUWHo4WnUyQ1BWVFZobFZZSThkSVdkR3ZucklVd3FLVWY5d3BvN0lJaHN2Zm5qTU5DY0ZIWjU3QkpXb3hCdEpXaXZaOTgyZi1CZG1hV3lJZnRPbDY0ZVdWb01kdHVZZEhZUkJ2VXUyejg?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-08-17",
+          "title": "LG Targets Full-Stack AI Factory Rollout - ETNEWS",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFA5eElxc01yUUMyeDZXN1lqR3VONmVFYkRFU3VCa0hpbEpmT0gxMGVfQ09sZWxGajdKOUJ3Y2pQLWR2RHBHeGN2NDBTVHE?oc=5\" target=\"_blank\">LG Targets Full-Stack AI Factory Rollout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA5eElxc01yUUMyeDZXN1lqR3VONmVFYkRFU3VCa0hpbEpmT0gxMGVfQ09sZWxGajdKOUJ3Y2pQLWR2RHBHeGN2NDBTVHE?oc=5",
+          "source": "전자신문",
+          "publishedAt": "2026-08-18",
           "views": "13.0K"
         },
         {
-          "title": "Industry minister says Korea, US seek to resolve outstanding issues over investment plan - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWktfNWl1X1BKT2VyVHNPZndNNC1Ca3FTdmU2WGctOWtRRTgxN3dSNTFWc3JYbDRVQUFoZ2ZLaXVlR2FROXBDNHNNVUlnd0pZRDN1UF9vZzhPMXI1NU1CS2k1clpDV0lmS0pEOHk5a2JsTGJDUzlXaWNIWGxJeTlrQjgtRW9veDFQRV9KdHRmcE05bUJ2OUVtRnhYZzlZZ1l5X3VzS1VQeEo4WXktQjNTd1B4Y1ZacUpTYW5La0F6M0lCWHFmRGlqbmdIdERFUEhVSjhlblRqa9IB3AFBVV95cUxQYm9BZTZROW9HMExpTEtrc0V1VmtHbHVTNExzTXVZcDFzVXJCSnRoNC1HNFhoVkxETk9zbXRsTnY0aHZQQTl1a2ExMDk5TC1ONlc3MkptNjhsYmJBMUpZSUJRNkJwY2xTSFFJdWRYWG9BTzlya25lSnFLRXFIeDh3aU10V1NEcl8tSDEwbkNjbHFfTjV2QUpFUjR4ajBMdWpIbnpCU2JBTTI2N2h5NWItNFBrLWkxM0RFZGlJTlZtUXk1N0hCYXBkX1JrT3VLMmR0RkU4N0tMU3FSTXBX?oc=5\" target=\"_blank\">Industry minister says Korea, US seek to resolve outstanding issues over investment plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWktfNWl1X1BKT2VyVHNPZndNNC1Ca3FTdmU2WGctOWtRRTgxN3dSNTFWc3JYbDRVQUFoZ2ZLaXVlR2FROXBDNHNNVUlnd0pZRDN1UF9vZzhPMXI1NU1CS2k1clpDV0lmS0pEOHk5a2JsTGJDUzlXaWNIWGxJeTlrQjgtRW9veDFQRV9KdHRmcE05bUJ2OUVtRnhYZzlZZ1l5X3VzS1VQeEo4WXktQjNTd1B4Y1ZacUpTYW5La0F6M0lCWHFmRGlqbmdIdERFUEhVSjhlblRqa9IB3AFBVV95cUxQYm9BZTZROW9HMExpTEtrc0V1VmtHbHVTNExzTXVZcDFzVXJCSnRoNC1HNFhoVkxETk9zbXRsTnY0aHZQQTl1a2ExMDk5TC1ONlc3MkptNjhsYmJBMUpZSUJRNkJwY2xTSFFJdWRYWG9BTzlya25lSnFLRXFIeDh3aU10V1NEcl8tSDEwbkNjbHFfTjV2QUpFUjR4ajBMdWpIbnpCU2JBTTI2N2h5NWItNFBrLWkxM0RFZGlJTlZtUXk1N0hCYXBkX1JrT3VLMmR0RkU4N0tMU3FSTXBX?oc=5",
+          "title": "LG AI Research, SK Telecom, Upstage survive next cut in national AI model project - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRE8tdXhFNnlnTWxvSzJTS0taWjR4bjRSNC1lb0R1Nlh4c1htNXhIQzU5QUFVdWY1NTNBUVYzUmNiUWNneWVOaDNEdU1Md3llbEV3eFFpMm1TdnZFLURxY1ZmdE41X1FNSDBISm91Z3JNZnUwQ1hVdmYyMzRPSlk5ajZJWGhHYVZKU1lzam5BM0Y0dkdxUHduRTMwVVo3bllXMnlUMFMyWV9yUktnMURNZGl5UDZmdS1OS3hpMGZ0LTZ3ZV95MThmZGY3SHNRY1ItbUhCTER30gHbAUFVX3lxTFB2Y3dHZ05HTkIwdE1iMHZIRGJlTzNjUnl3cExoTnJsWkJycU9wT1lSRUdaZGhweEQwS1F1cmw2alNURm5ncU8tSktUTEVsYk4xeG9lcHZwd1ZMcEZtekVwZXQyZ3Y4OWtOZDgzYW1Wc0VIZTg4X1FZT3Q5MDROQW1ZeGlYYXBJbl85aUF0TVNXVVR2X1drRkhLVXN3d0U0YUs0eUtaUnJaUVlrOVRVYjNMZDZLN2RtaVZDWXpVLW5uUFc4QlNMaDFZak8tOXhVeFJ1Y0N5eTJod0JYVQ?oc=5\" target=\"_blank\">LG AI Research, SK Telecom, Upstage survive next cut in national AI model project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRE8tdXhFNnlnTWxvSzJTS0taWjR4bjRSNC1lb0R1Nlh4c1htNXhIQzU5QUFVdWY1NTNBUVYzUmNiUWNneWVOaDNEdU1Md3llbEV3eFFpMm1TdnZFLURxY1ZmdE41X1FNSDBISm91Z3JNZnUwQ1hVdmYyMzRPSlk5ajZJWGhHYVZKU1lzam5BM0Y0dkdxUHduRTMwVVo3bllXMnlUMFMyWV9yUktnMURNZGl5UDZmdS1OS3hpMGZ0LTZ3ZV95MThmZGY3SHNRY1ItbUhCTER30gHbAUFVX3lxTFB2Y3dHZ05HTkIwdE1iMHZIRGJlTzNjUnl3cExoTnJsWkJycU9wT1lSRUdaZGhweEQwS1F1cmw2alNURm5ncU8tSktUTEVsYk4xeG9lcHZwd1ZMcEZtekVwZXQyZ3Y4OWtOZDgzYW1Wc0VIZTg4X1FZT3Q5MDROQW1ZeGlYYXBJbl85aUF0TVNXVVR2X1drRkhLVXN3d0U0YUs0eUtaUnJaUVlrOVRVYjNMZDZLN2RtaVZDWXpVLW5uUFc4QlNMaDFZak8tOXhVeFJ1Y0N5eTJod0JYVQ?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-08-17",
+          "publishedAt": "2026-08-18",
           "views": "13.0K"
         },
         {
-          "title": "EXCLUSIVE: Shein cuts company valuation to around $25 billion in Hong Kong IPO, sources say - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOLUNHYWNOdkFEd2poMFNEQjhMSzdwZjJMZE9tZ1JPbFlVcnlDZGktZ2toNUdqNmQteXJCa3dhVUszUHhlVHhXUDVZd25xYXB1Qk5wVDVvY0wwaEcyNi1JTmp0emswa1ppajQxd0dHSmRaVk5IWlgzam5Xd1hsTlVUUzJqVzJ6Ymt2MjhZSi1RWlNsMFk1dFVrZ1cxRDdBOXM5MmxwZVVzTmhTdDhjUlBMamZEcDU3MTc1ZHdmdWNSTG5UU0lZdGhR?oc=5\" target=\"_blank\">EXCLUSIVE: Shein cuts company valuation to around $25 billion in Hong Kong IPO, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLUNHYWNOdkFEd2poMFNEQjhMSzdwZjJMZE9tZ1JPbFlVcnlDZGktZ2toNUdqNmQteXJCa3dhVUszUHhlVHhXUDVZd25xYXB1Qk5wVDVvY0wwaEcyNi1JTmp0emswa1ppajQxd0dHSmRaVk5IWlgzam5Xd1hsTlVUUzJqVzJ6Ymt2MjhZSi1RWlNsMFk1dFVrZ1cxRDdBOXM5MmxwZVVzTmhTdDhjUlBMamZEcDU3MTc1ZHdmdWNSTG5UU0lZdGhR?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-08-17",
+          "title": "Sangdong mine eyes role in securing tungsten for chip industry - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLXlSem5Za19ncEVyMEdmVFIzRlplbzhKUXB6MGRvY1h0UnlwUmpjWE1lVDNkVmtCM2h4UFd6eG1mVGJVSi1lWHh4Q3NUYW1ROFkzbi1fUVpkb2t6b3dESmVIUnUtNXp1aFZkVkJpeDFLcVV5cUNnVGNpY3d4clB3Q2xiOTZ2djhkazVtUFRlWDhMXzZMRG1XaE1HNkN0WFM1ZWV0OHNIQlA1OVhVbTBFNUM0QTdZU2NZQ0Rj0gHAAUFVX3lxTE9fZUxkUmlXYVUzLUNrcm5XQlI2VGtEMTcxYXQwaXcyX3R0WjNZRlZnbkNTeUJ5bjNQa1d6dmhlVVgyVHY5blZYTjcxMmEyU2VpUlhCVGNYb2JUQ2lxOW9oZlNwdnowQUVQTUN1MmhwbDVraVhDMHlMYTR4d3BLWFZhV2ttZlBheUJyMU1YcENSR3oybURQdTFibVREZnBLR2kzdWVsbC1zRVdZbFNuUU5RVEFyOVM4X0ZaRDRpRWo4cA?oc=5\" target=\"_blank\">Sangdong mine eyes role in securing tungsten for chip industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLXlSem5Za19ncEVyMEdmVFIzRlplbzhKUXB6MGRvY1h0UnlwUmpjWE1lVDNkVmtCM2h4UFd6eG1mVGJVSi1lWHh4Q3NUYW1ROFkzbi1fUVpkb2t6b3dESmVIUnUtNXp1aFZkVkJpeDFLcVV5cUNnVGNpY3d4clB3Q2xiOTZ2djhkazVtUFRlWDhMXzZMRG1XaE1HNkN0WFM1ZWV0OHNIQlA1OVhVbTBFNUM0QTdZU2NZQ0Rj0gHAAUFVX3lxTE9fZUxkUmlXYVUzLUNrcm5XQlI2VGtEMTcxYXQwaXcyX3R0WjNZRlZnbkNTeUJ5bjNQa1d6dmhlVVgyVHY5blZYTjcxMmEyU2VpUlhCVGNYb2JUQ2lxOW9oZlNwdnowQUVQTUN1MmhwbDVraVhDMHlMYTR4d3BLWFZhV2ttZlBheUJyMU1YcENSR3oybURQdTFibVREZnBLR2kzdWVsbC1zRVdZbFNuUU5RVEFyOVM4X0ZaRDRpRWo4cA?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-08-18",
           "views": "13.0K"
         }
       ]
