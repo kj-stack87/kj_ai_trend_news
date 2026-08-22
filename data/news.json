@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T01:55:32.338Z",
+  "lastUpdated": "2026-08-22T01:48:10.300Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,6 +49,14 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
+          "title": "OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20% - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPTVBSYzdnbW5mTHlUTzVRb3JaenRKVncwMjliZ3RZSy1xb3hNaEZxelZ0Z0FYMzRYOEF3MnNpajNwLUtFbkdpbzNIUmNFTWlOMVRINmxaTGJibjNWN05xMERzaU5lUXcwTHBDZC1GRm0xMG9PbjYxRzNyOXFrMFZKM0FMeXcyM1ZwT05tUkNUbjc4YXBySm5XMG1EY0JtZlFkdTBVZmhXbm83YWtXMTVrcVBKbnlKRFNjcnc?oc=5\" target=\"_blank\">OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTVBSYzdnbW5mTHlUTzVRb3JaenRKVncwMjliZ3RZSy1xb3hNaEZxelZ0Z0FYMzRYOEF3MnNpajNwLUtFbkdpbzNIUmNFTWlOMVRINmxaTGJibjNWN05xMERzaU5lUXcwTHBDZC1GRm0xMG9PbjYxRzNyOXFrMFZKM0FMeXcyM1ZwT05tUkNUbjc4YXBySm5XMG1EY0JtZlFkdTBVZmhXbm83YWtXMTVrcVBKbnlKRFNjcnc?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-08-21",
+          "views": "18.0K"
+        },
+        {
           "title": "KT puts Korean AI chips, language model into one enterprise server - The Korea Times",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPeXRVcy1lbVBkTkxNV3Q5X2pkaEtrWEUxYWJpOVZtS2hWMkg4NEF6b2doaHJJZTlsX1lNRXhVeEJZek9XTjBMOXBUcksxZlktc2lxSks1aVFLV2NNdTFibC1wS3F6ejZUQmlMZm1EcHAtcE9KeHdvOFgtNVpWRXU4TGVfS3lDNElLTDd2ZkY0MzdUemJfNTE4X2NCNC1pRk04Q2tuYkJva2txUFY4Z2dfQVl6QmJGYTJnU2F3amgzUdIBxAFBVV95cUxNeTlkV0ViNjVzWTlzampCb2kyRE5IeTZRWmRwazdnZk82MGFQcVU0cHBCSDF1emtOQ1ZVemtNaWNLamRmV1pVeTB1ZnFoS3lfV0xzUGowYVFpSGxwbjI0OEdMQ095V0Y5Y2VLY3NDZUYyWl9yU0xrMWw2TnNjR3BvX1lxLU83LW9URFg3cW9JMWlkU2tFaDM0ZmRta0JncnI2RHlSSmpmVnpyeG9iZVd1Y0RnTHlpeFE5b0NQRlpIb1FMLVNi?oc=5\" target=\"_blank\">KT puts Korean AI chips, language model into one enterprise server</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeXRVcy1lbVBkTkxNV3Q5X2pkaEtrWEUxYWJpOVZtS2hWMkg4NEF6b2doaHJJZTlsX1lNRXhVeEJZek9XTjBMOXBUcksxZlktc2lxSks1aVFLV2NNdTFibC1wS3F6ejZUQmlMZm1EcHAtcE9KeHdvOFgtNVpWRXU4TGVfS3lDNElLTDd2ZkY0MzdUemJfNTE4X2NCNC1pRk04Q2tuYkJva2txUFY4Z2dfQVl6QmJGYTJnU2F3amgzUdIBxAFBVV95cUxNeTlkV0ViNjVzWTlzampCb2kyRE5IeTZRWmRwazdnZk82MGFQcVU0cHBCSDF1emtOQ1ZVemtNaWNLamRmV1pVeTB1ZnFoS3lfV0xzUGowYVFpSGxwbjI0OEdMQ095V0Y5Y2VLY3NDZUYyWl9yU0xrMWw2TnNjR3BvX1lxLU83LW9URFg3cW9JMWlkU2tFaDM0ZmRta0JncnI2RHlSSmpmVnpyeG9iZVd1Y0RnTHlpeFE5b0NQRlpIb1FMLVNi?oc=5",
@@ -57,19 +65,11 @@
           "views": "18.0K"
         },
         {
-          "title": "- WIRED",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AJBVV95cUxPdzBPWGRHWDE0Y1BjcmtCNFVMOVdJdnhsdG5rZG5ueFc5MlZJNHFKVVltWVBwRUt5NWh4V1NtWF9sOVp1X1Qxd3Q2b3dfal9RV1c3NzZIWFZJY2xXNUszYmJPWDNnbHQ3bENjYWZUYU50YUsweHVfMTllSVNiOGQ1RlU5cXlIbTRxaGxXWXRMSGF3OExKcUtPQTVWdHdicHloMGZWRW1mUHhhY0RzMEFrWmkwelB1U09XdUdPSkhIRk94YlJ3b0hocjgzNjg0TzRzVzVuakI1eng5ajBuanJ6RTZVN3FHNFJCOEJvUzhnTHBLZ1dSMGtPV3RlMVd2Sl9WTGptRDRQS1I2ZUhjQjh4Z0RQNXM4OEhfYjhFeVgtNWxWNTNIMWpLaVlteS1iUG5sQWZ2UG9ZLURHMkk1blZsNUkzUUJaNXdwRkhwampjQVktc2NhdTBSN3ZHTF90dllM?oc=5\" target=\"_blank\"></a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
-          "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPdzBPWGRHWDE0Y1BjcmtCNFVMOVdJdnhsdG5rZG5ueFc5MlZJNHFKVVltWVBwRUt5NWh4V1NtWF9sOVp1X1Qxd3Q2b3dfal9RV1c3NzZIWFZJY2xXNUszYmJPWDNnbHQ3bENjYWZUYU50YUsweHVfMTllSVNiOGQ1RlU5cXlIbTRxaGxXWXRMSGF3OExKcUtPQTVWdHdicHloMGZWRW1mUHhhY0RzMEFrWmkwelB1U09XdUdPSkhIRk94YlJ3b0hocjgzNjg0TzRzVzVuakI1eng5ajBuanJ6RTZVN3FHNFJCOEJvUzhnTHBLZ1dSMGtPV3RlMVd2Sl9WTGptRDRQS1I2ZUhjQjh4Z0RQNXM4OEhfYjhFeVgtNWxWNTNIMWpLaVlteS1iUG5sQWZ2UG9ZLURHMkk1blZsNUkzUUJaNXdwRkhwampjQVktc2NhdTBSN3ZHTF90dllM?oc=5",
-          "source": "WIRED AI",
-          "publishedAt": "2026-08-14",
-          "views": "18.0K"
-        },
-        {
-          "title": "Exports up 56 % in first 20 days of Aug. on robust chip shipments - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNV1loeHpMSkNfamxiSmpFZzkxZ09JSFJjbFF1TEMxYXBQVEtjSTROdktpN3VmUm1DRkYzQ3pMQnJ5Zm5TNjJ3TTR3R3lmc3lFQ1ozR2p3YWhiTmFHLTd3LUlRMEpwd3dwVjFjWjlxMXJtTDJwNjY3LVQ5eTRhNW5RSy1XWnNrMDVtSzRib25DUGNtUXF0RGRLSkh2czhrUWhxZmJwdlR2NHVDUWwtUTljcWVB0gGyAUFVX3lxTE1XWWh4ekxKQ19qbGJKakVnOTFnT0lIUmNsUXVMQzFhcFBUS2NJNE52S2k3dWZSbUNGRjNDekxCcnlmblM2MndNNHdHeWZzeUVDWjNHandhaGJOYUctN3ctSVEwSnB3d3BWMWNaOXExcm1MMnA2NjctVDl5NGE1blFLLVdac2swNW1LNGJvbkNQY21RcXREZEtKSHZzOGtRaHFmYnB2VHY0dUNRbC1ROWNxZUE?oc=5\" target=\"_blank\">Exports up 56 % in first 20 days of Aug. on robust chip shipments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV1loeHpMSkNfamxiSmpFZzkxZ09JSFJjbFF1TEMxYXBQVEtjSTROdktpN3VmUm1DRkYzQ3pMQnJ5Zm5TNjJ3TTR3R3lmc3lFQ1ozR2p3YWhiTmFHLTd3LUlRMEpwd3dwVjFjWjlxMXJtTDJwNjY3LVQ5eTRhNW5RSy1XWnNrMDVtSzRib25DUGNtUXF0RGRLSkh2czhrUWhxZmJwdlR2NHVDUWwtUTljcWVB0gGyAUFVX3lxTE1XWWh4ekxKQ19qbGJKakVnOTFnT0lIUmNsUXVMQzFhcFBUS2NJNE52S2k3dWZSbUNGRjNDekxCcnlmblM2MndNNHdHeWZzeUVDWjNHandhaGJOYUctN3ctSVEwSnB3d3BWMWNaOXExcm1MMnA2NjctVDl5NGE1blFLLVdac2swNW1LNGJvbkNQY21RcXREZEtKSHZzOGtRaHFmYnB2VHY0dUNRbC1ROWNxZUE?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-08-21",
+          "title": "Michael Polansky is training an AI model on skin that’s still alive - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPOXgwcGtqWjFOSDJMZm5LbVJxeGk4S2QzSnZuVFRXSXpLUk9hc1VZaTl3WVFud2RvejlrV3lzcHNPQV9hZ2V3R0k4bEcyQmNsOXdyUmJVVXRDZG1ZZVJhWmVjYmxTMGNPSnJHekVxd0dCcFJITjBxNFpldy14NHlPcUNLZm5YTVlrMXcwMWpyUXRKSGl6a2JmYVlWRzFIUGt0RWRj?oc=5\" target=\"_blank\">Michael Polansky is training an AI model on skin that’s still alive</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOXgwcGtqWjFOSDJMZm5LbVJxeGk4S2QzSnZuVFRXSXpLUk9hc1VZaTl3WVFud2RvejlrV3lzcHNPQV9hZ2V3R0k4bEcyQmNsOXdyUmJVVXRDZG1ZZVJhWmVjYmxTMGNPSnJHekVxd0dCcFJITjBxNFpldy14NHlPcUNLZm5YTVlrMXcwMWpyUXRKSGl6a2JmYVlWRzFIUGt0RWRj?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-08-22",
           "views": "13.0K"
         }
       ]
@@ -142,6 +142,14 @@
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
         {
+          "title": "Orbital data center startup Starcloud valued at $2.3 billion in latest funding - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYXk3cjNRZ01mdE5sWmx2TXJZQUc4aF9RQ1FVMjh1eEVmQWhMajhuOFFfXzZGM0JOenJ3Vkxhc2pteEpzbWU3Znp2SzF2c1J5aUU3SlUzc2ZtbWhTcFZtWVFpZGpadGk5QVVNRGk5UXBueng2ZTkydF9vSUV0a2R4Q0lOQWdVYk4yNGE0N2ZJblpBUXp3MEdDSjNyREstci00c19TbGhUcFkwdXZiUTZZTEpwTEpKdWRDWnM3OGhxUGRsd3I4dGRuQg?oc=5\" target=\"_blank\">Orbital data center startup Starcloud valued at $2.3 billion in latest funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYXk3cjNRZ01mdE5sWmx2TXJZQUc4aF9RQ1FVMjh1eEVmQWhMajhuOFFfXzZGM0JOenJ3Vkxhc2pteEpzbWU3Znp2SzF2c1J5aUU3SlUzc2ZtbWhTcFZtWVFpZGpadGk5QVVNRGk5UXBueng2ZTkydF9vSUV0a2R4Q0lOQWdVYk4yNGE0N2ZJblpBUXp3MEdDSjNyREstci00c19TbGhUcFkwdXZiUTZZTEpwTEpKdWRDWnM3OGhxUGRsd3I4dGRuQg?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-08-21",
+          "views": "18.0K"
+        },
+        {
           "title": "Global shocks, IPO wave could temper India's earnings-led market revival, Abakkus Investment says - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNRlFUV3hURzVDU2t0SjlDQXl4MVFZTTFfRVVUcnF0NkJ1a1hPMXlfWTBaTko2RHJ3dGZob0Y5Uk40UDYySjZObHYyc0JSWmhMRGNLcVFSMzhYVXlTUEJlWXRpclg1TlR5amlwejJrT0FBSkJpc0dqQlh0ZVJDTjVwQ01CVmlBVjdkRnljZFJJQmlCNUdtd2RsVTgyS2VSOUJDVDd1TDdKVjl3NndLY3FjYlhxSVppZ19DMUtBdGdIRnp5UlZf?oc=5\" target=\"_blank\">Global shocks, IPO wave could temper India's earnings-led market revival, Abakkus Investment says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRlFUV3hURzVDU2t0SjlDQXl4MVFZTTFfRVVUcnF0NkJ1a1hPMXlfWTBaTko2RHJ3dGZob0Y5Uk40UDYySjZObHYyc0JSWmhMRGNLcVFSMzhYVXlTUEJlWXRpclg1TlR5amlwejJrT0FBSkJpc0dqQlh0ZVJDTjVwQ01CVmlBVjdkRnljZFJJQmlCNUdtd2RsVTgyS2VSOUJDVDd1TDdKVjl3NndLY3FjYlhxSVppZ19DMUtBdGdIRnp5UlZf?oc=5",
@@ -156,14 +164,6 @@
           "source": "Reuters AI",
           "publishedAt": "2026-08-18",
           "views": "18.0K"
-        },
-        {
-          "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom - TechCrunch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYTlycWN4OE8teHZpeC1TVlBDN2VyNlpUYWFSUjJxT0NYRHM5Q3EzNmNjb0RmQnJScDlWbU1uUFZpTE1tN3A5YTFma2h0dDZXLWxleU92QWxxNjZPVE02dTNOY2FHSHlMMWtBZ1pYU3I2bk5LYzI4S2hXYmt3NnhTVTgwaXZLUUZLMUhEYWZ6V2tDQWMweXRzVEJ6S2VBN0N6TzRrYnU0Tk9KRFk?oc=5\" target=\"_blank\">AI data startup Micro1 reaches $500M gross run rate amid AI training boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYTlycWN4OE8teHZpeC1TVlBDN2VyNlpUYWFSUjJxT0NYRHM5Q3EzNmNjb0RmQnJScDlWbU1uUFZpTE1tN3A5YTFma2h0dDZXLWxleU92QWxxNjZPVE02dTNOY2FHSHlMMWtBZ1pYU3I2bk5LYzI4S2hXYmt3NnhTVTgwaXZLUUZLMUhEYWZ6V2tDQWMweXRzVEJ6S2VBN0N6TzRrYnU0Tk9KRFk?oc=5",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-08-21",
-          "views": "13.0K"
         }
       ]
     },
@@ -173,27 +173,27 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
-          "title": "Unionized members at Naver demand company engage in centralized bargaining - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQZDdPMmhJb2g0NWF5d29xZGp1NDJXd3JjX2NTWE1YWlU5Ym9janI3YTRIZVEwVmxBZzNvaDN6RG41bjhGanB6TGI4MnlGYzNYYjlaN0lBeVpOQ2tRN2l1YmJjRGgxRngtWHpHcVlEY1JiNEtjUldZaWI1SFJHenRHUlNsZ3FyeU4yNUJQRXFRdGhzaTZIZm9EMUlsUjRCTEthTUJwc2dhQk9sREtDV0JwTHh4QUZ4Uk5aOElWemFSMGtTaFhsZURKRWp1WdIB0AFBVV95cUxPanRJTnNLUEprZEdFM3F2V2ZlbGJlRl9nNzEwU1BxaXhMWUVWTTRRdW0wVEJnZGdVcDcxMWpWOGRJWDMxcHo2S2pwY1RFYUJBdjVOZkxOZVRpZFYzYno3ZDU2N1VEZEwwQUZrdGFwNEJCeXl0TTI1VGRBSWNJTVk2OFI2dThrc29ZWTVHM0lvbG43djBMWFVGcTE3bzI2UTY3LVpPdlJ4ZzVUNE5JbEttRW4zV0p4Wm10bUZEbUJJNDRCREpiQ0JlT3doS2RWSW53?oc=5\" target=\"_blank\">Unionized members at Naver demand company engage in centralized bargaining</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZDdPMmhJb2g0NWF5d29xZGp1NDJXd3JjX2NTWE1YWlU5Ym9janI3YTRIZVEwVmxBZzNvaDN6RG41bjhGanB6TGI4MnlGYzNYYjlaN0lBeVpOQ2tRN2l1YmJjRGgxRngtWHpHcVlEY1JiNEtjUldZaWI1SFJHenRHUlNsZ3FyeU4yNUJQRXFRdGhzaTZIZm9EMUlsUjRCTEthTUJwc2dhQk9sREtDV0JwTHh4QUZ4Uk5aOElWemFSMGtTaFhsZURKRWp1WdIB0AFBVV95cUxPanRJTnNLUEprZEdFM3F2V2ZlbGJlRl9nNzEwU1BxaXhMWUVWTTRRdW0wVEJnZGdVcDcxMWpWOGRJWDMxcHo2S2pwY1RFYUJBdjVOZkxOZVRpZFYzYno3ZDU2N1VEZEwwQUZrdGFwNEJCeXl0TTI1VGRBSWNJTVk2OFI2dThrc29ZWTVHM0lvbG43djBMWFVGcTE3bzI2UTY3LVpPdlJ4ZzVUNE5JbEttRW4zV0p4Wm10bUZEbUJJNDRCREpiQ0JlT3doS2RWSW53?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-08-20",
+          "title": "LG Display Unveils Maskless OLED Manufacturing Breakthrough - ETNEWS",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE90U0hNb2ZmaWZISUZVNmVvUm9jSDdNQ2R0SHpZVzd4dl84WXhsYml1b19IWEtjZm5WeGt5U3dRU1dHQklmTl9QeG94Y1c?oc=5\" target=\"_blank\">LG Display Unveils Maskless OLED Manufacturing Breakthrough</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE90U0hNb2ZmaWZISUZVNmVvUm9jSDdNQ2R0SHpZVzd4dl84WXhsYml1b19IWEtjZm5WeGt5U3dRU1dHQklmTl9QeG94Y1c?oc=5",
+          "source": "전자신문",
+          "publishedAt": "2026-08-21",
           "views": "13.0K"
         },
         {
-          "title": "Drinking trend shift: Why more young Koreans are avoiding company dinners - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZkk3RzYzTHE1M0hzYVdUc3pCUmlLVmVfWmdSMlMwVlBjMlEyUm41WE9ERWVNb1Bpcm1oRzZKUGMyM1J4aHprUzRiOXV6RlN0Z243cFBUZ0hrbjRoZDg1XzBWY1VQVndac0lIR1hwdGN6Mnl2dFNBdHZwbVhhaHJKYjh2RjVkMV9kek9nenMydzN3Qk9Gb2VTUlY0eER4Q2d0ZFpwSy11Nkx0QXVzWThHZU42dDFGc3p1QUJ6U053Q0JyUXfSAcMBQVVfeXFMUGZJN0c2M0xxNTNIc2FXVHN6QlJpS1ZlX1pnUjJTMFZQYzJRMlJuNVhPREVlTW9QaXJtaEc2SlBjMjNSeGh6a1M0Yjl1ekZTdGduN3BQVGdIa240aGQ4NV8wVmNVUFZ3WnNJSEdYcHRjejJ5dnRTQXR2cG1YYWhySmI4dkY1ZDFfZHpPZ3pzMnczd0JPRm9lU1JWNHhEeENndGRacEstdTZMdEF1c1k4R2VONnQxRnN6dUFCelNOd0NCclF3?oc=5\" target=\"_blank\">Drinking trend shift: Why more young Koreans are avoiding company dinners</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZkk3RzYzTHE1M0hzYVdUc3pCUmlLVmVfWmdSMlMwVlBjMlEyUm41WE9ERWVNb1Bpcm1oRzZKUGMyM1J4aHprUzRiOXV6RlN0Z243cFBUZ0hrbjRoZDg1XzBWY1VQVndac0lIR1hwdGN6Mnl2dFNBdHZwbVhhaHJKYjh2RjVkMV9kek9nenMydzN3Qk9Gb2VTUlY0eER4Q2d0ZFpwSy11Nkx0QXVzWThHZU42dDFGc3p1QUJ6U053Q0JyUXfSAcMBQVVfeXFMUGZJN0c2M0xxNTNIc2FXVHN6QlJpS1ZlX1pnUjJTMFZQYzJRMlJuNVhPREVlTW9QaXJtaEc2SlBjMjNSeGh6a1M0Yjl1ekZTdGduN3BQVGdIa240aGQ4NV8wVmNVUFZ3WnNJSEdYcHRjejJ5dnRTQXR2cG1YYWhySmI4dkY1ZDFfZHpPZ3pzMnczd0JPRm9lU1JWNHhEeENndGRacEstdTZMdEF1c1k4R2VONnQxRnN6dUFCelNOd0NCclF3?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-08-20",
+          "title": "Samsung to Unveil Galaxy S26 FE This Month: A Strategy to Expand Share - ETNEWS",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhOHduQkZhSkc4MlM1Zi0zOUppcG9nYTdCWWVKZGlpRldpeGxWbTBqVExiTXltTUFSdTRtM2FXTF9ocHZhcGZnNFRWd2E?oc=5\" target=\"_blank\">Samsung to Unveil Galaxy S26 FE This Month: A Strategy to Expand Share</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhOHduQkZhSkc4MlM1Zi0zOUppcG9nYTdCWWVKZGlpRldpeGxWbTBqVExiTXltTUFSdTRtM2FXTF9ocHZhcGZnNFRWd2E?oc=5",
+          "source": "전자신문",
+          "publishedAt": "2026-08-21",
           "views": "13.0K"
         },
         {
-          "title": "Industry minister says 'meaningful progress' achieved in talks with US - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNSi1FcGtISUtwcTM5OUR4R0lQdG9TRXhYOENSSUFuajljYkRpLVVEb1pLc1BnY01mMDhvN2dMaUVCdWxGT2JNaVMzQjA5b0FkWk13Rl96dzhZaDA0bFlIeG9LTGJLMG5YNW9RY0QzelpsYktnVlV1SmQwQ3Z3Mm9HV2lRdHpXalNKWURZOGNNMkRudlducFN0eTVOLXZCR0pmS1gzdVQ3YWhaSHRrOGVZdWR0cXBXeTM3aU5IcTFBcWV3eW1HT05B0gHMAUFVX3lxTE9sakhZdE45dTZid3Rxb2pkcVJQSXJUTTJaZGVyWEU2N1dFNWU4WTFVZEtYU1drVGRTZkgtMlNRSm1fcVhXbjBLV3NpblcyRXU1dWhaZEo5dHE0UE9adGEzWUU3c0lYblhJb3JTVnBBZmFZZjlqMWtqV2hNR0txV2czZkM0NWNxb3RTdjlOUWZQZ1l3QTFqMEpzZ21WeDNjVVFwUWxjUllzclJUU1ZKOWpCVHdMMGtfQVFROG50LThfZjBDLWVvVXBTalF2Uw?oc=5\" target=\"_blank\">Industry minister says 'meaningful progress' achieved in talks with US</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSi1FcGtISUtwcTM5OUR4R0lQdG9TRXhYOENSSUFuajljYkRpLVVEb1pLc1BnY01mMDhvN2dMaUVCdWxGT2JNaVMzQjA5b0FkWk13Rl96dzhZaDA0bFlIeG9LTGJLMG5YNW9RY0QzelpsYktnVlV1SmQwQ3Z3Mm9HV2lRdHpXalNKWURZOGNNMkRudlducFN0eTVOLXZCR0pmS1gzdVQ3YWhaSHRrOGVZdWR0cXBXeTM3aU5IcTFBcWV3eW1HT05B0gHMAUFVX3lxTE9sakhZdE45dTZid3Rxb2pkcVJQSXJUTTJaZGVyWEU2N1dFNWU4WTFVZEtYU1drVGRTZkgtMlNRSm1fcVhXbjBLV3NpblcyRXU1dWhaZEo5dHE0UE9adGEzWUU3c0lYblhJb3JTVnBBZmFZZjlqMWtqV2hNR0txV2czZkM0NWNxb3RTdjlOUWZQZ1l3QTFqMEpzZ21WeDNjVVFwUWxjUllzclJUU1ZKOWpCVHdMMGtfQVFROG50LThfZjBDLWVvVXBTalF2Uw?oc=5",
+          "title": "Korea passes landmark law to supercharge $11.4 bil. cosmetics industry - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNWExKR0pYOVlqWkoxWE91QU5FRExrVFVETWZNeWNTT0Zyc3I5c1NwRG5vUXZ4TGRrb21jQjNwaS16ZDZNeWkyWE5xNUI1cDV2MXdlOVdhX3pMYjVPb1hlX1d5Ul9xRG43eXc1amdLcDFWXzNjdzBKbndFQ2xoUVRUNFFMTFlvVlhIMTZRWHdfMEJBeXkyUGdwdEVkbnBiczhZRTdwVXZ3cVdYaGg1R3k0MDhYMjdmSWfSAbwBQVVfeXFMTnlCT3lZdXd2VHJ3Rm0wdWRXYUlTdzBZZ25qM0U3bTlmcEptLW53TnR4Y0NEZzh2STJ1ei1jZXlpak1GbEFPRDQzbUM2c01IdVI3WVgzbE9fU3hzb2lsMXk4YVZmVTVBbHlUVmlaazZfYjB6dnVlUzZLRkdUWXptMk44cDczTklEYmF5XzhPeWJXazBITE9aM0o3c1Jtc1JiX0lwRXQzRXBZSDlwUUg3bjR5MnhTTFlYMVBmUzA?oc=5\" target=\"_blank\">Korea passes landmark law to supercharge $11.4 bil. cosmetics industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWExKR0pYOVlqWkoxWE91QU5FRExrVFVETWZNeWNTT0Zyc3I5c1NwRG5vUXZ4TGRrb21jQjNwaS16ZDZNeWkyWE5xNUI1cDV2MXdlOVdhX3pMYjVPb1hlX1d5Ul9xRG43eXc1amdLcDFWXzNjdzBKbndFQ2xoUVRUNFFMTFlvVlhIMTZRWHdfMEJBeXkyUGdwdEVkbnBiczhZRTdwVXZ3cVdYaGg1R3k0MDhYMjdmSWfSAbwBQVVfeXFMTnlCT3lZdXd2VHJ3Rm0wdWRXYUlTdzBZZ25qM0U3bTlmcEptLW53TnR4Y0NEZzh2STJ1ei1jZXlpak1GbEFPRDQzbUM2c01IdVI3WVgzbE9fU3hzb2lsMXk4YVZmVTVBbHlUVmlaazZfYjB6dnVlUzZLRkdUWXptMk44cDczTklEYmF5XzhPeWJXazBITE9aM0o3c1Jtc1JiX0lwRXQzRXBZSDlwUUg3bjR5MnhTTFlYMVBmUzA?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-08-20",
+          "publishedAt": "2026-08-21",
           "views": "13.0K"
         }
       ]
