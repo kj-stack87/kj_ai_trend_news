@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T01:48:10.300Z",
+  "lastUpdated": "2026-08-23T01:58:07.442Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -65,10 +65,10 @@
           "views": "18.0K"
         },
         {
-          "title": "Michael Polansky is training an AI model on skin that’s still alive - TechCrunch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPOXgwcGtqWjFOSDJMZm5LbVJxeGk4S2QzSnZuVFRXSXpLUk9hc1VZaTl3WVFud2RvejlrV3lzcHNPQV9hZ2V3R0k4bEcyQmNsOXdyUmJVVXRDZG1ZZVJhWmVjYmxTMGNPSnJHekVxd0dCcFJITjBxNFpldy14NHlPcUNLZm5YTVlrMXcwMWpyUXRKSGl6a2JmYVlWRzFIUGt0RWRj?oc=5\" target=\"_blank\">Michael Polansky is training an AI model on skin that’s still alive</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOXgwcGtqWjFOSDJMZm5LbVJxeGk4S2QzSnZuVFRXSXpLUk9hc1VZaTl3WVFud2RvejlrV3lzcHNPQV9hZ2V3R0k4bEcyQmNsOXdyUmJVVXRDZG1ZZVJhWmVjYmxTMGNPSnJHekVxd0dCcFJITjBxNFpldy14NHlPcUNLZm5YTVlrMXcwMWpyUXRKSGl6a2JmYVlWRzFIUGt0RWRj?oc=5",
-          "source": "TechCrunch AI",
+          "title": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWE3OUFQMndpYzJSVFBuYXBocWg0RUlmWGFtZDU0NEdtTUJzRmV2c3ZtWjJFOTUxNEFwaFNkSno5ZlhCdGpTSjJOMnNUc2U1Y01Fc1YtX2NrdnRFM0pEMDYyYXBrWGdHUVpTei1ramJ6YVE1aFFFTGVwX0drX1lBOFdyRGM4cEpZVG9uUEhka1J1RDZDQ0F3UWY3S0VjQVhLbzVjYmZPazhPcnV3c1ZVd0F4bExTeU9QN0VnOVRyVlA?oc=5\" target=\"_blank\">Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWE3OUFQMndpYzJSVFBuYXBocWg0RUlmWGFtZDU0NEdtTUJzRmV2c3ZtWjJFOTUxNEFwaFNkSno5ZlhCdGpTSjJOMnNUc2U1Y01Fc1YtX2NrdnRFM0pEMDYyYXBrWGdHUVpTei1ramJ6YVE1aFFFTGVwX0drX1lBOFdyRGM4cEpZVG9uUEhka1J1RDZDQ0F3UWY3S0VjQVhLbzVjYmZPazhPcnV3c1ZVd0F4bExTeU9QN0VnOVRyVlA?oc=5",
+          "source": "Reuters AI",
           "publishedAt": "2026-08-22",
           "views": "13.0K"
         }
@@ -79,6 +79,14 @@
       "hashtag": "#활용사례",
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
+        {
+          "title": "Enterprises winning with AI agents are limiting how much the agents can do alone - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNd2NlVXJnck9OMl9sYi1aSlhNOVdUU1BNejg0MktZcC1rcm4tYkRtU0tROEx2aFRiOWotQlh1b2JMcVkwZXN0T1pfd1NUTTdHRDhrWWI1YTd0UzNoczN2UjRWdEEzVE9uSlJHX1dOaklWNl9YTWlkYkd6bXVLVzZDUC1DQlpjdVZTNmJwT0tWRW5XbENQaTgxb001aEZaVWd1WE9HQWhjRG5EeF9PVmVfSjRQWW9GUEJoWGc?oc=5\" target=\"_blank\">Enterprises winning with AI agents are limiting how much the agents can do alone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd2NlVXJnck9OMl9sYi1aSlhNOVdUU1BNejg0MktZcC1rcm4tYkRtU0tROEx2aFRiOWotQlh1b2JMcVkwZXN0T1pfd1NUTTdHRDhrWWI1YTd0UzNoczN2UjRWdEEzVE9uSlJHX1dOaklWNl9YTWlkYkd6bXVLVzZDUC1DQlpjdVZTNmJwT0tWRW5XbENQaTgxb001aEZaVWd1WE9HQWhjRG5EeF9PVmVfSjRQWW9GUEJoWGc?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-08-22",
+          "views": "18.0K"
+        },
         {
           "title": "One in five enterprises can't stop a runaway AI agent's spending in real time - VentureBeat",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPN3A2cDZrSmVXYmtLVTNLUTJGY3Y4YW9EU0ZtTUlOOGNqeXdNZzRGbXdDejU5SWlOMFhVZkpieWJGaTdWaTRRc0FKSHpDdHgwTkZ4bzBGcC1jcnR1ZFltVTdITnhOdnVhTm1neGJwd1hfOTZaSGQyTlZwTkYzdm5raEtBWVkxWEtaTmt0YzlUcUFuWS04U2t2UF9DTnlVUUpoZHphZ1N3WVFFY3JaSlNFWHFfWQ?oc=5\" target=\"_blank\">One in five enterprises can't stop a runaway AI agent's spending in real time</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
@@ -93,14 +101,6 @@
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ2QzX1QtRzR1dUkydEt0MkFBUkFzTU9XQkxUQkpjeFV6eU9FVW1pa0RvZlE2Sl9OVGhyYzd3WXE3UGluNDVFS1h1bHltVlZCUlozUlRIcTRnejB3WTZSUnJtUTJLandKdnJZcjhlY1hueDlhRVk2eUt5cjN6Nmx5ZFNRMA?oc=5",
           "source": "AI News",
           "publishedAt": "2026-08-18",
-          "views": "18.0K"
-        },
-        {
-          "title": "Enterprises with AI context layers report agent failures at more than twice the rate of those without one - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPc01adm9wbXhNa2NhaDdSUDVHWUdjRndfSFppY21vbUNUSEgwazdFZkNvSTJzWkpWcnFNbnRZUzlCOHE0QmxSUVZiR0dQSlVYLTFaNjVONVU1Wl9zOG1HYVhWRGlNQWlnanE4M1pLVDAzUl9odW1wOXlMcXdUY3FPSm81Q2wzZmpudVdudG5mR3habUtWOTBURUR3a3FXTnJTR3lIckJmQTFIZ0VMend5cTBqMnpJaVNiNUdvdlp6bE04UEZuNjdiV1Z0UnV2QlU?oc=5\" target=\"_blank\">Enterprises with AI context layers report agent failures at more than twice the rate of those without one</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPc01adm9wbXhNa2NhaDdSUDVHWUdjRndfSFppY21vbUNUSEgwazdFZkNvSTJzWkpWcnFNbnRZUzlCOHE0QmxSUVZiR0dQSlVYLTFaNjVONVU1Wl9zOG1HYVhWRGlNQWlnanE4M1pLVDAzUl9odW1wOXlMcXdUY3FPSm81Q2wzZmpudVdudG5mR3habUtWOTBURUR3a3FXTnJTR3lIckJmQTFIZ0VMend5cTBqMnpJaVNiNUdvdlp6bE04UEZuNjdiV1Z0UnV2QlU?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-08-17",
           "views": "18.0K"
         }
       ]
@@ -173,26 +173,26 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
+          "title": "No signs of additional deployment of N. Korean troops to Russia detected: S. Korean military - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQU09FWFBxa1JKTnQzdkpoMG0xTk9sMTEtVnBHT1l5dGJMRVRvY1ZlSWdLRU4zRFNfVkhYcUxZeXE2emMwbGtsYW1McUdzVEVSOWdXM1lUZ3V2M3BqalVBUU53OFF1a1ZIWV9xQnhRcmtiRkNJVjJlSlA5OENfRFNwbnVaQnJrdzlwY3o5S1FWZ2E0MFdCbVo3Xzdub1ViSlh2OGZlT3FwWk1JRFZicmZwMUtoTzNnaWdSRUE1NXBTYXBvOER2emxIUG8yQmFNYmVkakxlWTV4Wkc5Z0otbHpVMk9rX1E5bzdu0gHuAUFVX3lxTE5oa0JkeDNkUENUU3NadnQwUzNaRXBoMmI4UjB6MEhFX3l5eXdNZ0FvLWRyVkdVVm9BM1hIczNMQU1Ub29IZFhxMlJGT2Q0ZS1PMlFCYkwwSjlUeG4zbndKZk01b2FOUTBQbUk3bHZTNFVaVWxEdjFMcVUwcnhWS0M2TlhfNFBBTlVKYXhKZnlXNEZjOV9NRkNjam5kWGI4U2d4US1YSWgwZFZ5LXdDTGstZW9MelhGYWlLYnZQNHhubzhLaEIzc3RVMS05VE5UWWF4enZXcllLTzVuallHeEVhbVBuX1FoQVNBem1oc0E?oc=5\" target=\"_blank\">No signs of additional deployment of N. Korean troops to Russia detected: S. Korean military</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQU09FWFBxa1JKTnQzdkpoMG0xTk9sMTEtVnBHT1l5dGJMRVRvY1ZlSWdLRU4zRFNfVkhYcUxZeXE2emMwbGtsYW1McUdzVEVSOWdXM1lUZ3V2M3BqalVBUU53OFF1a1ZIWV9xQnhRcmtiRkNJVjJlSlA5OENfRFNwbnVaQnJrdzlwY3o5S1FWZ2E0MFdCbVo3Xzdub1ViSlh2OGZlT3FwWk1JRFZicmZwMUtoTzNnaWdSRUE1NXBTYXBvOER2emxIUG8yQmFNYmVkakxlWTV4Wkc5Z0otbHpVMk9rX1E5bzdu0gHuAUFVX3lxTE5oa0JkeDNkUENUU3NadnQwUzNaRXBoMmI4UjB6MEhFX3l5eXdNZ0FvLWRyVkdVVm9BM1hIczNMQU1Ub29IZFhxMlJGT2Q0ZS1PMlFCYkwwSjlUeG4zbndKZk01b2FOUTBQbUk3bHZTNFVaVWxEdjFMcVUwcnhWS0M2TlhfNFBBTlVKYXhKZnlXNEZjOV9NRkNjam5kWGI4U2d4US1YSWgwZFZ5LXdDTGstZW9MelhGYWlLYnZQNHhubzhLaEIzc3RVMS05VE5UWWF4enZXcllLTzVuallHeEVhbVBuX1FoQVNBem1oc0E?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-08-23",
+          "views": "13.0K"
+        },
+        {
+          "title": "Two US tanker aircraft leave Bulgaria a month after deployment upset Iran - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQR0xHczhyd0MwdmphVllPT2pTUXNMNDBtU29maGIxbGFNdWtjbnAzS1hsMVBXUnNnalVjbXlUQkpJWnZHelR5QkJyV2lLNGRuelVrYW1OQWJ6YTMteGZBbm9vX0lfY0ZZeE93NVVfZ0lsX3hjLXdVeV9qMG5hZ1Y2dU5FbWNQd0t0U0ZJcHV4MmFHbGhnSC1YMWdKaTBCRTQzR2ZzcDNMVnpFaHBCRVl0RXprMVIwMHg3bUI2Qk9IR05MQUM2R0k4QUFnY3VZbEk?oc=5\" target=\"_blank\">Two US tanker aircraft leave Bulgaria a month after deployment upset Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR0xHczhyd0MwdmphVllPT2pTUXNMNDBtU29maGIxbGFNdWtjbnAzS1hsMVBXUnNnalVjbXlUQkpJWnZHelR5QkJyV2lLNGRuelVrYW1OQWJ6YTMteGZBbm9vX0lfY0ZZeE93NVVfZ0lsX3hjLXdVeV9qMG5hZ1Y2dU5FbWNQd0t0U0ZJcHV4MmFHbGhnSC1YMWdKaTBCRTQzR2ZzcDNMVnpFaHBCRVl0RXprMVIwMHg3bUI2Qk9IR05MQUM2R0k4QUFnY3VZbEk?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-08-22",
+          "views": "13.0K"
+        },
+        {
           "title": "LG Display Unveils Maskless OLED Manufacturing Breakthrough - ETNEWS",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE90U0hNb2ZmaWZISUZVNmVvUm9jSDdNQ2R0SHpZVzd4dl84WXhsYml1b19IWEtjZm5WeGt5U3dRU1dHQklmTl9QeG94Y1c?oc=5\" target=\"_blank\">LG Display Unveils Maskless OLED Manufacturing Breakthrough</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE90U0hNb2ZmaWZISUZVNmVvUm9jSDdNQ2R0SHpZVzd4dl84WXhsYml1b19IWEtjZm5WeGt5U3dRU1dHQklmTl9QeG94Y1c?oc=5",
           "source": "전자신문",
-          "publishedAt": "2026-08-21",
-          "views": "13.0K"
-        },
-        {
-          "title": "Samsung to Unveil Galaxy S26 FE This Month: A Strategy to Expand Share - ETNEWS",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhOHduQkZhSkc4MlM1Zi0zOUppcG9nYTdCWWVKZGlpRldpeGxWbTBqVExiTXltTUFSdTRtM2FXTF9ocHZhcGZnNFRWd2E?oc=5\" target=\"_blank\">Samsung to Unveil Galaxy S26 FE This Month: A Strategy to Expand Share</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhOHduQkZhSkc4MlM1Zi0zOUppcG9nYTdCWWVKZGlpRldpeGxWbTBqVExiTXltTUFSdTRtM2FXTF9ocHZhcGZnNFRWd2E?oc=5",
-          "source": "전자신문",
-          "publishedAt": "2026-08-21",
-          "views": "13.0K"
-        },
-        {
-          "title": "Korea passes landmark law to supercharge $11.4 bil. cosmetics industry - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNWExKR0pYOVlqWkoxWE91QU5FRExrVFVETWZNeWNTT0Zyc3I5c1NwRG5vUXZ4TGRrb21jQjNwaS16ZDZNeWkyWE5xNUI1cDV2MXdlOVdhX3pMYjVPb1hlX1d5Ul9xRG43eXc1amdLcDFWXzNjdzBKbndFQ2xoUVRUNFFMTFlvVlhIMTZRWHdfMEJBeXkyUGdwdEVkbnBiczhZRTdwVXZ3cVdYaGg1R3k0MDhYMjdmSWfSAbwBQVVfeXFMTnlCT3lZdXd2VHJ3Rm0wdWRXYUlTdzBZZ25qM0U3bTlmcEptLW53TnR4Y0NEZzh2STJ1ei1jZXlpak1GbEFPRDQzbUM2c01IdVI3WVgzbE9fU3hzb2lsMXk4YVZmVTVBbHlUVmlaazZfYjB6dnVlUzZLRkdUWXptMk44cDczTklEYmF5XzhPeWJXazBITE9aM0o3c1Jtc1JiX0lwRXQzRXBZSDlwUUg3bjR5MnhTTFlYMVBmUzA?oc=5\" target=\"_blank\">Korea passes landmark law to supercharge $11.4 bil. cosmetics industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWExKR0pYOVlqWkoxWE91QU5FRExrVFVETWZNeWNTT0Zyc3I5c1NwRG5vUXZ4TGRrb21jQjNwaS16ZDZNeWkyWE5xNUI1cDV2MXdlOVdhX3pMYjVPb1hlX1d5Ul9xRG43eXc1amdLcDFWXzNjdzBKbndFQ2xoUVRUNFFMTFlvVlhIMTZRWHdfMEJBeXkyUGdwdEVkbnBiczhZRTdwVXZ3cVdYaGg1R3k0MDhYMjdmSWfSAbwBQVVfeXFMTnlCT3lZdXd2VHJ3Rm0wdWRXYUlTdzBZZ25qM0U3bTlmcEptLW53TnR4Y0NEZzh2STJ1ei1jZXlpak1GbEFPRDQzbUM2c01IdVI3WVgzbE9fU3hzb2lsMXk4YVZmVTVBbHlUVmlaazZfYjB6dnVlUzZLRkdUWXptMk44cDczTklEYmF5XzhPeWJXazBITE9aM0o3c1Jtc1JiX0lwRXQzRXBZSDlwUUg3bjR5MnhTTFlYMVBmUzA?oc=5",
-          "source": "The Korea Times",
           "publishedAt": "2026-08-21",
           "views": "13.0K"
         }
