@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T01:58:07.442Z",
+  "lastUpdated": "2026-08-24T01:55:43.022Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,6 +49,14 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
+          "title": "Is it legal to train AI models on copyrighted books? It’s complicated - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPTE9CcWIxQW9EcWoyNGxmNkZnM2wxdGV6azludUF1d2FldmR1REk1RF9laG80U0ppdUxNOGpTdHpsLV83azQ3cjNsYjN6SjhXVDhNNXBNQ2haeXhMRXdWa255Wl9LTGstWThKOHE4bVAzYXdFMkFZcXdmTWVYU25Lb1I1WEJHM1pEazFWYVoybWRMWFdLWWd2Ynl0SDFEbEZsVXlkVA?oc=5\" target=\"_blank\">Is it legal to train AI models on copyrighted books? It’s complicated</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTE9CcWIxQW9EcWoyNGxmNkZnM2wxdGV6azludUF1d2FldmR1REk1RF9laG80U0ppdUxNOGpTdHpsLV83azQ3cjNsYjN6SjhXVDhNNXBNQ2haeXhMRXdWa255Wl9LTGstWThKOHE4bVAzYXdFMkFZcXdmTWVYU25Lb1I1WEJHM1pEazFWYVoybWRMWFdLWWd2Ynl0SDFEbEZsVXlkVA?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-08-23",
+          "views": "18.0K"
+        },
+        {
           "title": "OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20% - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPTVBSYzdnbW5mTHlUTzVRb3JaenRKVncwMjliZ3RZSy1xb3hNaEZxelZ0Z0FYMzRYOEF3MnNpajNwLUtFbkdpbzNIUmNFTWlOMVRINmxaTGJibjNWN05xMERzaU5lUXcwTHBDZC1GRm0xMG9PbjYxRzNyOXFrMFZKM0FMeXcyM1ZwT05tUkNUbjc4YXBySm5XMG1EY0JtZlFkdTBVZmhXbm83YWtXMTVrcVBKbnlKRFNjcnc?oc=5\" target=\"_blank\">OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTVBSYzdnbW5mTHlUTzVRb3JaenRKVncwMjliZ3RZSy1xb3hNaEZxelZ0Z0FYMzRYOEF3MnNpajNwLUtFbkdpbzNIUmNFTWlOMVRINmxaTGJibjNWN05xMERzaU5lUXcwTHBDZC1GRm0xMG9PbjYxRzNyOXFrMFZKM0FMeXcyM1ZwT05tUkNUbjc4YXBySm5XMG1EY0JtZlFkdTBVZmhXbm83YWtXMTVrcVBKbnlKRFNjcnc?oc=5",
@@ -63,14 +71,6 @@
           "source": "The Korea Times",
           "publishedAt": "2026-08-19",
           "views": "18.0K"
-        },
-        {
-          "title": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWE3OUFQMndpYzJSVFBuYXBocWg0RUlmWGFtZDU0NEdtTUJzRmV2c3ZtWjJFOTUxNEFwaFNkSno5ZlhCdGpTSjJOMnNUc2U1Y01Fc1YtX2NrdnRFM0pEMDYyYXBrWGdHUVpTei1ramJ6YVE1aFFFTGVwX0drX1lBOFdyRGM4cEpZVG9uUEhka1J1RDZDQ0F3UWY3S0VjQVhLbzVjYmZPazhPcnV3c1ZVd0F4bExTeU9QN0VnOVRyVlA?oc=5\" target=\"_blank\">Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWE3OUFQMndpYzJSVFBuYXBocWg0RUlmWGFtZDU0NEdtTUJzRmV2c3ZtWjJFOTUxNEFwaFNkSno5ZlhCdGpTSjJOMnNUc2U1Y01Fc1YtX2NrdnRFM0pEMDYyYXBrWGdHUVpTei1ramJ6YVE1aFFFTGVwX0drX1lBOFdyRGM4cEpZVG9uUEhka1J1RDZDQ0F3UWY3S0VjQVhLbzVjYmZPazhPcnV3c1ZVd0F4bExTeU9QN0VnOVRyVlA?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-08-22",
-          "views": "13.0K"
         }
       ]
     },
@@ -79,6 +79,14 @@
       "hashtag": "#활용사례",
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
+        {
+          "title": "Enterprise AI agents are only as reliable as the messiest documents behind them - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYWpfMGY0V0NOZEdaRzZXRHJQWUg3U0drSDRESzR3SFBoT2piWHVxbWZLWWZOcUhmYnBjUVhmZU5QUDNDWTUtX2M2Y0xQSXV3RGNxY0FRcEVvYVdtTnRfb3BxdGtkSjBDZVVlRmtsTXVhdVA3U3pqTERMT1lHZXFrWjgxX2t0R291R0UxWFd3NGJsaklrMUpaU1dxWV9pSmI3Wkp3cHAybTFQMXBLb05vNUdUZ1ppVy0x?oc=5\" target=\"_blank\">Enterprise AI agents are only as reliable as the messiest documents behind them</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYWpfMGY0V0NOZEdaRzZXRHJQWUg3U0drSDRESzR3SFBoT2piWHVxbWZLWWZOcUhmYnBjUVhmZU5QUDNDWTUtX2M2Y0xQSXV3RGNxY0FRcEVvYVdtTnRfb3BxdGtkSjBDZVVlRmtsTXVhdVA3U3pqTERMT1lHZXFrWjgxX2t0R291R0UxWFd3NGJsaklrMUpaU1dxWV9pSmI3Wkp3cHAybTFQMXBLb05vNUdUZ1ppVy0x?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-08-23",
+          "views": "18.0K"
+        },
         {
           "title": "Enterprises winning with AI agents are limiting how much the agents can do alone - VentureBeat",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNd2NlVXJnck9OMl9sYi1aSlhNOVdUU1BNejg0MktZcC1rcm4tYkRtU0tROEx2aFRiOWotQlh1b2JMcVkwZXN0T1pfd1NUTTdHRDhrWWI1YTd0UzNoczN2UjRWdEEzVE9uSlJHX1dOaklWNl9YTWlkYkd6bXVLVzZDUC1DQlpjdVZTNmJwT0tWRW5XbENQaTgxb001aEZaVWd1WE9HQWhjRG5EeF9PVmVfSjRQWW9GUEJoWGc?oc=5\" target=\"_blank\">Enterprises winning with AI agents are limiting how much the agents can do alone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
@@ -93,14 +101,6 @@
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN3A2cDZrSmVXYmtLVTNLUTJGY3Y4YW9EU0ZtTUlOOGNqeXdNZzRGbXdDejU5SWlOMFhVZkpieWJGaTdWaTRRc0FKSHpDdHgwTkZ4bzBGcC1jcnR1ZFltVTdITnhOdnVhTm1neGJwd1hfOTZaSGQyTlZwTkYzdm5raEtBWVkxWEtaTmt0YzlUcUFuWS04U2t2UF9DTnlVUUpoZHphZ1N3WVFFY3JaSlNFWHFfWQ?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-08-20",
-          "views": "18.0K"
-        },
-        {
-          "title": "Alvys launches AI agents for freight TMS workflows - AI News",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ2QzX1QtRzR1dUkydEt0MkFBUkFzTU9XQkxUQkpjeFV6eU9FVW1pa0RvZlE2Sl9OVGhyYzd3WXE3UGluNDVFS1h1bHltVlZCUlozUlRIcTRnejB3WTZSUnJtUTJLandKdnJZcjhlY1hueDlhRVk2eUt5cjN6Nmx5ZFNRMA?oc=5\" target=\"_blank\">Alvys launches AI agents for freight TMS workflows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI News</font>",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ2QzX1QtRzR1dUkydEt0MkFBUkFzTU9XQkxUQkpjeFV6eU9FVW1pa0RvZlE2Sl9OVGhyYzd3WXE3UGluNDVFS1h1bHltVlZCUlozUlRIcTRnejB3WTZSUnJtUTJLandKdnJZcjhlY1hueDlhRVk2eUt5cjN6Nmx5ZFNRMA?oc=5",
-          "source": "AI News",
-          "publishedAt": "2026-08-18",
           "views": "18.0K"
         }
       ]
@@ -173,10 +173,18 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
-          "title": "No signs of additional deployment of N. Korean troops to Russia detected: S. Korean military - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQU09FWFBxa1JKTnQzdkpoMG0xTk9sMTEtVnBHT1l5dGJMRVRvY1ZlSWdLRU4zRFNfVkhYcUxZeXE2emMwbGtsYW1McUdzVEVSOWdXM1lUZ3V2M3BqalVBUU53OFF1a1ZIWV9xQnhRcmtiRkNJVjJlSlA5OENfRFNwbnVaQnJrdzlwY3o5S1FWZ2E0MFdCbVo3Xzdub1ViSlh2OGZlT3FwWk1JRFZicmZwMUtoTzNnaWdSRUE1NXBTYXBvOER2emxIUG8yQmFNYmVkakxlWTV4Wkc5Z0otbHpVMk9rX1E5bzdu0gHuAUFVX3lxTE5oa0JkeDNkUENUU3NadnQwUzNaRXBoMmI4UjB6MEhFX3l5eXdNZ0FvLWRyVkdVVm9BM1hIczNMQU1Ub29IZFhxMlJGT2Q0ZS1PMlFCYkwwSjlUeG4zbndKZk01b2FOUTBQbUk3bHZTNFVaVWxEdjFMcVUwcnhWS0M2TlhfNFBBTlVKYXhKZnlXNEZjOV9NRkNjam5kWGI4U2d4US1YSWgwZFZ5LXdDTGstZW9MelhGYWlLYnZQNHhubzhLaEIzc3RVMS05VE5UWWF4enZXcllLTzVuallHeEVhbVBuX1FoQVNBem1oc0E?oc=5\" target=\"_blank\">No signs of additional deployment of N. Korean troops to Russia detected: S. Korean military</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "title": "No signs of additional deployment of NK troops to Russia detected: S. Korean military - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQU09FWFBxa1JKTnQzdkpoMG0xTk9sMTEtVnBHT1l5dGJMRVRvY1ZlSWdLRU4zRFNfVkhYcUxZeXE2emMwbGtsYW1McUdzVEVSOWdXM1lUZ3V2M3BqalVBUU53OFF1a1ZIWV9xQnhRcmtiRkNJVjJlSlA5OENfRFNwbnVaQnJrdzlwY3o5S1FWZ2E0MFdCbVo3Xzdub1ViSlh2OGZlT3FwWk1JRFZicmZwMUtoTzNnaWdSRUE1NXBTYXBvOER2emxIUG8yQmFNYmVkakxlWTV4Wkc5Z0otbHpVMk9rX1E5bzdu0gHuAUFVX3lxTE5oa0JkeDNkUENUU3NadnQwUzNaRXBoMmI4UjB6MEhFX3l5eXdNZ0FvLWRyVkdVVm9BM1hIczNMQU1Ub29IZFhxMlJGT2Q0ZS1PMlFCYkwwSjlUeG4zbndKZk01b2FOUTBQbUk3bHZTNFVaVWxEdjFMcVUwcnhWS0M2TlhfNFBBTlVKYXhKZnlXNEZjOV9NRkNjam5kWGI4U2d4US1YSWgwZFZ5LXdDTGstZW9MelhGYWlLYnZQNHhubzhLaEIzc3RVMS05VE5UWWF4enZXcllLTzVuallHeEVhbVBuX1FoQVNBem1oc0E?oc=5\" target=\"_blank\">No signs of additional deployment of NK troops to Russia detected: S. Korean military</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
           "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQU09FWFBxa1JKTnQzdkpoMG0xTk9sMTEtVnBHT1l5dGJMRVRvY1ZlSWdLRU4zRFNfVkhYcUxZeXE2emMwbGtsYW1McUdzVEVSOWdXM1lUZ3V2M3BqalVBUU53OFF1a1ZIWV9xQnhRcmtiRkNJVjJlSlA5OENfRFNwbnVaQnJrdzlwY3o5S1FWZ2E0MFdCbVo3Xzdub1ViSlh2OGZlT3FwWk1JRFZicmZwMUtoTzNnaWdSRUE1NXBTYXBvOER2emxIUG8yQmFNYmVkakxlWTV4Wkc5Z0otbHpVMk9rX1E5bzdu0gHuAUFVX3lxTE5oa0JkeDNkUENUU3NadnQwUzNaRXBoMmI4UjB6MEhFX3l5eXdNZ0FvLWRyVkdVVm9BM1hIczNMQU1Ub29IZFhxMlJGT2Q0ZS1PMlFCYkwwSjlUeG4zbndKZk01b2FOUTBQbUk3bHZTNFVaVWxEdjFMcVUwcnhWS0M2TlhfNFBBTlVKYXhKZnlXNEZjOV9NRkNjam5kWGI4U2d4US1YSWgwZFZ5LXdDTGstZW9MelhGYWlLYnZQNHhubzhLaEIzc3RVMS05VE5UWWF4enZXcllLTzVuallHeEVhbVBuX1FoQVNBem1oc0E?oc=5",
           "source": "The Korea Times",
+          "publishedAt": "2026-08-23",
+          "views": "13.0K"
+        },
+        {
+          "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNV1V6ZHdjZTJqemt0SkJVS1VuaTBMSllYQUJqUTU4cVRBUlE5dllWOEFJeHpDRUtnWVlnNWFwaUdUSEN2TWtJMmxHRkJCTG9hWlVNcDRHUTJSbWpFdTh3bURnUXVScjF2TFBHWU1XWWdoSFRYRkkxLWRSWmJTVDlwWDMxR1Vkb1kyR3c3SERscXdoam9jdXRrdG13VE5PVXYwMS1tcWZGd2hMMThpR1YyclVn?oc=5\" target=\"_blank\">Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV1V6ZHdjZTJqemt0SkJVS1VuaTBMSllYQUJqUTU4cVRBUlE5dllWOEFJeHpDRUtnWVlnNWFwaUdUSEN2TWtJMmxHRkJCTG9hWlVNcDRHUTJSbWpFdTh3bURnUXVScjF2TFBHWU1XWWdoSFRYRkkxLWRSWmJTVDlwWDMxR1Vkb1kyR3c3SERscXdoam9jdXRrdG13VE5PVXYwMS1tcWZGd2hMMThpR1YyclVn?oc=5",
+          "source": "TechCrunch AI",
           "publishedAt": "2026-08-23",
           "views": "13.0K"
         },
@@ -186,14 +194,6 @@
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR0xHczhyd0MwdmphVllPT2pTUXNMNDBtU29maGIxbGFNdWtjbnAzS1hsMVBXUnNnalVjbXlUQkpJWnZHelR5QkJyV2lLNGRuelVrYW1OQWJ6YTMteGZBbm9vX0lfY0ZZeE93NVVfZ0lsX3hjLXdVeV9qMG5hZ1Y2dU5FbWNQd0t0U0ZJcHV4MmFHbGhnSC1YMWdKaTBCRTQzR2ZzcDNMVnpFaHBCRVl0RXprMVIwMHg3bUI2Qk9IR05MQUM2R0k4QUFnY3VZbEk?oc=5",
           "source": "Reuters AI",
           "publishedAt": "2026-08-22",
-          "views": "13.0K"
-        },
-        {
-          "title": "LG Display Unveils Maskless OLED Manufacturing Breakthrough - ETNEWS",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE90U0hNb2ZmaWZISUZVNmVvUm9jSDdNQ2R0SHpZVzd4dl84WXhsYml1b19IWEtjZm5WeGt5U3dRU1dHQklmTl9QeG94Y1c?oc=5\" target=\"_blank\">LG Display Unveils Maskless OLED Manufacturing Breakthrough</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE90U0hNb2ZmaWZISUZVNmVvUm9jSDdNQ2R0SHpZVzd4dl84WXhsYml1b19IWEtjZm5WeGt5U3dRU1dHQklmTl9QeG94Y1c?oc=5",
-          "source": "전자신문",
-          "publishedAt": "2026-08-21",
           "views": "13.0K"
         }
       ]
