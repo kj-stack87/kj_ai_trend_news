@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T01:50:13.859Z",
+  "lastUpdated": "2026-08-26T01:56:24.245Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,6 +49,14 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
+          "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPdlE2bVR3UFAwRV80akdTekNTajNURldEZWl0elhCNVIyb0JwaU90UmlWdFVLdjd1N1FobmZoelpmOW1qVzRoeWxrMG44ZlZiVjhDUEh4WTNaMk1oSlNDNGZmcGhHRWVoMFJvek93U2Z5cERzUnliU3pIX3ZjUEJYUlh5ZzZHRnVHd1UtTkM0R1c4b1pBX0FxT3VvcUttSkJNTkN2OGM1OE5WYjBleEE?oc=5\" target=\"_blank\">OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdlE2bVR3UFAwRV80akdTekNTajNURldEZWl0elhCNVIyb0JwaU90UmlWdFVLdjd1N1FobmZoelpmOW1qVzRoeWxrMG44ZlZiVjhDUEh4WTNaMk1oSlNDNGZmcGhHRWVoMFJvek93U2Z5cERzUnliU3pIX3ZjUEJYUlh5ZzZHRnVHd1UtTkM0R1c4b1pBX0FxT3VvcUttSkJNTkN2OGM1OE5WYjBleEE?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-08-25",
+          "views": "18.0K"
+        },
+        {
           "title": "Is it legal to train AI models on copyrighted books? It’s complicated - TechCrunch",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPTE9CcWIxQW9EcWoyNGxmNkZnM2wxdGV6azludUF1d2FldmR1REk1RF9laG80U0ppdUxNOGpTdHpsLV83azQ3cjNsYjN6SjhXVDhNNXBNQ2haeXhMRXdWa255Wl9LTGstWThKOHE4bVAzYXdFMkFZcXdmTWVYU25Lb1I1WEJHM1pEazFWYVoybWRMWFdLWWd2Ynl0SDFEbEZsVXlkVA?oc=5\" target=\"_blank\">Is it legal to train AI models on copyrighted books? It’s complicated</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTE9CcWIxQW9EcWoyNGxmNkZnM2wxdGV6azludUF1d2FldmR1REk1RF9laG80U0ppdUxNOGpTdHpsLV83azQ3cjNsYjN6SjhXVDhNNXBNQ2haeXhMRXdWa255Wl9LTGstWThKOHE4bVAzYXdFMkFZcXdmTWVYU25Lb1I1WEJHM1pEazFWYVoybWRMWFdLWWd2Ynl0SDFEbEZsVXlkVA?oc=5",
@@ -63,14 +71,6 @@
           "source": "Reuters AI",
           "publishedAt": "2026-08-21",
           "views": "18.0K"
-        },
-        {
-          "title": "KT puts Korean AI chips, language model into one enterprise server - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPeXRVcy1lbVBkTkxNV3Q5X2pkaEtrWEUxYWJpOVZtS2hWMkg4NEF6b2doaHJJZTlsX1lNRXhVeEJZek9XTjBMOXBUcksxZlktc2lxSks1aVFLV2NNdTFibC1wS3F6ejZUQmlMZm1EcHAtcE9KeHdvOFgtNVpWRXU4TGVfS3lDNElLTDd2ZkY0MzdUemJfNTE4X2NCNC1pRk04Q2tuYkJva2txUFY4Z2dfQVl6QmJGYTJnU2F3amgzUdIBxAFBVV95cUxNeTlkV0ViNjVzWTlzampCb2kyRE5IeTZRWmRwazdnZk82MGFQcVU0cHBCSDF1emtOQ1ZVemtNaWNLamRmV1pVeTB1ZnFoS3lfV0xzUGowYVFpSGxwbjI0OEdMQ095V0Y5Y2VLY3NDZUYyWl9yU0xrMWw2TnNjR3BvX1lxLU83LW9URFg3cW9JMWlkU2tFaDM0ZmRta0JncnI2RHlSSmpmVnpyeG9iZVd1Y0RnTHlpeFE5b0NQRlpIb1FMLVNi?oc=5\" target=\"_blank\">KT puts Korean AI chips, language model into one enterprise server</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeXRVcy1lbVBkTkxNV3Q5X2pkaEtrWEUxYWJpOVZtS2hWMkg4NEF6b2doaHJJZTlsX1lNRXhVeEJZek9XTjBMOXBUcksxZlktc2lxSks1aVFLV2NNdTFibC1wS3F6ejZUQmlMZm1EcHAtcE9KeHdvOFgtNVpWRXU4TGVfS3lDNElLTDd2ZkY0MzdUemJfNTE4X2NCNC1pRk04Q2tuYkJva2txUFY4Z2dfQVl6QmJGYTJnU2F3amgzUdIBxAFBVV95cUxNeTlkV0ViNjVzWTlzampCb2kyRE5IeTZRWmRwazdnZk82MGFQcVU0cHBCSDF1emtOQ1ZVemtNaWNLamRmV1pVeTB1ZnFoS3lfV0xzUGowYVFpSGxwbjI0OEdMQ095V0Y5Y2VLY3NDZUYyWl9yU0xrMWw2TnNjR3BvX1lxLU83LW9URFg3cW9JMWlkU2tFaDM0ZmRta0JncnI2RHlSSmpmVnpyeG9iZVd1Y0RnTHlpeFE5b0NQRlpIb1FMLVNi?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-08-19",
-          "views": "18.0K"
         }
       ]
     },
@@ -80,24 +80,24 @@
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
         {
-          "title": "Enterprise AI agents are only as reliable as the messiest documents behind them - Venturebeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYWpfMGY0V0NOZEdaRzZXRHJQWUg3U0drSDRESzR3SFBoT2piWHVxbWZLWWZOcUhmYnBjUVhmZU5QUDNDWTUtX2M2Y0xQSXV3RGNxY0FRcEVvYVdtTnRfb3BxdGtkSjBDZVVlRmtsTXVhdVA3U3pqTERMT1lHZXFrWjgxX2t0R291R0UxWFd3NGJsaklrMUpaU1dxWV9pSmI3Wkp3cHAybTFQMXBLb05vNUdUZ1ppVy0x?oc=5\" target=\"_blank\">Enterprise AI agents are only as reliable as the messiest documents behind them</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Venturebeat</font>",
+          "title": "Enterprise AI agents are only as reliable as the messiest documents behind them - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYWpfMGY0V0NOZEdaRzZXRHJQWUg3U0drSDRESzR3SFBoT2piWHVxbWZLWWZOcUhmYnBjUVhmZU5QUDNDWTUtX2M2Y0xQSXV3RGNxY0FRcEVvYVdtTnRfb3BxdGtkSjBDZVVlRmtsTXVhdVA3U3pqTERMT1lHZXFrWjgxX2t0R291R0UxWFd3NGJsaklrMUpaU1dxWV9pSmI3Wkp3cHAybTFQMXBLb05vNUdUZ1ppVy0x?oc=5\" target=\"_blank\">Enterprise AI agents are only as reliable as the messiest documents behind them</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYWpfMGY0V0NOZEdaRzZXRHJQWUg3U0drSDRESzR3SFBoT2piWHVxbWZLWWZOcUhmYnBjUVhmZU5QUDNDWTUtX2M2Y0xQSXV3RGNxY0FRcEVvYVdtTnRfb3BxdGtkSjBDZVVlRmtsTXVhdVA3U3pqTERMT1lHZXFrWjgxX2t0R291R0UxWFd3NGJsaklrMUpaU1dxWV9pSmI3Wkp3cHAybTFQMXBLb05vNUdUZ1ppVy0x?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-08-23",
           "views": "18.0K"
         },
         {
-          "title": "Enterprises winning with AI agents are limiting how much the agents can do alone - Venturebeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNd2NlVXJnck9OMl9sYi1aSlhNOVdUU1BNejg0MktZcC1rcm4tYkRtU0tROEx2aFRiOWotQlh1b2JMcVkwZXN0T1pfd1NUTTdHRDhrWWI1YTd0UzNoczN2UjRWdEEzVE9uSlJHX1dOaklWNl9YTWlkYkd6bXVLVzZDUC1DQlpjdVZTNmJwT0tWRW5XbENQaTgxb001aEZaVWd1WE9HQWhjRG5EeF9PVmVfSjRQWW9GUEJoWGc?oc=5\" target=\"_blank\">Enterprises winning with AI agents are limiting how much the agents can do alone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Venturebeat</font>",
+          "title": "Enterprises winning with AI agents are limiting how much the agents can do alone - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNd2NlVXJnck9OMl9sYi1aSlhNOVdUU1BNejg0MktZcC1rcm4tYkRtU0tROEx2aFRiOWotQlh1b2JMcVkwZXN0T1pfd1NUTTdHRDhrWWI1YTd0UzNoczN2UjRWdEEzVE9uSlJHX1dOaklWNl9YTWlkYkd6bXVLVzZDUC1DQlpjdVZTNmJwT0tWRW5XbENQaTgxb001aEZaVWd1WE9HQWhjRG5EeF9PVmVfSjRQWW9GUEJoWGc?oc=5\" target=\"_blank\">Enterprises winning with AI agents are limiting how much the agents can do alone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd2NlVXJnck9OMl9sYi1aSlhNOVdUU1BNejg0MktZcC1rcm4tYkRtU0tROEx2aFRiOWotQlh1b2JMcVkwZXN0T1pfd1NUTTdHRDhrWWI1YTd0UzNoczN2UjRWdEEzVE9uSlJHX1dOaklWNl9YTWlkYkd6bXVLVzZDUC1DQlpjdVZTNmJwT0tWRW5XbENQaTgxb001aEZaVWd1WE9HQWhjRG5EeF9PVmVfSjRQWW9GUEJoWGc?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-08-22",
           "views": "18.0K"
         },
         {
-          "title": "One in five enterprises can't stop a runaway AI agent's spending in real time - Venturebeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPN3A2cDZrSmVXYmtLVTNLUTJGY3Y4YW9EU0ZtTUlOOGNqeXdNZzRGbXdDejU5SWlOMFhVZkpieWJGaTdWaTRRc0FKSHpDdHgwTkZ4bzBGcC1jcnR1ZFltVTdITnhOdnVhTm1neGJwd1hfOTZaSGQyTlZwTkYzdm5raEtBWVkxWEtaTmt0YzlUcUFuWS04U2t2UF9DTnlVUUpoZHphZ1N3WVFFY3JaSlNFWHFfWQ?oc=5\" target=\"_blank\">One in five enterprises can't stop a runaway AI agent's spending in real time</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Venturebeat</font>",
+          "title": "One in five enterprises can't stop a runaway AI agent's spending in real time - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPN3A2cDZrSmVXYmtLVTNLUTJGY3Y4YW9EU0ZtTUlOOGNqeXdNZzRGbXdDejU5SWlOMFhVZkpieWJGaTdWaTRRc0FKSHpDdHgwTkZ4bzBGcC1jcnR1ZFltVTdITnhOdnVhTm1neGJwd1hfOTZaSGQyTlZwTkYzdm5raEtBWVkxWEtaTmt0YzlUcUFuWS04U2t2UF9DTnlVUUpoZHphZ1N3WVFFY3JaSlNFWHFfWQ?oc=5\" target=\"_blank\">One in five enterprises can't stop a runaway AI agent's spending in real time</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN3A2cDZrSmVXYmtLVTNLUTJGY3Y4YW9EU0ZtTUlOOGNqeXdNZzRGbXdDejU5SWlOMFhVZkpieWJGaTdWaTRRc0FKSHpDdHgwTkZ4bzBGcC1jcnR1ZFltVTdITnhOdnVhTm1neGJwd1hfOTZaSGQyTlZwTkYzdm5raEtBWVkxWEtaTmt0YzlUcUFuWS04U2t2UF9DTnlVUUpoZHphZ1N3WVFFY3JaSlNFWHFfWQ?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-08-20",
@@ -142,6 +142,14 @@
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
         {
+          "title": "Gatik secures $200 million in funding as autonomous freight market accelerates - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdHpGallMQWIzRmNCZzFINUNtUU9Cby12RjVUYmRqZ0x0MTluY1hxSVZwRFl1S09IQ1R4WDdhNDhvS3dSUUV6RGM0RThIaXk4aVNtaEtFbEFnR0EzYzF1cVVxOS13cTd2N3o5aXpMVEgxLUlCbV9ETU55S1BVN0RmRWVLc3dBaGN5SjY3ZnRrSWlrSGNhZFVOQTVxbmdJQWFBMFA3Q3NnUTZmWG1nRHhscVZkOTh3WWw0RE1R?oc=5\" target=\"_blank\">Gatik secures $200 million in funding as autonomous freight market accelerates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdHpGallMQWIzRmNCZzFINUNtUU9Cby12RjVUYmRqZ0x0MTluY1hxSVZwRFl1S09IQ1R4WDdhNDhvS3dSUUV6RGM0RThIaXk4aVNtaEtFbEFnR0EzYzF1cVVxOS13cTd2N3o5aXpMVEgxLUlCbV9ETU55S1BVN0RmRWVLc3dBaGN5SjY3ZnRrSWlrSGNhZFVOQTVxbmdJQWFBMFA3Q3NnUTZmWG1nRHhscVZkOTh3WWw0RE1R?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-08-25",
+          "views": "18.0K"
+        },
+        {
           "title": "Scandal-hit KPMG Australia to cut nearly 400 jobs, warns of difficult market - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNRFBwUmVUQ2FIYkhmeTVfb2xYQ3JjU2ZsSzJkQ3ZlUzhaY1VtUlVIZnhtMnF6VUZuTXZxMWltMkNRRUF0ZEQxaC11NGliS2wzRGNpRTZza0VfdkRlSXZhTm1fSk16ZnJVZjRaVDRXaE1Rd1ZPU3llSFBaRTVKQVhvU0VwOFVidzNNc1RSZTVOUFh1SjF0LV9vdlRlcUJESGgxeDhRV0NWZldQV0Q0eVNKV1FBOTdIeEFNV0ozcA?oc=5\" target=\"_blank\">Scandal-hit KPMG Australia to cut nearly 400 jobs, warns of difficult market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRFBwUmVUQ2FIYkhmeTVfb2xYQ3JjU2ZsSzJkQ3ZlUzhaY1VtUlVIZnhtMnF6VUZuTXZxMWltMkNRRUF0ZEQxaC11NGliS2wzRGNpRTZza0VfdkRlSXZhTm1fSk16ZnJVZjRaVDRXaE1Rd1ZPU3llSFBaRTVKQVhvU0VwOFVidzNNc1RSZTVOUFh1SjF0LV9vdlRlcUJESGgxeDhRV0NWZldQV0Q0eVNKV1FBOTdIeEFNV0ozcA?oc=5",
@@ -156,14 +164,6 @@
           "source": "Reuters AI",
           "publishedAt": "2026-08-19",
           "views": "18.0K"
-        },
-        {
-          "title": "Even as market clouds clear, AI investment anxiety still gnaws - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQbEp6UVdnQ0t5bGpUeHF1THM5SllRRjZqNFV0M1FUVFZtY25qN0NBY1R4ZzQxMUo2XzhzRlA2Mm9laDE0U1JtZDBfTTh3QjhTem9aMmQ4ZDhMR2Y5dDNUdVE2dVRuRThicGc1dW5XSklsM0hWalhkM0VQNU9MdmducEp2cy12RUtfNTlFZWdfVmxUc1NfNVo5aVZobkZOZ0stRnMydlVOYlotN0hHRG5mbGZTVXBrX2xwanVaak5xbFRKM3hjcVE?oc=5\" target=\"_blank\">Even as market clouds clear, AI investment anxiety still gnaws</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbEp6UVdnQ0t5bGpUeHF1THM5SllRRjZqNFV0M1FUVFZtY25qN0NBY1R4ZzQxMUo2XzhzRlA2Mm9laDE0U1JtZDBfTTh3QjhTem9aMmQ4ZDhMR2Y5dDNUdVE2dVRuRThicGc1dW5XSklsM0hWalhkM0VQNU9MdmducEp2cy12RUtfNTlFZWdfVmxUc1NfNVo5aVZobkZOZ0stRnMydlVOYlotN0hHRG5mbGZTVXBrX2xwanVaak5xbFRKM3hjcVE?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-08-18",
-          "views": "18.0K"
         }
       ]
     },
@@ -173,27 +173,27 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
-          "title": "Cho Hyun-bum takes 1st step toward return to management of Hankook & Company - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMVZ3VWg1b2ZoM2FNdUZhYUFFT0lXeWhyTGhNUFM0SWowbjNiemRRSVlpNGhKeDFSLUkzRHhra3hSN01pd2ZycDNDQlpPSHBKdXR1WmxJNllHZERBTHNVanV1ZFdsLWNWNVhSMzFpXy1PQUtsQ0d3ekY0OFBwTVBjc2xzbF9VLWpPeDNmZ0pDQk1lNFBCV2VmMFhnN2FHVDFnZUY0aEtINklqQ0NPOGFjRndVVnhfUUdKVDIyeXBWVlUwQ19RM1BCeTlPeFJkYnNB0gHQAUFVX3lxTE8xVndVaDVvZmgzYU11RmFhQUVPSVd5aHJMaE1QUzRJajBuM2J6ZFFJWWk0aEp4MVItSTNEeGtreFI3TWl3ZnJwM0NCWk9IcEp1dHVabEk2WUdkREFMc1VqdXVkV2wtY1Y1WFIzMWlfLU9BS2xDR3d6RjQ4UHBNUGNzbHNsX1Utak94M2ZnSkNCTWU0UEJXZWYwWGc3YUdUMWdlRjRoS0g2SWpDQ084YWNGd1VWeF9RR0pUMjJ5cFZWVTBDX1EzUEJ5OU94UmRic0E?oc=5\" target=\"_blank\">Cho Hyun-bum takes 1st step toward return to management of Hankook & Company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMVZ3VWg1b2ZoM2FNdUZhYUFFT0lXeWhyTGhNUFM0SWowbjNiemRRSVlpNGhKeDFSLUkzRHhra3hSN01pd2ZycDNDQlpPSHBKdXR1WmxJNllHZERBTHNVanV1ZFdsLWNWNVhSMzFpXy1PQUtsQ0d3ekY0OFBwTVBjc2xzbF9VLWpPeDNmZ0pDQk1lNFBCV2VmMFhnN2FHVDFnZUY0aEtINklqQ0NPOGFjRndVVnhfUUdKVDIyeXBWVlUwQ19RM1BCeTlPeFJkYnNB0gHQAUFVX3lxTE8xVndVaDVvZmgzYU11RmFhQUVPSVd5aHJMaE1QUzRJajBuM2J6ZFFJWWk0aEp4MVItSTNEeGtreFI3TWl3ZnJwM0NCWk9IcEp1dHVabEk2WUdkREFMc1VqdXVkV2wtY1Y1WFIzMWlfLU9BS2xDR3d6RjQ4UHBNUGNzbHNsX1Utak94M2ZnSkNCTWU0UEJXZWYwWGc3YUdUMWdlRjRoS0g2SWpDQ084YWNGd1VWeF9RR0pUMjJ5cFZWVTBDX1EzUEJ5OU94UmRic0E?oc=5",
+          "title": "Lee to explore regional development strategy with mayors, governors - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPSWVEb2dRa2M3UFRWMnVYM2wtQWp3UzdaVVdkWTZJN0ZUSTdncnRxN0tpTkpZeHp3eEp4OVBfSmpYd0MyVnM2ZE0xcDdPSHc4NDNiVi0xa1lTdjIydDJDZGswWF9maC1PaE05bkxmM05hV2pQNTJkQ1FzTmZrWmZLQjJleWYxdTlTa0lwY1FOQUJINm45YzFfeE55REh6MU04c3RxOEpEY3dCSlQ1Q25OelM5Uk0zUHVOTjFrb2NWaEh4UHA3WVpZ0gHHAUFVX3lxTE9JZURvZ1FrYzdQVFYydVgzbC1BandTN1pVV2RZNkk3RlRJN2dydHE3S2lOSll4end4Sng5UF9Kalh3QzJWczZkTTFwN09Idzg0M2JWLTFrWVN2MjJ0MkNkazBYX2ZoLU9oTTluTGYzTmFXalA1MmRDUXNOZmtaZktCMmV5ZjF1OVNrSXBjUU5BQkg2bjljMV94TnlESHoxTThzdHE4SkRjd0JKVDVDbk56UzlSTTNQdU5OMWtvY1ZoSHhQcDdZWlk?oc=5\" target=\"_blank\">Lee to explore regional development strategy with mayors, governors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSWVEb2dRa2M3UFRWMnVYM2wtQWp3UzdaVVdkWTZJN0ZUSTdncnRxN0tpTkpZeHp3eEp4OVBfSmpYd0MyVnM2ZE0xcDdPSHc4NDNiVi0xa1lTdjIydDJDZGswWF9maC1PaE05bkxmM05hV2pQNTJkQ1FzTmZrWmZLQjJleWYxdTlTa0lwY1FOQUJINm45YzFfeE55REh6MU04c3RxOEpEY3dCSlQ1Q25OelM5Uk0zUHVOTjFrb2NWaEh4UHA3WVpZ0gHHAUFVX3lxTE9JZURvZ1FrYzdQVFYydVgzbC1BandTN1pVV2RZNkk3RlRJN2dydHE3S2lOSll4end4Sng5UF9Kalh3QzJWczZkTTFwN09Idzg0M2JWLTFrWVN2MjJ0MkNkazBYX2ZoLU9oTTluTGYzTmFXalA1MmRDUXNOZmtaZktCMmV5ZjF1OVNrSXBjUU5BQkg2bjljMV94TnlESHoxTThzdHE4SkRjd0JKVDVDbk56UzlSTTNQdU5OMWtvY1ZoSHhQcDdZWlk?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-08-24",
+          "publishedAt": "2026-08-26",
           "views": "13.0K"
         },
         {
-          "title": "North Korea preparing further Russia troop deployments, no sign move imminent, Seoul says - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbkhlQ1NuUkVkVXhZSjJmZ2xNR0pURjBBYnpxdjBnaEZtbVVQOGM4akNFMGRsb2RlRmpBTzZ6NFNUUzBYSjBQazlQWHFHekZ2M1NheThkQlpKQU93V0Jvb0N0dUkwbS1KVktoanRwdFB6WWVtRVdjN0lsSV9GRDR2cVFDRlJ0Q0xxbTFOeVBiUV9nZEphNm0wQTUtMUptLTlnZ0VUaWFTT2NmVWhVM1hGalRtczd3R1Z1aU1EOTlGOTdEOU4wQll3VnNEdG5BSWw1aEk1WHBCczlRSjFwbHZDR3FQVVpGUdIB6wFBVV95cUxQbmgxZTdyODA5MlJHNVQ3ZXVQa3ZTZFBCYTU0SWZKNjd6b3JRY1ZsQnN5WEMwM3RJcDcwR3prV0lCakEtUkZwd3dDNHF3V1BYaFZKVHF0SXYybnNuaWRuZ0tmSVlGSUJlTlhDc24zOG8tbG55V0Z2Rkk0VzB6XzY1ZEFuY2pTLXlOSXBubjZaQThQM2w1cW1ibF81YnREd2lOU2pQajAzQWEzZGdsUkVlTHl6MWlGSVE5Y2hmVVZsSjR1VlVEWFM2YUFrZ3UwTVFKU3cweTN3cS1TMDJ6OUlaVzBaYmViOVNtczFJ?oc=5\" target=\"_blank\">North Korea preparing further Russia troop deployments, no sign move imminent, Seoul says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbkhlQ1NuUkVkVXhZSjJmZ2xNR0pURjBBYnpxdjBnaEZtbVVQOGM4akNFMGRsb2RlRmpBTzZ6NFNUUzBYSjBQazlQWHFHekZ2M1NheThkQlpKQU93V0Jvb0N0dUkwbS1KVktoanRwdFB6WWVtRVdjN0lsSV9GRDR2cVFDRlJ0Q0xxbTFOeVBiUV9nZEphNm0wQTUtMUptLTlnZ0VUaWFTT2NmVWhVM1hGalRtczd3R1Z1aU1EOTlGOTdEOU4wQll3VnNEdG5BSWw1aEk1WHBCczlRSjFwbHZDR3FQVVpGUdIB6wFBVV95cUxQbmgxZTdyODA5MlJHNVQ3ZXVQa3ZTZFBCYTU0SWZKNjd6b3JRY1ZsQnN5WEMwM3RJcDcwR3prV0lCakEtUkZwd3dDNHF3V1BYaFZKVHF0SXYybnNuaWRuZ0tmSVlGSUJlTlhDc24zOG8tbG55V0Z2Rkk0VzB6XzY1ZEFuY2pTLXlOSXBubjZaQThQM2w1cW1ibF81YnREd2lOU2pQajAzQWEzZGdsUkVlTHl6MWlGSVE5Y2hmVVZsSjR1VlVEWFM2YUFrZ3UwTVFKU3cweTN3cS1TMDJ6OUlaVzBaYmViOVNtczFJ?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-08-24",
-          "views": "13.0K"
-        },
-        {
-          "title": "Altria, Philip Morris International sign contract manufacturing deals - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOdEVjYkxkdDdDZ2p1cjlwclEwSUd6dHB3SDNyVzQxbzdhQnI2aGFuX2hZQWRiaF83MUFQSGtCMDUxN3VsdGJMRXljOWpacU1kdEdNNkdGZWJUaDIwcmd0WU83OERSY25haW5ZRVBNaDBiWXpFaXZYRHZHMVY0UkFzU3lMUlZaYndrTEZsMTFqMGVUblZoRU43T0tCTWxoXy1DbHlST3hrQ3JjN1RaZk5ndUVPSQ?oc=5\" target=\"_blank\">Altria, Philip Morris International sign contract manufacturing deals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdEVjYkxkdDdDZ2p1cjlwclEwSUd6dHB3SDNyVzQxbzdhQnI2aGFuX2hZQWRiaF83MUFQSGtCMDUxN3VsdGJMRXljOWpacU1kdEdNNkdGZWJUaDIwcmd0WU83OERSY25haW5ZRVBNaDBiWXpFaXZYRHZHMVY0UkFzU3lMUlZaYndrTEZsMTFqMGVUblZoRU43T0tCTWxoXy1DbHlST3hrQ3JjN1RaZk5ndUVPSQ?oc=5",
+          "title": "India's Axis Bank bets on data centres to gold loans to outpace industry credit growth - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLUR3aklpWDFRWUprRlc4cXRERTlTZzFjajN5VkY5ZlBOWUt3d2hvM3ZfMG9USFFRTFJKRDhUblc5Zlg0YURSSm9fbk51VW8yMjkzOTFNSzZpMDJ3Y2t0OGppa21pQW9zVGN3SzIxOU9xS0NSQVdaMjFzUHp3ZGhNZGgxRmEySmdUVzhBaFQ4bm9NbHg5X3J3Vi0yMEYzQTRzdDNMU2tkcVM5M1l6d1pNcmlybEhzdHdJMHlfQmdTWXlQQQ?oc=5\" target=\"_blank\">India's Axis Bank bets on data centres to gold loans to outpace industry credit growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLUR3aklpWDFRWUprRlc4cXRERTlTZzFjajN5VkY5ZlBOWUt3d2hvM3ZfMG9USFFRTFJKRDhUblc5Zlg0YURSSm9fbk51VW8yMjkzOTFNSzZpMDJ3Y2t0OGppa21pQW9zVGN3SzIxOU9xS0NSQVdaMjFzUHp3ZGhNZGgxRmEySmdUVzhBaFQ4bm9NbHg5X3J3Vi0yMEYzQTRzdDNMU2tkcVM5M1l6d1pNcmlybEhzdHdJMHlfQmdTWXlQQQ?oc=5",
           "source": "Reuters AI",
-          "publishedAt": "2026-08-24",
+          "publishedAt": "2026-08-25",
+          "views": "13.0K"
+        },
+        {
+          "title": "Alibaba chair buys another 720,000 company HK shares - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNR01uZ0k5QS14aDUzVGVuUkJaaDNXc1BuTy1BVzIyOGgyVDBsRld4Z19sUEtVODJ6cl8xeHFTckVQTTFwd3l1YWhBb2lpdjdiaTlaam1sVlJLUGlMNTY2dWhzUGN3dkJSdEp2Z2xka0lfNVJ2VjlWVHVRaFFsaTNXTWlwVl9wa1E3by1MRjR3VFlUeXJoYjh4WmpBV0pLMVFVRXphN3VJa04zTmptZkZkMlZB?oc=5\" target=\"_blank\">Alibaba chair buys another 720,000 company HK shares</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR01uZ0k5QS14aDUzVGVuUkJaaDNXc1BuTy1BVzIyOGgyVDBsRld4Z19sUEtVODJ6cl8xeHFTckVQTTFwd3l1YWhBb2lpdjdiaTlaam1sVlJLUGlMNTY2dWhzUGN3dkJSdEp2Z2xka0lfNVJ2VjlWVHVRaFFsaTNXTWlwVl9wa1E3by1MRjR3VFlUeXJoYjh4WmpBV0pLMVFVRXphN3VJa04zTmptZkZkMlZB?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-08-25",
           "views": "13.0K"
         }
       ]
