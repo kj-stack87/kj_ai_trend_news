@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T01:56:24.245Z",
+  "lastUpdated": "2026-08-27T09:43:11.044Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,6 +49,14 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
+          "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’ - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOOUIzOFhKU3hRak1pVFZwVUVmU2NxSVRIQnZtb3dJZVBCYm5hRi0wQUdpYUVhS0YyVFMzUUxHNGJDdFV0Rzc4bThXOG9LaFRyX2dhYmxqbFZHWG4zWnJDa1U2Y3A0Uk82bDBLX1lieXY0MHhDV0NtYXhPdjl6VFdUSXhRNVhOTFR2MWlWZEF0bllMQ3NITjRqeFU1WTVoQktQTUE?oc=5\" target=\"_blank\">Amazon just tripled its order of Nvidia chips over ‘surging demand’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOUIzOFhKU3hRak1pVFZwVUVmU2NxSVRIQnZtb3dJZVBCYm5hRi0wQUdpYUVhS0YyVFMzUUxHNGJDdFV0Rzc4bThXOG9LaFRyX2dhYmxqbFZHWG4zWnJDa1U2Y3A0Uk82bDBLX1lieXY0MHhDV0NtYXhPdjl6VFdUSXhRNVhOTFR2MWlWZEF0bllMQ3NITjRqeFU1WTVoQktQTUE?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-08-26",
+          "views": "18.0K"
+        },
+        {
           "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show - TechCrunch",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPdlE2bVR3UFAwRV80akdTekNTajNURldEZWl0elhCNVIyb0JwaU90UmlWdFVLdjd1N1FobmZoelpmOW1qVzRoeWxrMG44ZlZiVjhDUEh4WTNaMk1oSlNDNGZmcGhHRWVoMFJvek93U2Z5cERzUnliU3pIX3ZjUEJYUlh5ZzZHRnVHd1UtTkM0R1c4b1pBX0FxT3VvcUttSkJNTkN2OGM1OE5WYjBleEE?oc=5\" target=\"_blank\">OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdlE2bVR3UFAwRV80akdTekNTajNURldEZWl0elhCNVIyb0JwaU90UmlWdFVLdjd1N1FobmZoelpmOW1qVzRoeWxrMG44ZlZiVjhDUEh4WTNaMk1oSlNDNGZmcGhHRWVoMFJvek93U2Z5cERzUnliU3pIX3ZjUEJYUlh5ZzZHRnVHd1UtTkM0R1c4b1pBX0FxT3VvcUttSkJNTkN2OGM1OE5WYjBleEE?oc=5",
@@ -63,14 +71,6 @@
           "source": "TechCrunch AI",
           "publishedAt": "2026-08-23",
           "views": "18.0K"
-        },
-        {
-          "title": "OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20% - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPTVBSYzdnbW5mTHlUTzVRb3JaenRKVncwMjliZ3RZSy1xb3hNaEZxelZ0Z0FYMzRYOEF3MnNpajNwLUtFbkdpbzNIUmNFTWlOMVRINmxaTGJibjNWN05xMERzaU5lUXcwTHBDZC1GRm0xMG9PbjYxRzNyOXFrMFZKM0FMeXcyM1ZwT05tUkNUbjc4YXBySm5XMG1EY0JtZlFkdTBVZmhXbm83YWtXMTVrcVBKbnlKRFNjcnc?oc=5\" target=\"_blank\">OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTVBSYzdnbW5mTHlUTzVRb3JaenRKVncwMjliZ3RZSy1xb3hNaEZxelZ0Z0FYMzRYOEF3MnNpajNwLUtFbkdpbzNIUmNFTWlOMVRINmxaTGJibjNWN05xMERzaU5lUXcwTHBDZC1GRm0xMG9PbjYxRzNyOXFrMFZKM0FMeXcyM1ZwT05tUkNUbjc4YXBySm5XMG1EY0JtZlFkdTBVZmhXbm83YWtXMTVrcVBKbnlKRFNjcnc?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-08-21",
-          "views": "18.0K"
         }
       ]
     },
@@ -79,6 +79,14 @@
       "hashtag": "#활용사례",
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
+        {
+          "title": "Arga Labs is building a better way to train enterprise AI agents - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPR2hMX25FNVRPNjR1N25kQVpDd0pwcW12U0ZIVzRqZFB1WjBTOGk2bC0zWUdyd2tiVnRsT3NqRENzSVhqaFh6akdJQUlKSzY2VHdrR0VKTVU3cWtFdFQ1cTgzVkZWN0xicFJnZW1tbnBQZnFmQ1lCdnVERkhBejJuejkxdm51ZWg5WmxtVElKMU9rZjRFMVA4NnB3?oc=5\" target=\"_blank\">Arga Labs is building a better way to train enterprise AI agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR2hMX25FNVRPNjR1N25kQVpDd0pwcW12U0ZIVzRqZFB1WjBTOGk2bC0zWUdyd2tiVnRsT3NqRENzSVhqaFh6akdJQUlKSzY2VHdrR0VKTVU3cWtFdFQ1cTgzVkZWN0xicFJnZW1tbnBQZnFmQ1lCdnVERkhBejJuejkxdm51ZWg5WmxtVElKMU9rZjRFMVA4NnB3?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-08-26",
+          "views": "18.0K"
+        },
         {
           "title": "Enterprise AI agents are only as reliable as the messiest documents behind them - VentureBeat",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYWpfMGY0V0NOZEdaRzZXRHJQWUg3U0drSDRESzR3SFBoT2piWHVxbWZLWWZOcUhmYnBjUVhmZU5QUDNDWTUtX2M2Y0xQSXV3RGNxY0FRcEVvYVdtTnRfb3BxdGtkSjBDZVVlRmtsTXVhdVA3U3pqTERMT1lHZXFrWjgxX2t0R291R0UxWFd3NGJsaklrMUpaU1dxWV9pSmI3Wkp3cHAybTFQMXBLb05vNUdUZ1ppVy0x?oc=5\" target=\"_blank\">Enterprise AI agents are only as reliable as the messiest documents behind them</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
@@ -93,14 +101,6 @@
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd2NlVXJnck9OMl9sYi1aSlhNOVdUU1BNejg0MktZcC1rcm4tYkRtU0tROEx2aFRiOWotQlh1b2JMcVkwZXN0T1pfd1NUTTdHRDhrWWI1YTd0UzNoczN2UjRWdEEzVE9uSlJHX1dOaklWNl9YTWlkYkd6bXVLVzZDUC1DQlpjdVZTNmJwT0tWRW5XbENQaTgxb001aEZaVWd1WE9HQWhjRG5EeF9PVmVfSjRQWW9GUEJoWGc?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-08-22",
-          "views": "18.0K"
-        },
-        {
-          "title": "One in five enterprises can't stop a runaway AI agent's spending in real time - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPN3A2cDZrSmVXYmtLVTNLUTJGY3Y4YW9EU0ZtTUlOOGNqeXdNZzRGbXdDejU5SWlOMFhVZkpieWJGaTdWaTRRc0FKSHpDdHgwTkZ4bzBGcC1jcnR1ZFltVTdITnhOdnVhTm1neGJwd1hfOTZaSGQyTlZwTkYzdm5raEtBWVkxWEtaTmt0YzlUcUFuWS04U2t2UF9DTnlVUUpoZHphZ1N3WVFFY3JaSlNFWHFfWQ?oc=5\" target=\"_blank\">One in five enterprises can't stop a runaway AI agent's spending in real time</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN3A2cDZrSmVXYmtLVTNLUTJGY3Y4YW9EU0ZtTUlOOGNqeXdNZzRGbXdDejU5SWlOMFhVZkpieWJGaTdWaTRRc0FKSHpDdHgwTkZ4bzBGcC1jcnR1ZFltVTdITnhOdnVhTm1neGJwd1hfOTZaSGQyTlZwTkYzdm5raEtBWVkxWEtaTmt0YzlUcUFuWS04U2t2UF9DTnlVUUpoZHphZ1N3WVFFY3JaSlNFWHFfWQ?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-08-20",
           "views": "18.0K"
         }
       ]
@@ -119,20 +119,20 @@
           "views": "18.0K"
         },
         {
-          "title": "AI data centre regulation just got a template that needs no new law - AI News",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPYzd4ZmpMSmZaY052N2JxakwxSUVxNWZmckFqQnhIWUR2dm4tRVVBY0paSl9DVkpaYXRYM21aLUFUQzJyR3NUTVZWRTVBN1BMMXl6ZlhsVElTTnFKdkJsY2hjWVd6cnZhdjN5X295bnlDVjZHQW1aNlE3WE9mOXFTLXp4TkJ0Ui16RnVnQzVBTnRua2Z0d05sbEs3QWlJQQ?oc=5\" target=\"_blank\">AI data centre regulation just got a template that needs no new law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI News</font>",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYzd4ZmpMSmZaY052N2JxakwxSUVxNWZmckFqQnhIWUR2dm4tRVVBY0paSl9DVkpaYXRYM21aLUFUQzJyR3NUTVZWRTVBN1BMMXl6ZlhsVElTTnFKdkJsY2hjWVd6cnZhdjN5X295bnlDVjZHQW1aNlE3WE9mOXFTLXp4TkJ0Ui16RnVnQzVBTnRua2Z0d05sbEs3QWlJQQ?oc=5",
-          "source": "AI News",
-          "publishedAt": "2026-08-20",
-          "views": "18.0K"
-        },
-        {
           "title": "Crypto shares climb after Treasury's doubled buybacks boost risk assets - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPVmM3elp4cktvVklVUlVBN3BvWkliX2FDX2RjbkdWQkhfcVdzVmFweEoxNkZzS3ZuMDhyRGZWOXRiQ2laWFlpUHhzcENKVklXMzduOGNzZFQydl9qMTJpRFczOU5paEU3VmpEYlRFMVlwU01OY21JTWRrbXItQXd4R1lZMUhaQXN5V1RtOVAzeXUwdUdLNDZ0T3ZNVENOVE5hUkYyV2t1d0xPRmEtTmRuQQ?oc=5\" target=\"_blank\">Crypto shares climb after Treasury's doubled buybacks boost risk assets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVmM3elp4cktvVklVUlVBN3BvWkliX2FDX2RjbkdWQkhfcVdzVmFweEoxNkZzS3ZuMDhyRGZWOXRiQ2laWFlpUHhzcENKVklXMzduOGNzZFQydl9qMTJpRFczOU5paEU3VmpEYlRFMVlwU01OY21JTWRrbXItQXd4R1lZMUhaQXN5V1RtOVAzeXUwdUdLNDZ0T3ZNVENOVE5hUkYyV2t1d0xPRmEtTmRuQQ?oc=5",
           "source": "Reuters AI",
           "publishedAt": "2026-08-20",
           "views": "18.0K"
+        },
+        {
+          "title": "Ex-special forces commander sentenced to 12-year prison term for martial law role - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTGhJRGpvVU12ZFlUU3hFTzE1Ym4zbEN5LUdleW9yUWIxdTZrdG1XR25hZXpvNnZ2aXVxM1lnMlkyQmpucnpWNmt0Y3gwSVd2T1VaTVpNS2hRbHpjaXp1RXJWVG45ZnJQdWlrei1WWmk1Wnd3cTZMZ1F4c1ZjejBRTGRhems0TkFkUDVqdzhCZXVvOU4zYTJoRkU3SmVGbjQ4aHNtMFNhSllMOHhzX2VtRVhBV2VFWDJNc3ItZWxfY0o3X0pFX1lVNmRpMUgySGh1TFdTMGlOdHpFY2950gHcAUFVX3lxTE1MaElEam9VTXZkWVRTeEVPMTVibjNsQ3ktR2V5b3JRYjF1Nmt0bVdHbmFlem82dnZpdXEzWWcyWTJCam5yelY2a3RjeDBJV3ZPVVpNWk1LaFFsemNpenVFclZUbjlmclB1aWt6LVZaaTVad3dxNkxnUXhzVmN6MFFMZGF6azROQWRQNWp3OEJldW85TjNhMmhGRTdKZUZuNDhoc20wU2FKWUw4eHNfZW1FWEFXZUVYMk1zci1lbF9jSjdfSkVfWVU2ZGkxSDJIaHVMV1MwaU50ekVjb3k?oc=5\" target=\"_blank\">Ex-special forces commander sentenced to 12-year prison term for martial law role</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTGhJRGpvVU12ZFlUU3hFTzE1Ym4zbEN5LUdleW9yUWIxdTZrdG1XR25hZXpvNnZ2aXVxM1lnMlkyQmpucnpWNmt0Y3gwSVd2T1VaTVpNS2hRbHpjaXp1RXJWVG45ZnJQdWlrei1WWmk1Wnd3cTZMZ1F4c1ZjejBRTGRhems0TkFkUDVqdzhCZXVvOU4zYTJoRkU3SmVGbjQ4aHNtMFNhSllMOHhzX2VtRVhBV2VFWDJNc3ItZWxfY0o3X0pFX1lVNmRpMUgySGh1TFdTMGlOdHpFY2950gHcAUFVX3lxTE1MaElEam9VTXZkWVRTeEVPMTVibjNsQ3ktR2V5b3JRYjF1Nmt0bVdHbmFlem82dnZpdXEzWWcyWTJCam5yelY2a3RjeDBJV3ZPVVpNWk1LaFFsemNpenVFclZUbjlmclB1aWt6LVZaaTVad3dxNkxnUXhzVmN6MFFMZGF6azROQWRQNWp3OEJldW85TjNhMmhGRTdKZUZuNDhoc20wU2FKWUw4eHNfZW1FWEFXZUVYMk1zci1lbF9jSjdfSkVfWVU2ZGkxSDJIaHVMV1MwaU50ekVjb3k?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-08-27",
+          "views": "13.0K"
         }
       ]
     },
@@ -150,20 +150,20 @@
           "views": "18.0K"
         },
         {
-          "title": "Scandal-hit KPMG Australia to cut nearly 400 jobs, warns of difficult market - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNRFBwUmVUQ2FIYkhmeTVfb2xYQ3JjU2ZsSzJkQ3ZlUzhaY1VtUlVIZnhtMnF6VUZuTXZxMWltMkNRRUF0ZEQxaC11NGliS2wzRGNpRTZza0VfdkRlSXZhTm1fSk16ZnJVZjRaVDRXaE1Rd1ZPU3llSFBaRTVKQVhvU0VwOFVidzNNc1RSZTVOUFh1SjF0LV9vdlRlcUJESGgxeDhRV0NWZldQV0Q0eVNKV1FBOTdIeEFNV0ozcA?oc=5\" target=\"_blank\">Scandal-hit KPMG Australia to cut nearly 400 jobs, warns of difficult market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRFBwUmVUQ2FIYkhmeTVfb2xYQ3JjU2ZsSzJkQ3ZlUzhaY1VtUlVIZnhtMnF6VUZuTXZxMWltMkNRRUF0ZEQxaC11NGliS2wzRGNpRTZza0VfdkRlSXZhTm1fSk16ZnJVZjRaVDRXaE1Rd1ZPU3llSFBaRTVKQVhvU0VwOFVidzNNc1RSZTVOUFh1SjF0LV9vdlRlcUJESGgxeDhRV0NWZldQV0Q0eVNKV1FBOTdIeEFNV0ozcA?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-08-24",
-          "views": "18.0K"
+          "title": "Litton Technologies Becomes Korea's First AI Service Startup Unicorn - ETNEWS",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFB5WTJuNXpmZkJ4aVFXV3dkdXY0ckJzY3JCVUtlaUgtVjZFZGxQNHBKa05vbzNaYzFxb21NRHpUbTh4RjVMNkxOVUJKRjA?oc=5\" target=\"_blank\">Litton Technologies Becomes Korea's First AI Service Startup Unicorn</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB5WTJuNXpmZkJ4aVFXV3dkdXY0ckJzY3JCVUtlaUgtVjZFZGxQNHBKa05vbzNaYzFxb21NRHpUbTh4RjVMNkxOVUJKRjA?oc=5",
+          "source": "전자신문",
+          "publishedAt": "2026-08-27",
+          "views": "13.0K"
         },
         {
-          "title": "Global shocks, IPO wave could temper India's earnings-led market revival, Abakkus Investment says - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNRlFUV3hURzVDU2t0SjlDQXl4MVFZTTFfRVVUcnF0NkJ1a1hPMXlfWTBaTko2RHJ3dGZob0Y5Uk40UDYySjZObHYyc0JSWmhMRGNLcVFSMzhYVXlTUEJlWXRpclg1TlR5amlwejJrT0FBSkJpc0dqQlh0ZVJDTjVwQ01CVmlBVjdkRnljZFJJQmlCNUdtd2RsVTgyS2VSOUJDVDd1TDdKVjl3NndLY3FjYlhxSVppZ19DMUtBdGdIRnp5UlZf?oc=5\" target=\"_blank\">Global shocks, IPO wave could temper India's earnings-led market revival, Abakkus Investment says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRlFUV3hURzVDU2t0SjlDQXl4MVFZTTFfRVVUcnF0NkJ1a1hPMXlfWTBaTko2RHJ3dGZob0Y5Uk40UDYySjZObHYyc0JSWmhMRGNLcVFSMzhYVXlTUEJlWXRpclg1TlR5amlwejJrT0FBSkJpc0dqQlh0ZVJDTjVwQ01CVmlBVjdkRnljZFJJQmlCNUdtd2RsVTgyS2VSOUJDVDd1TDdKVjl3NndLY3FjYlhxSVppZ19DMUtBdGdIRnp5UlZf?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-08-19",
-          "views": "18.0K"
+          "title": "Seoul art market launches Korean performances worldwide - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOZFF3WVFuR2hCNlJnUjgzUWp1U1A1OTZzTm9sVWl2UDBxN1dvd0xTcUlLRXZvRjFkWUc1S1FqeGc4QWZuVVFhUXFCRTJ2NGtsbWxTNmthVEtRYjJSN0tKRUdVa2lJZHF6MXJKclNRdkhYcEhLdVc5VE9tVTRxMERRSjdoSnFFSHQwZlFwZHI4bk0xZGhXQWItX1JqNVcyNlhmOGlWMkpYSjlKcWk2N3A4Ymx6eHB2S0I5ME94c9IBvAFBVV95cUxOZFF3WVFuR2hCNlJnUjgzUWp1U1A1OTZzTm9sVWl2UDBxN1dvd0xTcUlLRXZvRjFkWUc1S1FqeGc4QWZuVVFhUXFCRTJ2NGtsbWxTNmthVEtRYjJSN0tKRUdVa2lJZHF6MXJKclNRdkhYcEhLdVc5VE9tVTRxMERRSjdoSnFFSHQwZlFwZHI4bk0xZGhXQWItX1JqNVcyNlhmOGlWMkpYSjlKcWk2N3A4Ymx6eHB2S0I5ME94cw?oc=5\" target=\"_blank\">Seoul art market launches Korean performances worldwide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZFF3WVFuR2hCNlJnUjgzUWp1U1A1OTZzTm9sVWl2UDBxN1dvd0xTcUlLRXZvRjFkWUc1S1FqeGc4QWZuVVFhUXFCRTJ2NGtsbWxTNmthVEtRYjJSN0tKRUdVa2lJZHF6MXJKclNRdkhYcEhLdVc5VE9tVTRxMERRSjdoSnFFSHQwZlFwZHI4bk0xZGhXQWItX1JqNVcyNlhmOGlWMkpYSjlKcWk2N3A4Ymx6eHB2S0I5ME94c9IBvAFBVV95cUxOZFF3WVFuR2hCNlJnUjgzUWp1U1A1OTZzTm9sVWl2UDBxN1dvd0xTcUlLRXZvRjFkWUc1S1FqeGc4QWZuVVFhUXFCRTJ2NGtsbWxTNmthVEtRYjJSN0tKRUdVa2lJZHF6MXJKclNRdkhYcEhLdVc5VE9tVTRxMERRSjdoSnFFSHQwZlFwZHI4bk0xZGhXQWItX1JqNVcyNlhmOGlWMkpYSjlKcWk2N3A4Ymx6eHB2S0I5ME94cw?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-08-27",
+          "views": "13.0K"
         }
       ]
     },
@@ -173,27 +173,27 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
-          "title": "Lee to explore regional development strategy with mayors, governors - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPSWVEb2dRa2M3UFRWMnVYM2wtQWp3UzdaVVdkWTZJN0ZUSTdncnRxN0tpTkpZeHp3eEp4OVBfSmpYd0MyVnM2ZE0xcDdPSHc4NDNiVi0xa1lTdjIydDJDZGswWF9maC1PaE05bkxmM05hV2pQNTJkQ1FzTmZrWmZLQjJleWYxdTlTa0lwY1FOQUJINm45YzFfeE55REh6MU04c3RxOEpEY3dCSlQ1Q25OelM5Uk0zUHVOTjFrb2NWaEh4UHA3WVpZ0gHHAUFVX3lxTE9JZURvZ1FrYzdQVFYydVgzbC1BandTN1pVV2RZNkk3RlRJN2dydHE3S2lOSll4end4Sng5UF9Kalh3QzJWczZkTTFwN09Idzg0M2JWLTFrWVN2MjJ0MkNkazBYX2ZoLU9oTTluTGYzTmFXalA1MmRDUXNOZmtaZktCMmV5ZjF1OVNrSXBjUU5BQkg2bjljMV94TnlESHoxTThzdHE4SkRjd0JKVDVDbk56UzlSTTNQdU5OMWtvY1ZoSHhQcDdZWlk?oc=5\" target=\"_blank\">Lee to explore regional development strategy with mayors, governors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSWVEb2dRa2M3UFRWMnVYM2wtQWp3UzdaVVdkWTZJN0ZUSTdncnRxN0tpTkpZeHp3eEp4OVBfSmpYd0MyVnM2ZE0xcDdPSHc4NDNiVi0xa1lTdjIydDJDZGswWF9maC1PaE05bkxmM05hV2pQNTJkQ1FzTmZrWmZLQjJleWYxdTlTa0lwY1FOQUJINm45YzFfeE55REh6MU04c3RxOEpEY3dCSlQ1Q25OelM5Uk0zUHVOTjFrb2NWaEh4UHA3WVpZ0gHHAUFVX3lxTE9JZURvZ1FrYzdQVFYydVgzbC1BandTN1pVV2RZNkk3RlRJN2dydHE3S2lOSll4end4Sng5UF9Kalh3QzJWczZkTTFwN09Idzg0M2JWLTFrWVN2MjJ0MkNkazBYX2ZoLU9oTTluTGYzTmFXalA1MmRDUXNOZmtaZktCMmV5ZjF1OVNrSXBjUU5BQkg2bjljMV94TnlESHoxTThzdHE4SkRjd0JKVDVDbk56UzlSTTNQdU5OMWtvY1ZoSHhQcDdZWlk?oc=5",
+          "title": "Hybrid becomes Hyundai Motor's new US strategy - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQcG9PUUJYMGpCNGRjbkZqdWJpejZTa3dZNE1LeFRwd0JROEw3WXljamFacXRKZ2VCc0J4Z09aWnRBckY4bC0zZXMtOWdFZXF4ZjVONEwxbjVXTmlZcUhBYms4a3pmY0dfSzFJbktDTU1jYzg5eTB2ZEVQZ0xSOTdSS0pJSmlIdU9uU0JsSWRpUllERHRxU2NXUl9NcnBDWWp1R3lDZA?oc=5\" target=\"_blank\">Hybrid becomes Hyundai Motor's new US strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcG9PUUJYMGpCNGRjbkZqdWJpejZTa3dZNE1LeFRwd0JROEw3WXljamFacXRKZ2VCc0J4Z09aWnRBckY4bC0zZXMtOWdFZXF4ZjVONEwxbjVXTmlZcUhBYms4a3pmY0dfSzFJbktDTU1jYzg5eTB2ZEVQZ0xSOTdSS0pJSmlIdU9uU0JsSWRpUllERHRxU2NXUl9NcnBDWWp1R3lDZA?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-08-26",
+          "publishedAt": "2026-08-27",
           "views": "13.0K"
         },
         {
-          "title": "India's Axis Bank bets on data centres to gold loans to outpace industry credit growth - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLUR3aklpWDFRWUprRlc4cXRERTlTZzFjajN5VkY5ZlBOWUt3d2hvM3ZfMG9USFFRTFJKRDhUblc5Zlg0YURSSm9fbk51VW8yMjkzOTFNSzZpMDJ3Y2t0OGppa21pQW9zVGN3SzIxOU9xS0NSQVdaMjFzUHp3ZGhNZGgxRmEySmdUVzhBaFQ4bm9NbHg5X3J3Vi0yMEYzQTRzdDNMU2tkcVM5M1l6d1pNcmlybEhzdHdJMHlfQmdTWXlQQQ?oc=5\" target=\"_blank\">India's Axis Bank bets on data centres to gold loans to outpace industry credit growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQLUR3aklpWDFRWUprRlc4cXRERTlTZzFjajN5VkY5ZlBOWUt3d2hvM3ZfMG9USFFRTFJKRDhUblc5Zlg0YURSSm9fbk51VW8yMjkzOTFNSzZpMDJ3Y2t0OGppa21pQW9zVGN3SzIxOU9xS0NSQVdaMjFzUHp3ZGhNZGgxRmEySmdUVzhBaFQ4bm9NbHg5X3J3Vi0yMEYzQTRzdDNMU2tkcVM5M1l6d1pNcmlybEhzdHdJMHlfQmdTWXlQQQ?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-08-25",
+          "title": "Hyundai Mobis showcases AI, robotics-based manufacturing technology with suppliers - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQzBDUk5Ydi1uTEt0Tjh1R0pIaS1Dc1RQY1E5cjJWMVRyME1uTlVSS3lMZWhQS2h3dS1kTDVyWlJfVjFMXzhNSGV5MDhiX2xkM3hneVRJLVdsbnFETUtYaUtjaUk2bFljM05oVEIzb3FCOC1xcVpfWHFhZWU2MnVrTXdRT0xUNHJJWHBqRWJfLXRTWUFkbDRuYzNFU0pkOHV1dTVKT1NmakdXT3N3ci1aN0h5dXpnT05hZHBPMmFBRE8tMTU3N1lNZmNFWlBYbzhXVXBsdWdhWm8xVF9ZN1hHUnlxbGFoMXpq0gHaAUFVX3lxTE44WVQyUjZ4Szd1cDI4N1FrVmEzWVpfYndmbmgtN2cxeVRuTmRCTHVER3l6WXVmQktCZS1jVFUwcGozUTFRSkt2TU5Sa1VSSlBEMGIxOUJwZ2ZvVGFVdFFqckRWQ1lXSV9ZaWZSZENocVJiSDhWMnkya1VULTdNLWdRSGN4b05lQ1dEN3kwb1BQTmZtaUVQZjU2eklwcVo4U0ZMUjdGQVF5VHJuMFJiYUI3V2NQcmU0S2hkcWZwRHNNalVWR3RvUGttc0s3RXQ5am5ncXVKMkVSYXZ3?oc=5\" target=\"_blank\">Hyundai Mobis showcases AI, robotics-based manufacturing technology with suppliers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQzBDUk5Ydi1uTEt0Tjh1R0pIaS1Dc1RQY1E5cjJWMVRyME1uTlVSS3lMZWhQS2h3dS1kTDVyWlJfVjFMXzhNSGV5MDhiX2xkM3hneVRJLVdsbnFETUtYaUtjaUk2bFljM05oVEIzb3FCOC1xcVpfWHFhZWU2MnVrTXdRT0xUNHJJWHBqRWJfLXRTWUFkbDRuYzNFU0pkOHV1dTVKT1NmakdXT3N3ci1aN0h5dXpnT05hZHBPMmFBRE8tMTU3N1lNZmNFWlBYbzhXVXBsdWdhWm8xVF9ZN1hHUnlxbGFoMXpq0gHaAUFVX3lxTE44WVQyUjZ4Szd1cDI4N1FrVmEzWVpfYndmbmgtN2cxeVRuTmRCTHVER3l6WXVmQktCZS1jVFUwcGozUTFRSkt2TU5Sa1VSSlBEMGIxOUJwZ2ZvVGFVdFFqckRWQ1lXSV9ZaWZSZENocVJiSDhWMnkya1VULTdNLWdRSGN4b05lQ1dEN3kwb1BQTmZtaUVQZjU2eklwcVo4U0ZMUjdGQVF5VHJuMFJiYUI3V2NQcmU0S2hkcWZwRHNNalVWR3RvUGttc0s3RXQ5am5ncXVKMkVSYXZ3?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-08-27",
           "views": "13.0K"
         },
         {
-          "title": "Alibaba chair buys another 720,000 company HK shares - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNR01uZ0k5QS14aDUzVGVuUkJaaDNXc1BuTy1BVzIyOGgyVDBsRld4Z19sUEtVODJ6cl8xeHFTckVQTTFwd3l1YWhBb2lpdjdiaTlaam1sVlJLUGlMNTY2dWhzUGN3dkJSdEp2Z2xka0lfNVJ2VjlWVHVRaFFsaTNXTWlwVl9wa1E3by1MRjR3VFlUeXJoYjh4WmpBV0pLMVFVRXphN3VJa04zTmptZkZkMlZB?oc=5\" target=\"_blank\">Alibaba chair buys another 720,000 company HK shares</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR01uZ0k5QS14aDUzVGVuUkJaaDNXc1BuTy1BVzIyOGgyVDBsRld4Z19sUEtVODJ6cl8xeHFTckVQTTFwd3l1YWhBb2lpdjdiaTlaam1sVlJLUGlMNTY2dWhzUGN3dkJSdEp2Z2xka0lfNVJ2VjlWVHVRaFFsaTNXTWlwVl9wa1E3by1MRjR3VFlUeXJoYjh4WmpBV0pLMVFVRXphN3VJa04zTmptZkZkMlZB?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-08-25",
+          "title": "Hyundai Mobis showcases AI, robotics-based manufacturing technology with suppliers - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOFlUMlI2eEs3dXAyODdRa1ZhM1laX2J3Zm5oLTdnMXlUbk5kQkx1REd5ell1ZkJLQmUtY1RVMHBqM1ExUUpLdk1OUmtVUkpQRDBiMTlCcGdmb1RhVXRRanJEVkNZV0lfWWlmUmRDaHFSYkg4VjJ5MmtVVC03TS1nUUhjeG9OZUNXRDd5MG9QUE5mbWlFUGY1NnpJcHFaOFNGTFI3RkFReVRybjBSYmFCN1djUHJlNEtoZHFmcERzTWpVVkd0b1BrbXNLN0V0OWpuZ3F1SjJFUmF2d9IB2gFBVV95cUxOOFlUMlI2eEs3dXAyODdRa1ZhM1laX2J3Zm5oLTdnMXlUbk5kQkx1REd5ell1ZkJLQmUtY1RVMHBqM1ExUUpLdk1OUmtVUkpQRDBiMTlCcGdmb1RhVXRRanJEVkNZV0lfWWlmUmRDaHFSYkg4VjJ5MmtVVC03TS1nUUhjeG9OZUNXRDd5MG9QUE5mbWlFUGY1NnpJcHFaOFNGTFI3RkFReVRybjBSYmFCN1djUHJlNEtoZHFmcERzTWpVVkd0b1BrbXNLN0V0OWpuZ3F1SjJFUmF2dw?oc=5\" target=\"_blank\">Hyundai Mobis showcases AI, robotics-based manufacturing technology with suppliers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOFlUMlI2eEs3dXAyODdRa1ZhM1laX2J3Zm5oLTdnMXlUbk5kQkx1REd5ell1ZkJLQmUtY1RVMHBqM1ExUUpLdk1OUmtVUkpQRDBiMTlCcGdmb1RhVXRRanJEVkNZV0lfWWlmUmRDaHFSYkg4VjJ5MmtVVC03TS1nUUhjeG9OZUNXRDd5MG9QUE5mbWlFUGY1NnpJcHFaOFNGTFI3RkFReVRybjBSYmFCN1djUHJlNEtoZHFmcERzTWpVVkd0b1BrbXNLN0V0OWpuZ3F1SjJFUmF2d9IB2gFBVV95cUxOOFlUMlI2eEs3dXAyODdRa1ZhM1laX2J3Zm5oLTdnMXlUbk5kQkx1REd5ell1ZkJLQmUtY1RVMHBqM1ExUUpLdk1OUmtVUkpQRDBiMTlCcGdmb1RhVXRRanJEVkNZV0lfWWlmUmRDaHFSYkg4VjJ5MmtVVC03TS1nUUhjeG9OZUNXRDd5MG9QUE5mbWlFUGY1NnpJcHFaOFNGTFI3RkFReVRybjBSYmFCN1djUHJlNEtoZHFmcERzTWpVVkd0b1BrbXNLN0V0OWpuZ3F1SjJFUmF2dw?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-08-27",
           "views": "13.0K"
         }
       ]
