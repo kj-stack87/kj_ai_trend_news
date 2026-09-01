@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-31T05:28:56.249Z",
+  "lastUpdated": "2026-09-01T05:03:13.768Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,6 +49,14 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
+          "title": "Applied Materials strives to cooperate with chipmakers to shorten equipment lead time - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcF9UdWoyTDZPZThVeTJ3dURDZ2s3Ml9ERjNVckVCSGhNQUJLTTRxUE9qanpBQlJDSHhQTFdmaGo3V1o5cXhMcUItQnlLMENuQ1FBWkp0RWx1ckhhNENfdC01MEpqTVcyc01MYlV6VGU4YWlGUmR6dzItWW1SbUtOdGZOejJNNHdaalJ2NUZqaWZvbkZEcFNhMWpjYmh3cFc0ZVcxRVFZd1d0QnJtOGQwbkJMRXFsZ20zYWc3WV8tUTZ1bm41Qk52bjduRC1Tb3Jwek1PMGRZNF9lMGlDdUkxV1VSa9IB4wFBVV95cUxNcF9UdWoyTDZPZThVeTJ3dURDZ2s3Ml9ERjNVckVCSGhNQUJLTTRxUE9qanpBQlJDSHhQTFdmaGo3V1o5cXhMcUItQnlLMENuQ1FBWkp0RWx1ckhhNENfdC01MEpqTVcyc01MYlV6VGU4YWlGUmR6dzItWW1SbUtOdGZOejJNNHdaalJ2NUZqaWZvbkZEcFNhMWpjYmh3cFc0ZVcxRVFZd1d0QnJtOGQwbkJMRXFsZ20zYWc3WV8tUTZ1bm41Qk52bjduRC1Tb3Jwek1PMGRZNF9lMGlDdUkxV1VSaw?oc=5\" target=\"_blank\">Applied Materials strives to cooperate with chipmakers to shorten equipment lead time</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcF9UdWoyTDZPZThVeTJ3dURDZ2s3Ml9ERjNVckVCSGhNQUJLTTRxUE9qanpBQlJDSHhQTFdmaGo3V1o5cXhMcUItQnlLMENuQ1FBWkp0RWx1ckhhNENfdC01MEpqTVcyc01MYlV6VGU4YWlGUmR6dzItWW1SbUtOdGZOejJNNHdaalJ2NUZqaWZvbkZEcFNhMWpjYmh3cFc0ZVcxRVFZd1d0QnJtOGQwbkJMRXFsZ20zYWc3WV8tUTZ1bm41Qk52bjduRC1Tb3Jwek1PMGRZNF9lMGlDdUkxV1VSa9IB4wFBVV95cUxNcF9UdWoyTDZPZThVeTJ3dURDZ2s3Ml9ERjNVckVCSGhNQUJLTTRxUE9qanpBQlJDSHhQTFdmaGo3V1o5cXhMcUItQnlLMENuQ1FBWkp0RWx1ckhhNENfdC01MEpqTVcyc01MYlV6VGU4YWlGUmR6dzItWW1SbUtOdGZOejJNNHdaalJ2NUZqaWZvbkZEcFNhMWpjYmh3cFc0ZVcxRVFZd1d0QnJtOGQwbkJMRXFsZ20zYWc3WV8tUTZ1bm41Qk52bjduRC1Tb3Jwek1PMGRZNF9lMGlDdUkxV1VSaw?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-08-31",
+          "views": "18.0K"
+        },
+        {
           "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’ - TechCrunch",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOOUIzOFhKU3hRak1pVFZwVUVmU2NxSVRIQnZtb3dJZVBCYm5hRi0wQUdpYUVhS0YyVFMzUUxHNGJDdFV0Rzc4bThXOG9LaFRyX2dhYmxqbFZHWG4zWnJDa1U2Y3A0Uk82bDBLX1lieXY0MHhDV0NtYXhPdjl6VFdUSXhRNVhOTFR2MWlWZEF0bllMQ3NITjRqeFU1WTVoQktQTUE?oc=5\" target=\"_blank\">Amazon just tripled its order of Nvidia chips over ‘surging demand’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOUIzOFhKU3hRak1pVFZwVUVmU2NxSVRIQnZtb3dJZVBCYm5hRi0wQUdpYUVhS0YyVFMzUUxHNGJDdFV0Rzc4bThXOG9LaFRyX2dhYmxqbFZHWG4zWnJDa1U2Y3A0Uk82bDBLX1lieXY0MHhDV0NtYXhPdjl6VFdUSXhRNVhOTFR2MWlWZEF0bllMQ3NITjRqeFU1WTVoQktQTUE?oc=5",
@@ -63,14 +71,6 @@
           "source": "TechCrunch AI",
           "publishedAt": "2026-08-25",
           "views": "18.0K"
-        },
-        {
-          "title": "Hanyang University pioneers new internationalization model, providing end-to-end support for int'l students - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxORWNURklHVGRsLTR2X1FfMjhNZTd5LXNEM1hrOXhxMEVsakpBU1E5c2lySGJTal9XRDJrc0NPVnBKM0xqRlBCWmVlY0FtMXN0LVBXZUM4MV9JUlI3NnE0Wk9RZV9xMGM0Yll1SGFUdWpuUlo3MjRhUlJZeXJRWGRmZS1NdF9sOWtlclR3WGo3QkJlUVZIUDM2Qzc3VDFBX3V3amwtWXBOVlJGVFJnWlMzSWNlRy1idGhoYzhOZUptWGhQM0JzdGQ1ZEw0MWV5bWJvWGZ3Qkxhem5SM2JpakFMSmFsM1dxOHZ6N0xZZ3RudWFHMFhvalcw0gH8AUFVX3lxTE41SjExTTRobnhVOTE1bmNxaEtabmh4Z3ZxdUREVDRwQVZVck9EX0tzTmVoWmRJdXd2WnFNdUpId1FGaDduRV9jeWZGR2NaTkZnODdGT3AydE5KWFM4bE0yMjJlazFZSVNDQnpMM1JoUTZVVThzRGJxVmdaWU9keGlhc1dETUxmN2Fuejg3blczU1hfMUp2Ukg4X1NrTmctX1NucmRfb0p5elphbU90YzRmRjlnVEhzc2RSUWttT1FnTGxBLV9EcXY1bzBxbWNKYnMwbk1idkc2S0xhbnRTekpQNDRjTTR5Q2xmTWQwZkRDZ19sYUE0VF9EeXVGTQ?oc=5\" target=\"_blank\">Hanyang University pioneers new internationalization model, providing end-to-end support for int'l students</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxORWNURklHVGRsLTR2X1FfMjhNZTd5LXNEM1hrOXhxMEVsakpBU1E5c2lySGJTal9XRDJrc0NPVnBKM0xqRlBCWmVlY0FtMXN0LVBXZUM4MV9JUlI3NnE0Wk9RZV9xMGM0Yll1SGFUdWpuUlo3MjRhUlJZeXJRWGRmZS1NdF9sOWtlclR3WGo3QkJlUVZIUDM2Qzc3VDFBX3V3amwtWXBOVlJGVFJnWlMzSWNlRy1idGhoYzhOZUptWGhQM0JzdGQ1ZEw0MWV5bWJvWGZ3Qkxhem5SM2JpakFMSmFsM1dxOHZ6N0xZZ3RudWFHMFhvalcw0gH8AUFVX3lxTE41SjExTTRobnhVOTE1bmNxaEtabmh4Z3ZxdUREVDRwQVZVck9EX0tzTmVoWmRJdXd2WnFNdUpId1FGaDduRV9jeWZGR2NaTkZnODdGT3AydE5KWFM4bE0yMjJlazFZSVNDQnpMM1JoUTZVVThzRGJxVmdaWU9keGlhc1dETUxmN2Fuejg3blczU1hfMUp2Ukg4X1NrTmctX1NucmRfb0p5elphbU90YzRmRjlnVEhzc2RSUWttT1FnTGxBLV9EcXY1bzBxbWNKYnMwbk1idkc2S0xhbnRTekpQNDRjTTR5Q2xmTWQwZkRDZ19sYUE0VF9EeXVGTQ?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-08-31",
-          "views": "13.0K"
         }
       ]
     },
@@ -80,8 +80,8 @@
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
         {
-          "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them. - Venturebeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTTViMlJtYnY0eHk0dE05Y3E1dzJLN1lzQkVxMHVKSkQ2R3g4MlhMRXg5LTlaVUJkRTlCcG0wQ2tzNkRza2pFTmNqb1UyVzZ2UWtkZWs0R1QyaFZpTW1HT1dQMEJaMlhSTmxTeVdKa2wxbW9yOENxNTQwUGV6Z2lJaG9tTGRqalB1dmU2RHNucGxSNnVvOEk3V2haT1FDYWM1UmxpaFY0cFZMUQ?oc=5\" target=\"_blank\">Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Venturebeat</font>",
+          "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them. - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTTViMlJtYnY0eHk0dE05Y3E1dzJLN1lzQkVxMHVKSkQ2R3g4MlhMRXg5LTlaVUJkRTlCcG0wQ2tzNkRza2pFTmNqb1UyVzZ2UWtkZWs0R1QyaFZpTW1HT1dQMEJaMlhSTmxTeVdKa2wxbW9yOENxNTQwUGV6Z2lJaG9tTGRqalB1dmU2RHNucGxSNnVvOEk3V2haT1FDYWM1UmxpaFY0cFZMUQ?oc=5\" target=\"_blank\">Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTTViMlJtYnY0eHk0dE05Y3E1dzJLN1lzQkVxMHVKSkQ2R3g4MlhMRXg5LTlaVUJkRTlCcG0wQ2tzNkRza2pFTmNqb1UyVzZ2UWtkZWs0R1QyaFZpTW1HT1dQMEJaMlhSTmxTeVdKa2wxbW9yOENxNTQwUGV6Z2lJaG9tTGRqalB1dmU2RHNucGxSNnVvOEk3V2haT1FDYWM1UmxpaFY0cFZMUQ?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-08-27",
@@ -96,11 +96,11 @@
           "views": "18.0K"
         },
         {
-          "title": "AI agents need their own identity before they need a gateway - Venturebeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOemc1NjRCRWl6RG5CV2cya2hRYXY5THhhbmRBNVQwd0x4aXA0N0cyQm05Yi01bk9Kb2Zkd3YwUzkyYnVOMVA2U052TWl2Z21sZGRhVTJDT0ZlVTNEaFdLeERsc3lfeWY4NkI5OXZ0UjQwVVFCcjRzUHExN1FQdTl5TmhxX0xBR2lOOWJwWjJWUXdBN3kwemhtUA?oc=5\" target=\"_blank\">AI agents need their own identity before they need a gateway</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Venturebeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOemc1NjRCRWl6RG5CV2cya2hRYXY5THhhbmRBNVQwd0x4aXA0N0cyQm05Yi01bk9Kb2Zkd3YwUzkyYnVOMVA2U052TWl2Z21sZGRhVTJDT0ZlVTNEaFdLeERsc3lfeWY4NkI5OXZ0UjQwVVFCcjRzUHExN1FQdTl5TmhxX0xBR2lOOWJwWjJWUXdBN3kwemhtUA?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-08-30",
+          "title": "Chinese Low-Cost AI Shakes Up Enterprise SW Pricing: Gartner Sees 2027 Pressure - ETNEWS",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ScUlPTHJPZnhwbU9qX09MNXBkenN0ZzQyVE5namhCbXVxdTBoS1BpZDRUQ1pmeDJSTW9YMElNOVN3R1dpYmNMVTByV1A?oc=5\" target=\"_blank\">Chinese Low-Cost AI Shakes Up Enterprise SW Pricing: Gartner Sees 2027 Pressure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ScUlPTHJPZnhwbU9qX09MNXBkenN0ZzQyVE5namhCbXVxdTBoS1BpZDRUQ1pmeDJSTW9YMElNOVN3R1dpYmNMVTByV1A?oc=5",
+          "source": "전자신문",
+          "publishedAt": "2026-09-01",
           "views": "13.0K"
         }
       ]
@@ -111,6 +111,14 @@
       "description": "규제, 책임, 신뢰, 저작권 같은 문제를 보는 관점",
       "items": [
         {
+          "title": "New AI policy chief warns of export control risks, vows push for homegrown AI - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSWdaYXJmUGJmcDJkeENnWnFzdE1hLUxrSmx2QkgxSk5XcUE2U0MxdFIwVmhvbWNRYmoxZXlRcWdpMUpESEFBUWdua3lrYWpaWnRoa2Nob1l2TVZNUDZHUlZ4c21Rd1V5aGNscFRld3lEUnRCUUczRl9BeWptRHJ5RWdheFlXcndoZmw3b0pldFpBZjQ1S1FQeUFyZGRybTVfM3EwdEtVSHNxY3UxR2RtWkFqUFlnUzE4WlZyaS1zaXdyYTNxcmhJZkd2LTVoU29Hc29lTjdCa9IB1wFBVV95cUxOSWdaYXJmUGJmcDJkeENnWnFzdE1hLUxrSmx2QkgxSk5XcUE2U0MxdFIwVmhvbWNRYmoxZXlRcWdpMUpESEFBUWdua3lrYWpaWnRoa2Nob1l2TVZNUDZHUlZ4c21Rd1V5aGNscFRld3lEUnRCUUczRl9BeWptRHJ5RWdheFlXcndoZmw3b0pldFpBZjQ1S1FQeUFyZGRybTVfM3EwdEtVSHNxY3UxR2RtWkFqUFlnUzE4WlZyaS1zaXdyYTNxcmhJZkd2LTVoU29Hc29lTjdCaw?oc=5\" target=\"_blank\">New AI policy chief warns of export control risks, vows push for homegrown AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSWdaYXJmUGJmcDJkeENnWnFzdE1hLUxrSmx2QkgxSk5XcUE2U0MxdFIwVmhvbWNRYmoxZXlRcWdpMUpESEFBUWdua3lrYWpaWnRoa2Nob1l2TVZNUDZHUlZ4c21Rd1V5aGNscFRld3lEUnRCUUczRl9BeWptRHJ5RWdheFlXcndoZmw3b0pldFpBZjQ1S1FQeUFyZGRybTVfM3EwdEtVSHNxY3UxR2RtWkFqUFlnUzE4WlZyaS1zaXdyYTNxcmhJZkd2LTVoU29Hc29lTjdCa9IB1wFBVV95cUxOSWdaYXJmUGJmcDJkeENnWnFzdE1hLUxrSmx2QkgxSk5XcUE2U0MxdFIwVmhvbWNRYmoxZXlRcWdpMUpESEFBUWdua3lrYWpaWnRoa2Nob1l2TVZNUDZHUlZ4c21Rd1V5aGNscFRld3lEUnRCUUczRl9BeWptRHJ5RWdheFlXcndoZmw3b0pldFpBZjQ1S1FQeUFyZGRybTVfM3EwdEtVSHNxY3UxR2RtWkFqUFlnUzE4WlZyaS1zaXdyYTNxcmhJZkd2LTVoU29Hc29lTjdCaw?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-08-31",
+          "views": "18.0K"
+        },
+        {
           "title": "Policy, Tech Policy, and Regulation News - WIRED",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5pNm5ITDBaa3F0ZnRtSDROOW16bWg4TndNTlhYNHlkanhuZHRaWWxJbVg2MDE1VG1XVE1Cb2wtYmJTOGpkNFlXRFMzbFlkN1piV0Q3VlNSM1BhM2FYRktFSU5oRGhtdw?oc=5\" target=\"_blank\">Policy, Tech Policy, and Regulation News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
           "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5pNm5ITDBaa3F0ZnRtSDROOW16bWg4TndNTlhYNHlkanhuZHRaWWxJbVg2MDE1VG1XVE1Cb2wtYmJTOGpkNFlXRFMzbFlkN1piV0Q3VlNSM1BhM2FYRktFSU5oRGhtdw?oc=5",
@@ -119,19 +127,11 @@
           "views": "18.0K"
         },
         {
-          "title": "Wang Yi's visit signals major shift in China's Korea policy - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPRWVGY3V4cDVPakFvUko2NnZLRUdtSmltV2gtR01yQldnSVF1eVBGLTlLVDNDZng3VlVjNERTR2ZILU9mdDNsM1J5MW4ycjY3MTNtX1NJeENfNDJvQkRpck9XM3E2ZTgwOHpnaENRd1hDdVRJSnRnSjI4WmpEV0RqQThaS0VWOVBra2h4dVZLNHZlbW1RelFtTm5CRGRTVjlsbDJtbkdB0gGrAUFVX3lxTE1mTUl4Wm9FeXpvVzdKeWhXaGhyMVc2S3FiVm9iTFo4bzc1ZFVRMFdISE0weThjMW1NSTh5R2U1WEtfc3hWd3drMG5yMlpkRTFPcGJabHg5NDNoSnZZZklLaGJEeDlyb25uSVRzdFFDY2Y5b211TVZ5b0VyYXFac2F5OTFvWC1BUGp1cDktdUhiMU1GWVJmenRLd29VWExUTnNQcXEtS1poRUFrYw?oc=5\" target=\"_blank\">Wang Yi's visit signals major shift in China's Korea policy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRWVGY3V4cDVPakFvUko2NnZLRUdtSmltV2gtR01yQldnSVF1eVBGLTlLVDNDZng3VlVjNERTR2ZILU9mdDNsM1J5MW4ycjY3MTNtX1NJeENfNDJvQkRpck9XM3E2ZTgwOHpnaENRd1hDdVRJSnRnSjI4WmpEV0RqQThaS0VWOVBra2h4dVZLNHZlbW1RelFtTm5CRGRTVjlsbDJtbkdB0gGrAUFVX3lxTE1mTUl4Wm9FeXpvVzdKeWhXaGhyMVc2S3FiVm9iTFo4bzc1ZFVRMFdISE0weThjMW1NSTh5R2U1WEtfc3hWd3drMG5yMlpkRTFPcGJabHg5NDNoSnZZZklLaGJEeDlyb25uSVRzdFFDY2Y5b211TVZ5b0VyYXFac2F5OTFvWC1BUGp1cDktdUhiMU1GWVJmenRLd29VWExUTnNQcXEtS1poRUFrYw?oc=5",
+          "title": "[ED] Kim's exit must mark policy reset - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPNGEtRTZJVGZjOVFtU1hoUGpiZmM3eEh0dXpMUHVZRDlRNGFjM3hoMTh1V1lCR2RuamNwQmx6VWltaW5DT25aaWNVeVFvdmdfRmNBaEJBeHpHNGJFNnYybFo2V0hKZlB2dERBb3FObVlMMWlLMWw0NWxtYUQ3dzdGUGdNQXpoWjEzV2c4VHpJeVRKeFVnVWfSAZsBQVVfeXFMTUd5d3FhUktiZXZjTHlBV3ptVmxYS21ORzVLYVRlbTNEWEJ6aXk1YlZoa1pUcGY2YnJOQk41UFRPWDdZSENOMjRuNThTUEFpUTNUT3JQSE4talF4Z1RfWmIyTGpaS2V2VnVPeTlMbDFvM2JBLWNSYnNvSjZ1MGJqMkJyYXFoeVI1T29wSmZSMFlKRGJoXzR1c3dTY0E?oc=5\" target=\"_blank\">[ED] Kim's exit must mark policy reset</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNGEtRTZJVGZjOVFtU1hoUGpiZmM3eEh0dXpMUHVZRDlRNGFjM3hoMTh1V1lCR2RuamNwQmx6VWltaW5DT25aaWNVeVFvdmdfRmNBaEJBeHpHNGJFNnYybFo2V0hKZlB2dERBb3FObVlMMWlLMWw0NWxtYUQ3dzdGUGdNQXpoWjEzV2c4VHpJeVRKeFVnVWfSAZsBQVVfeXFMTUd5d3FhUktiZXZjTHlBV3ptVmxYS21ORzVLYVRlbTNEWEJ6aXk1YlZoa1pUcGY2YnJOQk41UFRPWDdZSENOMjRuNThTUEFpUTNUT3JQSE4talF4Z1RfWmIyTGpaS2V2VnVPeTlMbDFvM2JBLWNSYnNvSjZ1MGJqMkJyYXFoeVI1T29wSmZSMFlKRGJoXzR1c3dTY0E?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-08-31",
-          "views": "13.0K"
-        },
-        {
-          "title": "Indian rupee under pressure from Fed, oil; bonds at risk of further selloff - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNblJ2YTFRQ3gwdmJPd1FmLXZUSi16TlpBb0lENndWMkI5elBMMzBrejRDUkhVd3pqb0xjRy1ZdWZGZk9yZEFWSzVaZWtpdTJiWVJ6QkR6QVIzZ1JnQUZGak9RMnpGSzVYZVZXcXowV1VUS1RUTDQ3T0lJcnJMSFRHSUNIeEIyOEd5cmVIOW5sSVEzV1B4QUFYYnRRVFk0aWFUOGVza0hmU0VZUUp5dnNB?oc=5\" target=\"_blank\">Indian rupee under pressure from Fed, oil; bonds at risk of further selloff</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNblJ2YTFRQ3gwdmJPd1FmLXZUSi16TlpBb0lENndWMkI5elBMMzBrejRDUkhVd3pqb0xjRy1ZdWZGZk9yZEFWSzVaZWtpdTJiWVJ6QkR6QVIzZ1JnQUZGak9RMnpGSzVYZVZXcXowV1VUS1RUTDQ3T0lJcnJMSFRHSUNIeEIyOEd5cmVIOW5sSVEzV1B4QUFYYnRRVFk0aWFUOGVza0hmU0VZUUp5dnNB?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-08-31",
+          "publishedAt": "2026-09-01",
           "views": "13.0K"
         }
       ]
@@ -142,28 +142,28 @@
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
         {
+          "title": "Prediction market startup Kalshi permanently bans ex-US lawmaker Santos from trading - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYW1ObDJ3MEtOTWRGRklWR1hWSDVEb3hZSkxmZTgzQ1VucGVIV2tPQWpPbkFVOU94Nm1xemZHdGs3YkhjNnRYR2xENGt1bjhIaGRsOFZfS3ZhQjNfclg3b3AwTXF6OHBDX0RRLXVIQlFFeDNwa2pPQXROYmZvcVFURldudVVxXzl6cVJ0RzJhaWR6eDVtRTJVMVlTbE9kWTNKbVFpOHh1VFRkUVk?oc=5\" target=\"_blank\">Prediction market startup Kalshi permanently bans ex-US lawmaker Santos from trading</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYW1ObDJ3MEtOTWRGRklWR1hWSDVEb3hZSkxmZTgzQ1VucGVIV2tPQWpPbkFVOU94Nm1xemZHdGs3YkhjNnRYR2xENGt1bjhIaGRsOFZfS3ZhQjNfclg3b3AwTXF6OHBDX0RRLXVIQlFFeDNwa2pPQXROYmZvcVFURldudVVxXzl6cVJ0RzJhaWR6eDVtRTJVMVlTbE9kWTNKbVFpOHh1VFRkUVk?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-08-31",
+          "views": "18.0K"
+        },
+        {
+          "title": "Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment fund - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNcUNnNlhhTWdXOU5vcEh4bjY3bWdrYlRjMHdjWEVlVXEtMXJ1amwzV3EtZ01EWjVfd3A5OFpUV3FmN0h6UmNzSmRPamJiOF91TUVZLUtsdkdmVXp3R216dTQ0bTl2by13dXVLVE9Yc2Q2SVlRMDJhZ19BQWp0V3gtN05STTA5Um9NVWJpbnhaVGVyX2E3Yk0zSjkwTXZSd1cwQVRNMHN5QUZpM0NDZ1dvSWFjUFU?oc=5\" target=\"_blank\">Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment fund</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcUNnNlhhTWdXOU5vcEh4bjY3bWdrYlRjMHdjWEVlVXEtMXJ1amwzV3EtZ01EWjVfd3A5OFpUV3FmN0h6UmNzSmRPamJiOF91TUVZLUtsdkdmVXp3R216dTQ0bTl2by13dXVLVE9Yc2Q2SVlRMDJhZ19BQWp0V3gtN05STTA5Um9NVWJpbnhaVGVyX2E3Yk0zSjkwTXZSd1cwQVRNMHN5QUZpM0NDZ1dvSWFjUFU?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-08-31",
+          "views": "18.0K"
+        },
+        {
           "title": "Wall St Week Ahead Jobs report, Broadcom results pose next hurdles for stock market rally - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTjVfaWU5QkF5T0paRm0xSHdteDJHZjB1YTVMcmNZcjVWNHQzcWV2Rm1FaVd3RFN5OHFndERRRUljQ2dYMjhJQXdER21XMEJjQThvN0JONTRJNlpNUEt2V2xCWGtFdmJQcVMydi1MSEtDd1lsQVR4Q2ZYZDlldFI0VE5odDc3LVU1NDB5SlRQVlh3NWg4Tjl1Y2J0blJxczFyVUNmYlZ2b0hCZ1o1SzdiMFdEUHRfWlBWUTlCLVRtN3g?oc=5\" target=\"_blank\">Wall St Week Ahead Jobs report, Broadcom results pose next hurdles for stock market rally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTjVfaWU5QkF5T0paRm0xSHdteDJHZjB1YTVMcmNZcjVWNHQzcWV2Rm1FaVd3RFN5OHFndERRRUljQ2dYMjhJQXdER21XMEJjQThvN0JONTRJNlpNUEt2V2xCWGtFdmJQcVMydi1MSEtDd1lsQVR4Q2ZYZDlldFI0VE5odDc3LVU1NDB5SlRQVlh3NWg4Tjl1Y2J0blJxczFyVUNmYlZ2b0hCZ1o1SzdiMFdEUHRfWlBWUTlCLVRtN3g?oc=5",
           "source": "Reuters AI",
           "publishedAt": "2026-08-28",
           "views": "18.0K"
-        },
-        {
-          "title": "Bond market may be pricing AI productivity gains as yields rise: JPMorgan Private Bank - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS1FVZk93OGdac1hJUC1oTjMtRENKcm9XandrQ2RlanhkRTh1Y2ZpVDRJUjF5UE9Rd0MyWWNYVkdnTF9uR1hxTXV4MllWSm5lM09IYUFVOTBiN01QQjRQTWJzUk93bHFtaXF1RzlkT3RyWXI0a0pOZ2Vxb3VTTmxGMTRnWDF2bElqbV84R0p6RUhKZlhZMExpalB2aEw3cDNDbERfTmJ0dEdjajMxMXg2Z1QxQks4TVBYenRr?oc=5\" target=\"_blank\">Bond market may be pricing AI productivity gains as yields rise: JPMorgan Private Bank</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS1FVZk93OGdac1hJUC1oTjMtRENKcm9XandrQ2RlanhkRTh1Y2ZpVDRJUjF5UE9Rd0MyWWNYVkdnTF9uR1hxTXV4MllWSm5lM09IYUFVOTBiN01QQjRQTWJzUk93bHFtaXF1RzlkT3RyWXI0a0pOZ2Vxb3VTTmxGMTRnWDF2bElqbV84R0p6RUhKZlhZMExpalB2aEw3cDNDbERfTmJ0dEdjajMxMXg2Z1QxQks4TVBYenRr?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-08-28",
-          "views": "18.0K"
-        },
-        {
-          "title": "[Exclusive] Toss Seeks P2P Lending Entry to Expand Personal Loan Market - ETNEWS",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE1VcGw0V2F0c2VZT21TYmNROUJ4Q011Sl9Zb0lmM3FfZURHdkRiMmpzSi1QMHFYTTdrN2s3dXBzbHFWaDktRTFDeEV6dEw?oc=5\" target=\"_blank\">[Exclusive] Toss Seeks P2P Lending Entry to Expand Personal Loan Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1VcGw0V2F0c2VZT21TYmNROUJ4Q011Sl9Zb0lmM3FfZURHdkRiMmpzSi1QMHFYTTdrN2s3dXBzbHFWaDktRTFDeEV6dEw?oc=5",
-          "source": "전자신문",
-          "publishedAt": "2026-08-31",
-          "views": "13.0K"
         }
       ]
     },
@@ -173,27 +173,27 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
-          "title": "Caterpillar is bringing to AI deployment what it learned from automating mining - TechCrunch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPNkRWTkg4TGJIWlVpU3R3cTk2V0VPbk96c2hkc1kwVGlGWTJST1hsWEZPU3JSRXFmbW5lNnlJRE9mRXIzbXhsQlctVjBOd2t2QXpVdTdNdnBNeU91TjE4YXJNWHlBOEp0TWJXajVOSzFjN0ZPQk1mSnl4dWNHVE51VEVzbG1ZcGQ2VEdLLXBSOS1TMkJpZXFWd0FLc1hKdGZLekhQdDI0ekhVaUlwS093TUFURzg?oc=5\" target=\"_blank\">Caterpillar is bringing to AI deployment what it learned from automating mining</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNkRWTkg4TGJIWlVpU3R3cTk2V0VPbk96c2hkc1kwVGlGWTJST1hsWEZPU3JSRXFmbW5lNnlJRE9mRXIzbXhsQlctVjBOd2t2QXpVdTdNdnBNeU91TjE4YXJNWHlBOEp0TWJXajVOSzFjN0ZPQk1mSnl4dWNHVE51VEVzbG1ZcGQ2VEdLLXBSOS1TMkJpZXFWd0FLc1hKdGZLekhQdDI0ekhVaUlwS093TUFURzg?oc=5",
+          "title": "Industry minister to visit US for G20 meeting, to boost economic ties - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX0pBOHM4MmFCd2ljemRoSFNTaS1CNWtfaEhYMkZYbXdIOTRBWHI0eHN2bzFMMHRibUoybDg0VGNMQTVZX3lVX0tYSWh2Vkx4dGFMYnh1TEVtb1QzWlZrZDExMzV0bGEwMnRPdUVBeFpqUC1IM0ZGdUdJdFlRcVNwbTVxeDJCTEc1QzFiaENTcEdFd2xqbzVJUklvdTV4NzlZTjUySElrZ19sMTBZeDAwbWJOOFJjc3QzNm03V2pyVDh4OGfSAcMBQVVfeXFMTV9KQThzODJhQndpY3pkaEhTU2ktQjVrX2hIWDJGWG13SDk0QVhyNHhzdm8xTDB0Ym1KMmw4NFRjTEE1WV95VV9LWElodlZMeHRhTGJ4dUxFbW9UM1pWa2QxMTM1dGxhMDJ0T3VFQXhaalAtSDNGRnVHSXRZUXFTcG01cXgyQkxHNUMxYmhDU3BHRXdsam81SVJJb3U1eDc5WU41MkhJa2dfbDEwWXgwMG1iTjhSY3N0MzZtN1dqclQ4eDhn?oc=5\" target=\"_blank\">Industry minister to visit US for G20 meeting, to boost economic ties</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX0pBOHM4MmFCd2ljemRoSFNTaS1CNWtfaEhYMkZYbXdIOTRBWHI0eHN2bzFMMHRibUoybDg0VGNMQTVZX3lVX0tYSWh2Vkx4dGFMYnh1TEVtb1QzWlZrZDExMzV0bGEwMnRPdUVBeFpqUC1IM0ZGdUdJdFlRcVNwbTVxeDJCTEc1QzFiaENTcEdFd2xqbzVJUklvdTV4NzlZTjUySElrZ19sMTBZeDAwbWJOOFJjc3QzNm03V2pyVDh4OGfSAcMBQVVfeXFMTV9KQThzODJhQndpY3pkaEhTU2ktQjVrX2hIWDJGWG13SDk0QVhyNHhzdm8xTDB0Ym1KMmw4NFRjTEE1WV95VV9LWElodlZMeHRhTGJ4dUxFbW9UM1pWa2QxMTM1dGxhMDJ0T3VFQXhaalAtSDNGRnVHSXRZUXFTcG01cXgyQkxHNUMxYmhDU3BHRXdsam81SVJJb3U1eDc5WU41MkhJa2dfbDEwWXgwMG1iTjhSY3N0MzZtN1dqclQ4eDhn?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-09-01",
+          "views": "13.0K"
+        },
+        {
+          "title": "Apple shares 'shocking evidence' against former employee accused of stealing company data for OpenAI - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQTmxYUHpiREdBU3FzeFJLTmVTTkh6anNIUUt6RDlQa2hUTzhLN2JlMEdHVjZJdmNjZ1RIRURldmtmSjVNUjRsc2F2OFFBekViQ0RVSmtfWkFxcXVrRU9NUzVXd2lMMFlTNXpRUHYxZVJ4NDlKellncHBWSnhaM2h2cFBxSHAwZG1CR1dVaWt5eTRaS21zSHM2MzVmbjNDdVF6VGsybzlqZGxRUWMtRFhDdkNVLUoyVV9hMmlFNndFN05Ea085c3ItTl9ib0RTUQ?oc=5\" target=\"_blank\">Apple shares 'shocking evidence' against former employee accused of stealing company data for OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTmxYUHpiREdBU3FzeFJLTmVTTkh6anNIUUt6RDlQa2hUTzhLN2JlMEdHVjZJdmNjZ1RIRURldmtmSjVNUjRsc2F2OFFBekViQ0RVSmtfWkFxcXVrRU9NUzVXd2lMMFlTNXpRUHYxZVJ4NDlKellncHBWSnhaM2h2cFBxSHAwZG1CR1dVaWt5eTRaS21zSHM2MzVmbjNDdVF6VGsybzlqZGxRUWMtRFhDdkNVLUoyVV9hMmlFNndFN05Ea085c3ItTl9ib0RTUQ?oc=5",
           "source": "TechCrunch AI",
-          "publishedAt": "2026-08-30",
+          "publishedAt": "2026-09-01",
           "views": "13.0K"
         },
         {
-          "title": "Chipmaker CXMT sues Pentagon over 'Chinese military company' designation - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQTzlZZ0RUM29YdFNQNXEtM0ZoZ19GVGZUd0pWMl9SbzUzN2RtNnJkMXYyUnpPQjlYbUlKYmhOa3g4WXRGR1VYZ2JNckZKaG5XbGxDMUMwcEtDWU9HbXVHcnV1NHB3RkJ0b0VaRjA4X19pRXRIMGRmTkdPejVhU0FuQ25KaW1PZDJEVzVGUFJINGEtLXUtaEZLZm5CcElrQWZVOUVlLUEwUnBCc3RmM3prdQ?oc=5\" target=\"_blank\">Chipmaker CXMT sues Pentagon over 'Chinese military company' designation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTzlZZ0RUM29YdFNQNXEtM0ZoZ19GVGZUd0pWMl9SbzUzN2RtNnJkMXYyUnpPQjlYbUlKYmhOa3g4WXRGR1VYZ2JNckZKaG5XbGxDMUMwcEtDWU9HbXVHcnV1NHB3RkJ0b0VaRjA4X19pRXRIMGRmTkdPejVhU0FuQ25KaW1PZDJEVzVGUFJINGEtLXUtaEZLZm5CcElrQWZVOUVlLUEwUnBCc3RmM3prdQ?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-08-29",
-          "views": "13.0K"
-        },
-        {
-          "title": "BLK: Portfolio Company of Enry’s Island S.p.A., Lists on Euronext Dublin - Venturebeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQbVRBVktjNFpYcUhBOUFxbnM3RUg5R1ZWbWZVLWhHVlBUeG5ZVnM3YjNZc3c1dEVnZEx4eXZ3cXo4WTZIbjZaR0lHbW1MY2pZWXN3VzZwOW9hWTJFZHJsbDNwcjFabFBPLTc3X1M4UDNGcDZzVlBWNWIxX0dFNUZjaVBFbVJWaEZqMHg0eERrZl9jVGtHZTZ5ejAtQ1p3Tmhj?oc=5\" target=\"_blank\">BLK: Portfolio Company of Enry’s Island S.p.A., Lists on Euronext Dublin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Venturebeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbVRBVktjNFpYcUhBOUFxbnM3RUg5R1ZWbWZVLWhHVlBUeG5ZVnM3YjNZc3c1dEVnZEx4eXZ3cXo4WTZIbjZaR0lHbW1MY2pZWXN3VzZwOW9hWTJFZHJsbDNwcjFabFBPLTc3X1M4UDNGcDZzVlBWNWIxX0dFNUZjaVBFbVJWaEZqMHg0eERrZl9jVGtHZTZ5ejAtQ1p3Tmhj?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-08-28",
+          "title": "Topic: national ai strategy council - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBsNllPWWY2S1RpbnFEMXdzNWJqOEtOWGs5WnZUYU9fUE1KZVM3TUFIQWd4MkFZVFpDOUtYX092ZFRHVTBMYWV6bngwTXVxYTltQmdSMV83OGRKYUIzczlpckktTTFudng3U1VfQnhaUGQ4blE0Nk44?oc=5\" target=\"_blank\">Topic: national ai strategy council</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsNllPWWY2S1RpbnFEMXdzNWJqOEtOWGs5WnZUYU9fUE1KZVM3TUFIQWd4MkFZVFpDOUtYX092ZFRHVTBMYWV6bngwTXVxYTltQmdSMV83OGRKYUIzczlpckktTTFudng3U1VfQnhaUGQ4blE0Nk44?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-08-31",
           "views": "13.0K"
         }
       ]
