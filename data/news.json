@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-01T05:03:13.768Z",
+  "lastUpdated": "2026-09-02T04:28:15.238Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,6 +49,14 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
+          "title": "GPT-5, Gemini-3 recall lost facts via reasoning - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNRXFaYUlYbUo1cVN0WlFiZ1kyV2FIUWpnMURQNldQeG1lRVdFZEFSRkp0ZlJsQ21Zd0JadFQ2d2JsZjJwWmpFa2ptd3U1dlozWFp6MkdvOGp3R05LcVhBRjFTNjBaNklMczVlSTR0NHU2bk9PX1lpOUYyVTZRMGc2Z3g3QTBaa3p4TXVFS3pUcnlyZDlobDBHM21hYVFuRlJvQldtRFBSRjJVc0M3UjVUWGhuMXZ2aXpHbTVVRUgwZ1ZCVFB1RFRMMWdJemQ5Zw?oc=5\" target=\"_blank\">GPT-5, Gemini-3 recall lost facts via reasoning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRXFaYUlYbUo1cVN0WlFiZ1kyV2FIUWpnMURQNldQeG1lRVdFZEFSRkp0ZlJsQ21Zd0JadFQ2d2JsZjJwWmpFa2ptd3U1dlozWFp6MkdvOGp3R05LcVhBRjFTNjBaNklMczVlSTR0NHU2bk9PX1lpOUYyVTZRMGc2Z3g3QTBaa3p4TXVFS3pUcnlyZDlobDBHM21hYVFuRlJvQldtRFBSRjJVc0M3UjVUWGhuMXZ2aXpHbTVVRUgwZ1ZCVFB1RFRMMWdJemQ5Zw?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-09-01",
+          "views": "23.0K"
+        },
+        {
           "title": "Applied Materials strives to cooperate with chipmakers to shorten equipment lead time - The Korea Times",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcF9UdWoyTDZPZThVeTJ3dURDZ2s3Ml9ERjNVckVCSGhNQUJLTTRxUE9qanpBQlJDSHhQTFdmaGo3V1o5cXhMcUItQnlLMENuQ1FBWkp0RWx1ckhhNENfdC01MEpqTVcyc01MYlV6VGU4YWlGUmR6dzItWW1SbUtOdGZOejJNNHdaalJ2NUZqaWZvbkZEcFNhMWpjYmh3cFc0ZVcxRVFZd1d0QnJtOGQwbkJMRXFsZ20zYWc3WV8tUTZ1bm41Qk52bjduRC1Tb3Jwek1PMGRZNF9lMGlDdUkxV1VSa9IB4wFBVV95cUxNcF9UdWoyTDZPZThVeTJ3dURDZ2s3Ml9ERjNVckVCSGhNQUJLTTRxUE9qanpBQlJDSHhQTFdmaGo3V1o5cXhMcUItQnlLMENuQ1FBWkp0RWx1ckhhNENfdC01MEpqTVcyc01MYlV6VGU4YWlGUmR6dzItWW1SbUtOdGZOejJNNHdaalJ2NUZqaWZvbkZEcFNhMWpjYmh3cFc0ZVcxRVFZd1d0QnJtOGQwbkJMRXFsZ20zYWc3WV8tUTZ1bm41Qk52bjduRC1Tb3Jwek1PMGRZNF9lMGlDdUkxV1VSaw?oc=5\" target=\"_blank\">Applied Materials strives to cooperate with chipmakers to shorten equipment lead time</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
           "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcF9UdWoyTDZPZThVeTJ3dURDZ2s3Ml9ERjNVckVCSGhNQUJLTTRxUE9qanpBQlJDSHhQTFdmaGo3V1o5cXhMcUItQnlLMENuQ1FBWkp0RWx1ckhhNENfdC01MEpqTVcyc01MYlV6VGU4YWlGUmR6dzItWW1SbUtOdGZOejJNNHdaalJ2NUZqaWZvbkZEcFNhMWpjYmh3cFc0ZVcxRVFZd1d0QnJtOGQwbkJMRXFsZ20zYWc3WV8tUTZ1bm41Qk52bjduRC1Tb3Jwek1PMGRZNF9lMGlDdUkxV1VSa9IB4wFBVV95cUxNcF9UdWoyTDZPZThVeTJ3dURDZ2s3Ml9ERjNVckVCSGhNQUJLTTRxUE9qanpBQlJDSHhQTFdmaGo3V1o5cXhMcUItQnlLMENuQ1FBWkp0RWx1ckhhNENfdC01MEpqTVcyc01MYlV6VGU4YWlGUmR6dzItWW1SbUtOdGZOejJNNHdaalJ2NUZqaWZvbkZEcFNhMWpjYmh3cFc0ZVcxRVFZd1d0QnJtOGQwbkJMRXFsZ20zYWc3WV8tUTZ1bm41Qk52bjduRC1Tb3Jwek1PMGRZNF9lMGlDdUkxV1VSaw?oc=5",
@@ -62,14 +70,6 @@
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOUIzOFhKU3hRak1pVFZwVUVmU2NxSVRIQnZtb3dJZVBCYm5hRi0wQUdpYUVhS0YyVFMzUUxHNGJDdFV0Rzc4bThXOG9LaFRyX2dhYmxqbFZHWG4zWnJDa1U2Y3A0Uk82bDBLX1lieXY0MHhDV0NtYXhPdjl6VFdUSXhRNVhOTFR2MWlWZEF0bllMQ3NITjRqeFU1WTVoQktQTUE?oc=5",
           "source": "TechCrunch AI",
           "publishedAt": "2026-08-26",
-          "views": "18.0K"
-        },
-        {
-          "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show - TechCrunch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPdlE2bVR3UFAwRV80akdTekNTajNURldEZWl0elhCNVIyb0JwaU90UmlWdFVLdjd1N1FobmZoelpmOW1qVzRoeWxrMG44ZlZiVjhDUEh4WTNaMk1oSlNDNGZmcGhHRWVoMFJvek93U2Z5cERzUnliU3pIX3ZjUEJYUlh5ZzZHRnVHd1UtTkM0R1c4b1pBX0FxT3VvcUttSkJNTkN2OGM1OE5WYjBleEE?oc=5\" target=\"_blank\">OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdlE2bVR3UFAwRV80akdTekNTajNURldEZWl0elhCNVIyb0JwaU90UmlWdFVLdjd1N1FobmZoelpmOW1qVzRoeWxrMG44ZlZiVjhDUEh4WTNaMk1oSlNDNGZmcGhHRWVoMFJvek93U2Z5cERzUnliU3pIX3ZjUEJYUlh5ZzZHRnVHd1UtTkM0R1c4b1pBX0FxT3VvcUttSkJNTkN2OGM1OE5WYjBleEE?oc=5",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-08-25",
           "views": "18.0K"
         }
       ]
@@ -127,9 +127,9 @@
           "views": "18.0K"
         },
         {
-          "title": "[ED] Kim's exit must mark policy reset - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPNGEtRTZJVGZjOVFtU1hoUGpiZmM3eEh0dXpMUHVZRDlRNGFjM3hoMTh1V1lCR2RuamNwQmx6VWltaW5DT25aaWNVeVFvdmdfRmNBaEJBeHpHNGJFNnYybFo2V0hKZlB2dERBb3FObVlMMWlLMWw0NWxtYUQ3dzdGUGdNQXpoWjEzV2c4VHpJeVRKeFVnVWfSAZsBQVVfeXFMTUd5d3FhUktiZXZjTHlBV3ptVmxYS21ORzVLYVRlbTNEWEJ6aXk1YlZoa1pUcGY2YnJOQk41UFRPWDdZSENOMjRuNThTUEFpUTNUT3JQSE4talF4Z1RfWmIyTGpaS2V2VnVPeTlMbDFvM2JBLWNSYnNvSjZ1MGJqMkJyYXFoeVI1T29wSmZSMFlKRGJoXzR1c3dTY0E?oc=5\" target=\"_blank\">[ED] Kim's exit must mark policy reset</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNGEtRTZJVGZjOVFtU1hoUGpiZmM3eEh0dXpMUHVZRDlRNGFjM3hoMTh1V1lCR2RuamNwQmx6VWltaW5DT25aaWNVeVFvdmdfRmNBaEJBeHpHNGJFNnYybFo2V0hKZlB2dERBb3FObVlMMWlLMWw0NWxtYUQ3dzdGUGdNQXpoWjEzV2c4VHpJeVRKeFVnVWfSAZsBQVVfeXFMTUd5d3FhUktiZXZjTHlBV3ptVmxYS21ORzVLYVRlbTNEWEJ6aXk1YlZoa1pUcGY2YnJOQk41UFRPWDdZSENOMjRuNThTUEFpUTNUT3JQSE4talF4Z1RfWmIyTGpaS2V2VnVPeTlMbDFvM2JBLWNSYnNvSjZ1MGJqMkJyYXFoeVI1T29wSmZSMFlKRGJoXzR1c3dTY0E?oc=5",
+          "title": "Gender minister nominee refuses to give up lawmaker seat, sparking backlash - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPUUhaTFB4aWF0MmlGcnJmemYzcWc5TjFYSHdWZHdxdzBDNnhKeTdVTkdxd1J0OG9WbHJ3TTczV1NHOEVMUjVnVHNzdVB2T0U4M3JfT2RYR2NGek9tTHVGa3htb01pRDdSR19obnhVOU9mVkp4ejlhaVpicWc5TmgtWEpVZnlXcml4MlhtUWhGWmVpZFJoV1l3MUhIYUNjU3FQMnd5REJ3YVdmTk9ESlZLYjB4d1RrdnFxQm54QVgzZnJXQi1uREhUanBMbjjSAdIBQVVfeXFMTjVVQ3VZbU5SVmtXeTYxaEVVdDEyU2JKMWdsN2NPMGxEdl9sSGRfeUJ2cTdHSldJaXR5T1NaSzNjRUlGVTNKd0V0cmhwZG1jZnhhakp2dTdVbXJ4dTFWLXNBdVlMR2w3SkZ1V0xFTk1pTU1HM2hFUHZxbEM0dnAxTlJVTndvMVl2dFI5M1IzY3Vpb1p4MHdhcUl2TlBFNjlYV2V1UTROX0NVSHlyaUkwZWEzcWZaWUd3c2p6OU8zU01hT3RwMlFtOVhZR1RuNDZXWEZ3?oc=5\" target=\"_blank\">Gender minister nominee refuses to give up lawmaker seat, sparking backlash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUUhaTFB4aWF0MmlGcnJmemYzcWc5TjFYSHdWZHdxdzBDNnhKeTdVTkdxd1J0OG9WbHJ3TTczV1NHOEVMUjVnVHNzdVB2T0U4M3JfT2RYR2NGek9tTHVGa3htb01pRDdSR19obnhVOU9mVkp4ejlhaVpicWc5TmgtWEpVZnlXcml4MlhtUWhGWmVpZFJoV1l3MUhIYUNjU3FQMnd5REJ3YVdmTk9ESlZLYjB4d1RrdnFxQm54QVgzZnJXQi1uREhUanBMbjjSAdIBQVVfeXFMTjVVQ3VZbU5SVmtXeTYxaEVVdDEyU2JKMWdsN2NPMGxEdl9sSGRfeUJ2cTdHSldJaXR5T1NaSzNjRUlGVTNKd0V0cmhwZG1jZnhhakp2dTdVbXJ4dTFWLXNBdVlMR2w3SkZ1V0xFTk1pTU1HM2hFUHZxbEM0dnAxTlJVTndvMVl2dFI5M1IzY3Vpb1p4MHdhcUl2TlBFNjlYV2V1UTROX0NVSHlyaUkwZWEzcWZaWUd3c2p6OU8zU01hT3RwMlFtOVhZR1RuNDZXWEZ3?oc=5",
           "source": "The Korea Times",
           "publishedAt": "2026-09-01",
           "views": "13.0K"
@@ -162,7 +162,7 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTjVfaWU5QkF5T0paRm0xSHdteDJHZjB1YTVMcmNZcjVWNHQzcWV2Rm1FaVd3RFN5OHFndERRRUljQ2dYMjhJQXdER21XMEJjQThvN0JONTRJNlpNUEt2V2xCWGtFdmJQcVMydi1MSEtDd1lsQVR4Q2ZYZDlldFI0VE5odDc3LVU1NDB5SlRQVlh3NWg4Tjl1Y2J0blJxczFyVUNmYlZ2b0hCZ1o1SzdiMFdEUHRfWlBWUTlCLVRtN3g?oc=5\" target=\"_blank\">Wall St Week Ahead Jobs report, Broadcom results pose next hurdles for stock market rally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTjVfaWU5QkF5T0paRm0xSHdteDJHZjB1YTVMcmNZcjVWNHQzcWV2Rm1FaVd3RFN5OHFndERRRUljQ2dYMjhJQXdER21XMEJjQThvN0JONTRJNlpNUEt2V2xCWGtFdmJQcVMydi1MSEtDd1lsQVR4Q2ZYZDlldFI0VE5odDc3LVU1NDB5SlRQVlh3NWg4Tjl1Y2J0blJxczFyVUNmYlZ2b0hCZ1o1SzdiMFdEUHRfWlBWUTlCLVRtN3g?oc=5",
           "source": "Reuters AI",
-          "publishedAt": "2026-08-28",
+          "publishedAt": "2026-08-30",
           "views": "18.0K"
         }
       ]
@@ -173,27 +173,27 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
-          "title": "Industry minister to visit US for G20 meeting, to boost economic ties - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX0pBOHM4MmFCd2ljemRoSFNTaS1CNWtfaEhYMkZYbXdIOTRBWHI0eHN2bzFMMHRibUoybDg0VGNMQTVZX3lVX0tYSWh2Vkx4dGFMYnh1TEVtb1QzWlZrZDExMzV0bGEwMnRPdUVBeFpqUC1IM0ZGdUdJdFlRcVNwbTVxeDJCTEc1QzFiaENTcEdFd2xqbzVJUklvdTV4NzlZTjUySElrZ19sMTBZeDAwbWJOOFJjc3QzNm03V2pyVDh4OGfSAcMBQVVfeXFMTV9KQThzODJhQndpY3pkaEhTU2ktQjVrX2hIWDJGWG13SDk0QVhyNHhzdm8xTDB0Ym1KMmw4NFRjTEE1WV95VV9LWElodlZMeHRhTGJ4dUxFbW9UM1pWa2QxMTM1dGxhMDJ0T3VFQXhaalAtSDNGRnVHSXRZUXFTcG01cXgyQkxHNUMxYmhDU3BHRXdsam81SVJJb3U1eDc5WU41MkhJa2dfbDEwWXgwMG1iTjhSY3N0MzZtN1dqclQ4eDhn?oc=5\" target=\"_blank\">Industry minister to visit US for G20 meeting, to boost economic ties</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX0pBOHM4MmFCd2ljemRoSFNTaS1CNWtfaEhYMkZYbXdIOTRBWHI0eHN2bzFMMHRibUoybDg0VGNMQTVZX3lVX0tYSWh2Vkx4dGFMYnh1TEVtb1QzWlZrZDExMzV0bGEwMnRPdUVBeFpqUC1IM0ZGdUdJdFlRcVNwbTVxeDJCTEc1QzFiaENTcEdFd2xqbzVJUklvdTV4NzlZTjUySElrZ19sMTBZeDAwbWJOOFJjc3QzNm03V2pyVDh4OGfSAcMBQVVfeXFMTV9KQThzODJhQndpY3pkaEhTU2ktQjVrX2hIWDJGWG13SDk0QVhyNHhzdm8xTDB0Ym1KMmw4NFRjTEE1WV95VV9LWElodlZMeHRhTGJ4dUxFbW9UM1pWa2QxMTM1dGxhMDJ0T3VFQXhaalAtSDNGRnVHSXRZUXFTcG01cXgyQkxHNUMxYmhDU3BHRXdsam81SVJJb3U1eDc5WU41MkhJa2dfbDEwWXgwMG1iTjhSY3N0MzZtN1dqclQ4eDhn?oc=5",
+          "title": "Foreign workers take on bigger roles in Korea's financial industry - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPUkFGX1BvampFajVKd1VmZWt1LXZTVy1WWDZkWENsM1hvOXFET2w4QUxmU0NjZV9YeTJPMTNNRmRQVXMteVppQ2JQblg2RnhSaUNxNVp6cE9CSXROOTZHRWFvUkpwRlZNMW00ZnhRcVhYeE9JVzhuYWtQd2VEUGluSEE4WkFIR190RnFKZHRaU0U0Rmo0RG1HQ2pINDFtWTF4bmRMY1lSeGJJOG9NaEtfVlJBVUtTSFRFU1h5RC04THdCZVFRODJv0gHMAUFVX3lxTE1SYVByRy1zMTJYeWd5UGU3R29IeWY0c2hDQ3l5ME1xczZMTzYwSFRFdXNwLXpBM2x3Vkt1bkJpcl9zNWVuRlR4b0pSci15UkxiSXdiWU5FdndGZzJWeGpKTC16VG15Z0ZxR0QtRVM4blJ0bEx1M1U2cVBQSGJCbk5UN3oxSnBJNUNjSU56NVV2NjY1eTkyT1JGb29JWGphNVEzMDBuNXJhakJfN000bDFOLU5hem1Qc2tKc3hIMlBLMXBoWEtPUDB0Y1Nwcg?oc=5\" target=\"_blank\">Foreign workers take on bigger roles in Korea's financial industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUkFGX1BvampFajVKd1VmZWt1LXZTVy1WWDZkWENsM1hvOXFET2w4QUxmU0NjZV9YeTJPMTNNRmRQVXMteVppQ2JQblg2RnhSaUNxNVp6cE9CSXROOTZHRWFvUkpwRlZNMW00ZnhRcVhYeE9JVzhuYWtQd2VEUGluSEE4WkFIR190RnFKZHRaU0U0Rmo0RG1HQ2pINDFtWTF4bmRMY1lSeGJJOG9NaEtfVlJBVUtTSFRFU1h5RC04THdCZVFRODJv0gHMAUFVX3lxTE1SYVByRy1zMTJYeWd5UGU3R29IeWY0c2hDQ3l5ME1xczZMTzYwSFRFdXNwLXpBM2x3Vkt1bkJpcl9zNWVuRlR4b0pSci15UkxiSXdiWU5FdndGZzJWeGpKTC16VG15Z0ZxR0QtRVM4blJ0bEx1M1U2cVBQSGJCbk5UN3oxSnBJNUNjSU56NVV2NjY1eTkyT1JGb29JWGphNVEzMDBuNXJhakJfN000bDFOLU5hem1Qc2tKc3hIMlBLMXBoWEtPUDB0Y1Nwcg?oc=5",
           "source": "The Korea Times",
+          "publishedAt": "2026-09-02",
+          "views": "13.0K"
+        },
+        {
+          "title": "“Purpose-Built AI Strategy Needed”…Dell Supports Data-to-Infrastructure - ETNEWS",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE5kRXQzTkMwYkJObUs0dlAyTWx0X05ESGVTM3FLWm5SeGhnYmFLMndPZU1ZUlB6U0dwU19Hc04xYjBIb1hsNHlEeUF0WVc?oc=5\" target=\"_blank\">“Purpose-Built AI Strategy Needed”…Dell Supports Data-to-Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5kRXQzTkMwYkJObUs0dlAyTWx0X05ESGVTM3FLWm5SeGhnYmFLMndPZU1ZUlB6U0dwU19Hc04xYjBIb1hsNHlEeUF0WVc?oc=5",
+          "source": "전자신문",
           "publishedAt": "2026-09-01",
           "views": "13.0K"
         },
         {
-          "title": "Apple shares 'shocking evidence' against former employee accused of stealing company data for OpenAI - TechCrunch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQTmxYUHpiREdBU3FzeFJLTmVTTkh6anNIUUt6RDlQa2hUTzhLN2JlMEdHVjZJdmNjZ1RIRURldmtmSjVNUjRsc2F2OFFBekViQ0RVSmtfWkFxcXVrRU9NUzVXd2lMMFlTNXpRUHYxZVJ4NDlKellncHBWSnhaM2h2cFBxSHAwZG1CR1dVaWt5eTRaS21zSHM2MzVmbjNDdVF6VGsybzlqZGxRUWMtRFhDdkNVLUoyVV9hMmlFNndFN05Ea085c3ItTl9ib0RTUQ?oc=5\" target=\"_blank\">Apple shares 'shocking evidence' against former employee accused of stealing company data for OpenAI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTmxYUHpiREdBU3FzeFJLTmVTTkh6anNIUUt6RDlQa2hUTzhLN2JlMEdHVjZJdmNjZ1RIRURldmtmSjVNUjRsc2F2OFFBekViQ0RVSmtfWkFxcXVrRU9NUzVXd2lMMFlTNXpRUHYxZVJ4NDlKellncHBWSnhaM2h2cFBxSHAwZG1CR1dVaWt5eTRaS21zSHM2MzVmbjNDdVF6VGsybzlqZGxRUWMtRFhDdkNVLUoyVV9hMmlFNndFN05Ea085c3ItTl9ib0RTUQ?oc=5",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-09-01",
-          "views": "13.0K"
-        },
-        {
-          "title": "Topic: national ai strategy council - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBsNllPWWY2S1RpbnFEMXdzNWJqOEtOWGs5WnZUYU9fUE1KZVM3TUFIQWd4MkFZVFpDOUtYX092ZFRHVTBMYWV6bngwTXVxYTltQmdSMV83OGRKYUIzczlpckktTTFudng3U1VfQnhaUGQ4blE0Nk44?oc=5\" target=\"_blank\">Topic: national ai strategy council</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsNllPWWY2S1RpbnFEMXdzNWJqOEtOWGs5WnZUYU9fUE1KZVM3TUFIQWd4MkFZVFpDOUtYX092ZFRHVTBMYWV6bngwTXVxYTltQmdSMV83OGRKYUIzczlpckktTTFudng3U1VfQnhaUGQ4blE0Nk44?oc=5",
+          "title": "Samsung showcases chip 3D architecture strategy at SEMICON Taiwan - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNV092YWF3c3BFaFNkQ2R0UWpxZmlQMlNjUWhRQlMwVDFfZlp6Q3FvdG9nQnp5ZkQ3bnNHdkVyeklKaFdmS1JuQWlycW93UEZwZXhlazZhdll3c0ZJZWN6aFFUaUNwd0swbXFWX1U5bVBjVXd1M3JXU0NRSkhPRkRZdFh6d2NmTDdqTkZIbWFGWkZULVN4ZDk4NzE1OTA4Z0VjLWZUcWI3N3NuSlVhaWMwUHRPeERaMTA1b0hyX0xHNNIBxAFBVV95cUxPTE1fZFRRYzJRNjB2NWdybUFENmotQjZZbnN4dnZqaDRLOFMtekRuamhKTHNKeGROT0JYUjRZMVgyS004Y1JSX3pULU5TUHdVdXFIbGJndk1JdGRjRHh3UEpOMW80SUczWDRFN0NWMkhuM1NsYUhqQ0w5MU9WRlFubHVsX1JRbjFnMVFmM0dOY0Qta0Y5a05pdzhXUjZ6M2hsWWFxekxpY1lGcVJpX0d0RVQ4SWJDT0tZa0VfMjU0UF80RlZ5?oc=5\" target=\"_blank\">Samsung showcases chip 3D architecture strategy at SEMICON Taiwan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV092YWF3c3BFaFNkQ2R0UWpxZmlQMlNjUWhRQlMwVDFfZlp6Q3FvdG9nQnp5ZkQ3bnNHdkVyeklKaFdmS1JuQWlycW93UEZwZXhlazZhdll3c0ZJZWN6aFFUaUNwd0swbXFWX1U5bVBjVXd1M3JXU0NRSkhPRkRZdFh6d2NmTDdqTkZIbWFGWkZULVN4ZDk4NzE1OTA4Z0VjLWZUcWI3N3NuSlVhaWMwUHRPeERaMTA1b0hyX0xHNNIBxAFBVV95cUxPTE1fZFRRYzJRNjB2NWdybUFENmotQjZZbnN4dnZqaDRLOFMtekRuamhKTHNKeGROT0JYUjRZMVgyS004Y1JSX3pULU5TUHdVdXFIbGJndk1JdGRjRHh3UEpOMW80SUczWDRFN0NWMkhuM1NsYUhqQ0w5MU9WRlFubHVsX1JRbjFnMVFmM0dOY0Qta0Y5a05pdzhXUjZ6M2hsWWFxekxpY1lGcVJpX0d0RVQ4SWJDT0tZa0VfMjU0UF80RlZ5?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-08-31",
+          "publishedAt": "2026-09-01",
           "views": "13.0K"
         }
       ]
