@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-04T04:27:16.849Z",
+  "lastUpdated": "2026-09-05T04:22:22.157Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,8 +49,8 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
-          "title": "GPT-5, Gemini-3 recall lost facts via reasoning - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNRXFaYUlYbUo1cVN0WlFiZ1kyV2FIUWpnMURQNldQeG1lRVdFZEFSRkp0ZlJsQ21Zd0JadFQ2d2JsZjJwWmpFa2ptd3U1dlozWFp6MkdvOGp3R05LcVhBRjFTNjBaNklMczVlSTR0NHU2bk9PX1lpOUYyVTZRMGc2Z3g3QTBaa3p4TXVFS3pUcnlyZDlobDBHM21hYVFuRlJvQldtRFBSRjJVc0M3UjVUWGhuMXZ2aXpHbTVVRUgwZ1ZCVFB1RFRMMWdJemQ5Zw?oc=5\" target=\"_blank\">GPT-5, Gemini-3 recall lost facts via reasoning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "title": "GPT-5, Gemini-3 recall lost facts via reasoning - venturebeat.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNRXFaYUlYbUo1cVN0WlFiZ1kyV2FIUWpnMURQNldQeG1lRVdFZEFSRkp0ZlJsQ21Zd0JadFQ2d2JsZjJwWmpFa2ptd3U1dlozWFp6MkdvOGp3R05LcVhBRjFTNjBaNklMczVlSTR0NHU2bk9PX1lpOUYyVTZRMGc2Z3g3QTBaa3p4TXVFS3pUcnlyZDlobDBHM21hYVFuRlJvQldtRFBSRjJVc0M3UjVUWGhuMXZ2aXpHbTVVRUgwZ1ZCVFB1RFRMMWdJemQ5Zw?oc=5\" target=\"_blank\">GPT-5, Gemini-3 recall lost facts via reasoning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">venturebeat.com</font>",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRXFaYUlYbUo1cVN0WlFiZ1kyV2FIUWpnMURQNldQeG1lRVdFZEFSRkp0ZlJsQ21Zd0JadFQ2d2JsZjJwWmpFa2ptd3U1dlozWFp6MkdvOGp3R05LcVhBRjFTNjBaNklMczVlSTR0NHU2bk9PX1lpOUYyVTZRMGc2Z3g3QTBaa3p4TXVFS3pUcnlyZDlobDBHM21hYVFuRlJvQldtRFBSRjJVc0M3UjVUWGhuMXZ2aXpHbTVVRUgwZ1ZCVFB1RFRMMWdJemQ5Zw?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-09-01",
@@ -65,8 +65,8 @@
           "views": "18.0K"
         },
         {
-          "title": "Google Maps Tops 10M Users in South Korea, Boosted by Android and Gemini - ETNEWS",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBZWGJFcEtKcm0yNFBBcW5lTVZuYnNLVHlnTDNqYkdYX3cwaHpaT1hlOWVUZUdOVldEMVNHWEh3cjZkaFctX0tka0VCQy0?oc=5\" target=\"_blank\">Google Maps Tops 10M Users in South Korea, Boosted by Android and Gemini</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
+          "title": "Google Maps Tops 10M Users in South Korea, Boosted by Android and Gemini - en.etnews.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBZWGJFcEtKcm0yNFBBcW5lTVZuYnNLVHlnTDNqYkdYX3cwaHpaT1hlOWVUZUdOVldEMVNHWEh3cjZkaFctX0tka0VCQy0?oc=5\" target=\"_blank\">Google Maps Tops 10M Users in South Korea, Boosted by Android and Gemini</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">en.etnews.com</font>",
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBZWGJFcEtKcm0yNFBBcW5lTVZuYnNLVHlnTDNqYkdYX3cwaHpaT1hlOWVUZUdOVldEMVNHWEh3cjZkaFctX0tka0VCQy0?oc=5",
           "source": "전자신문",
           "publishedAt": "2026-09-04",
@@ -80,27 +80,27 @@
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
         {
-          "title": "Scaling agentic AI pilots across the enterprise - technologyreview.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQeXJQalRSWXFZdldkLUdOcnRkNXNaSGhHU1NBRGlkWXFZVzdpSm9RZG5Gbmx4cDBZMzd6SVZFb2cwOHlvWGFMVDNVYjd1VDhXaHpiSFhMTHNhcU9RXy0yLUZfTXRZd0NBajBsMy1FNl9VdVNJc0hrVTVDQlRkSmE5aEFMYUZEb1BpUWxOQnlPeTdrdXhHWGVzYTVTUWR2Y0lhLWUybl9SUdIBpwFBVV95cUxQeXJQalRSWXFZdldkLUdOcnRkNXNaSGhHU1NBRGlkWXFZVzdpSm9RZG5Gbmx4cDBZMzd6SVZFb2cwOHlvWGFMVDNVYjd1VDhXaHpiSFhMTHNhcU9RXy0yLUZfTXRZd0NBajBsMy1FNl9VdVNJc0hrVTVDQlRkSmE5aEFMYUZEb1BpUWxOQnlPeTdrdXhHWGVzYTVTUWR2Y0lhLWUybl9SUQ?oc=5\" target=\"_blank\">Scaling agentic AI pilots across the enterprise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">technologyreview.com</font>",
+          "title": "Scaling agentic AI pilots across the enterprise - MIT Technology Review",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQeXJQalRSWXFZdldkLUdOcnRkNXNaSGhHU1NBRGlkWXFZVzdpSm9RZG5Gbmx4cDBZMzd6SVZFb2cwOHlvWGFMVDNVYjd1VDhXaHpiSFhMTHNhcU9RXy0yLUZfTXRZd0NBajBsMy1FNl9VdVNJc0hrVTVDQlRkSmE5aEFMYUZEb1BpUWxOQnlPeTdrdXhHWGVzYTVTUWR2Y0lhLWUybl9SUdIBpwFBVV95cUxQeXJQalRSWXFZdldkLUdOcnRkNXNaSGhHU1NBRGlkWXFZVzdpSm9RZG5Gbmx4cDBZMzd6SVZFb2cwOHlvWGFMVDNVYjd1VDhXaHpiSFhMTHNhcU9RXy0yLUZfTXRZd0NBajBsMy1FNl9VdVNJc0hrVTVDQlRkSmE5aEFMYUZEb1BpUWxOQnlPeTdrdXhHWGVzYTVTUWR2Y0lhLWUybl9SUQ?oc=5\" target=\"_blank\">Scaling agentic AI pilots across the enterprise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MIT Technology Review</font>",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeXJQalRSWXFZdldkLUdOcnRkNXNaSGhHU1NBRGlkWXFZVzdpSm9RZG5Gbmx4cDBZMzd6SVZFb2cwOHlvWGFMVDNVYjd1VDhXaHpiSFhMTHNhcU9RXy0yLUZfTXRZd0NBajBsMy1FNl9VdVNJc0hrVTVDQlRkSmE5aEFMYUZEb1BpUWxOQnlPeTdrdXhHWGVzYTVTUWR2Y0lhLWUybl9SUdIBpwFBVV95cUxQeXJQalRSWXFZdldkLUdOcnRkNXNaSGhHU1NBRGlkWXFZVzdpSm9RZG5Gbmx4cDBZMzd6SVZFb2cwOHlvWGFMVDNVYjd1VDhXaHpiSFhMTHNhcU9RXy0yLUZfTXRZd0NBajBsMy1FNl9VdVNJc0hrVTVDQlRkSmE5aEFMYUZEb1BpUWxOQnlPeTdrdXhHWGVzYTVTUWR2Y0lhLWUybl9SUQ?oc=5",
           "source": "MIT Technology Review (AI)",
           "publishedAt": "2026-09-03",
           "views": "18.0K"
         },
         {
-          "title": "Court rejects LG chief's adoptive mother's petition to end adoption - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNTDZ1b1FwRzFoX0tlOFpoUmZPTVBfMlU5Tld3bnM2RnJOYW9jVlZRS2ZWSUxPazVqS0l2WDBULVdxbGJMbWlxekxSSGwzXzN0OWltUXlaSXhEZy1KN21YX2E0M2RBOVpfbTB6TnN2Y1RkS0tMWTZKTFZNeEI4cWc4N08teHVYd1h0RUgzN2JzWjVLdThfYzJkQmsxdFFGX18yM0JNZW55Z2JDWTd0OVg2aXZDOGtwcnhVYnRaT2RZa9IBxAFBVV95cUxNRWhGTGRaM2kwVFdWS0RkQ0EtTFB6NUpQYnhPWWJJRDNpR2x6YjNQMTJ5VmlWYkVNQTBTb3pwSlpxUWpmcjJhWWlWdzNuMG56LXRFdWFrYWo4TXNhYVdEQVE1dW1WbU5LNGw1dDVlM2ZmSHlaaTNVOVJ2UWs0TFg0WE1tVDhFQ1JQWUdwd2JFOWJXd0theFdpbmQzZXVBMDloT2VGdmxzT3hmSTRvSTFMWmhVQ2pOVzlTUHFQTndJYllfaURH?oc=5\" target=\"_blank\">Court rejects LG chief's adoptive mother's petition to end adoption</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTDZ1b1FwRzFoX0tlOFpoUmZPTVBfMlU5Tld3bnM2RnJOYW9jVlZRS2ZWSUxPazVqS0l2WDBULVdxbGJMbWlxekxSSGwzXzN0OWltUXlaSXhEZy1KN21YX2E0M2RBOVpfbTB6TnN2Y1RkS0tMWTZKTFZNeEI4cWc4N08teHVYd1h0RUgzN2JzWjVLdThfYzJkQmsxdFFGX18yM0JNZW55Z2JDWTd0OVg2aXZDOGtwcnhVYnRaT2RZa9IBxAFBVV95cUxNRWhGTGRaM2kwVFdWS0RkQ0EtTFB6NUpQYnhPWWJJRDNpR2x6YjNQMTJ5VmlWYkVNQTBTb3pwSlpxUWpmcjJhWWlWdzNuMG56LXRFdWFrYWo4TXNhYVdEQVE1dW1WbU5LNGw1dDVlM2ZmSHlaaTNVOVJ2UWs0TFg0WE1tVDhFQ1JQWUdwd2JFOWJXd0theFdpbmQzZXVBMDloT2VGdmxzT3hmSTRvSTFMWmhVQ2pOVzlTUHFQTndJYllfaURH?oc=5",
+          "title": "Korea to provide free AI agents for all citizens through messenger, texts - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPS1RMWExvcVJGN1UtN2dNQURMekxhS1lNZ3R5aDNVRi04TXg5dzRpNEp4ZThOUGJIZWJpMUVIcERkUjYxcDFnQklHOEEwV2ptbGhYM0ZCRjdseFR5SDYxejhEZmpXdHMwRW9kVm1rbk42YjRtbmNkXzhhei1xX0xtSTJGd09odDMzRFNlZmhKdk9JRkpWVktXN0I0WFM3ZG5ldEttRU14TDBnbVl4a1ZoRDFnOXBrX2dRUkRac3dCUnVIdG92aGh3M192cjXSAdIBQVVfeXFMTXNsQkY4Wk9vaTZjYXlEYVVsQXdYcnFRcURMel9YX3VDQkRwSHBKZzNjV0JObHRwQ2pSRDMwNmVWdmhfem9ySEFfUTJjeDJ0dVM0TXkyV1BKQXRENkZ5ZlNsUEhmSXoyLXA4b0dTNFdzb2lzUC1yOHg2RDRmXzllX0V2Q3BENnNIOEppSDdFVDZtQ3paLU9TRFAzdEVPVkxVZC1MTWZUUjNYbTRnZUNHRGxfUC02SnF5dnhYbXIybzlROXI3WWFFdlFuc0VzOTF1VzFB?oc=5\" target=\"_blank\">Korea to provide free AI agents for all citizens through messenger, texts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS1RMWExvcVJGN1UtN2dNQURMekxhS1lNZ3R5aDNVRi04TXg5dzRpNEp4ZThOUGJIZWJpMUVIcERkUjYxcDFnQklHOEEwV2ptbGhYM0ZCRjdseFR5SDYxejhEZmpXdHMwRW9kVm1rbk42YjRtbmNkXzhhei1xX0xtSTJGd09odDMzRFNlZmhKdk9JRkpWVktXN0I0WFM3ZG5ldEttRU14TDBnbVl4a1ZoRDFnOXBrX2dRUkRac3dCUnVIdG92aGh3M192cjXSAdIBQVVfeXFMTXNsQkY4Wk9vaTZjYXlEYVVsQXdYcnFRcURMel9YX3VDQkRwSHBKZzNjV0JObHRwQ2pSRDMwNmVWdmhfem9ySEFfUTJjeDJ0dVM0TXkyV1BKQXRENkZ5ZlNsUEhmSXoyLXA4b0dTNFdzb2lzUC1yOHg2RDRmXzllX0V2Q3BENnNIOEppSDdFVDZtQ3paLU9TRFAzdEVPVkxVZC1MTWZUUjNYbTRnZUNHRGxfUC02SnF5dnhYbXIybzlROXI3WWFFdlFuc0VzOTF1VzFB?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-09-03",
+          "publishedAt": "2026-09-04",
           "views": "13.0K"
         },
         {
-          "title": "Google’s Gemini 3.8 Flash is built for agents, while its Cyber twin hunts vulnerabilities - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNMHpNUnplNkRkbUhZNFNRbXpENzJfdzFKelp1akdHeEhWMXRJZTVfU0R6clE5WUc2S2U0N2E0ZGZCaFlMczNybUdTdUc0UmtvQXF0dDVGWUlzUmxJN3NZNENaY2dVLW4wREtCTFF3YzAyUGJ4WUhFT2tfYUZNVE0yZDhqaDFkZUtJd3BnZVFhaW1COHBDRG12OXZHVVFyejBLSDNQWmU0UjNFUWRVZ0tGdll2SUxaM1FscHVHTg?oc=5\" target=\"_blank\">Google’s Gemini 3.8 Flash is built for agents, while its Cyber twin hunts vulnerabilities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMHpNUnplNkRkbUhZNFNRbXpENzJfdzFKelp1akdHeEhWMXRJZTVfU0R6clE5WUc2S2U0N2E0ZGZCaFlMczNybUdTdUc0UmtvQXF0dDVGWUlzUmxJN3NZNENaY2dVLW4wREtCTFF3YzAyUGJ4WUhFT2tfYUZNVE0yZDhqaDFkZUtJd3BnZVFhaW1COHBDRG12OXZHVVFyejBLSDNQWmU0UjNFUWRVZ0tGdll2SUxaM1FscHVHTg?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-09-03",
+          "title": "M&T Bank expands enterprise AI after years of technology overhaul - AI News",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxONmJFNXZ4TjNEbXZJUFMxOThxTEM2NkhmX2xicHpnXzRNOTY5TkFJdy04eV9ucTlWYzdObnpRdlF5QW44bkZYRUpmT1BKSl9maS1xR19HLTVMS0wtWDhlbHRqNkw0VWlmV3hTZTlkOUY3Um1JS0NSUkNPWFh4QmRqNkNMX3hfcTlFRFhkdjBCb3c?oc=5\" target=\"_blank\">M&T Bank expands enterprise AI after years of technology overhaul</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI News</font>",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONmJFNXZ4TjNEbXZJUFMxOThxTEM2NkhmX2xicHpnXzRNOTY5TkFJdy04eV9ucTlWYzdObnpRdlF5QW44bkZYRUpmT1BKSl9maS1xR19HLTVMS0wtWDhlbHRqNkw0VWlmV3hTZTlkOUY3Um1JS0NSUkNPWFh4QmRqNkNMX3hfcTlFRFhkdjBCb3c?oc=5",
+          "source": "AI News",
+          "publishedAt": "2026-09-04",
           "views": "13.0K"
         }
       ]
@@ -142,27 +142,27 @@
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
         {
+          "title": "US job market rebounds with 162,000 new jobs; the unemployment rate stayed at 4.1% - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNS05LTnY1eHRqREEzbHNrRHZWUl94Q2Q1RHJYVU1Jc3hpeFp4ZW1JS2taYXdiTWRpblllUGRyQTAwNmhSdGVXeXNZR3hlcUg0YTV4VzgyR2UwRGdoWGdrU0ZMQm1CdzFlelEyNnI4QXhWOXNJTzdLTmM2N0EzY0E4U0VmLUZ3YzVjZTM4amJWM0h1S0xGZWl4S2p6YWpCaFcwakU4cWlYeUVJSG5YVHpiYS1INmhwRlBzQmNsdXlNYVo1N2M20gHEAUFVX3lxTE1LTktOdjV4dGpEQTNsc2tEdlZSX3hDZDVEclhVTUlzeGl4WnhlbUlLa1phd2JNZGluWWVQZHJBMDA2aFJ0ZVd5c1lHeGVxSDRhNXhXODJHZTBEZ2hYZ2tTRkxCbUJ3MWV6UTI2cjhBeFY5c0lPN0tOYzY3QTNjQThTRWYtRndjNWNlMzhqYlYzSHVLTEZlaXhLanphakJoVzBqRThxaVh5RUlIblhUemJhLUg2aHBGUHNCY2x1eU1hWjU3YzY?oc=5\" target=\"_blank\">US job market rebounds with 162,000 new jobs; the unemployment rate stayed at 4.1%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS05LTnY1eHRqREEzbHNrRHZWUl94Q2Q1RHJYVU1Jc3hpeFp4ZW1JS2taYXdiTWRpblllUGRyQTAwNmhSdGVXeXNZR3hlcUg0YTV4VzgyR2UwRGdoWGdrU0ZMQm1CdzFlelEyNnI4QXhWOXNJTzdLTmM2N0EzY0E4U0VmLUZ3YzVjZTM4amJWM0h1S0xGZWl4S2p6YWpCaFcwakU4cWlYeUVJSG5YVHpiYS1INmhwRlBzQmNsdXlNYVo1N2M20gHEAUFVX3lxTE1LTktOdjV4dGpEQTNsc2tEdlZSX3hDZDVEclhVTUlzeGl4WnhlbUlLa1phd2JNZGluWWVQZHJBMDA2aFJ0ZVd5c1lHeGVxSDRhNXhXODJHZTBEZ2hYZ2tTRkxCbUJ3MWV6UTI2cjhBeFY5c0lPN0tOYzY3QTNjQThTRWYtRndjNWNlMzhqYlYzSHVLTEZlaXhLanphakJoVzBqRThxaVh5RUlIblhUemJhLUg2aHBGUHNCY2x1eU1hWjU3YzY?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-09-04",
+          "views": "18.0K"
+        },
+        {
+          "title": "South African rand treads water before U.S. jobs data as markets assess Fed rate path - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ25xVGxlcXliS0tlQU5HOEg0TkRrRVo0cXRTdVcyNjZPdHlEZDJiVUJka216WG1SWjF6U0huYXgycHJ2OWV4Q2pFQ2RpcjVNbm9kZE5UTkxmWjFlQzF5NERlSjB0THFEa1FaVl9MZnpncXZSbHZpaW9WQkUyTUhnS3phZndiQ1JhYnVYOGk3eUJJZDRfZ0dQTmgyMWVvYTY2SmFsbTI2c2s4QlA4T2M1U2FaQU54M3Z1bEkybEMyYjdXblRMVmp1UQ?oc=5\" target=\"_blank\">South African rand treads water before U.S. jobs data as markets assess Fed rate path</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ25xVGxlcXliS0tlQU5HOEg0TkRrRVo0cXRTdVcyNjZPdHlEZDJiVUJka216WG1SWjF6U0huYXgycHJ2OWV4Q2pFQ2RpcjVNbm9kZE5UTkxmWjFlQzF5NERlSjB0THFEa1FaVl9MZnpncXZSbHZpaW9WQkUyTUhnS3phZndiQ1JhYnVYOGk3eUJJZDRfZ0dQTmgyMWVvYTY2SmFsbTI2c2s4QlA4T2M1U2FaQU54M3Z1bEkybEMyYjdXblRMVmp1UQ?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-09-04",
+          "views": "18.0K"
+        },
+        {
           "title": "AI startup Crusoe valued at $30 billion after new funding, Bloomberg News reports - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOanJfNWE3V3k4Q2kzR3BBZmF0aGtpNDRZUldsbXZURmJCbDBGSmdqSGdwbG41Y3QyZkg1QkZfeG9tSmJtZVVLQlNNNUZnQjFwYm9PbUxQXzNYejBMODlQeVloZTVjTU95OTNTQWRDd1lrd3p2UHZiaUItOFVOcXNOMlloV0F1ZW1hSFFPQ2l4MFpwLWZaRDZwSWpZMzMxbEljc3owN3BndVJuQnIwTjJWS0l3aV9QMVh5MHZsRGpBT1I1UQ?oc=5\" target=\"_blank\">AI startup Crusoe valued at $30 billion after new funding, Bloomberg News reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOanJfNWE3V3k4Q2kzR3BBZmF0aGtpNDRZUldsbXZURmJCbDBGSmdqSGdwbG41Y3QyZkg1QkZfeG9tSmJtZVVLQlNNNUZnQjFwYm9PbUxQXzNYejBMODlQeVloZTVjTU95OTNTQWRDd1lrd3p2UHZiaUItOFVOcXNOMlloV0F1ZW1hSFFPQ2l4MFpwLWZaRDZwSWpZMzMxbEljc3owN3BndVJuQnIwTjJWS0l3aV9QMVh5MHZsRGpBT1I1UQ?oc=5",
           "source": "Reuters AI",
           "publishedAt": "2026-09-03",
-          "views": "18.0K"
-        },
-        {
-          "title": "Adobe acquires Indian market intelligence startup Rilo - TechCrunch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOUXNkV0tzaFJ2SHVnS3EwdnpKSElmaGNFcTF1aDgzZHpybm9vUFZNQlVtTy03WXlPMVV4ZndiaVVJcVo3UnZTdTh0anRSanNLZkcwa3dzR1ZFVGpyOENxaDZFMGVLWURSMTRMaUtadUJxVHY2UmZyOVpkdWduNXlrZWFXX3NORnJNdFdZX2hsa3VUS1E?oc=5\" target=\"_blank\">Adobe acquires Indian market intelligence startup Rilo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUXNkV0tzaFJ2SHVnS3EwdnpKSElmaGNFcTF1aDgzZHpybm9vUFZNQlVtTy03WXlPMVV4ZndiaVVJcVo3UnZTdTh0anRSanNLZkcwa3dzR1ZFVGpyOENxaDZFMGVLWURSMTRMaUtadUJxVHY2UmZyOVpkdWduNXlrZWFXX3NORnJNdFdZX2hsa3VUS1E?oc=5",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-09-02",
-          "views": "18.0K"
-        },
-        {
-          "title": "Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment fund - TechCrunch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNcUNnNlhhTWdXOU5vcEh4bjY3bWdrYlRjMHdjWEVlVXEtMXJ1amwzV3EtZ01EWjVfd3A5OFpUV3FmN0h6UmNzSmRPamJiOF91TUVZLUtsdkdmVXp3R216dTQ0bTl2by13dXVLVE9Yc2Q2SVlRMDJhZ19BQWp0V3gtN05STTA5Um9NVWJpbnhaVGVyX2E3Yk0zSjkwTXZSd1cwQVRNMHN5QUZpM0NDZ1dvSWFjUFU?oc=5\" target=\"_blank\">Polymarket reportedly raises $300 million from Donald Trump Jr.’s investment fund</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcUNnNlhhTWdXOU5vcEh4bjY3bWdrYlRjMHdjWEVlVXEtMXJ1amwzV3EtZ01EWjVfd3A5OFpUV3FmN0h6UmNzSmRPamJiOF91TUVZLUtsdkdmVXp3R216dTQ0bTl2by13dXVLVE9Yc2Q2SVlRMDJhZ19BQWp0V3gtN05STTA5Um9NVWJpbnhaVGVyX2E3Yk0zSjkwTXZSd1cwQVRNMHN5QUZpM0NDZ1dvSWFjUFU?oc=5",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-08-31",
           "views": "18.0K"
         }
       ]
@@ -172,6 +172,14 @@
       "hashtag": "#산업전략",
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
+        {
+          "title": "Industry minister urges US to ease tariffs on hard-to-source steel mill equipment - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPaEJVcWlLZU1ZUThJUGhvbjM2RXJybTBIcVNwc1IyaWJQaGhwTTUwZzRKbWZYdVNxY2pIcGJtazBFVWVsalNGWmMxczVNbDB6aFNUeFpUZHExWktfb3dfSzBKQXk1X2FRcmtBNHN3UE1LWTJtTy1HbThYOHhfZmd5UlhaTTdPWmxMV1g1OVdyMU9OanBWV1htY1RoVGdrMEpNSlhkQTBGTmpLZ08tVzMzN2JEWkl1TEdiemI5WS1tanFGOGljbll3NzBONVNsS2_SAdQBQVVfeXFMTkxPbjNfandadHpXMnRpZXRMTnRkY0NPc0VNQVFaa01GcERQX3lDQVdCRlhMQlN3VW0wSGdOVFdhY1h0bFVNUmhJSHkzX2U0cU5pUXVBX1RXSnVRampyaFJnbVEzNmpvcm5KUU5sV01lZ1RkVWh0emlqenF4M1FlQVZuRjdvME55VjIwYU9qSVZiamZiTVZQV29YbFBfbGJmYm9BeHlwT05OblgxMEhzdldVRjFYeFMwQ2l6cDV1VEdESk5DZkw5N2g4bmZUTGlOOGNxSEc?oc=5\" target=\"_blank\">Industry minister urges US to ease tariffs on hard-to-source steel mill equipment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaEJVcWlLZU1ZUThJUGhvbjM2RXJybTBIcVNwc1IyaWJQaGhwTTUwZzRKbWZYdVNxY2pIcGJtazBFVWVsalNGWmMxczVNbDB6aFNUeFpUZHExWktfb3dfSzBKQXk1X2FRcmtBNHN3UE1LWTJtTy1HbThYOHhfZmd5UlhaTTdPWmxMV1g1OVdyMU9OanBWV1htY1RoVGdrMEpNSlhkQTBGTmpLZ08tVzMzN2JEWkl1TEdiemI5WS1tanFGOGljbll3NzBONVNsS2_SAdQBQVVfeXFMTkxPbjNfandadHpXMnRpZXRMTnRkY0NPc0VNQVFaa01GcERQX3lDQVdCRlhMQlN3VW0wSGdOVFdhY1h0bFVNUmhJSHkzX2U0cU5pUXVBX1RXSnVRampyaFJnbVEzNmpvcm5KUU5sV01lZ1RkVWh0emlqenF4M1FlQVZuRjdvME55VjIwYU9qSVZiamZiTVZQV29YbFBfbGJmYm9BeHlwT05OblgxMEhzdldVRjFYeFMwQ2l6cDV1VEdESk5DZkw5N2g4bmZUTGlOOGNxSEc?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-09-05",
+          "views": "13.0K"
+        },
         {
           "title": "Presidential office says no decision reached on troop deployment to Hormuz; review ongoing - The Korea Times",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPam5tRGJVOWJ5b0RFdnp0U19tRHRZU2lYMm5TQjUwV2pvV1lTa2k2MDhNbnoxZm9uajYtQVlGQXlQNk5KVXFLNGRoUVgwMzZJU18xVUJPR1B4eUVyZDIzM3R0OXRkbDI2UXBWUXlQbVdDOEphV0VfeUdQWUlTXy1YV3J4N3Nkc3NkM0FVcTlNWjVrbndhUjZfWllkd0ozZVlRdDVRT293T3NTdlg3cFRIZWplQzZ2X0RDTW8wT2RUUC1HamFHUjVWMlNJQWxpWGFXZkVNa3Rnd2k5bmZjS0ktWdIB5gFBVV95cUxOZ0VXUllkU0p5TUdsZUJzMl9hbktMQjRGS0wtczh1MURDbUVHV3dtanFKVlVGa0lXdkJPc295RTdZaS16cndldER0bGxUUWJ1ZmRMdmdCemt3emprUkFieHFCazhHWEE1TkdweFNGandHVWlibXJDZHVDNE55bVlyWnlPV2NNdnRwdG56OGFLbUQ1NmZWZzZXQlR4NFlkVFNzVUg5TVNjSTI3TVJ6R0lzOXdOamQ0QjJBS3MwQlpwVk5mdXZnNU5XdWZLY25JVENaX09uNWpyRFZFQ0oyaDJaX1g0VE9nQQ?oc=5\" target=\"_blank\">Presidential office says no decision reached on troop deployment to Hormuz; review ongoing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
@@ -186,14 +194,6 @@
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQkFUTTI5X1pqOW54VUJza293N2tmMTRDQzF0Z0luMjY2dDIxcXpCb043SndMc3RMelE3LVBXdFR2QTZJMWRCSzEwbnhMOGZiU1B1ZWRNRFY5YXd0ZVJvMDlOVGRKWWJ6R0F6Vlh5OHhpVmJZZFNIMlpsMi01aHVnWFhVcHVESnFBRHJuQkUyUnVrb0xTVXRjajIwdGFSRmJCdnl0SGw4V2M4elhVYkdxTg?oc=5",
           "source": "Reuters AI",
           "publishedAt": "2026-09-04",
-          "views": "13.0K"
-        },
-        {
-          "title": "Cheong Wa Dae denies report of possible troop deployment to Hormuz - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeGlxQURRRUNaenMtQzBQQXhIeVhLQ3FLX3NjRkRsVloxV0FRbkkwSGZpa3o1VXB6OHJnS2o3OURJWFUtWkpaZGRQbWhvclZCNVVMeExJb1cyWUxpM05CMU5pOWZ0VjhON084OXgxM0lBdTdDWnlmOEFmQVI2RWpyNU9sR2daNHZKUnBlSC0wX013WHdlR2lJLVBkaDBVeE9HdUtOQTNvMzZhRU5YQmlVNmpzRnRzekJOLWJWU3lueWtEQdIBxwFBVV95cUxPUXF6ZHlfMDl5WUxlZmFCaHJkMGNkLUx1NlNBSG80ZmktQ1BOSlFaS3RLc25kTW42TTg2TXJRX0tLX3RZRE5mNzdlUS1idDFKRXM0cTd1NXZpb1BibThXSTU4M2tTX2lVc21tR1J2cjdqdURFMHhRLUZEX2J2WUZXblRzRmR2LWVBUjd6V3BjbU5DYmxjNlJDcmozUGdDUGpxSURseWNnakFXV1k1MVVnSU1IU3JNX0ZSb0w1TnNMX2d5aHVMUTVF?oc=5\" target=\"_blank\">Cheong Wa Dae denies report of possible troop deployment to Hormuz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeGlxQURRRUNaenMtQzBQQXhIeVhLQ3FLX3NjRkRsVloxV0FRbkkwSGZpa3o1VXB6OHJnS2o3OURJWFUtWkpaZGRQbWhvclZCNVVMeExJb1cyWUxpM05CMU5pOWZ0VjhON084OXgxM0lBdTdDWnlmOEFmQVI2RWpyNU9sR2daNHZKUnBlSC0wX013WHdlR2lJLVBkaDBVeE9HdUtOQTNvMzZhRU5YQmlVNmpzRnRzekJOLWJWU3lueWtEQdIBxwFBVV95cUxPUXF6ZHlfMDl5WUxlZmFCaHJkMGNkLUx1NlNBSG80ZmktQ1BOSlFaS3RLc25kTW42TTg2TXJRX0tLX3RZRE5mNzdlUS1idDFKRXM0cTd1NXZpb1BibThXSTU4M2tTX2lVc21tR1J2cjdqdURFMHhRLUZEX2J2WUZXblRzRmR2LWVBUjd6V3BjbU5DYmxjNlJDcmozUGdDUGpxSURseWNnakFXV1k1MVVnSU1IU3JNX0ZSb0w1TnNMX2d5aHVMUTVF?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-09-03",
           "views": "13.0K"
         }
       ]
