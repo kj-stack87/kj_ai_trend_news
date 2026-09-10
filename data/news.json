@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T04:37:22.996Z",
+  "lastUpdated": "2026-09-10T04:37:19.205Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,26 +49,26 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
-          "title": "Seoul shares open higher on chip gains despite Middle East tensions - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT1ZWSVl5MS1uQnQ3U3lMZm80eWpDcFZzVlFRTFlodHlyeWVEUzJOQzJOekJST2M3anJBdDdQYWtRNWRpT09Xemk1eVljRVZrUEIwamlIZlFPVG1fVkxuclY3TTlGdGdJMThxRDlUZGMzNFFEZzNfRnhhMHVvb19SQlpVakNVaTQtb21EeEtfc2pPQk1EdjRacE1hMzJSTGw0ZTVReFFMR2EwQ08yaVdiZzZmaUQ3Z2Na0gG4AUFVX3lxTE9PVlZJWXkxLW5CdDdTeUxmbzR5akNwVnNWUVFMWWh0eXJ5ZURTMk5DMk56QlJPYzdqckF0N1Bha1E1ZGlPT1d6aTV5WWNFVmtQQjBqaUhmUU9UbV9WTG5yVjdNOUZ0Z0kxOHFEOVRkYzM0UURnM19GeGEwdW9vX1JCWlVqQ1VpNC1vbUR4S19zak9CTUR2NFpwTWEzMlJMbDRlNVF4UUxHYTBDTzJpV2JnNmZpRDdnY1o?oc=5\" target=\"_blank\">Seoul shares open higher on chip gains despite Middle East tensions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT1ZWSVl5MS1uQnQ3U3lMZm80eWpDcFZzVlFRTFlodHlyeWVEUzJOQzJOekJST2M3anJBdDdQYWtRNWRpT09Xemk1eVljRVZrUEIwamlIZlFPVG1fVkxuclY3TTlGdGdJMThxRDlUZGMzNFFEZzNfRnhhMHVvb19SQlpVakNVaTQtb21EeEtfc2pPQk1EdjRacE1hMzJSTGw0ZTVReFFMR2EwQ08yaVdiZzZmaUQ3Z2Na0gG4AUFVX3lxTE9PVlZJWXkxLW5CdDdTeUxmbzR5akNwVnNWUVFMWWh0eXJ5ZURTMk5DMk56QlJPYzdqckF0N1Bha1E1ZGlPT1d6aTV5WWNFVmtQQjBqaUhmUU9UbV9WTG5yVjdNOUZ0Z0kxOHFEOVRkYzM0UURnM19GeGEwdW9vX1JCWlVqQ1VpNC1vbUR4S19zak9CTUR2NFpwTWEzMlJMbDRlNVF4UUxHYTBDTzJpV2JnNmZpRDdnY1o?oc=5",
+          "title": "Databricks-trained AI agents match Claude and GPT-5.6 Luna's answer quality — in half the time - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOeng5VFk5ZDJXc09EZHhvZ0xqMU9rcnFhLWtodGx2bVdHNEdfU1FBMHUwZGw3VFBlSThOMVZwQUhrMS1GNERNQVJaQ3djRm8zY250YUc0UU1DRXowOGY5emNOLVU2Rl9jbmJfVWF1RUdILUF2YXBiVW5fYlFESHNHWVFBTm5sMVNsZXQzT2U1N0twbUJWc09GUHhoM3hWU2xFdGQ1M3Q2akJpb0M0RzQ4Nzh1ZGRrbDhCdVRXOA?oc=5\" target=\"_blank\">Databricks-trained AI agents match Claude and GPT-5.6 Luna's answer quality — in half the time</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeng5VFk5ZDJXc09EZHhvZ0xqMU9rcnFhLWtodGx2bVdHNEdfU1FBMHUwZGw3VFBlSThOMVZwQUhrMS1GNERNQVJaQ3djRm8zY250YUc0UU1DRXowOGY5emNOLVU2Rl9jbmJfVWF1RUdILUF2YXBiVW5fYlFESHNHWVFBTm5sMVNsZXQzT2U1N0twbUJWc09GUHhoM3hWU2xFdGQ1M3Q2akJpb0M0RzQ4Nzh1ZGRrbDhCdVRXOA?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-09-09",
+          "views": "18.0K"
+        },
+        {
+          "title": "LG Innotek shows next-gen chip substrate technology at KPCA show 2026 - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQMy1pVHl0TWNtYzBkYTJtenhGVVRuS01zeTFMcW1pSTRfRDlsbUxGMnJsRTRkLTR5dDRObjJLMGJVVldJTnhvMXhpYTc5aUFjMUhwRF96RmxnUzMwWUFBTV9QUmFNZ2UwSlNkY2pCel9zOWl0VW5vSlBjMmJpRUgwejdXRV9MNE1pVU1EOFI2REd0Y1BmOEY5QUxpdDZLZk8zRTlUYi10bnM1UWtqU19NeW1JWmJvOW9vMjdjcWQxZnpwTXdGUEQzaW9B0gHKAUFVX3lxTFAzLWlUeXRNY21jMGRhMm16eEZVVG5LTXN5MUxxbWlJNF9EOWxtTEYycmxFNGQtNHl0NE5uMkswYlVWV0lOeG8xeGlhNzlpQWMxSHBEX3pGbGdTMzBZQUFNX1BSYU1nZTBKU2RjakJ6X3M5aXRVbm9KUGMyYmlFSDB6N1dFX0w0TWlVTUQ4UjZER3RjUGY4RjlBTGl0NktmTzNFOVRiLXRuczVRa2pTX015bUlaYm85b28yN2NxZDFmenBNd0ZQRDNpb0E?oc=5\" target=\"_blank\">LG Innotek shows next-gen chip substrate technology at KPCA show 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMy1pVHl0TWNtYzBkYTJtenhGVVRuS01zeTFMcW1pSTRfRDlsbUxGMnJsRTRkLTR5dDRObjJLMGJVVldJTnhvMXhpYTc5aUFjMUhwRF96RmxnUzMwWUFBTV9QUmFNZ2UwSlNkY2pCel9zOWl0VW5vSlBjMmJpRUgwejdXRV9MNE1pVU1EOFI2REd0Y1BmOEY5QUxpdDZLZk8zRTlUYi10bnM1UWtqU19NeW1JWmJvOW9vMjdjcWQxZnpwTXdGUEQzaW9B0gHKAUFVX3lxTFAzLWlUeXRNY21jMGRhMm16eEZVVG5LTXN5MUxxbWlJNF9EOWxtTEYycmxFNGQtNHl0NE5uMkswYlVWV0lOeG8xeGlhNzlpQWMxSHBEX3pGbGdTMzBZQUFNX1BSYU1nZTBKU2RjakJ6X3M5aXRVbm9KUGMyYmlFSDB6N1dFX0w0TWlVTUQ4UjZER3RjUGY4RjlBTGl0NktmTzNFOVRiLXRuczVRa2pTX015bUlaYm85b28yN2NxZDFmenBNd0ZQRDNpb0E?oc=5",
           "source": "The Korea Times",
           "publishedAt": "2026-09-09",
           "views": "13.0K"
         },
         {
-          "title": "What OpenAI’s latest controversy tells us about the future of math - MIT Technology Review",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ0pZdWxBQ1MxaXZsczAwUkVmd19Ed2hwZ19vQVBkR0V2WHVyb3VvN1Rfd2thOUZPTnpUcloxQUdlTjdFYzN2WjM0WmN6OTZsYWhkTnE2bFp6cGJjWFNKUzNUdDBSQTBkMnN0aDBYRjNPZjIyM0NPYUU2Wlo5dVYxUWJxMy1LNGxHeEJURERaV3VoN1VFQUVGd3RPVHRwa3NCb3o5VnhuekliMjlBV2tPWkN5eHQwaXN0TnfSAb8BQVVfeXFMTTVVWjROOWZXVEFvRjdvalMzc2JPbHRBOWxZUHM1NUhBQ0FGTTdGSFVJY0JCZGU5RF9zOEJMYUdyZ1Q0UzlkX2dCdy1qdUpDZnVEMU5VU2g4MjB5LTZlZWMxSDQ2em1LRXFXeExDb1llMXVZUTRDQ2t1MUdJZm9JaXItOFFEdGd3VUdUdGttZ1VhZllXN0hWM29heHdRUF8yTEtabktzRUpDTC1ETU4tellSSjhnMEt1VkdLNkUyQWc?oc=5\" target=\"_blank\">What OpenAI’s latest controversy tells us about the future of math</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MIT Technology Review</font>",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ0pZdWxBQ1MxaXZsczAwUkVmd19Ed2hwZ19vQVBkR0V2WHVyb3VvN1Rfd2thOUZPTnpUcloxQUdlTjdFYzN2WjM0WmN6OTZsYWhkTnE2bFp6cGJjWFNKUzNUdDBSQTBkMnN0aDBYRjNPZjIyM0NPYUU2Wlo5dVYxUWJxMy1LNGxHeEJURERaV3VoN1VFQUVGd3RPVHRwa3NCb3o5VnhuekliMjlBV2tPWkN5eHQwaXN0TnfSAb8BQVVfeXFMTTVVWjROOWZXVEFvRjdvalMzc2JPbHRBOWxZUHM1NUhBQ0FGTTdGSFVJY0JCZGU5RF9zOEJMYUdyZ1Q0UzlkX2dCdy1qdUpDZnVEMU5VU2g4MjB5LTZlZWMxSDQ2em1LRXFXeExDb1llMXVZUTRDQ2t1MUdJZm9JaXItOFFEdGd3VUdUdGttZ1VhZllXN0hWM29heHdRUF8yTEtabktzRUpDTC1ETU4tellSSjhnMEt1VkdLNkUyQWc?oc=5",
-          "source": "MIT Technology Review (AI)",
-          "publishedAt": "2026-09-09",
-          "views": "13.0K"
-        },
-        {
-          "title": "OpenAI offers AI for chip design, touts cost advantage over open-source, CFO says - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVUJucVhXdkg2LXRFUWlWNDBaNm15VURrdEc5anpSaXNOVzJwTWJmQVE5Yms4aDlmRXhoU0RMSHN0dm5ZbF9qY19ZUUR2Y21fX3ZGZDhOTGgyVGpMS2s2UkxPNHVDZnZjRFppMzJQLUFsLXEzb1l1bWJPMWlnZm5XV21lYkt5STNRbGZuaTFzMXMxWGxIY2tGXzN6RDllSGc4a0dWcW15VlZiVENvOEJwY0JFcV9mWEJ1ZnVLb25IbUs?oc=5\" target=\"_blank\">OpenAI offers AI for chip design, touts cost advantage over open-source, CFO says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVUJucVhXdkg2LXRFUWlWNDBaNm15VURrdEc5anpSaXNOVzJwTWJmQVE5Yms4aDlmRXhoU0RMSHN0dm5ZbF9qY19ZUUR2Y21fX3ZGZDhOTGgyVGpMS2s2UkxPNHVDZnZjRFppMzJQLUFsLXEzb1l1bWJPMWlnZm5XV21lYkt5STNRbGZuaTFzMXMxWGxIY2tGXzN6RDllSGc4a0dWcW15VlZiVENvOEJwY0JFcV9mWEJ1ZnVLb25IbUs?oc=5",
-          "source": "Reuters AI",
+          "title": "Samsung Electro-Mechanics showcases next-generation AI chip substrates - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNXzNpTS15aHlTZXZEbHdKYmtDdDFvUFZMdXFzWmttZHVzb080OExONGZ5SjhoZmxaVjFQRVo5UEo1eXZieU9WYXRYUGo2eGc3NnhUdnJta2tJa2Q5emlzUHJGaGhIMGk2WUdKQUtlUWdzbXV0UkkzTHllN0hsNUg2M19DeXk3VFR5bGZXMVdVTmVTVmNKNHVyMXRYVTZFY1BUYkYyV0Ixd0NVTVNxX1VrZzNNaEtPZ1JzUG91SmZBWXBuOUZqTDNfSDVrWdIBywFBVV95cUxNXzNpTS15aHlTZXZEbHdKYmtDdDFvUFZMdXFzWmttZHVzb080OExONGZ5SjhoZmxaVjFQRVo5UEo1eXZieU9WYXRYUGo2eGc3NnhUdnJta2tJa2Q5emlzUHJGaGhIMGk2WUdKQUtlUWdzbXV0UkkzTHllN0hsNUg2M19DeXk3VFR5bGZXMVdVTmVTVmNKNHVyMXRYVTZFY1BUYkYyV0Ixd0NVTVNxX1VrZzNNaEtPZ1JzUG91SmZBWXBuOUZqTDNfSDVrWQ?oc=5\" target=\"_blank\">Samsung Electro-Mechanics showcases next-generation AI chip substrates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNXzNpTS15aHlTZXZEbHdKYmtDdDFvUFZMdXFzWmttZHVzb080OExONGZ5SjhoZmxaVjFQRVo5UEo1eXZieU9WYXRYUGo2eGc3NnhUdnJta2tJa2Q5emlzUHJGaGhIMGk2WUdKQUtlUWdzbXV0UkkzTHllN0hsNUg2M19DeXk3VFR5bGZXMVdVTmVTVmNKNHVyMXRYVTZFY1BUYkYyV0Ixd0NVTVNxX1VrZzNNaEtPZ1JzUG91SmZBWXBuOUZqTDNfSDVrWdIBywFBVV95cUxNXzNpTS15aHlTZXZEbHdKYmtDdDFvUFZMdXFzWmttZHVzb080OExONGZ5SjhoZmxaVjFQRVo5UEo1eXZieU9WYXRYUGo2eGc3NnhUdnJta2tJa2Q5emlzUHJGaGhIMGk2WUdKQUtlUWdzbXV0UkkzTHllN0hsNUg2M19DeXk3VFR5bGZXMVdVTmVTVmNKNHVyMXRYVTZFY1BUYkYyV0Ixd0NVTVNxX1VrZzNNaEtPZ1JzUG91SmZBWXBuOUZqTDNfSDVrWQ?oc=5",
+          "source": "The Korea Times",
           "publishedAt": "2026-09-09",
           "views": "13.0K"
         }
@@ -80,6 +80,14 @@
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
         {
+          "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOblFSWnQ4R1pvblVNOFRwd1JidVpVZFM4LUxqejdmcjlya2F1dDVpVElyelkwem9DaW5vNGx4T2IxekJyWUJQSnRSRkVSSmd2RDltanp2YkhHMHRoX3p4RFNWYWo0N0pOd3ltcWZzajhBTGF6NFczLU9DY3hLdUc3MnhNUmN4eEFFUXRsTDRKQkNLRXh3QVo2ZFZsX1RscTV0QzFjR2ZPTmdTM0RkR2JXNmhkVHJ5MWJf?oc=5\" target=\"_blank\">Sequoia doubles down on Cymphony as AI agents create new enterprise security risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOblFSWnQ4R1pvblVNOFRwd1JidVpVZFM4LUxqejdmcjlya2F1dDVpVElyelkwem9DaW5vNGx4T2IxekJyWUJQSnRSRkVSSmd2RDltanp2YkhHMHRoX3p4RFNWYWo0N0pOd3ltcWZzajhBTGF6NFczLU9DY3hLdUc3MnhNUmN4eEFFUXRsTDRKQkNLRXh3QVo2ZFZsX1RscTV0QzFjR2ZPTmdTM0RkR2JXNmhkVHJ5MWJf?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-09-09",
+          "views": "18.0K"
+        },
+        {
           "title": "AI agents just doubled inside the enterprise. Confidence rose faster than control did - TechCrunch",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOFdlZ2J6R0MydjAzYVJFTkZ2cjZ1WnpzVGNQWFpBUXNTZWpjYW5XZGE5UkdDaHlaMW9BUmx5dENNZXdjSUJFbGZoWlJXd0kxeGYxZFNyNUo0MmwxM1hvbDNTZ2J1YkZ2bDFvUHhmY3BRRE1Td1p5MnZKMGZ1ZTd1dmF2Q1VCaEJPbmVhUk5qMGNFblJyMXJONXktMHIzcUM3SkRmbFBWUHR4cWNfWU9wa2FwcjZKQy00NVlVRjVKZ1JiYWM?oc=5\" target=\"_blank\">AI agents just doubled inside the enterprise. Confidence rose faster than control did</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOFdlZ2J6R0MydjAzYVJFTkZ2cjZ1WnpzVGNQWFpBUXNTZWpjYW5XZGE5UkdDaHlaMW9BUmx5dENNZXdjSUJFbGZoWlJXd0kxeGYxZFNyNUo0MmwxM1hvbDNTZ2J1YkZ2bDFvUHhmY3BRRE1Td1p5MnZKMGZ1ZTd1dmF2Q1VCaEJPbmVhUk5qMGNFblJyMXJONXktMHIzcUM3SkRmbFBWUHR4cWNfWU9wa2FwcjZKQy00NVlVRjVKZ1JiYWM?oc=5",
@@ -88,20 +96,12 @@
           "views": "18.0K"
         },
         {
-          "title": "Scaling agentic AI pilots across the enterprise - MIT Technology Review",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPdm9nZWEwQmhJSWdKTWVFMEZiTkhkSnBpckdTRmwzYjFoMFVYRldMVFhiQkkxVFYzR25mSkhlVmZ2cGlpbjNMWmltMS0zc1ZzVTJVVlVPd0dpbzdLa1JMNlJzMmN2YjY0aEYwd3Z2UzA4SkdVOU9PWm9lYzJ6SDU2eTExOTlvWGhINlo0OHhTdy1ocnY1dElRX3MxaW12c3djb2fSAacBQVVfeXFMUHlyUGpUUllxWXZXZC1HTnJ0ZDVzWkhoR1NTQURpZFlxWVc3aUpvUWRuRm5seHAwWTM3eklWRW9nMDh5b1hhTFQzVWI3dVQ4V2h6YkhYTExzYXFPUV8tMi1GX010WXdDQWowbDMtRTZfVXVTSXNIa1U1Q0JUZEphOWhBTGFGRG9QaVFsTkJ5T3k3a3V4R1hlc2E1U1FkdmNJYS1lMm5fUlE?oc=5\" target=\"_blank\">Scaling agentic AI pilots across the enterprise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MIT Technology Review</font>",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdm9nZWEwQmhJSWdKTWVFMEZiTkhkSnBpckdTRmwzYjFoMFVYRldMVFhiQkkxVFYzR25mSkhlVmZ2cGlpbjNMWmltMS0zc1ZzVTJVVlVPd0dpbzdLa1JMNlJzMmN2YjY0aEYwd3Z2UzA4SkdVOU9PWm9lYzJ6SDU2eTExOTlvWGhINlo0OHhTdy1ocnY1dElRX3MxaW12c3djb2fSAacBQVVfeXFMUHlyUGpUUllxWXZXZC1HTnJ0ZDVzWkhoR1NTQURpZFlxWVc3aUpvUWRuRm5seHAwWTM3eklWRW9nMDh5b1hhTFQzVWI3dVQ4V2h6YkhYTExzYXFPUV8tMi1GX010WXdDQWowbDMtRTZfVXVTSXNIa1U1Q0JUZEphOWhBTGFGRG9QaVFsTkJ5T3k3a3V4R1hlc2E1U1FkdmNJYS1lMm5fUlE?oc=5",
-          "source": "MIT Technology Review (AI)",
-          "publishedAt": "2026-09-03",
+          "title": "The Perfect Fit: How GenerativeX Tailors AI Agents to Enterprise Finance’s Needs - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOb1pKeEJEMEgxb0YwV0ZrOU9fTnJZOFhDR1ZKWWYzbjU0ME1nS1RTSDdmejhqN1RTZ2s2NW1JbDhoOHc0dGZMN1dHM2QyRHI0SkxvWl90RXIybnllc2tSUC1ZdUltN2tZLWtabkQyb1lMZ2pzcUJQUkJ6YkJReTFSS3BBOGNJazZXa1Vwc21sQnpxOGxGMTI0bGxGRVdNMHRyM3F0Ml8tc0h6U1ZiUlRzZVljb0FrcFd5a21JZlhubw?oc=5\" target=\"_blank\">The Perfect Fit: How GenerativeX Tailors AI Agents to Enterprise Finance’s Needs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOb1pKeEJEMEgxb0YwV0ZrOU9fTnJZOFhDR1ZKWWYzbjU0ME1nS1RTSDdmejhqN1RTZ2s2NW1JbDhoOHc0dGZMN1dHM2QyRHI0SkxvWl90RXIybnllc2tSUC1ZdUltN2tZLWtabkQyb1lMZ2pzcUJQUkJ6YkJReTFSS3BBOGNJazZXa1Vwc21sQnpxOGxGMTI0bGxGRVdNMHRyM3F0Ml8tc0h6U1ZiUlRzZVljb0FrcFd5a21JZlhubw?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-09-06",
           "views": "18.0K"
-        },
-        {
-          "title": "[INTERVIEW] Martin Sorrell says AI adoption lags behind hype as companies experiment, not transform - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdHhGYmtlSUlWODJ1cWtGMVZxcVRteGJCOXVUWndSQUhycGRvTDdqZmxhTkVuMnFSUDJoZS1SZDZqb0ticEFUNWVvWUxEOFh0OTJ4OGpiaW5DX2h6ZkdJZ0pkSFNQaUxCTXNRaHFWaHZ5M19WRUtNbWh3VjBSWDZ3R1ZkSUpVRFZzeDRGM0RpY1FPQ01sWU0wX1VNelptUjUxRFdvLUJsUFRRQVpLWEhDU25mYm1kWUtpbmw3TjVQVWpuZ1ZGMnZvc0ZhbUd3VExXeWpHZHpqbU9iQ0hpRGZkStIB4AFBVV95cUxQdHhGYmtlSUlWODJ1cWtGMVZxcVRteGJCOXVUWndSQUhycGRvTDdqZmxhTkVuMnFSUDJoZS1SZDZqb0ticEFUNWVvWUxEOFh0OTJ4OGpiaW5DX2h6ZkdJZ0pkSFNQaUxCTXNRaHFWaHZ5M19WRUtNbWh3VjBSWDZ3R1ZkSUpVRFZzeDRGM0RpY1FPQ01sWU0wX1VNelptUjUxRFdvLUJsUFRRQVpLWEhDU25mYm1kWUtpbmw3TjVQVWpuZ1ZGMnZvc0ZhbUd3VExXeWpHZHpqbU9iQ0hpRGZkSg?oc=5\" target=\"_blank\">[INTERVIEW] Martin Sorrell says AI adoption lags behind hype as companies experiment, not transform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdHhGYmtlSUlWODJ1cWtGMVZxcVRteGJCOXVUWndSQUhycGRvTDdqZmxhTkVuMnFSUDJoZS1SZDZqb0ticEFUNWVvWUxEOFh0OTJ4OGpiaW5DX2h6ZkdJZ0pkSFNQaUxCTXNRaHFWaHZ5M19WRUtNbWh3VjBSWDZ3R1ZkSUpVRFZzeDRGM0RpY1FPQ01sWU0wX1VNelptUjUxRFdvLUJsUFRRQVpLWEhDU25mYm1kWUtpbmw3TjVQVWpuZ1ZGMnZvc0ZhbUd3VExXeWpHZHpqbU9iQ0hpRGZkStIB4AFBVV95cUxQdHhGYmtlSUlWODJ1cWtGMVZxcVRteGJCOXVUWndSQUhycGRvTDdqZmxhTkVuMnFSUDJoZS1SZDZqb0ticEFUNWVvWUxEOFh0OTJ4OGpiaW5DX2h6ZkdJZ0pkSFNQaUxCTXNRaHFWaHZ5M19WRUtNbWh3VjBSWDZ3R1ZkSUpVRFZzeDRGM0RpY1FPQ01sWU0wX1VNelptUjUxRFdvLUJsUFRRQVpLWEhDU25mYm1kWUtpbmw3TjVQVWpuZ1ZGMnZvc0ZhbUd3VExXeWpHZHpqbU9iQ0hpRGZkSg?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-09-08",
-          "views": "13.0K"
         }
       ]
     },
@@ -142,27 +142,27 @@
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
         {
-          "title": "Korean economy continues to improve on strong AI-led exports, investment - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSF9UNk92ck5oTG1OcnJ4SVZRc0MySjdfZ2FVallDQU9uVDZBbUlUWExNLVZ6SHY5OWdlVkFhSTBFTGY2YWlLSFUzTDZwaDhQSzdMZ2JUNjliTkxTUnlKS2w1bUI2MlRQZUpJSl93cW9WZi1UZzd6V1F2V1RNS0U2aWdGSlpzNXVUX3hmb2dqNHM1VDVTel9JOXVlN2RWYXRHbFpXZ1p3dl95UXRHbWpoc01BWExfQzM30gG-AUFVX3lxTE1WRmwxdVV6Y21JN3NTRUVGQ3hGVlg4OGE2dThidG5ONFhkTUxJNVNGLUx5RnF6WXV3bk9TU2NMNlhJNWZrY1N4OFpvU3JLODB1TS0tRmJWTkVSV29LSGg0NGRoQUVyMzNDaWlXazZCNnpnNXF3Sk1YeU82ZE5QU1pNbGd0YXRiLXhNaWdwSlNVNGhFWG9fd3ZnWGZPa3hhVFZydWJZU0F3Y2tBa1ZOMS1nR0hkWXdYblM2WGdHVmc?oc=5\" target=\"_blank\">Korean economy continues to improve on strong AI-led exports, investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSF9UNk92ck5oTG1OcnJ4SVZRc0MySjdfZ2FVallDQU9uVDZBbUlUWExNLVZ6SHY5OWdlVkFhSTBFTGY2YWlLSFUzTDZwaDhQSzdMZ2JUNjliTkxTUnlKS2w1bUI2MlRQZUpJSl93cW9WZi1UZzd6V1F2V1RNS0U2aWdGSlpzNXVUX3hmb2dqNHM1VDVTel9JOXVlN2RWYXRHbFpXZ1p3dl95UXRHbWpoc01BWExfQzM30gG-AUFVX3lxTE1WRmwxdVV6Y21JN3NTRUVGQ3hGVlg4OGE2dThidG5ONFhkTUxJNVNGLUx5RnF6WXV3bk9TU2NMNlhJNWZrY1N4OFpvU3JLODB1TS0tRmJWTkVSV29LSGg0NGRoQUVyMzNDaWlXazZCNnpnNXF3Sk1YeU82ZE5QU1pNbGd0YXRiLXhNaWdwSlNVNGhFWG9fd3ZnWGZPa3hhVFZydWJZU0F3Y2tBa1ZOMS1nR0hkWXdYblM2WGdHVmc?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-09-07",
+          "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMUQwT1FwQUpRVkhOQ2gzYTRaRW9PZC1nWEloVVZTaXFoUnFhaUFwd2hJWVo3Si1EV2p3Z0c2c2dZTDdMOUFDNGdMeTJaTjV4TXEwSkhRRHU5NWhpTnd5Ui16aG9vQ3gtdFRtVWN5TE9XUFNRWmtpUTBjbHUzdUd2QTNGdHdMLUxYSG52Z1lBci1pQWVHTklsd2hsVS01ZXJYek1WWGxaeXlscVljM3dqYWttZHgwR3BT?oc=5\" target=\"_blank\">AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMUQwT1FwQUpRVkhOQ2gzYTRaRW9PZC1nWEloVVZTaXFoUnFhaUFwd2hJWVo3Si1EV2p3Z0c2c2dZTDdMOUFDNGdMeTJaTjV4TXEwSkhRRHU5NWhpTnd5Ui16aG9vQ3gtdFRtVWN5TE9XUFNRWmtpUTBjbHUzdUd2QTNGdHdMLUxYSG52Z1lBci1pQWVHTklsd2hsVS01ZXJYek1WWGxaeXlscVljM3dqYWttZHgwR3BT?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-09-10",
           "views": "18.0K"
         },
         {
-          "title": "Google-backed Indian space startup raises $100 million in latest funding round - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPckhZX3NWQWUyYUdvMjlFb25xTFhUN0VmNmIwX0dwd3JhVnU3b01WR3ZpZUhzQ3J3c19mMHFOakVKSnlwMFhkNmF5TlBGYl80WW80ckIyOXRpaFFMUlMtNlMyc3VpQ2psYk1kZGx4Slh0SUdLcHhONEk4Vkd0czMtSUQtckhYM01GNGJicTZxaVVCdGwxLXVLQjdQOE9rd3RMY2FzME5DeWdwWThqM3VVbnZndG1sZThDcHc?oc=5\" target=\"_blank\">Google-backed Indian space startup raises $100 million in latest funding round</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPckhZX3NWQWUyYUdvMjlFb25xTFhUN0VmNmIwX0dwd3JhVnU3b01WR3ZpZUhzQ3J3c19mMHFOakVKSnlwMFhkNmF5TlBGYl80WW80ckIyOXRpaFFMUlMtNlMyc3VpQ2psYk1kZGx4Slh0SUdLcHhONEk4Vkd0czMtSUQtckhYM01GNGJicTZxaVVCdGwxLXVLQjdQOE9rd3RMY2FzME5DeWdwWThqM3VVbnZndG1sZThDcHc?oc=5",
+          "title": "Legal AI startup Harvey reaches $15.5 billion valuation in new funding round - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdlB6ckhOUjNOZ3VfSVNXTVBvQWlkLTRiWUwxLU1KZG9fT0t3QVI5U043NS1pdGp6UHpCM0hjTHFzZm5OelhkWVdZbkY3RnBBbEdCVnFTXzhJNl8yTW4tOHo5UzU3SEU5VW0xNFZnQkhCNjJzWVVWTmZEQUhsUVNYalpYNnpIZUo1S0UxNEF0MHFtalVablBwWFF1ZDE5V25OSDIzd2tadlZqdU9xdDFQc1YwR1FxNW91aDJKeHNaeF9iQQ?oc=5\" target=\"_blank\">Legal AI startup Harvey reaches $15.5 billion valuation in new funding round</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdlB6ckhOUjNOZ3VfSVNXTVBvQWlkLTRiWUwxLU1KZG9fT0t3QVI5U043NS1pdGp6UHpCM0hjTHFzZm5OelhkWVdZbkY3RnBBbEdCVnFTXzhJNl8yTW4tOHo5UzU3SEU5VW0xNFZnQkhCNjJzWVVWTmZEQUhsUVNYalpYNnpIZUo1S0UxNEF0MHFtalVablBwWFF1ZDE5V25OSDIzd2tadlZqdU9xdDFQc1YwR1FxNW91aDJKeHNaeF9iQQ?oc=5",
           "source": "Reuters AI",
-          "publishedAt": "2026-09-07",
+          "publishedAt": "2026-09-09",
           "views": "18.0K"
         },
         {
-          "title": "US job market rebounds with 162,000 new jobs; the unemployment rate stayed at 4.1% - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPTDNiNy1XUkg3ZXFXWlZ6OUc1cWF2UE5HYm1vOUtkZ1l6U0dUazdMcjc3eXdsVF9hanFwWjlMRlJMWHhfOEo1a1RNODljbTJzdDJKN180a3ZGcTgxNWdZOWpQRnJQYjJNcDhMb0JDZ2ItcXZJSnlQajRSdWd0N1NwTmFyRjZ1a1BUQ0R0WFh6Y3EzbGsya3ZiZVRSdDhvUlFHaEZ2TXlEaDVpdktZM1NZVWlDRlFyQXRERjRDS01WQdIBxAFBVV95cUxNS05LTnY1eHRqREEzbHNrRHZWUl94Q2Q1RHJYVU1Jc3hpeFp4ZW1JS2taYXdiTWRpblllUGRyQTAwNmhSdGVXeXNZR3hlcUg0YTV4VzgyR2UwRGdoWGdrU0ZMQm1CdzFlelEyNnI4QXhWOXNJTzdLTmM2N0EzY0E4U0VmLUZ3YzVjZTM4amJWM0h1S0xGZWl4S2p6YWpCaFcwakU4cWlYeUVJSG5YVHpiYS1INmhwRlBzQmNsdXlNYVo1N2M2?oc=5\" target=\"_blank\">US job market rebounds with 162,000 new jobs; the unemployment rate stayed at 4.1%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTDNiNy1XUkg3ZXFXWlZ6OUc1cWF2UE5HYm1vOUtkZ1l6U0dUazdMcjc3eXdsVF9hanFwWjlMRlJMWHhfOEo1a1RNODljbTJzdDJKN180a3ZGcTgxNWdZOWpQRnJQYjJNcDhMb0JDZ2ItcXZJSnlQajRSdWd0N1NwTmFyRjZ1a1BUQ0R0WFh6Y3EzbGsya3ZiZVRSdDhvUlFHaEZ2TXlEaDVpdktZM1NZVWlDRlFyQXRERjRDS01WQdIBxAFBVV95cUxNS05LTnY1eHRqREEzbHNrRHZWUl94Q2Q1RHJYVU1Jc3hpeFp4ZW1JS2taYXdiTWRpblllUGRyQTAwNmhSdGVXeXNZR3hlcUg0YTV4VzgyR2UwRGdoWGdrU0ZMQm1CdzFlelEyNnI4QXhWOXNJTzdLTmM2N0EzY0E4U0VmLUZ3YzVjZTM4amJWM0h1S0xGZWl4S2p6YWpCaFcwakU4cWlYeUVJSG5YVHpiYS1INmhwRlBzQmNsdXlNYVo1N2M2?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-09-04",
+          "title": "Clay valued at $7.1 billion in latest funding round as AI agent startups run hot - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT05jSXI1VFhoTUhPcmYyMW83NFV2Rkg5azNZU2V6VzJsNC00aEZhcDkyd3B5THUxajBTeG9mTW9GSU9jRE5HNHNpV0pFQWVSQTczbDlvSXVrTjZybm1ncXJrMkgwRzVXc0tJQVRHVHljeWNNT3JFcXVNRFp1dnZnQnVlbl9CNFUzbmFXMGhwdHNKX1pTV1ptVTdnUml0TWJ4OTZfeTRWQ3NGbWt5Rmg0X21yVkZUc3lKUF9YeWxBT1Z3MVE?oc=5\" target=\"_blank\">Clay valued at $7.1 billion in latest funding round as AI agent startups run hot</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT05jSXI1VFhoTUhPcmYyMW83NFV2Rkg5azNZU2V6VzJsNC00aEZhcDkyd3B5THUxajBTeG9mTW9GSU9jRE5HNHNpV0pFQWVSQTczbDlvSXVrTjZybm1ncXJrMkgwRzVXc0tJQVRHVHljeWNNT3JFcXVNRFp1dnZnQnVlbl9CNFUzbmFXMGhwdHNKX1pTV1ptVTdnUml0TWJ4OTZfeTRWQ3NGbWt5Rmg0X21yVkZUc3lKUF9YeWxBT1Z3MVE?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-09-09",
           "views": "18.0K"
         }
       ]
@@ -181,19 +181,19 @@
           "views": "18.0K"
         },
         {
-          "title": "CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks - TechCrunch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdWpqLXlnLWNMT0dObFVCYXozM05rb3MxVnpUcm5rZVJqOHQxYmk0RDU0MGJGYWFkczNJeDF6NXlQSXlITC1NSVBDMFF6VFp1V0NoYXFzQ1QxRDFtWU9FTE5ycncyZUlWdlFPVWJURGNaeE52bExQa2ZUOXh0SXd1dkZkTEcyS3RhdWJTYkk1Y3A4dFpXRGltTmpLWnJlSXBZYTc3a0phc2t5UQ?oc=5\" target=\"_blank\">CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdWpqLXlnLWNMT0dObFVCYXozM05rb3MxVnpUcm5rZVJqOHQxYmk0RDU0MGJGYWFkczNJeDF6NXlQSXlITC1NSVBDMFF6VFp1V0NoYXFzQ1QxRDFtWU9FTE5ycncyZUlWdlFPVWJURGNaeE52bExQa2ZUOXh0SXd1dkZkTEcyS3RhdWJTYkk1Y3A4dFpXRGltTmpLWnJlSXBZYTc3a0phc2t5UQ?oc=5",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-09-09",
+          "title": "Naver Proposes 'AI Factory' in France…Strengthening European Market Strategy - ETNEWS",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFA4VGtrZGU4LVZHWk9fWklIYnBBMXhlRHV5TmtHOVJRd2MxTnVaNWhNYlRHcUtvZTZSYU5QTXU3RWtvNXZ6WW4yaXYxUmw?oc=5\" target=\"_blank\">Naver Proposes 'AI Factory' in France…Strengthening European Market Strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA4VGtrZGU4LVZHWk9fWklIYnBBMXhlRHV5TmtHOVJRd2MxTnVaNWhNYlRHcUtvZTZSYU5QTXU3RWtvNXZ6WW4yaXYxUmw?oc=5",
+          "source": "전자신문",
+          "publishedAt": "2026-09-10",
           "views": "13.0K"
         },
         {
-          "title": "Samsung SDS outlines AI transformation biz strategy at REAL Summit - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOcDBUbFV6bjAwRVBhNEE2Z2tnQWQycHhuNXdvWllVVTlGWnM4dGlWc2ZQLXZRX3hOd3dhUkt5UzBIV2QyWVlIYnFleTRWNnBWTGoxRW9LLWhyRVVobXUwT2RFUHVoVE94UF9Tc2Vwck5lcGJfODdFaGRIdXFaMXBJVUNIb0VRNHFsbkVvVFBCRHJHMFlXQ2RCcXRqNEpDWjVKRW5EMjRyOGNra0FfVWs2aHVpdDhPd2NwT0JXSVBkY0FNenNNSUHSAcYBQVVfeXFMTnAwVGxVem4wMEVQYTRBNmdrZ0FkMnB4bjV3b1pZVVU5RlpzOHRpVnNmUC12UV94Tnd3YVJLeVMwSFdkMllZSGJxZXk0VjZwVkxqMUVvSy1ockVVaG11ME9kRVB1aFRPeFBfU3NlcHJOZXBiXzg3RWhkSHVxWjFwSVVDSG9FUTRxbG5Fb1RQQkRyRzBZV0NkQnF0ajRKQ1o1SkVuRDI0cjhja2tBX1VrNmh1aXQ4T3djcE9CV0lQZGNBTXpzTUlB?oc=5\" target=\"_blank\">Samsung SDS outlines AI transformation biz strategy at REAL Summit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcDBUbFV6bjAwRVBhNEE2Z2tnQWQycHhuNXdvWllVVTlGWnM4dGlWc2ZQLXZRX3hOd3dhUkt5UzBIV2QyWVlIYnFleTRWNnBWTGoxRW9LLWhyRVVobXUwT2RFUHVoVE94UF9Tc2Vwck5lcGJfODdFaGRIdXFaMXBJVUNIb0VRNHFsbkVvVFBCRHJHMFlXQ2RCcXRqNEpDWjVKRW5EMjRyOGNra0FfVWs2aHVpdDhPd2NwT0JXSVBkY0FNenNNSUHSAcYBQVVfeXFMTnAwVGxVem4wMEVQYTRBNmdrZ0FkMnB4bjV3b1pZVVU5RlpzOHRpVnNmUC12UV94Tnd3YVJLeVMwSFdkMllZSGJxZXk0VjZwVkxqMUVvSy1ockVVaG11ME9kRVB1aFRPeFBfU3NlcHJOZXBiXzg3RWhkSHVxWjFwSVVDSG9FUTRxbG5Fb1RQQkRyRzBZV0NkQnF0ajRKQ1o1SkVuRDI0cjhja2tBX1VrNmh1aXQ4T3djcE9CV0lQZGNBTXpzTUlB?oc=5",
+          "title": "SKT chief meets with ASEAN execs in global mobile industry event in Malaysia - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPY1NuRXNkS0ZSVC1VbFVBYlNZaXRhU0VpUDZ5UUpxcmlnOGZneGo0U25GOFJ3eUMyZFFHTGZZYWhMRmQ0SEQ4c2Z5ZjRIYUg3N3dLc0NYald5djAyVTd6R09fTjAwYm9pR296dGVNbW9YdWZXZmNoanhPUkZKR0lTeHJtdk03SnhZWnB6SWdvVnNFcmtOUTNDUEkwaENKRl9DN0lNLVpqbWlmc2V3eWtvLUhjSVVWOWxjVUc4TmctbDNmOHdVanRYZGlMZ2YxZ9IB0wFBVV95cUxQS0d1R2h2MHdjdTdyQUxXVEpsLWVPdTZZdks0UkFfS1R1YlRUdjJmTXJuV0tERU53X1hPcEk0bV90VFM1RnZZaFVaWWJFRjlEVWp2NkxmbmxiN0preXJQbElFRWhLT0lNTXNTWUdNc29YWUh3TzAyOVdPcVctQWdlWmpaZ1JJbWUyd3VVU05aMTNfbkhYbDBocW5GT0xUQWFsX3NWNy1yQlhGMDAzd1RubWlud1NULWtDdS1XRDVFdGJrOEdDa1l1aUxJRFl1SlpqTlhv?oc=5\" target=\"_blank\">SKT chief meets with ASEAN execs in global mobile industry event in Malaysia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPY1NuRXNkS0ZSVC1VbFVBYlNZaXRhU0VpUDZ5UUpxcmlnOGZneGo0U25GOFJ3eUMyZFFHTGZZYWhMRmQ0SEQ4c2Z5ZjRIYUg3N3dLc0NYald5djAyVTd6R09fTjAwYm9pR296dGVNbW9YdWZXZmNoanhPUkZKR0lTeHJtdk03SnhZWnB6SWdvVnNFcmtOUTNDUEkwaENKRl9DN0lNLVpqbWlmc2V3eWtvLUhjSVVWOWxjVUc4TmctbDNmOHdVanRYZGlMZ2YxZ9IB0wFBVV95cUxQS0d1R2h2MHdjdTdyQUxXVEpsLWVPdTZZdks0UkFfS1R1YlRUdjJmTXJuV0tERU53X1hPcEk0bV90VFM1RnZZaFVaWWJFRjlEVWp2NkxmbmxiN0preXJQbElFRWhLT0lNTXNTWUdNc29YWUh3TzAyOVdPcVctQWdlWmpaZ1JJbWUyd3VVU05aMTNfbkhYbDBocW5GT0xUQWFsX3NWNy1yQlhGMDAzd1RubWlud1NULWtDdS1XRDVFdGJrOEdDa1l1aUxJRFl1SlpqTlhv?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-09-08",
+          "publishedAt": "2026-09-10",
           "views": "13.0K"
         }
       ]
