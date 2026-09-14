@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-13T04:48:44.306Z",
+  "lastUpdated": "2026-09-14T04:50:54.641Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -47,31 +47,156 @@
       "name": "모델",
       "hashtag": "#모델",
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
-      "items": []
+      "items": [
+        {
+          "title": "DeepSeek-V4.1-Flash debuts with $0.003/1M off-peak cached-input rate and benchmarks eclipsing GPT-5.6 Sol, Claude Opus 5 - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUXAxdU5ESG9vS2EtNk9Sd1NCUDEzSzgyRnpNTjhIQXBhWExvV3UzS0lQNWNkN3lsaVMtNENINzdaRGRja3ZnbTRDNGJIeDBHeVRtcHBzOU9aLWotVnBXRDd5SGRBb1hHMjRrcDA4UmdVWUZzSTg1bGhuajYteHg2Y25mdU16VkwwVlNyaklQSFhBWmRWOUdvUkwyMlJmLXV0UUVOczNJZkpHVF84VUhISzlWMEdJXzVnRHdhTndpX1l3ekt3YnEyaGlYdlJ5QTNkcURfM0ZkbGlfR3dPcUcyd1E5RzluLUtU?oc=5\" target=\"_blank\">DeepSeek-V4.1-Flash debuts with $0.003/1M off-peak cached-input rate and benchmarks eclipsing GPT-5.6 Sol, Claude Opus 5</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUXAxdU5ESG9vS2EtNk9Sd1NCUDEzSzgyRnpNTjhIQXBhWExvV3UzS0lQNWNkN3lsaVMtNENINzdaRGRja3ZnbTRDNGJIeDBHeVRtcHBzOU9aLWotVnBXRDd5SGRBb1hHMjRrcDA4UmdVWUZzSTg1bGhuajYteHg2Y25mdU16VkwwVlNyaklQSFhBWmRWOUdvUkwyMlJmLXV0UUVOczNJZkpHVF84VUhISzlWMEdJXzVnRHdhTndpX1l3ekt3YnEyaGlYdlJ5QTNkcURfM0ZkbGlfR3dPcUcyd1E5RzluLUtU?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-09-10",
+          "views": "23.0K"
+        },
+        {
+          "title": "How Anthropic says Claude was used for weapons, spying and cyber operations - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ2o0V3htdFZCT1R5VFoxR0JHNDk3QzRxOHdlYXdzdUE4c2hXbUI2WFVLUmM0RFRwN2V2TUdUVlFEcy0tY0Z6eEVySHhaN213M29CdTIwYmJyNjBqU1BkYUhOQVpVYTlXam9jbnNvTV9LVS0zd2xodVBvdVlsRThtcTVCeDExdGRKYnA5S3o0bjllMk1WMFc1NXVCYS1JSFNCNkFfX09ZY1NscGNORFEzTW0xZFc?oc=5\" target=\"_blank\">How Anthropic says Claude was used for weapons, spying and cyber operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ2o0V3htdFZCT1R5VFoxR0JHNDk3QzRxOHdlYXdzdUE4c2hXbUI2WFVLUmM0RFRwN2V2TUdUVlFEcy0tY0Z6eEVySHhaN213M29CdTIwYmJyNjBqU1BkYUhOQVpVYTlXam9jbnNvTV9LVS0zd2xodVBvdVlsRThtcTVCeDExdGRKYnA5S3o0bjllMk1WMFc1NXVCYS1JSFNCNkFfX09ZY1NscGNORFEzTW0xZFc?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-09-11",
+          "views": "18.0K"
+        },
+        {
+          "title": "Databricks-trained AI agents match Claude and GPT-5.6 Luna's answer quality — in half the time - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOeng5VFk5ZDJXc09EZHhvZ0xqMU9rcnFhLWtodGx2bVdHNEdfU1FBMHUwZGw3VFBlSThOMVZwQUhrMS1GNERNQVJaQ3djRm8zY250YUc0UU1DRXowOGY5emNOLVU2Rl9jbmJfVWF1RUdILUF2YXBiVW5fYlFESHNHWVFBTm5sMVNsZXQzT2U1N0twbUJWc09GUHhoM3hWU2xFdGQ1M3Q2akJpb0M0RzQ4Nzh1ZGRrbDhCdVRXOA?oc=5\" target=\"_blank\">Databricks-trained AI agents match Claude and GPT-5.6 Luna's answer quality — in half the time</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeng5VFk5ZDJXc09EZHhvZ0xqMU9rcnFhLWtodGx2bVdHNEdfU1FBMHUwZGw3VFBlSThOMVZwQUhrMS1GNERNQVJaQ3djRm8zY250YUc0UU1DRXowOGY5emNOLVU2Rl9jbmJfVWF1RUdILUF2YXBiVW5fYlFESHNHWVFBTm5sMVNsZXQzT2U1N0twbUJWc09GUHhoM3hWU2xFdGQ1M3Q2akJpb0M0RzQ4Nzh1ZGRrbDhCdVRXOA?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-09-09",
+          "views": "18.0K"
+        }
+      ]
     },
     {
       "name": "활용사례",
       "hashtag": "#활용사례",
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
-      "items": []
+      "items": [
+        {
+          "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOblFSWnQ4R1pvblVNOFRwd1JidVpVZFM4LUxqejdmcjlya2F1dDVpVElyelkwem9DaW5vNGx4T2IxekJyWUJQSnRSRkVSSmd2RDltanp2YkhHMHRoX3p4RFNWYWo0N0pOd3ltcWZzajhBTGF6NFczLU9DY3hLdUc3MnhNUmN4eEFFUXRsTDRKQkNLRXh3QVo2ZFZsX1RscTV0QzFjR2ZPTmdTM0RkR2JXNmhkVHJ5MWJf?oc=5\" target=\"_blank\">Sequoia doubles down on Cymphony as AI agents create new enterprise security risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOblFSWnQ4R1pvblVNOFRwd1JidVpVZFM4LUxqejdmcjlya2F1dDVpVElyelkwem9DaW5vNGx4T2IxekJyWUJQSnRSRkVSSmd2RDltanp2YkhHMHRoX3p4RFNWYWo0N0pOd3ltcWZzajhBTGF6NFczLU9DY3hLdUc3MnhNUmN4eEFFUXRsTDRKQkNLRXh3QVo2ZFZsX1RscTV0QzFjR2ZPTmdTM0RkR2JXNmhkVHJ5MWJf?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-09-09",
+          "views": "18.0K"
+        },
+        {
+          "title": "Long-running AI agents quietly drop compliance rules, and bigger context windows won't fix it - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSk9jZk1BTmxwLV9jQW9MYk5pS3ZzdU9sVC14MDEtSFNHVm5zel85azc2NnZqdkZMQW5RdE9TZmljcnRmZDBlc0JTVVVlX3g4TjFoanFHRHAwS3pOcWFrb2xTSnJjR09VbkNoMFdPQXNFdHduVFFLaFlBZl9IakpHanVSSkp1c2RjVFlpYWNiNUJKdDVJNEZoY2pwTFRLZklOQTExV2k3YXJ6MDhoSHdjS2NMM2NqaXF3bTZ2a3lva2lDajNib19naA?oc=5\" target=\"_blank\">Long-running AI agents quietly drop compliance rules, and bigger context windows won't fix it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSk9jZk1BTmxwLV9jQW9MYk5pS3ZzdU9sVC14MDEtSFNHVm5zel85azc2NnZqdkZMQW5RdE9TZmljcnRmZDBlc0JTVVVlX3g4TjFoanFHRHAwS3pOcWFrb2xTSnJjR09VbkNoMFdPQXNFdHduVFFLaFlBZl9IakpHanVSSkp1c2RjVFlpYWNiNUJKdDVJNEZoY2pwTFRLZklOQTExV2k3YXJ6MDhoSHdjS2NMM2NqaXF3bTZ2a3lva2lDajNib19naA?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-09-13",
+          "views": "13.0K"
+        },
+        {
+          "title": "AI Agents Are Thirsty for Power - WIRED",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBCUlpVbDVPNWpBM3lvMHVBeXFJVEtwSUFyZ1U0ZnNtMXRmMXNZT2J3d0FSakRJRkYxbHB3UTUtR1gyT3hJd3BHYTFpOHJKcVFLMTJ2NXIxRGpja2x5cWFHMXJtb181VWdmUnNKVg?oc=5\" target=\"_blank\">AI Agents Are Thirsty for Power</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCUlpVbDVPNWpBM3lvMHVBeXFJVEtwSUFyZ1U0ZnNtMXRmMXNZT2J3d0FSakRJRkYxbHB3UTUtR1gyT3hJd3BHYTFpOHJKcVFLMTJ2NXIxRGpja2x5cWFHMXJtb181VWdmUnNKVg?oc=5",
+          "source": "WIRED AI",
+          "publishedAt": "2026-09-13",
+          "views": "13.0K"
+        }
+      ]
     },
     {
       "name": "윤리",
       "hashtag": "#윤리",
       "description": "규제, 책임, 신뢰, 저작권 같은 문제를 보는 관점",
-      "items": []
+      "items": [
+        {
+          "title": "ECB policymakers open door to more rate hikes on energy risk - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNWklVYjJxbm9nQW5MaVNFTWx6czNqTmVUY1h0V2hybm1keW9fWV9Hal9ORlFZSVNPN0g0NVBNZDZ2SVdreHlzcE5YS3Fnd2RGci1lZDF6RUVocmF1Y2Z1UUQzU0hPczNCUTdubFJmWDdrRTREd0cyalFLNXluUDJNZjgzQU1SMkFsVEZiZ3RwblVNYmJ6MmdTWE0yd3dnT0ZTTHJyOW5uYw?oc=5\" target=\"_blank\">ECB policymakers open door to more rate hikes on energy risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWklVYjJxbm9nQW5MaVNFTWx6czNqTmVUY1h0V2hybm1keW9fWV9Hal9ORlFZSVNPN0g0NVBNZDZ2SVdreHlzcE5YS3Fnd2RGci1lZDF6RUVocmF1Y2Z1UUQzU0hPczNCUTdubFJmWDdrRTREd0cyalFLNXluUDJNZjgzQU1SMkFsVEZiZ3RwblVNYmJ6MmdTWE0yd3dnT0ZTTHJyOW5uYw?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-09-11",
+          "views": "18.0K"
+        },
+        {
+          "title": "US lawmakers call for new AI rules after Anthropic researchers' safety warnings - koreatimes.co.kr",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNYy1NZ29yY1dCcHAwR19saUN1a2E0bDVqRXdOOGZoX2h4V2xVR1VmZFltZks5R3BqdDZuNktvREYteHBCVFcyYXZwalQ4ZDRMdTgwbElwN2YwNmhNS2ZSSlpURGlxS18yS1BCMlpldHQ4THZYTTVDSENwcWFxcWRsdk5EbnhNVEVNd1pTd1VvYmtjVi13VjVPTFBXTXk1YXRFZk5HcWFOWlZsZERldFBkcDI2U3JpVTRLZHBXdWVDVdIBxAFBVV95cUxOSHNGUUZyRlo5a2VLdHRzMlNQQlVjYUhJSG5lVTFIdkVOWjFHX2lKVllJSThNc2piTEctalFwNFA1Vmd6dURHdXowOXJTbXM1bURrbzhuZ1RNRXVYdXhYekpleEd3OFkwMTUwMzdEM2Rrb3lSRjBmMGhEQ1Y3TkkzVzZ3dHcxeU1hOVpzQkhDU1hmdTZUZmYwMjV0Z2xKaGUycHZFc0FQNjU2TXpZZUo1S0ZNem9EVW1XLVM0bjY3TDktazFf?oc=5\" target=\"_blank\">US lawmakers call for new AI rules after Anthropic researchers' safety warnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">koreatimes.co.kr</font>",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYy1NZ29yY1dCcHAwR19saUN1a2E0bDVqRXdOOGZoX2h4V2xVR1VmZFltZks5R3BqdDZuNktvREYteHBCVFcyYXZwalQ4ZDRMdTgwbElwN2YwNmhNS2ZSSlpURGlxS18yS1BCMlpldHQ4THZYTTVDSENwcWFxcWRsdk5EbnhNVEVNd1pTd1VvYmtjVi13VjVPTFBXTXk1YXRFZk5HcWFOWlZsZERldFBkcDI2U3JpVTRLZHBXdWVDVdIBxAFBVV95cUxOSHNGUUZyRlo5a2VLdHRzMlNQQlVjYUhJSG5lVTFIdkVOWjFHX2lKVllJSThNc2piTEctalFwNFA1Vmd6dURHdXowOXJTbXM1bURrbzhuZ1RNRXVYdXhYekpleEd3OFkwMTUwMzdEM2Rrb3lSRjBmMGhEQ1Y3TkkzVzZ3dHcxeU1hOVpzQkhDU1hmdTZUZmYwMjV0Z2xKaGUycHZFc0FQNjU2TXpZZUo1S0ZNem9EVW1XLVM0bjY3TDktazFf?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-09-10",
+          "views": "18.0K"
+        },
+        {
+          "title": "Hungary's central bank may add climate risk scenarios to policy framework - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQR0NHREdjTTg0OWRSUXBSSXFJdmpDay1pZ2NlN1JIMDN5aFQxcV92NnhrOVJFY1NZelFSR2xIZUhKTUc2WGFTNHAzYkNEME96OFBBWjVvSU5KMjB2M0F0QlJhbGVrVUR5MGhqdEtPUmtzMlliejBpUUFad0ZnS0FoWlpNd2NqRnBLaFA4djBlaU1EdF9IWXpYSEh2V1AxdGlHcHo2bVBVdkE1aUh0UHotN2NiNkVnZERwTmtNbmgyd3Vka0Zv?oc=5\" target=\"_blank\">Hungary's central bank may add climate risk scenarios to policy framework</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQR0NHREdjTTg0OWRSUXBSSXFJdmpDay1pZ2NlN1JIMDN5aFQxcV92NnhrOVJFY1NZelFSR2xIZUhKTUc2WGFTNHAzYkNEME96OFBBWjVvSU5KMjB2M0F0QlJhbGVrVUR5MGhqdEtPUmtzMlliejBpUUFad0ZnS0FoWlpNd2NqRnBLaFA4djBlaU1EdF9IWXpYSEh2V1AxdGlHcHo2bVBVdkE1aUh0UHotN2NiNkVnZERwTmtNbmgyd3Vka0Zv?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-09-10",
+          "views": "18.0K"
+        }
+      ]
     },
     {
       "name": "경제",
       "hashtag": "#경제",
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
-      "items": []
+      "items": [
+        {
+          "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMUQwT1FwQUpRVkhOQ2gzYTRaRW9PZC1nWEloVVZTaXFoUnFhaUFwd2hJWVo3Si1EV2p3Z0c2c2dZTDdMOUFDNGdMeTJaTjV4TXEwSkhRRHU5NWhpTnd5Ui16aG9vQ3gtdFRtVWN5TE9XUFNRWmtpUTBjbHUzdUd2QTNGdHdMLUxYSG52Z1lBci1pQWVHTklsd2hsVS01ZXJYek1WWGxaeXlscVljM3dqYWttZHgwR3BT?oc=5\" target=\"_blank\">AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMUQwT1FwQUpRVkhOQ2gzYTRaRW9PZC1nWEloVVZTaXFoUnFhaUFwd2hJWVo3Si1EV2p3Z0c2c2dZTDdMOUFDNGdMeTJaTjV4TXEwSkhRRHU5NWhpTnd5Ui16aG9vQ3gtdFRtVWN5TE9XUFNRWmtpUTBjbHUzdUd2QTNGdHdMLUxYSG52Z1lBci1pQWVHTklsd2hsVS01ZXJYek1WWGxaeXlscVljM3dqYWttZHgwR3BT?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-09-10",
+          "views": "18.0K"
+        },
+        {
+          "title": "Nasdaq Embraces Crypto Infrastructure with $100M Investment in Kraken - ETNEWS",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE40ZjZFb2pWd3BncmNacjFvSWk0MkY3SDlLSWJ4WUtTWVBaT0M2ckNiVEJnaHpRRFdOOGFxNkxrSl9tU1JjekJscERkSE8?oc=5\" target=\"_blank\">Nasdaq Embraces Crypto Infrastructure with $100M Investment in Kraken</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE40ZjZFb2pWd3BncmNacjFvSWk0MkY3SDlLSWJ4WUtTWVBaT0M2ckNiVEJnaHpRRFdOOGFxNkxrSl9tU1JjekJscERkSE8?oc=5",
+          "source": "전자신문",
+          "publishedAt": "2026-09-14",
+          "views": "13.0K"
+        },
+        {
+          "title": "COMMENTARY: Oil markets survived the Iran war sprint. Now comes the marathon - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYkNyZjhwWkFHcjR0aVV2b3lPNFROSy0tNDZBQVJpWE9JelJyVWhtNFJjWlY3OW56NmdXY2s3Q0luV1h1cGZnRXJiM0VzMWxqVDFROENnOEFFMHpPN2VfWXJYTjZ3TW1EWlZLdU16clZBN28wVlI4SXJYeWR1U3kzZlAyempIWXVhaC1LdWNKbVo3QS1YMjZucjZnd3FTdnNaWmpNd2phODkxTlFwcng2aWo3WjZhdUdCOXZBejRyaW5kdw?oc=5\" target=\"_blank\">COMMENTARY: Oil markets survived the Iran war sprint. Now comes the marathon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYkNyZjhwWkFHcjR0aVV2b3lPNFROSy0tNDZBQVJpWE9JelJyVWhtNFJjWlY3OW56NmdXY2s3Q0luV1h1cGZnRXJiM0VzMWxqVDFROENnOEFFMHpPN2VfWXJYTjZ3TW1EWlZLdU16clZBN28wVlI4SXJYeWR1U3kzZlAyempIWXVhaC1LdWNKbVo3QS1YMjZucjZnd3FTdnNaWmpNd2phODkxTlFwcng2aWo3WjZhdUdCOXZBejRyaW5kdw?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-09-14",
+          "views": "13.0K"
+        }
+      ]
     },
     {
       "name": "산업전략",
       "hashtag": "#산업전략",
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
-      "items": []
+      "items": [
+        {
+          "title": "Finance minister nominee backs January crypto tax rollout despite industry, opposition pushback - koreatimes.co.kr",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcHRfYzY1Qzc3NU1GcHBLck5hM2UtNTRKMjRiN0xHSDlCdHZRWFV3Nm5RVWJZcElaTHhRbXhsZjNCTFo5aXFUNDhGcVNRRjZOU0d5Mm1xZVBCVVdkOW9ZQlZ6aUUtM3FhSS1TcWlyRG9CQUpwaXdhOEl3MGtOVjVwTDVKdXNTcXp6Szg5ZmN1TGhRYkZfNGtwOENMN1pzMHVxc2hSZU1lejU4TFRTSjc3UndoZ0FFVVVnMW1HTlYwQWhBTlc1Q1dNWmZhcEZsRFpmLUpnX2xxai1lQzd5bkRFZ21hNGxVTHFWMUJN0gHwAUFVX3lxTE1mQTZSSDlkQ2J5MFh0bmdncXpUVmxMTXVqaW1XNlNvbmJDeFJVYUNrOFFzRTJDQzV5dGstOFkyRjVBOUZwQjNRQTRvb3lvUmwwQmZQVURub2w5UjJOTGxBUDVNQ0lmalAxajBBQVFMem9hbGpvRzZJa3lVVWJJa0VjU3phSUxxTXRzOS1Jc3ZaMU9IQTZqUXRaSlRVUVZjSWxhcWxYeGlOZVJBUjdHYk90aVJUVmZiWVUzMkdKLWxKTm1CVUh1M0FreHh3T2VrQnlPalZlME8yeThDYVpsT2ZieWJacmFqOGlBazR0d0ZaQw?oc=5\" target=\"_blank\">Finance minister nominee backs January crypto tax rollout despite industry, opposition pushback</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">koreatimes.co.kr</font>",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcHRfYzY1Qzc3NU1GcHBLck5hM2UtNTRKMjRiN0xHSDlCdHZRWFV3Nm5RVWJZcElaTHhRbXhsZjNCTFo5aXFUNDhGcVNRRjZOU0d5Mm1xZVBCVVdkOW9ZQlZ6aUUtM3FhSS1TcWlyRG9CQUpwaXdhOEl3MGtOVjVwTDVKdXNTcXp6Szg5ZmN1TGhRYkZfNGtwOENMN1pzMHVxc2hSZU1lejU4TFRTSjc3UndoZ0FFVVVnMW1HTlYwQWhBTlc1Q1dNWmZhcEZsRFpmLUpnX2xxai1lQzd5bkRFZ21hNGxVTHFWMUJN0gHwAUFVX3lxTE1mQTZSSDlkQ2J5MFh0bmdncXpUVmxMTXVqaW1XNlNvbmJDeFJVYUNrOFFzRTJDQzV5dGstOFkyRjVBOUZwQjNRQTRvb3lvUmwwQmZQVURub2w5UjJOTGxBUDVNQ0lmalAxajBBQVFMem9hbGpvRzZJa3lVVWJJa0VjU3phSUxxTXRzOS1Jc3ZaMU9IQTZqUXRaSlRVUVZjSWxhcWxYeGlOZVJBUjdHYk90aVJUVmZiWVUzMkdKLWxKTm1CVUh1M0FreHh3T2VrQnlPalZlME8yeThDYVpsT2ZieWJacmFqOGlBazR0d0ZaQw?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-09-13",
+          "views": "18.0K"
+        },
+        {
+          "title": "Korea to use manufacturing, defense industry capabilities for global peace: PM - koreatimes.co.kr",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPVjBUeXFnYk51bnhfV0FGR3oxc1JmbTBHVHZOZ3NEQ3BiZ01ZaGF4SWEtRU9OVlRrbW9GWWd5Xy1PWHVoTEZ5WGtUWnpLRC1oOUIxMk1HbnNhODgzYmlTSERlYmVCSDd4bERfTWtoLVFuUUx4ZGxsOU9tcWpKQkFNbDNxRXZKbDBZMFZPRTlsV2djSHhRTEVpaFphVEtLaW82XzVWbHAzU1lZUHdfVUJFYVZfTkVsWTktYk5OaVlyMVNIdVYzU1c5Mk5oTDFzb03SAdQBQVVfeXFMTmlOQnVPTzIwUDZkY3VkTUc3UVFPLU5NVFJNWVNVQi1IYVA1WlUtOWRsMjRXRkVIZXpUWnN0ZFUtR2JSZnRKV0NUSlBFQ0tOd29ZVVpsYllabVVhZnhkVjgtc203X3ZIY2Z2TUw5MXhWSW53RHdOMFJzY0kydFNpUUpYWkIxeExKc1EzLWRyWU1nSGxwSm5qSlJzY2Eza3dITmo3VHhYaktnZmZITjFSZVBCY244VTdvSFJ4T3JYeVlETXBFUFNrVld5WGpiaEpoUWZCak4?oc=5\" target=\"_blank\">Korea to use manufacturing, defense industry capabilities for global peace: PM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">koreatimes.co.kr</font>",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVjBUeXFnYk51bnhfV0FGR3oxc1JmbTBHVHZOZ3NEQ3BiZ01ZaGF4SWEtRU9OVlRrbW9GWWd5Xy1PWHVoTEZ5WGtUWnpLRC1oOUIxMk1HbnNhODgzYmlTSERlYmVCSDd4bERfTWtoLVFuUUx4ZGxsOU9tcWpKQkFNbDNxRXZKbDBZMFZPRTlsV2djSHhRTEVpaFphVEtLaW82XzVWbHAzU1lZUHdfVUJFYVZfTkVsWTktYk5OaVlyMVNIdVYzU1c5Mk5oTDFzb03SAdQBQVVfeXFMTmlOQnVPTzIwUDZkY3VkTUc3UVFPLU5NVFJNWVNVQi1IYVA1WlUtOWRsMjRXRkVIZXpUWnN0ZFUtR2JSZnRKV0NUSlBFQ0tOd29ZVVpsYllabVVhZnhkVjgtc203X3ZIY2Z2TUw5MXhWSW53RHdOMFJzY0kydFNpUUpYWkIxeExKc1EzLWRyWU1nSGxwSm5qSlJzY2Eza3dITmo3VHhYaktnZmZITjFSZVBCY244VTdvSFJ4T3JYeVlETXBFUFNrVld5WGpiaEpoUWZCak4?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-09-08",
+          "views": "18.0K"
+        },
+        {
+          "title": "Korea, US to hold high-level defense talks amid Hormuz deployment consideration - koreatimes.co.kr",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVkdxZWVBSG1HZEtqQkc0eTR4YkpxZjE3SXh3cndIV2Y2U3BGaE5kQjJwOHVOZXBlaTdYeXpUWWZaWkZZR3E0VUJYV3BOaTNUUVJhMklkek5aUVBmMDd2eTR4ZUdtY3lSLVR1SFJQVDlrYnJsUFUzbGU2SWx3QUIwMzhfRGdJc2hPb2hUNlRGYnBQNWRlSGE4Zy1za2I3cUotLVJsV2kzeERoQ1Nhc2hsdGNNZDZXSk5nVU04RmE3NnRwTURCY3FfNldLSVc0end0VF9aWERB0gHWAUFVX3lxTE1WR3FlZUFIbUdkS2pCRzR5NHhiSnFmMTdJeHdyd0hXZjZTcEZoTmRCMnA4dU5lcGVpN1h5elRZZlpaRllHcTRVQlhXcE5pM1RRUmEySWR6TlpRUGYwN3Z5NHhlR21jeVItVHVIUlBUOWticmxQVTNsZTZJbHdBQjAzOF9EZ0lzaE9vaFQ2VEZicFA1ZGVIYThnLXNrYjdxSi0tUmxXaTN4RGhDU2FzaGx0Y01kNldKTmdVTThGYTc2dHBNREJjcV82V0tJVzR6d3RUX1pYREE?oc=5\" target=\"_blank\">Korea, US to hold high-level defense talks amid Hormuz deployment consideration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">koreatimes.co.kr</font>",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVkdxZWVBSG1HZEtqQkc0eTR4YkpxZjE3SXh3cndIV2Y2U3BGaE5kQjJwOHVOZXBlaTdYeXpUWWZaWkZZR3E0VUJYV3BOaTNUUVJhMklkek5aUVBmMDd2eTR4ZUdtY3lSLVR1SFJQVDlrYnJsUFUzbGU2SWx3QUIwMzhfRGdJc2hPb2hUNlRGYnBQNWRlSGE4Zy1za2I3cUotLVJsV2kzeERoQ1Nhc2hsdGNNZDZXSk5nVU04RmE3NnRwTURCY3FfNldLSVc0end0VF9aWERB0gHWAUFVX3lxTE1WR3FlZUFIbUdkS2pCRzR5NHhiSnFmMTdJeHdyd0hXZjZTcEZoTmRCMnA4dU5lcGVpN1h5elRZZlpaRllHcTRVQlhXcE5pM1RRUmEySWR6TlpRUGYwN3Z5NHhlR21jeVItVHVIUlBUOWticmxQVTNsZTZJbHdBQjAzOF9EZ0lzaE9vaFQ2VEZicFA1ZGVIYThnLXNrYjdxSi0tUmxXaTN4RGhDU2FzaGx0Y01kNldKTmdVTThGYTc2dHBNREJjcV82V0tJVzR6d3RUX1pYREE?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-09-14",
+          "views": "13.0K"
+        }
+      ]
     }
   ]
 }
