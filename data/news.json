@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-15T04:50:24.099Z",
+  "lastUpdated": "2026-09-16T04:45:30.362Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -57,11 +57,11 @@
           "views": "23.0K"
         },
         {
-          "title": "Wall Street ends down, calls for AI slowdown pummel chipmakers - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQYVB5TUc4VTc5MGdNMjVWcVYxUUszYjdXU3hrVnZXbVRCRm40Z3JBX3BhTElKaXVFQmU4SW82WWRwLVdxcGFTVVhPclllM25kSzR0MWdqUmU5YjQydl9MZDhLZ1MzQmF0b01UY3MxaWx0VkxOMjJUQzhmbHJPQjQzdXJMWkJ2OGs5R0ZQc2FjeVpEdjZkM2VqMC1aeGhXSm8?oc=5\" target=\"_blank\">Wall Street ends down, calls for AI slowdown pummel chipmakers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYVB5TUc4VTc5MGdNMjVWcVYxUUszYjdXU3hrVnZXbVRCRm40Z3JBX3BhTElKaXVFQmU4SW82WWRwLVdxcGFTVVhPclllM25kSzR0MWdqUmU5YjQydl9MZDhLZ1MzQmF0b01UY3MxaWx0VkxOMjJUQzhmbHJPQjQzdXJMWkJ2OGs5R0ZQc2FjeVpEdjZkM2VqMC1aeGhXSm8?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-09-14",
+          "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNX3pZRml4TGIxQ2pRYVM1WTV3SUFNSTlBTlY4bkNtS3l0cW5abWwtQkxSV2szVEdmTVRrWmk0NDlVOW9NNW5rd2tEaUtGRGdQdkNId3RrME1udWV0V0FvMi1GcUJpeFhWVEcwQ3hMc3BFQWJLcV90dUl1Z2tJa2xwcm5TcjZCMWZxRTRpN0pqb2NueE9tb19EOEFONnV0QXpjSDc4RDVRYU5nQWY3WXFLRjZWRHk0Zw?oc=5\" target=\"_blank\">Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNX3pZRml4TGIxQ2pRYVM1WTV3SUFNSTlBTlY4bkNtS3l0cW5abWwtQkxSV2szVEdmTVRrWmk0NDlVOW9NNW5rd2tEaUtGRGdQdkNId3RrME1udWV0V0FvMi1GcUJpeFhWVEcwQ3hMc3BFQWJLcV90dUl1Z2tJa2xwcm5TcjZCMWZxRTRpN0pqb2NueE9tb19EOEFONnV0QXpjSDc4RDVRYU5nQWY3WXFLRjZWRHk0Zw?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-09-15",
           "views": "18.0K"
         },
         {
@@ -69,7 +69,7 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ2o0V3htdFZCT1R5VFoxR0JHNDk3QzRxOHdlYXdzdUE4c2hXbUI2WFVLUmM0RFRwN2V2TUdUVlFEcy0tY0Z6eEVySHhaN213M29CdTIwYmJyNjBqU1BkYUhOQVpVYTlXam9jbnNvTV9LVS0zd2xodVBvdVlsRThtcTVCeDExdGRKYnA5S3o0bjllMk1WMFc1NXVCYS1JSFNCNkFfX09ZY1NscGNORFEzTW0xZFc?oc=5\" target=\"_blank\">How Anthropic says Claude was used for weapons, spying and cyber operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ2o0V3htdFZCT1R5VFoxR0JHNDk3QzRxOHdlYXdzdUE4c2hXbUI2WFVLUmM0RFRwN2V2TUdUVlFEcy0tY0Z6eEVySHhaN213M29CdTIwYmJyNjBqU1BkYUhOQVpVYTlXam9jbnNvTV9LVS0zd2xodVBvdVlsRThtcTVCeDExdGRKYnA5S3o0bjllMk1WMFc1NXVCYS1JSFNCNkFfX09ZY1NscGNORFEzTW0xZFc?oc=5",
           "source": "Reuters AI",
-          "publishedAt": "2026-09-11",
+          "publishedAt": "2026-09-14",
           "views": "18.0K"
         }
       ]
@@ -79,6 +79,14 @@
       "hashtag": "#활용사례",
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
+        {
+          "title": "Should all enterprise code and workflows become natural language? G5 Labs thinks so, and its new G5 platform does it for you - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbzRyX2NZWHFnWDdIU3VzNG9mSGNGUUtCcHBzQ3pScGVIMEFIWm8tQlg0ZS1nY29tb21nNXNtc2hJd05YdkRWSWdUNEJhR0owcnpYTUR4U1pFNTFTOWQ5WWtuUFdqVUlXT1N6WVc3ME1ZN0FmTW1IcmRsZFUzZEdXS2FfLUhZSXZUSjdxSkdtNnpOVk55TnlaMlJvb3NYRlBCMUMxUUNvVVltNldZVk1iREY2Q3ptX1BNZVNteWlKRnhMSURQUXdkT2FuckU1WjhsX0h1OXdDd1o0UmJVaTJ3Z2xNbFo1S0R1NGdHdWFn?oc=5\" target=\"_blank\">Should all enterprise code and workflows become natural language? G5 Labs thinks so, and its new G5 platform does it for you</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbzRyX2NZWHFnWDdIU3VzNG9mSGNGUUtCcHBzQ3pScGVIMEFIWm8tQlg0ZS1nY29tb21nNXNtc2hJd05YdkRWSWdUNEJhR0owcnpYTUR4U1pFNTFTOWQ5WWtuUFdqVUlXT1N6WVc3ME1ZN0FmTW1IcmRsZFUzZEdXS2FfLUhZSXZUSjdxSkdtNnpOVk55TnlaMlJvb3NYRlBCMUMxUUNvVVltNldZVk1iREY2Q3ptX1BNZVNteWlKRnhMSURQUXdkT2FuckU1WjhsX0h1OXdDd1o0UmJVaTJ3Z2xNbFo1S0R1NGdHdWFn?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-09-15",
+          "views": "18.0K"
+        },
         {
           "title": "Why Most Enterprise Agent Pilots Never Reach Deployment - AI News",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGdYb3RCVk1fSVU1Z1ZJZjFtelNGOXBpWUhIbmhxN3NxRHg1UFAxS2FVeldGQ1NZOUphSEVhdk0zbl9maUt6b1psUG9scElJZ0lHcW9CT2R3Z1dRQ0l5ZmhhRXhwc0FZWUlmUXFtM1BNdF9oWHAzbGw2M29xM2RPVVJsRC1tRUc1NF9BNms4eEk3emlYMW10Rmp0U0l2LS1YNlozQkxiMmc?oc=5\" target=\"_blank\">Why Most Enterprise Agent Pilots Never Reach Deployment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI News</font>",
@@ -94,14 +102,6 @@
           "source": "TechCrunch AI",
           "publishedAt": "2026-09-09",
           "views": "18.0K"
-        },
-        {
-          "title": "AI agents blew the whistle on their cheating colleagues - MIT Technology Review",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNYjdubHBHRkVJRFJOalI4emFrRGYtWm5ZekRsVDQyQmRFNW51UlJGN2x0TktGOWdaUlFFb25LUDc1clJwM1V2cUEycjBoQ0V5d3RGR3BET2hCTXZ6d0ktdEdhRDZjZlJFMHBRYzFYU0t6d1hZZlJMM19WYWM0bDZxMGk5WUpZV0plaEkydEZ1SGZMNkVUb29uUlVDTW53d9IBowFBVV95cUxQbm9fdFRfQnkwNEFCUVh0Y2VOS205eFVDQXE2MWFRMDlySURIUk9BS05uNTJPczNaa0MxaHRiY3d4dWExNnJ4eVNuclE3NGdMckZzdVBOS3E4WDR3TFNBSURMbmQyZlVEdmNUbGpyLURoaUxLVU1IRkItZWVIQzNrUjFhc2dScTFhRE9fVFRUa0tjUjBTV1JTc2xySXNhUUswb3VZ?oc=5\" target=\"_blank\">AI agents blew the whistle on their cheating colleagues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MIT Technology Review</font>",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYjdubHBHRkVJRFJOalI4emFrRGYtWm5ZekRsVDQyQmRFNW51UlJGN2x0TktGOWdaUlFFb25LUDc1clJwM1V2cUEycjBoQ0V5d3RGR3BET2hCTXZ6d0ktdEdhRDZjZlJFMHBRYzFYU0t6d1hZZlJMM19WYWM0bDZxMGk5WUpZV0plaEkydEZ1SGZMNkVUb29uUlVDTW53d9IBowFBVV95cUxQbm9fdFRfQnkwNEFCUVh0Y2VOS205eFVDQXE2MWFRMDlySURIUk9BS05uNTJPczNaa0MxaHRiY3d4dWExNnJ4eVNuclE3NGdMckZzdVBOS3E4WDR3TFNBSURMbmQyZlVEdmNUbGpyLURoaUxLVU1IRkItZWVIQzNrUjFhc2dScTFhRE9fVFRUa0tjUjBTV1JTc2xySXNhUUswb3VZ?oc=5",
-          "source": "MIT Technology Review (AI)",
-          "publishedAt": "2026-09-14",
-          "views": "13.0K"
         }
       ]
     },
@@ -110,6 +110,14 @@
       "hashtag": "#윤리",
       "description": "규제, 책임, 신뢰, 저작권 같은 문제를 보는 관점",
       "items": [
+        {
+          "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTW5yQnNCZkM1c1JRdjA5eFNnTnV4d0dfa2xPcWNrcGFwZ3Z0eTR1UUlWRFhtMlBKU0JfNVdnU1ZzV25Ea282aXhfZ3BkLXVnZ1pHbTIxQkI1enlyMmh6RldUNllKUkhGNUtDZVJMU3JFaVQzaGtVN29zQWZMOTMwYXc1bjFsNnJ5YVVadGtmN29RTENOSDdOcWREY3V3eTUxS1dIOEEtdXJjdw?oc=5\" target=\"_blank\">We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTW5yQnNCZkM1c1JRdjA5eFNnTnV4d0dfa2xPcWNrcGFwZ3Z0eTR1UUlWRFhtMlBKU0JfNVdnU1ZzV25Ea282aXhfZ3BkLXVnZ1pHbTIxQkI1enlyMmh6RldUNllKUkhGNUtDZVJMU3JFaVQzaGtVN29zQWZMOTMwYXc1bjFsNnJ5YVVadGtmN29RTENOSDdOcWREY3V3eTUxS1dIOEEtdXJjdw?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-09-16",
+          "views": "18.0K"
+        },
         {
           "title": "ECB policymakers open door to more rate hikes on energy risk - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNWklVYjJxbm9nQW5MaVNFTWx6czNqTmVUY1h0V2hybm1keW9fWV9Hal9ORlFZSVNPN0g0NVBNZDZ2SVdreHlzcE5YS3Fnd2RGci1lZDF6RUVocmF1Y2Z1UUQzU0hPczNCUTdubFJmWDdrRTREd0cyalFLNXluUDJNZjgzQU1SMkFsVEZiZ3RwblVNYmJ6MmdTWE0yd3dnT0ZTTHJyOW5uYw?oc=5\" target=\"_blank\">ECB policymakers open door to more rate hikes on energy risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
@@ -125,14 +133,6 @@
           "source": "The Korea Times",
           "publishedAt": "2026-09-10",
           "views": "18.0K"
-        },
-        {
-          "title": "OpenAI, New York Times case tees up key test of AI training under copyright law - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPNm9Dck5iY3gydVpGQlBFVU5mcF9oa0Qzd0Y5OWN4ZjRVb2huWDBWeFVUeXhQejZZTkdUd3JfZDhZN095X21HODJSdnJ4MVhyMjZQWjVuSXJrM1dMN3dZdkcwMG1NMnB0V05ENDhoN2hKakZLZDExczNYNUlEXzNFcXVQTUdNMDI0THVKYWxuc3dheVBMNUpqdGNHcENOMlpyLUhPVnFTM1JYZURNOWM2dnktUGo1Q3JtdlBpb29uUF9jNVRlVnlR?oc=5\" target=\"_blank\">OpenAI, New York Times case tees up key test of AI training under copyright law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNm9Dck5iY3gydVpGQlBFVU5mcF9oa0Qzd0Y5OWN4ZjRVb2huWDBWeFVUeXhQejZZTkdUd3JfZDhZN095X21HODJSdnJ4MVhyMjZQWjVuSXJrM1dMN3dZdkcwMG1NMnB0V05ENDhoN2hKakZLZDExczNYNUlEXzNFcXVQTUdNMDI0THVKYWxuc3dheVBMNUpqdGNHcENOMlpyLUhPVnFTM1JYZURNOWM2dnktUGo1Q3JtdlBpb29uUF9jNVRlVnlR?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-09-08",
-          "views": "18.0K"
         }
       ]
     },
@@ -142,28 +142,28 @@
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
         {
+          "title": "AI coding agent startup Factory triples valuation to $5 billion in latest funding round - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNG85U1M2Y1MtNHBfZmxIS3FNNWZELW5UeVM4dzFvQUI3R1VxZ1hCS1NPMnZZM3pNZXRWNE5HcG9XNXVvbzFXLVJQRG0zYXE0bHRoZy1kVmdsSFloX0ZWa1lDM1owQWs2NTNsTmo2OE1JemRFd3dPSXFGVzZuc1NBdnNNR3BHemVlSk51OVFwcUIyVGxJZGs5clZ2cGVoT1Ruc29OeFMydExnc3cyQWQ0TTRMN3ItM25YbkRkSXFyWkVRRHc?oc=5\" target=\"_blank\">AI coding agent startup Factory triples valuation to $5 billion in latest funding round</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNG85U1M2Y1MtNHBfZmxIS3FNNWZELW5UeVM4dzFvQUI3R1VxZ1hCS1NPMnZZM3pNZXRWNE5HcG9XNXVvbzFXLVJQRG0zYXE0bHRoZy1kVmdsSFloX0ZWa1lDM1owQWs2NTNsTmo2OE1JemRFd3dPSXFGVzZuc1NBdnNNR3BHemVlSk51OVFwcUIyVGxJZGs5clZ2cGVoT1Ruc29OeFMydExnc3cyQWQ0TTRMN3ItM25YbkRkSXFyWkVRRHc?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-09-15",
+          "views": "18.0K"
+        },
+        {
+          "title": "UK jobs market stays soft before BoE rate call - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOT0lBbDYxOGhrSXNYeGJvbUhXX1Y4UTRCSTZDZXBzaFBRaFdlUzRXX1VkNFhoNmxTSmdYaG4xcWhyV1JEblpESmZsT09zemllQWNodWY3anVPeFRxRkw3cnZKd09BQWNZTFlTclFFX3d4RUFlLVRpWUFHZmpPMmlUWDRVUl9qeENGTXc?oc=5\" target=\"_blank\">UK jobs market stays soft before BoE rate call</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT0lBbDYxOGhrSXNYeGJvbUhXX1Y4UTRCSTZDZXBzaFBRaFdlUzRXX1VkNFhoNmxTSmdYaG4xcWhyV1JEblpESmZsT09zemllQWNodWY3anVPeFRxRkw3cnZKd09BQWNZTFlTclFFX3d4RUFlLVRpWUFHZmpPMmlUWDRVUl9qeENGTXc?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-09-15",
+          "views": "18.0K"
+        },
+        {
           "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks - TechCrunch",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMUQwT1FwQUpRVkhOQ2gzYTRaRW9PZC1nWEloVVZTaXFoUnFhaUFwd2hJWVo3Si1EV2p3Z0c2c2dZTDdMOUFDNGdMeTJaTjV4TXEwSkhRRHU5NWhpTnd5Ui16aG9vQ3gtdFRtVWN5TE9XUFNRWmtpUTBjbHUzdUd2QTNGdHdMLUxYSG52Z1lBci1pQWVHTklsd2hsVS01ZXJYek1WWGxaeXlscVljM3dqYWttZHgwR3BT?oc=5\" target=\"_blank\">AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMUQwT1FwQUpRVkhOQ2gzYTRaRW9PZC1nWEloVVZTaXFoUnFhaUFwd2hJWVo3Si1EV2p3Z0c2c2dZTDdMOUFDNGdMeTJaTjV4TXEwSkhRRHU5NWhpTnd5Ui16aG9vQ3gtdFRtVWN5TE9XUFNRWmtpUTBjbHUzdUd2QTNGdHdMLUxYSG52Z1lBci1pQWVHTklsd2hsVS01ZXJYek1WWGxaeXlscVljM3dqYWttZHgwR3BT?oc=5",
           "source": "TechCrunch AI",
           "publishedAt": "2026-09-10",
           "views": "18.0K"
-        },
-        {
-          "title": "Culture ministry unveils plan to spread arts funding beyond Seoul - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOV1pyU2N5RjliSWx4bmFseVlyVlVaSFdrSzJVdUhzSkNwUWl1S1U5R25jWFVZbHc2OWkteGQ3YURzbVdXaHpZUEl5b3gxVk9pWDNWQlJtdDhJZjRtM05Sa2gxVFpOUjZJdFFpcGVza2xxd0ZSVEhRS1pBM1lVa0pfblBXWlNQRnFuSHg4M011WDEwTFhVYlFqckpGZHZZTWZyck1aYl9JVmJrUkZVUHZuWnNDZmk4Skt6T3VKTkNyR21aVkFiZk5NMGdLbExwYXUxakVuS2Z6Q23SAcgBQVVfeXFMTnJ4MUJzVTVCLWFobWhSSE5kV2FYT3hlMElqWDFWSzE5eERlY291U3BUcDNCQmE1U2tSRlZUOW9qaW44dUNreTNXMXRid0VTampXR2F1d0ZsRVU4TTlGSHdyb2dkcHVXUTNFZm83YUdmVW5WVkYzQWpiN0JmVjVXTTN6R0plbWs0U3p3UGh3X1ZwSUl4NW1zeHl2QUJFVl8zZmN4ZjEySGpXNlVOdXF5ajNScjVIRW5mWlpTa3M3bFplMXJmVDhjRGw?oc=5\" target=\"_blank\">Culture ministry unveils plan to spread arts funding beyond Seoul</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOV1pyU2N5RjliSWx4bmFseVlyVlVaSFdrSzJVdUhzSkNwUWl1S1U5R25jWFVZbHc2OWkteGQ3YURzbVdXaHpZUEl5b3gxVk9pWDNWQlJtdDhJZjRtM05Sa2gxVFpOUjZJdFFpcGVza2xxd0ZSVEhRS1pBM1lVa0pfblBXWlNQRnFuSHg4M011WDEwTFhVYlFqckpGZHZZTWZyck1aYl9JVmJrUkZVUHZuWnNDZmk4Skt6T3VKTkNyR21aVkFiZk5NMGdLbExwYXUxakVuS2Z6Q23SAcgBQVVfeXFMTnJ4MUJzVTVCLWFobWhSSE5kV2FYT3hlMElqWDFWSzE5eERlY291U3BUcDNCQmE1U2tSRlZUOW9qaW44dUNreTNXMXRid0VTampXR2F1d0ZsRVU4TTlGSHdyb2dkcHVXUTNFZm83YUdmVW5WVkYzQWpiN0JmVjVXTTN6R0plbWs0U3p3UGh3X1ZwSUl4NW1zeHl2QUJFVl8zZmN4ZjEySGpXNlVOdXF5ajNScjVIRW5mWlpTa3M3bFplMXJmVDhjRGw?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-09-15",
-          "views": "13.0K"
-        },
-        {
-          "title": "test Seoul biotech startups enter Boston pipeline through LabCentral - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPN3EzTFVxcmhWN1Itd0EyVlVwRGdkbjU1czJkUlVybl84RHJlUnBRaDhOamNUZ283bTB4Um1wR1RCM2xyV1VpR2RUeC12aWVoV3hYSTVwSHNCWEdnTlBDUWVIUnhoTDZoXzJkY1JmejJBRlJsajY4a0dpc3hya1dLVDVHN1I0SmxIcWdyR2pVMHBBd0lyZWJsY1pTTmtYOXg4TDZYQWREUWlxNGNFUjZaWW0tb1BIbzBYdk5zSWtn0gG-AUFVX3lxTE83cTNMVXFyaFY3Ui13QTJWVXBEZ2RuNTVzMmRSVXJuXzhEcmVScFFoOE5qY1RnbzdtMHhSbXBHVEIzbHJXVWlHZFR4LXZpZWhXeFhJNXBIc0JYR2dOUENRZUhSeGhMNmhfMmRjUmZ6MkFGUmxqNjhrR2lzeHJrV0tUNUc3UjRKbEhxZ3JHalUwcEF3SXJlYmxjWlNOa1g5eDhMNlhBZERRaXE0Y0VSNlpZbS1vUEhvMFh2TnNJa2c?oc=5\" target=\"_blank\">test Seoul biotech startups enter Boston pipeline through LabCentral</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPN3EzTFVxcmhWN1Itd0EyVlVwRGdkbjU1czJkUlVybl84RHJlUnBRaDhOamNUZ283bTB4Um1wR1RCM2xyV1VpR2RUeC12aWVoV3hYSTVwSHNCWEdnTlBDUWVIUnhoTDZoXzJkY1JmejJBRlJsajY4a0dpc3hya1dLVDVHN1I0SmxIcWdyR2pVMHBBd0lyZWJsY1pTTmtYOXg4TDZYQWREUWlxNGNFUjZaWW0tb1BIbzBYdk5zSWtn0gG-AUFVX3lxTE83cTNMVXFyaFY3Ui13QTJWVXBEZ2RuNTVzMmRSVXJuXzhEcmVScFFoOE5qY1RnbzdtMHhSbXBHVEIzbHJXVWlHZFR4LXZpZWhXeFhJNXBIc0JYR2dOUENRZUhSeGhMNmhfMmRjUmZ6MkFGUmxqNjhrR2lzeHJrV0tUNUc3UjRKbEhxZ3JHalUwcEF3SXJlYmxjWlNOa1g5eDhMNlhBZERRaXE0Y0VSNlpZbS1vUEhvMFh2TnNJa2c?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-09-15",
-          "views": "13.0K"
         }
       ]
     },
@@ -181,17 +181,17 @@
           "views": "18.0K"
         },
         {
-          "title": "President Trump's new strategy on the Iran war: Pretending there isn't one - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdG9ZYzgyM1lKbzRXRjZfV01McG9vSHZ6bFJxbzRLcmVGalZMU3hVOXdUZnFCa193Z2pSUzhjQTZIZWpRRlZKQ1YzTWRUSFhncE5Dd2tPazY0VWF2RVRFR2NlNno0ZXoyeU9QbzE2NTBjSEJDRzNpLWRDX0Nvak5Pb1luUksxZDdhSmwtQUsxbE10c184eXN1NGpsNlJkM2VWUDZfVWY4TU85U2Zvbzc3ZXRrdDlUVlli0gG-AUFVX3lxTE1uZEtjQldrRklnZWRvNFZsUWFWNUtpNjRKaUhHc2xEMUtRTktFVnZ1LVA1MTJBRWVmNUxqM21kVThCWEpPbzIyaEdsc3g5VU1ZREY4dnEtMzg4a09TMHBTNXBZalI5ZU5OVk9sLUwtNEtOYWFZaEdlOUJxZ2NJeHdQUzVGcGpRN3VVcWJIVHpoak50b1FQcG1aNTlVdkFvSHlTTS1oTVh3TzNzRno5amlkbzItSjYtM1I0ZjFHUFE?oc=5\" target=\"_blank\">President Trump's new strategy on the Iran war: Pretending there isn't one</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdG9ZYzgyM1lKbzRXRjZfV01McG9vSHZ6bFJxbzRLcmVGalZMU3hVOXdUZnFCa193Z2pSUzhjQTZIZWpRRlZKQ1YzTWRUSFhncE5Dd2tPazY0VWF2RVRFR2NlNno0ZXoyeU9QbzE2NTBjSEJDRzNpLWRDX0Nvak5Pb1luUksxZDdhSmwtQUsxbE10c184eXN1NGpsNlJkM2VWUDZfVWY4TU85U2Zvbzc3ZXRrdDlUVlli0gG-AUFVX3lxTE1uZEtjQldrRklnZWRvNFZsUWFWNUtpNjRKaUhHc2xEMUtRTktFVnZ1LVA1MTJBRWVmNUxqM21kVThCWEpPbzIyaEdsc3g5VU1ZREY4dnEtMzg4a09TMHBTNXBZalI5ZU5OVk9sLUwtNEtOYWFZaEdlOUJxZ2NJeHdQUzVGcGpRN3VVcWJIVHpoak50b1FQcG1aNTlVdkFvSHlTTS1oTVh3TzNzRno5amlkbzItSjYtM1I0ZjFHUFE?oc=5",
+          "title": "Army chiefs of Korea, Poland discuss expanding military, defense industry cooperation - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRjFPVW12UTF1REpfNTBIVk1EaWJBb3Nfb21LeEEtRGYySU05NWlHc2FVTV9xRTcxR3FCVTVDU0JQcTZBbWxJa21YT3pPOVUtRkN6ZGUtWElSVTQyRjZ3QUptMkF0MDJ6TExibXhsU1ZFZDAyYmpZRUtJWVhjV0hWRk9tVmlrRnp5VnVUUkNYSDZWcnRKZ0VSNktYa09TeW9Qek43VXB2VEk0V25SWUJOaktMMTU1OFRkR3B5bHpseGhaM1FIYl8tRUV0S1dRNkY1dFcyQkU2TdIB3AFBVV95cUxQaFp3LThUZ1ZfdlVoNkowcWQzZWhYU1RzZUJMMnhqNGVkZmlRd3lqdmR0aTVxRHI3aU1EOFRQbHN6TE9RQnVJLU56VktJbm56TTBSWWp3TFNsSkFzSGh5LThBM0NfdzM5ejl2STlPRkQtdzUtUDZTNDhmTS1JUk0xejFkODZCejM0aVZ6WW93SlhYWnVkODNWcTJtQkUtY1RHS0VxdU9OZEhTc3lSTW4zXzgyVTV5U19qbnk5U0hPTjVDUGJjQzhnT3J6Ym5sdEVWaTlaUnhoVzdtQ0di?oc=5\" target=\"_blank\">Army chiefs of Korea, Poland discuss expanding military, defense industry cooperation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRjFPVW12UTF1REpfNTBIVk1EaWJBb3Nfb21LeEEtRGYySU05NWlHc2FVTV9xRTcxR3FCVTVDU0JQcTZBbWxJa21YT3pPOVUtRkN6ZGUtWElSVTQyRjZ3QUptMkF0MDJ6TExibXhsU1ZFZDAyYmpZRUtJWVhjV0hWRk9tVmlrRnp5VnVUUkNYSDZWcnRKZ0VSNktYa09TeW9Qek43VXB2VEk0V25SWUJOaktMMTU1OFRkR3B5bHpseGhaM1FIYl8tRUV0S1dRNkY1dFcyQkU2TdIB3AFBVV95cUxQaFp3LThUZ1ZfdlVoNkowcWQzZWhYU1RzZUJMMnhqNGVkZmlRd3lqdmR0aTVxRHI3aU1EOFRQbHN6TE9RQnVJLU56VktJbm56TTBSWWp3TFNsSkFzSGh5LThBM0NfdzM5ejl2STlPRkQtdzUtUDZTNDhmTS1JUk0xejFkODZCejM0aVZ6WW93SlhYWnVkODNWcTJtQkUtY1RHS0VxdU9OZEhTc3lSTW4zXzgyVTV5U19qbnk5U0hPTjVDUGJjQzhnT3J6Ym5sdEVWaTlaUnhoVzdtQ0di?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-09-15",
+          "publishedAt": "2026-09-16",
           "views": "13.0K"
         },
         {
-          "title": "What Washington's tariff push means for Korea's semiconductor industry - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQcWVzNVlkZHlaZFNiSlc0UnYydDVkeXkyeUJmWkdWRExUSGFfV1JDbXZla1cxei03b2hQcDlkWjM5RUpfNGhyQ2x2OFY1X3VRNzRUcGhhekxKRUtMTzhNVGZ1dzNaa0pOTWRUT2tyVWpmV2l5T3RPV2tWc2FvWktLRGRYbzl1OFdXR1pibkt4R3RPNDZCZThSVDRWRk5BSFF6a2tqTjh1QWMtcWs1ZkZzTmRSQTV1SGx1YmfSAboBQVVfeXFMUHFlczVZZGR5WmRTYkpXNFJ2MnQ1ZHl5MnlCZlpHVkRMVEhhX1dSQ212ZWtXMXotN29oUHA5ZFozOUVKXzRockNsdjhWNV91UTc0VHBoYXpMSkVLTE84TVRmdXczWmtKTk1kVE9rclVqZldpeU90T1drVnNhb1pLS0RkWG85dThXV0daYm5LeEd0TzQ2QmU4UlQ0VkZOQUhRemtrak44dUFjLXFrNWZGc05kUkE1dUhsdWJn?oc=5\" target=\"_blank\">What Washington's tariff push means for Korea's semiconductor industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcWVzNVlkZHlaZFNiSlc0UnYydDVkeXkyeUJmWkdWRExUSGFfV1JDbXZla1cxei03b2hQcDlkWjM5RUpfNGhyQ2x2OFY1X3VRNzRUcGhhekxKRUtMTzhNVGZ1dzNaa0pOTWRUT2tyVWpmV2l5T3RPV2tWc2FvWktLRGRYbzl1OFdXR1pibkt4R3RPNDZCZThSVDRWRk5BSFF6a2tqTjh1QWMtcWs1ZkZzTmRSQTV1SGx1YmfSAboBQVVfeXFMUHFlczVZZGR5WmRTYkpXNFJ2MnQ1ZHl5MnlCZlpHVkRMVEhhX1dSQ212ZWtXMXotN29oUHA5ZFozOUVKXzRockNsdjhWNV91UTc0VHBoYXpMSkVLTE84TVRmdXczWmtKTk1kVE9rclVqZldpeU90T1drVnNhb1pLS0RkWG85dThXV0daYm5LeEd0TzQ2QmU4UlQ0VkZOQUhRemtrak44dUFjLXFrNWZGc05kUkE1dUhsdWJn?oc=5",
+          "title": "President Trump's new strategy on the Iran war: Pretending there isn't one - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdG9ZYzgyM1lKbzRXRjZfV01McG9vSHZ6bFJxbzRLcmVGalZMU3hVOXdUZnFCa193Z2pSUzhjQTZIZWpRRlZKQ1YzTWRUSFhncE5Dd2tPazY0VWF2RVRFR2NlNno0ZXoyeU9QbzE2NTBjSEJDRzNpLWRDX0Nvak5Pb1luUksxZDdhSmwtQUsxbE10c184eXN1NGpsNlJkM2VWUDZfVWY4TU85U2Zvbzc3ZXRrdDlUVlli0gG-AUFVX3lxTE1uZEtjQldrRklnZWRvNFZsUWFWNUtpNjRKaUhHc2xEMUtRTktFVnZ1LVA1MTJBRWVmNUxqM21kVThCWEpPbzIyaEdsc3g5VU1ZREY4dnEtMzg4a09TMHBTNXBZalI5ZU5OVk9sLUwtNEtOYWFZaEdlOUJxZ2NJeHdQUzVGcGpRN3VVcWJIVHpoak50b1FQcG1aNTlVdkFvSHlTTS1oTVh3TzNzRno5amlkbzItSjYtM1I0ZjFHUFE?oc=5\" target=\"_blank\">President Trump's new strategy on the Iran war: Pretending there isn't one</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdG9ZYzgyM1lKbzRXRjZfV01McG9vSHZ6bFJxbzRLcmVGalZMU3hVOXdUZnFCa193Z2pSUzhjQTZIZWpRRlZKQ1YzTWRUSFhncE5Dd2tPazY0VWF2RVRFR2NlNno0ZXoyeU9QbzE2NTBjSEJDRzNpLWRDX0Nvak5Pb1luUksxZDdhSmwtQUsxbE10c184eXN1NGpsNlJkM2VWUDZfVWY4TU85U2Zvbzc3ZXRrdDlUVlli0gG-AUFVX3lxTE1uZEtjQldrRklnZWRvNFZsUWFWNUtpNjRKaUhHc2xEMUtRTktFVnZ1LVA1MTJBRWVmNUxqM21kVThCWEpPbzIyaEdsc3g5VU1ZREY4dnEtMzg4a09TMHBTNXBZalI5ZU5OVk9sLUwtNEtOYWFZaEdlOUJxZ2NJeHdQUzVGcGpRN3VVcWJIVHpoak50b1FQcG1aNTlVdkFvSHlTTS1oTVh3TzNzRno5amlkbzItSjYtM1I0ZjFHUFE?oc=5",
           "source": "The Korea Times",
           "publishedAt": "2026-09-15",
           "views": "13.0K"
