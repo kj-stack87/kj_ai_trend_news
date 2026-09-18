@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T04:48:40.475Z",
+  "lastUpdated": "2026-09-18T04:39:05.538Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,12 +49,20 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
-          "title": "DeepSeek-V4.1-Flash debuts with $0.003/1M off-peak cached-input rate and benchmarks eclipsing GPT-5.6 Sol, Claude Opus 5 - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUXAxdU5ESG9vS2EtNk9Sd1NCUDEzSzgyRnpNTjhIQXBhWExvV3UzS0lQNWNkN3lsaVMtNENINzdaRGRja3ZnbTRDNGJIeDBHeVRtcHBzOU9aLWotVnBXRDd5SGRBb1hHMjRrcDA4UmdVWUZzSTg1bGhuajYteHg2Y25mdU16VkwwVlNyaklQSFhBWmRWOUdvUkwyMlJmLXV0UUVOczNJZkpHVF84VUhISzlWMEdJXzVnRHdhTndpX1l3ekt3YnEyaGlYdlJ5QTNkcURfM0ZkbGlfR3dPcUcyd1E5RzluLUtU?oc=5\" target=\"_blank\">DeepSeek-V4.1-Flash debuts with $0.003/1M off-peak cached-input rate and benchmarks eclipsing GPT-5.6 Sol, Claude Opus 5</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUXAxdU5ESG9vS2EtNk9Sd1NCUDEzSzgyRnpNTjhIQXBhWExvV3UzS0lQNWNkN3lsaVMtNENINzdaRGRja3ZnbTRDNGJIeDBHeVRtcHBzOU9aLWotVnBXRDd5SGRBb1hHMjRrcDA4UmdVWUZzSTg1bGhuajYteHg2Y25mdU16VkwwVlNyaklQSFhBWmRWOUdvUkwyMlJmLXV0UUVOczNJZkpHVF84VUhISzlWMEdJXzVnRHdhTndpX1l3ekt3YnEyaGlYdlJ5QTNkcURfM0ZkbGlfR3dPcUcyd1E5RzluLUtU?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-09-10",
-          "views": "23.0K"
+          "title": "Anthropic says its model Claude is helping to build the next version of itself - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPYTZqSmJyRFVmLWtPTWdtVk5nWG5ia1p6cEptdGhsb0s5UG1fQ0NtM0JEWGREYjV0Z250aUJBYkprLXdIclBaQjcxS09GWjdIMGVLWHdqSi1BUmd3UTZMNE9LcVI1dndjekdpMldyZGtMQVNYUmxGTV9NdHYteG5CeHFwOWtNRndETGppZFZSQmtrby1kSEZLMS16TDNoaTVYNVY0a2UwcWo5VEM1U2xTNHcxYU0xU0tTZnE3eGZtSdIBxAFBVV95cUxQdWliWVNYSi1zZXZiY2pBT0J3ZXVXeTdySGtXZ0w2cVNIeFZ1alpMOWN1akN3WTVPSzI3V0lzTGdZZlliWTdqb3pISHFCejA0VnQyUjJTNEY0X0JINExXRnlhalRkQ2Fpa3d6bmp5aEFNakJFVlZJM0JkaWZMbndicFJYQkhBTDlRaWM3dU5rQ0NyT3plQnpraFRaRWp4Qm1GaVJYLWdSaVpCMnhnNXhVUWRXYkxqdHZicUowMDNGTlZNWjJJ?oc=5\" target=\"_blank\">Anthropic says its model Claude is helping to build the next version of itself</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYTZqSmJyRFVmLWtPTWdtVk5nWG5ia1p6cEptdGhsb0s5UG1fQ0NtM0JEWGREYjV0Z250aUJBYkprLXdIclBaQjcxS09GWjdIMGVLWHdqSi1BUmd3UTZMNE9LcVI1dndjekdpMldyZGtMQVNYUmxGTV9NdHYteG5CeHFwOWtNRndETGppZFZSQmtrby1kSEZLMS16TDNoaTVYNVY0a2UwcWo5VEM1U2xTNHcxYU0xU0tTZnE3eGZtSdIBxAFBVV95cUxQdWliWVNYSi1zZXZiY2pBT0J3ZXVXeTdySGtXZ0w2cVNIeFZ1alpMOWN1akN3WTVPSzI3V0lzTGdZZlliWTdqb3pISHFCejA0VnQyUjJTNEY0X0JINExXRnlhalRkQ2Fpa3d6bmp5aEFNakJFVlZJM0JkaWZMbndicFJYQkhBTDlRaWM3dU5rQ0NyT3plQnpraFRaRWp4Qm1GaVJYLWdSaVpCMnhnNXhVUWRXYkxqdHZicUowMDNGTlZNWjJJ?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-09-18",
+          "views": "18.0K"
+        },
+        {
+          "title": "Anthropic says Claude now leads a quarter of work building its next AI models - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOTlkTk8zR3FVNjBtYTRfeEZQWU9zWHhWUE00dUhyMDhMUHZDRF90dlhuUDhYS3QweW9ZejB1U0tNQ0dFQjIxZ1lFLXhfdEliaHN3MzJZV0JYRnJMc0pyU2k4dmdyX2tPR1VOX0RRdmVJUkZ1bWZCcVJ5czg4XzlXQmRXaXpVYzB1a0QwRGdzUkFVbGtVY3ZJVEpKSEwzUXdMT0NaV0F1cTVQOEFhSzRTR0ZURUlzM3NL?oc=5\" target=\"_blank\">Anthropic says Claude now leads a quarter of work building its next AI models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOTlkTk8zR3FVNjBtYTRfeEZQWU9zWHhWUE00dUhyMDhMUHZDRF90dlhuUDhYS3QweW9ZejB1U0tNQ0dFQjIxZ1lFLXhfdEliaHN3MzJZV0JYRnJMc0pyU2k4dmdyX2tPR1VOX0RRdmVJUkZ1bWZCcVJ5czg4XzlXQmRXaXpVYzB1a0QwRGdzUkFVbGtVY3ZJVEpKSEwzUXdMT0NaV0F1cTVQOEFhSzRTR0ZURUlzM3NL?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-09-17",
+          "views": "18.0K"
         },
         {
           "title": "ChatGPT pioneer launches Jev model for programmatic logic - AI News",
@@ -62,14 +70,6 @@
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWTFmMjEtTmNLYVpZN3U3czlQYTY1UjQ1WkUyYy1TTEIxZkx0VUViSi1HY0RQVk1EOTJTTWlwRzFBSDNxZzNNNWU0Tk9idjN1ZUxQQ1V2X2hDQ0tWSC1vaTNrZlRDdks0aDUzS2t2TVQ1SnB4cVM1MkpSZVl3aXo1MTBPaHRfXzhXcnJ0M2IyUUF2OXU2WjB3aVlwSmNReEF1YmplTDRMdWpPSEE?oc=5",
           "source": "AI News",
           "publishedAt": "2026-09-16",
-          "views": "18.0K"
-        },
-        {
-          "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear - techcrunch.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNX3pZRml4TGIxQ2pRYVM1WTV3SUFNSTlBTlY4bkNtS3l0cW5abWwtQkxSV2szVEdmTVRrWmk0NDlVOW9NNW5rd2tEaUtGRGdQdkNId3RrME1udWV0V0FvMi1GcUJpeFhWVEcwQ3hMc3BFQWJLcV90dUl1Z2tJa2xwcm5TcjZCMWZxRTRpN0pqb2NueE9tb19EOEFONnV0QXpjSDc4RDVRYU5nQWY3WXFLRjZWRHk0Zw?oc=5\" target=\"_blank\">Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">techcrunch.com</font>",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNX3pZRml4TGIxQ2pRYVM1WTV3SUFNSTlBTlY4bkNtS3l0cW5abWwtQkxSV2szVEdmTVRrWmk0NDlVOW9NNW5rd2tEaUtGRGdQdkNId3RrME1udWV0V0FvMi1GcUJpeFhWVEcwQ3hMc3BFQWJLcV90dUl1Z2tJa2xwcm5TcjZCMWZxRTRpN0pqb2NueE9tb19EOEFONnV0QXpjSDc4RDVRYU5nQWY3WXFLRjZWRHk0Zw?oc=5",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-09-15",
           "views": "18.0K"
         }
       ]
@@ -96,10 +96,10 @@
           "views": "18.0K"
         },
         {
-          "title": "ICE agent charged with assault, lying about shooting, jailed in Minnesota - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdm45YThycFpZRFhfdFpPWDU0NzFnWmtaNXdEV0o4SHpfQU5zQlRoLVh5OWMtYTk1RlVvT2J1cUhZQlVkWVliLWFRNmRGb3U2MDRIN25wZFRKSEpnQ3dDcmVBZk5DZmpDTTUxdnpNOXZiVHpxZWpQVnhrRWN3UnYxUkIxRUtxZHdVaXkzSWxhX21obl9EaDZMLWRfTC1xTmZQZnczY0MydlJiRkxIdFFYUGxYYjFmMDltZVFqd1dHZFA?oc=5\" target=\"_blank\">ICE agent charged with assault, lying about shooting, jailed in Minnesota</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdm45YThycFpZRFhfdFpPWDU0NzFnWmtaNXdEV0o4SHpfQU5zQlRoLVh5OWMtYTk1RlVvT2J1cUhZQlVkWVliLWFRNmRGb3U2MDRIN25wZFRKSEpnQ3dDcmVBZk5DZmpDTTUxdnpNOXZiVHpxZWpQVnhrRWN3UnYxUkIxRUtxZHdVaXkzSWxhX21obl9EaDZMLWRfTC1xTmZQZnczY0MydlJiRkxIdFFYUGxYYjFmMDltZVFqd1dHZFA?oc=5",
-          "source": "Reuters AI",
+          "title": "Microsoft releases new AI playbook for enterprises based on its own learnings, and it reveals a surprising 'moat' your biz may already have - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxORGdWaVVFWnlKSnNyYlFoMzBBX1BFS1JZNHJ3Nk1UNXprZWJ3MmN4WjI0aE5wR1NQdE9XUGZfZG50Z20zc3d2aE9HdkZNc0EzOThrMHZxeGVYMkRQcVp4QURCLVI0TGlmeDI2T0RmdzV3Q21NQjdaczVHMEVKd3J2dVFKb0ctdGxRbk1hZm9PclAydmR2N0xXTFlGOGxubXRuMGdOYzQ5OFZ0VDRXZS00Q08wUUo0TG96YUp1MkVIS0VTbnNSSFNfMWIwVW5OZl9YbzJMQzNhajhWZW9SWk1mWEwxdk5VUnZYUnItMXI3WjB0Q0YweUh1RmhfcWs3S1k1?oc=5\" target=\"_blank\">Microsoft releases new AI playbook for enterprises based on its own learnings, and it reveals a surprising 'moat' your biz may already have</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxORGdWaVVFWnlKSnNyYlFoMzBBX1BFS1JZNHJ3Nk1UNXprZWJ3MmN4WjI0aE5wR1NQdE9XUGZfZG50Z20zc3d2aE9HdkZNc0EzOThrMHZxeGVYMkRQcVp4QURCLVI0TGlmeDI2T0RmdzV3Q21NQjdaczVHMEVKd3J2dVFKb0ctdGxRbk1hZm9PclAydmR2N0xXTFlGOGxubXRuMGdOYzQ5OFZ0VDRXZS00Q08wUUo0TG96YUp1MkVIS0VTbnNSSFNfMWIwVW5OZl9YbzJMQzNhajhWZW9SWk1mWEwxdk5VUnZYUnItMXI3WjB0Q0YweUh1RmhfcWs3S1k1?oc=5",
+          "source": "VentureBeat AI",
           "publishedAt": "2026-09-17",
           "views": "13.0K"
         }
@@ -111,16 +111,16 @@
       "description": "규제, 책임, 신뢰, 저작권 같은 문제를 보는 관점",
       "items": [
         {
-          "title": "Chipotle Is Working With Palantir to Track Food Safety Risks - WIRED",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNRjZ2WFF6NTVKSk1aejZlaXJWNi1wUmoxdHBVYnBfWnZmYkF6Ung0YV9fYk1VLXl4dEtXQll2OFJjNGcwclVScl9LblFOeGdOb25oRE1xQ0hPTFY3TU1jc0NUZmppTExSbnRvRHlicXJWa1M5UUxXQnpyMHA0R1dYa3ZFcw?oc=5\" target=\"_blank\">Chipotle Is Working With Palantir to Track Food Safety Risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+          "title": "Chipotle Is Working With Palantir to Track Food Safety Risks - wired.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNRjZ2WFF6NTVKSk1aejZlaXJWNi1wUmoxdHBVYnBfWnZmYkF6Ung0YV9fYk1VLXl4dEtXQll2OFJjNGcwclVScl9LblFOeGdOb25oRE1xQ0hPTFY3TU1jc0NUZmppTExSbnRvRHlicXJWa1M5UUxXQnpyMHA0R1dYa3ZFcw?oc=5\" target=\"_blank\">Chipotle Is Working With Palantir to Track Food Safety Risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">wired.com</font>",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRjZ2WFF6NTVKSk1aejZlaXJWNi1wUmoxdHBVYnBfWnZmYkF6Ung0YV9fYk1VLXl4dEtXQll2OFJjNGcwclVScl9LblFOeGdOb25oRE1xQ0hPTFY3TU1jc0NUZmppTExSbnRvRHlicXJWa1M5UUxXQnpyMHA0R1dYa3ZFcw?oc=5",
           "source": "WIRED AI",
           "publishedAt": "2026-09-16",
           "views": "18.0K"
         },
         {
-          "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says - techcrunch.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTW5yQnNCZkM1c1JRdjA5eFNnTnV4d0dfa2xPcWNrcGFwZ3Z0eTR1UUlWRFhtMlBKU0JfNVdnU1ZzV25Ea282aXhfZ3BkLXVnZ1pHbTIxQkI1enlyMmh6RldUNllKUkhGNUtDZVJMU3JFaVQzaGtVN29zQWZMOTMwYXc1bjFsNnJ5YVVadGtmN29RTENOSDdOcWREY3V3eTUxS1dIOEEtdXJjdw?oc=5\" target=\"_blank\">We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">techcrunch.com</font>",
+          "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTW5yQnNCZkM1c1JRdjA5eFNnTnV4d0dfa2xPcWNrcGFwZ3Z0eTR1UUlWRFhtMlBKU0JfNVdnU1ZzV25Ea282aXhfZ3BkLXVnZ1pHbTIxQkI1enlyMmh6RldUNllKUkhGNUtDZVJMU3JFaVQzaGtVN29zQWZMOTMwYXc1bjFsNnJ5YVVadGtmN29RTENOSDdOcWREY3V3eTUxS1dIOEEtdXJjdw?oc=5\" target=\"_blank\">We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTW5yQnNCZkM1c1JRdjA5eFNnTnV4d0dfa2xPcWNrcGFwZ3Z0eTR1UUlWRFhtMlBKU0JfNVdnU1ZzV25Ea282aXhfZ3BkLXVnZ1pHbTIxQkI1enlyMmh6RldUNllKUkhGNUtDZVJMU3JFaVQzaGtVN29zQWZMOTMwYXc1bjFsNnJ5YVVadGtmN29RTENOSDdOcWREY3V3eTUxS1dIOEEtdXJjdw?oc=5",
           "source": "TechCrunch AI",
           "publishedAt": "2026-09-16",
@@ -150,12 +150,12 @@
           "views": "18.0K"
         },
         {
-          "title": "UK jobs market stays soft before BoE rate call - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOT0lBbDYxOGhrSXNYeGJvbUhXX1Y4UTRCSTZDZXBzaFBRaFdlUzRXX1VkNFhoNmxTSmdYaG4xcWhyV1JEblpESmZsT09zemllQWNodWY3anVPeFRxRkw3cnZKd09BQWNZTFlTclFFX3d4RUFlLVRpWUFHZmpPMmlUWDRVUl9qeENGTXc?oc=5\" target=\"_blank\">UK jobs market stays soft before BoE rate call</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT0lBbDYxOGhrSXNYeGJvbUhXX1Y4UTRCSTZDZXBzaFBRaFdlUzRXX1VkNFhoNmxTSmdYaG4xcWhyV1JEblpESmZsT09zemllQWNodWY3anVPeFRxRkw3cnZKd09BQWNZTFlTclFFX3d4RUFlLVRpWUFHZmpPMmlUWDRVUl9qeENGTXc?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-09-15",
-          "views": "18.0K"
+          "title": "From Korean to Chinese: Vietnam's language learners follow the jobs - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPRjlkTUhBNVNSbzdQREk4QXRBb3l2alNwWWRBRXZtZ2Q0aUpKNVc0Y3RYVHM0eGRtRGhKTnctTzlRaEJ2X2Mzamlhb0F2cVhtTTl6LTBnc1cyN3lYTXJxd25CeFJBNko1Y2c0WmJlR3oyR0Q1UXJPRml6S2dTNmVvVzVlTTM3V2dJRGRLa1lXOHpFZUVHeExFZ3NQTWlhaFhEWEkxbEZhUm1GWVpZY2fSAbMBQVVfeXFMUFZNZG1vbi1GNGdaNmZHcDdwSGl1aVlNZ2szYTl5SGhCbVV5enJEak9jdzBtTHVOdWlqaWJWaWtfTEEtRTYzWXh0dXVfR0tQV1dYa24tRlB1OEJDZnUzSXp3VmY1SG5qeEg2OG10QkEtU3J0T0x4ZWQ0U2h3Vl9jUm5xbUJqM3g4RlA1MUN3Qy1pYjJEWmZ1UE5sWUNSa2FCMjVRaFo3Zi1FU3V5UmVfMzVmb28?oc=5\" target=\"_blank\">From Korean to Chinese: Vietnam's language learners follow the jobs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRjlkTUhBNVNSbzdQREk4QXRBb3l2alNwWWRBRXZtZ2Q0aUpKNVc0Y3RYVHM0eGRtRGhKTnctTzlRaEJ2X2Mzamlhb0F2cVhtTTl6LTBnc1cyN3lYTXJxd25CeFJBNko1Y2c0WmJlR3oyR0Q1UXJPRml6S2dTNmVvVzVlTTM3V2dJRGRLa1lXOHpFZUVHeExFZ3NQTWlhaFhEWEkxbEZhUm1GWVpZY2fSAbMBQVVfeXFMUFZNZG1vbi1GNGdaNmZHcDdwSGl1aVlNZ2szYTl5SGhCbVV5enJEak9jdzBtTHVOdWlqaWJWaWtfTEEtRTYzWXh0dXVfR0tQV1dYa24tRlB1OEJDZnUzSXp3VmY1SG5qeEg2OG10QkEtU3J0T0x4ZWQ0U2h3Vl9jUm5xbUJqM3g4RlA1MUN3Qy1pYjJEWmZ1UE5sWUNSa2FCMjVRaFo3Zi1FU3V5UmVfMzVmb28?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-09-17",
+          "views": "13.0K"
         },
         {
           "title": "FM Cho heads to Washington for talks with Rubio on investment, Hormuz, N. Korea - The Korea Times",
@@ -181,19 +181,19 @@
           "views": "18.0K"
         },
         {
-          "title": "Army chiefs of Korea, Poland discuss expanding military, defense industry cooperation - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRjFPVW12UTF1REpfNTBIVk1EaWJBb3Nfb21LeEEtRGYySU05NWlHc2FVTV9xRTcxR3FCVTVDU0JQcTZBbWxJa21YT3pPOVUtRkN6ZGUtWElSVTQyRjZ3QUptMkF0MDJ6TExibXhsU1ZFZDAyYmpZRUtJWVhjV0hWRk9tVmlrRnp5VnVUUkNYSDZWcnRKZ0VSNktYa09TeW9Qek43VXB2VEk0V25SWUJOaktMMTU1OFRkR3B5bHpseGhaM1FIYl8tRUV0S1dRNkY1dFcyQkU2TdIB3AFBVV95cUxQaFp3LThUZ1ZfdlVoNkowcWQzZWhYU1RzZUJMMnhqNGVkZmlRd3lqdmR0aTVxRHI3aU1EOFRQbHN6TE9RQnVJLU56VktJbm56TTBSWWp3TFNsSkFzSGh5LThBM0NfdzM5ejl2STlPRkQtdzUtUDZTNDhmTS1JUk0xejFkODZCejM0aVZ6WW93SlhYWnVkODNWcTJtQkUtY1RHS0VxdU9OZEhTc3lSTW4zXzgyVTV5U19qbnk5U0hPTjVDUGJjQzhnT3J6Ym5sdEVWaTlaUnhoVzdtQ0di?oc=5\" target=\"_blank\">Army chiefs of Korea, Poland discuss expanding military, defense industry cooperation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRjFPVW12UTF1REpfNTBIVk1EaWJBb3Nfb21LeEEtRGYySU05NWlHc2FVTV9xRTcxR3FCVTVDU0JQcTZBbWxJa21YT3pPOVUtRkN6ZGUtWElSVTQyRjZ3QUptMkF0MDJ6TExibXhsU1ZFZDAyYmpZRUtJWVhjV0hWRk9tVmlrRnp5VnVUUkNYSDZWcnRKZ0VSNktYa09TeW9Qek43VXB2VEk0V25SWUJOaktMMTU1OFRkR3B5bHpseGhaM1FIYl8tRUV0S1dRNkY1dFcyQkU2TdIB3AFBVV95cUxQaFp3LThUZ1ZfdlVoNkowcWQzZWhYU1RzZUJMMnhqNGVkZmlRd3lqdmR0aTVxRHI3aU1EOFRQbHN6TE9RQnVJLU56VktJbm56TTBSWWp3TFNsSkFzSGh5LThBM0NfdzM5ejl2STlPRkQtdzUtUDZTNDhmTS1JUk0xejFkODZCejM0aVZ6WW93SlhYWnVkODNWcTJtQkUtY1RHS0VxdU9OZEhTc3lSTW4zXzgyVTV5U19qbnk5U0hPTjVDUGJjQzhnT3J6Ym5sdEVWaTlaUnhoVzdtQ0di?oc=5",
+          "title": "Lee rules out troop deployment involving Korea in Iran war - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQZTdYRU1VZGN5UmFnSl8ySEpYcHV5Y3pfd1hCZlF2NnQ4X1hrb1lwM2N4SXVoX2hSdkdDYmMyOUZpRHJYc3dfd0JBVklQc2w4dkJCc0FCM2pkTzZWWWtZNWFZLVVJRHFydUF6ZVRNS2Rua3A5QzlCdzN2ekYwTzFmaVdKNVByR2p4WG1Wc1N3aWlWaFZJbnpWU0h4UDJXMk8wYnV4MUgwd1gxOHVRcEU4blBDOFQyLU03RXVWU9IBvAFBVV95cUxQZTdYRU1VZGN5UmFnSl8ySEpYcHV5Y3pfd1hCZlF2NnQ4X1hrb1lwM2N4SXVoX2hSdkdDYmMyOUZpRHJYc3dfd0JBVklQc2w4dkJCc0FCM2pkTzZWWWtZNWFZLVVJRHFydUF6ZVRNS2Rua3A5QzlCdzN2ekYwTzFmaVdKNVByR2p4WG1Wc1N3aWlWaFZJbnpWU0h4UDJXMk8wYnV4MUgwd1gxOHVRcEU4blBDOFQyLU03RXVWUw?oc=5\" target=\"_blank\">Lee rules out troop deployment involving Korea in Iran war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZTdYRU1VZGN5UmFnSl8ySEpYcHV5Y3pfd1hCZlF2NnQ4X1hrb1lwM2N4SXVoX2hSdkdDYmMyOUZpRHJYc3dfd0JBVklQc2w4dkJCc0FCM2pkTzZWWWtZNWFZLVVJRHFydUF6ZVRNS2Rua3A5QzlCdzN2ekYwTzFmaVdKNVByR2p4WG1Wc1N3aWlWaFZJbnpWU0h4UDJXMk8wYnV4MUgwd1gxOHVRcEU4blBDOFQyLU03RXVWU9IBvAFBVV95cUxQZTdYRU1VZGN5UmFnSl8ySEpYcHV5Y3pfd1hCZlF2NnQ4X1hrb1lwM2N4SXVoX2hSdkdDYmMyOUZpRHJYc3dfd0JBVklQc2w4dkJCc0FCM2pkTzZWWWtZNWFZLVVJRHFydUF6ZVRNS2Rua3A5QzlCdzN2ekYwTzFmaVdKNVByR2p4WG1Wc1N3aWlWaFZJbnpWU0h4UDJXMk8wYnV4MUgwd1gxOHVRcEU4blBDOFQyLU03RXVWUw?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-09-16",
+          "publishedAt": "2026-09-18",
           "views": "13.0K"
         },
         {
-          "title": "SK Telecom, F5 sign partnership on AI cloud security - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPbTNVQ0diU01CMXMtZ2dyckNzMjg3OGw1WkpxTWV1eE5Wd2s3d1Zkc1c2WXR5bW9kSjg1TkNLOVZuUXpZdl9CMk1vVzNwXzQ3M0FPck1yOVctVlZOb3ZVektMSF93MUNVWXVONWlPUDZHRUhzX2oyX3o1blU2Y0xjWG5SMFpxcGZSWlpLVU1CS0k1VWN0THp2dGZhWFZzMFItOE5MdGQ3RXg2dWpV0gGyAUFVX3lxTE9ndlUwd2pNblFodV8xLVJtT1N1N2RFblZ0WW05OElRS3Nxd2FFcC14Y2t1bHNSdVlIZ0IzODRId3MwQTJ6d09vdTV2ZTA3UTRKei1Dc2hubHdQQnpfS3NWTWVEMS1BNjZSUEc1aWVNZDZneUZlZ2ZrUk5MeTZhY2JCNXBPaWF3N2hnb05GVGNuTE4ybWpBYlZSRkJjUXFUaGpOamtXdlNFNmotcDJQMF83YVE?oc=5\" target=\"_blank\">SK Telecom, F5 sign partnership on AI cloud security</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbTNVQ0diU01CMXMtZ2dyckNzMjg3OGw1WkpxTWV1eE5Wd2s3d1Zkc1c2WXR5bW9kSjg1TkNLOVZuUXpZdl9CMk1vVzNwXzQ3M0FPck1yOVctVlZOb3ZVektMSF93MUNVWXVONWlPUDZHRUhzX2oyX3o1blU2Y0xjWG5SMFpxcGZSWlpLVU1CS0k1VWN0THp2dGZhWFZzMFItOE5MdGQ3RXg2dWpV0gGyAUFVX3lxTE9ndlUwd2pNblFodV8xLVJtT1N1N2RFblZ0WW05OElRS3Nxd2FFcC14Y2t1bHNSdVlIZ0IzODRId3MwQTJ6d09vdTV2ZTA3UTRKei1Dc2hubHdQQnpfS3NWTWVEMS1BNjZSUEc1aWVNZDZneUZlZ2ZrUk5MeTZhY2JCNXBPaWF3N2hnb05GVGNuTE4ybWpBYlZSRkJjUXFUaGpOamtXdlNFNmotcDJQMF83YVE?oc=5",
+          "title": "POSCO Group accelerates resource strategy as global competition shifts - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOYnM5RF9tVUNrZHRuQmxxRzI2LTNsVlAtcUEwWlloMk9memFfOW9SNVRYZXhYRnhZM3FrOWFwVkFvMEtEQWx0U3VVS041VVhiNkI5VmRPRFI4ZGI3eFBJay1jYXA3Z285UWt0LWpuNzRpV0ZqQTUzREl1Vk04NlAyVWExaVg2OVZsVlVlZGpTN2ExTlBFNDd0VzktTDFKY2hvakNoTi1lb1JkNGphcFZFdFJhWmdJVkdoRWl0T2ZzbXVRTmp3bnViSUdUVdIBywFBVV95cUxOYnM5RF9tVUNrZHRuQmxxRzI2LTNsVlAtcUEwWlloMk9memFfOW9SNVRYZXhYRnhZM3FrOWFwVkFvMEtEQWx0U3VVS041VVhiNkI5VmRPRFI4ZGI3eFBJay1jYXA3Z285UWt0LWpuNzRpV0ZqQTUzREl1Vk04NlAyVWExaVg2OVZsVlVlZGpTN2ExTlBFNDd0VzktTDFKY2hvakNoTi1lb1JkNGphcFZFdFJhWmdJVkdoRWl0T2ZzbXVRTmp3bnViSUdUVQ?oc=5\" target=\"_blank\">POSCO Group accelerates resource strategy as global competition shifts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYnM5RF9tVUNrZHRuQmxxRzI2LTNsVlAtcUEwWlloMk9memFfOW9SNVRYZXhYRnhZM3FrOWFwVkFvMEtEQWx0U3VVS041VVhiNkI5VmRPRFI4ZGI3eFBJay1jYXA3Z285UWt0LWpuNzRpV0ZqQTUzREl1Vk04NlAyVWExaVg2OVZsVlVlZGpTN2ExTlBFNDd0VzktTDFKY2hvakNoTi1lb1JkNGphcFZFdFJhWmdJVkdoRWl0T2ZzbXVRTmp3bnViSUdUVdIBywFBVV95cUxOYnM5RF9tVUNrZHRuQmxxRzI2LTNsVlAtcUEwWlloMk9memFfOW9SNVRYZXhYRnhZM3FrOWFwVkFvMEtEQWx0U3VVS041VVhiNkI5VmRPRFI4ZGI3eFBJay1jYXA3Z285UWt0LWpuNzRpV0ZqQTUzREl1Vk04NlAyVWExaVg2OVZsVlVlZGpTN2ExTlBFNDd0VzktTDFKY2hvakNoTi1lb1JkNGphcFZFdFJhWmdJVkdoRWl0T2ZzbXVRTmp3bnViSUdUVQ?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-09-16",
+          "publishedAt": "2026-09-17",
           "views": "13.0K"
         }
       ]
