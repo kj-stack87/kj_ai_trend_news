@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-19T04:33:51.094Z",
+  "lastUpdated": "2026-09-20T04:50:20.643Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,8 +49,16 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
-          "title": "Anthropic says its model Claude is helping to build the next version of itself - koreatimes.co.kr",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQdWliWVNYSi1zZXZiY2pBT0J3ZXVXeTdySGtXZ0w2cVNIeFZ1alpMOWN1akN3WTVPSzI3V0lzTGdZZlliWTdqb3pISHFCejA0VnQyUjJTNEY0X0JINExXRnlhalRkQ2Fpa3d6bmp5aEFNakJFVlZJM0JkaWZMbndicFJYQkhBTDlRaWM3dU5rQ0NyT3plQnpraFRaRWp4Qm1GaVJYLWdSaVpCMnhnNXhVUWRXYkxqdHZicUowMDNGTlZNWjJJ0gHEAUFVX3lxTFB1aWJZU1hKLXNldmJjakFPQndldVd5N3JIa1dnTDZxU0h4VnVqWkw5Y3VqQ3dZNU9LMjdXSXNMZ1lmWWJZN2pvekhIcUJ6MDRWdDJSMlM0RjRfQkg0TFdGeWFqVGRDYWlrd3puanloQU1qQkVWVkkzQmRpZkxud2JwUlhCSEFMOVFpYzd1TmtDQ3JPemVCemtoVFpFanhCbUZpUlgtZ1JpWkIyeGc1eFVRZFdiTGp0dmJxSjAwM0ZOVk1aMkk?oc=5\" target=\"_blank\">Anthropic says its model Claude is helping to build the next version of itself</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">koreatimes.co.kr</font>",
+          "title": "Google’s Gemini is the latest AI model to hack other companies - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOYm5KUVJReVdUcmltT2F0ZlVGRU42WnltWFZWTzBxVUJFZ0RmNWs0QzNZdEtmcDRyVjB0Z3VsUE55ZUhFSG83T0IzMjlJMEtxWXRqMU1UOGxsRW9zdEhwempLQUMxVTJCYk5UMTBHV2xNSnZHX0JiMXRvRjFCVURyUGZEcExpaXhKNFIydFNqbllYTW1URUY3NlVHbWM?oc=5\" target=\"_blank\">Google’s Gemini is the latest AI model to hack other companies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYm5KUVJReVdUcmltT2F0ZlVGRU42WnltWFZWTzBxVUJFZ0RmNWs0QzNZdEtmcDRyVjB0Z3VsUE55ZUhFSG83T0IzMjlJMEtxWXRqMU1UOGxsRW9zdEhwempLQUMxVTJCYk5UMTBHV2xNSnZHX0JiMXRvRjFCVURyUGZEcExpaXhKNFIydFNqbllYTW1URUY3NlVHbWM?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-09-19",
+          "views": "18.0K"
+        },
+        {
+          "title": "Anthropic says its model Claude is helping to build the next version of itself - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQdWliWVNYSi1zZXZiY2pBT0J3ZXVXeTdySGtXZ0w2cVNIeFZ1alpMOWN1akN3WTVPSzI3V0lzTGdZZlliWTdqb3pISHFCejA0VnQyUjJTNEY0X0JINExXRnlhalRkQ2Fpa3d6bmp5aEFNakJFVlZJM0JkaWZMbndicFJYQkhBTDlRaWM3dU5rQ0NyT3plQnpraFRaRWp4Qm1GaVJYLWdSaVpCMnhnNXhVUWRXYkxqdHZicUowMDNGTlZNWjJJ0gHEAUFVX3lxTFB1aWJZU1hKLXNldmJjakFPQndldVd5N3JIa1dnTDZxU0h4VnVqWkw5Y3VqQ3dZNU9LMjdXSXNMZ1lmWWJZN2pvekhIcUJ6MDRWdDJSMlM0RjRfQkg0TFdGeWFqVGRDYWlrd3puanloQU1qQkVWVkkzQmRpZkxud2JwUlhCSEFMOVFpYzd1TmtDQ3JPemVCemtoVFpFanhCbUZpUlgtZ1JpWkIyeGc1eFVRZFdiTGp0dmJxSjAwM0ZOVk1aMkk?oc=5\" target=\"_blank\">Anthropic says its model Claude is helping to build the next version of itself</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdWliWVNYSi1zZXZiY2pBT0J3ZXVXeTdySGtXZ0w2cVNIeFZ1alpMOWN1akN3WTVPSzI3V0lzTGdZZlliWTdqb3pISHFCejA0VnQyUjJTNEY0X0JINExXRnlhalRkQ2Fpa3d6bmp5aEFNakJFVlZJM0JkaWZMbndicFJYQkhBTDlRaWM3dU5rQ0NyT3plQnpraFRaRWp4Qm1GaVJYLWdSaVpCMnhnNXhVUWRXYkxqdHZicUowMDNGTlZNWjJJ0gHEAUFVX3lxTFB1aWJZU1hKLXNldmJjakFPQndldVd5N3JIa1dnTDZxU0h4VnVqWkw5Y3VqQ3dZNU9LMjdXSXNMZ1lmWWJZN2pvekhIcUJ6MDRWdDJSMlM0RjRfQkg0TFdGeWFqVGRDYWlrd3puanloQU1qQkVWVkkzQmRpZkxud2JwUlhCSEFMOVFpYzd1TmtDQ3JPemVCemtoVFpFanhCbUZpUlgtZ1JpWkIyeGc1eFVRZFdiTGp0dmJxSjAwM0ZOVk1aMkk?oc=5",
           "source": "The Korea Times",
           "publishedAt": "2026-09-18",
@@ -62,14 +70,6 @@
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYW5jcDZETy15OEFacVFGV0w5Wjk3dFYtZW83VXNFdVRvMmRuWVR3RFVGSFJlclg2ejRraU83Um90ZkZvZ0R3MGxZZ2VDTnJmVEw4dWZESDQyYktyMXQydDBhZ0R1TUROVm1PWWV3NTlsd2piclFFSW5XSVBBOUFyWFFhbmt3dTM1Mm1YZHZ5WXgxNUl2cDFJM2pvNEc5YkJCZHpTSVczMm8?oc=5",
           "source": "TechCrunch AI",
           "publishedAt": "2026-09-18",
-          "views": "18.0K"
-        },
-        {
-          "title": "Anthropic says Claude now leads a quarter of work building its next AI models - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOTlkTk8zR3FVNjBtYTRfeEZQWU9zWHhWUE00dUhyMDhMUHZDRF90dlhuUDhYS3QweW9ZejB1U0tNQ0dFQjIxZ1lFLXhfdEliaHN3MzJZV0JYRnJMc0pyU2k4dmdyX2tPR1VOX0RRdmVJUkZ1bWZCcVJ5czg4XzlXQmRXaXpVYzB1a0QwRGdzUkFVbGtVY3ZJVEpKSEwzUXdMT0NaV0F1cTVQOEFhSzRTR0ZURUlzM3NL?oc=5\" target=\"_blank\">Anthropic says Claude now leads a quarter of work building its next AI models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOTlkTk8zR3FVNjBtYTRfeEZQWU9zWHhWUE00dUhyMDhMUHZDRF90dlhuUDhYS3QweW9ZejB1U0tNQ0dFQjIxZ1lFLXhfdEliaHN3MzJZV0JYRnJMc0pyU2k4dmdyX2tPR1VOX0RRdmVJUkZ1bWZCcVJ5czg4XzlXQmRXaXpVYzB1a0QwRGdzUkFVbGtVY3ZJVEpKSEwzUXdMT0NaV0F1cTVQOEFhSzRTR0ZURUlzM3NL?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-09-17",
           "views": "18.0K"
         }
       ]
@@ -111,6 +111,14 @@
       "description": "규제, 책임, 신뢰, 저작권 같은 문제를 보는 관점",
       "items": [
         {
+          "title": "Report finds 'culture of risk aversion' hindered oversight of SVB, Fed official says - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOa0lrd1l3TVdweDJUSV8ybjRhbnhfTmhzWEcxUjZhNkNRaTRGN21Ob1VYT3Q4OVF2d2toWEdXM1dvTk5NenhHeUY0RjVidHVxQnZBS2RraGNOay1vN0ZQd3llUHRnVGV5a2hMMUtncm10ZWlqTG9UMk1CeGhWSzNQaGF1RTRWWEkxUmZMaGw4R0ZuRXh6UXBzOGN5Z19Hc2x2UVNfVVVpYW1ldlNMZnRvdkVQdnZMcW1McDczREVqWTdXM0JHRVBRaFlaWQ?oc=5\" target=\"_blank\">Report finds 'culture of risk aversion' hindered oversight of SVB, Fed official says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOa0lrd1l3TVdweDJUSV8ybjRhbnhfTmhzWEcxUjZhNkNRaTRGN21Ob1VYT3Q4OVF2d2toWEdXM1dvTk5NenhHeUY0RjVidHVxQnZBS2RraGNOay1vN0ZQd3llUHRnVGV5a2hMMUtncm10ZWlqTG9UMk1CeGhWSzNQaGF1RTRWWEkxUmZMaGw4R0ZuRXh6UXBzOGN5Z19Hc2x2UVNfVVVpYW1ldlNMZnRvdkVQdnZMcW1McDczREVqWTdXM0JHRVBRaFlaWQ?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-09-18",
+          "views": "18.0K"
+        },
+        {
           "title": "Chipotle Is Working With Palantir to Track Food Safety Risks - WIRED",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNRjZ2WFF6NTVKSk1aejZlaXJWNi1wUmoxdHBVYnBfWnZmYkF6Ung0YV9fYk1VLXl4dEtXQll2OFJjNGcwclVScl9LblFOeGdOb25oRE1xQ0hPTFY3TU1jc0NUZmppTExSbnRvRHlicXJWa1M5UUxXQnpyMHA0R1dYa3ZFcw?oc=5\" target=\"_blank\">Chipotle Is Working With Palantir to Track Food Safety Risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRjZ2WFF6NTVKSk1aejZlaXJWNi1wUmoxdHBVYnBfWnZmYkF6Ung0YV9fYk1VLXl4dEtXQll2OFJjNGcwclVScl9LblFOeGdOb25oRE1xQ0hPTFY3TU1jc0NUZmppTExSbnRvRHlicXJWa1M5UUxXQnpyMHA0R1dYa3ZFcw?oc=5",
@@ -125,14 +133,6 @@
           "source": "TechCrunch AI",
           "publishedAt": "2026-09-16",
           "views": "18.0K"
-        },
-        {
-          "title": "King Charles III Warns of 'AI Dangers'…Jensen Huang: “SNS Regulation Won't Work” - ETNEWS",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBURHlmOHNDQU8wc1Bxa1ZxTTdWdnpzQzVucUhyU05UUlNRNWR0a1ljZHZBVjZYZnZyRmtsaDE3dDVnMld0aVZkTmtVcWo?oc=5\" target=\"_blank\">King Charles III Warns of 'AI Dangers'…Jensen Huang: “SNS Regulation Won't Work”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBURHlmOHNDQU8wc1Bxa1ZxTTdWdnpzQzVucUhyU05UUlNRNWR0a1ljZHZBVjZYZnZyRmtsaDE3dDVnMld0aVZkTmtVcWo?oc=5",
-          "source": "전자신문",
-          "publishedAt": "2026-09-18",
-          "views": "13.0K"
         }
       ]
     },
@@ -150,19 +150,19 @@
           "views": "18.0K"
         },
         {
-          "title": "Samsung Targets Southeast Asia's B2B Market With AI Smart Complex in Cebu - ETNEWS",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBmWGE2TTlhdnUwNjJVY0xiTDFMYTFBOEpSVU5rX0MzbWNGdlUtWnFuX05OUEpFczBHUUxWWFlfTTQzUFViSHNqVnJZc3M?oc=5\" target=\"_blank\">Samsung Targets Southeast Asia's B2B Market With AI Smart Complex in Cebu</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBmWGE2TTlhdnUwNjJVY0xiTDFMYTFBOEpSVU5rX0MzbWNGdlUtWnFuX05OUEpFczBHUUxWWFlfTTQzUFViSHNqVnJZc3M?oc=5",
-          "source": "전자신문",
-          "publishedAt": "2026-09-18",
+          "title": "[COVER STORY] Korea-US $200 bil. investment talks hit last-stage hurdles over 'commercial viability' - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcDh0S3NqQk1WM3ZJb2ZoRl9oV1NJc1BVNk9pNlduNnZTNjlFWTJhckdjd1dsZVFlSmNwUUtoem9JeWN1ZGdqZjVFekx1THJKZUV4X1pKMnBPdkRnQ0lsUmZhZHY4Z1FlRXd1MHN4WDBfLTlSdnQ3R3g3ZWl5TVBTaEdvQmVUU3hWLVdMak4yZzhaTE53eXJiSDNybE1zVzhQZ0lSOXVBczBPSWtJUXZXZ1A1d2VTRFhiUnMwOFJvell3MTZSZ1Y3aDYwSUszMjhTcFR4QlJaTUxScS1Qel9WRElub3J5eFlmZWw5VGZINNIB7wFBVV95cUxNcDh0S3NqQk1WM3ZJb2ZoRl9oV1NJc1BVNk9pNlduNnZTNjlFWTJhckdjd1dsZVFlSmNwUUtoem9JeWN1ZGdqZjVFekx1THJKZUV4X1pKMnBPdkRnQ0lsUmZhZHY4Z1FlRXd1MHN4WDBfLTlSdnQ3R3g3ZWl5TVBTaEdvQmVUU3hWLVdMak4yZzhaTE53eXJiSDNybE1zVzhQZ0lSOXVBczBPSWtJUXZXZ1A1d2VTRFhiUnMwOFJvell3MTZSZ1Y3aDYwSUszMjhTcFR4QlJaTUxScS1Qel9WRElub3J5eFlmZWw5VGZINA?oc=5\" target=\"_blank\">[COVER STORY] Korea-US $200 bil. investment talks hit last-stage hurdles over 'commercial viability'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcDh0S3NqQk1WM3ZJb2ZoRl9oV1NJc1BVNk9pNlduNnZTNjlFWTJhckdjd1dsZVFlSmNwUUtoem9JeWN1ZGdqZjVFekx1THJKZUV4X1pKMnBPdkRnQ0lsUmZhZHY4Z1FlRXd1MHN4WDBfLTlSdnQ3R3g3ZWl5TVBTaEdvQmVUU3hWLVdMak4yZzhaTE53eXJiSDNybE1zVzhQZ0lSOXVBczBPSWtJUXZXZ1A1d2VTRFhiUnMwOFJvell3MTZSZ1Y3aDYwSUszMjhTcFR4QlJaTUxScS1Qel9WRElub3J5eFlmZWw5VGZINNIB7wFBVV95cUxNcDh0S3NqQk1WM3ZJb2ZoRl9oV1NJc1BVNk9pNlduNnZTNjlFWTJhckdjd1dsZVFlSmNwUUtoem9JeWN1ZGdqZjVFekx1THJKZUV4X1pKMnBPdkRnQ0lsUmZhZHY4Z1FlRXd1MHN4WDBfLTlSdnQ3R3g3ZWl5TVBTaEdvQmVUU3hWLVdMak4yZzhaTE53eXJiSDNybE1zVzhQZ0lSOXVBczBPSWtJUXZXZ1A1d2VTRFhiUnMwOFJvell3MTZSZ1Y3aDYwSUszMjhTcFR4QlJaTUxScS1Qel9WRElub3J5eFlmZWw5VGZINA?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-09-20",
           "views": "13.0K"
         },
         {
-          "title": "Former K-pop idol goes viral after group disbands, juggles 4 part-time jobs while starting over at 22 - koreatimes.co.kr",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNVUZ3WnNjNEtyRVJFd2FFdldDaDJLS2hNYTJwUVFTMjlFUnRqY1Q3SF82c1JXMkdEQU9Tc2V3U1pOWUNMYU9kdEFxeGxkZEVaUVllSldIVzZmcW1iQTBUNHVvSmhWUVM3Z0U5UkZnWGVvdF9HWHFOX0tEQnkwUTZUWTlvVHdIWHhQdnFRQXZmNzlvcng5RkNfQzY5eGJEOW9senFOODJMbGl1Nkp1bnc0al9SYmRtd1RfOEZHYXRFeEJFQ2JHMUZiVkNfMnhHZXluSDFVNl94cTZCNFd0MTZ2TFRRWmVYS1dxWEhz0gHwAUFVX3lxTE9oZzVJNjR3TXExUnkzbk9oQVNMZWx1VDhBRUtUYm9MWGVyVlEwcFlpZE83cldaaGo3LU1HYkc0M1FBZWhaUTNTUlZ5LW0wbmh0dnU2N2lOaHFtU012YWpJb2JpdEdZc3NvUGN3Sjh0RjloYTliRnRUenpHTXNaR1RURDNMVWZRUHlrRWlCdGZtM3NoU292WUhyWTNSb014MjJPQnRBNXBmZWxnVFBnS21mUUJrc1RpOVU1ZDhQcWV0WkNMSmxhbnNEV1JaUHBMSVFPZWdLd0lYMDFmYXpBWVJ5bjFuc25iRjRGQnFUNkNCLQ?oc=5\" target=\"_blank\">Former K-pop idol goes viral after group disbands, juggles 4 part-time jobs while starting over at 22</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">koreatimes.co.kr</font>",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNVUZ3WnNjNEtyRVJFd2FFdldDaDJLS2hNYTJwUVFTMjlFUnRqY1Q3SF82c1JXMkdEQU9Tc2V3U1pOWUNMYU9kdEFxeGxkZEVaUVllSldIVzZmcW1iQTBUNHVvSmhWUVM3Z0U5UkZnWGVvdF9HWHFOX0tEQnkwUTZUWTlvVHdIWHhQdnFRQXZmNzlvcng5RkNfQzY5eGJEOW9senFOODJMbGl1Nkp1bnc0al9SYmRtd1RfOEZHYXRFeEJFQ2JHMUZiVkNfMnhHZXluSDFVNl94cTZCNFd0MTZ2TFRRWmVYS1dxWEhz0gHwAUFVX3lxTE9oZzVJNjR3TXExUnkzbk9oQVNMZWx1VDhBRUtUYm9MWGVyVlEwcFlpZE83cldaaGo3LU1HYkc0M1FBZWhaUTNTUlZ5LW0wbmh0dnU2N2lOaHFtU012YWpJb2JpdEdZc3NvUGN3Sjh0RjloYTliRnRUenpHTXNaR1RURDNMVWZRUHlrRWlCdGZtM3NoU292WUhyWTNSb014MjJPQnRBNXBmZWxnVFBnS21mUUJrc1RpOVU1ZDhQcWV0WkNMSmxhbnNEV1JaUHBMSVFPZWdLd0lYMDFmYXpBWVJ5bjFuc25iRjRGQnFUNkNCLQ?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-09-18",
+          "title": "Tired of Cluttered Productivity Apps? This One’s Just a Text Document - WIRED",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOT0Z6Qm41TkZTUzlOMFFLT1RUbnRMclFIMFVUTDZCM29NYU01RGNxRm5CdmZOc051WVBNX0dRUWE2Y2VuRGpOUllLQXJkN1duaWRpaVpTbTJrcDNKZldWQWFwQXBEdE1tRERLSzVRbGc5WVJhWEZPOWdHQ2FPYTU3blZzREpjdw?oc=5\" target=\"_blank\">Tired of Cluttered Productivity Apps? This One’s Just a Text Document</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOT0Z6Qm41TkZTUzlOMFFLT1RUbnRMclFIMFVUTDZCM29NYU01RGNxRm5CdmZOc051WVBNX0dRUWE2Y2VuRGpOUllLQXJkN1duaWRpaVpTbTJrcDNKZldWQWFwQXBEdE1tRERLSzVRbGc5WVJhWEZPOWdHQ2FPYTU3blZzREpjdw?oc=5",
+          "source": "WIRED AI",
+          "publishedAt": "2026-09-19",
           "views": "13.0K"
         }
       ]
@@ -173,25 +173,25 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
-          "title": "Finance minister nominee backs January crypto tax rollout despite industry, opposition pushback - koreatimes.co.kr",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcHRfYzY1Qzc3NU1GcHBLck5hM2UtNTRKMjRiN0xHSDlCdHZRWFV3Nm5RVWJZcElaTHhRbXhsZjNCTFo5aXFUNDhGcVNRRjZOU0d5Mm1xZVBCVVdkOW9ZQlZ6aUUtM3FhSS1TcWlyRG9CQUpwaXdhOEl3MGtOVjVwTDVKdXNTcXp6Szg5ZmN1TGhRYkZfNGtwOENMN1pzMHVxc2hSZU1lejU4TFRTSjc3UndoZ0FFVVVnMW1HTlYwQWhBTlc1Q1dNWmZhcEZsRFpmLUpnX2xxai1lQzd5bkRFZ21hNGxVTHFWMUJN0gHwAUFVX3lxTE1mQTZSSDlkQ2J5MFh0bmdncXpUVmxMTXVqaW1XNlNvbmJDeFJVYUNrOFFzRTJDQzV5dGstOFkyRjVBOUZwQjNRQTRvb3lvUmwwQmZQVURub2w5UjJOTGxBUDVNQ0lmalAxajBBQVFMem9hbGpvRzZJa3lVVWJJa0VjU3phSUxxTXRzOS1Jc3ZaMU9IQTZqUXRaSlRVUVZjSWxhcWxYeGlOZVJBUjdHYk90aVJUVmZiWVUzMkdKLWxKTm1CVUh1M0FreHh3T2VrQnlPalZlME8yeThDYVpsT2ZieWJacmFqOGlBazR0d0ZaQw?oc=5\" target=\"_blank\">Finance minister nominee backs January crypto tax rollout despite industry, opposition pushback</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">koreatimes.co.kr</font>",
+          "title": "Finance minister nominee backs January crypto tax rollout despite industry, opposition pushback - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcHRfYzY1Qzc3NU1GcHBLck5hM2UtNTRKMjRiN0xHSDlCdHZRWFV3Nm5RVWJZcElaTHhRbXhsZjNCTFo5aXFUNDhGcVNRRjZOU0d5Mm1xZVBCVVdkOW9ZQlZ6aUUtM3FhSS1TcWlyRG9CQUpwaXdhOEl3MGtOVjVwTDVKdXNTcXp6Szg5ZmN1TGhRYkZfNGtwOENMN1pzMHVxc2hSZU1lejU4TFRTSjc3UndoZ0FFVVVnMW1HTlYwQWhBTlc1Q1dNWmZhcEZsRFpmLUpnX2xxai1lQzd5bkRFZ21hNGxVTHFWMUJN0gHwAUFVX3lxTE1mQTZSSDlkQ2J5MFh0bmdncXpUVmxMTXVqaW1XNlNvbmJDeFJVYUNrOFFzRTJDQzV5dGstOFkyRjVBOUZwQjNRQTRvb3lvUmwwQmZQVURub2w5UjJOTGxBUDVNQ0lmalAxajBBQVFMem9hbGpvRzZJa3lVVWJJa0VjU3phSUxxTXRzOS1Jc3ZaMU9IQTZqUXRaSlRVUVZjSWxhcWxYeGlOZVJBUjdHYk90aVJUVmZiWVUzMkdKLWxKTm1CVUh1M0FreHh3T2VrQnlPalZlME8yeThDYVpsT2ZieWJacmFqOGlBazR0d0ZaQw?oc=5\" target=\"_blank\">Finance minister nominee backs January crypto tax rollout despite industry, opposition pushback</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
           "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcHRfYzY1Qzc3NU1GcHBLck5hM2UtNTRKMjRiN0xHSDlCdHZRWFV3Nm5RVWJZcElaTHhRbXhsZjNCTFo5aXFUNDhGcVNRRjZOU0d5Mm1xZVBCVVdkOW9ZQlZ6aUUtM3FhSS1TcWlyRG9CQUpwaXdhOEl3MGtOVjVwTDVKdXNTcXp6Szg5ZmN1TGhRYkZfNGtwOENMN1pzMHVxc2hSZU1lejU4TFRTSjc3UndoZ0FFVVVnMW1HTlYwQWhBTlc1Q1dNWmZhcEZsRFpmLUpnX2xxai1lQzd5bkRFZ21hNGxVTHFWMUJN0gHwAUFVX3lxTE1mQTZSSDlkQ2J5MFh0bmdncXpUVmxMTXVqaW1XNlNvbmJDeFJVYUNrOFFzRTJDQzV5dGstOFkyRjVBOUZwQjNRQTRvb3lvUmwwQmZQVURub2w5UjJOTGxBUDVNQ0lmalAxajBBQVFMem9hbGpvRzZJa3lVVWJJa0VjU3phSUxxTXRzOS1Jc3ZaMU9IQTZqUXRaSlRVUVZjSWxhcWxYeGlOZVJBUjdHYk90aVJUVmZiWVUzMkdKLWxKTm1CVUh1M0FreHh3T2VrQnlPalZlME8yeThDYVpsT2ZieWJacmFqOGlBazR0d0ZaQw?oc=5",
           "source": "The Korea Times",
           "publishedAt": "2026-09-13",
           "views": "18.0K"
         },
         {
-          "title": "Lee rules out Korean troop deployment in Iran war - koreatimes.co.kr",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWjB0cWU2Mmh3Q1BQOVBCSGFkTk1Bdi11Y2VYVjEyU3RMTXlsa3RGYms2X0tRTXNmSVk5ZXBfMzI1QklCYTFPeU9za1hYV1pxeHJBQ1VwQzZaY0VrTjBrM1VUZElGaEctT2oxRnlndFRCZlc2ZzJub2R6cmNSNVhUN1A5YkJNaU5PTHBaMXVyNnlUdVFabFZlYTJGYjI4LXdHYXY3VDZxSkxEU0HSAbABQVVfeXFMUG9uZGZ0Y18xYUxBYTNjcnVtZ1pBamdZUGdDRVNNeGsyNnJMWGdkVXJheUlZU1FKc21JWUE2OEJ1NDVxVE1Uc0hqSnFlZzRDYTVMRFl5VXlHN3NqSnFRTGFjdDAxQkRISE1HRVVkSkNIU0s5YlZabldpNTdPWHpoZ3hkZXhtX2tUa0VPbFRqb1c4TWo0aXJmb2FrUHhxUUZ0b0NjVFZYZmtqeWV5UUVJU3Y?oc=5\" target=\"_blank\">Lee rules out Korean troop deployment in Iran war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">koreatimes.co.kr</font>",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWjB0cWU2Mmh3Q1BQOVBCSGFkTk1Bdi11Y2VYVjEyU3RMTXlsa3RGYms2X0tRTXNmSVk5ZXBfMzI1QklCYTFPeU9za1hYV1pxeHJBQ1VwQzZaY0VrTjBrM1VUZElGaEctT2oxRnlndFRCZlc2ZzJub2R6cmNSNVhUN1A5YkJNaU5PTHBaMXVyNnlUdVFabFZlYTJGYjI4LXdHYXY3VDZxSkxEU0HSAbABQVVfeXFMUG9uZGZ0Y18xYUxBYTNjcnVtZ1pBamdZUGdDRVNNeGsyNnJMWGdkVXJheUlZU1FKc21JWUE2OEJ1NDVxVE1Uc0hqSnFlZzRDYTVMRFl5VXlHN3NqSnFRTGFjdDAxQkRISE1HRVVkSkNIU0s5YlZabldpNTdPWHpoZ3hkZXhtX2tUa0VPbFRqb1c4TWo0aXJmb2FrUHhxUUZ0b0NjVFZYZmtqeWV5UUVJU3Y?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-09-18",
+          "title": "Venezuela leader Rodriguez signs agreement with French Oil Company Total Energies - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUHdDaFdZdk40NkZqOEtOeG1kTjI5dE5YUmY2ZjBXV25sWDh5cFNLZ3lReWxKMXZZQkxIRGI5MDJBOHRpSzdyY1RnMzdSRlNKTV9RZ2hZNnlYSFdaSUdRWmtNaUVRbS1ZdndyYlNxTjJONUw5SlFFdlVNVTNSbll4bFFRSE5HVlFyQkVTNy1Ja2UwZXVSc1lxa0tQUjRfd3pmMk12QllwVGhOZ2ttcEtKSzl3Tm11bHR0dF90eEh0ZHgtQQ?oc=5\" target=\"_blank\">Venezuela leader Rodriguez signs agreement with French Oil Company Total Energies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUHdDaFdZdk40NkZqOEtOeG1kTjI5dE5YUmY2ZjBXV25sWDh5cFNLZ3lReWxKMXZZQkxIRGI5MDJBOHRpSzdyY1RnMzdSRlNKTV9RZ2hZNnlYSFdaSUdRWmtNaUVRbS1ZdndyYlNxTjJONUw5SlFFdlVNVTNSbll4bFFRSE5HVlFyQkVTNy1Ja2UwZXVSc1lxa0tQUjRfd3pmMk12QllwVGhOZ2ttcEtKSzl3Tm11bHR0dF90eEh0ZHgtQQ?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-09-19",
           "views": "13.0K"
         },
         {
-          "title": "Lee rules out troop deployment involving Korea in Iran war - koreatimes.co.kr",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQZTdYRU1VZGN5UmFnSl8ySEpYcHV5Y3pfd1hCZlF2NnQ4X1hrb1lwM2N4SXVoX2hSdkdDYmMyOUZpRHJYc3dfd0JBVklQc2w4dkJCc0FCM2pkTzZWWWtZNWFZLVVJRHFydUF6ZVRNS2Rua3A5QzlCdzN2ekYwTzFmaVdKNVByR2p4WG1Wc1N3aWlWaFZJbnpWU0h4UDJXMk8wYnV4MUgwd1gxOHVRcEU4blBDOFQyLU03RXVWU9IBvAFBVV95cUxQZTdYRU1VZGN5UmFnSl8ySEpYcHV5Y3pfd1hCZlF2NnQ4X1hrb1lwM2N4SXVoX2hSdkdDYmMyOUZpRHJYc3dfd0JBVklQc2w4dkJCc0FCM2pkTzZWWWtZNWFZLVVJRHFydUF6ZVRNS2Rua3A5QzlCdzN2ekYwTzFmaVdKNVByR2p4WG1Wc1N3aWlWaFZJbnpWU0h4UDJXMk8wYnV4MUgwd1gxOHVRcEU4blBDOFQyLU03RXVWUw?oc=5\" target=\"_blank\">Lee rules out troop deployment involving Korea in Iran war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">koreatimes.co.kr</font>",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZTdYRU1VZGN5UmFnSl8ySEpYcHV5Y3pfd1hCZlF2NnQ4X1hrb1lwM2N4SXVoX2hSdkdDYmMyOUZpRHJYc3dfd0JBVklQc2w4dkJCc0FCM2pkTzZWWWtZNWFZLVVJRHFydUF6ZVRNS2Rua3A5QzlCdzN2ekYwTzFmaVdKNVByR2p4WG1Wc1N3aWlWaFZJbnpWU0h4UDJXMk8wYnV4MUgwd1gxOHVRcEU4blBDOFQyLU03RXVWU9IBvAFBVV95cUxQZTdYRU1VZGN5UmFnSl8ySEpYcHV5Y3pfd1hCZlF2NnQ4X1hrb1lwM2N4SXVoX2hSdkdDYmMyOUZpRHJYc3dfd0JBVklQc2w4dkJCc0FCM2pkTzZWWWtZNWFZLVVJRHFydUF6ZVRNS2Rua3A5QzlCdzN2ekYwTzFmaVdKNVByR2p4WG1Wc1N3aWlWaFZJbnpWU0h4UDJXMk8wYnV4MUgwd1gxOHVRcEU4blBDOFQyLU03RXVWUw?oc=5",
+          "title": "Lee rules out Korean troop deployment in Iran war - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWjB0cWU2Mmh3Q1BQOVBCSGFkTk1Bdi11Y2VYVjEyU3RMTXlsa3RGYms2X0tRTXNmSVk5ZXBfMzI1QklCYTFPeU9za1hYV1pxeHJBQ1VwQzZaY0VrTjBrM1VUZElGaEctT2oxRnlndFRCZlc2ZzJub2R6cmNSNVhUN1A5YkJNaU5PTHBaMXVyNnlUdVFabFZlYTJGYjI4LXdHYXY3VDZxSkxEU0HSAbABQVVfeXFMUG9uZGZ0Y18xYUxBYTNjcnVtZ1pBamdZUGdDRVNNeGsyNnJMWGdkVXJheUlZU1FKc21JWUE2OEJ1NDVxVE1Uc0hqSnFlZzRDYTVMRFl5VXlHN3NqSnFRTGFjdDAxQkRISE1HRVVkSkNIU0s5YlZabldpNTdPWHpoZ3hkZXhtX2tUa0VPbFRqb1c4TWo0aXJmb2FrUHhxUUZ0b0NjVFZYZmtqeWV5UUVJU3Y?oc=5\" target=\"_blank\">Lee rules out Korean troop deployment in Iran war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWjB0cWU2Mmh3Q1BQOVBCSGFkTk1Bdi11Y2VYVjEyU3RMTXlsa3RGYms2X0tRTXNmSVk5ZXBfMzI1QklCYTFPeU9za1hYV1pxeHJBQ1VwQzZaY0VrTjBrM1VUZElGaEctT2oxRnlndFRCZlc2ZzJub2R6cmNSNVhUN1A5YkJNaU5PTHBaMXVyNnlUdVFabFZlYTJGYjI4LXdHYXY3VDZxSkxEU0HSAbABQVVfeXFMUG9uZGZ0Y18xYUxBYTNjcnVtZ1pBamdZUGdDRVNNeGsyNnJMWGdkVXJheUlZU1FKc21JWUE2OEJ1NDVxVE1Uc0hqSnFlZzRDYTVMRFl5VXlHN3NqSnFRTGFjdDAxQkRISE1HRVVkSkNIU0s5YlZabldpNTdPWHpoZ3hkZXhtX2tUa0VPbFRqb1c4TWo0aXJmb2FrUHhxUUZ0b0NjVFZYZmtqeWV5UUVJU3Y?oc=5",
           "source": "The Korea Times",
           "publishedAt": "2026-09-18",
           "views": "13.0K"
