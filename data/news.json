@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-21T04:51:14.011Z",
+  "lastUpdated": "2026-09-22T04:50:30.233Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,6 +49,14 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
+          "title": "Alibaba plans AI model with 5 trillion to 10 trillion parameters, unveils new chip - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUlcybzdOMWxNcmJHT1ZvUHFRTkczZzRNbHpkeUM1QjVxak5WMVdfTldrMWRtaTdHd1FvZkUwbGN4NmhwdUFSdmJxdVBVTGZxNFBWMUNqQXU3dlJzM1VXOHZsYmliZmxBRl90eFF6dEFZWl9BQTJTdkdxaDBSMGVrSXBJUkFVQkx1RTFOcktHZDQ4blo4VFh0amtSRmYxU2YxeGdQdUhFa25DeDBjSllsaVBsUVQ3X3VYdnRKMTAxN1BzZFQzUUpGSVI3TXZBZmRuTlhjejFB?oc=5\" target=\"_blank\">Alibaba plans AI model with 5 trillion to 10 trillion parameters, unveils new chip</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUlcybzdOMWxNcmJHT1ZvUHFRTkczZzRNbHpkeUM1QjVxak5WMVdfTldrMWRtaTdHd1FvZkUwbGN4NmhwdUFSdmJxdVBVTGZxNFBWMUNqQXU3dlJzM1VXOHZsYmliZmxBRl90eFF6dEFZWl9BQTJTdkdxaDBSMGVrSXBJUkFVQkx1RTFOcktHZDQ4blo4VFh0amtSRmYxU2YxeGdQdUhFa25DeDBjSllsaVBsUVQ3X3VYdnRKMTAxN1BzZFQzUUpGSVI3TXZBZmRuTlhjejFB?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-09-22",
+          "views": "18.0K"
+        },
+        {
           "title": "Google’s Gemini is the latest AI model to hack other companies - TechCrunch",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOYm5KUVJReVdUcmltT2F0ZlVGRU42WnltWFZWTzBxVUJFZ0RmNWs0QzNZdEtmcDRyVjB0Z3VsUE55ZUhFSG83T0IzMjlJMEtxWXRqMU1UOGxsRW9zdEhwempLQUMxVTJCYk5UMTBHV2xNSnZHX0JiMXRvRjFCVURyUGZEcExpaXhKNFIydFNqbllYTW1URUY3NlVHbWM?oc=5\" target=\"_blank\">Google’s Gemini is the latest AI model to hack other companies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYm5KUVJReVdUcmltT2F0ZlVGRU42WnltWFZWTzBxVUJFZ0RmNWs0QzNZdEtmcDRyVjB0Z3VsUE55ZUhFSG83T0IzMjlJMEtxWXRqMU1UOGxsRW9zdEhwempLQUMxVTJCYk5UMTBHV2xNSnZHX0JiMXRvRjFCVURyUGZEcExpaXhKNFIydFNqbllYTW1URUY3NlVHbWM?oc=5",
@@ -62,14 +70,6 @@
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYW5jcDZETy15OEFacVFGV0w5Wjk3dFYtZW83VXNFdVRvMmRuWVR3RFVGSFJlclg2ejRraU83Um90ZkZvZ0R3MGxZZ2VDTnJmVEw4dWZESDQyYktyMXQydDBhZ0R1TUROVm1PWWV3NTlsd2piclFFSW5XSVBBOUFyWFFhbmt3dTM1Mm1YZHZ5WXgxNUl2cDFJM2pvNEc5YkJCZHpTSVczMm8?oc=5",
           "source": "TechCrunch AI",
           "publishedAt": "2026-09-18",
-          "views": "18.0K"
-        },
-        {
-          "title": "Anthropic says Claude now leads a quarter of work building its next AI models - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOTlkTk8zR3FVNjBtYTRfeEZQWU9zWHhWUE00dUhyMDhMUHZDRF90dlhuUDhYS3QweW9ZejB1U0tNQ0dFQjIxZ1lFLXhfdEliaHN3MzJZV0JYRnJMc0pyU2k4dmdyX2tPR1VOX0RRdmVJUkZ1bWZCcVJ5czg4XzlXQmRXaXpVYzB1a0QwRGdzUkFVbGtVY3ZJVEpKSEwzUXdMT0NaV0F1cTVQOEFhSzRTR0ZURUlzM3NL?oc=5\" target=\"_blank\">Anthropic says Claude now leads a quarter of work building its next AI models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOTlkTk8zR3FVNjBtYTRfeEZQWU9zWHhWUE00dUhyMDhMUHZDRF90dlhuUDhYS3QweW9ZejB1U0tNQ0dFQjIxZ1lFLXhfdEliaHN3MzJZV0JYRnJMc0pyU2k4dmdyX2tPR1VOX0RRdmVJUkZ1bWZCcVJ5czg4XzlXQmRXaXpVYzB1a0QwRGdzUkFVbGtVY3ZJVEpKSEwzUXdMT0NaV0F1cTVQOEFhSzRTR0ZURUlzM3NL?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-09-17",
           "views": "18.0K"
         }
       ]
@@ -88,19 +88,19 @@
           "views": "18.0K"
         },
         {
-          "title": "Why Most Enterprise Agent Pilots Never Reach Deployment - AI News",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGdYb3RCVk1fSVU1Z1ZJZjFtelNGOXBpWUhIbmhxN3NxRHg1UFAxS2FVeldGQ1NZOUphSEVhdk0zbl9maUt6b1psUG9scElJZ0lHcW9CT2R3Z1dRQ0l5ZmhhRXhwc0FZWUlmUXFtM1BNdF9oWHAzbGw2M29xM2RPVVJsRC1tRUc1NF9BNms4eEk3emlYMW10Rmp0U0l2LS1YNlozQkxiMmc?oc=5\" target=\"_blank\">Why Most Enterprise Agent Pilots Never Reach Deployment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI News</font>",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOGdYb3RCVk1fSVU1Z1ZJZjFtelNGOXBpWUhIbmhxN3NxRHg1UFAxS2FVeldGQ1NZOUphSEVhdk0zbl9maUt6b1psUG9scElJZ0lHcW9CT2R3Z1dRQ0l5ZmhhRXhwc0FZWUlmUXFtM1BNdF9oWHAzbGw2M29xM2RPVVJsRC1tRUc1NF9BNms4eEk3emlYMW10Rmp0U0l2LS1YNlozQkxiMmc?oc=5",
-          "source": "AI News",
-          "publishedAt": "2026-09-14",
-          "views": "18.0K"
+          "title": "LS Electric deploys robotic dogs to drive smart factory automation in Busan - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeEgxMFZZQW0zSEMtZHEyWm1hdlhnSXJZeHZHWk9wX0ppV2lvT3ZHLUxuc0JXOUdySkZSRDQ1R3R6X3hWaVpHQmtZaUt2TTdyaHhQajB3enRzdEVudmZEMmFleGdMSE9SVzVQY2Q0aG0xQTlqWjVxVjhpdzRFVmF3cG1XR2ZnXzNERXRkX0MxT2JVY01wV2tkTDYtTXl3OUlnYVV6eURwY3RZSV9jM2JEZ1hMcDNoeUE5V2xpdThoTlBsNHJkal9lUnIxT0p6MGxUNUHSAdIBQVVfeXFMTnhIMTBWWUFtM0hDLWRxMlptYXZYZ0lyWXh2R1pPcF9KaVdpb092Ry1MbnNCVzlHckpGUkQ0NUd0el94VmlaR0JrWWlLdk03cmh4UGowd3p0c3RFbnZmRDJhZXhnTEhPUlc1UGNkNGhtMUE5alo1cVY4aXc0RVZhd3BtV0dmZ18zREV0ZF9DMU9iVWNNcFdrZEw2LU15dzlJZ2FVenlEcGN0WUlfYzNiRGdYTHAzaHlBOVdsaXU4aE5QbDRyZGpfZVJyMU9KejBsVDVB?oc=5\" target=\"_blank\">LS Electric deploys robotic dogs to drive smart factory automation in Busan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeEgxMFZZQW0zSEMtZHEyWm1hdlhnSXJZeHZHWk9wX0ppV2lvT3ZHLUxuc0JXOUdySkZSRDQ1R3R6X3hWaVpHQmtZaUt2TTdyaHhQajB3enRzdEVudmZEMmFleGdMSE9SVzVQY2Q0aG0xQTlqWjVxVjhpdzRFVmF3cG1XR2ZnXzNERXRkX0MxT2JVY01wV2tkTDYtTXl3OUlnYVV6eURwY3RZSV9jM2JEZ1hMcDNoeUE5V2xpdThoTlBsNHJkal9lUnIxT0p6MGxUNUHSAdIBQVVfeXFMTnhIMTBWWUFtM0hDLWRxMlptYXZYZ0lyWXh2R1pPcF9KaVdpb092Ry1MbnNCVzlHckpGUkQ0NUd0el94VmlaR0JrWWlLdk03cmh4UGowd3p0c3RFbnZmRDJhZXhnTEhPUlc1UGNkNGhtMUE5alo1cVY4aXc0RVZhd3BtV0dmZ18zREV0ZF9DMU9iVWNNcFdrZEw2LU15dzlJZ2FVenlEcGN0WUlfYzNiRGdYTHAzaHlBOVdsaXU4aE5QbDRyZGpfZVJyMU9KejBsVDVB?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-09-22",
+          "views": "13.0K"
         },
         {
-          "title": "ICE agent shoots and wounds man in Austin, Texas, officials say - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlhwTXFWR0c2akdVU01kMHJKQW1fZVB5NXZwamwxT2NJNmVWTS12UXlPUjZhbDZvNkpGQ21xYU55V0ZCb2ZyV1dqcUJ2X1ZWVFJGSWhDblJXOElHTjY0NmxrSzFqLVJ0TEJIb196eU9JaHpjaTBmVnBWYm5WaHItZW5jTHJqV1VvUzFfbDY0MnU5OWRKTDBYdUJvRGlsUVZKT0dWR2pxZXUxalJGbWfSAa4BQVVfeXFMUEZYcE1xVkdHNmpHVVNNZDBySkFtX2VQeTV2cGpsMU9jSTZlVk0tdlF5T1I2YWw2bzZKRkNtcWFOeVdGQm9mcldXanFCdl9WVlRSRkloQ25SVzhJR042NDZsa0sxai1SdExCSG9fenlPSWh6Y2kwZlZwVmJuVmhyLWVuY0xyaldVb1MxX2w2NDJ1OTlkSkwwWHVCb0RpbFFWSk9HVkdqcWV1MWpSRm1n?oc=5\" target=\"_blank\">ICE agent shoots and wounds man in Austin, Texas, officials say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRlhwTXFWR0c2akdVU01kMHJKQW1fZVB5NXZwamwxT2NJNmVWTS12UXlPUjZhbDZvNkpGQ21xYU55V0ZCb2ZyV1dqcUJ2X1ZWVFJGSWhDblJXOElHTjY0NmxrSzFqLVJ0TEJIb196eU9JaHpjaTBmVnBWYm5WaHItZW5jTHJqV1VvUzFfbDY0MnU5OWRKTDBYdUJvRGlsUVZKT0dWR2pxZXUxalJGbWfSAa4BQVVfeXFMUEZYcE1xVkdHNmpHVVNNZDBySkFtX2VQeTV2cGpsMU9jSTZlVk0tdlF5T1I2YWw2bzZKRkNtcWFOeVdGQm9mcldXanFCdl9WVlRSRkloQ25SVzhJR042NDZsa0sxai1SdExCSG9fenlPSWh6Y2kwZlZwVmJuVmhyLWVuY0xyaldVb1MxX2w2NDJ1OTlkSkwwWHVCb0RpbFFWSk9HVkdqcWV1MWpSRm1n?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-09-21",
+          "title": "Man shot by ICE agents in Texas says he is in detention with bullet in back - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNNjR0QW1GWXIyWWRiRUdWYzA0bTM4Z04wdVNxNHRVcThOX01vNjJXaWRHa2FSR2h0R3RFSjFpQVFWdWlnZUs1b3ZsTl9GQmVlSXhBemM2eUdoYlgyS2VSWm1DX25CaXVUa0lkWTI0YmVOb0FjTk1KQ2pLYWZhQ19NTFNsWGtkeHlUbWxzVU5NZ09PTkZJaTlZemw0alZtWmZXb3dWdDRYZGRVRm9i?oc=5\" target=\"_blank\">Man shot by ICE agents in Texas says he is in detention with bullet in back</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNjR0QW1GWXIyWWRiRUdWYzA0bTM4Z04wdVNxNHRVcThOX01vNjJXaWRHa2FSR2h0R3RFSjFpQVFWdWlnZUs1b3ZsTl9GQmVlSXhBemM2eUdoYlgyS2VSWm1DX25CaXVUa0lkWTI0YmVOb0FjTk1KQ2pLYWZhQ19NTFNsWGtkeHlUbWxzVU5NZ09PTkZJaTlZemw0alZtWmZXb3dWdDRYZGRVRm9i?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-09-22",
           "views": "13.0K"
         }
       ]
@@ -110,6 +110,14 @@
       "hashtag": "#윤리",
       "description": "규제, 책임, 신뢰, 저작권 같은 문제를 보는 관점",
       "items": [
+        {
+          "title": "[COVER STORY] Middle-aged Koreans largely look to national pension for post-retirement safety net - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWFhMZ1VsY1JTSWtuMnhJUGxDWHNsR2NNVk0xaG01c2tfeEFGTkJVVmtmUkRreXFGZEdGRXVTbEVOTnRzQ1JMYmpxUmR3U3ZRYjhoUHhLSzJsU0laWW5yNW5vck5kV2k1RGpCaFZ4aUt2TUNzWG1OYi00UzV1R1lLOHRIOXdSckI4Zk9BYWZydHNQbURuRU1YVUdPbjVNMjE5VXJvcVVXVXRybUwzblhyRzdvbjNaWHFTTUJkSXgxSTlnR3VwNy1BeDlFMVRJX0pmQlJuYS1wUG85TWNGd25CVklB0gHnAUFVX3lxTFBpTnU3MW9YbFZrNDVoNTN0dk1KbmctU1JmQ2FFTmd1ZXFtdXBHN0doSkxCbUhWakMySE5aQkpzR1NrTnM3a1hDdG5DUmc5eFFabFI2ZWsyMUxsTVhPUEFsTUpPOHR6UUxGcEc2Z0RzN1M3ZE5vY2FjRFh0MElSaWJCX2I2UU5mTzg3c1hnbDc1cTJwZldJLWdMMExFd0M0T3BKWXJoN1c3cm9nYWZXZWpGZG9tOVVHZl9hWjNsS3FhWVlHWUcxbzNHQ2lCWG9feHVPMzMyWFllMjd5cldtNURrcGlCQ2Etbw?oc=5\" target=\"_blank\">[COVER STORY] Middle-aged Koreans largely look to national pension for post-retirement safety net</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWFhMZ1VsY1JTSWtuMnhJUGxDWHNsR2NNVk0xaG01c2tfeEFGTkJVVmtmUkRreXFGZEdGRXVTbEVOTnRzQ1JMYmpxUmR3U3ZRYjhoUHhLSzJsU0laWW5yNW5vck5kV2k1RGpCaFZ4aUt2TUNzWG1OYi00UzV1R1lLOHRIOXdSckI4Zk9BYWZydHNQbURuRU1YVUdPbjVNMjE5VXJvcVVXVXRybUwzblhyRzdvbjNaWHFTTUJkSXgxSTlnR3VwNy1BeDlFMVRJX0pmQlJuYS1wUG85TWNGd25CVklB0gHnAUFVX3lxTFBpTnU3MW9YbFZrNDVoNTN0dk1KbmctU1JmQ2FFTmd1ZXFtdXBHN0doSkxCbUhWakMySE5aQkpzR1NrTnM3a1hDdG5DUmc5eFFabFI2ZWsyMUxsTVhPUEFsTUpPOHR6UUxGcEc2Z0RzN1M3ZE5vY2FjRFh0MElSaWJCX2I2UU5mTzg3c1hnbDc1cTJwZldJLWdMMExFd0M0T3BKWXJoN1c3cm9nYWZXZWpGZG9tOVVHZl9hWjNsS3FhWVlHWUcxbzNHQ2lCWG9feHVPMzMyWFllMjd5cldtNURrcGlCQ2Etbw?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-09-21",
+          "views": "18.0K"
+        },
         {
           "title": "Report finds 'culture of risk aversion' hindered oversight of SVB, Fed official says - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOa0lrd1l3TVdweDJUSV8ybjRhbnhfTmhzWEcxUjZhNkNRaTRGN21Ob1VYT3Q4OVF2d2toWEdXM1dvTk5NenhHeUY0RjVidHVxQnZBS2RraGNOay1vN0ZQd3llUHRnVGV5a2hMMUtncm10ZWlqTG9UMk1CeGhWSzNQaGF1RTRWWEkxUmZMaGw4R0ZuRXh6UXBzOGN5Z19Hc2x2UVNfVVVpYW1ldlNMZnRvdkVQdnZMcW1McDczREVqWTdXM0JHRVBRaFlaWQ?oc=5\" target=\"_blank\">Report finds 'culture of risk aversion' hindered oversight of SVB, Fed official says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
@@ -123,14 +131,6 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNRjZ2WFF6NTVKSk1aejZlaXJWNi1wUmoxdHBVYnBfWnZmYkF6Ung0YV9fYk1VLXl4dEtXQll2OFJjNGcwclVScl9LblFOeGdOb25oRE1xQ0hPTFY3TU1jc0NUZmppTExSbnRvRHlicXJWa1M5UUxXQnpyMHA0R1dYa3ZFcw?oc=5\" target=\"_blank\">Chipotle Is Working With Palantir to Track Food Safety Risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRjZ2WFF6NTVKSk1aejZlaXJWNi1wUmoxdHBVYnBfWnZmYkF6Ung0YV9fYk1VLXl4dEtXQll2OFJjNGcwclVScl9LblFOeGdOb25oRE1xQ0hPTFY3TU1jc0NUZmppTExSbnRvRHlicXJWa1M5UUxXQnpyMHA0R1dYa3ZFcw?oc=5",
           "source": "WIRED AI",
-          "publishedAt": "2026-09-16",
-          "views": "18.0K"
-        },
-        {
-          "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says - TechCrunch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTW5yQnNCZkM1c1JRdjA5eFNnTnV4d0dfa2xPcWNrcGFwZ3Z0eTR1UUlWRFhtMlBKU0JfNVdnU1ZzV25Ea282aXhfZ3BkLXVnZ1pHbTIxQkI1enlyMmh6RldUNllKUkhGNUtDZVJMU3JFaVQzaGtVN29zQWZMOTMwYXc1bjFsNnJ5YVVadGtmN29RTENOSDdOcWREY3V3eTUxS1dIOEEtdXJjdw?oc=5\" target=\"_blank\">We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTW5yQnNCZkM1c1JRdjA5eFNnTnV4d0dfa2xPcWNrcGFwZ3Z0eTR1UUlWRFhtMlBKU0JfNVdnU1ZzV25Ea282aXhfZ3BkLXVnZ1pHbTIxQkI1enlyMmh6RldUNllKUkhGNUtDZVJMU3JFaVQzaGtVN29zQWZMOTMwYXc1bjFsNnJ5YVVadGtmN29RTENOSDdOcWREY3V3eTUxS1dIOEEtdXJjdw?oc=5",
-          "source": "TechCrunch AI",
           "publishedAt": "2026-09-16",
           "views": "18.0K"
         }
@@ -150,19 +150,19 @@
           "views": "18.0K"
         },
         {
-          "title": "Lee Puts Brakes on $200B U.S. Investment Deal - ETNEWS",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9NaHNGRVhsLS1lQU0tWlZDWTgwOE40eURQT1VlQkZPT1o2UTZQOHdFQm9DNFNBUmRMbTdRcElKeEZ0dThFUWs3YnBjWTM?oc=5\" target=\"_blank\">Lee Puts Brakes on $200B U.S. Investment Deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9NaHNGRVhsLS1lQU0tWlZDWTgwOE40eURQT1VlQkZPT1o2UTZQOHdFQm9DNFNBUmRMbTdRcElKeEZ0dThFUWs3YnBjWTM?oc=5",
+          "title": "AI Data Center Chips Head Toward $1.5T Market - ETNEWS",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFAzQlFGVU1qX196SU42RldPa2tXc0VNNGV1TlVhWTlWVGNFWEsyRzlSb28wZTVRNlVjdjFRRHBkOHAyQlRtZFB1elZkT0U?oc=5\" target=\"_blank\">AI Data Center Chips Head Toward $1.5T Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAzQlFGVU1qX196SU42RldPa2tXc0VNNGV1TlVhWTlWVGNFWEsyRzlSb28wZTVRNlVjdjFRRHBkOHAyQlRtZFB1elZkT0U?oc=5",
           "source": "전자신문",
-          "publishedAt": "2026-09-21",
+          "publishedAt": "2026-09-22",
           "views": "13.0K"
         },
         {
-          "title": "Softbank Group launches over $10 billion in bonds for OpenAI investment, term sheet shows - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRFpJSWkxMGJsX2cyM3pnVGxFdi0yU3BIRHd0RUM0MUZwWE42WTJhVmwwLUNQUkNhakRLQW1xZWlSMTRWZElIZXNQWFZEbWdpX1Z0aXctRzkxT1VvdlhxZFBSclJNQzlFSUM1cXc4by0yOU51bmZDYUxhdi1GS0RLbzB1VUpqMVRoeGpVTkRjSTltcEdtdldZVldpQ1RtcFJmdkl3VGowWll5cmxFSHE4SnVzOGVYWGEzZDhPOTNDSzNUZ2MxeExISmVyS1FwY01pc1dlcDdR?oc=5\" target=\"_blank\">Softbank Group launches over $10 billion in bonds for OpenAI investment, term sheet shows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRFpJSWkxMGJsX2cyM3pnVGxFdi0yU3BIRHd0RUM0MUZwWE42WTJhVmwwLUNQUkNhakRLQW1xZWlSMTRWZElIZXNQWFZEbWdpX1Z0aXctRzkxT1VvdlhxZFBSclJNQzlFSUM1cXc4by0yOU51bmZDYUxhdi1GS0RLbzB1VUpqMVRoeGpVTkRjSTltcEdtdldZVldpQ1RtcFJmdkl3VGowWll5cmxFSHE4SnVzOGVYWGEzZDhPOTNDSzNUZ2MxeExISmVyS1FwY01pc1dlcDdR?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-09-21",
+          "title": "CJ CheilJedang debuts traditional liquor brand jari in US market - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPWmFuTlNGYjJJOGI5cGJVRUVTZl8yNnR5ZU43eTdiOTJhSFgtalIzdDBxemczV19sdWNSUmVNdGpPZXkzNEp1cy1odEkwbHczbTh3d3VtZE53cVFUVzFzbVMyTEFPUjFXdE43UEQ1UEFpMkVhbjJuOC1pNFVfX1VYalkyc09feVFUR25YZndxeUdtZEhuc21HbFlTWFpsM2ZPQTlHR0plQXBvcFVGNW9YaU1ibzJvNlBZUG1vZlNn0gHDAUFVX3lxTFBBRldiaUkzZU0tY2NIczBJMV9nd25nWUg5UkFfcmVaUFR5V1lLN2M5U3BBYUdpQXcwUnJWdkVOcmc2V1NkS3FMYWFCNUlKU2VRM0ZiVTF1U05Kcy1BckUxS2xvQWVfdUFNN1FFTkdFQ01GRlE1Y0VNeERUQWlyMmRDbndfa2x3M280SV91SUNaNHdOanU1X01QV1ZlREl5UmNaWFlnWUsyTC00NzFDMHFOZ3B5U0xrUU9rdnk4WTdveVRobw?oc=5\" target=\"_blank\">CJ CheilJedang debuts traditional liquor brand jari in US market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWmFuTlNGYjJJOGI5cGJVRUVTZl8yNnR5ZU43eTdiOTJhSFgtalIzdDBxemczV19sdWNSUmVNdGpPZXkzNEp1cy1odEkwbHczbTh3d3VtZE53cVFUVzFzbVMyTEFPUjFXdE43UEQ1UEFpMkVhbjJuOC1pNFVfX1VYalkyc09feVFUR25YZndxeUdtZEhuc21HbFlTWFpsM2ZPQTlHR0plQXBvcFVGNW9YaU1ibzJvNlBZUG1vZlNn0gHDAUFVX3lxTFBBRldiaUkzZU0tY2NIczBJMV9nd25nWUg5UkFfcmVaUFR5V1lLN2M5U3BBYUdpQXcwUnJWdkVOcmc2V1NkS3FMYWFCNUlKU2VRM0ZiVTF1U05Kcy1BckUxS2xvQWVfdUFNN1FFTkdFQ01GRlE1Y0VNeERUQWlyMmRDbndfa2x3M280SV91SUNaNHdOanU1X01QV1ZlREl5UmNaWFlnWUsyTC00NzFDMHFOZ3B5U0xrUU9rdnk4WTdveVRobw?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-09-22",
           "views": "13.0K"
         }
       ]
@@ -173,27 +173,27 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
-          "title": "Is the AI industry really ready to slow down? - TechCrunch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPV3JETDlNeFloZXZBOUhEcFRqM2J4ZHBUc0hlV2JLel9uOHlEZEs3OVlwLXFOT0tHc29MVE5meWxrVHktQ1R2RHhhZW1uZmRGTHVtNnNjQl95Y1B5SUM1b2RQcmNXOWxDa0c1bjRfTWtXWlluWkFCZzlYMlhheWpSN3VNcVJWUQ?oc=5\" target=\"_blank\">Is the AI industry really ready to slow down?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPV3JETDlNeFloZXZBOUhEcFRqM2J4ZHBUc0hlV2JLel9uOHlEZEs3OVlwLXFOT0tHc29MVE5meWxrVHktQ1R2RHhhZW1uZmRGTHVtNnNjQl95Y1B5SUM1b2RQcmNXOWxDa0c1bjRfTWtXWlluWkFCZzlYMlhheWpSN3VNcVJWUQ?oc=5",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-09-20",
+          "title": "Korea's aviation industry undergoes major M&A shakeup - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQNjFqSFpjMUFuWlQ5S2hpZFhFMUI3b2JRZUNGWFpvSzhMdEdBNVItSWNEOVNNRzNsWHR4QWFuQWVJOWtfMXNVSDZSWWhhNzBjLW1jb3owcjFsTmFnejM4bFB5MFRmRnBNZDFMa2IxT3phMlM1SnFwX1pHa1RIWXNOZnFXRnk1RXowYjZMZFg0OVNrMkh3ZGhRa0w1ZUxVRU4tOXJjYVd1bUdDQzZp0gGyAUFVX3lxTE1PSS1JWGFNU1ZkUG9QR2Z6N3oybG9qdGRiVXVMcE8wLUFEckRCM0hPSzFJSTB0bHNULXVjQ2FsU084U0p0NmQzLUlVbmFXM1UtTlZ6cS1iRm9SQV9qeHlJUnpTazk0emRsR2toSUxyQTduTWZoRmswbXlIWnlrRXdkQUlKQTNBbEFfdlkzNGR4ejVJbm9MTHVneUZtQzR5SUU1cTY1WVplRVd2NXJWRFZNUEE?oc=5\" target=\"_blank\">Korea's aviation industry undergoes major M&A shakeup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNjFqSFpjMUFuWlQ5S2hpZFhFMUI3b2JRZUNGWFpvSzhMdEdBNVItSWNEOVNNRzNsWHR4QWFuQWVJOWtfMXNVSDZSWWhhNzBjLW1jb3owcjFsTmFnejM4bFB5MFRmRnBNZDFMa2IxT3phMlM1SnFwX1pHa1RIWXNOZnFXRnk1RXowYjZMZFg0OVNrMkh3ZGhRa0w1ZUxVRU4tOXJjYVd1bUdDQzZp0gGyAUFVX3lxTE1PSS1JWGFNU1ZkUG9QR2Z6N3oybG9qdGRiVXVMcE8wLUFEckRCM0hPSzFJSTB0bHNULXVjQ2FsU084U0p0NmQzLUlVbmFXM1UtTlZ6cS1iRm9SQV9qeHlJUnpTazk0emRsR2toSUxyQTduTWZoRmswbXlIWnlrRXdkQUlKQTNBbEFfdlkzNGR4ejVJbm9MTHVneUZtQzR5SUU1cTY1WVplRVd2NXJWRFZNUEE?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-09-21",
           "views": "13.0K"
         },
         {
-          "title": "Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio - TechCrunch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ29xNi1jRWhnZ1Q3YUVrcmk2cWR5azlSQ2pZeWVIbE1nSldzOXpoRkQxaTNJUmo5UnlZVzhRZks2SzBfYlhaV2FWMXNYNUxVWU5fWGlOb1lKZW9YZjh0MlNMSFRRMldnc25BTDY3OEVXNlB1RlNPdy0zYXV3Vm5fVGo1bWdreTZfVGVXNmFtdUZNUzdNTWVVNy0xRjJTOGlXQmRlY3dOaDZsbTR6bXBfSzl0NnZXcW9UV3Jhdm1OOHEwdDQ?oc=5\" target=\"_blank\">Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ29xNi1jRWhnZ1Q3YUVrcmk2cWR5azlSQ2pZeWVIbE1nSldzOXpoRkQxaTNJUmo5UnlZVzhRZks2SzBfYlhaV2FWMXNYNUxVWU5fWGlOb1lKZW9YZjh0MlNMSFRRMldnc25BTDY3OEVXNlB1RlNPdy0zYXV3Vm5fVGo1bWdreTZfVGVXNmFtdUZNUzdNTWVVNy0xRjJTOGlXQmRlY3dOaDZsbTR6bXBfSzl0NnZXcW9UV3Jhdm1OOHEwdDQ?oc=5",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-09-20",
-          "views": "13.0K"
-        },
-        {
-          "title": "Venezuela leader Rodriguez signs agreement with French Oil Company Total Energies - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUHdDaFdZdk40NkZqOEtOeG1kTjI5dE5YUmY2ZjBXV25sWDh5cFNLZ3lReWxKMXZZQkxIRGI5MDJBOHRpSzdyY1RnMzdSRlNKTV9RZ2hZNnlYSFdaSUdRWmtNaUVRbS1ZdndyYlNxTjJONUw5SlFFdlVNVTNSbll4bFFRSE5HVlFyQkVTNy1Ja2UwZXVSc1lxa0tQUjRfd3pmMk12QllwVGhOZ2ttcEtKSzl3Tm11bHR0dF90eEh0ZHgtQQ?oc=5\" target=\"_blank\">Venezuela leader Rodriguez signs agreement with French Oil Company Total Energies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUHdDaFdZdk40NkZqOEtOeG1kTjI5dE5YUmY2ZjBXV25sWDh5cFNLZ3lReWxKMXZZQkxIRGI5MDJBOHRpSzdyY1RnMzdSRlNKTV9RZ2hZNnlYSFdaSUdRWmtNaUVRbS1ZdndyYlNxTjJONUw5SlFFdlVNVTNSbll4bFFRSE5HVlFyQkVTNy1Ja2UwZXVSc1lxa0tQUjRfd3pmMk12QllwVGhOZ2ttcEtKSzl3Tm11bHR0dF90eEh0ZHgtQQ?oc=5",
+          "title": "Thousands of US flights snarled before FAA resolves telecom problem - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVk3MmpJODlBb0YxWTRJZ3I1V3BjOUpSOVd3ZWQwUVVHS3pmM1k0aEp5Znd0a21uRUVheW9PZHpOMzQweGd3djJTQVBLWGhFNEp1TnZCbGs0bHZzYzJrNVVIWUVOSDZwSDNKTWJWcjhfbHR5N0NWREgzb2NWX1VQYjhBY2kzVy1Ec3hSVXl3MWdrM1BIWkZKNzVXWEVKdFRveVE3R2hiMmZnZw?oc=5\" target=\"_blank\">Thousands of US flights snarled before FAA resolves telecom problem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVk3MmpJODlBb0YxWTRJZ3I1V3BjOUpSOVd3ZWQwUVVHS3pmM1k0aEp5Znd0a21uRUVheW9PZHpOMzQweGd3djJTQVBLWGhFNEp1TnZCbGs0bHZzYzJrNVVIWUVOSDZwSDNKTWJWcjhfbHR5N0NWREgzb2NWX1VQYjhBY2kzVy1Ec3hSVXl3MWdrM1BIWkZKNzVXWEVKdFRveVE3R2hiMmZnZw?oc=5",
           "source": "Reuters AI",
-          "publishedAt": "2026-09-19",
+          "publishedAt": "2026-09-21",
+          "views": "13.0K"
+        },
+        {
+          "title": "Spanish PM Sanchez says AI industry cannot be self-regulated - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPajhwN0pNUXd1bTByQVNWOWRPVVJuc3haRHNGVnZIYmJrYWlIU0ZNdlE2d3hNMF9RZXQ4LWFwSkJUblI4cldvZWlPSTVoeDJwRW9acmMwaHV5UmZDOVlWdE9XM3RsZFhoclVGclF6ZjFRcmFNUzZiSm1TemFiSTIzMFFRdGJOalJ5SXZZeHdkYTliZ0JlSWRfOWtMWXg3RWFISHVWRw?oc=5\" target=\"_blank\">Spanish PM Sanchez says AI industry cannot be self-regulated</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPajhwN0pNUXd1bTByQVNWOWRPVVJuc3haRHNGVnZIYmJrYWlIU0ZNdlE2d3hNMF9RZXQ4LWFwSkJUblI4cldvZWlPSTVoeDJwRW9acmMwaHV5UmZDOVlWdE9XM3RsZFhoclVGclF6ZjFRcmFNUzZiSm1TemFiSTIzMFFRdGJOalJ5SXZZeHdkYTliZ0JlSWRfOWtMWXg3RWFISHVWRw?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-09-21",
           "views": "13.0K"
         }
       ]
