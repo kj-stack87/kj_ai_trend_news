@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-23T04:41:27.921Z",
+  "lastUpdated": "2026-09-24T04:44:34.249Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -57,17 +57,17 @@
           "views": "23.0K"
         },
         {
-          "title": "OpenAI releases GPT-6 Sol and Luna models, slashing API costs 50% or more - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTktvX19jdFJXNk1zWk9uQ01FWm84c1dhWGZMaWlkeFpKRHdlVUtnRUZRdjBueGlXTUlteFI1Z2diRHhsUHdYTmlKZ0hnMHZNdm9LUDZWdGlXc3VZSlpfakQyZ1BDQ1BuSUJlTFEwMlpXN3Zlb3JPLWFjT0k2YW9XQTVIcVIxYWUtM01hR3VaR05lVHFoTUJkQjdOUWVuSnJXbUJpRV9kSnBxQQ?oc=5\" target=\"_blank\">OpenAI releases GPT-6 Sol and Luna models, slashing API costs 50% or more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTktvX19jdFJXNk1zWk9uQ01FWm84c1dhWGZMaWlkeFpKRHdlVUtnRUZRdjBueGlXTUlteFI1Z2diRHhsUHdYTmlKZ0hnMHZNdm9LUDZWdGlXc3VZSlpfakQyZ1BDQ1BuSUJlTFEwMlpXN3Zlb3JPLWFjT0k2YW9XQTVIcVIxYWUtM01hR3VaR05lVHFoTUJkQjdOUWVuSnJXbUJpRV9kSnBxQQ?oc=5",
+          "title": "Anthropic releases Claude Opus 5.5, beating Fable 5.1 on key agentic benchmarks at 60% cheaper API price - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcml5V2NScmlDMmg0VXdZR3AyXzJlTHlzRnJ5S05mMHNxQ2ZjSmwwV2tVcWx5RXE4V3JJWWh3MXlKdXdlNno4MVAwaGdXcVVJYm9TNGx5bWgxZjM1dm1VR0ppRGNsRTVZc1UwVkJuRmIwLTFoYnJkUE9sU0taS3Z2dVd6X1VwMEc3SVlJNDhyWWtSMGdlRC01VGQ0bngtWDhLY2ZzSUU3SWFJcnNSRldWdnVHejRKdV9GOEhOUzNiUFFHQmd4Mko0ZjctT0k0STJzVm93?oc=5\" target=\"_blank\">Anthropic releases Claude Opus 5.5, beating Fable 5.1 on key agentic benchmarks at 60% cheaper API price</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcml5V2NScmlDMmg0VXdZR3AyXzJlTHlzRnJ5S05mMHNxQ2ZjSmwwV2tVcWx5RXE4V3JJWWh3MXlKdXdlNno4MVAwaGdXcVVJYm9TNGx5bWgxZjM1dm1VR0ppRGNsRTVZc1UwVkJuRmIwLTFoYnJkUE9sU0taS3Z2dVd6X1VwMEc3SVlJNDhyWWtSMGdlRC01VGQ0bngtWDhLY2ZzSUU3SWFJcnNSRldWdnVHejRKdV9GOEhOUzNiUFFHQmd4Mko0ZjctT0k0STJzVm93?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-09-22",
           "views": "18.0K"
         },
         {
-          "title": "Anthropic releases Claude Opus 5.5, beating Fable 5.1 on key agentic benchmarks at 60% cheaper API price - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcml5V2NScmlDMmg0VXdZR3AyXzJlTHlzRnJ5S05mMHNxQ2ZjSmwwV2tVcWx5RXE4V3JJWWh3MXlKdXdlNno4MVAwaGdXcVVJYm9TNGx5bWgxZjM1dm1VR0ppRGNsRTVZc1UwVkJuRmIwLTFoYnJkUE9sU0taS3Z2dVd6X1VwMEc3SVlJNDhyWWtSMGdlRC01VGQ0bngtWDhLY2ZzSUU3SWFJcnNSRldWdnVHejRKdV9GOEhOUzNiUFFHQmd4Mko0ZjctT0k0STJzVm93?oc=5\" target=\"_blank\">Anthropic releases Claude Opus 5.5, beating Fable 5.1 on key agentic benchmarks at 60% cheaper API price</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcml5V2NScmlDMmg0VXdZR3AyXzJlTHlzRnJ5S05mMHNxQ2ZjSmwwV2tVcWx5RXE4V3JJWWh3MXlKdXdlNno4MVAwaGdXcVVJYm9TNGx5bWgxZjM1dm1VR0ppRGNsRTVZc1UwVkJuRmIwLTFoYnJkUE9sU0taS3Z2dVd6X1VwMEc3SVlJNDhyWWtSMGdlRC01VGQ0bngtWDhLY2ZzSUU3SWFJcnNSRldWdnVHejRKdV9GOEhOUzNiUFFHQmd4Mko0ZjctT0k0STJzVm93?oc=5",
+          "title": "OpenAI releases GPT-6 Sol and Luna models, slashing API costs 50% or more - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTktvX19jdFJXNk1zWk9uQ01FWm84c1dhWGZMaWlkeFpKRHdlVUtnRUZRdjBueGlXTUlteFI1Z2diRHhsUHdYTmlKZ0hnMHZNdm9LUDZWdGlXc3VZSlpfakQyZ1BDQ1BuSUJlTFEwMlpXN3Zlb3JPLWFjT0k2YW9XQTVIcVIxYWUtM01hR3VaR05lVHFoTUJkQjdOUWVuSnJXbUJpRV9kSnBxQQ?oc=5\" target=\"_blank\">OpenAI releases GPT-6 Sol and Luna models, slashing API costs 50% or more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTktvX19jdFJXNk1zWk9uQ01FWm84c1dhWGZMaWlkeFpKRHdlVUtnRUZRdjBueGlXTUlteFI1Z2diRHhsUHdYTmlKZ0hnMHZNdm9LUDZWdGlXc3VZSlpfakQyZ1BDQ1BuSUJlTFEwMlpXN3Zlb3JPLWFjT0k2YW9XQTVIcVIxYWUtM01hR3VaR05lVHFoTUJkQjdOUWVuSnJXbUJpRV9kSnBxQQ?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-09-22",
           "views": "18.0K"
@@ -88,19 +88,19 @@
           "views": "18.0K"
         },
         {
-          "title": "LS Electric deploys robotic dogs to drive smart factory automation in Busan - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQZDhlZXl4SUpEcGozQ0U2c2ZRTzhreU5UaVVmS1J2OWVtNG1LZGhLcFNia19wRk41Y1AycE5CZk5FcUhoWVZiZ0JGZWQzYlAwU21sNGxPd3V3R3Z1amVMS0tuTG1WTW84T2U5UzVqd2hpMWhxWHpFOTM2ZVlacTBpMExHZDQwLXJsUnZGV1huR0MyREJPWjhoTVBZbElWQjdmdGR5MFNELS00TVZMcnR4c056bGlsdU5jWDU5QTZZV3FOcDZvMTZGQ1luZzXSAdIBQVVfeXFMTnhIMTBWWUFtM0hDLWRxMlptYXZYZ0lyWXh2R1pPcF9KaVdpb092Ry1MbnNCVzlHckpGUkQ0NUd0el94VmlaR0JrWWlLdk03cmh4UGowd3p0c3RFbnZmRDJhZXhnTEhPUlc1UGNkNGhtMUE5alo1cVY4aXc0RVZhd3BtV0dmZ18zREV0ZF9DMU9iVWNNcFdrZEw2LU15dzlJZ2FVenlEcGN0WUlfYzNiRGdYTHAzaHlBOVdsaXU4aE5QbDRyZGpfZVJyMU9KejBsVDVB?oc=5\" target=\"_blank\">LS Electric deploys robotic dogs to drive smart factory automation in Busan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZDhlZXl4SUpEcGozQ0U2c2ZRTzhreU5UaVVmS1J2OWVtNG1LZGhLcFNia19wRk41Y1AycE5CZk5FcUhoWVZiZ0JGZWQzYlAwU21sNGxPd3V3R3Z1amVMS0tuTG1WTW84T2U5UzVqd2hpMWhxWHpFOTM2ZVlacTBpMExHZDQwLXJsUnZGV1huR0MyREJPWjhoTVBZbElWQjdmdGR5MFNELS00TVZMcnR4c056bGlsdU5jWDU5QTZZV3FOcDZvMTZGQ1luZzXSAdIBQVVfeXFMTnhIMTBWWUFtM0hDLWRxMlptYXZYZ0lyWXh2R1pPcF9KaVdpb092Ry1MbnNCVzlHckpGUkQ0NUd0el94VmlaR0JrWWlLdk03cmh4UGowd3p0c3RFbnZmRDJhZXhnTEhPUlc1UGNkNGhtMUE5alo1cVY4aXc0RVZhd3BtV0dmZ18zREV0ZF9DMU9iVWNNcFdrZEw2LU15dzlJZ2FVenlEcGN0WUlfYzNiRGdYTHAzaHlBOVdsaXU4aE5QbDRyZGpfZVJyMU9KejBsVDVB?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-09-22",
+          "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPckJ3Z3NZNFRmZXFlT1hyVExUTmlSZmZiQ0Y3Y3ZmcVpkVEdGLTdWUXBEZzduYmFId1VmSVdQTkxVRk9uMTRSU25BaWV3Yk9iX1Eza1pHNXhibFVMUTFPcTVLR1RFdWVRblVTQnpoeFduVnh1ZTllSWppT04zSDhSazVCVTI3aGY2ZjdDNVZJUzB6T21iYzhvdg?oc=5\" target=\"_blank\">Meta made a Tamagotchi-like wearable for its Muse AI agent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPckJ3Z3NZNFRmZXFlT1hyVExUTmlSZmZiQ0Y3Y3ZmcVpkVEdGLTdWUXBEZzduYmFId1VmSVdQTkxVRk9uMTRSU25BaWV3Yk9iX1Eza1pHNXhibFVMUTFPcTVLR1RFdWVRblVTQnpoeFduVnh1ZTllSWppT04zSDhSazVCVTI3aGY2ZjdDNVZJUzB6T21iYzhvdg?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-09-24",
           "views": "13.0K"
         },
         {
-          "title": "Anthropic releases Claude Opus 5.5, beating Fable 5.1 on key agentic benchmarks at 60% cheaper API price - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcml5V2NScmlDMmg0VXdZR3AyXzJlTHlzRnJ5S05mMHNxQ2ZjSmwwV2tVcWx5RXE4V3JJWWh3MXlKdXdlNno4MVAwaGdXcVVJYm9TNGx5bWgxZjM1dm1VR0ppRGNsRTVZc1UwVkJuRmIwLTFoYnJkUE9sU0taS3Z2dVd6X1VwMEc3SVlJNDhyWWtSMGdlRC01VGQ0bngtWDhLY2ZzSUU3SWFJcnNSRldWdnVHejRKdV9GOEhOUzNiUFFHQmd4Mko0ZjctT0k0STJzVm93?oc=5\" target=\"_blank\">Anthropic releases Claude Opus 5.5, beating Fable 5.1 on key agentic benchmarks at 60% cheaper API price</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcml5V2NScmlDMmg0VXdZR3AyXzJlTHlzRnJ5S05mMHNxQ2ZjSmwwV2tVcWx5RXE4V3JJWWh3MXlKdXdlNno4MVAwaGdXcVVJYm9TNGx5bWgxZjM1dm1VR0ppRGNsRTVZc1UwVkJuRmIwLTFoYnJkUE9sU0taS3Z2dVd6X1VwMEc3SVlJNDhyWWtSMGdlRC01VGQ0bngtWDhLY2ZzSUU3SWFJcnNSRldWdnVHejRKdV9GOEhOUzNiUFFHQmd4Mko0ZjctT0k0STJzVm93?oc=5",
+          "title": "AI has created a new identity problem. Agentic IAM is how we solve it. - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPY3pnVWoyYkxTMkdOQVd4ekR5UDZ2ekU3cXZzVEJjWXVYYkt1RlcwaERaV2tvTERESmNWUTl2RmtDUGp6dUZfUjREbl9JR1ZGSVpDZUpYeXhZc2lIRGVNZzhOYlFqdGdmSV9tQV9Gc2xSUGtCOG9SWnE4Y3d4MDh5R1dXSTFDMldxS2EySHFfUk84ODB5c1d0ZlhGbjd0bVFmQUxn?oc=5\" target=\"_blank\">AI has created a new identity problem. Agentic IAM is how we solve it.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPY3pnVWoyYkxTMkdOQVd4ekR5UDZ2ekU3cXZzVEJjWXVYYkt1RlcwaERaV2tvTERESmNWUTl2RmtDUGp6dUZfUjREbl9JR1ZGSVpDZUpYeXhZc2lIRGVNZzhOYlFqdGdmSV9tQV9Gc2xSUGtCOG9SWnE4Y3d4MDh5R1dXSTFDMldxS2EySHFfUk84ODB5c1d0ZlhGbjd0bVFmQUxn?oc=5",
           "source": "VentureBeat AI",
-          "publishedAt": "2026-09-22",
+          "publishedAt": "2026-09-23",
           "views": "13.0K"
         }
       ]
@@ -111,20 +111,20 @@
       "description": "규제, 책임, 신뢰, 저작권 같은 문제를 보는 관점",
       "items": [
         {
-          "title": "[COVER STORY] Middle-aged Koreans largely look to national pension for post-retirement safety net - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWFhMZ1VsY1JTSWtuMnhJUGxDWHNsR2NNVk0xaG01c2tfeEFGTkJVVmtmUkRreXFGZEdGRXVTbEVOTnRzQ1JMYmpxUmR3U3ZRYjhoUHhLSzJsU0laWW5yNW5vck5kV2k1RGpCaFZ4aUt2TUNzWG1OYi00UzV1R1lLOHRIOXdSckI4Zk9BYWZydHNQbURuRU1YVUdPbjVNMjE5VXJvcVVXVXRybUwzblhyRzdvbjNaWHFTTUJkSXgxSTlnR3VwNy1BeDlFMVRJX0pmQlJuYS1wUG85TWNGd25CVklB0gHnAUFVX3lxTFBpTnU3MW9YbFZrNDVoNTN0dk1KbmctU1JmQ2FFTmd1ZXFtdXBHN0doSkxCbUhWakMySE5aQkpzR1NrTnM3a1hDdG5DUmc5eFFabFI2ZWsyMUxsTVhPUEFsTUpPOHR6UUxGcEc2Z0RzN1M3ZE5vY2FjRFh0MElSaWJCX2I2UU5mTzg3c1hnbDc1cTJwZldJLWdMMExFd0M0T3BKWXJoN1c3cm9nYWZXZWpGZG9tOVVHZl9hWjNsS3FhWVlHWUcxbzNHQ2lCWG9feHVPMzMyWFllMjd5cldtNURrcGlCQ2Etbw?oc=5\" target=\"_blank\">[COVER STORY] Middle-aged Koreans largely look to national pension for post-retirement safety net</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWFhMZ1VsY1JTSWtuMnhJUGxDWHNsR2NNVk0xaG01c2tfeEFGTkJVVmtmUkRreXFGZEdGRXVTbEVOTnRzQ1JMYmpxUmR3U3ZRYjhoUHhLSzJsU0laWW5yNW5vck5kV2k1RGpCaFZ4aUt2TUNzWG1OYi00UzV1R1lLOHRIOXdSckI4Zk9BYWZydHNQbURuRU1YVUdPbjVNMjE5VXJvcVVXVXRybUwzblhyRzdvbjNaWHFTTUJkSXgxSTlnR3VwNy1BeDlFMVRJX0pmQlJuYS1wUG85TWNGd25CVklB0gHnAUFVX3lxTFBpTnU3MW9YbFZrNDVoNTN0dk1KbmctU1JmQ2FFTmd1ZXFtdXBHN0doSkxCbUhWakMySE5aQkpzR1NrTnM3a1hDdG5DUmc5eFFabFI2ZWsyMUxsTVhPUEFsTUpPOHR6UUxGcEc2Z0RzN1M3ZE5vY2FjRFh0MElSaWJCX2I2UU5mTzg3c1hnbDc1cTJwZldJLWdMMExFd0M0T3BKWXJoN1c3cm9nYWZXZWpGZG9tOVVHZl9hWjNsS3FhWVlHWUcxbzNHQ2lCWG9feHVPMzMyWFllMjd5cldtNURrcGlCQ2Etbw?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-09-21",
-          "views": "18.0K"
+          "title": "Gold muted as Fed policy tightening prospects weigh - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPenM1U09oVWJmVW8zbUtuN1ZLcWU1dGRKa1Rqdk1FU0k5QmVDSGRwcG9hR1NVVFVYOGhkSWpMdVF0aWFZMWx6TlNSWHZiajl5UWdzbWFZNmpGUW53MEhhbGgteHgtOGZGTzdlVGdWVjhWR2pMSzdJSWdCSmVTRHA4RVlCWS1tNU1NQU9QanFEQTRnNjhSSlhFQ052dEE?oc=5\" target=\"_blank\">Gold muted as Fed policy tightening prospects weigh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPenM1U09oVWJmVW8zbUtuN1ZLcWU1dGRKa1Rqdk1FU0k5QmVDSGRwcG9hR1NVVFVYOGhkSWpMdVF0aWFZMWx6TlNSWHZiajl5UWdzbWFZNmpGUW53MEhhbGgteHgtOGZGTzdlVGdWVjhWR2pMSzdJSWdCSmVTRHA4RVlCWS1tNU1NQU9QanFEQTRnNjhSSlhFQ052dEE?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-09-24",
+          "views": "13.0K"
         },
         {
-          "title": "Chipotle Is Working With Palantir to Track Food Safety Risks - WIRED",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNRjZ2WFF6NTVKSk1aejZlaXJWNi1wUmoxdHBVYnBfWnZmYkF6Ung0YV9fYk1VLXl4dEtXQll2OFJjNGcwclVScl9LblFOeGdOb25oRE1xQ0hPTFY3TU1jc0NUZmppTExSbnRvRHlicXJWa1M5UUxXQnpyMHA0R1dYa3ZFcw?oc=5\" target=\"_blank\">Chipotle Is Working With Palantir to Track Food Safety Risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRjZ2WFF6NTVKSk1aejZlaXJWNi1wUmoxdHBVYnBfWnZmYkF6Ung0YV9fYk1VLXl4dEtXQll2OFJjNGcwclVScl9LblFOeGdOb25oRE1xQ0hPTFY3TU1jc0NUZmppTExSbnRvRHlicXJWa1M5UUxXQnpyMHA0R1dYa3ZFcw?oc=5",
-          "source": "WIRED AI",
-          "publishedAt": "2026-09-16",
-          "views": "18.0K"
+          "title": "Love in Korean War: Wartime bride's son traces mother's journey from Wonju to America - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNVpXOU5nZFE1dHFXdmJpQ2RHUXlSM0ZrNThJRThFU0ozUXFBSHhWdW9mazFwVy0wX2NDZzRrNmhxTXZUQmllaWFLSUNLRlU1eEVjRUNBVmNtT3lkLWFTSDVXQlFqS1dEeFJKU0JNVl9wajBETVl6TlBKUXpfck54TVNZVlBTZ3dCQlp2VzJqRDk5X1UtdUpucU41YTdEYWNzaV9Oc3hkX0JmR0xNVmRYdF9ydmxqUDB4VnREYWlQNE5pYjFVX0I2ZFZUVU5VTmJXdXRhZmZtazJtLWNG0gHiAUFVX3lxTE1CVVQyeWlkUHdtejVvQjVsTXhua183UDlSRnRuMjVSMTB6MzBkLVRIUDl0d2lzcl81c1NIQmhJeGNsN0xqVXRTZmw4VFNib1JUVFRaUHh5dl9VMTUwdGQ3WGlUN1dwb2pUTVVybDBPQ2N6eUJOYS1pWHlSVklpRXVxVGYzTWJib2NqTVB1bTV1ZXRCc1hsS3JqUmZ4TEtSM2R2aDh3bHhyWHVHOEJFSERqRjJhd3BJb2psbmIxcTBRcW9aU2FqcTMxbFBJa3VrdjJKUHNuZnNTcExHYVhxRU53R2c?oc=5\" target=\"_blank\">Love in Korean War: Wartime bride's son traces mother's journey from Wonju to America</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNVpXOU5nZFE1dHFXdmJpQ2RHUXlSM0ZrNThJRThFU0ozUXFBSHhWdW9mazFwVy0wX2NDZzRrNmhxTXZUQmllaWFLSUNLRlU1eEVjRUNBVmNtT3lkLWFTSDVXQlFqS1dEeFJKU0JNVl9wajBETVl6TlBKUXpfck54TVNZVlBTZ3dCQlp2VzJqRDk5X1UtdUpucU41YTdEYWNzaV9Oc3hkX0JmR0xNVmRYdF9ydmxqUDB4VnREYWlQNE5pYjFVX0I2ZFZUVU5VTmJXdXRhZmZtazJtLWNG0gHiAUFVX3lxTE1CVVQyeWlkUHdtejVvQjVsTXhua183UDlSRnRuMjVSMTB6MzBkLVRIUDl0d2lzcl81c1NIQmhJeGNsN0xqVXRTZmw4VFNib1JUVFRaUHh5dl9VMTUwdGQ3WGlUN1dwb2pUTVVybDBPQ2N6eUJOYS1pWHlSVklpRXVxVGYzTWJib2NqTVB1bTV1ZXRCc1hsS3JqUmZ4TEtSM2R2aDh3bHhyWHVHOEJFSERqRjJhd3BJb2psbmIxcTBRcW9aU2FqcTMxbFBJa3VrdjJKUHNuZnNTcExHYVhxRU53R2c?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-09-23",
+          "views": "13.0K"
         },
         {
           "title": "Funding cuts weaken Himalayan disaster monitoring as climate risks grow - The Korea Times",
@@ -142,25 +142,25 @@
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
         {
-          "title": "Funding cuts weaken Himalayan disaster monitoring as climate risks grow - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZDMwMGVITm0taTBfQlB5bTBOQ2pKS3ZfWHRXMFgxNHFSLV9UT1FweUUwRUl6b3d1bkdyVTJfVHJTcTFjZ3I2SnZjd1JsanpmY2pFc3VEUjB4UFJ6ajU0LWNWYWUyVzhLTTRSMlUzY0dlRWVPdW5wems5WHk2ZmR6MGhvcGZjdnhiYVBBb3ZRcGM2QnFNM0dJejV2RDEweVNlU1JOWmFvajBabE56enVkQmNrWi1fU1Y0bENn0gG7AUFVX3lxTE1kMzAwZUhObS1pMF9CUHltME5DakpLdl9YdFcwWDE0cVItX1RPUXB5RTBFSXpvd3VuR3JVMl9UclNxMWNncjZKdmN3UmxqemZjakVzdURSMHhQUnpqNTQtY1ZhZTJXOEtNNFIyVTNjR2VFZU91bnB6azlYeTZmZHowaG9wZmN2eGJhUEFvdlFwYzZCcU0zR0l6NXZEMTB5U2VTUk5aYW9qMFpsTnp6dWRCY2taLV9TVjRsQ2c?oc=5\" target=\"_blank\">Funding cuts weaken Himalayan disaster monitoring as climate risks grow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZDMwMGVITm0taTBfQlB5bTBOQ2pKS3ZfWHRXMFgxNHFSLV9UT1FweUUwRUl6b3d1bkdyVTJfVHJTcTFjZ3I2SnZjd1JsanpmY2pFc3VEUjB4UFJ6ajU0LWNWYWUyVzhLTTRSMlUzY0dlRWVPdW5wems5WHk2ZmR6MGhvcGZjdnhiYVBBb3ZRcGM2QnFNM0dJejV2RDEweVNlU1JOWmFvajBabE56enVkQmNrWi1fU1Y0bENn0gG7AUFVX3lxTE1kMzAwZUhObS1pMF9CUHltME5DakpLdl9YdFcwWDE0cVItX1RPUXB5RTBFSXpvd3VuR3JVMl9UclNxMWNncjZKdmN3UmxqemZjakVzdURSMHhQUnpqNTQtY1ZhZTJXOEtNNFIyVTNjR2VFZU91bnB6azlYeTZmZHowaG9wZmN2eGJhUEFvdlFwYzZCcU0zR0l6NXZEMTB5U2VTUk5aYW9qMFpsTnp6dWRCY2taLV9TVjRsQ2c?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-09-23",
-          "views": "13.0K"
-        },
-        {
           "title": "European business chambers seek stronger investment ties with Korea - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNVJDNzhQREJYM0FLQ1pMMzd3djNTQmIxUlp0ME5teVhsVGJpT0dZZkZTdEhramIxOUpTbjQ2Z181Wkszc2tscXJweWs0LXlkV0d4VWIzTzBSTExUR0tvWFNrQ3BvOS1oN3JWRUV3dGh0akRBVy10ajhEaE4zMlBYbjZxQ0RWVXBucGxIWVhfV0FkX05CR29pRGRBVnZVeHV0eG8wVnlyU2lyTlVBTERldjNJRmp3TjNHZG5kb1g2UjVUd9IBxwFBVV95cUxQMVdCemtsZGVtUERCdFM4cDVlNDFWSkk5b0NVUzJZSEpUbUt5ZTBNUkVwOFV4N3FqMTJmdTUxbFVhOEVOdkRUNzAyY2hrVXVFbmJSSnBCc0RTUE54dTN2ajdfTGlvTkIySzY3eVdsWE1PRTF4cFBGOENjZUNVdm5xQVZBUmRkX1k3TW9PZU8tT0cxUVA3Q252VEpTOThLbHMxeXhsTHVpeGFpeHNrajdxcEh3UFA3REVoazZ5cTBVMlhpMk5uanNn?oc=5\" target=\"_blank\">European business chambers seek stronger investment ties with Korea</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNVJDNzhQREJYM0FLQ1pMMzd3djNTQmIxUlp0ME5teVhsVGJpT0dZZkZTdEhramIxOUpTbjQ2Z181Wkszc2tscXJweWs0LXlkV0d4VWIzTzBSTExUR0tvWFNrQ3BvOS1oN3JWRUV3dGh0akRBVy10ajhEaE4zMlBYbjZxQ0RWVXBucGxIWVhfV0FkX05CR29pRGRBVnZVeHV0eG8wVnlyU2lyTlVBTERldjNJRmp3TjNHZG5kb1g2UjVUd9IBxwFBVV95cUxQMVdCemtsZGVtUERCdFM4cDVlNDFWSkk5b0NVUzJZSEpUbUt5ZTBNUkVwOFV4N3FqMTJmdTUxbFVhOEVOdkRUNzAyY2hrVXVFbmJSSnBCc0RTUE54dTN2ajdfTGlvTkIySzY3eVdsWE1PRTF4cFBGOENjZUNVdm5xQVZBUmRkX1k3TW9PZU8tT0cxUVA3Q252VEpTOThLbHMxeXhsTHVpeGFpeHNrajdxcEh3UFA3REVoazZ5cTBVMlhpMk5uanNn?oc=5",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQMVdCemtsZGVtUERCdFM4cDVlNDFWSkk5b0NVUzJZSEpUbUt5ZTBNUkVwOFV4N3FqMTJmdTUxbFVhOEVOdkRUNzAyY2hrVXVFbmJSSnBCc0RTUE54dTN2ajdfTGlvTkIySzY3eVdsWE1PRTF4cFBGOENjZUNVdm5xQVZBUmRkX1k3TW9PZU8tT0cxUVA3Q252VEpTOThLbHMxeXhsTHVpeGFpeHNrajdxcEh3UFA3REVoazZ5cTBVMlhpMk5uanNn0gHHAUFVX3lxTFAxV0J6a2xkZW1QREJ0UzhwNWU0MVZKSTlvQ1VTMllISlRtS3llME1SRXA4VXg3cWoxMmZ1NTFsVWE4RU52RFQ3MDJjaGtVdUVuYlJKcEJzRFNQTnh1M3ZqN19MaW9OQjJLNjd5V2xYTU9FMXhwUEY4Q2NlQ1V2bnFBVkFSZGRfWTdNb09lTy1PRzFRUDdDbnZUSlM5OEtsczF5eGxMdWl4YWl4c2tqN3FwSHdQUDdERWhrNnlxMFUyWGkyTm5qc2c?oc=5\" target=\"_blank\">European business chambers seek stronger investment ties with Korea</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMVdCemtsZGVtUERCdFM4cDVlNDFWSkk5b0NVUzJZSEpUbUt5ZTBNUkVwOFV4N3FqMTJmdTUxbFVhOEVOdkRUNzAyY2hrVXVFbmJSSnBCc0RTUE54dTN2ajdfTGlvTkIySzY3eVdsWE1PRTF4cFBGOENjZUNVdm5xQVZBUmRkX1k3TW9PZU8tT0cxUVA3Q252VEpTOThLbHMxeXhsTHVpeGFpeHNrajdxcEh3UFA3REVoazZ5cTBVMlhpMk5uanNn0gHHAUFVX3lxTFAxV0J6a2xkZW1QREJ0UzhwNWU0MVZKSTlvQ1VTMllISlRtS3llME1SRXA4VXg3cWoxMmZ1NTFsVWE4RU52RFQ3MDJjaGtVdUVuYlJKcEJzRFNQTnh1M3ZqN19MaW9OQjJLNjd5V2xYTU9FMXhwUEY4Q2NlQ1V2bnFBVkFSZGRfWTdNb09lTy1PRzFRUDdDbnZUSlM5OEtsczF5eGxMdWl4YWl4c2tqN3FwSHdQUDdERWhrNnlxMFUyWGkyTm5qc2c?oc=5",
           "source": "The Korea Times",
           "publishedAt": "2026-09-23",
           "views": "13.0K"
         },
         {
-          "title": "Population mobility down in August amid housing market slowdown - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPWTVidC14UW1ZS3p3bmlxRUtaMno3NEFPUzFzWDI1ZERGY011V185ZUpjOVVoUm1LUnNOSDN4ZUVCLUY3TTRFQ2JPckVXLVhQdkhwckIzVmpLWmkwQ2txdXR3YkZIYmROblk3TVcwYmpSWWRnaDZRa0tld1YzcVhMVk1wcTZXZ09wUWgxbjBjYlFIdEhWd2w5c2MyY3RrOEcxQ3RMTHhpc3dVemhyTDlBUFFhaWJUOG1uMzZmTtIBwgFBVV95cUxQbVJScmJ1dzNwVHFQV0l0ZVJKR29WTC0yZ0RNdHNEa0g4MXFOMXR4OFAyZXQxcGdWUHRuaWVRUjBjWlNhX0NEaTNwaVBIdEZrVFU3ZWtaLUZ6ZkZCUC1xQjcyUXQwc2NqMFBPRjRjQ2xua1h0dmxObEplQmpXbHRjRm5YYmVJWEJOT1FXd3BvaF9LQUxBTThfTXUwR0taSGpMcUdzeFh2SnZhU2JFcGhJNXlWelpuSnE2VzVfUEJMNzZzUQ?oc=5\" target=\"_blank\">Population mobility down in August amid housing market slowdown</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWTVidC14UW1ZS3p3bmlxRUtaMno3NEFPUzFzWDI1ZERGY011V185ZUpjOVVoUm1LUnNOSDN4ZUVCLUY3TTRFQ2JPckVXLVhQdkhwckIzVmpLWmkwQ2txdXR3YkZIYmROblk3TVcwYmpSWWRnaDZRa0tld1YzcVhMVk1wcTZXZ09wUWgxbjBjYlFIdEhWd2w5c2MyY3RrOEcxQ3RMTHhpc3dVemhyTDlBUFFhaWJUOG1uMzZmTtIBwgFBVV95cUxQbVJScmJ1dzNwVHFQV0l0ZVJKR29WTC0yZ0RNdHNEa0g4MXFOMXR4OFAyZXQxcGdWUHRuaWVRUjBjWlNhX0NEaTNwaVBIdEZrVFU3ZWtaLUZ6ZkZCUC1xQjcyUXQwc2NqMFBPRjRjQ2xua1h0dmxObEplQmpXbHRjRm5YYmVJWEJOT1FXd3BvaF9LQUxBTThfTXUwR0taSGpMcUdzeFh2SnZhU2JFcGhJNXlWelpuSnE2VzVfUEJMNzZzUQ?oc=5",
+          "title": "Korea tightens oversight on foreign capital in domestic real estate market - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOajlucWVlRXRYOHh4T0pTU01MMTl1TF9WLXRWQjdpWnliQ0ZLUVBXM0lITkFXMEZWQnR3N3psVnJEaElVa05SYnNXUUpXVC1uVlZ3dEN6bUIwc3lGbk5PcXpQaVI5Zk1hRHNNWkJEY1BiOVRLLTRlZXhhU1ZLMUlnRXJuaWNEVElNejFleGgxb0hkQTYwbUVLX2M4UkVaZEJ4TXpHWE0xNjNrT2dpQi14T2ZJdlRfaFphTDI3dDdjTkp3akpRc3RrVzh6d0NWZ9IB0wFBVV95cUxQTEpCVW5kTUQ4S2l2MXFZZS0yNGhHaGhxcWRBazE4TmR6dXMyN1A3VEQyNjFISzdIamNYc0RyTjZPckxwM1RONHN2RlZwaDVyMm5RaXJIT3ZJLVBESmpiRnlQclJlWlBodFE1dWp4amZoeDRJd1ZwdTBZaWMybU9tU0N6d2xyQXd4WkpCT2xQeDlVR1Z0ZEVqTGpuWm5SU25RREN3VEp3ZmxQUnBXSFhqc1AtNkJVa0ZmQzJsajUxa3FVcEhOXzlIalcwTW5zc21rYWdr?oc=5\" target=\"_blank\">Korea tightens oversight on foreign capital in domestic real estate market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOajlucWVlRXRYOHh4T0pTU01MMTl1TF9WLXRWQjdpWnliQ0ZLUVBXM0lITkFXMEZWQnR3N3psVnJEaElVa05SYnNXUUpXVC1uVlZ3dEN6bUIwc3lGbk5PcXpQaVI5Zk1hRHNNWkJEY1BiOVRLLTRlZXhhU1ZLMUlnRXJuaWNEVElNejFleGgxb0hkQTYwbUVLX2M4UkVaZEJ4TXpHWE0xNjNrT2dpQi14T2ZJdlRfaFphTDI3dDdjTkp3akpRc3RrVzh6d0NWZ9IB0wFBVV95cUxQTEpCVW5kTUQ4S2l2MXFZZS0yNGhHaGhxcWRBazE4TmR6dXMyN1A3VEQyNjFISzdIamNYc0RyTjZPckxwM1RONHN2RlZwaDVyMm5RaXJIT3ZJLVBESmpiRnlQclJlWlBodFE1dWp4amZoeDRJd1ZwdTBZaWMybU9tU0N6d2xyQXd4WkpCT2xQeDlVR1Z0ZEVqTGpuWm5SU25RREN3VEp3ZmxQUnBXSFhqc1AtNkJVa0ZmQzJsajUxa3FVcEhOXzlIalcwTW5zc21rYWdr?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-09-23",
+          "views": "13.0K"
+        },
+        {
+          "title": "Topic: Shin Jungang Market - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFB0cXFwbks5Q3ItV2FrS0IzODUwYUFPalFNb0ZFczM5eTdWM21fa1dXWlp6UzFmb0MteFRPLWZaMkNkVWdSZ3BfeWt1VlAtN3BxR3JIVm9fcnpiaDdGbm9CYzM0NnJWQk1OSVR3?oc=5\" target=\"_blank\">Topic: Shin Jungang Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0cXFwbks5Q3ItV2FrS0IzODUwYUFPalFNb0ZFczM5eTdWM21fa1dXWlp6UzFmb0MteFRPLWZaMkNkVWdSZ3BfeWt1VlAtN3BxR3JIVm9fcnpiaDdGbm9CYzM0NnJWQk1OSVR3?oc=5",
           "source": "The Korea Times",
           "publishedAt": "2026-09-23",
           "views": "13.0K"
@@ -173,14 +173,6 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
-          "title": "Azerbaijani Company AzInTelecom Gains Global Recognition for Cybersecurity Services - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNSHBNWFg2VXE2Y1BMSjRTMTZrODE0OTNWTGdrc0hHU0ZzTGhJMV80RVRnQTFuSklLTU8tSVkyN3JBc3RaT1IyUjZBXzFoemxYaUFaVUVvZGZxcVdJeGhzOERGM0RzS21Da3dEVVRNWGVzcW9tMVZRdHZiM0hxMi1lUS1iZmNtem5qb1Z3Y1EyR1dlWFlTV3JIeVFSSUlId3pLeC1hc3JyX01vYlQ1?oc=5\" target=\"_blank\">Azerbaijani Company AzInTelecom Gains Global Recognition for Cybersecurity Services</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSHBNWFg2VXE2Y1BMSjRTMTZrODE0OTNWTGdrc0hHU0ZzTGhJMV80RVRnQTFuSklLTU8tSVkyN3JBc3RaT1IyUjZBXzFoemxYaUFaVUVvZGZxcVdJeGhzOERGM0RzS21Da3dEVVRNWGVzcW9tMVZRdHZiM0hxMi1lUS1iZmNtem5qb1Z3Y1EyR1dlWFlTV3JIeVFSSUlId3pLeC1hc3JyX01vYlQ1?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-09-21",
-          "views": "18.0K"
-        },
-        {
           "title": "Telecom Companies Bear AI Traffic Burden…“Fair Cost-Sharing Needed” - ETNEWS",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBxdFJqb0hsenA4eGg3bS1VVXJXRGFCcUFiaTRuQUpvS2pPQm9qeFAzcHdfSU94QVFwN3FCbWdUMUlKN1VVcVlBWHBwRko?oc=5\" target=\"_blank\">Telecom Companies Bear AI Traffic Burden…“Fair Cost-Sharing Needed”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
           "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBxdFJqb0hsenA4eGg3bS1VVXJXRGFCcUFiaTRuQUpvS2pPQm9qeFAzcHdfSU94QVFwN3FCbWdUMUlKN1VVcVlBWHBwRko?oc=5",
@@ -189,11 +181,19 @@
           "views": "13.0K"
         },
         {
-          "title": "Topic: deployment - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NQ0otbHNIdGdSSloyYVBqNy04YkNQM1RsTWE3NERzYWRlT2JTZW84ckdIYjZIT3ZwaHp4OXdjNl9UY2dXZjAwMFpaYWNmRVlybnJId1NvLVV0Y3FWUXlr?oc=5\" target=\"_blank\">Topic: deployment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NQ0otbHNIdGdSSloyYVBqNy04YkNQM1RsTWE3NERzYWRlT2JTZW84ckdIYjZIT3ZwaHp4OXdjNl9UY2dXZjAwMFpaYWNmRVlybnJId1NvLVV0Y3FWUXlr?oc=5",
+          "title": "US announces implementation plan with S. Korea, Japan for SMR deployments - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQV09PNUpZQzJrbS0tcmE0Wm9pSnNxVWVyam1nbEJtOEpNR1paSE5FV2llaWN6Wk9OakRLRGR5dUN5SmUwTDZFdTI2TUhGV2RHUXRaMzlrNlktWFlHUDhUTThfcVJFSWtET2JrVGpXdHZfSVM1Y0pMMlFkMUZQUGp4TmVzTFlIOVVYTDc5NzFKVHlTT1ROWk83TXo3Yk1VeGZOU2Njek9neUN1TFJJalhrWDROMzNZMkRaeXV30gG7AUFVX3lxTFBXT081SllDMmttLS1yYTRab2lKc3FVZXJqbWdsQm04Sk1HWlpITkVXaWVpY3paT05qREtEZHl1Q3lKZTBMNkV1MjZNSEZXZEdRdFozOWs2WS1YWUdQOFRNOF9xUkVJa0RPYmtUald0dl9JUzVjSkwyUWQxRlBQanhOZXNMWUg5VVhMNzk3MUpUeVNPVE5aTzdNejdiTVV4Zk5TY2N6T2d5Q3VMUklqWGtYNE4zM1kyRFp5dXc?oc=5\" target=\"_blank\">US announces implementation plan with S. Korea, Japan for SMR deployments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQV09PNUpZQzJrbS0tcmE0Wm9pSnNxVWVyam1nbEJtOEpNR1paSE5FV2llaWN6Wk9OakRLRGR5dUN5SmUwTDZFdTI2TUhGV2RHUXRaMzlrNlktWFlHUDhUTThfcVJFSWtET2JrVGpXdHZfSVM1Y0pMMlFkMUZQUGp4TmVzTFlIOVVYTDc5NzFKVHlTT1ROWk83TXo3Yk1VeGZOU2Njek9neUN1TFJJalhrWDROMzNZMkRaeXV30gG7AUFVX3lxTFBXT081SllDMmttLS1yYTRab2lKc3FVZXJqbWdsQm04Sk1HWlpITkVXaWVpY3paT05qREtEZHl1Q3lKZTBMNkV1MjZNSEZXZEdRdFozOWs2WS1YWUdQOFRNOF9xUkVJa0RPYmtUald0dl9JUzVjSkwyUWQxRlBQanhOZXNMWUg5VVhMNzk3MUpUeVNPVE5aTzdNejdiTVV4Zk5TY2N6T2d5Q3VMUklqWGtYNE4zM1kyRFp5dXc?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-09-22",
+          "publishedAt": "2026-09-23",
+          "views": "13.0K"
+        },
+        {
+          "title": "AT&T Is Automating Away Jobs—and Its Old Telecom Empire - WIRED",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPRnBGZEFKMlVOeTZaUi1lMVpuN09SbnVZSUtuZHBab3U1aVE4Q2o4T3R0LXlpRG43MkhaV2RiamtOeDl6S1RISzBJVEFMZG1OQUFLRnNfUDgxanB2MTlfVW5yeko1SmtaaDNMLTRMTy1NT1B1N2FXaXJSMmhVM09hVzRwSQ?oc=5\" target=\"_blank\">AT&T Is Automating Away Jobs—and Its Old Telecom Empire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRnBGZEFKMlVOeTZaUi1lMVpuN09SbnVZSUtuZHBab3U1aVE4Q2o4T3R0LXlpRG43MkhaV2RiamtOeDl6S1RISzBJVEFMZG1OQUFLRnNfUDgxanB2MTlfVW5yeko1SmtaaDNMLTRMTy1NT1B1N2FXaXJSMmhVM09hVzRwSQ?oc=5",
+          "source": "WIRED AI",
+          "publishedAt": "2026-09-23",
           "views": "13.0K"
         }
       ]
