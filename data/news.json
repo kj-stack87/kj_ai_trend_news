@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-25T04:53:15.565Z",
+  "lastUpdated": "2026-09-26T04:53:07.834Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -80,28 +80,28 @@
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
         {
+          "title": "Microsoft revamps its Copilot AI with a persistent Autopilot agent and hosting for AI-generated apps - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbXltN1FUMFM3NTk1Zlp4TXFjRGt6SzBEdjI1Uk5EVE1NRnpHRTFMZGNqaFY3ZXRKajZnVUtWNG5ablJjS1NleUdzMm9oX2o2NEFRUjFPZk9hdWFpd1Zxa003VHdoNXB6ZC1fYmpUcXcxNTVOYVdSQVdyNlNHRUlLbDN4UDBDdlA5RF9kMFVGbHpvOW1FV2hIcmNvUjFCazlMY2c0amtONndWWEhsRTdIaE1Ya05EaF9QV3ZnS3ZWZERVSll5SUZZT2ZZd081UFl2?oc=5\" target=\"_blank\">Microsoft revamps its Copilot AI with a persistent Autopilot agent and hosting for AI-generated apps</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbXltN1FUMFM3NTk1Zlp4TXFjRGt6SzBEdjI1Uk5EVE1NRnpHRTFMZGNqaFY3ZXRKajZnVUtWNG5ablJjS1NleUdzMm9oX2o2NEFRUjFPZk9hdWFpd1Zxa003VHdoNXB6ZC1fYmpUcXcxNTVOYVdSQVdyNlNHRUlLbDN4UDBDdlA5RF9kMFVGbHpvOW1FV2hIcmNvUjFCazlMY2c0amtONndWWEhsRTdIaE1Ya05EaF9QV3ZnS3ZWZERVSll5SUZZT2ZZd081UFl2?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-09-25",
+          "views": "18.0K"
+        },
+        {
+          "title": "Microsoft revamps Copilot with code generation, agentic AI tools - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxORFppWUc2LTE4NzBfY2prVG11cG9PQ1VyaFB6QkYzVGoyLWV5alVORkZraFREc3FBbmIxTThVay1nQnZZRXhvQ1JyQXpQeU1uY3NmYkt4eWtlSlZvZF8yR3o0LUtRZGFXWFkzdVdBTXJveUdqNG1PTTdHS25wQ0xOR0R3dWNCZFQ3Snlwcjc0S0FHYXg3RkhsMWFoMW5GX0hWWFFFQUJzZnptVjJXUUhR?oc=5\" target=\"_blank\">Microsoft revamps Copilot with code generation, agentic AI tools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORFppWUc2LTE4NzBfY2prVG11cG9PQ1VyaFB6QkYzVGoyLWV5alVORkZraFREc3FBbmIxTThVay1nQnZZRXhvQ1JyQXpQeU1uY3NmYkt4eWtlSlZvZF8yR3o0LUtRZGFXWFkzdVdBTXJveUdqNG1PTTdHS25wQ0xOR0R3dWNCZFQ3Snlwcjc0S0FHYXg3RkhsMWFoMW5GX0hWWFFFQUJzZnptVjJXUUhR?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-09-25",
+          "views": "18.0K"
+        },
+        {
           "title": "Xapien Partners With ServiceNow to Bring AI-Native Due Diligence Into Enterprise Workflows - VentureBeat",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ2V1Q2llX3Z2UmdpZ05tTlFxNkxuT2RKazFjVmFhMnJBT1hSRzlPLWFHN3pJYkU2eE1SVE5VUjNnZk5XQWNhS3ptV1hGVng4YTVabEZ6Q0htY3BnMHhsTWgwenU1LWZSNGtEY0YxYkhyYVRmbkpJZjdPa2dUTXcyUi1Ra1BiNHBWc1pUYmZFZkNoVjVuSjhhUGlsNTVxNjZvcEI0ejgwUzdBVmdSbkhhMXNKVnozeGpfcXhNc21XcHM?oc=5\" target=\"_blank\">Xapien Partners With ServiceNow to Bring AI-Native Due Diligence Into Enterprise Workflows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ2V1Q2llX3Z2UmdpZ05tTlFxNkxuT2RKazFjVmFhMnJBT1hSRzlPLWFHN3pJYkU2eE1SVE5VUjNnZk5XQWNhS3ptV1hGVng4YTVabEZ6Q0htY3BnMHhsTWgwenU1LWZSNGtEY0YxYkhyYVRmbkpJZjdPa2dUTXcyUi1Ra1BiNHBWc1pUYmZFZkNoVjVuSjhhUGlsNTVxNjZvcEI0ejgwUzdBVmdSbkhhMXNKVnozeGpfcXhNc21XcHM?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-09-22",
           "views": "18.0K"
-        },
-        {
-          "title": "VibeOps tackles the governance challenge of enterprise vibe coding - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQbDdjRDZlWHdKSXNseUNPY0I0U2xsaVg0cmxQY1YxdV9aMTNqdEEzakpVMHV1YkYyb1o2WnlSYWEtWkdqWGc2Z0lJb2dlVWFZVW5UR0pLcHdVNlVBdmFMSEYxSHpFTUpWaVBlX01yMF9hSGZidFRlMFJPRl9JMksya1pZaUI0LXY3bWl6T1dtZlIycUVlZWdvbWc0aklBUnJNQUR2Tmlycw?oc=5\" target=\"_blank\">VibeOps tackles the governance challenge of enterprise vibe coding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbDdjRDZlWHdKSXNseUNPY0I0U2xsaVg0cmxQY1YxdV9aMTNqdEEzakpVMHV1YkYyb1o2WnlSYWEtWkdqWGc2Z0lJb2dlVWFZVW5UR0pLcHdVNlVBdmFMSEYxSHpFTUpWaVBlX01yMF9hSGZidFRlMFJPRl9JMksya1pZaUI0LXY3bWl6T1dtZlIycUVlZWdvbWc0aklBUnJNQUR2Tmlycw?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-09-24",
-          "views": "13.0K"
-        },
-        {
-          "title": "Monorepos make coding agents more useful — but compromised accounts are harder to contain - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPeFdWdm9nc25TVm4wQ25PTHkyVVNPNWZ1OF9EVXRTTHdFNmR6M1BjUkg2SFV6ekdqVmpvY2VmQ3FMUGdLLWhNcFJhcGhrVENwT2o1bk9yNUNGUE5OVnhiWlZGbVkxOV9fWmR2WWstRjFQTGFvejh5bmNHQUpNYm9FTDZnQmZCaEttTlpRQkFYdGtmemJoNVNNRUJ0STdOWm9NVHFBMjZLRTNHMzFVOG41dDJVNUQ0ZkU5c1lDYw?oc=5\" target=\"_blank\">Monorepos make coding agents more useful — but compromised accounts are harder to contain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeFdWdm9nc25TVm4wQ25PTHkyVVNPNWZ1OF9EVXRTTHdFNmR6M1BjUkg2SFV6ekdqVmpvY2VmQ3FMUGdLLWhNcFJhcGhrVENwT2o1bk9yNUNGUE5OVnhiWlZGbVkxOV9fWmR2WWstRjFQTGFvejh5bmNHQUpNYm9FTDZnQmZCaEttTlpRQkFYdGtmemJoNVNNRUJ0STdOWm9NVHFBMjZLRTNHMzFVOG41dDJVNUQ0ZkU5c1lDYw?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-09-24",
-          "views": "13.0K"
         }
       ]
     },
@@ -127,11 +127,11 @@
           "views": "18.0K"
         },
         {
-          "title": "Global students choose Seoul for dynamic opportunities, safety despite high costs, competition - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxNT3p6dnNMRDduSmREVERvS0YteXo2MkFlVm5vUHVnaDVMa3dlejdGTWNzNEoxNUVkLUlyV3BENjd5clo5V2RFdnVoSTJ4dy0zV1h4Uzh6bUk2YUkzQVk1dHdsbDk0SDU4anNjQ1J2UXh1ZVhLNGpsVTVoMUZIYndxNUdOdTVCWmJmTlNYT0ZWdno0czliMWJORUd0X2txT0pYMGdjSVVCQ3RJNUk1VW1nNW1pZlRVUlQ0bi1VVUdfa2NvWXlQSTRERDlVdTQtZEEyR0xZeTZMTnV4bFZKVFNUWG5sWmlnQ0xfVzUxQ1RB0gHzAUFVX3lxTFBWeW9oaFNNWlJuN0dtTVhCYUdFWk42ZjRaU0ozNEt0T2QwbmtSa3EtczB2Wkd4S3JCQ2xMU2VGazhjek94dkJsZEI4UVN3SlVBdHF6eXNoWkw3WXBzUjI2ZUVHWHZFcWRqcHFQbW9JRVNDTnVuY2E2Xzl4akRfcjRfZzJYZXZ1WnpQTkRBdDhOQVFXWEZUdG1OdFlqWnRkem8tX0VyQjdUaVJIWmJYSEhxQ1ZYTFFPT1RFSXV3bnFsWUF2RW9DaFktNW4yVk40R3lBR0cwcF92bUs0c2xaWTVKUGNNaEhJSTZpbENmWlFmcWdyRQ?oc=5\" target=\"_blank\">Global students choose Seoul for dynamic opportunities, safety despite high costs, competition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNT3p6dnNMRDduSmREVERvS0YteXo2MkFlVm5vUHVnaDVMa3dlejdGTWNzNEoxNUVkLUlyV3BENjd5clo5V2RFdnVoSTJ4dy0zV1h4Uzh6bUk2YUkzQVk1dHdsbDk0SDU4anNjQ1J2UXh1ZVhLNGpsVTVoMUZIYndxNUdOdTVCWmJmTlNYT0ZWdno0czliMWJORUd0X2txT0pYMGdjSVVCQ3RJNUk1VW1nNW1pZlRVUlQ0bi1VVUdfa2NvWXlQSTRERDlVdTQtZEEyR0xZeTZMTnV4bFZKVFNUWG5sWmlnQ0xfVzUxQ1RB0gHzAUFVX3lxTFBWeW9oaFNNWlJuN0dtTVhCYUdFWk42ZjRaU0ozNEt0T2QwbmtSa3EtczB2Wkd4S3JCQ2xMU2VGazhjek94dkJsZEI4UVN3SlVBdHF6eXNoWkw3WXBzUjI2ZUVHWHZFcWRqcHFQbW9JRVNDTnVuY2E2Xzl4akRfcjRfZzJYZXZ1WnpQTkRBdDhOQVFXWEZUdG1OdFlqWnRkem8tX0VyQjdUaVJIWmJYSEhxQ1ZYTFFPT1RFSXV3bnFsWUF2RW9DaFktNW4yVk40R3lBR0cwcF92bUs0c2xaWTVKUGNNaEhJSTZpbENmWlFmcWdyRQ?oc=5",
+          "title": "Korean believed among 7 named in Cornell lawsuit alleging drugging, sexual assault - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOUdMWDZUWHM3c05Obmsyc3M0Y3NJU2xoNndZMmdhRk43eTFRYU53a0ptYk1adEhQbmVUNk5kb0U2QklZWC12d3hUc1FwTDZhOUhqR3hHcEhTUTlLR2w3UFdOd0g2WTJfX18wMThxenNKM0E5M1dCTm40WDQzX3ZSNkVaMklNNFF0dHgwbld3YkZDOE1BVjA5RGx3cnB1NGZ3R3REZ0VlMmI5dGFleWRqRDFVSnExQnVRNFJSSGdEYThmZ2fSAcgBQVVfeXFMTkxaTVE5MkpzTWZOOWNaTHR5MFo3akt6RnQ1MmRvbFNNcU5HSUFvMktYY0I2MGloaW9PVTVLQTd2dnlLd2lsMXFVOUdxbF9JYWhYR1Vsa3pfX0JJRWxIa3dvM2tXYU9zWTFYeEwtdG9VU2d3enRFVmZWUnFSM2hCUXV6Nm9QY24wN01fTElmc0hfTE1oOEtnWFFHRVYxa19uM2JQSHFic0xlRW1BNzRaN2tySzZjc0hRT0dOeHByS0dTaUZaZmJzWks?oc=5\" target=\"_blank\">Korean believed among 7 named in Cornell lawsuit alleging drugging, sexual assault</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOUdMWDZUWHM3c05Obmsyc3M0Y3NJU2xoNndZMmdhRk43eTFRYU53a0ptYk1adEhQbmVUNk5kb0U2QklZWC12d3hUc1FwTDZhOUhqR3hHcEhTUTlLR2w3UFdOd0g2WTJfX18wMThxenNKM0E5M1dCTm40WDQzX3ZSNkVaMklNNFF0dHgwbld3YkZDOE1BVjA5RGx3cnB1NGZ3R3REZ0VlMmI5dGFleWRqRDFVSnExQnVRNFJSSGdEYThmZ2fSAcgBQVVfeXFMTkxaTVE5MkpzTWZOOWNaTHR5MFo3akt6RnQ1MmRvbFNNcU5HSUFvMktYY0I2MGloaW9PVTVLQTd2dnlLd2lsMXFVOUdxbF9JYWhYR1Vsa3pfX0JJRWxIa3dvM2tXYU9zWTFYeEwtdG9VU2d3enRFVmZWUnFSM2hCUXV6Nm9QY24wN01fTElmc0hfTE1oOEtnWFFHRVYxa19uM2JQSHFic0xlRW1BNzRaN2tySzZjc0hRT0dOeHByS0dTaUZaZmJzWks?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-09-24",
+          "publishedAt": "2026-09-25",
           "views": "13.0K"
         }
       ]
@@ -142,27 +142,27 @@
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
         {
-          "title": "Fusion rice cakes bring new energy to traditional markets - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNSG12SHRUa1NobG1uOFNON09uVEFucEJyVEJEeTJDNUZLNkNOaTE3NVN4SEhCa3g4R0Q5bFhYMnJwaGY1YURubzViVkNhb3VBVFE3X19EMno2ZU9HaTBhR184SDJzd1RFQy1zX09LTHhfU25NQmRVb0VPUkRhUEhJb2ZjNUU4OVJPT3dJMFFhMUJFeVhGLW5DLWw1WGowYlkxRDlYdmRoaDRSM01wVnfSAa4BQVVfeXFMTUhtdkh0VGtTaGxtbjhTTjdPblRBbnBCclRCRHkyQzVGSzZDTmkxNzVTeEhIQmt4OEdEOWxYWDJycGhmNWFEbm81YlZDYW91QVRRN19fRDJ6NmVPR2kwYUdfOEgyc3dURUMtc19PS0x4X1NuTUJkVW9FT1JEYVBISW9mYzVFODlST093STBRYTFCRXlYRi1uQy1sNVhqMGJZMUQ5WHZkaGg0UjNNcFZ3?oc=5\" target=\"_blank\">Fusion rice cakes bring new energy to traditional markets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSG12SHRUa1NobG1uOFNON09uVEFucEJyVEJEeTJDNUZLNkNOaTE3NVN4SEhCa3g4R0Q5bFhYMnJwaGY1YURubzViVkNhb3VBVFE3X19EMno2ZU9HaTBhR184SDJzd1RFQy1zX09LTHhfU25NQmRVb0VPUkRhUEhJb2ZjNUU4OVJPT3dJMFFhMUJFeVhGLW5DLWw1WGowYlkxRDlYdmRoaDRSM01wVnfSAa4BQVVfeXFMTUhtdkh0VGtTaGxtbjhTTjdPblRBbnBCclRCRHkyQzVGSzZDTmkxNzVTeEhIQmt4OEdEOWxYWDJycGhmNWFEbm81YlZDYW91QVRRN19fRDJ6NmVPR2kwYUdfOEgyc3dURUMtc19PS0x4X1NuTUJkVW9FT1JEYVBISW9mYzVFODlST093STBRYTFCRXlYRi1uQy1sNVhqMGJZMUQ5WHZkaGg0UjNNcFZ3?oc=5",
+          "title": "'I feel sorry toward my parents': Youth job market remains a needle's eye - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOR0Z5V2xOU1d1RXJheGdkVXM5eUl1bWY0aEd5WXNtQlU3OEJyZmhSeGtRRHlGcTRFTWJiekdoSXZLdHhXZklLc0x4ZTZvdGVsWWdhNVFyVUlzV1MwYkJFVXY3NFc5UHhVbjk1WnlkVFhidTZzQVhhdjY4OGRTbjRoVkJncVJza3dnYTJKc3RrUHEtRmR0d2hVbTJnUE5LaUI4dGQwSWhDN2VkVWo1b3Z3Q1pHUXlabExBUWfSAb8BQVVfeXFMUGJjZDZTZGJ4SmY4Y0Zfa296VGtFc3Z6WGZOQTFHYU9mcC10STY0SXVuY2F6dm1JbUJMWEJzSGp6TzQwUWRtdDhNX1FrcDd2bFJXd1lZNE9FcDF6d1Z0R09YQnhqQ2xjZXJGUXVYWFpEaXVBQ2VJMDVnNTNzMk5LNkJGS3lMVzQ1cEpOUDFQUTBJMEgxT3ZSaG9YUzBoYlNlc0J4b3UxcS1fNGg5cm40QlNsMDNBWnlDa3ZvQ2tGTVE?oc=5\" target=\"_blank\">'I feel sorry toward my parents': Youth job market remains a needle's eye</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR0Z5V2xOU1d1RXJheGdkVXM5eUl1bWY0aEd5WXNtQlU3OEJyZmhSeGtRRHlGcTRFTWJiekdoSXZLdHhXZklLc0x4ZTZvdGVsWWdhNVFyVUlzV1MwYkJFVXY3NFc5UHhVbjk1WnlkVFhidTZzQVhhdjY4OGRTbjRoVkJncVJza3dnYTJKc3RrUHEtRmR0d2hVbTJnUE5LaUI4dGQwSWhDN2VkVWo1b3Z3Q1pHUXlabExBUWfSAb8BQVVfeXFMUGJjZDZTZGJ4SmY4Y0Zfa296VGtFc3Z6WGZOQTFHYU9mcC10STY0SXVuY2F6dm1JbUJMWEJzSGp6TzQwUWRtdDhNX1FrcDd2bFJXd1lZNE9FcDF6d1Z0R09YQnhqQ2xjZXJGUXVYWFpEaXVBQ2VJMDVnNTNzMk5LNkJGS3lMVzQ1cEpOUDFQUTBJMEgxT3ZSaG9YUzBoYlNlc0J4b3UxcS1fNGg5cm40QlNsMDNBWnlDa3ZvQ2tGTVE?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-09-24",
+          "publishedAt": "2026-09-26",
           "views": "13.0K"
         },
         {
-          "title": "As coding boom fades, computer science grads focus on AI skills in choppy job market - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPRWdIcUkwSjFUVk5ZRVYzaW9MQV9Ja2RmVUprS3NLVUVyLWhBbHZ3dWIwd0E3X2t4Slcxa09YNUxrbk54ZkJjWXB5V3NaYnVtaG9zSjZzcDZwNmdCTl84MEJMMFJBZmFBZFQ5U1dIUGRKRDAydlN5UUtaY19CVF8tUGw4eVhTN1VqZGI5RG85YnRERFloZnJIYy1LcC1jSmpmdnEtdXlTNVlWbEc4QzAtNEw3WDkxNDhIN25ZRHpLc2NXZVN4ckHSAcsBQVVfeXFMUHAxY3JiRUgxZHNYNE5ieW14WjYxUGkwS2RjTDhDNW8zdk5zSldWVFA4R2JudnFWbXlPN1dNSlJ1MHkwM3ZlOWdxMlM4UDZjMXp0RHV0czdwMEZOeU5BTUpTRG93TUlWS3hKX0M3MExhTVV3Y0dMQmxpQzR5MEE1NjRJQ2V4ZnVTR3owTG1UeXNoUnQ1OVFUM09RTUtFNXVZWWxWTVlRaGxVTmJtbFJ6R19WV2lwZkFqLUtteGNGVmRxVHAtbjhoakVoR1U?oc=5\" target=\"_blank\">As coding boom fades, computer science grads focus on AI skills in choppy job market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRWdIcUkwSjFUVk5ZRVYzaW9MQV9Ja2RmVUprS3NLVUVyLWhBbHZ3dWIwd0E3X2t4Slcxa09YNUxrbk54ZkJjWXB5V3NaYnVtaG9zSjZzcDZwNmdCTl84MEJMMFJBZmFBZFQ5U1dIUGRKRDAydlN5UUtaY19CVF8tUGw4eVhTN1VqZGI5RG85YnRERFloZnJIYy1LcC1jSmpmdnEtdXlTNVlWbEc4QzAtNEw3WDkxNDhIN25ZRHpLc2NXZVN4ckHSAcsBQVVfeXFMUHAxY3JiRUgxZHNYNE5ieW14WjYxUGkwS2RjTDhDNW8zdk5zSldWVFA4R2JudnFWbXlPN1dNSlJ1MHkwM3ZlOWdxMlM4UDZjMXp0RHV0czdwMEZOeU5BTUpTRG93TUlWS3hKX0M3MExhTVV3Y0dMQmxpQzR5MEE1NjRJQ2V4ZnVTR3owTG1UeXNoUnQ1OVFUM09RTUtFNXVZWWxWTVlRaGxVTmJtbFJ6R19WV2lwZkFqLUtteGNGVmRxVHAtbjhoakVoR1U?oc=5",
+          "title": "Coupang dispute raises stakes in Korea's $350 bil. US investment talks - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS1p6ekk4VjROaXZ1dHBKNU0wMExqMWhHcE5OTWk0Y3BVcUJqUHFmOTNTMXo3OUxKWE9nR0VQYTByOTl0NV91cnRxNmE1Z3JYdmxJS0lYMUVqa2w5M1VlWFVCZWJ3QTF4dVJFT2NwQW1ldXk0NGVlNnMwRU9PRzkwTnBfYUwtVmQtNGxxSWV4engwaGpqa0p1TVVldmFiUmhROHpGZDFVWG5ubGNhdk83c3N2aVUtMzJLZ2hCOU8zbTM5Z9IBxwFBVV95cUxQSHk1NTkydnpuXzh6ZTcya013bGpGTENEQ1o4TjdZYmstSzJqYjhwdG5mUlgwQkd2OEJScXJyVjJoV2V0bHlGc0prd0daR1p4YzRIZTNqYkRuWjVucWNORUpmQTc3ZkpGWnZHRVhIRVRvdTlieHR5alV3V002Z2ZUTlB6RjBYUkRlNXFJaVgzTFA1RGhhTmFFUjFXZy1FRm1vMHFrTlM4RkxpcXJ4LTRNYlFBTUU1ZVVld2U2cUNKVHhCQWwtb1dj?oc=5\" target=\"_blank\">Coupang dispute raises stakes in Korea's $350 bil. US investment talks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS1p6ekk4VjROaXZ1dHBKNU0wMExqMWhHcE5OTWk0Y3BVcUJqUHFmOTNTMXo3OUxKWE9nR0VQYTByOTl0NV91cnRxNmE1Z3JYdmxJS0lYMUVqa2w5M1VlWFVCZWJ3QTF4dVJFT2NwQW1ldXk0NGVlNnMwRU9PRzkwTnBfYUwtVmQtNGxxSWV4engwaGpqa0p1TVVldmFiUmhROHpGZDFVWG5ubGNhdk83c3N2aVUtMzJLZ2hCOU8zbTM5Z9IBxwFBVV95cUxQSHk1NTkydnpuXzh6ZTcya013bGpGTENEQ1o4TjdZYmstSzJqYjhwdG5mUlgwQkd2OEJScXJyVjJoV2V0bHlGc0prd0daR1p4YzRIZTNqYkRuWjVucWNORUpmQTc3ZkpGWnZHRVhIRVRvdTlieHR5alV3V002Z2ZUTlB6RjBYUkRlNXFJaVgzTFA1RGhhTmFFUjFXZy1FRm1vMHFrTlM4RkxpcXJ4LTRNYlFBTUU1ZVVld2U2cUNKVHhCQWwtb1dj?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-09-24",
+          "publishedAt": "2026-09-25",
           "views": "13.0K"
         },
         {
-          "title": "GM, Ford to see US market-share slide, forecaster predicts - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdHBuWHY3TXJ1OFh0YXJzQndFZXY4emZ1NG5mcE5CTkY0dTFHWVVxV3JfaTdMSFE1MmFGMkVNT282N0dZM2ZFN3I1N3VaTUN3U3dfbFZjNXBkOWpMOWhHelduMVZ2NjFTWFNvanpibnBZRDZFUnlfXzA0N1FqZU5RczNTa0Jxb1Z1b1psX3pzVGQzYUJVMmtwdkh5LVhvaDFlUGx3S2FqcVRIdV9zVEFoXzM0VDVEcEFMcWtN?oc=5\" target=\"_blank\">GM, Ford to see US market-share slide, forecaster predicts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdHBuWHY3TXJ1OFh0YXJzQndFZXY4emZ1NG5mcE5CTkY0dTFHWVVxV3JfaTdMSFE1MmFGMkVNT282N0dZM2ZFN3I1N3VaTUN3U3dfbFZjNXBkOWpMOWhHelduMVZ2NjFTWFNvanpibnBZRDZFUnlfXzA0N1FqZU5RczNTa0Jxb1Z1b1psX3pzVGQzYUJVMmtwdkh5LVhvaDFlUGx3S2FqcVRIdV9zVEFoXzM0VDVEcEFMcWtN?oc=5",
+          "title": "Data center IPO hopefuls brave tougher market as investor scrutiny grows - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNUI2bktTU0d4N3ZCQWY5MXJJblQtWHJvLTJJU19EZFQydzI4QWdKNDRhR0ZVVTdUQzVXYkpSMDFQTmZveThyT0NseElNd3M3UGhrWXI0bTFfSVNMaUh2UTRUZi1JYjlycmdIc1JZRFRhNUhpWUNMcmRqcUVvYjlxUldRbnlpU0ZfSmZZbjNlNE96UnIxSUw0VmtvQXIzWW45b05JTk5TNU5pZEhIODBnbmF5NXZ3a05FSmFLUG5PM2hkdDA?oc=5\" target=\"_blank\">Data center IPO hopefuls brave tougher market as investor scrutiny grows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNUI2bktTU0d4N3ZCQWY5MXJJblQtWHJvLTJJU19EZFQydzI4QWdKNDRhR0ZVVTdUQzVXYkpSMDFQTmZveThyT0NseElNd3M3UGhrWXI0bTFfSVNMaUh2UTRUZi1JYjlycmdIc1JZRFRhNUhpWUNMcmRqcUVvYjlxUldRbnlpU0ZfSmZZbjNlNE96UnIxSUw0VmtvQXIzWW45b05JTk5TNU5pZEhIODBnbmF5NXZ3a05FSmFLUG5PM2hkdDA?oc=5",
           "source": "Reuters AI",
-          "publishedAt": "2026-09-24",
+          "publishedAt": "2026-09-25",
           "views": "13.0K"
         }
       ]
@@ -173,6 +173,14 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
+          "title": "At Meta Connect, the company’s smart glasses were everywhere - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNZjFPMGtJUkQzUUZNVFczdGtycGRFeGN0UnlZMVJVWEdsbEpVaUxUbDVLVUpHZkJaeU9aZzZ2aTFRLW1uUnlvb3ltdXRTXzg2VFJQYmNoVVFPNGxTRjNfUmpMT2hrX1luTjI2QkVKeFUzWE16bHhONXNwLTlaUG41VGFTS2ZwQXRLczBuX1R5bldacXhDM0hUTQ?oc=5\" target=\"_blank\">At Meta Connect, the company’s smart glasses were everywhere</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZjFPMGtJUkQzUUZNVFczdGtycGRFeGN0UnlZMVJVWEdsbEpVaUxUbDVLVUpHZkJaeU9aZzZ2aTFRLW1uUnlvb3ltdXRTXzg2VFJQYmNoVVFPNGxTRjNfUmpMT2hrX1luTjI2QkVKeFUzWE16bHhONXNwLTlaUG41VGFTS2ZwQXRLczBuX1R5bldacXhDM0hUTQ?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-09-26",
+          "views": "13.0K"
+        },
+        {
           "title": "China fuels rush to turn AI video into an industry - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxORlQtenNaMmxRamtwOWktWUNHZVFtckphUmw4YlBLNkRURE51WHB4QVh4dmRjSkFsUktWdjk4ekpFbGFOeVJ5ZEh2a0lzMVNSa2pUMUdseHBwejhzSlZFeFdlUEdHV19LMUZaUXlCV0RhUS1mSzNtVDh1b1QzUE9lNDlWTTVYNWtQZFFYSGlGalhYZEpId0tMRk04eW51aGV4YWtBOGdrb2VSdw?oc=5\" target=\"_blank\">China fuels rush to turn AI video into an industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORlQtenNaMmxRamtwOWktWUNHZVFtckphUmw4YlBLNkRURE51WHB4QVh4dmRjSkFsUktWdjk4ekpFbGFOeVJ5ZEh2a0lzMVNSa2pUMUdseHBwejhzSlZFeFdlUEdHV19LMUZaUXlCV0RhUS1mSzNtVDh1b1QzUE9lNDlWTTVYNWtQZFFYSGlGalhYZEpId0tMRk04eW51aGV4YWtBOGdrb2VSdw?oc=5",
@@ -181,19 +189,11 @@
           "views": "13.0K"
         },
         {
-          "title": "Trump rolled back regulations for oil company campaign donors, Democrats say - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ2xQaXlsZUNqdmhhanV2SmJrQVcxTUFZcVI5eHRRNXlFN3llQTc0dkRtTXlyTEN1RXg2TUVUUGloa1M0M2RUbGN6WHJUMDVnTnJzWFJ0VzlZSmcwUklibkdjNC1xTEc3UnJlWW1VX1hpYkRQcTdHNHRrZzJ0dXFFck16Z3hLTFhsdFFwMEpYNFRQVDdwSTdrOExvczc5T3Y3bXJURDk3cE1kcDVPYjUwbXc4RHBieE1ZNlpuS013d2V2UQ?oc=5\" target=\"_blank\">Trump rolled back regulations for oil company campaign donors, Democrats say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ2xQaXlsZUNqdmhhanV2SmJrQVcxTUFZcVI5eHRRNXlFN3llQTc0dkRtTXlyTEN1RXg2TUVUUGloa1M0M2RUbGN6WHJUMDVnTnJzWFJ0VzlZSmcwUklibkdjNC1xTEc3UnJlWW1VX1hpYkRQcTdHNHRrZzJ0dXFFck16Z3hLTFhsdFFwMEpYNFRQVDdwSTdrOExvczc5T3Y3bXJURDk3cE1kcDVPYjUwbXc4RHBieE1ZNlpuS013d2V2UQ?oc=5",
+          "title": "Russia says it struck Ukrainian defence industry facilities, vessels - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPclNBcm1TMURGNjhCeWNpQnlDTFgzQml2aFd4TmNKRXVaZEFyQzJoN1NNWTRnYXZyMnF1bHJ0REE1d09oeVpZRUV6UWpHVUg2MjlPNUxPWXJJVEdQMWtMem8yRTdtREstRjBkU25iemdRYmNpNGhjN0pyM21VOEg4UXBsMjdSYWJCNTRaSDJtN3VxS0ROQnZjbVhZODV3WkRhODByLXZmcVZlbmlXV3F6czMwV0MzZHBxZnVFMjB0SU9LSjhLbE4yU0d3?oc=5\" target=\"_blank\">Russia says it struck Ukrainian defence industry facilities, vessels</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPclNBcm1TMURGNjhCeWNpQnlDTFgzQml2aFd4TmNKRXVaZEFyQzJoN1NNWTRnYXZyMnF1bHJ0REE1d09oeVpZRUV6UWpHVUg2MjlPNUxPWXJJVEdQMWtMem8yRTdtREstRjBkU25iemdRYmNpNGhjN0pyM21VOEg4UXBsMjdSYWJCNTRaSDJtN3VxS0ROQnZjbVhZODV3WkRhODByLXZmcVZlbmlXV3F6czMwV0MzZHBxZnVFMjB0SU9LSjhLbE4yU0d3?oc=5",
           "source": "Reuters AI",
-          "publishedAt": "2026-09-24",
-          "views": "13.0K"
-        },
-        {
-          "title": "Saudi oil export strategy hits new hurdle as Red Sea insurance costs soar - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQZTRXRkRnZzBpWmo3VklXUlM4NzZOUXZKTjlndXgydERQalUwdHZDV2loS1F4YnRreHRWYlhUb1RnWGt3Nm1NaERsMC1Gb3QxSlZaTWZGWllwbnVwOWhtRkNlc0JFQUdNYTU2X1lTRGxweTBqTk1Gdk5RdTY0NldlUmlSbDgxbGFfM2NqVWk5UHRCTVZCb3NBSS1BcnF4ZHVqVUNlU3Zpd1lyM1BVWkhzT1h0cVZmX0ozQlZUdUFEYw?oc=5\" target=\"_blank\">Saudi oil export strategy hits new hurdle as Red Sea insurance costs soar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZTRXRkRnZzBpWmo3VklXUlM4NzZOUXZKTjlndXgydERQalUwdHZDV2loS1F4YnRreHRWYlhUb1RnWGt3Nm1NaERsMC1Gb3QxSlZaTWZGWllwbnVwOWhtRkNlc0JFQUdNYTU2X1lTRGxweTBqTk1Gdk5RdTY0NldlUmlSbDgxbGFfM2NqVWk5UHRCTVZCb3NBSS1BcnF4ZHVqVUNlU3Zpd1lyM1BVWkhzT1h0cVZmX0ozQlZUdUFEYw?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-09-24",
+          "publishedAt": "2026-09-25",
           "views": "13.0K"
         }
       ]
