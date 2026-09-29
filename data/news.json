@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-28T05:18:31.244Z",
+  "lastUpdated": "2026-09-29T05:39:58.179Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -57,19 +57,19 @@
           "views": "23.0K"
         },
         {
+          "title": "Anthropic rolls out second Claude 5.5 model as it builds toward IPO - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNUm1rcklHNVRzQnFIS2t3RnNGNDBwU25RUzJIcnFNN0FIbDNOU3VTNEhVVGprOEhNOVZISGVlWHo1NkFZX3doLUNkOU16cmlMdWotdnljUUowc19DcXJXbzFjRTI1QVFKNGtJSWNBMGdUSExIVlB3NmpVZWQ2TnBFNFpjckY1NEhOOS1BMWw1MktacnlrbFpBMDd5X2tZb0xpbVRxRlREYlRGWWE4elFr?oc=5\" target=\"_blank\">Anthropic rolls out second Claude 5.5 model as it builds toward IPO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUm1rcklHNVRzQnFIS2t3RnNGNDBwU25RUzJIcnFNN0FIbDNOU3VTNEhVVGprOEhNOVZISGVlWHo1NkFZX3doLUNkOU16cmlMdWotdnljUUowc19DcXJXbzFjRTI1QVFKNGtJSWNBMGdUSExIVlB3NmpVZWQ2TnBFNFpjckY1NEhOOS1BMWw1MktacnlrbFpBMDd5X2tZb0xpbVRxRlREYlRGWWE4elFr?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-09-28",
+          "views": "18.0K"
+        },
+        {
           "title": "China weighs allowing ByteDance, Alibaba to buy new Nvidia chips, The Information reports - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPX0pMdFpwUWhaRHhFM1pvcndCTDdIX1NOQUVwV2JIX0xIcXByV3Z4UWQyblZRVWl5elZ0TkYxV3BXUEluN0llM0VnUDJvVmN4X19pcXJVX0tSNDdEUWdaNGFFVVQ3N01VaWJHQ1FXVEdVZTJJcDFvZlJ0QmE0b2JpeGM4RDdBMDh4YmNxRkhILVJDRGktQzRPdGNsV2VxWHBjZWt0Q3hRN2FwZWlhcDhMcUZ0LUJsS1FoWGVQUG1PVWp4cEpCcEtVdUJVRVQ4cjZxVUxjM1lDWFM?oc=5\" target=\"_blank\">China weighs allowing ByteDance, Alibaba to buy new Nvidia chips, The Information reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPX0pMdFpwUWhaRHhFM1pvcndCTDdIX1NOQUVwV2JIX0xIcXByV3Z4UWQyblZRVWl5elZ0TkYxV3BXUEluN0llM0VnUDJvVmN4X19pcXJVX0tSNDdEUWdaNGFFVVQ3N01VaWJHQ1FXVEdVZTJJcDFvZlJ0QmE0b2JpeGM4RDdBMDh4YmNxRkhILVJDRGktQzRPdGNsV2VxWHBjZWt0Q3hRN2FwZWlhcDhMcUZ0LUJsS1FoWGVQUG1PVWp4cEpCcEtVdUJVRVQ4cjZxVUxjM1lDWFM?oc=5",
           "source": "Reuters AI",
           "publishedAt": "2026-09-27",
-          "views": "18.0K"
-        },
-        {
-          "title": "Google launches Gemini 3.8 Flash TTS voice models - AI News",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQRGg5UmJGSXh4WkktcWhJLWFRcUJBcjdTYldEeTh3akJycjFuZXpmWk9FUDJtUVA5WU9ieWoxVkUtbHZTcThNZ29XbkoweVMxWWQ1NS1wN1lQTk82UGg2ZVZ1dEsxWGZteF9lcVBvSTJOb2hZQ3pUZlBELTZpbFpqOEJEZ0FXb3RoV2piQVJseVJyY1h0?oc=5\" target=\"_blank\">Google launches Gemini 3.8 Flash TTS voice models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI News</font>",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRGg5UmJGSXh4WkktcWhJLWFRcUJBcjdTYldEeTh3akJycjFuZXpmWk9FUDJtUVA5WU9ieWoxVkUtbHZTcThNZ29XbkoweVMxWWQ1NS1wN1lQTk82UGg2ZVZ1dEsxWGZteF9lcVBvSTJOb2hZQ3pUZlBELTZpbFpqOEJEZ0FXb3RoV2piQVJseVJyY1h0?oc=5",
-          "source": "AI News",
-          "publishedAt": "2026-09-24",
           "views": "18.0K"
         }
       ]
@@ -80,8 +80,8 @@
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
         {
-          "title": "Microsoft revamps its Copilot AI with a persistent Autopilot agent and hosting for AI-generated apps - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbXltN1FUMFM3NTk1Zlp4TXFjRGt6SzBEdjI1Uk5EVE1NRnpHRTFMZGNqaFY3ZXRKajZnVUtWNG5ablJjS1NleUdzMm9oX2o2NEFRUjFPZk9hdWFpd1Zxa003VHdoNXB6ZC1fYmpUcXcxNTVOYVdSQVdyNlNHRUlLbDN4UDBDdlA5RF9kMFVGbHpvOW1FV2hIcmNvUjFCazlMY2c0amtONndWWEhsRTdIaE1Ya05EaF9QV3ZnS3ZWZERVSll5SUZZT2ZZd081UFl2?oc=5\" target=\"_blank\">Microsoft revamps its Copilot AI with a persistent Autopilot agent and hosting for AI-generated apps</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "title": "Microsoft revamps its Copilot AI with a persistent Autopilot agent and hosting for AI-generated apps - venturebeat.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbXltN1FUMFM3NTk1Zlp4TXFjRGt6SzBEdjI1Uk5EVE1NRnpHRTFMZGNqaFY3ZXRKajZnVUtWNG5ablJjS1NleUdzMm9oX2o2NEFRUjFPZk9hdWFpd1Zxa003VHdoNXB6ZC1fYmpUcXcxNTVOYVdSQVdyNlNHRUlLbDN4UDBDdlA5RF9kMFVGbHpvOW1FV2hIcmNvUjFCazlMY2c0amtONndWWEhsRTdIaE1Ya05EaF9QV3ZnS3ZWZERVSll5SUZZT2ZZd081UFl2?oc=5\" target=\"_blank\">Microsoft revamps its Copilot AI with a persistent Autopilot agent and hosting for AI-generated apps</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">venturebeat.com</font>",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbXltN1FUMFM3NTk1Zlp4TXFjRGt6SzBEdjI1Uk5EVE1NRnpHRTFMZGNqaFY3ZXRKajZnVUtWNG5ablJjS1NleUdzMm9oX2o2NEFRUjFPZk9hdWFpd1Zxa003VHdoNXB6ZC1fYmpUcXcxNTVOYVdSQVdyNlNHRUlLbDN4UDBDdlA5RF9kMFVGbHpvOW1FV2hIcmNvUjFCazlMY2c0amtONndWWEhsRTdIaE1Ya05EaF9QV3ZnS3ZWZERVSll5SUZZT2ZZd081UFl2?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-09-25",
@@ -96,8 +96,8 @@
           "views": "18.0K"
         },
         {
-          "title": "Xapien Partners With ServiceNow to Bring AI-Native Due Diligence Into Enterprise Workflows - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ2V1Q2llX3Z2UmdpZ05tTlFxNkxuT2RKazFjVmFhMnJBT1hSRzlPLWFHN3pJYkU2eE1SVE5VUjNnZk5XQWNhS3ptV1hGVng4YTVabEZ6Q0htY3BnMHhsTWgwenU1LWZSNGtEY0YxYkhyYVRmbkpJZjdPa2dUTXcyUi1Ra1BiNHBWc1pUYmZFZkNoVjVuSjhhUGlsNTVxNjZvcEI0ejgwUzdBVmdSbkhhMXNKVnozeGpfcXhNc21XcHM?oc=5\" target=\"_blank\">Xapien Partners With ServiceNow to Bring AI-Native Due Diligence Into Enterprise Workflows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "title": "Xapien Partners With ServiceNow to Bring AI-Native Due Diligence Into Enterprise Workflows - venturebeat.com",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ2V1Q2llX3Z2UmdpZ05tTlFxNkxuT2RKazFjVmFhMnJBT1hSRzlPLWFHN3pJYkU2eE1SVE5VUjNnZk5XQWNhS3ptV1hGVng4YTVabEZ6Q0htY3BnMHhsTWgwenU1LWZSNGtEY0YxYkhyYVRmbkpJZjdPa2dUTXcyUi1Ra1BiNHBWc1pUYmZFZkNoVjVuSjhhUGlsNTVxNjZvcEI0ejgwUzdBVmdSbkhhMXNKVnozeGpfcXhNc21XcHM?oc=5\" target=\"_blank\">Xapien Partners With ServiceNow to Bring AI-Native Due Diligence Into Enterprise Workflows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">venturebeat.com</font>",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ2V1Q2llX3Z2UmdpZ05tTlFxNkxuT2RKazFjVmFhMnJBT1hSRzlPLWFHN3pJYkU2eE1SVE5VUjNnZk5XQWNhS3ptV1hGVng4YTVabEZ6Q0htY3BnMHhsTWgwenU1LWZSNGtEY0YxYkhyYVRmbkpJZjdPa2dUTXcyUi1Ra1BiNHBWc1pUYmZFZkNoVjVuSjhhUGlsNTVxNjZvcEI0ejgwUzdBVmdSbkhhMXNKVnozeGpfcXhNc21XcHM?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-09-22",
@@ -119,19 +119,19 @@
           "views": "18.0K"
         },
         {
-          "title": "[COVER STORY] Middle-aged Koreans largely look to national pension for post-retirement safety net - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWFhMZ1VsY1JTSWtuMnhJUGxDWHNsR2NNVk0xaG01c2tfeEFGTkJVVmtmUkRreXFGZEdGRXVTbEVOTnRzQ1JMYmpxUmR3U3ZRYjhoUHhLSzJsU0laWW5yNW5vck5kV2k1RGpCaFZ4aUt2TUNzWG1OYi00UzV1R1lLOHRIOXdSckI4Zk9BYWZydHNQbURuRU1YVUdPbjVNMjE5VXJvcVVXVXRybUwzblhyRzdvbjNaWHFTTUJkSXgxSTlnR3VwNy1BeDlFMVRJX0pmQlJuYS1wUG85TWNGd25CVklB0gHnAUFVX3lxTFBpTnU3MW9YbFZrNDVoNTN0dk1KbmctU1JmQ2FFTmd1ZXFtdXBHN0doSkxCbUhWakMySE5aQkpzR1NrTnM3a1hDdG5DUmc5eFFabFI2ZWsyMUxsTVhPUEFsTUpPOHR6UUxGcEc2Z0RzN1M3ZE5vY2FjRFh0MElSaWJCX2I2UU5mTzg3c1hnbDc1cTJwZldJLWdMMExFd0M0T3BKWXJoN1c3cm9nYWZXZWpGZG9tOVVHZl9hWjNsS3FhWVlHWUcxbzNHQ2lCWG9feHVPMzMyWFllMjd5cldtNURrcGlCQ2Etbw?oc=5\" target=\"_blank\">[COVER STORY] Middle-aged Koreans largely look to national pension for post-retirement safety net</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWFhMZ1VsY1JTSWtuMnhJUGxDWHNsR2NNVk0xaG01c2tfeEFGTkJVVmtmUkRreXFGZEdGRXVTbEVOTnRzQ1JMYmpxUmR3U3ZRYjhoUHhLSzJsU0laWW5yNW5vck5kV2k1RGpCaFZ4aUt2TUNzWG1OYi00UzV1R1lLOHRIOXdSckI4Zk9BYWZydHNQbURuRU1YVUdPbjVNMjE5VXJvcVVXVXRybUwzblhyRzdvbjNaWHFTTUJkSXgxSTlnR3VwNy1BeDlFMVRJX0pmQlJuYS1wUG85TWNGd25CVklB0gHnAUFVX3lxTFBpTnU3MW9YbFZrNDVoNTN0dk1KbmctU1JmQ2FFTmd1ZXFtdXBHN0doSkxCbUhWakMySE5aQkpzR1NrTnM3a1hDdG5DUmc5eFFabFI2ZWsyMUxsTVhPUEFsTUpPOHR6UUxGcEc2Z0RzN1M3ZE5vY2FjRFh0MElSaWJCX2I2UU5mTzg3c1hnbDc1cTJwZldJLWdMMExFd0M0T3BKWXJoN1c3cm9nYWZXZWpGZG9tOVVHZl9hWjNsS3FhWVlHWUcxbzNHQ2lCWG9feHVPMzMyWFllMjd5cldtNURrcGlCQ2Etbw?oc=5",
+          "title": "Contradicting Trump, Pope Leo says artificial intelligence safety concerns not 'fake news' - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNm5ZVU9PTE53VFJ5V3VHMzBRWHpoa1Z2RWRwbVYyaUlIUHVtbGp2Wk5OV3NlMm0ybnd0RThDY2RJa1EtNXZ1Ul9IVzNYOEoxSG5mWXU3OEdiN01QdG1IclZrUE8tMjh4cUpKTWdyVHJ3Nl9fVXVFQlJOLW9wdFM1OEtoMGxYZ1o2bURTVlF0SVU2SldIVjhRR1htTGlxYVB4bjE4TXZrTVYzbkJBWE9lWGNlWUNHeUl5dEo4SDRlbTI1WlBNYnJYcXpRYUhUZ3hy0gHQAUFVX3lxTE02bllVT09MTndUUnlXdUczMFFYemhrVnZFZHBtVjJpSUhQdW1sanZaTk5Xc2UybTJud3RFOENjZElrUS01dnVSX0hXM1g4SjFIbmZZdTc4R2I3TVB0bUhyVmtQTy0yOHhxSkpNZ3JUcnc2X19VdUVCUk4tb3B0UzU4S2gwbFhnWjZtRFNWUXRJVTZKV0hWOFFHWG1MaXFhUHhuMThNdmtNVjNuQkFYT2VYY2VZQ0d5SXl0SjhINGVtMjVaUE1iclhxelFhSFRneHI?oc=5\" target=\"_blank\">Contradicting Trump, Pope Leo says artificial intelligence safety concerns not 'fake news'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNm5ZVU9PTE53VFJ5V3VHMzBRWHpoa1Z2RWRwbVYyaUlIUHVtbGp2Wk5OV3NlMm0ybnd0RThDY2RJa1EtNXZ1Ul9IVzNYOEoxSG5mWXU3OEdiN01QdG1IclZrUE8tMjh4cUpKTWdyVHJ3Nl9fVXVFQlJOLW9wdFM1OEtoMGxYZ1o2bURTVlF0SVU2SldIVjhRR1htTGlxYVB4bjE4TXZrTVYzbkJBWE9lWGNlWUNHeUl5dEo4SDRlbTI1WlBNYnJYcXpRYUhUZ3hy0gHQAUFVX3lxTE02bllVT09MTndUUnlXdUczMFFYemhrVnZFZHBtVjJpSUhQdW1sanZaTk5Xc2UybTJud3RFOENjZElrUS01dnVSX0hXM1g4SjFIbmZZdTc4R2I3TVB0bUhyVmtQTy0yOHhxSkpNZ3JUcnc2X19VdUVCUk4tb3B0UzU4S2gwbFhnWjZtRFNWUXRJVTZKV0hWOFFHWG1MaXFhUHhuMThNdmtNVjNuQkFYT2VYY2VZQ0d5SXl0SjhINGVtMjVaUE1iclhxelFhSFRneHI?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-09-21",
-          "views": "18.0K"
+          "publishedAt": "2026-09-29",
+          "views": "13.0K"
         },
         {
-          "title": "Violations of anti-graft law hit record low last year - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOajBKc0NmU1IxZUFWNmphVHNpVUx4VHBiMEsyU0RDTlZPcEYyTXFBMHcxNzNXRWdtc200bFZ2OFIwOFltMUR4Rkl3SVJRM0RoZDlvUXBQV1gxUHktejhzTmZwOFBkekVneWJXczZaSjE3SUFfQmhBZnRaNmhlNk9INndId0F3bmtzbjJMaUhKZXBjTThlNTdoUUlYMW9RdWE0d3VYUnRBcVRpWnlYTkhDcU9R0gG3AUFVX3lxTFBUaHVrdFh5X2ZBWHhPTm50REF2Zm44WlVtLXhkVVNoWGpEN2U5S3lRREFuRnpIMkZlZkhKM0JXSDhLMG9sbGhZc3NwUDlaYkVBcUdvTlp4YjdyNk9oNzJKNUw1R05mWFFRc19kcENxVWUzT3lPc0dtRzVuS25MakJyVkwxbnZVQk9TM3Mxd0xQZkFjYUl1MjQ4ajNSSFlHU3BXVlYtVXZHSFRlRDYyUUMybUxBQ1g2cw?oc=5\" target=\"_blank\">Violations of anti-graft law hit record low last year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOajBKc0NmU1IxZUFWNmphVHNpVUx4VHBiMEsyU0RDTlZPcEYyTXFBMHcxNzNXRWdtc200bFZ2OFIwOFltMUR4Rkl3SVJRM0RoZDlvUXBQV1gxUHktejhzTmZwOFBkekVneWJXczZaSjE3SUFfQmhBZnRaNmhlNk9INndId0F3bmtzbjJMaUhKZXBjTThlNTdoUUlYMW9RdWE0d3VYUnRBcVRpWnlYTkhDcU9R0gG3AUFVX3lxTFBUaHVrdFh5X2ZBWHhPTm50REF2Zm44WlVtLXhkVVNoWGpEN2U5S3lRREFuRnpIMkZlZkhKM0JXSDhLMG9sbGhZc3NwUDlaYkVBcUdvTlp4YjdyNk9oNzJKNUw1R05mWFFRc19kcENxVWUzT3lPc0dtRzVuS25MakJyVkwxbnZVQk9TM3Mxd0xQZkFjYUl1MjQ4ajNSSFlHU3BXVlYtVXZHSFRlRDYyUUMybUxBQ1g2cw?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-09-28",
+          "title": "Malaysia begins sending home Myanmar refugees despite safety concerns - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeGktWktpcHgta29UNDlId0N1Mk1hY2RicGs5a2ZhSGx4WUNHdHRUVTN6aGZrQnJEY3hwa3o0MU1CU3dNRjZ2ZTNUSUhNUlRjeUxqd281Wlo5VlJzRks3TE5oRWl2d0F0UHdkZTJwcFBPaHpHTmZCOE1zbGRlLUNYYXp6MXQtQXZiNHB2WDVUbG1ieHRFNGlmbGFHTldkX2Y5MWZ4X25fb21BVy1FTm1CMWstcl9QZHpLZ3VzM1lnb3U4dw?oc=5\" target=\"_blank\">Malaysia begins sending home Myanmar refugees despite safety concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeGktWktpcHgta29UNDlId0N1Mk1hY2RicGs5a2ZhSGx4WUNHdHRUVTN6aGZrQnJEY3hwa3o0MU1CU3dNRjZ2ZTNUSUhNUlRjeUxqd281Wlo5VlJzRks3TE5oRWl2d0F0UHdkZTJwcFBPaHpHTmZCOE1zbGRlLUNYYXp6MXQtQXZiNHB2WDVUbG1ieHRFNGlmbGFHTldkX2Y5MWZ4X25fb21BVy1FTm1CMWstcl9QZHpLZ3VzM1lnb3U4dw?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-09-29",
           "views": "13.0K"
         }
       ]
@@ -142,27 +142,27 @@
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
         {
-          "title": "Q4 'New Car Clash'... SUV & Sedan Markets, Domestic vs. Imported Rivalry - ETNEWS",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9KeTBISklxM2h4ektiUEo1NEIxc3VScktwb0xvWkczcDlZNl8zMHkzVzhjSl9iSGpSeTl6LUtxdGlEQVlvVm1mSXAwQUQ?oc=5\" target=\"_blank\">Q4 'New Car Clash'... SUV & Sedan Markets, Domestic vs. Imported Rivalry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9KeTBISklxM2h4ektiUEo1NEIxc3VScktwb0xvWkczcDlZNl8zMHkzVzhjSl9iSGpSeTl6LUtxdGlEQVlvVm1mSXAwQUQ?oc=5",
-          "source": "전자신문",
-          "publishedAt": "2026-09-28",
+          "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxORF9FbmlNRU4wU244X1JyTGxPVVY1RXNoQW9ycVJsb1ZSc0k4Z3lHLWc2VWlxY3VnSmVrV2NQMWNXSDFJSXJXX2w4QXdlenIzT012ZEhqOUN2alNDY054a3hyYkdpOWh2X1JxSmNNcnQtT1laQ2JMTmVTVk1QdlRfQ3A2THQwLW5jN08zTmk0eGtMajU4bEtrOHpxdXpVQWo1TzBXZFZPMUladw?oc=5\" target=\"_blank\">Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORF9FbmlNRU4wU244X1JyTGxPVVY1RXNoQW9ycVJsb1ZSc0k4Z3lHLWc2VWlxY3VnSmVrV2NQMWNXSDFJSXJXX2w4QXdlenIzT012ZEhqOUN2alNDY054a3hyYkdpOWh2X1JxSmNNcnQtT1laQ2JMTmVTVk1QdlRfQ3A2THQwLW5jN08zTmk0eGtMajU4bEtrOHpxdXpVQWo1TzBXZFZPMUladw?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-09-29",
+          "views": "18.0K"
+        },
+        {
+          "title": "Airstrike near a market in Myanmar's Rakhine state kills 49 people - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPVXdXSVR4NEw4MWZUaHpTTWFJck5USXpwOTJQOEM4cW9Wb3JsZnpXbkc1N0dUc1pYc182U0ljcllPSEdvRnctQmRUcVlwRHJ4eXZhWFJoRHJEcDJWa0ZoREpDZzhkOU9zbmRIejRna2szaG9SOUtzSkVWQXNCa21Sb0RVaE1XZmJWY2tSUGd2NF9seUx5MDRwVG5fTFJUWlI1U2dGUkZmVWdqX082N2fSAbMBQVVfeXFMUG43MlZGbkJ4TkZLZ0lYUHNGRHk1XzdvSGZTR20xd0FJVjJIY3NjbXNJNGtCbWRaZGY2V1VqMGJRX1VMem45LXQzeWZFV3liNUwwY3FaZGN5cmx6S3BTdkVtMGNpVTc1SVJ4Y2Mya3RuR3BYOXc2dGxkc0VOR2FkOWFGdUdjbXdBc2N3dTBOTnZhSUxJQXgzQTl3RVBtNnktLWxrNTBqaXkxUWgtMjRONlFCa2c?oc=5\" target=\"_blank\">Airstrike near a market in Myanmar's Rakhine state kills 49 people</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVXdXSVR4NEw4MWZUaHpTTWFJck5USXpwOTJQOEM4cW9Wb3JsZnpXbkc1N0dUc1pYc182U0ljcllPSEdvRnctQmRUcVlwRHJ4eXZhWFJoRHJEcDJWa0ZoREpDZzhkOU9zbmRIejRna2szaG9SOUtzSkVWQXNCa21Sb0RVaE1XZmJWY2tSUGd2NF9seUx5MDRwVG5fTFJUWlI1U2dGUkZmVWdqX082N2fSAbMBQVVfeXFMUG43MlZGbkJ4TkZLZ0lYUHNGRHk1XzdvSGZTR20xd0FJVjJIY3NjbXNJNGtCbWRaZGY2V1VqMGJRX1VMem45LXQzeWZFV3liNUwwY3FaZGN5cmx6S3BTdkVtMGNpVTc1SVJ4Y2Mya3RuR3BYOXc2dGxkc0VOR2FkOWFGdUdjbXdBc2N3dTBOTnZhSUxJQXgzQTl3RVBtNnktLWxrNTBqaXkxUWgtMjRONlFCa2c?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-09-29",
           "views": "13.0K"
         },
         {
-          "title": "Hanwha Solutions targets offshore wind cable materials market - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQY2VNUFRfTm5ySWxmRlNwTVlDSERTYjY4ZHpIOEVGa1JRaURXU0ltSVRhd3JWNUtMNVFuYWlFTkg1Mm1SUVNJOFdQNTRZYlZ1Ymk2MF9iSE9JUC1aMWdiZ2VRZnJ0YlpRWWVLWW43M3RrVUp1Sk5XLUZHeGVMQld3aXFVWWFVT080Y1FQVUdxc0lXcGc1LWI0eFotRzNkUWVQNnBpSHFPSnZ4Nm1FVm85enVnSjY5aXcwYXJqQW9uUdIBvwFBVV95cUxQY2VNUFRfTm5ySWxmRlNwTVlDSERTYjY4ZHpIOEVGa1JRaURXU0ltSVRhd3JWNUtMNVFuYWlFTkg1Mm1SUVNJOFdQNTRZYlZ1Ymk2MF9iSE9JUC1aMWdiZ2VRZnJ0YlpRWWVLWW43M3RrVUp1Sk5XLUZHeGVMQld3aXFVWWFVT080Y1FQVUdxc0lXcGc1LWI0eFotRzNkUWVQNnBpSHFPSnZ4Nm1FVm85enVnSjY5aXcwYXJqQW9uUQ?oc=5\" target=\"_blank\">Hanwha Solutions targets offshore wind cable materials market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQY2VNUFRfTm5ySWxmRlNwTVlDSERTYjY4ZHpIOEVGa1JRaURXU0ltSVRhd3JWNUtMNVFuYWlFTkg1Mm1SUVNJOFdQNTRZYlZ1Ymk2MF9iSE9JUC1aMWdiZ2VRZnJ0YlpRWWVLWW43M3RrVUp1Sk5XLUZHeGVMQld3aXFVWWFVT080Y1FQVUdxc0lXcGc1LWI0eFotRzNkUWVQNnBpSHFPSnZ4Nm1FVm85enVnSjY5aXcwYXJqQW9uUdIBvwFBVV95cUxQY2VNUFRfTm5ySWxmRlNwTVlDSERTYjY4ZHpIOEVGa1JRaURXU0ltSVRhd3JWNUtMNVFuYWlFTkg1Mm1SUVNJOFdQNTRZYlZ1Ymk2MF9iSE9JUC1aMWdiZ2VRZnJ0YlpRWWVLWW43M3RrVUp1Sk5XLUZHeGVMQld3aXFVWWFVT080Y1FQVUdxc0lXcGc1LWI0eFotRzNkUWVQNnBpSHFPSnZ4Nm1FVm85enVnSjY5aXcwYXJqQW9uUQ?oc=5",
+          "title": "Korea's overseas direct investment up 32% in Q2 - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOWDFselJvY3llSjVvN0M2Ykd5ck9EZUhHdVRRajFTTW9ITXRTckFaOVVNRHN3Y1RjMDZXWDVDOUYtQW1pMnd1bVY5Q3RYSnJ2UGZmSnRiR2lxTk5MUkc4TzhUS29JN3QtUXNiZF95TVlRVU1xRXl4QXBONWdkQVpSMUZkc0s5OUVUcE5BT1JfOUViaXBxOUZfQmRNMzJ1NHMtcVA2bm5xR0pfbW50bE8xdl9R0gGyAUFVX3lxTE5YMWx6Um9jeWVKNW83QzZiR3lyT0RlSEd1VFFqMVNNb0hNdFNyQVo5VU1Ec3djVGMwNldYNUM5Ri1BbWkyd3VtVjlDdFhKcnZQZmZKdGJHaXFOTkxSRzhPOFRLb0k3dC1Rc2JkX3lNWVFVTXFFeXhBcE41Z2RBWlIxRmRzSzk5RVRwTkFPUl85RWJpcHE5Rl9CZE0zMnU0cy1xUDZubnFHSl9tbnRsTzF2X1E?oc=5\" target=\"_blank\">Korea's overseas direct investment up 32% in Q2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWDFselJvY3llSjVvN0M2Ykd5ck9EZUhHdVRRajFTTW9ITXRTckFaOVVNRHN3Y1RjMDZXWDVDOUYtQW1pMnd1bVY5Q3RYSnJ2UGZmSnRiR2lxTk5MUkc4TzhUS29JN3QtUXNiZF95TVlRVU1xRXl4QXBONWdkQVpSMUZkc0s5OUVUcE5BT1JfOUViaXBxOUZfQmRNMzJ1NHMtcVA2bm5xR0pfbW50bE8xdl9R0gGyAUFVX3lxTE5YMWx6Um9jeWVKNW83QzZiR3lyT0RlSEd1VFFqMVNNb0hNdFNyQVo5VU1Ec3djVGMwNldYNUM5Ri1BbWkyd3VtVjlDdFhKcnZQZmZKdGJHaXFOTkxSRzhPOFRLb0k3dC1Rc2JkX3lNWVFVTXFFeXhBcE41Z2RBWlIxRmRzSzk5RVRwTkFPUl85RWJpcHE5Rl9CZE0zMnU0cy1xUDZubnFHSl9tbnRsTzF2X1E?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-09-28",
-          "views": "13.0K"
-        },
-        {
-          "title": "Chief regulator vows to elevate capital market's global status - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNalhObW1aSXFid1FzTXZJQWRpT25Yako5R1Y2VWw4QkhsRnhGc0Z0dHp3OUFaRVF5Y3pyNVBEc1JMcmg2SG1jakxYdjcxZE54NktzS0FfVkNnallmc1FHYTVhTHVsX2RnWV9tY1U5cVcwNjRHeTB0S1R2TDFSQmFEck1qbGtZZ0gtbzZiNkFVSzh4Ykc0R3hZVGRxQjJyZWgzci1uRkd4cFRzMknSAbABQVVfeXFMTW1RWEhxU1JhZm5KR0xRZFY5WGRtUWptNEJoWnBMOTZMeVZSb3BLR2ptSTQ4WHRYeks3bE45MUNoTlYtZGtmNUl1RVd0UldPOXhiTFJ3R1BPSkZsT3RGc21DanpvOV9EWXBHSHpPcWZmNXNUYThXWnFWOHNtRGtzM3VVUFVaSDZsc3VJTzJlT09YdTJ2cGs1MmExMGY4aGVjMjR3Y3RpdXYzbW5xVnBCS2o?oc=5\" target=\"_blank\">Chief regulator vows to elevate capital market's global status</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNalhObW1aSXFid1FzTXZJQWRpT25Yako5R1Y2VWw4QkhsRnhGc0Z0dHp3OUFaRVF5Y3pyNVBEc1JMcmg2SG1jakxYdjcxZE54NktzS0FfVkNnallmc1FHYTVhTHVsX2RnWV9tY1U5cVcwNjRHeTB0S1R2TDFSQmFEck1qbGtZZ0gtbzZiNkFVSzh4Ykc0R3hZVGRxQjJyZWgzci1uRkd4cFRzMknSAbABQVVfeXFMTW1RWEhxU1JhZm5KR0xRZFY5WGRtUWptNEJoWnBMOTZMeVZSb3BLR2ptSTQ4WHRYeks3bE45MUNoTlYtZGtmNUl1RVd0UldPOXhiTFJ3R1BPSkZsT3RGc21DanpvOV9EWXBHSHpPcWZmNXNUYThXWnFWOHNtRGtzM3VVUFVaSDZsc3VJTzJlT09YdTJ2cGs1MmExMGY4aGVjMjR3Y3RpdXYzbW5xVnBCS2o?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-09-28",
+          "publishedAt": "2026-09-29",
           "views": "13.0K"
         }
       ]
@@ -173,6 +173,14 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
+          "title": "Samsung Group to invest $1 bil. in AI infrastructure company Helix - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeW5OR05EMF9kYWJ5NFg3dHFNWndrR3RYVkhrN0VVc05fYWpiMmJBbmRHOGt6Ty1MT1NNTDFRelp0Y2lGZUFkSzMtT0NGUEk2UWNka1BLZW9DWUhTa2FlM0R0ZS1YWkM1a1RTcUk3cV9GUnhEcmpDc0hxMXlGM1ZMUTdMMkl5dFFvWEcxS1Q2RU1aeXIzMVl4Qzd3djdJWENOZTRGZi1PNGQ5dlJobUFQXzNkTk1TLWVvOGFveWlHbC1ueTjSAcMBQVVfeXFMT3luTkdORDBfZGFieTRYN3RxTVp3a0d0WFZIazdFVXNOX2FqYjJiQW5kRzhrek8tTE9TTUwxUXpadGNpRmVBZEszLU9DRlBJNlFjZGtQS2VvQ1lIU2thZTNEdGUtWFpDNWtUU3FJN3FfRlJ4RHJqQ3NIcTF5RjNWTFE3TDJJeXRRb1hHMUtUNkVNWnlyMzFZeEM3d3Y3SVhDTmU0RmYtTzRkOXZSaG1BUF8zZE5NUy1lbzhhb3lpR2wtbnk4?oc=5\" target=\"_blank\">Samsung Group to invest $1 bil. in AI infrastructure company Helix</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeW5OR05EMF9kYWJ5NFg3dHFNWndrR3RYVkhrN0VVc05fYWpiMmJBbmRHOGt6Ty1MT1NNTDFRelp0Y2lGZUFkSzMtT0NGUEk2UWNka1BLZW9DWUhTa2FlM0R0ZS1YWkM1a1RTcUk3cV9GUnhEcmpDc0hxMXlGM1ZMUTdMMkl5dFFvWEcxS1Q2RU1aeXIzMVl4Qzd3djdJWENOZTRGZi1PNGQ5dlJobUFQXzNkTk1TLWVvOGFveWlHbC1ueTjSAcMBQVVfeXFMT3luTkdORDBfZGFieTRYN3RxTVp3a0d0WFZIazdFVXNOX2FqYjJiQW5kRzhrek8tTE9TTUwxUXpadGNpRmVBZEszLU9DRlBJNlFjZGtQS2VvQ1lIU2thZTNEdGUtWFpDNWtUU3FJN3FfRlJ4RHJqQ3NIcTF5RjNWTFE3TDJJeXRRb1hHMUtUNkVNWnlyMzFZeEM3d3Y3SVhDTmU0RmYtTzRkOXZSaG1BUF8zZE5NUy1lbzhhb3lpR2wtbnk4?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-09-29",
+          "views": "13.0K"
+        },
+        {
           "title": "Samsung Biologics highlights faster drug manufacturing timelines at BPI Boston - The Korea Times",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaUkzcC1FV3oxZHRNb3lsZFZhS3JzYnNHb3BzdjNQS0NaSjlEUGhqVFJQNFRvdWRIWUM4ZjM3XzZjSFRka3BYdTlueXpqLWJYX3JHellpMTd6aENaanNyUUdab084Q2VXdXpqOENQSkV6bHhKalRKSTYxM05pSHNMcHctSHFXSGRrdzNNZDNtRkFhbUlkcHFrQ3Eyb1B4b09wR05aNWJxN3FCdTJKV0NxVi0ybFNkTTRkazZkMmpUQmlEdkFfUlYtd2ZYd3FuNDdi0gHWAUFVX3lxTE1raWM1T0R5aFlSaVlVc0t2VGM5VkI4UnFmYUpIS2lORUxyeHZhOHNhOFRVSk5ZQldjWjlxVC0tUDRCT0I4VUVhbGhTRmVFZjJhRm9tWktNdUktcC1kbXA2V3lhWS1TOC1LZU5fZV9Nd04zUXFrQWFzN3BvS1NvNXBOYVlFb0RrS2hNanBXYVJmZGxNM21RaFZfTVJvT1ZRY2thOUNWakVIUmxYMFNkZExRTlZ2R19meU4wMF9VWWo4S2VYNnJZRko3TnY1VTlPQ2lGaDJnSGc?oc=5\" target=\"_blank\">Samsung Biologics highlights faster drug manufacturing timelines at BPI Boston</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaUkzcC1FV3oxZHRNb3lsZFZhS3JzYnNHb3BzdjNQS0NaSjlEUGhqVFJQNFRvdWRIWUM4ZjM3XzZjSFRka3BYdTlueXpqLWJYX3JHellpMTd6aENaanNyUUdab084Q2VXdXpqOENQSkV6bHhKalRKSTYxM05pSHNMcHctSHFXSGRrdzNNZDNtRkFhbUlkcHFrQ3Eyb1B4b09wR05aNWJxN3FCdTJKV0NxVi0ybFNkTTRkazZkMmpUQmlEdkFfUlYtd2ZYd3FuNDdi0gHWAUFVX3lxTE1raWM1T0R5aFlSaVlVc0t2VGM5VkI4UnFmYUpIS2lORUxyeHZhOHNhOFRVSk5ZQldjWjlxVC0tUDRCT0I4VUVhbGhTRmVFZjJhRm9tWktNdUktcC1kbXA2V3lhWS1TOC1LZU5fZV9Nd04zUXFrQWFzN3BvS1NvNXBOYVlFb0RrS2hNanBXYVJmZGxNM21RaFZfTVJvT1ZRY2thOUNWakVIUmxYMFNkZExRTlZ2R19meU4wMF9VWWo4S2VYNnJZRko3TnY1VTlPQ2lGaDJnSGc?oc=5",
@@ -181,19 +189,11 @@
           "views": "13.0K"
         },
         {
-          "title": "Marine Corps commandant leaves for Philippines for talks on military, defense industry cooperation - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxPM0ZKb0NlRWhQWnRCM05VWFlRLVFrZm5WUG5qVW1iYjhtOUhUZG9CZnhQVDg4ZU9Tdk9pX1A2TkFQRDh4dDNLb0VmOWU1YmtNZ0ttQXVndUNnUnkxV0pLenQ2bWM2a0o0RUl5RTFjR1BlNTVrNEhPWE4zdG1sSzVaYnFvTldkUnY3TW93emNGc3FJcjZfWGZsMTRmbVFlamp6ZDZLSXB0eUxGMjNwOUp5Z04wNWpnRFJaMkZPVTk0N2dkWXlYZG1qMVdOTEVTRC1SYUVrdmt5ZUh5TVB2eWNZTENyQVBQdWRQRnfSAe8BQVVfeXFMTjhFcFVfWTNpRUp4WDM4R0RoeDlpY1FPOWtXWXZld3lmQUQ2aEZweUtxRlF3aFlXdFlXTW1MWWtvNUlIMzM2VzE4dklrd2hFckpMZmtrRXNwaW9hXzFEWmRBZFRwSTZJZkhVRVA3c0JYUW5JcU5fcHBEOHZkLVFMQ3dJbUpYd3VLa0FVYThoRTRaSXVqVzJGbm0zX1pvenF6OFBEcmMxeFZoM09lZkhCOFFFc1hPblVLMHpNWmJUUGZNWU55REE0SzBRQldPNG5QcURINXQ5X1QtRFFJM1JGX1lmZjVCelk2OTRVUEJTR2s?oc=5\" target=\"_blank\">Marine Corps commandant leaves for Philippines for talks on military, defense industry cooperation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPM0ZKb0NlRWhQWnRCM05VWFlRLVFrZm5WUG5qVW1iYjhtOUhUZG9CZnhQVDg4ZU9Tdk9pX1A2TkFQRDh4dDNLb0VmOWU1YmtNZ0ttQXVndUNnUnkxV0pLenQ2bWM2a0o0RUl5RTFjR1BlNTVrNEhPWE4zdG1sSzVaYnFvTldkUnY3TW93emNGc3FJcjZfWGZsMTRmbVFlamp6ZDZLSXB0eUxGMjNwOUp5Z04wNWpnRFJaMkZPVTk0N2dkWXlYZG1qMVdOTEVTRC1SYUVrdmt5ZUh5TVB2eWNZTENyQVBQdWRQRnfSAe8BQVVfeXFMTjhFcFVfWTNpRUp4WDM4R0RoeDlpY1FPOWtXWXZld3lmQUQ2aEZweUtxRlF3aFlXdFlXTW1MWWtvNUlIMzM2VzE4dklrd2hFckpMZmtrRXNwaW9hXzFEWmRBZFRwSTZJZkhVRVA3c0JYUW5JcU5fcHBEOHZkLVFMQ3dJbUpYd3VLa0FVYThoRTRaSXVqVzJGbm0zX1pvenF6OFBEcmMxeFZoM09lZkhCOFFFc1hPblVLMHpNWmJUUGZNWU55REE0SzBRQldPNG5QcURINXQ5X1QtRFFJM1JGX1lmZjVCelk2OTRVUEJTR2s?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-09-27",
-          "views": "13.0K"
-        },
-        {
-          "title": "The paradox of deterrence: Why peace strategy requires focused military - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQWlNKZU1QTlgxSkUybnZZVFJMYmkyb2RXd05nbjhSQmpDaGRRcktMeVFYV3dZS3FZXzNtRU1JbnhrN2hGazdnZjFEc24teU9IZ3MtNENkTTdJeDFuM2xDM1lzZ1pqOHNnUzJ5WXJZOXNnam1Eb3lTUGpmZ0FpMDZrOUh6cUNmdGNIck85SllUSXp2NElZWjR4bXc0c0xDVG50TFdZUTQwa2ttcUpfb3ZxTDc0cHdIRGfSAbwBQVVfeXFMUERFbG5xNUFjbUlsQ3dWeUlFWkVBQnR5dzZkdGRnOWh6SXpZa1VaajdrMFVCZU84cXUyN09oSjFsS2tIYmEtT2tKR0NRd2R0WmlMS0taekhac2NpcExxeFBDXzBxMERrazlHWHFhNVFIczFoWXczU1V6QnQzajZwdDNRZnlXNGdMOHhyRU92Slg1SE1RN24waHplZjNhci1rTWdVd3d1X3NzdXdmRkpnMThhemJqSUxIUk5zdVM?oc=5\" target=\"_blank\">The paradox of deterrence: Why peace strategy requires focused military</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWlNKZU1QTlgxSkUybnZZVFJMYmkyb2RXd05nbjhSQmpDaGRRcktMeVFYV3dZS3FZXzNtRU1JbnhrN2hGazdnZjFEc24teU9IZ3MtNENkTTdJeDFuM2xDM1lzZ1pqOHNnUzJ5WXJZOXNnam1Eb3lTUGpmZ0FpMDZrOUh6cUNmdGNIck85SllUSXp2NElZWjR4bXc0c0xDVG50TFdZUTQwa2ttcUpfb3ZxTDc0cHdIRGfSAbwBQVVfeXFMUERFbG5xNUFjbUlsQ3dWeUlFWkVBQnR5dzZkdGRnOWh6SXpZa1VaajdrMFVCZU84cXUyN09oSjFsS2tIYmEtT2tKR0NRd2R0WmlMS0taekhac2NpcExxeFBDXzBxMERrazlHWHFhNVFIczFoWXczU1V6QnQzajZwdDNRZnlXNGdMOHhyRU92Slg1SE1RN24waHplZjNhci1rTWdVd3d1X3NzdXdmRkpnMThhemJqSUxIUk5zdVM?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-09-27",
+          "title": "Anthropic's path from AI startup to industry-defining IPO - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNX052MC1jLUZIY3dvZFMzWmdrMnFTa1RFWjJkUlhtV0dlZkV2NS1ocnRFbkUyRHJtQVE4clRJdUZsVVk0MHF3Y2oyUVVRczhGcGl5dlVxdGlfSTFTOUNlSTZLR2U0VmdsckhFLVpwLUlyOXUweUF6c0xvci1rY1RpdjVJV0NPeDNxWjMxRmpsa1VHUElRaGdNOXBwaw?oc=5\" target=\"_blank\">Anthropic's path from AI startup to industry-defining IPO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX052MC1jLUZIY3dvZFMzWmdrMnFTa1RFWjJkUlhtV0dlZkV2NS1ocnRFbkUyRHJtQVE4clRJdUZsVVk0MHF3Y2oyUVVRczhGcGl5dlVxdGlfSTFTOUNlSTZLR2U0VmdsckhFLVpwLUlyOXUweUF6c0xvci1rY1RpdjVJV0NPeDNxWjMxRmpsa1VHUElRaGdNOXBwaw?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-09-28",
           "views": "13.0K"
         }
       ]
