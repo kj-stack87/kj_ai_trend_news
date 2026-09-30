@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-29T05:39:58.179Z",
+  "lastUpdated": "2026-09-30T05:28:17.360Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,14 +49,6 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
-          "title": "Palo Alto Networks unveils AI-powered cybersecurity service using Claude, GPT models - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVW5mc2xwMFhGeW1Dd3Y1bUY4dE9NVzFOa2FQSTI1a193YUk0aExLeFU2cm4xOXZVc0RqYjljNWVxMHpfWVRabVJMVkg5OE1aMWdXYUJKSG5RN2tYeUlycXh0VTcwck83TEdlcV9kOTRTdERZRXo5X3FUWkQ2WnlHb1hUZ3FDTzhwb3h0bWRlTWFOUmxBN2luR0QwQjRjeHhMWjRFRUN2M0V4U3FIaUZmRzk2QlN2SjRxSmZmUEhSQmo?oc=5\" target=\"_blank\">Palo Alto Networks unveils AI-powered cybersecurity service using Claude, GPT models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVW5mc2xwMFhGeW1Dd3Y1bUY4dE9NVzFOa2FQSTI1a193YUk0aExLeFU2cm4xOXZVc0RqYjljNWVxMHpfWVRabVJMVkg5OE1aMWdXYUJKSG5RN2tYeUlycXh0VTcwck83TEdlcV9kOTRTdERZRXo5X3FUWkQ2WnlHb1hUZ3FDTzhwb3h0bWRlTWFOUmxBN2luR0QwQjRjeHhMWjRFRUN2M0V4U3FIaUZmRzk2QlN2SjRxSmZmUEhSQmo?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-09-22",
-          "views": "23.0K"
-        },
-        {
           "title": "Anthropic rolls out second Claude 5.5 model as it builds toward IPO - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNUm1rcklHNVRzQnFIS2t3RnNGNDBwU25RUzJIcnFNN0FIbDNOU3VTNEhVVGprOEhNOVZISGVlWHo1NkFZX3doLUNkOU16cmlMdWotdnljUUowc19DcXJXbzFjRTI1QVFKNGtJSWNBMGdUSExIVlB3NmpVZWQ2TnBFNFpjckY1NEhOOS1BMWw1MktacnlrbFpBMDd5X2tZb0xpbVRxRlREYlRGWWE4elFr?oc=5\" target=\"_blank\">Anthropic rolls out second Claude 5.5 model as it builds toward IPO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUm1rcklHNVRzQnFIS2t3RnNGNDBwU25RUzJIcnFNN0FIbDNOU3VTNEhVVGprOEhNOVZISGVlWHo1NkFZX3doLUNkOU16cmlMdWotdnljUUowc19DcXJXbzFjRTI1QVFKNGtJSWNBMGdUSExIVlB3NmpVZWQ2TnBFNFpjckY1NEhOOS1BMWw1MktacnlrbFpBMDd5X2tZb0xpbVRxRlREYlRGWWE4elFr?oc=5",
@@ -71,6 +63,14 @@
           "source": "Reuters AI",
           "publishedAt": "2026-09-27",
           "views": "18.0K"
+        },
+        {
+          "title": "Google launches Gemini 3.8 Flash TTS voice models - AI News",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQRGg5UmJGSXh4WkktcWhJLWFRcUJBcjdTYldEeTh3akJycjFuZXpmWk9FUDJtUVA5WU9ieWoxVkUtbHZTcThNZ29XbkoweVMxWWQ1NS1wN1lQTk82UGg2ZVZ1dEsxWGZteF9lcVBvSTJOb2hZQ3pUZlBELTZpbFpqOEJEZ0FXb3RoV2piQVJseVJyY1h0?oc=5\" target=\"_blank\">Google launches Gemini 3.8 Flash TTS voice models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI News</font>",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRGg5UmJGSXh4WkktcWhJLWFRcUJBcjdTYldEeTh3akJycjFuZXpmWk9FUDJtUVA5WU9ieWoxVkUtbHZTcThNZ29XbkoweVMxWWQ1NS1wN1lQTk82UGg2ZVZ1dEsxWGZteF9lcVBvSTJOb2hZQ3pUZlBELTZpbFpqOEJEZ0FXb3RoV2piQVJseVJyY1h0?oc=5",
+          "source": "AI News",
+          "publishedAt": "2026-09-24",
+          "views": "18.0K"
         }
       ]
     },
@@ -80,8 +80,16 @@
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
         {
-          "title": "Microsoft revamps its Copilot AI with a persistent Autopilot agent and hosting for AI-generated apps - venturebeat.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbXltN1FUMFM3NTk1Zlp4TXFjRGt6SzBEdjI1Uk5EVE1NRnpHRTFMZGNqaFY3ZXRKajZnVUtWNG5ablJjS1NleUdzMm9oX2o2NEFRUjFPZk9hdWFpd1Zxa003VHdoNXB6ZC1fYmpUcXcxNTVOYVdSQVdyNlNHRUlLbDN4UDBDdlA5RF9kMFVGbHpvOW1FV2hIcmNvUjFCazlMY2c0amtONndWWEhsRTdIaE1Ya05EaF9QV3ZnS3ZWZERVSll5SUZZT2ZZd081UFl2?oc=5\" target=\"_blank\">Microsoft revamps its Copilot AI with a persistent Autopilot agent and hosting for AI-generated apps</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">venturebeat.com</font>",
+          "title": "OpenClaw launches free enterprise control plane for persistent AI agents, backed by OpenAI, Red Hat and Nvidia - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbHZwUUNYR0FaRHlRTFdOZWIyRXRRRklrZXNTWlpHX2tsdlhZUFBuY193RUlkZHhnU0N2bkdJLXJBMmMyeWNsWk90VlFjeG5qcnFNQ3dabzRMMmo2WUp3bVhnZS1mQWJQazdSVUJZR3FoR3JqalBtczhTc21EOGZHdGlnWUlRbjJSMFZCSVlaSFlROGhra1prZmloT21ETlpRcHZoT2c1aUViNVJqRzRLSjREY1hrcWJRWVVvc1lxUnpKbTVid2xZb2t0V2pxQkF5bXVDQUN6YkpYOFdSMlhJ?oc=5\" target=\"_blank\">OpenClaw launches free enterprise control plane for persistent AI agents, backed by OpenAI, Red Hat and Nvidia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbHZwUUNYR0FaRHlRTFdOZWIyRXRRRklrZXNTWlpHX2tsdlhZUFBuY193RUlkZHhnU0N2bkdJLXJBMmMyeWNsWk90VlFjeG5qcnFNQ3dabzRMMmo2WUp3bVhnZS1mQWJQazdSVUJZR3FoR3JqalBtczhTc21EOGZHdGlnWUlRbjJSMFZCSVlaSFlROGhra1prZmloT21ETlpRcHZoT2c1aUViNVJqRzRLSjREY1hrcWJRWVVvc1lxUnpKbTVid2xZb2t0V2pxQkF5bXVDQUN6YkpYOFdSMlhJ?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-09-30",
+          "views": "18.0K"
+        },
+        {
+          "title": "Microsoft revamps its Copilot AI with a persistent Autopilot agent and hosting for AI-generated apps - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbXltN1FUMFM3NTk1Zlp4TXFjRGt6SzBEdjI1Uk5EVE1NRnpHRTFMZGNqaFY3ZXRKajZnVUtWNG5ablJjS1NleUdzMm9oX2o2NEFRUjFPZk9hdWFpd1Zxa003VHdoNXB6ZC1fYmpUcXcxNTVOYVdSQVdyNlNHRUlLbDN4UDBDdlA5RF9kMFVGbHpvOW1FV2hIcmNvUjFCazlMY2c0amtONndWWEhsRTdIaE1Ya05EaF9QV3ZnS3ZWZERVSll5SUZZT2ZZd081UFl2?oc=5\" target=\"_blank\">Microsoft revamps its Copilot AI with a persistent Autopilot agent and hosting for AI-generated apps</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbXltN1FUMFM3NTk1Zlp4TXFjRGt6SzBEdjI1Uk5EVE1NRnpHRTFMZGNqaFY3ZXRKajZnVUtWNG5ablJjS1NleUdzMm9oX2o2NEFRUjFPZk9hdWFpd1Zxa003VHdoNXB6ZC1fYmpUcXcxNTVOYVdSQVdyNlNHRUlLbDN4UDBDdlA5RF9kMFVGbHpvOW1FV2hIcmNvUjFCazlMY2c0amtONndWWEhsRTdIaE1Ya05EaF9QV3ZnS3ZWZERVSll5SUZZT2ZZd081UFl2?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-09-25",
@@ -94,14 +102,6 @@
           "source": "Reuters AI",
           "publishedAt": "2026-09-25",
           "views": "18.0K"
-        },
-        {
-          "title": "Xapien Partners With ServiceNow to Bring AI-Native Due Diligence Into Enterprise Workflows - venturebeat.com",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ2V1Q2llX3Z2UmdpZ05tTlFxNkxuT2RKazFjVmFhMnJBT1hSRzlPLWFHN3pJYkU2eE1SVE5VUjNnZk5XQWNhS3ptV1hGVng4YTVabEZ6Q0htY3BnMHhsTWgwenU1LWZSNGtEY0YxYkhyYVRmbkpJZjdPa2dUTXcyUi1Ra1BiNHBWc1pUYmZFZkNoVjVuSjhhUGlsNTVxNjZvcEI0ejgwUzdBVmdSbkhhMXNKVnozeGpfcXhNc21XcHM?oc=5\" target=\"_blank\">Xapien Partners With ServiceNow to Bring AI-Native Due Diligence Into Enterprise Workflows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">venturebeat.com</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ2V1Q2llX3Z2UmdpZ05tTlFxNkxuT2RKazFjVmFhMnJBT1hSRzlPLWFHN3pJYkU2eE1SVE5VUjNnZk5XQWNhS3ptV1hGVng4YTVabEZ6Q0htY3BnMHhsTWgwenU1LWZSNGtEY0YxYkhyYVRmbkpJZjdPa2dUTXcyUi1Ra1BiNHBWc1pUYmZFZkNoVjVuSjhhUGlsNTVxNjZvcEI0ejgwUzdBVmdSbkhhMXNKVnozeGpfcXhNc21XcHM?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-09-22",
-          "views": "18.0K"
         }
       ]
     },
@@ -111,6 +111,14 @@
       "description": "규제, 책임, 신뢰, 저작권 같은 문제를 보는 관점",
       "items": [
         {
+          "title": "EXCLUSIVE: AI researchers warn companies rushing self-improving systems despite safety risks - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWXBiMU9va2F1QUVhR0RCUk1DQm10d2g3MFJiblhXa2JuTHBEZG04TjMtUVpqeldtbW9LcVZ4SVdhMzBlcllVNEtsTVE3OGJZMVpYWTZtYUtfLXBkOFlEWHpZNDFFQTBnc3J1QXl3Q3k1ZWNvU1JNZ0hSUXo1aGJVY2J1YUItZ1MzVXNqYzNrM20xTWtsYWJQSmxxbC1WNkRIdVFmVGtTZmZFNGtIMURxa0w0dVV5ZC1m?oc=5\" target=\"_blank\">EXCLUSIVE: AI researchers warn companies rushing self-improving systems despite safety risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWXBiMU9va2F1QUVhR0RCUk1DQm10d2g3MFJiblhXa2JuTHBEZG04TjMtUVpqeldtbW9LcVZ4SVdhMzBlcllVNEtsTVE3OGJZMVpYWTZtYUtfLXBkOFlEWHpZNDFFQTBnc3J1QXl3Q3k1ZWNvU1JNZ0hSUXo1aGJVY2J1YUItZ1MzVXNqYzNrM20xTWtsYWJQSmxxbC1WNkRIdVFmVGtTZmZFNGtIMURxa0w0dVV5ZC1m?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-09-29",
+          "views": "18.0K"
+        },
+        {
           "title": "Airbus identifies A321neo quality defect but says no safety risk - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMWMwMzZMUlpnSTFCMkVLSEpwYmVCS2Fhc0ZZN2NqblhkWXdpc1lfbWxfcUlVZThHdzZmMWp3Z2MtTWlWQW5zV1dhR1FRUE52UENDT3FuYlAxQjhwWW9jeHQ3OEpuMDlCX1VDMlRmLVotOFNpQkFHMXptcVgxUkRSRndvTWpwSE5acTlncUE1T1FDYkRPeHlpbVYzTmZtcmp0QkhZWU9Wdkw5VkduRlRiTzlVQXBTT01OWGxDbEswaGZ1UnBLclBpTXVERnpQNE51UjZsRTFjSmI?oc=5\" target=\"_blank\">Airbus identifies A321neo quality defect but says no safety risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMWMwMzZMUlpnSTFCMkVLSEpwYmVCS2Fhc0ZZN2NqblhkWXdpc1lfbWxfcUlVZThHdzZmMWp3Z2MtTWlWQW5zV1dhR1FRUE52UENDT3FuYlAxQjhwWW9jeHQ3OEpuMDlCX1VDMlRmLVotOFNpQkFHMXptcVgxUkRSRndvTWpwSE5acTlncUE1T1FDYkRPeHlpbVYzTmZtcmp0QkhZWU9Wdkw5VkduRlRiTzlVQXBTT01OWGxDbEswaGZ1UnBLclBpTXVERnpQNE51UjZsRTFjSmI?oc=5",
@@ -119,19 +127,11 @@
           "views": "18.0K"
         },
         {
-          "title": "Contradicting Trump, Pope Leo says artificial intelligence safety concerns not 'fake news' - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNm5ZVU9PTE53VFJ5V3VHMzBRWHpoa1Z2RWRwbVYyaUlIUHVtbGp2Wk5OV3NlMm0ybnd0RThDY2RJa1EtNXZ1Ul9IVzNYOEoxSG5mWXU3OEdiN01QdG1IclZrUE8tMjh4cUpKTWdyVHJ3Nl9fVXVFQlJOLW9wdFM1OEtoMGxYZ1o2bURTVlF0SVU2SldIVjhRR1htTGlxYVB4bjE4TXZrTVYzbkJBWE9lWGNlWUNHeUl5dEo4SDRlbTI1WlBNYnJYcXpRYUhUZ3hy0gHQAUFVX3lxTE02bllVT09MTndUUnlXdUczMFFYemhrVnZFZHBtVjJpSUhQdW1sanZaTk5Xc2UybTJud3RFOENjZElrUS01dnVSX0hXM1g4SjFIbmZZdTc4R2I3TVB0bUhyVmtQTy0yOHhxSkpNZ3JUcnc2X19VdUVCUk4tb3B0UzU4S2gwbFhnWjZtRFNWUXRJVTZKV0hWOFFHWG1MaXFhUHhuMThNdmtNVjNuQkFYT2VYY2VZQ0d5SXl0SjhINGVtMjVaUE1iclhxelFhSFRneHI?oc=5\" target=\"_blank\">Contradicting Trump, Pope Leo says artificial intelligence safety concerns not 'fake news'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNm5ZVU9PTE53VFJ5V3VHMzBRWHpoa1Z2RWRwbVYyaUlIUHVtbGp2Wk5OV3NlMm0ybnd0RThDY2RJa1EtNXZ1Ul9IVzNYOEoxSG5mWXU3OEdiN01QdG1IclZrUE8tMjh4cUpKTWdyVHJ3Nl9fVXVFQlJOLW9wdFM1OEtoMGxYZ1o2bURTVlF0SVU2SldIVjhRR1htTGlxYVB4bjE4TXZrTVYzbkJBWE9lWGNlWUNHeUl5dEo4SDRlbTI1WlBNYnJYcXpRYUhUZ3hy0gHQAUFVX3lxTE02bllVT09MTndUUnlXdUczMFFYemhrVnZFZHBtVjJpSUhQdW1sanZaTk5Xc2UybTJud3RFOENjZElrUS01dnVSX0hXM1g4SjFIbmZZdTc4R2I3TVB0bUhyVmtQTy0yOHhxSkpNZ3JUcnc2X19VdUVCUk4tb3B0UzU4S2gwbFhnWjZtRFNWUXRJVTZKV0hWOFFHWG1MaXFhUHhuMThNdmtNVjNuQkFYT2VYY2VZQ0d5SXl0SjhINGVtMjVaUE1iclhxelFhSFRneHI?oc=5",
+          "title": "Topic: inflation law - koreatimes.co.kr",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wUFpZQk1LMkxtTkdEQWlpQnJ0ejJmX1lBMG9BT3dBc1UzTmtWRjNsZ3llWU5OOHdINFRGYTlhR1dsMUFFQVdOcWhFV29JeS1TVHRHMTIxQlVld19CQjV1NXh1bw?oc=5\" target=\"_blank\">Topic: inflation law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">koreatimes.co.kr</font>",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4wUFpZQk1LMkxtTkdEQWlpQnJ0ejJmX1lBMG9BT3dBc1UzTmtWRjNsZ3llWU5OOHdINFRGYTlhR1dsMUFFQVdOcWhFV29JeS1TVHRHMTIxQlVld19CQjV1NXh1bw?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-09-29",
-          "views": "13.0K"
-        },
-        {
-          "title": "Malaysia begins sending home Myanmar refugees despite safety concerns - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeGktWktpcHgta29UNDlId0N1Mk1hY2RicGs5a2ZhSGx4WUNHdHRUVTN6aGZrQnJEY3hwa3o0MU1CU3dNRjZ2ZTNUSUhNUlRjeUxqd281Wlo5VlJzRks3TE5oRWl2d0F0UHdkZTJwcFBPaHpHTmZCOE1zbGRlLUNYYXp6MXQtQXZiNHB2WDVUbG1ieHRFNGlmbGFHTldkX2Y5MWZ4X25fb21BVy1FTm1CMWstcl9QZHpLZ3VzM1lnb3U4dw?oc=5\" target=\"_blank\">Malaysia begins sending home Myanmar refugees despite safety concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeGktWktpcHgta29UNDlId0N1Mk1hY2RicGs5a2ZhSGx4WUNHdHRUVTN6aGZrQnJEY3hwa3o0MU1CU3dNRjZ2ZTNUSUhNUlRjeUxqd281Wlo5VlJzRks3TE5oRWl2d0F0UHdkZTJwcFBPaHpHTmZCOE1zbGRlLUNYYXp6MXQtQXZiNHB2WDVUbG1ieHRFNGlmbGFHTldkX2Y5MWZ4X25fb21BVy1FTm1CMWstcl9QZHpLZ3VzM1lnb3U4dw?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-09-29",
+          "publishedAt": "2026-09-30",
           "views": "13.0K"
         }
       ]
@@ -142,6 +142,14 @@
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
         {
+          "title": "AI startup EliseAI valued at $4 billion in latest funding round - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNSWFRUkROTGVjTWZvMUlUcWRxdWJ0Q3ZDcTFKMzdpLWRTRVJweTZwSkM0UGIzdHhab212OEhmQXRzSlhucTVsV3J5S2VFcEFhWVQyZ2U4NWZDcGY3NTNsa1c5THRCb3hMa3lIcmJlYXI0dWRaSGNGdkY2WmhKaGVLeC0zM09QTE1ZU2NRN0hKR3YxQVA0Y0lmdkVvMnQ3and1cHc?oc=5\" target=\"_blank\">AI startup EliseAI valued at $4 billion in latest funding round</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSWFRUkROTGVjTWZvMUlUcWRxdWJ0Q3ZDcTFKMzdpLWRTRVJweTZwSkM0UGIzdHhab212OEhmQXRzSlhucTVsV3J5S2VFcEFhWVQyZ2U4NWZDcGY3NTNsa1c5THRCb3hMa3lIcmJlYXI0dWRaSGNGdkY2WmhKaGVLeC0zM09QTE1ZU2NRN0hKR3YxQVA0Y0lmdkVvMnQ3and1cHc?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-09-29",
+          "views": "18.0K"
+        },
+        {
           "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort - TechCrunch",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxORF9FbmlNRU4wU244X1JyTGxPVVY1RXNoQW9ycVJsb1ZSc0k4Z3lHLWc2VWlxY3VnSmVrV2NQMWNXSDFJSXJXX2w4QXdlenIzT012ZEhqOUN2alNDY054a3hyYkdpOWh2X1JxSmNNcnQtT1laQ2JMTmVTVk1QdlRfQ3A2THQwLW5jN08zTmk0eGtMajU4bEtrOHpxdXpVQWo1TzBXZFZPMUladw?oc=5\" target=\"_blank\">Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORF9FbmlNRU4wU244X1JyTGxPVVY1RXNoQW9ycVJsb1ZSc0k4Z3lHLWc2VWlxY3VnSmVrV2NQMWNXSDFJSXJXX2w4QXdlenIzT012ZEhqOUN2alNDY054a3hyYkdpOWh2X1JxSmNNcnQtT1laQ2JMTmVTVk1QdlRfQ3A2THQwLW5jN08zTmk0eGtMajU4bEtrOHpxdXpVQWo1TzBXZFZPMUladw?oc=5",
@@ -150,20 +158,12 @@
           "views": "18.0K"
         },
         {
-          "title": "Airstrike near a market in Myanmar's Rakhine state kills 49 people - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPVXdXSVR4NEw4MWZUaHpTTWFJck5USXpwOTJQOEM4cW9Wb3JsZnpXbkc1N0dUc1pYc182U0ljcllPSEdvRnctQmRUcVlwRHJ4eXZhWFJoRHJEcDJWa0ZoREpDZzhkOU9zbmRIejRna2szaG9SOUtzSkVWQXNCa21Sb0RVaE1XZmJWY2tSUGd2NF9seUx5MDRwVG5fTFJUWlI1U2dGUkZmVWdqX082N2fSAbMBQVVfeXFMUG43MlZGbkJ4TkZLZ0lYUHNGRHk1XzdvSGZTR20xd0FJVjJIY3NjbXNJNGtCbWRaZGY2V1VqMGJRX1VMem45LXQzeWZFV3liNUwwY3FaZGN5cmx6S3BTdkVtMGNpVTc1SVJ4Y2Mya3RuR3BYOXc2dGxkc0VOR2FkOWFGdUdjbXdBc2N3dTBOTnZhSUxJQXgzQTl3RVBtNnktLWxrNTBqaXkxUWgtMjRONlFCa2c?oc=5\" target=\"_blank\">Airstrike near a market in Myanmar's Rakhine state kills 49 people</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVXdXSVR4NEw4MWZUaHpTTWFJck5USXpwOTJQOEM4cW9Wb3JsZnpXbkc1N0dUc1pYc182U0ljcllPSEdvRnctQmRUcVlwRHJ4eXZhWFJoRHJEcDJWa0ZoREpDZzhkOU9zbmRIejRna2szaG9SOUtzSkVWQXNCa21Sb0RVaE1XZmJWY2tSUGd2NF9seUx5MDRwVG5fTFJUWlI1U2dGUkZmVWdqX082N2fSAbMBQVVfeXFMUG43MlZGbkJ4TkZLZ0lYUHNGRHk1XzdvSGZTR20xd0FJVjJIY3NjbXNJNGtCbWRaZGY2V1VqMGJRX1VMem45LXQzeWZFV3liNUwwY3FaZGN5cmx6S3BTdkVtMGNpVTc1SVJ4Y2Mya3RuR3BYOXc2dGxkc0VOR2FkOWFGdUdjbXdBc2N3dTBOTnZhSUxJQXgzQTl3RVBtNnktLWxrNTBqaXkxUWgtMjRONlFCa2c?oc=5",
-          "source": "The Korea Times",
+          "title": "Reco raises $55M as AI agent security startups crowd the market - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPRW52SnVvUDJIMzZobWpaZGV1ajdjZUxNMTU0WWtaVkM1XzhEMG1LbGJjckIxaS0wOUtpNF9KWmdXZ0ROSmtGN0FxVWtlVDJSUFNtbWJORnpGM3BaOWJyZmxaUHU3MlZaTnYyTTVZazUyNTg2QzMybTF1WTF2dk50TjhKWVRRT3l6YnJzeGpXb1NPVHNWSzVLclJ6WTI2dw?oc=5\" target=\"_blank\">Reco raises $55M as AI agent security startups crowd the market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRW52SnVvUDJIMzZobWpaZGV1ajdjZUxNMTU0WWtaVkM1XzhEMG1LbGJjckIxaS0wOUtpNF9KWmdXZ0ROSmtGN0FxVWtlVDJSUFNtbWJORnpGM3BaOWJyZmxaUHU3MlZaTnYyTTVZazUyNTg2QzMybTF1WTF2dk50TjhKWVRRT3l6YnJzeGpXb1NPVHNWSzVLclJ6WTI2dw?oc=5",
+          "source": "TechCrunch AI",
           "publishedAt": "2026-09-29",
-          "views": "13.0K"
-        },
-        {
-          "title": "Korea's overseas direct investment up 32% in Q2 - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOWDFselJvY3llSjVvN0M2Ykd5ck9EZUhHdVRRajFTTW9ITXRTckFaOVVNRHN3Y1RjMDZXWDVDOUYtQW1pMnd1bVY5Q3RYSnJ2UGZmSnRiR2lxTk5MUkc4TzhUS29JN3QtUXNiZF95TVlRVU1xRXl4QXBONWdkQVpSMUZkc0s5OUVUcE5BT1JfOUViaXBxOUZfQmRNMzJ1NHMtcVA2bm5xR0pfbW50bE8xdl9R0gGyAUFVX3lxTE5YMWx6Um9jeWVKNW83QzZiR3lyT0RlSEd1VFFqMVNNb0hNdFNyQVo5VU1Ec3djVGMwNldYNUM5Ri1BbWkyd3VtVjlDdFhKcnZQZmZKdGJHaXFOTkxSRzhPOFRLb0k3dC1Rc2JkX3lNWVFVTXFFeXhBcE41Z2RBWlIxRmRzSzk5RVRwTkFPUl85RWJpcHE5Rl9CZE0zMnU0cy1xUDZubnFHSl9tbnRsTzF2X1E?oc=5\" target=\"_blank\">Korea's overseas direct investment up 32% in Q2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWDFselJvY3llSjVvN0M2Ykd5ck9EZUhHdVRRajFTTW9ITXRTckFaOVVNRHN3Y1RjMDZXWDVDOUYtQW1pMnd1bVY5Q3RYSnJ2UGZmSnRiR2lxTk5MUkc4TzhUS29JN3QtUXNiZF95TVlRVU1xRXl4QXBONWdkQVpSMUZkc0s5OUVUcE5BT1JfOUViaXBxOUZfQmRNMzJ1NHMtcVA2bm5xR0pfbW50bE8xdl9R0gGyAUFVX3lxTE5YMWx6Um9jeWVKNW83QzZiR3lyT0RlSEd1VFFqMVNNb0hNdFNyQVo5VU1Ec3djVGMwNldYNUM5Ri1BbWkyd3VtVjlDdFhKcnZQZmZKdGJHaXFOTkxSRzhPOFRLb0k3dC1Rc2JkX3lNWVFVTXFFeXhBcE41Z2RBWlIxRmRzSzk5RVRwTkFPUl85RWJpcHE5Rl9CZE0zMnU0cy1xUDZubnFHSl9tbnRsTzF2X1E?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-09-29",
-          "views": "13.0K"
+          "views": "18.0K"
         }
       ]
     },
@@ -173,27 +173,27 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
-          "title": "Samsung Group to invest $1 bil. in AI infrastructure company Helix - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeW5OR05EMF9kYWJ5NFg3dHFNWndrR3RYVkhrN0VVc05fYWpiMmJBbmRHOGt6Ty1MT1NNTDFRelp0Y2lGZUFkSzMtT0NGUEk2UWNka1BLZW9DWUhTa2FlM0R0ZS1YWkM1a1RTcUk3cV9GUnhEcmpDc0hxMXlGM1ZMUTdMMkl5dFFvWEcxS1Q2RU1aeXIzMVl4Qzd3djdJWENOZTRGZi1PNGQ5dlJobUFQXzNkTk1TLWVvOGFveWlHbC1ueTjSAcMBQVVfeXFMT3luTkdORDBfZGFieTRYN3RxTVp3a0d0WFZIazdFVXNOX2FqYjJiQW5kRzhrek8tTE9TTUwxUXpadGNpRmVBZEszLU9DRlBJNlFjZGtQS2VvQ1lIU2thZTNEdGUtWFpDNWtUU3FJN3FfRlJ4RHJqQ3NIcTF5RjNWTFE3TDJJeXRRb1hHMUtUNkVNWnlyMzFZeEM3d3Y3SVhDTmU0RmYtTzRkOXZSaG1BUF8zZE5NUy1lbzhhb3lpR2wtbnk4?oc=5\" target=\"_blank\">Samsung Group to invest $1 bil. in AI infrastructure company Helix</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "title": "Publishing industry lays down AI rules to counter 'click-to-publish' books - koreatimes.co.kr",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR0FMQ2lxQ09VYXVWdUltWF8tc21ablV3eE1aMXFEOFlwQUlFdU9CeGVEUUczUVN0XzhuZm1yOHVNTXpVM0JweXZWWGtMbDVwUGhoMURBVGsyZFpNb3NBd2h0ZzR2UGs1Vk1LYktyZ0FJN1kyQkRwNmtQUzF0eC16NmRKeFgyMXQwRGJ3TFhvMExWM245MTdDX19ZYlQ0aFIxbFhJWFdXckNPQ1dobG80SWtOQXZfQTFfY2stZVI4Wmh3d0HSAcMBQVVfeXFMT0dBTENpcUNPVWF1VnVJbVhfLXNtWm5Vd3hNWjFxRDhZcEFJRXVPQnhlRFFHM1FTdF84bmZtcjh1TU16VTNCcHl2VlhrTGw1cFBoaDFEQVRrMmRaTW9zQXdodGc0dlBrNVZNS2JLcmdBSTdZMkJEcDZrUFMxdHgtejZkSnhYMjF0MERid0xYbzBMVjNuOTE3Q19fWWJUNGhSMWxYSVhXV3JDT0NXaGxvNElrTkF2X0ExX2NrLWVSOFpod3dB?oc=5\" target=\"_blank\">Publishing industry lays down AI rules to counter 'click-to-publish' books</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">koreatimes.co.kr</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR0FMQ2lxQ09VYXVWdUltWF8tc21ablV3eE1aMXFEOFlwQUlFdU9CeGVEUUczUVN0XzhuZm1yOHVNTXpVM0JweXZWWGtMbDVwUGhoMURBVGsyZFpNb3NBd2h0ZzR2UGs1Vk1LYktyZ0FJN1kyQkRwNmtQUzF0eC16NmRKeFgyMXQwRGJ3TFhvMExWM245MTdDX19ZYlQ0aFIxbFhJWFdXckNPQ1dobG80SWtOQXZfQTFfY2stZVI4Wmh3d0HSAcMBQVVfeXFMT0dBTENpcUNPVWF1VnVJbVhfLXNtWm5Vd3hNWjFxRDhZcEFJRXVPQnhlRFFHM1FTdF84bmZtcjh1TU16VTNCcHl2VlhrTGw1cFBoaDFEQVRrMmRaTW9zQXdodGc0dlBrNVZNS2JLcmdBSTdZMkJEcDZrUFMxdHgtejZkSnhYMjF0MERid0xYbzBMVjNuOTE3Q19fWWJUNGhSMWxYSVhXV3JDT0NXaGxvNElrTkF2X0ExX2NrLWVSOFpod3dB?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-09-30",
+          "views": "13.0K"
+        },
+        {
+          "title": "Samsung Group to invest $1 bil. in AI infrastructure company Helix - koreatimes.co.kr",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeW5OR05EMF9kYWJ5NFg3dHFNWndrR3RYVkhrN0VVc05fYWpiMmJBbmRHOGt6Ty1MT1NNTDFRelp0Y2lGZUFkSzMtT0NGUEk2UWNka1BLZW9DWUhTa2FlM0R0ZS1YWkM1a1RTcUk3cV9GUnhEcmpDc0hxMXlGM1ZMUTdMMkl5dFFvWEcxS1Q2RU1aeXIzMVl4Qzd3djdJWENOZTRGZi1PNGQ5dlJobUFQXzNkTk1TLWVvOGFveWlHbC1ueTjSAcMBQVVfeXFMT3luTkdORDBfZGFieTRYN3RxTVp3a0d0WFZIazdFVXNOX2FqYjJiQW5kRzhrek8tTE9TTUwxUXpadGNpRmVBZEszLU9DRlBJNlFjZGtQS2VvQ1lIU2thZTNEdGUtWFpDNWtUU3FJN3FfRlJ4RHJqQ3NIcTF5RjNWTFE3TDJJeXRRb1hHMUtUNkVNWnlyMzFZeEM3d3Y3SVhDTmU0RmYtTzRkOXZSaG1BUF8zZE5NUy1lbzhhb3lpR2wtbnk4?oc=5\" target=\"_blank\">Samsung Group to invest $1 bil. in AI infrastructure company Helix</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">koreatimes.co.kr</font>",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeW5OR05EMF9kYWJ5NFg3dHFNWndrR3RYVkhrN0VVc05fYWpiMmJBbmRHOGt6Ty1MT1NNTDFRelp0Y2lGZUFkSzMtT0NGUEk2UWNka1BLZW9DWUhTa2FlM0R0ZS1YWkM1a1RTcUk3cV9GUnhEcmpDc0hxMXlGM1ZMUTdMMkl5dFFvWEcxS1Q2RU1aeXIzMVl4Qzd3djdJWENOZTRGZi1PNGQ5dlJobUFQXzNkTk1TLWVvOGFveWlHbC1ueTjSAcMBQVVfeXFMT3luTkdORDBfZGFieTRYN3RxTVp3a0d0WFZIazdFVXNOX2FqYjJiQW5kRzhrek8tTE9TTUwxUXpadGNpRmVBZEszLU9DRlBJNlFjZGtQS2VvQ1lIU2thZTNEdGUtWFpDNWtUU3FJN3FfRlJ4RHJqQ3NIcTF5RjNWTFE3TDJJeXRRb1hHMUtUNkVNWnlyMzFZeEM3d3Y3SVhDTmU0RmYtTzRkOXZSaG1BUF8zZE5NUy1lbzhhb3lpR2wtbnk4?oc=5",
           "source": "The Korea Times",
           "publishedAt": "2026-09-29",
           "views": "13.0K"
         },
         {
-          "title": "Samsung Biologics highlights faster drug manufacturing timelines at BPI Boston - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaUkzcC1FV3oxZHRNb3lsZFZhS3JzYnNHb3BzdjNQS0NaSjlEUGhqVFJQNFRvdWRIWUM4ZjM3XzZjSFRka3BYdTlueXpqLWJYX3JHellpMTd6aENaanNyUUdab084Q2VXdXpqOENQSkV6bHhKalRKSTYxM05pSHNMcHctSHFXSGRrdzNNZDNtRkFhbUlkcHFrQ3Eyb1B4b09wR05aNWJxN3FCdTJKV0NxVi0ybFNkTTRkazZkMmpUQmlEdkFfUlYtd2ZYd3FuNDdi0gHWAUFVX3lxTE1raWM1T0R5aFlSaVlVc0t2VGM5VkI4UnFmYUpIS2lORUxyeHZhOHNhOFRVSk5ZQldjWjlxVC0tUDRCT0I4VUVhbGhTRmVFZjJhRm9tWktNdUktcC1kbXA2V3lhWS1TOC1LZU5fZV9Nd04zUXFrQWFzN3BvS1NvNXBOYVlFb0RrS2hNanBXYVJmZGxNM21RaFZfTVJvT1ZRY2thOUNWakVIUmxYMFNkZExRTlZ2R19meU4wMF9VWWo4S2VYNnJZRko3TnY1VTlPQ2lGaDJnSGc?oc=5\" target=\"_blank\">Samsung Biologics highlights faster drug manufacturing timelines at BPI Boston</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaUkzcC1FV3oxZHRNb3lsZFZhS3JzYnNHb3BzdjNQS0NaSjlEUGhqVFJQNFRvdWRIWUM4ZjM3XzZjSFRka3BYdTlueXpqLWJYX3JHellpMTd6aENaanNyUUdab084Q2VXdXpqOENQSkV6bHhKalRKSTYxM05pSHNMcHctSHFXSGRrdzNNZDNtRkFhbUlkcHFrQ3Eyb1B4b09wR05aNWJxN3FCdTJKV0NxVi0ybFNkTTRkazZkMmpUQmlEdkFfUlYtd2ZYd3FuNDdi0gHWAUFVX3lxTE1raWM1T0R5aFlSaVlVc0t2VGM5VkI4UnFmYUpIS2lORUxyeHZhOHNhOFRVSk5ZQldjWjlxVC0tUDRCT0I4VUVhbGhTRmVFZjJhRm9tWktNdUktcC1kbXA2V3lhWS1TOC1LZU5fZV9Nd04zUXFrQWFzN3BvS1NvNXBOYVlFb0RrS2hNanBXYVJmZGxNM21RaFZfTVJvT1ZRY2thOUNWakVIUmxYMFNkZExRTlZ2R19meU4wMF9VWWo4S2VYNnJZRko3TnY1VTlPQ2lGaDJnSGc?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-09-28",
-          "views": "13.0K"
-        },
-        {
-          "title": "Anthropic's path from AI startup to industry-defining IPO - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNX052MC1jLUZIY3dvZFMzWmdrMnFTa1RFWjJkUlhtV0dlZkV2NS1ocnRFbkUyRHJtQVE4clRJdUZsVVk0MHF3Y2oyUVVRczhGcGl5dlVxdGlfSTFTOUNlSTZLR2U0VmdsckhFLVpwLUlyOXUweUF6c0xvci1rY1RpdjVJV0NPeDNxWjMxRmpsa1VHUElRaGdNOXBwaw?oc=5\" target=\"_blank\">Anthropic's path from AI startup to industry-defining IPO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX052MC1jLUZIY3dvZFMzWmdrMnFTa1RFWjJkUlhtV0dlZkV2NS1ocnRFbkUyRHJtQVE4clRJdUZsVVk0MHF3Y2oyUVVRczhGcGl5dlVxdGlfSTFTOUNlSTZLR2U0VmdsckhFLVpwLUlyOXUweUF6c0xvci1rY1RpdjVJV0NPeDNxWjMxRmpsa1VHUElRaGdNOXBwaw?oc=5",
+          "title": "Robinhood to allow 24-hour weekend trading of US stocks as industry shifts to wider access - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQOEdVVjZrQUYxODVCRnlNM21CNEQyOVVnUHRiTG83dDZ1MEwwbHFXRlJqR293dTc3WFdMRTBlR3oyTjZKaGMyaHdGM3ZfSTRCcm1jS1ZTSWdQdnJpZ0VwNDRlNEFpcFgzOEZiVDVrUzV2dWdIU1VsQ0E4UW4xdnZwdEhreXNMT3NYVEZGOXc5cXZEWTd6TTdJemRpdUdsX0JqdFVSQ0tRVDVuTHpDdUo4UXlTSkVDaVpIcEpzY3h4ODdnRmFXLUk2aWdTbw?oc=5\" target=\"_blank\">Robinhood to allow 24-hour weekend trading of US stocks as industry shifts to wider access</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOEdVVjZrQUYxODVCRnlNM21CNEQyOVVnUHRiTG83dDZ1MEwwbHFXRlJqR293dTc3WFdMRTBlR3oyTjZKaGMyaHdGM3ZfSTRCcm1jS1ZTSWdQdnJpZ0VwNDRlNEFpcFgzOEZiVDVrUzV2dWdIU1VsQ0E4UW4xdnZwdEhreXNMT3NYVEZGOXc5cXZEWTd6TTdJemRpdUdsX0JqdFVSQ0tRVDVuTHpDdUo4UXlTSkVDaVpIcEpzY3h4ODdnRmFXLUk2aWdTbw?oc=5",
           "source": "Reuters AI",
-          "publishedAt": "2026-09-28",
+          "publishedAt": "2026-09-29",
           "views": "13.0K"
         }
       ]
