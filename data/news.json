@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05T05:33:35.186Z",
+  "lastUpdated": "2026-10-06T06:15:53.207Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,6 +49,14 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
+          "title": "Lola Vision Systems is trying to make it easier to run AI models on chips - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQRmRWbnJmNngwMGNOY0JEN2lJTFpGTjBkQ0N6TmU0NVYyMFJIZ2szczBNaXhLak1YRkpDNDNqOFd5a0ppR1RKQmRyUExTT244WjY0OUJtQmxObDU1S0NERk1Td0Q3MXl1ZnJ1WEw5Njc0M1lSVTBtWFBXQ3FWa1djQXd5NnpHUjVCV1dkWUdYOTRwX1Q3alFqVkpqQ184Nm9pS184RzBVRGpJSUQ3?oc=5\" target=\"_blank\">Lola Vision Systems is trying to make it easier to run AI models on chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRmRWbnJmNngwMGNOY0JEN2lJTFpGTjBkQ0N6TmU0NVYyMFJIZ2szczBNaXhLak1YRkpDNDNqOFd5a0ppR1RKQmRyUExTT244WjY0OUJtQmxObDU1S0NERk1Td0Q3MXl1ZnJ1WEw5Njc0M1lSVTBtWFBXQ3FWa1djQXd5NnpHUjVCV1dkWUdYOTRwX1Q3alFqVkpqQ184Nm9pS184RzBVRGpJSUQ3?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-10-05",
+          "views": "18.0K"
+        },
+        {
           "title": "Google announces Gemini 4 flagship AI model after months of delays - The Korea Times",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPaWdBdkZsRjBvUHRRWkhPR0dqWDZSUjlUNlVwSHV3RVhhWUt0enVSb0s2cjk4M3BiYi02T2g0b05qaEFoVlJDSkdYbXhrQlFxeVNKZ3huOEdvMFNDYS05RVRpN016UFdpLTR4RFZxQ092cm9sT1JIdWJSM1hLUlRhdWNwcEl2U2dUWTZleEF2MzV4aHVWUWtlZW1vTmJnT01lM2xWcTl5SDJOVS1sZU5B0gG0AUFVX3lxTE9pbm1uQ0JTQjkyRWc0RFJFT2dtbHZBOWVwMlhRNC1rSHk2STQxdUVDMlptZXliQTZZeDFFZWY0ZW1XR1ZKSWZfUUNjWUpQb3Z3R01YbU5fMzVMczlHMFkydTN3Ri11SFV2cUs3OWhmU21iTmxnZXQ3WDlvUzRpLTZsYjg4SHY4STBkb3dyQjZITWpJU2xyNlIyaUR1UFNVNXdFSnp2SkJTNXZnWnlkMjBwS3VIcw?oc=5\" target=\"_blank\">Google announces Gemini 4 flagship AI model after months of delays</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaWdBdkZsRjBvUHRRWkhPR0dqWDZSUjlUNlVwSHV3RVhhWUt0enVSb0s2cjk4M3BiYi02T2g0b05qaEFoVlJDSkdYbXhrQlFxeVNKZ3huOEdvMFNDYS05RVRpN016UFdpLTR4RFZxQ092cm9sT1JIdWJSM1hLUlRhdWNwcEl2U2dUWTZleEF2MzV4aHVWUWtlZW1vTmJnT01lM2xWcTl5SDJOVS1sZU5B0gG0AUFVX3lxTE9pbm1uQ0JTQjkyRWc0RFJFT2dtbHZBOWVwMlhRNC1rSHk2STQxdUVDMlptZXliQTZZeDFFZWY0ZW1XR1ZKSWZfUUNjWUpQb3Z3R01YbU5fMzVMczlHMFkydTN3Ri11SFV2cUs3OWhmU21iTmxnZXQ3WDlvUzRpLTZsYjg4SHY4STBkb3dyQjZITWpJU2xyNlIyaUR1UFNVNXdFSnp2SkJTNXZnWnlkMjBwS3VIcw?oc=5",
@@ -63,14 +71,6 @@
           "source": "The Korea Times",
           "publishedAt": "2026-09-30",
           "views": "18.0K"
-        },
-        {
-          "title": "Google unveils Gemini 4 Argon, retaking benchmark lead over OpenAI and Anthropic — but in limited release - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbV9aRXc0YUkwWEFxRXAtLUpoTDJ6WGRpUWpzRGwtWG82TUU1RGJ6Si1lUzlxYUE5a1UxNEZmUG5kT09kcnd6TUhoeTJWUnZ1UkF2eGZIcHg2d2FvZ19GVXhvbUQ3WlREX05yNmdsdlI4RWg3ZGlNTzhzVmhmbV9NMWJvSk4wMlFZNjNxaFRSVlFQSWhocU1GQjU4TDJVVmdNdjVBdzhnUFc1RWc1YVN4NU41NUZhMnJQeFFtX0NtQU9BekxuVkxKVHNTTkwyald6a0Rv?oc=5\" target=\"_blank\">Google unveils Gemini 4 Argon, retaking benchmark lead over OpenAI and Anthropic — but in limited release</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbV9aRXc0YUkwWEFxRXAtLUpoTDJ6WGRpUWpzRGwtWG82TUU1RGJ6Si1lUzlxYUE5a1UxNEZmUG5kT09kcnd6TUhoeTJWUnZ1UkF2eGZIcHg2d2FvZ19GVXhvbUQ3WlREX05yNmdsdlI4RWg3ZGlNTzhzVmhmbV9NMWJvSk4wMlFZNjNxaFRSVlFQSWhocU1GQjU4TDJVVmdNdjVBdzhnUFc1RWc1YVN4NU41NUZhMnJQeFFtX0NtQU9BekxuVkxKVHNTTkwyald6a0Rv?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-09-30",
-          "views": "18.0K"
         }
       ]
     },
@@ -80,6 +80,14 @@
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
         {
+          "title": "Connecting AI agents to enterprise knowledge - MIT Technology Review",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxON0ZxZVNnZjZpNGgtVnd5WjUzdVBnaWwtZ29nVnJDaDJiOGtPVXdwVHBSMVd4RmdRMF9McGV1cGNIajgyVzRSUklRU08tdktmN2N1aFcxTVBpMnpVbzluUDdmb3lyV1Z6ZTFreDBqNzg4UDhYZEs5djNWS1RieG1TbVRPc3VSdEpMSWRtekFQek14TmxlN0laVTBNLXpoQdIBowFBVV95cUxOSG9lYUYxTGg4Y2RDcE0tUHFDcmxhckt3YW9SbHZIdkRpeXVWb2tLWTFXU1lPNnV1SGNoOHdDaXJFdE9BaExjYkliLTRYU2JRcjBUOVhjY1Fza3JSSUNOS0dPQ0cxdVdkYWRRT3ZfUzM5ZGlrYlhTZF93bEpZZm9oS3MwMlZpXzRHWTRxeDhzTExuTlZzaks0dHFYUVRqX2lYX1FF?oc=5\" target=\"_blank\">Connecting AI agents to enterprise knowledge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MIT Technology Review</font>",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON0ZxZVNnZjZpNGgtVnd5WjUzdVBnaWwtZ29nVnJDaDJiOGtPVXdwVHBSMVd4RmdRMF9McGV1cGNIajgyVzRSUklRU08tdktmN2N1aFcxTVBpMnpVbzluUDdmb3lyV1Z6ZTFreDBqNzg4UDhYZEs5djNWS1RieG1TbVRPc3VSdEpMSWRtekFQek14TmxlN0laVTBNLXpoQdIBowFBVV95cUxOSG9lYUYxTGg4Y2RDcE0tUHFDcmxhckt3YW9SbHZIdkRpeXVWb2tLWTFXU1lPNnV1SGNoOHdDaXJFdE9BaExjYkliLTRYU2JRcjBUOVhjY1Fza3JSSUNOS0dPQ0cxdVdkYWRRT3ZfUzM5ZGlrYlhTZF93bEpZZm9oS3MwMlZpXzRHWTRxeDhzTExuTlZzaks0dHFYUVRqX2lYX1FF?oc=5",
+          "source": "MIT Technology Review (AI)",
+          "publishedAt": "2026-10-05",
+          "views": "18.0K"
+        },
+        {
           "title": "OpenClaw launches free enterprise control plane for persistent AI agents, backed by OpenAI, Red Hat and Nvidia - VentureBeat",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbHZwUUNYR0FaRHlRTFdOZWIyRXRRRklrZXNTWlpHX2tsdlhZUFBuY193RUlkZHhnU0N2bkdJLXJBMmMyeWNsWk90VlFjeG5qcnFNQ3dabzRMMmo2WUp3bVhnZS1mQWJQazdSVUJZR3FoR3JqalBtczhTc21EOGZHdGlnWUlRbjJSMFZCSVlaSFlROGhra1prZmloT21ETlpRcHZoT2c1aUViNVJqRzRLSjREY1hrcWJRWVVvc1lxUnpKbTVid2xZb2t0V2pxQkF5bXVDQUN6YkpYOFdSMlhJ?oc=5\" target=\"_blank\">OpenClaw launches free enterprise control plane for persistent AI agents, backed by OpenAI, Red Hat and Nvidia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbHZwUUNYR0FaRHlRTFdOZWIyRXRRRklrZXNTWlpHX2tsdlhZUFBuY193RUlkZHhnU0N2bkdJLXJBMmMyeWNsWk90VlFjeG5qcnFNQ3dabzRMMmo2WUp3bVhnZS1mQWJQazdSVUJZR3FoR3JqalBtczhTc21EOGZHdGlnWUlRbjJSMFZCSVlaSFlROGhra1prZmloT21ETlpRcHZoT2c1aUViNVJqRzRLSjREY1hrcWJRWVVvc1lxUnpKbTVid2xZb2t0V2pxQkF5bXVDQUN6YkpYOFdSMlhJ?oc=5",
@@ -88,19 +96,11 @@
           "views": "18.0K"
         },
         {
-          "title": "We built an AI agent for ServiceNow. The real pain points were narrower than our roadmap assumed - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNMEVOQVV3UE8tWE1zWlYtNHFPeGUwWGFaakJnZi1UOXN6bm1KLVRNclM1ak5fU0Zlcno5a0hBQTc1VGxTUGNteWhiWWtreXRnQ21odzIydVE1ZXdEVFk3Y3g0cEtnVVg3RDJfcjZrNlE5RzMxZXdqMkVCSjFIdlFES1MwVTFOa2FVdHBtNUpHYURwSmhtUWlhVVNtTFVSTmVrZzh6SWlDb3poRTBLcm5DLUR6cTVBM1Z0cDlqVWFEOFBpRzFnaFlXbC1mMEJCdw?oc=5\" target=\"_blank\">We built an AI agent for ServiceNow. The real pain points were narrower than our roadmap assumed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMEVOQVV3UE8tWE1zWlYtNHFPeGUwWGFaakJnZi1UOXN6bm1KLVRNclM1ak5fU0Zlcno5a0hBQTc1VGxTUGNteWhiWWtreXRnQ21odzIydVE1ZXdEVFk3Y3g0cEtnVVg3RDJfcjZrNlE5RzMxZXdqMkVCSjFIdlFES1MwVTFOa2FVdHBtNUpHYURwSmhtUWlhVVNtTFVSTmVrZzh6SWlDb3poRTBLcm5DLUR6cTVBM1Z0cDlqVWFEOFBpRzFnaFlXbC1mMEJCdw?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-10-04",
-          "views": "13.0K"
-        },
-        {
-          "title": "Senior Correspondent, Enterprise AI - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9QN3g0a01iMXlqVk5MVlpmZGtIWDJ4ekNnbTEwWmU0dWVoV1dRTHYwcWNnSl9uQTlYRDNpX2VhTk5uQVE3bi1mRk5TV0wyYzdkNkwyWUN2WjhlemQ5NG5GcklDWGduTFN0TlE?oc=5\" target=\"_blank\">Senior Correspondent, Enterprise AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QN3g0a01iMXlqVk5MVlpmZGtIWDJ4ekNnbTEwWmU0dWVoV1dRTHYwcWNnSl9uQTlYRDNpX2VhTk5uQVE3bi1mRk5TV0wyYzdkNkwyWUN2WjhlemQ5NG5GcklDWGduTFN0TlE?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-10-03",
+          "title": "Anthropic tells Australia it's open to laws requiring reporting of AI agent hacks - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPakluaktNLUFlZk8zejE5LUV6VWYtdkphTjB0UVpiYjJ2WVYwd2lXUC0xMTdPcFJXYUNMajk5MlMtcmNlSUxiUGY3T0plNzYxMG02X09jbkNlcDBldEdueENYdXhHVnd6TkVmVExyZGtzN0hqdUF5X2VsaEVMX3hWT21ob3VvWWE5UlNqbnZLb24yTXJlYWJiZGl1cjRWNnNad1ljTlF4WTVJREEza2Y0SmlmX0E0QzJfeVZjU1hFOXdYeDU2bEE?oc=5\" target=\"_blank\">Anthropic tells Australia it's open to laws requiring reporting of AI agent hacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPakluaktNLUFlZk8zejE5LUV6VWYtdkphTjB0UVpiYjJ2WVYwd2lXUC0xMTdPcFJXYUNMajk5MlMtcmNlSUxiUGY3T0plNzYxMG02X09jbkNlcDBldEdueENYdXhHVnd6TkVmVExyZGtzN0hqdUF5X2VsaEVMX3hWT21ob3VvWWE5UlNqbnZLb24yTXJlYWJiZGl1cjRWNnNad1ljTlF4WTVJREEza2Y0SmlmX0E0QzJfeVZjU1hFOXdYeDU2bEE?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-10-06",
           "views": "13.0K"
         }
       ]
@@ -111,28 +111,28 @@
       "description": "규제, 책임, 신뢰, 저작권 같은 문제를 보는 관점",
       "items": [
         {
-          "title": "Unification ministry reaffirms peaceful coexistence policy despite DMZ mine blast - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOVdjNE5MWjh2VUhYNHY5bnNlM2lJZDlDNjNvSUo0RzNlbjEyLVE5NXB1YUFmcjRxeDQxaFdHdjB2dDVGdmJBMm8xdmw2NkRWajJfNU9idFpPbVo5M0RkTmlraXpjaGRWbFBCTV9rWFVFUF9pNERndDN0Ulh6UGVLVTJlaWdSeXhjT2l4QnQ3TDR0eXo5ZEtrbFJremk4U3RSOE80bWZjcm1XaEl4eGFSb0ZkUDJ1WGRoa3Z3ZnZ5UjlYUlhYS09rTG5SQkpsNk5PNXltbU9GZ9IB3AFBVV95cUxNa0NxSExpSTVLQ2hCa2gtdVAxZ25YaUpWVGdNa2kyclRESWgyRUhTa1JzT1pRUTA2WkNSaHV3SzZjbURLS0ptRlVpMjgxMXVGRG45X1V5cmJPZzUyTFNPVzdWOUg2TGJ1MTh6ZUE5dnRpYmNXODNoSk92c2VPc21QQm1Rb3BQbmF6bGlQSk15LXpuYnhSZWVkek55ek9GRUpZLXlFYTNKdkdnTllGdmczLTRLdlphR1Y1X2VPVjVuY0I0Vm5wQ2Jqa3BjY3liN1pTWEp2aFdHM3NsT29G?oc=5\" target=\"_blank\">Unification ministry reaffirms peaceful coexistence policy despite DMZ mine blast</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOVdjNE5MWjh2VUhYNHY5bnNlM2lJZDlDNjNvSUo0RzNlbjEyLVE5NXB1YUFmcjRxeDQxaFdHdjB2dDVGdmJBMm8xdmw2NkRWajJfNU9idFpPbVo5M0RkTmlraXpjaGRWbFBCTV9rWFVFUF9pNERndDN0Ulh6UGVLVTJlaWdSeXhjT2l4QnQ3TDR0eXo5ZEtrbFJremk4U3RSOE80bWZjcm1XaEl4eGFSb0ZkUDJ1WGRoa3Z3ZnZ5UjlYUlhYS09rTG5SQkpsNk5PNXltbU9GZ9IB3AFBVV95cUxNa0NxSExpSTVLQ2hCa2gtdVAxZ25YaUpWVGdNa2kyclRESWgyRUhTa1JzT1pRUTA2WkNSaHV3SzZjbURLS0ptRlVpMjgxMXVGRG45X1V5cmJPZzUyTFNPVzdWOUg2TGJ1MTh6ZUE5dnRpYmNXODNoSk92c2VPc21QQm1Rb3BQbmF6bGlQSk15LXpuYnhSZWVkek55ek9GRUpZLXlFYTNKdkdnTllGdmczLTRLdlphR1Y1X2VPVjVuY0I0Vm5wQ2Jqa3BjY3liN1pTWEp2aFdHM3NsT29G?oc=5",
+          "title": "AI promises self regulation - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFA4TDZpYU5nWDRTX0VUYTQ3VUxUek9sU0xxMXNUYWcwUnMyRVFZRU1HcDJPcTg2clVaYnpSWHFTUEVaaW9oMDc3RW94b0Y3dnJOR3duRktlYzFVY3NaakUtcVNPZnA2eVd1Y3dmdlZTQ0VDRWvSAYMBQVVfeXFMT2h0MWRlaWZqX2dqWE8tdU9hazNZX3k5R29acTNZNkMxWHhCTE1VLUtPVzBZN2JiVDNLZlJEM3FyUndyUEIyTE85LVBYelpaS0tHZndhWmhXY0llRWEwT1BOa0dwcHNSamlkb0NQU1VPZkhBVjBQcnh3czNud2VlQ1N2eHc?oc=5\" target=\"_blank\">AI promises self regulation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4TDZpYU5nWDRTX0VUYTQ3VUxUek9sU0xxMXNUYWcwUnMyRVFZRU1HcDJPcTg2clVaYnpSWHFTUEVaaW9oMDc3RW94b0Y3dnJOR3duRktlYzFVY3NaakUtcVNPZnA2eVd1Y3dmdlZTQ0VDRWvSAYMBQVVfeXFMT2h0MWRlaWZqX2dqWE8tdU9hazNZX3k5R29acTNZNkMxWHhCTE1VLUtPVzBZN2JiVDNLZlJEM3FyUndyUEIyTE85LVBYelpaS0tHZndhWmhXY0llRWEwT1BOa0dwcHNSamlkb0NQU1VPZkhBVjBQcnh3czNud2VlQ1N2eHc?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-10-01",
+          "publishedAt": "2026-10-06",
           "views": "18.0K"
         },
         {
-          "title": "EXCLUSIVE: AI researchers warn companies rushing self-improving systems despite safety risks - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWXBiMU9va2F1QUVhR0RCUk1DQm10d2g3MFJiblhXa2JuTHBEZG04TjMtUVpqeldtbW9LcVZ4SVdhMzBlcllVNEtsTVE3OGJZMVpYWTZtYUtfLXBkOFlEWHpZNDFFQTBnc3J1QXl3Q3k1ZWNvU1JNZ0hSUXo1aGJVY2J1YUItZ1MzVXNqYzNrM20xTWtsYWJQSmxxbC1WNkRIdVFmVGtTZmZFNGtIMURxa0w0dVV5ZC1m?oc=5\" target=\"_blank\">EXCLUSIVE: AI researchers warn companies rushing self-improving systems despite safety risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWXBiMU9va2F1QUVhR0RCUk1DQm10d2g3MFJiblhXa2JuTHBEZG04TjMtUVpqeldtbW9LcVZ4SVdhMzBlcllVNEtsTVE3OGJZMVpYWTZtYUtfLXBkOFlEWHpZNDFFQTBnc3J1QXl3Q3k1ZWNvU1JNZ0hSUXo1aGJVY2J1YUItZ1MzVXNqYzNrM20xTWtsYWJQSmxxbC1WNkRIdVFmVGtTZmZFNGtIMURxa0w0dVV5ZC1m?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-09-29",
+          "title": "AI promises self regulation - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQV05KNy03cUNOejRIOEtkb3VXNkJKWXNVMWNhcXpreGlESWs1blNfajdRMXd6VUdzM1RqQjZOdUxPUE1iOVdJMUhDODFmRWR2bE9LcE4tbHpJOHc5Vzc2Z1NHbGZlTUVTUzJLTnRxSXFWS3ZSZzJkUUFsaHFrRjBLY2xUQ1JxcDVVMFRiYnVQOXlxem1WNnAwMTl1T2tGdnR6X2fSAYMBQVVfeXFMT2h0MWRlaWZqX2dqWE8tdU9hazNZX3k5R29acTNZNkMxWHhCTE1VLUtPVzBZN2JiVDNLZlJEM3FyUndyUEIyTE85LVBYelpaS0tHZndhWmhXY0llRWEwT1BOa0dwcHNSamlkb0NQU1VPZkhBVjBQcnh3czNud2VlQ1N2eHc?oc=5\" target=\"_blank\">AI promises self regulation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV05KNy03cUNOejRIOEtkb3VXNkJKWXNVMWNhcXpreGlESWs1blNfajdRMXd6VUdzM1RqQjZOdUxPUE1iOVdJMUhDODFmRWR2bE9LcE4tbHpJOHc5Vzc2Z1NHbGZlTUVTUzJLTnRxSXFWS3ZSZzJkUUFsaHFrRjBLY2xUQ1JxcDVVMFRiYnVQOXlxem1WNnAwMTl1T2tGdnR6X2fSAYMBQVVfeXFMT2h0MWRlaWZqX2dqWE8tdU9hazNZX3k5R29acTNZNkMxWHhCTE1VLUtPVzBZN2JiVDNLZlJEM3FyUndyUEIyTE85LVBYelpaS0tHZndhWmhXY0llRWEwT1BOa0dwcHNSamlkb0NQU1VPZkhBVjBQcnh3czNud2VlQ1N2eHc?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-10-06",
           "views": "18.0K"
         },
         {
-          "title": "Reflationist ex-BOJ policymaker calls end to low rates, big spending - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZXRpNVN3bkRlV2tXR0pieXJrZlpwNGpBVXMtVWRNbkNQSUh6aWp5dGRDX1lHY2owQXg3N19PdndZYVRFbldGbk5kUkdNbFRiV1BHM21KcUxndXRzNDFSU2twaHAzdTBzdmRDVVhIN05RNElLWmZuamtTUGpHM1diTFlVaTAxeGo3d05CQ1NWUWZDRGREeUdlZXNJRnY0YlRDMEt5S1NGaE9ZMXlFMUkzbDdUY0pkR0FrSzFr?oc=5\" target=\"_blank\">Reflationist ex-BOJ policymaker calls end to low rates, big spending</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZXRpNVN3bkRlV2tXR0pieXJrZlpwNGpBVXMtVWRNbkNQSUh6aWp5dGRDX1lHY2owQXg3N19PdndZYVRFbldGbk5kUkdNbFRiV1BHM21KcUxndXRzNDFSU2twaHAzdTBzdmRDVVhIN05RNElLWmZuamtTUGpHM1diTFlVaTAxeGo3d05CQ1NWUWZDRGREeUdlZXNJRnY0YlRDMEt5S1NGaE9ZMXlFMUkzbDdUY0pkR0FrSzFr?oc=5",
+          "title": "Disney, James Cameron fend off copyright lawsuit over 'Avatar' - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQT1pvWGwwZnBIa09zdzk4cWN6TW1DN3ozb1NBUWlVQ3dGZ3A4VlIycUxCQ2JwaklVeVJSWjZ6dTdQeHlnSEpPc2hTZzZ3U3Y0cGxTYnVxeTY0S3VlM2JzczJ0UWVKOG9xanVFTXpyMGZyWUVNcEFSZkxOektRdmc1WlNZLVItdDVON3YxRVk0Qk1EVDVDSmdyUzlkQnA3VTdvdHU1dEJNdC02QTk3b0hPM09UemdmUQ?oc=5\" target=\"_blank\">Disney, James Cameron fend off copyright lawsuit over 'Avatar'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT1pvWGwwZnBIa09zdzk4cWN6TW1DN3ozb1NBUWlVQ3dGZ3A4VlIycUxCQ2JwaklVeVJSWjZ6dTdQeHlnSEpPc2hTZzZ3U3Y0cGxTYnVxeTY0S3VlM2JzczJ0UWVKOG9xanVFTXpyMGZyWUVNcEFSZkxOektRdmc1WlNZLVItdDVON3YxRVk0Qk1EVDVDSmdyUzlkQnA3VTdvdHU1dEJNdC02QTk3b0hPM09UemdmUQ?oc=5",
           "source": "Reuters AI",
           "publishedAt": "2026-10-05",
-          "views": "13.0K"
+          "views": "18.0K"
         }
       ]
     },
@@ -143,8 +143,8 @@
       "items": [
         {
           "title": "US stocks rise near record after latest jobs report calms rattled bond market - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdzdYSnZLeEhsQmtpUzktcmFRTW9XX00yYlpIeUtVV1ptd2hadWJiN2dMdkh4enBheGRMSUV5RFdVQ0tRSWF1RS0wSDNRZXV0RjJIeDVFTmZBaHFZMGk0N21YZnFqN0FEdjZ2ZG1XWUlWZlI1d3dtbVVNcTkwYjlxYnFfWlgxNXhTSlhHejV3clkzbWZXZHJzX1gzZzZudnNxUTlQemxqem5Qc1p3bmllVnlNUE94OXJXYXNDckl6YXhNdDTSAcMBQVVfeXFMTXc3WEp2S3hIbEJraVM5LXJhUU1vV19NMmJaSHlLVVdabXdoWnViYjdnTHZIeHpwYXhkTElFeURXVUNLUUlhdUUtMEgzUWV1dEYySHg1RU5mQWhxWTBpNDdtWGZxajdBRHY2dmRtV1lJVmZSNXd3bW1VTXE5MGI5cWJxX1pYMTV4U0pYR3o1d3JZM21mV2Ryc19YM2c2bnZzcVE5UHpsanpuUHNad25pZVZ5TVBPeDlyV2FzQ3JJemF4TXQ0?oc=5\" target=\"_blank\">US stocks rise near record after latest jobs report calms rattled bond market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdzdYSnZLeEhsQmtpUzktcmFRTW9XX00yYlpIeUtVV1ptd2hadWJiN2dMdkh4enBheGRMSUV5RFdVQ0tRSWF1RS0wSDNRZXV0RjJIeDVFTmZBaHFZMGk0N21YZnFqN0FEdjZ2ZG1XWUlWZlI1d3dtbVVNcTkwYjlxYnFfWlgxNXhTSlhHejV3clkzbWZXZHJzX1gzZzZudnNxUTlQemxqem5Qc1p3bmllVnlNUE94OXJXYXNDckl6YXhNdDTSAcMBQVVfeXFMTXc3WEp2S3hIbEJraVM5LXJhUU1vV19NMmJaSHlLVVdabXdoWnViYjdnTHZIeHpwYXhkTElFeURXVUNLUUlhdUUtMEgzUWV1dEYySHg1RU5mQWhxWTBpNDdtWGZxajdBRHY2dmRtV1lJVmZSNXd3bW1VTXE5MGI5cWJxX1pYMTV4U0pYR3o1d3JZM21mV2Ryc19YM2c2bnZzcVE5UHpsanpuUHNad25pZVZ5TVBPeDlyV2FzQ3JJemF4TXQ0?oc=5",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQSHptd2lXRzhocWxZUGk3OHBtV3p5b2E2aTBvUmRzaGxCcUxHS2FldWNSSURhbm5ULVBIZkhJZThVTWktOFhQRXFQVVlpck44T0dYZDYzSDJ3Y0tyb21YQXoyZ2I4UWtvaWVjUFhoYXhPcDNIWXh3enZHMFRQMHRiUFB0UWhMMnA0WTk4YXU4MjdzMVFlNzQ2RUN3N1RSLW1BM2NaSGNCWXkzMzhDYkJ4Ry1jUVlvNjhHcFNVeGpR0gHDAUFVX3lxTE13N1hKdkt4SGxCa2lTOS1yYVFNb1dfTTJiWkh5S1VXWm13aFp1YmI3Z0x2SHh6cGF4ZExJRXlEV1VDS1FJYXVFLTBIM1FldXRGMkh4NUVOZkFocVkwaTQ3bVhmcWo3QUR2NnZkbVdZSVZmUjV3d21tVU1xOTBiOXFicV9aWDE1eFNKWEd6NXdyWTNtZldkcnNfWDNnNm52c3FROVB6bGp6blBzWnduaWVWeU1QT3g5cldhc0NySXpheE10NA?oc=5\" target=\"_blank\">US stocks rise near record after latest jobs report calms rattled bond market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSHptd2lXRzhocWxZUGk3OHBtV3p5b2E2aTBvUmRzaGxCcUxHS2FldWNSSURhbm5ULVBIZkhJZThVTWktOFhQRXFQVVlpck44T0dYZDYzSDJ3Y0tyb21YQXoyZ2I4UWtvaWVjUFhoYXhPcDNIWXh3enZHMFRQMHRiUFB0UWhMMnA0WTk4YXU4MjdzMVFlNzQ2RUN3N1RSLW1BM2NaSGNCWXkzMzhDYkJ4Ry1jUVlvNjhHcFNVeGpR0gHDAUFVX3lxTE13N1hKdkt4SGxCa2lTOS1yYVFNb1dfTTJiWkh5S1VXWm13aFp1YmI3Z0x2SHh6cGF4ZExJRXlEV1VDS1FJYXVFLTBIM1FldXRGMkh4NUVOZkFocVkwaTQ3bVhmcWo3QUR2NnZkbVdZSVZmUjV3d21tVU1xOTBiOXFicV9aWDE1eFNKWEd6NXdyWTNtZldkcnNfWDNnNm52c3FROVB6bGp6blBzWnduaWVWeU1QT3g5cldhc0NySXpheE10NA?oc=5",
           "source": "The Korea Times",
           "publishedAt": "2026-10-02",
           "views": "18.0K"
@@ -173,27 +173,27 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
-          "title": "US carrier George H.W. Bush visits Thailand after six-month Middle East deployment - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbWhHeDg5NW5BTHJadnJyWm1xOHJYZlhzTjRCZWRBd1pyY1lHYU81OVFxbUJaM0syV2pUYThaWUNrVV9XTmFuck5QQW41cHFuSGNfbWhCb2dkZ25iMTFpTUxpZG5IM1RVWGhiUWIzb1NZaXZCc1prQVhRanROZFphWjJnaUUybTdGNktkTUdkMGxER3IyQUNYY0ZZWVZoeGo2OUltZDdpWFhIcjVmb0JJbFhxSzgyOHFCcmNRX2JnanBJY1U?oc=5\" target=\"_blank\">US carrier George H.W. Bush visits Thailand after six-month Middle East deployment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbWhHeDg5NW5BTHJadnJyWm1xOHJYZlhzTjRCZWRBd1pyY1lHYU81OVFxbUJaM0syV2pUYThaWUNrVV9XTmFuck5QQW41cHFuSGNfbWhCb2dkZ25iMTFpTUxpZG5IM1RVWGhiUWIzb1NZaXZCc1prQVhRanROZFphWjJnaUUybTdGNktkTUdkMGxER3IyQUNYY0ZZWVZoeGo2OUltZDdpWFhIcjVmb0JJbFhxSzgyOHFCcmNRX2JnanBJY1U?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-10-04",
-          "views": "13.0K"
-        },
-        {
-          "title": "South Korean president orders probe into data leaks across financial industry - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNU1lNVUVZZ2h4VG9hWTZ3d2lLYk4wX281Nk5LbGpWT0xRWGZKX0I5UWU2bzdNa0xKam9sRjRTREh1QmY2aVRpRlluYzhJQWVjbnZoY3dCcG13dnBtaXU0Z2ZwcGc0dmJiOThqd29QTjMtYmRaa2ZmOHNpVjBPNnV5a0ttMFVLcmk4eWZKTmEtNFBUS1dsNmhrYTJMWk9lMnh2ZFZXYS03NzhIRjQ4Qk5JdG1lTG56TXhjOWlJekZGcVI2MFpjWXd6WlIwYWU?oc=5\" target=\"_blank\">South Korean president orders probe into data leaks across financial industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU1lNVUVZZ2h4VG9hWTZ3d2lLYk4wX281Nk5LbGpWT0xRWGZKX0I5UWU2bzdNa0xKam9sRjRTREh1QmY2aVRpRlluYzhJQWVjbnZoY3dCcG13dnBtaXU0Z2ZwcGc0dmJiOThqd29QTjMtYmRaa2ZmOHNpVjBPNnV5a0ttMFVLcmk4eWZKTmEtNFBUS1dsNmhrYTJMWk9lMnh2ZFZXYS03NzhIRjQ4Qk5JdG1lTG56TXhjOWlJekZGcVI2MFpjWXd6WlIwYWU?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-10-04",
-          "views": "13.0K"
-        },
-        {
-          "title": "Topic: petrochemical company - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTFBGYk1xY2tUYmNEVUFhcjB0bDNjd2E2U2ZCemJJcUgxVEY5bndjcE14ZC1UblJTSnNpd1drWGNkMnlNalI1S0NtQmZPSzZWUXB2eHdMcDdVdlBBYWNHQlBRTTlKb19MUVhCeTU4b2J3?oc=5\" target=\"_blank\">Topic: petrochemical company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGYk1xY2tUYmNEVUFhcjB0bDNjd2E2U2ZCemJJcUgxVEY5bndjcE14ZC1UblJTSnNpd1drWGNkMnlNalI1S0NtQmZPSzZWUXB2eHdMcDdVdlBBYWNHQlBRTTlKb19MUVhCeTU4b2J3?oc=5",
+          "title": "MiCo chairman wins top US ceramic industry award - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSWFTR2h0SlI4YjVwM1BLeklRQjJFX3Frak5WN1lCX1dNbUNNeTBIb2VsU2ExanZyZFJnYnEyTUFhSUU5aVNtZ2lqX3RKMGFXcW9OSFFKT2lLUkxiQ0FxZmxtUG1LZFk1b0FISHNNbGRiMEpKcVAwUHFvalQ5aTlmb0Y4ZDEzZE0xYUc1SUE5OWZBZVFDZ2lpdG16UHF4bFdzbm1YckItWjTSAa4BQVVfeXFMT0g5WFRiRDVDYk90U1BPelFzLTJoSEZNVkRVbTlCbWNPdWowNDhoYWJoeWp2bFhVQ0FzXzdkWlJEYlVEUXZvc0p6QmVpWUpDQzliejJBbDB3OEUzZTRzRjFvd3lOemFYdTNuQXFNek9iV1hHaG5PaTNKdmFIcVFocHFmTVVCcm5yQjRMWk5td2NhV01CY1dEWWRCR2dhSE9WR25oMDZNeHI0NlpXNE93?oc=5\" target=\"_blank\">MiCo chairman wins top US ceramic industry award</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSWFTR2h0SlI4YjVwM1BLeklRQjJFX3Frak5WN1lCX1dNbUNNeTBIb2VsU2ExanZyZFJnYnEyTUFhSUU5aVNtZ2lqX3RKMGFXcW9OSFFKT2lLUkxiQ0FxZmxtUG1LZFk1b0FISHNNbGRiMEpKcVAwUHFvalQ5aTlmb0Y4ZDEzZE0xYUc1SUE5OWZBZVFDZ2lpdG16UHF4bFdzbm1YckItWjTSAa4BQVVfeXFMT0g5WFRiRDVDYk90U1BPelFzLTJoSEZNVkRVbTlCbWNPdWowNDhoYWJoeWp2bFhVQ0FzXzdkWlJEYlVEUXZvc0p6QmVpWUpDQzliejJBbDB3OEUzZTRzRjFvd3lOemFYdTNuQXFNek9iV1hHaG5PaTNKdmFIcVFocHFmTVVCcm5yQjRMWk5td2NhV01CY1dEWWRCR2dhSE9WR25oMDZNeHI0NlpXNE93?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-10-03",
+          "publishedAt": "2026-10-06",
+          "views": "13.0K"
+        },
+        {
+          "title": "Germany's AfD weighs shift from anti-EU roots, strategy paper shows - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQjdNdF90SDNFZ1RseHZqWTh4QW1oeGd2Nnk3ZXI3bnl5UjhRQkpBeHI3Vi1HY0Jramo5MjVQWHFoTExveVpuWEdvbGdWbjJwVnFFNXI3dHp2ZkZKdXptV3lvSHZXS1hHcFYyeW16VGNyYVRmNWFxWWlyU09KQTZtZkZlYlBYbjNObi1LdEFqNC1EYXAxZ2lUYnRTUjVpWGVhdkpFOWhhb29tRUNjaXlSVHNMVlVlbEQ5OUNj?oc=5\" target=\"_blank\">Germany's AfD weighs shift from anti-EU roots, strategy paper shows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQjdNdF90SDNFZ1RseHZqWTh4QW1oeGd2Nnk3ZXI3bnl5UjhRQkpBeHI3Vi1HY0Jramo5MjVQWHFoTExveVpuWEdvbGdWbjJwVnFFNXI3dHp2ZkZKdXptV3lvSHZXS1hHcFYyeW16VGNyYVRmNWFxWWlyU09KQTZtZkZlYlBYbjNObi1LdEFqNC1EYXAxZ2lUYnRTUjVpWGVhdkpFOWhhb29tRUNjaXlSVHNMVlVlbEQ5OUNj?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-10-05",
+          "views": "13.0K"
+        },
+        {
+          "title": "EXCLUSIVE: Cost pressures and deadlock force Honda to rework India strategy, sources say - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbW9nbGp5Y1JLcnlPR0JPTXBaNlNfaWxJWDhUU0llVEZiSkZydDNiQlVSanJDRWRJNlJRY20xZEhxWnJBNnl5clJPSHVaMmVNLUZnY2RtMTR4Z1EyN0NiU3lXT3BUcG9SaXJGSEx2YkN5Ml9SYUhHc1U1X1BJVFNtR1BfNnBZUkl4MGlscFJOUm5VVjRwOE53cElUVHlmQzl5R2RsY09yUzViVVVBa3UzTWQ3RDJqdG5YeEJwTVBTeHp5Zw?oc=5\" target=\"_blank\">EXCLUSIVE: Cost pressures and deadlock force Honda to rework India strategy, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbW9nbGp5Y1JLcnlPR0JPTXBaNlNfaWxJWDhUU0llVEZiSkZydDNiQlVSanJDRWRJNlJRY20xZEhxWnJBNnl5clJPSHVaMmVNLUZnY2RtMTR4Z1EyN0NiU3lXT3BUcG9SaXJGSEx2YkN5Ml9SYUhHc1U1X1BJVFNtR1BfNnBZUkl4MGlscFJOUm5VVjRwOE53cElUVHlmQzl5R2RsY09yUzViVVVBa3UzTWQ3RDJqdG5YeEJwTVBTeHp5Zw?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-10-05",
           "views": "13.0K"
         }
       ]
