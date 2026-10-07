@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-06T06:15:53.207Z",
+  "lastUpdated": "2026-10-07T05:53:54.972Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,6 +49,14 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
+          "title": "Mistral debuts Large 4 ‘Le Chonk', a 1-trillion parameter text output model with high benchmarks planned for open weights release - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSzNNZTh3aGNlNVhVV1JKWkJ4UDRtbl9sTzk4SlZPWlBjLVBCNURGblVQNzVnQmFTMWk5OE52YVZ4SWxYSk5lVU94UVJWRkJ4YTVqOUd1MFFlWjhPWG9JWGN0Ml9sdG5DWXU2LUpPbHB6TEpVeUFueGx2UEk3cTNyNUwwamJfR01uZDAwNzk5bFlGd19jWWJTbl9yanU0YVRIb2RqNXFqazJ3WjJSUEhvOEZPSkNGUzdaYWNpQUVieWRWbS1BZGpibk1WbmtIcjlPRzl5ZUc3VEYwVjlvbzN6aFhGSHlmM2EtLW9GWUJSYUNNUnM?oc=5\" target=\"_blank\">Mistral debuts Large 4 ‘Le Chonk', a 1-trillion parameter text output model with high benchmarks planned for open weights release</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSzNNZTh3aGNlNVhVV1JKWkJ4UDRtbl9sTzk4SlZPWlBjLVBCNURGblVQNzVnQmFTMWk5OE52YVZ4SWxYSk5lVU94UVJWRkJ4YTVqOUd1MFFlWjhPWG9JWGN0Ml9sdG5DWXU2LUpPbHB6TEpVeUFueGx2UEk3cTNyNUwwamJfR01uZDAwNzk5bFlGd19jWWJTbl9yanU0YVRIb2RqNXFqazJ3WjJSUEhvOEZPSkNGUzdaYWNpQUVieWRWbS1BZGpibk1WbmtIcjlPRzl5ZUc3VEYwVjlvbzN6aFhGSHlmM2EtLW9GWUJSYUNNUnM?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-10-06",
+          "views": "18.0K"
+        },
+        {
           "title": "Lola Vision Systems is trying to make it easier to run AI models on chips - TechCrunch",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQRmRWbnJmNngwMGNOY0JEN2lJTFpGTjBkQ0N6TmU0NVYyMFJIZ2szczBNaXhLak1YRkpDNDNqOFd5a0ppR1RKQmRyUExTT244WjY0OUJtQmxObDU1S0NERk1Td0Q3MXl1ZnJ1WEw5Njc0M1lSVTBtWFBXQ3FWa1djQXd5NnpHUjVCV1dkWUdYOTRwX1Q3alFqVkpqQ184Nm9pS184RzBVRGpJSUQ3?oc=5\" target=\"_blank\">Lola Vision Systems is trying to make it easier to run AI models on chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRmRWbnJmNngwMGNOY0JEN2lJTFpGTjBkQ0N6TmU0NVYyMFJIZ2szczBNaXhLak1YRkpDNDNqOFd5a0ppR1RKQmRyUExTT244WjY0OUJtQmxObDU1S0NERk1Td0Q3MXl1ZnJ1WEw5Njc0M1lSVTBtWFBXQ3FWa1djQXd5NnpHUjVCV1dkWUdYOTRwX1Q3alFqVkpqQ184Nm9pS184RzBVRGpJSUQ3?oc=5",
@@ -62,14 +70,6 @@
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaWdBdkZsRjBvUHRRWkhPR0dqWDZSUjlUNlVwSHV3RVhhWUt0enVSb0s2cjk4M3BiYi02T2g0b05qaEFoVlJDSkdYbXhrQlFxeVNKZ3huOEdvMFNDYS05RVRpN016UFdpLTR4RFZxQ092cm9sT1JIdWJSM1hLUlRhdWNwcEl2U2dUWTZleEF2MzV4aHVWUWtlZW1vTmJnT01lM2xWcTl5SDJOVS1sZU5B0gG0AUFVX3lxTE9pbm1uQ0JTQjkyRWc0RFJFT2dtbHZBOWVwMlhRNC1rSHk2STQxdUVDMlptZXliQTZZeDFFZWY0ZW1XR1ZKSWZfUUNjWUpQb3Z3R01YbU5fMzVMczlHMFkydTN3Ri11SFV2cUs3OWhmU21iTmxnZXQ3WDlvUzRpLTZsYjg4SHY4STBkb3dyQjZITWpJU2xyNlIyaUR1UFNVNXdFSnp2SkJTNXZnWnlkMjBwS3VIcw?oc=5",
           "source": "The Korea Times",
           "publishedAt": "2026-10-01",
-          "views": "18.0K"
-        },
-        {
-          "title": "Why these Korean stars had breast implants — then chose to remove them - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV3hsSGh2NjZnalZZQTlidFJ1N04yOV9BSzVrbkR2SU5acUdkMkxMdUlhX1djcXBWbjhrcVhuQ1FGMkR0WWs5QVNMX2ljckdiQnlvWUpmV1lZeHJhN1FuT3VaRVB4VHNubDhuQ3Q0czBYbGR6NjlnbjRFQ2dfWWRmZ1A0dlBLalRlbloydzBsY1hkOFhXVmdRQmNYWExNcUdaZ2t5bHVVUXpJYTc5ekpLNWJBTFpwekptVjJYUVY1enHSAcYBQVVfeXFMTU5WZXk0Y0dRdVhlVkptMi1Eajl4VTAtM1BTekRDR1hQTXNIVUZDdmt5TmdVSGYwUlZkNUhRU19KdVY4OXdYTjZrUmhJbWs5TWE4elRDOTRIMkprNVM3UEJ5dFpMdzNOa29VeFRqUXFLMGEybXB4Qm5NSUlNZXU3MkpQWmhEVmQ2SjZiLWdGclk3S1BLZmF5VFo3NERwelN0bHdhVF9UUllMeTMtdE13Um10MUNSOEtYZGpTSzJuQTEzMi0tMFRn?oc=5\" target=\"_blank\">Why these Korean stars had breast implants — then chose to remove them</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV3hsSGh2NjZnalZZQTlidFJ1N04yOV9BSzVrbkR2SU5acUdkMkxMdUlhX1djcXBWbjhrcVhuQ1FGMkR0WWs5QVNMX2ljckdiQnlvWUpmV1lZeHJhN1FuT3VaRVB4VHNubDhuQ3Q0czBYbGR6NjlnbjRFQ2dfWWRmZ1A0dlBLalRlbloydzBsY1hkOFhXVmdRQmNYWExNcUdaZ2t5bHVVUXpJYTc5ekpLNWJBTFpwekptVjJYUVY1enHSAcYBQVVfeXFMTU5WZXk0Y0dRdVhlVkptMi1Eajl4VTAtM1BTekRDR1hQTXNIVUZDdmt5TmdVSGYwUlZkNUhRU19KdVY4OXdYTjZrUmhJbWs5TWE4elRDOTRIMkprNVM3UEJ5dFpMdzNOa29VeFRqUXFLMGEybXB4Qm5NSUlNZXU3MkpQWmhEVmQ2SjZiLWdGclk3S1BLZmF5VFo3NERwelN0bHdhVF9UUllMeTMtdE13Um10MUNSOEtYZGpTSzJuQTEzMi0tMFRn?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-09-30",
           "views": "18.0K"
         }
       ]
@@ -88,18 +88,18 @@
           "views": "18.0K"
         },
         {
-          "title": "OpenClaw launches free enterprise control plane for persistent AI agents, backed by OpenAI, Red Hat and Nvidia - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbHZwUUNYR0FaRHlRTFdOZWIyRXRRRklrZXNTWlpHX2tsdlhZUFBuY193RUlkZHhnU0N2bkdJLXJBMmMyeWNsWk90VlFjeG5qcnFNQ3dabzRMMmo2WUp3bVhnZS1mQWJQazdSVUJZR3FoR3JqalBtczhTc21EOGZHdGlnWUlRbjJSMFZCSVlaSFlROGhra1prZmloT21ETlpRcHZoT2c1aUViNVJqRzRLSjREY1hrcWJRWVVvc1lxUnpKbTVid2xZb2t0V2pxQkF5bXVDQUN6YkpYOFdSMlhJ?oc=5\" target=\"_blank\">OpenClaw launches free enterprise control plane for persistent AI agents, backed by OpenAI, Red Hat and Nvidia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbHZwUUNYR0FaRHlRTFdOZWIyRXRRRklrZXNTWlpHX2tsdlhZUFBuY193RUlkZHhnU0N2bkdJLXJBMmMyeWNsWk90VlFjeG5qcnFNQ3dabzRMMmo2WUp3bVhnZS1mQWJQazdSVUJZR3FoR3JqalBtczhTc21EOGZHdGlnWUlRbjJSMFZCSVlaSFlROGhra1prZmloT21ETlpRcHZoT2c1aUViNVJqRzRLSjREY1hrcWJRWVVvc1lxUnpKbTVid2xZb2t0V2pxQkF5bXVDQUN6YkpYOFdSMlhJ?oc=5",
+          "title": "Siena Raises $17M Series A to Expand Its Agent of Record Platform for Consumer Brands - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUjlVMFNCeFNHT3FtV0tvQjg1ZGVSOC1TcUxueExFakRtOVFpSVhrUk1XekhZQVdhQVBMSWZSNjlGWTJpZTcyX09IdXA2TEpjNjBpRGZYZHU3SjEzTVo4YmVwelplVFRUelNQMERDRnQ3ZGpiNmRhN3lEMnRUMVNkb01RZ2lpbXhDdXI2Ni1peVJpaWpOZ2tnTGRhTEZxQlNkTGgxV0p5NzlERkp1bGRaaDBxSG9udTVZ?oc=5\" target=\"_blank\">Siena Raises $17M Series A to Expand Its Agent of Record Platform for Consumer Brands</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUjlVMFNCeFNHT3FtV0tvQjg1ZGVSOC1TcUxueExFakRtOVFpSVhrUk1XekhZQVdhQVBMSWZSNjlGWTJpZTcyX09IdXA2TEpjNjBpRGZYZHU3SjEzTVo4YmVwelplVFRUelNQMERDRnQ3ZGpiNmRhN3lEMnRUMVNkb01RZ2lpbXhDdXI2Ni1peVJpaWpOZ2tnTGRhTEZxQlNkTGgxV0p5NzlERkp1bGRaaDBxSG9udTVZ?oc=5",
           "source": "VentureBeat AI",
-          "publishedAt": "2026-09-30",
-          "views": "18.0K"
+          "publishedAt": "2026-10-06",
+          "views": "13.0K"
         },
         {
-          "title": "Anthropic tells Australia it's open to laws requiring reporting of AI agent hacks - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPakluaktNLUFlZk8zejE5LUV6VWYtdkphTjB0UVpiYjJ2WVYwd2lXUC0xMTdPcFJXYUNMajk5MlMtcmNlSUxiUGY3T0plNzYxMG02X09jbkNlcDBldEdueENYdXhHVnd6TkVmVExyZGtzN0hqdUF5X2VsaEVMX3hWT21ob3VvWWE5UlNqbnZLb24yTXJlYWJiZGl1cjRWNnNad1ljTlF4WTVJREEza2Y0SmlmX0E0QzJfeVZjU1hFOXdYeDU2bEE?oc=5\" target=\"_blank\">Anthropic tells Australia it's open to laws requiring reporting of AI agent hacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPakluaktNLUFlZk8zejE5LUV6VWYtdkphTjB0UVpiYjJ2WVYwd2lXUC0xMTdPcFJXYUNMajk5MlMtcmNlSUxiUGY3T0plNzYxMG02X09jbkNlcDBldEdueENYdXhHVnd6TkVmVExyZGtzN0hqdUF5X2VsaEVMX3hWT21ob3VvWWE5UlNqbnZLb24yTXJlYWJiZGl1cjRWNnNad1ljTlF4WTVJREEza2Y0SmlmX0E0QzJfeVZjU1hFOXdYeDU2bEE?oc=5",
-          "source": "Reuters AI",
+          "title": "Few AI agents rely on semantic layers - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWjllM2V1NTFFNFNlem8xNGZlRy1nVWxFdFc3YTlRXzRyYThXSVY3LWNjUzNVb21RMDVYZGlDdElXV2U2VFFfU0FSSExpdDFuS0JUT3Q2NlY4SlZKb0NqdV9pbFc1YU45UnRrbXE2NTh0ZXFoWjJ5VzhWX2NUYVdRYVpnUVhZNk9fcEJkM2NNYnpSd1dobzBVSXhadzAxcVdFVVdoMVBjNWYwRFZBYm9SekZrSkZ1aXpIUWRZeDZmNF94MGM2enZpR2VpUkFGYVlUS2c?oc=5\" target=\"_blank\">Few AI agents rely on semantic layers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWjllM2V1NTFFNFNlem8xNGZlRy1nVWxFdFc3YTlRXzRyYThXSVY3LWNjUzNVb21RMDVYZGlDdElXV2U2VFFfU0FSSExpdDFuS0JUT3Q2NlY4SlZKb0NqdV9pbFc1YU45UnRrbXE2NTh0ZXFoWjJ5VzhWX2NUYVdRYVpnUVhZNk9fcEJkM2NNYnpSd1dobzBVSXhadzAxcVdFVVdoMVBjNWYwRFZBYm9SekZrSkZ1aXpIUWRZeDZmNF94MGM2enZpR2VpUkFGYVlUS2c?oc=5",
+          "source": "VentureBeat AI",
           "publishedAt": "2026-10-06",
           "views": "13.0K"
         }
@@ -150,20 +150,20 @@
           "views": "18.0K"
         },
         {
-          "title": "VIEW Soft September jobs report sends markets higher - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQTkVCanhuNm9LTk9xbXE4RmNabmw1S0s0RXJEdVZzdTdqa1M1TXBxU1pBTm13LVRaZXNSeFY4UVNOa1ZaTEY5NFo0ejBmZnBxanVVM29nWll0S21yNWZzaXlJY0FJSXFMMFVvYy1QOXBxTlZiMXhRbTUwUktoVmg2ekxuNTBTVzRWWG1VVFB5S2k5Y0pnOTBpMjJ0SW45dw?oc=5\" target=\"_blank\">VIEW Soft September jobs report sends markets higher</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTkVCanhuNm9LTk9xbXE4RmNabmw1S0s0RXJEdVZzdTdqa1M1TXBxU1pBTm13LVRaZXNSeFY4UVNOa1ZaTEY5NFo0ejBmZnBxanVVM29nWll0S21yNWZzaXlJY0FJSXFMMFVvYy1QOXBxTlZiMXhRbTUwUktoVmg2ekxuNTBTVzRWWG1VVFB5S2k5Y0pnOTBpMjJ0SW45dw?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-10-02",
-          "views": "18.0K"
+          "title": "Korean Startup Develops AI Chip Adhesive Monopolized by Japan and Germany - ETNEWS",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBrZ0phZnZpMUFpalNfc21KTXh4cVJWV1dpNUZuM0REY0RydEdZVGlVVUFtNE1keHRIeklwZkIzTGllUmIzb2xKWXJvWXY?oc=5\" target=\"_blank\">Korean Startup Develops AI Chip Adhesive Monopolized by Japan and Germany</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBrZ0phZnZpMUFpalNfc21KTXh4cVJWV1dpNUZuM0REY0RydEdZVGlVVUFtNE1keHRIeklwZkIzTGllUmIzb2xKWXJvWXY?oc=5",
+          "source": "전자신문",
+          "publishedAt": "2026-10-07",
+          "views": "13.0K"
         },
         {
-          "title": "AI startup EliseAI valued at $4 billion in latest funding round - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNSWFRUkROTGVjTWZvMUlUcWRxdWJ0Q3ZDcTFKMzdpLWRTRVJweTZwSkM0UGIzdHhab212OEhmQXRzSlhucTVsV3J5S2VFcEFhWVQyZ2U4NWZDcGY3NTNsa1c5THRCb3hMa3lIcmJlYXI0dWRaSGNGdkY2WmhKaGVLeC0zM09QTE1ZU2NRN0hKR3YxQVA0Y0lmdkVvMnQ3and1cHc?oc=5\" target=\"_blank\">AI startup EliseAI valued at $4 billion in latest funding round</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSWFRUkROTGVjTWZvMUlUcWRxdWJ0Q3ZDcTFKMzdpLWRTRVJweTZwSkM0UGIzdHhab212OEhmQXRzSlhucTVsV3J5S2VFcEFhWVQyZ2U4NWZDcGY3NTNsa1c5THRCb3hMa3lIcmJlYXI0dWRaSGNGdkY2WmhKaGVLeC0zM09QTE1ZU2NRN0hKR3YxQVA0Y0lmdkVvMnQ3and1cHc?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-09-29",
-          "views": "18.0K"
+          "title": "K-books push deeper into global market at Frankfurt Book Fair - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeFZ3RHZQN2tQelQwZHBHWjBFbkRBYnhoWHBMeG9lSGRTYlgyUWNRWEt6ODA4WGRnenctQm9WUXVRdEp0RC1iT0tfWEplWV95MElGTWtwNmJoa2MwaHpMM0JpYW1RQ3ZrR2R5VXkwV3ZleTBGVzc0eE8tSHR4SElZU1dsTm8xS3BLc2M4aWF1MmFGR3JienJYV2JGWXQ3QUFiNGxFM2F5SHB0SWZ2VW1vMlNqbVRPR3EzNmQ1b3BIQ3bSAcYBQVVfeXFMUERBeEhybm9icFdMVnVrVUQyaXVMVG8zTTFfQ2RDQk1NUXpJTEcwTmRsUkxPVHJ6clVaNUVFRi1YR0hQWEdxaUs2d3pCMnB3eGVNY0haQ01Fal84cEFPTFNWVjNiQU56emFWdVpDVzlUVld6Z2FiWUt2WkZ2TUt4b1dBYUg4UnVTMUhNdG5hX2EzeGRpS2thelFLb3B5MjZ4NGpkS1JMZ0FCbncwTWhDcU9CWVJFcW5kUkh0UDhwa3JyY21yS2tn?oc=5\" target=\"_blank\">K-books push deeper into global market at Frankfurt Book Fair</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeFZ3RHZQN2tQelQwZHBHWjBFbkRBYnhoWHBMeG9lSGRTYlgyUWNRWEt6ODA4WGRnenctQm9WUXVRdEp0RC1iT0tfWEplWV95MElGTWtwNmJoa2MwaHpMM0JpYW1RQ3ZrR2R5VXkwV3ZleTBGVzc0eE8tSHR4SElZU1dsTm8xS3BLc2M4aWF1MmFGR3JienJYV2JGWXQ3QUFiNGxFM2F5SHB0SWZ2VW1vMlNqbVRPR3EzNmQ1b3BIQ3bSAcYBQVVfeXFMUERBeEhybm9icFdMVnVrVUQyaXVMVG8zTTFfQ2RDQk1NUXpJTEcwTmRsUkxPVHJ6clVaNUVFRi1YR0hQWEdxaUs2d3pCMnB3eGVNY0haQ01Fal84cEFPTFNWVjNiQU56emFWdVpDVzlUVld6Z2FiWUt2WkZ2TUt4b1dBYUg4UnVTMUhNdG5hX2EzeGRpS2thelFLb3B5MjZ4NGpkS1JMZ0FCbncwTWhDcU9CWVJFcW5kUkh0UDhwa3JyY21yS2tn?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-10-07",
+          "views": "13.0K"
         }
       ]
     },
@@ -173,6 +173,14 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
+          "title": "GM Korea's multi-brand strategy falls short on localization - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVHJUNVBqenhMV2cySzNQaVRiSnJYQTljVzVWd1N4cDk4aG9mSDIyeDkzUmM0UjcwWTlMd1hod2dySU5pLWFBSzltaXA1OU95WUMtWDhYU3gxcXNaSXpNeE1rOW5rdjhRMUdtdHhhRnM3SWh2TlRtVHZfajh4WWxCNUs2OGRWWUp1Nml0X3A0ZEV0cjhFeHEyckFWQzRDRUYxSjhVTG5QX2IxZG4xQ2ZnMkFKMTJVT3NoM3hB0gG7AUFVX3lxTE9UclQ1UGp6eExXZzJLM1BpVGJKclhBOWNXNVZ3U3hwOThob2ZIMjJ4OTNSYzRSNzBZOUx3WGh3Z3JJTmktYUFLOW1pcDU5T3lZQy1YOFhTeDFxc1pJek14TWs5bmt2OFExR210eGFGczdJaHZOVG1Udl9qOHhZbEI1SzY4ZFZZSnU2aXRfcDRkRXRyOEV4cTJyQVZDNENFRjFKOFVMblBfYjFkbjFDZmcyQUoxMlVPc2gzeEE?oc=5\" target=\"_blank\">GM Korea's multi-brand strategy falls short on localization</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVHJUNVBqenhMV2cySzNQaVRiSnJYQTljVzVWd1N4cDk4aG9mSDIyeDkzUmM0UjcwWTlMd1hod2dySU5pLWFBSzltaXA1OU95WUMtWDhYU3gxcXNaSXpNeE1rOW5rdjhRMUdtdHhhRnM3SWh2TlRtVHZfajh4WWxCNUs2OGRWWUp1Nml0X3A0ZEV0cjhFeHEyckFWQzRDRUYxSjhVTG5QX2IxZG4xQ2ZnMkFKMTJVT3NoM3hB0gG7AUFVX3lxTE9UclQ1UGp6eExXZzJLM1BpVGJKclhBOWNXNVZ3U3hwOThob2ZIMjJ4OTNSYzRSNzBZOUx3WGh3Z3JJTmktYUFLOW1pcDU5T3lZQy1YOFhTeDFxc1pJek14TWs5bmt2OFExR210eGFGczdJaHZOVG1Udl9qOHhZbEI1SzY4ZFZZSnU2aXRfcDRkRXRyOEV4cTJyQVZDNENFRjFKOFVMblBfYjFkbjFDZmcyQUoxMlVPc2gzeEE?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-10-06",
+          "views": "13.0K"
+        },
+        {
           "title": "MiCo chairman wins top US ceramic industry award - The Korea Times",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSWFTR2h0SlI4YjVwM1BLeklRQjJFX3Frak5WN1lCX1dNbUNNeTBIb2VsU2ExanZyZFJnYnEyTUFhSUU5aVNtZ2lqX3RKMGFXcW9OSFFKT2lLUkxiQ0FxZmxtUG1LZFk1b0FISHNNbGRiMEpKcVAwUHFvalQ5aTlmb0Y4ZDEzZE0xYUc1SUE5OWZBZVFDZ2lpdG16UHF4bFdzbm1YckItWjTSAa4BQVVfeXFMT0g5WFRiRDVDYk90U1BPelFzLTJoSEZNVkRVbTlCbWNPdWowNDhoYWJoeWp2bFhVQ0FzXzdkWlJEYlVEUXZvc0p6QmVpWUpDQzliejJBbDB3OEUzZTRzRjFvd3lOemFYdTNuQXFNek9iV1hHaG5PaTNKdmFIcVFocHFmTVVCcm5yQjRMWk5td2NhV01CY1dEWWRCR2dhSE9WR25oMDZNeHI0NlpXNE93?oc=5\" target=\"_blank\">MiCo chairman wins top US ceramic industry award</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSWFTR2h0SlI4YjVwM1BLeklRQjJFX3Frak5WN1lCX1dNbUNNeTBIb2VsU2ExanZyZFJnYnEyTUFhSUU5aVNtZ2lqX3RKMGFXcW9OSFFKT2lLUkxiQ0FxZmxtUG1LZFk1b0FISHNNbGRiMEpKcVAwUHFvalQ5aTlmb0Y4ZDEzZE0xYUc1SUE5OWZBZVFDZ2lpdG16UHF4bFdzbm1YckItWjTSAa4BQVVfeXFMT0g5WFRiRDVDYk90U1BPelFzLTJoSEZNVkRVbTlCbWNPdWowNDhoYWJoeWp2bFhVQ0FzXzdkWlJEYlVEUXZvc0p6QmVpWUpDQzliejJBbDB3OEUzZTRzRjFvd3lOemFYdTNuQXFNek9iV1hHaG5PaTNKdmFIcVFocHFmTVVCcm5yQjRMWk5td2NhV01CY1dEWWRCR2dhSE9WR25oMDZNeHI0NlpXNE93?oc=5",
@@ -181,19 +189,11 @@
           "views": "13.0K"
         },
         {
-          "title": "Germany's AfD weighs shift from anti-EU roots, strategy paper shows - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQjdNdF90SDNFZ1RseHZqWTh4QW1oeGd2Nnk3ZXI3bnl5UjhRQkpBeHI3Vi1HY0Jramo5MjVQWHFoTExveVpuWEdvbGdWbjJwVnFFNXI3dHp2ZkZKdXptV3lvSHZXS1hHcFYyeW16VGNyYVRmNWFxWWlyU09KQTZtZkZlYlBYbjNObi1LdEFqNC1EYXAxZ2lUYnRTUjVpWGVhdkpFOWhhb29tRUNjaXlSVHNMVlVlbEQ5OUNj?oc=5\" target=\"_blank\">Germany's AfD weighs shift from anti-EU roots, strategy paper shows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQjdNdF90SDNFZ1RseHZqWTh4QW1oeGd2Nnk3ZXI3bnl5UjhRQkpBeHI3Vi1HY0Jramo5MjVQWHFoTExveVpuWEdvbGdWbjJwVnFFNXI3dHp2ZkZKdXptV3lvSHZXS1hHcFYyeW16VGNyYVRmNWFxWWlyU09KQTZtZkZlYlBYbjNObi1LdEFqNC1EYXAxZ2lUYnRTUjVpWGVhdkpFOWhhb29tRUNjaXlSVHNMVlVlbEQ5OUNj?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-10-05",
-          "views": "13.0K"
-        },
-        {
-          "title": "EXCLUSIVE: Cost pressures and deadlock force Honda to rework India strategy, sources say - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbW9nbGp5Y1JLcnlPR0JPTXBaNlNfaWxJWDhUU0llVEZiSkZydDNiQlVSanJDRWRJNlJRY20xZEhxWnJBNnl5clJPSHVaMmVNLUZnY2RtMTR4Z1EyN0NiU3lXT3BUcG9SaXJGSEx2YkN5Ml9SYUhHc1U1X1BJVFNtR1BfNnBZUkl4MGlscFJOUm5VVjRwOE53cElUVHlmQzl5R2RsY09yUzViVVVBa3UzTWQ3RDJqdG5YeEJwTVBTeHp5Zw?oc=5\" target=\"_blank\">EXCLUSIVE: Cost pressures and deadlock force Honda to rework India strategy, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbW9nbGp5Y1JLcnlPR0JPTXBaNlNfaWxJWDhUU0llVEZiSkZydDNiQlVSanJDRWRJNlJRY20xZEhxWnJBNnl5clJPSHVaMmVNLUZnY2RtMTR4Z1EyN0NiU3lXT3BUcG9SaXJGSEx2YkN5Ml9SYUhHc1U1X1BJVFNtR1BfNnBZUkl4MGlscFJOUm5VVjRwOE53cElUVHlmQzl5R2RsY09yUzViVVVBa3UzTWQ3RDJqdG5YeEJwTVBTeHp5Zw?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-10-05",
+          "title": "Polygrade Emerges from Stealth With $6.3M to Bring AI-Native Claims Management to the Warranty Industry - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPYkRDOFNyOUY5WVhZT1QtWnRrYWgzSXlLZWxUbkxScTJONTBIelVLMGJ1M1VEbkNSYm5XYXpTdjVlcVFRbzU5ZlB6WGFKS0FNVkFRbWpsdGo1VDNaTTFWQWV6QzVuVE1PNW5NYjhlZ1AzYmJkLS1WUWRRc0xBZ1IxME1nd2ZFb0diaDZPbXF4dE9VMUgxeDVrM3kzU3NwWWpZVEJHbkZOLUlveWNDaEZGNldPSzhncUdMTk5rR3U3TTN5elVVRlo4ZUlPeDdhLTQ?oc=5\" target=\"_blank\">Polygrade Emerges from Stealth With $6.3M to Bring AI-Native Claims Management to the Warranty Industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYkRDOFNyOUY5WVhZT1QtWnRrYWgzSXlLZWxUbkxScTJONTBIelVLMGJ1M1VEbkNSYm5XYXpTdjVlcVFRbzU5ZlB6WGFKS0FNVkFRbWpsdGo1VDNaTTFWQWV6QzVuVE1PNW5NYjhlZ1AzYmJkLS1WUWRRc0xBZ1IxME1nd2ZFb0diaDZPbXF4dE9VMUgxeDVrM3kzU3NwWWpZVEJHbkZOLUlveWNDaEZGNldPSzhncUdMTk5rR3U3TTN5elVVRlo4ZUlPeDdhLTQ?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-10-06",
           "views": "13.0K"
         }
       ]
