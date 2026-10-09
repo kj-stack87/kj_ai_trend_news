@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-08T05:57:49.612Z",
+  "lastUpdated": "2026-10-09T06:04:02.674Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,6 +49,14 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
+          "title": "Google Cloud unveils persistent Gemini Agents for long-running tasks, and they get their own Gmail, Calendar, and Drive storage - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNU0ZZSnZNWFdoU0p6bDNHb0R3Rk8xTGdSTUJfSjVlWTVhSmFQaWFocVVLTUFISlljVzVqTE9jazlBTVpiZENFWVFaWFdBYUpQME43blNrY2ljWGpJVi0xMVpMelRMck9Eb082d0dmZ2dva3NUV0hXNXJROUdSR0Roak1kTzFYVU5LQ1dhdk83NE1CeW9pWGV6MHFXbVBjTTM1N3VKUkpoc0dhVHA0R2FuaVVqU3JJX0lLMUxWdy1aTHJ6NFVDLWpycVh1WjFMXy1VRlI3dWRWSmFxUmRIelB5M0p5RndhWV9HRjFnZ2VOT1dfeXpK?oc=5\" target=\"_blank\">Google Cloud unveils persistent Gemini Agents for long-running tasks, and they get their own Gmail, Calendar, and Drive storage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNU0ZZSnZNWFdoU0p6bDNHb0R3Rk8xTGdSTUJfSjVlWTVhSmFQaWFocVVLTUFISlljVzVqTE9jazlBTVpiZENFWVFaWFdBYUpQME43blNrY2ljWGpJVi0xMVpMelRMck9Eb082d0dmZ2dva3NUV0hXNXJROUdSR0Roak1kTzFYVU5LQ1dhdk83NE1CeW9pWGV6MHFXbVBjTTM1N3VKUkpoc0dhVHA0R2FuaVVqU3JJX0lLMUxWdy1aTHJ6NFVDLWpycVh1WjFMXy1VRlI3dWRWSmFxUmRIelB5M0p5RndhWV9HRjFnZ2VOT1dfeXpK?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-10-08",
+          "views": "18.0K"
+        },
+        {
           "title": "Anthropic launches Claude Haiku 5.5 with 90% API price reduction, matching GPT-6 Luna - VentureBeat",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNOTFMTVFQOTJ2SmdCSGdjR2Z4Q2ZYMF9ncldZM3NUNTlEWUVOUERVUVVpdHdfQno4c3F3aWJ1WnIybnpYNGxnMmk5d3FCaUlkdkhCeHpPMENmRG81MEpBcGx5Y1kxY25GY3oxb3gzNGk1bDdOS0JwMkxFZ1hkUFI2M21GMWowTzc4VVJaLUNaajc5MGJrMTdtcXNJem93Q2lpSGFvYXJCbEFwN2hMTnY4bzcxdEswa29DWFE?oc=5\" target=\"_blank\">Anthropic launches Claude Haiku 5.5 with 90% API price reduction, matching GPT-6 Luna</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOTFMTVFQOTJ2SmdCSGdjR2Z4Q2ZYMF9ncldZM3NUNTlEWUVOUERVUVVpdHdfQno4c3F3aWJ1WnIybnpYNGxnMmk5d3FCaUlkdkhCeHpPMENmRG81MEpBcGx5Y1kxY25GY3oxb3gzNGk1bDdOS0JwMkxFZ1hkUFI2M21GMWowTzc4VVJaLUNaajc5MGJrMTdtcXNJem93Q2lpSGFvYXJCbEFwN2hMTnY4bzcxdEswa29DWFE?oc=5",
@@ -63,14 +71,6 @@
           "source": "Reuters AI",
           "publishedAt": "2026-10-07",
           "views": "18.0K"
-        },
-        {
-          "title": "Mistral debuts Large 4 ‘Le Chonk', a 1-trillion parameter text output model with high benchmarks planned for open weights release - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSzNNZTh3aGNlNVhVV1JKWkJ4UDRtbl9sTzk4SlZPWlBjLVBCNURGblVQNzVnQmFTMWk5OE52YVZ4SWxYSk5lVU94UVJWRkJ4YTVqOUd1MFFlWjhPWG9JWGN0Ml9sdG5DWXU2LUpPbHB6TEpVeUFueGx2UEk3cTNyNUwwamJfR01uZDAwNzk5bFlGd19jWWJTbl9yanU0YVRIb2RqNXFqazJ3WjJSUEhvOEZPSkNGUzdaYWNpQUVieWRWbS1BZGpibk1WbmtIcjlPRzl5ZUc3VEYwVjlvbzN6aFhGSHlmM2EtLW9GWUJSYUNNUnM?oc=5\" target=\"_blank\">Mistral debuts Large 4 ‘Le Chonk', a 1-trillion parameter text output model with high benchmarks planned for open weights release</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSzNNZTh3aGNlNVhVV1JKWkJ4UDRtbl9sTzk4SlZPWlBjLVBCNURGblVQNzVnQmFTMWk5OE52YVZ4SWxYSk5lVU94UVJWRkJ4YTVqOUd1MFFlWjhPWG9JWGN0Ml9sdG5DWXU2LUpPbHB6TEpVeUFueGx2UEk3cTNyNUwwamJfR01uZDAwNzk5bFlGd19jWWJTbl9yanU0YVRIb2RqNXFqazJ3WjJSUEhvOEZPSkNGUzdaYWNpQUVieWRWbS1BZGpibk1WbmtIcjlPRzl5ZUc3VEYwVjlvbzN6aFhGSHlmM2EtLW9GWUJSYUNNUnM?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-10-06",
-          "views": "18.0K"
         }
       ]
     },
@@ -80,6 +80,14 @@
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
         {
+          "title": "The share of enterprises trusting AI agents to make production changes on their own has fallen from 75% to 56%, VB Intelligence finds - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxQeFZYYjZUN0ktRXRBT1ZJMlhYVHVXMmR0NkM3Tnl1WUdQTHR5VHpSZUNiSFdjYjhBQWxDVzRBTkVhZjY5RkxXWjlpTnNwZUZ0WHZXZjhoeE9mZzhyZFFIUGVCMVZaVWk1S1BJcVJfMFJ1blRhTWM2RlR5UmR4MGtSaXdEYWhPUE5MZnRNMndhZUoxME4xVjdVM0lTRjluYktjNmt6ZlJ4bEJtYUt5Ykp2OWVmaEZKUWhFY2NWeDY5R1pCYkl1R3dtQmY3TmtkUWlKNGxyZFdzbDlmWWpfN1gtZDI3VDM5Tmp3TVExdGJ3MzJIMHh4Q05NWEtlOUI?oc=5\" target=\"_blank\">The share of enterprises trusting AI agents to make production changes on their own has fallen from 75% to 56%, VB Intelligence finds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQeFZYYjZUN0ktRXRBT1ZJMlhYVHVXMmR0NkM3Tnl1WUdQTHR5VHpSZUNiSFdjYjhBQWxDVzRBTkVhZjY5RkxXWjlpTnNwZUZ0WHZXZjhoeE9mZzhyZFFIUGVCMVZaVWk1S1BJcVJfMFJ1blRhTWM2RlR5UmR4MGtSaXdEYWhPUE5MZnRNMndhZUoxME4xVjdVM0lTRjluYktjNmt6ZlJ4bEJtYUt5Ykp2OWVmaEZKUWhFY2NWeDY5R1pCYkl1R3dtQmY3TmtkUWlKNGxyZFdzbDlmWWpfN1gtZDI3VDM5Tmp3TVExdGJ3MzJIMHh4Q05NWEtlOUI?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-10-08",
+          "views": "18.0K"
+        },
+        {
           "title": "Connecting AI agents to enterprise knowledge - MIT Technology Review",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxON0ZxZVNnZjZpNGgtVnd5WjUzdVBnaWwtZ29nVnJDaDJiOGtPVXdwVHBSMVd4RmdRMF9McGV1cGNIajgyVzRSUklRU08tdktmN2N1aFcxTVBpMnpVbzluUDdmb3lyV1Z6ZTFreDBqNzg4UDhYZEs5djNWS1RieG1TbVRPc3VSdEpMSWRtekFQek14TmxlN0laVTBNLXpoQdIBowFBVV95cUxOSG9lYUYxTGg4Y2RDcE0tUHFDcmxhckt3YW9SbHZIdkRpeXVWb2tLWTFXU1lPNnV1SGNoOHdDaXJFdE9BaExjYkliLTRYU2JRcjBUOVhjY1Fza3JSSUNOS0dPQ0cxdVdkYWRRT3ZfUzM5ZGlrYlhTZF93bEpZZm9oS3MwMlZpXzRHWTRxeDhzTExuTlZzaks0dHFYUVRqX2lYX1FF?oc=5\" target=\"_blank\">Connecting AI agents to enterprise knowledge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MIT Technology Review</font>",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON0ZxZVNnZjZpNGgtVnd5WjUzdVBnaWwtZ29nVnJDaDJiOGtPVXdwVHBSMVd4RmdRMF9McGV1cGNIajgyVzRSUklRU08tdktmN2N1aFcxTVBpMnpVbzluUDdmb3lyV1Z6ZTFreDBqNzg4UDhYZEs5djNWS1RieG1TbVRPc3VSdEpMSWRtekFQek14TmxlN0laVTBNLXpoQdIBowFBVV95cUxOSG9lYUYxTGg4Y2RDcE0tUHFDcmxhckt3YW9SbHZIdkRpeXVWb2tLWTFXU1lPNnV1SGNoOHdDaXJFdE9BaExjYkliLTRYU2JRcjBUOVhjY1Fza3JSSUNOS0dPQ0cxdVdkYWRRT3ZfUzM5ZGlrYlhTZF93bEpZZm9oS3MwMlZpXzRHWTRxeDhzTExuTlZzaks0dHFYUVRqX2lYX1FF?oc=5",
@@ -88,19 +96,11 @@
           "views": "18.0K"
         },
         {
-          "title": "OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me - WIRED",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPX3dCdGRtRk5EVURKaWhiRUZMNFZFY0MxemVxbnJOVkRibFF2N0JmZkgwRF9MS3VIc1pabWJBcG1fUXhVMUpBQm40amhJdU5rdlV6TTh1cWM1OGlLZTZROGpGNFcxZ1M2Ymc3SXgxcnpkeXVoaDlPcHl1U1o3dmhwVVF5WFRPckE4SUlUclpJcG5pcV94RVp5Wlh3?oc=5\" target=\"_blank\">OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX3dCdGRtRk5EVURKaWhiRUZMNFZFY0MxemVxbnJOVkRibFF2N0JmZkgwRF9MS3VIc1pabWJBcG1fUXhVMUpBQm40amhJdU5rdlV6TTh1cWM1OGlLZTZROGpGNFcxZ1M2Ymc3SXgxcnpkeXVoaDlPcHl1U1o3dmhwVVF5WFRPckE4SUlUclpJcG5pcV94RVp5Wlh3?oc=5",
+          "title": "ICE Agent at NYC Shooting Has History of Alleged Violence and Illegal Arrests - WIRED",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxORVBMUGF3dEl6NU5KWjVRX2JQc19xQm9rc0FzdlpSbjU4ODNMejA3ejFORWhGcXFNNkY3SElUc05aY1FPOFYyZURCRUI1QUFwSnBsWjFIbWpzS1c4SGVJc3ZvMWtQbTgtRF9DYkdObnpPV2NYaUUtSlZYU3RLZTZYOXNBcnIwaEItZnhhQ0NQSHd4RlE0N2dFLWZ3ZlRYbGRnQm8zSE1lZEJNZw?oc=5\" target=\"_blank\">ICE Agent at NYC Shooting Has History of Alleged Violence and Illegal Arrests</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORVBMUGF3dEl6NU5KWjVRX2JQc19xQm9rc0FzdlpSbjU4ODNMejA3ejFORWhGcXFNNkY3SElUc05aY1FPOFYyZURCRUI1QUFwSnBsWjFIbWpzS1c4SGVJc3ZvMWtQbTgtRF9DYkdObnpPV2NYaUUtSlZYU3RLZTZYOXNBcnIwaEItZnhhQ0NQSHd4RlE0N2dFLWZ3ZlRYbGRnQm8zSE1lZEJNZw?oc=5",
           "source": "WIRED AI",
-          "publishedAt": "2026-10-07",
-          "views": "13.0K"
-        },
-        {
-          "title": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation - TechCrunch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUUF0d1p0TlpWQVh5em81Z2tEV2JITjBoQUVpU0ZSNnFlWXRfRnRILWRIc1J2VFpubDZKMW1SZXRyeXFRYWxqTjdCanV4LW1HQWlzNDdUSDlmcWtBWXByRDBpLTA2b25sbTB2MEtnb1Z6ZGhwblBlc0tkX3VqUk1KNmpJWGtiN0FyOWg4YlNyY0lvYkpVckgxM282NW4xVXhNWkt0M05VRHN3ZkFZbldDaUlweWltRUJ3WVdQTzBnUjNtVmxGLWkwLWlHVmJhUU44?oc=5\" target=\"_blank\">Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUUF0d1p0TlpWQVh5em81Z2tEV2JITjBoQUVpU0ZSNnFlWXRfRnRILWRIc1J2VFpubDZKMW1SZXRyeXFRYWxqTjdCanV4LW1HQWlzNDdUSDlmcWtBWXByRDBpLTA2b25sbTB2MEtnb1Z6ZGhwblBlc0tkX3VqUk1KNmpJWGtiN0FyOWg4YlNyY0lvYkpVckgxM282NW4xVXhNWkt0M05VRHN3ZkFZbldDaUlweWltRUJ3WVdQTzBnUjNtVmxGLWkwLWlHVmJhUU44?oc=5",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-10-07",
+          "publishedAt": "2026-10-09",
           "views": "13.0K"
         }
       ]
@@ -111,19 +111,11 @@
       "description": "규제, 책임, 신뢰, 저작권 같은 문제를 보는 관점",
       "items": [
         {
-          "title": "AI promises self regulation - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFA4TDZpYU5nWDRTX0VUYTQ3VUxUek9sU0xxMXNUYWcwUnMyRVFZRU1HcDJPcTg2clVaYnpSWHFTUEVaaW9oMDc3RW94b0Y3dnJOR3duRktlYzFVY3NaakUtcVNPZnA2eVd1Y3dmdlZTQ0VDRWvSAYMBQVVfeXFMT2h0MWRlaWZqX2dqWE8tdU9hazNZX3k5R29acTNZNkMxWHhCTE1VLUtPVzBZN2JiVDNLZlJEM3FyUndyUEIyTE85LVBYelpaS0tHZndhWmhXY0llRWEwT1BOa0dwcHNSamlkb0NQU1VPZkhBVjBQcnh3czNud2VlQ1N2eHc?oc=5\" target=\"_blank\">AI promises self regulation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4TDZpYU5nWDRTX0VUYTQ3VUxUek9sU0xxMXNUYWcwUnMyRVFZRU1HcDJPcTg2clVaYnpSWHFTUEVaaW9oMDc3RW94b0Y3dnJOR3duRktlYzFVY3NaakUtcVNPZnA2eVd1Y3dmdlZTQ0VDRWvSAYMBQVVfeXFMT2h0MWRlaWZqX2dqWE8tdU9hazNZX3k5R29acTNZNkMxWHhCTE1VLUtPVzBZN2JiVDNLZlJEM3FyUndyUEIyTE85LVBYelpaS0tHZndhWmhXY0llRWEwT1BOa0dwcHNSamlkb0NQU1VPZkhBVjBQcnh3czNud2VlQ1N2eHc?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-10-06",
-          "views": "18.0K"
-        },
-        {
-          "title": "AI promises self regulation - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQV05KNy03cUNOejRIOEtkb3VXNkJKWXNVMWNhcXpreGlESWs1blNfajdRMXd6VUdzM1RqQjZOdUxPUE1iOVdJMUhDODFmRWR2bE9LcE4tbHpJOHc5Vzc2Z1NHbGZlTUVTUzJLTnRxSXFWS3ZSZzJkUUFsaHFrRjBLY2xUQ1JxcDVVMFRiYnVQOXlxem1WNnAwMTl1T2tGdnR6X2fSAYMBQVVfeXFMT2h0MWRlaWZqX2dqWE8tdU9hazNZX3k5R29acTNZNkMxWHhCTE1VLUtPVzBZN2JiVDNLZlJEM3FyUndyUEIyTE85LVBYelpaS0tHZndhWmhXY0llRWEwT1BOa0dwcHNSamlkb0NQU1VPZkhBVjBQcnh3czNud2VlQ1N2eHc?oc=5\" target=\"_blank\">AI promises self regulation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV05KNy03cUNOejRIOEtkb3VXNkJKWXNVMWNhcXpreGlESWs1blNfajdRMXd6VUdzM1RqQjZOdUxPUE1iOVdJMUhDODFmRWR2bE9LcE4tbHpJOHc5Vzc2Z1NHbGZlTUVTUzJLTnRxSXFWS3ZSZzJkUUFsaHFrRjBLY2xUQ1JxcDVVMFRiYnVQOXlxem1WNnAwMTl1T2tGdnR6X2fSAYMBQVVfeXFMT2h0MWRlaWZqX2dqWE8tdU9hazNZX3k5R29acTNZNkMxWHhCTE1VLUtPVzBZN2JiVDNLZlJEM3FyUndyUEIyTE85LVBYelpaS0tHZndhWmhXY0llRWEwT1BOa0dwcHNSamlkb0NQU1VPZkhBVjBQcnh3czNud2VlQ1N2eHc?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-10-06",
+          "title": "Rupee risks more losses after post-RBI policy slide, higher oil adds to woes - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQVTBTaW5hMG1mek95cGFESEtOcV83R3BQTVZHVlFYQ05Ud0RqVkh6OEtGejFOM1FIYWdjV0F4T016bE5TNndwYll4QjdnVl8tdUUyUVJaMmZUc1dnSFJEZS1ULTFvU2w5Z1RGZFd3bnZ1NUg2T3ZNQlluWkhldE04YjhGLXdOR01aREJ4UGc4bVNIXzFGQmxxX0RlbEZRa2QzdlZHcGhzb0pCQXBQWGtWc1VROURtakFWQ3luWQ?oc=5\" target=\"_blank\">Rupee risks more losses after post-RBI policy slide, higher oil adds to woes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVTBTaW5hMG1mek95cGFESEtOcV83R3BQTVZHVlFYQ05Ud0RqVkh6OEtGejFOM1FIYWdjV0F4T016bE5TNndwYll4QjdnVl8tdUUyUVJaMmZUc1dnSFJEZS1ULTFvU2w5Z1RGZFd3bnZ1NUg2T3ZNQlluWkhldE04YjhGLXdOR01aREJ4UGc4bVNIXzFGQmxxX0RlbEZRa2QzdlZHcGhzb0pCQXBQWGtWc1VROURtakFWQ3luWQ?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-10-08",
           "views": "18.0K"
         },
         {
@@ -133,6 +125,14 @@
           "source": "Reuters AI",
           "publishedAt": "2026-10-05",
           "views": "18.0K"
+        },
+        {
+          "title": "More cafes, PC rooms found violating food safety rules - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ0ljY1dYRThUSWZuSWtXby1FSTJJRk9Ob2paRERBT0pmX0p2S0VPSUgwUGlTVG0yUmFHeElDTGo3X0FFLVo0MUVraDdNaTB3RFpnVk5WMHN5ekRlX1EtTHY1aTJvVVhTMEs1ZmplYjlYWGgxMzR2YWthS3hHeC1XRWpkcDRuMnlCSVBncUdPU2w5a2hGYnNOcU5YeGRRMkV0ajN0bUxMbmVoc2czZmfSAbMBQVVfeXFMTmZkNVBiaXhRSG00R0g1alR1NmFzT3dWYzZleEFOTGhtZm9aT09UYi01VUdpLXRFRE5kb3JFd1NCWkJZVVdWQndJeEtZZGxHMENvT2NrcE1WcGNYSHBzSDRmY1RLU0hmMFdJbFBWT3FfQ3Q0LW1oamZQQW9qc2paRENJLW1uUTFlRnJvR2pTcTNhMkpPaHhVT0dpaTJnVzJyU05tOEJHSTlWRTQ1cnVWaDh2QVU?oc=5\" target=\"_blank\">More cafes, PC rooms found violating food safety rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ0ljY1dYRThUSWZuSWtXby1FSTJJRk9Ob2paRERBT0pmX0p2S0VPSUgwUGlTVG0yUmFHeElDTGo3X0FFLVo0MUVraDdNaTB3RFpnVk5WMHN5ekRlX1EtTHY1aTJvVVhTMEs1ZmplYjlYWGgxMzR2YWthS3hHeC1XRWpkcDRuMnlCSVBncUdPU2w5a2hGYnNOcU5YeGRRMkV0ajN0bUxMbmVoc2czZmfSAbMBQVVfeXFMTmZkNVBiaXhRSG00R0g1alR1NmFzT3dWYzZleEFOTGhtZm9aT09UYi01VUdpLXRFRE5kb3JFd1NCWkJZVVdWQndJeEtZZGxHMENvT2NrcE1WcGNYSHBzSDRmY1RLU0hmMFdJbFBWT3FfQ3Q0LW1oamZQQW9qc2paRENJLW1uUTFlRnJvR2pTcTNhMkpPaHhVT0dpaTJnVzJyU05tOEJHSTlWRTQ1cnVWaDh2QVU?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-10-09",
+          "views": "13.0K"
         }
       ]
     },
@@ -142,28 +142,28 @@
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
         {
+          "title": "EXCLUSIVE: AI surveillance startup Flock Safety to cut several hundred jobs amid backlash, sources say - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNZjJDODBjeFVYRENLMm9RSjJLOTdUUjBHcDMtWXRCM1VtRDFBbVRsdjRpMEtrU3p6Ym1udmhHODU4NHlCdVVfQ0dCcXpteXduRE9ULXFzVWFDRXBhS3gwQ21GdkJlc3hqRzBPV0tjSmQwZ0RCQWVJX1AzblVvVGkwNzY1RWpnMVFZYnAwc3JQT0hHSmx2d2d4Z2otMzdFYnV3bkVfQWRldk1rWW5NZWU2Y1dWRkp1LUtyQ1ZEZw?oc=5\" target=\"_blank\">EXCLUSIVE: AI surveillance startup Flock Safety to cut several hundred jobs amid backlash, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZjJDODBjeFVYRENLMm9RSjJLOTdUUjBHcDMtWXRCM1VtRDFBbVRsdjRpMEtrU3p6Ym1udmhHODU4NHlCdVVfQ0dCcXpteXduRE9ULXFzVWFDRXBhS3gwQ21GdkJlc3hqRzBPV0tjSmQwZ0RCQWVJX1AzblVvVGkwNzY1RWpnMVFZYnAwc3JQT0hHSmx2d2d4Z2otMzdFYnV3bkVfQWRldk1rWW5NZWU2Y1dWRkp1LUtyQ1ZEZw?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-10-09",
+          "views": "18.0K"
+        },
+        {
+          "title": "A startup founder who served time in prison is looking to court an untapped market: ex-cons - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSFZQNDN4NTRGcjluRWgtWGprUFIybWpuT25VWWo0a1RWUDMtNmtzSkx5bUJreUE4OE1pZndyUmxhU2ZOcnVIT1R1RE03M0hLMjZZUHRXY1ZGRUkyMVo3TlQ5eGJHSW9MS21YSXlvaGtpNzd5Y0RBVFd0bWRMRk9jM25xc3dUVDE4ZXBKR0pxSUtucXBFbDlpbjhrVDNFRnhLMDNJOTFIOWIxR3Q3WFNHYlRpWm5XejQyQ3pxcG15dzdlZ28?oc=5\" target=\"_blank\">A startup founder who served time in prison is looking to court an untapped market: ex-cons</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSFZQNDN4NTRGcjluRWgtWGprUFIybWpuT25VWWo0a1RWUDMtNmtzSkx5bUJreUE4OE1pZndyUmxhU2ZOcnVIT1R1RE03M0hLMjZZUHRXY1ZGRUkyMVo3TlQ5eGJHSW9MS21YSXlvaGtpNzd5Y0RBVFd0bWRMRk9jM25xc3dUVDE4ZXBKR0pxSUtucXBFbDlpbjhrVDNFRnhLMDNJOTFIOWIxR3Q3WFNHYlRpWm5XejQyQ3pxcG15dzdlZ28?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-10-08",
+          "views": "18.0K"
+        },
+        {
           "title": "Companies cutting jobs as investments shift toward AI - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPYmowdG1sVXFFOTdIcEZRY1l2OGcyUHdKZHZ4VlN3ZWJKX0dKbzlUQ29HNFNzc0hFTHRtNDFmQVZfOHg1aDlDbXFCcHM0RVJvSWcxVEVKWGZXSG5obnh3OGF1M0xfYWZYMDdmcDNTTzFoYkZvekdURU9ZS3hlbWlJeGc5UDhYOEMweVlwLVhrMEFka0FySzZWRE90eXNhZHFWV1pxdXVBQzB5d2xpRXc?oc=5\" target=\"_blank\">Companies cutting jobs as investments shift toward AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYmowdG1sVXFFOTdIcEZRY1l2OGcyUHdKZHZ4VlN3ZWJKX0dKbzlUQ29HNFNzc0hFTHRtNDFmQVZfOHg1aDlDbXFCcHM0RVJvSWcxVEVKWGZXSG5obnh3OGF1M0xfYWZYMDdmcDNTTzFoYkZvekdURU9ZS3hlbWlJeGc5UDhYOEMweVlwLVhrMEFka0FySzZWRE90eXNhZHFWV1pxdXVBQzB5d2xpRXc?oc=5",
           "source": "Reuters AI",
           "publishedAt": "2026-10-06",
           "views": "18.0K"
-        },
-        {
-          "title": "US stocks rise near record after latest jobs report calms rattled bond market - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQSHptd2lXRzhocWxZUGk3OHBtV3p5b2E2aTBvUmRzaGxCcUxHS2FldWNSSURhbm5ULVBIZkhJZThVTWktOFhQRXFQVVlpck44T0dYZDYzSDJ3Y0tyb21YQXoyZ2I4UWtvaWVjUFhoYXhPcDNIWXh3enZHMFRQMHRiUFB0UWhMMnA0WTk4YXU4MjdzMVFlNzQ2RUN3N1RSLW1BM2NaSGNCWXkzMzhDYkJ4Ry1jUVlvNjhHcFNVeGpR0gHDAUFVX3lxTE13N1hKdkt4SGxCa2lTOS1yYVFNb1dfTTJiWkh5S1VXWm13aFp1YmI3Z0x2SHh6cGF4ZExJRXlEV1VDS1FJYXVFLTBIM1FldXRGMkh4NUVOZkFocVkwaTQ3bVhmcWo3QUR2NnZkbVdZSVZmUjV3d21tVU1xOTBiOXFicV9aWDE1eFNKWEd6NXdyWTNtZldkcnNfWDNnNm52c3FROVB6bGp6blBzWnduaWVWeU1QT3g5cldhc0NySXpheE10NA?oc=5\" target=\"_blank\">US stocks rise near record after latest jobs report calms rattled bond market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSHptd2lXRzhocWxZUGk3OHBtV3p5b2E2aTBvUmRzaGxCcUxHS2FldWNSSURhbm5ULVBIZkhJZThVTWktOFhQRXFQVVlpck44T0dYZDYzSDJ3Y0tyb21YQXoyZ2I4UWtvaWVjUFhoYXhPcDNIWXh3enZHMFRQMHRiUFB0UWhMMnA0WTk4YXU4MjdzMVFlNzQ2RUN3N1RSLW1BM2NaSGNCWXkzMzhDYkJ4Ry1jUVlvNjhHcFNVeGpR0gHDAUFVX3lxTE13N1hKdkt4SGxCa2lTOS1yYVFNb1dfTTJiWkh5S1VXWm13aFp1YmI3Z0x2SHh6cGF4ZExJRXlEV1VDS1FJYXVFLTBIM1FldXRGMkh4NUVOZkFocVkwaTQ3bVhmcWo3QUR2NnZkbVdZSVZmUjV3d21tVU1xOTBiOXFicV9aWDE1eFNKWEd6NXdyWTNtZldkcnNfWDNnNm52c3FROVB6bGp6blBzWnduaWVWeU1QT3g5cldhc0NySXpheE10NA?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-10-02",
-          "views": "18.0K"
-        },
-        {
-          "title": "Korean Startup Develops AI Chip Adhesive Monopolized by Japan and Germany - ETNEWS",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBrZ0phZnZpMUFpalNfc21KTXh4cVJWV1dpNUZuM0REY0RydEdZVGlVVUFtNE1keHRIeklwZkIzTGllUmIzb2xKWXJvWXY?oc=5\" target=\"_blank\">Korean Startup Develops AI Chip Adhesive Monopolized by Japan and Germany</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBrZ0phZnZpMUFpalNfc21KTXh4cVJWV1dpNUZuM0REY0RydEdZVGlVVUFtNE1keHRIeklwZkIzTGllUmIzb2xKWXJvWXY?oc=5",
-          "source": "전자신문",
-          "publishedAt": "2026-10-07",
-          "views": "13.0K"
         }
       ]
     },
@@ -173,27 +173,27 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
-          "title": "Korea shifts visa strategy from student recruitment to talent retention - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNOWJTMERQMkVraDRsYUtIcEVmSzZCUmZvck1BWWRKUkhVdWJaeEZkcWdrVXFDaU1LSHM2WmpEclV3VUlxM3BjS0FDUEFtcFpVS0RVUFpUOEhLYnVkeE12bE5ua0hzU1RFSmlqckVBYzNNdXJkNHk0S0drM0phemtqZFNWcVNNU1N2SlRuSzlhSC1yMS1ESlRfSndmZ2xBU2Y1RFhGbGRuS2ZZRlZVVi1EQWhPeG0xX19sbXQ2djMtTUZyT2ZYWlpoaEJkZUpOWVXSAc8BQVVfeXFMTTliUzBEUDJFa2g0bGFLSHBFZks2QlJmb3JNQVlkSlJIVXViWnhGZHFna1VxQ2lNS0hzNlpqRHJVd1VJcTNwY0tBQ1BBbXBaVUtEVVBaVDhIS2J1ZHhNdmxObmtIc1NURUppanJFQWMzTXVyZDR5NEtHazNKYXpramRTVnFTTVNTdkpUbks5YUgtcjEtREpUX0p3ZmdsQVNmNURYRmxkbktmWUZWVVYtREFoT3htMV9fbG10NnYzLU1Gck9mWFpaaGhCZGVKTllV?oc=5\" target=\"_blank\">Korea shifts visa strategy from student recruitment to talent retention</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOWJTMERQMkVraDRsYUtIcEVmSzZCUmZvck1BWWRKUkhVdWJaeEZkcWdrVXFDaU1LSHM2WmpEclV3VUlxM3BjS0FDUEFtcFpVS0RVUFpUOEhLYnVkeE12bE5ua0hzU1RFSmlqckVBYzNNdXJkNHk0S0drM0phemtqZFNWcVNNU1N2SlRuSzlhSC1yMS1ESlRfSndmZ2xBU2Y1RFhGbGRuS2ZZRlZVVi1EQWhPeG0xX19sbXQ2djMtTUZyT2ZYWlpoaEJkZUpOWVXSAc8BQVVfeXFMTTliUzBEUDJFa2g0bGFLSHBFZks2QlJmb3JNQVlkSlJIVXViWnhGZHFna1VxQ2lNS0hzNlpqRHJVd1VJcTNwY0tBQ1BBbXBaVUtEVVBaVDhIS2J1ZHhNdmxObmtIc1NURUppanJFQWMzTXVyZDR5NEtHazNKYXpramRTVnFTTVNTdkpUbks5YUgtcjEtREpUX0p3ZmdsQVNmNURYRmxkbktmWUZWVVYtREFoT3htMV9fbG10NnYzLU1Gck9mWFpaaGhCZGVKTllV?oc=5",
+          "title": "Industry ministry denies report of Lutnick's dissatisfaction with spy agency - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxONVZEUWlHV1ZfcjlzT0NZMl96VFJVTk0tU09YUUJBN0lNNm02UWdhZEJCNFEwa0ozTTY0Z0ZWWDg4d0lWcFd0YlZ6R1BLOXloUnJEM2k0WENVcFhFbjBPbnRCYUI0UUI1b0EydDBKSV8zTVFfaDBJdEVfb2lFSUMzWXUwdEVTYnMzZF94SjJWeHRZSFM3SzY5OUx3NDd3U1R6bW5oR0ZVYllpd0RqdjNTS1lxV095eEc4WDVEaTBac0FRMWs5S2ww0gHMAUFVX3lxTE1VZUlNalZ1dW11TGNiU1JZZEdQQTI2MWp2ZVkyd3pYZW5BMEdsbHFOTnBIdmJ5aHNzY1ZrdUM4RnRmdkhNT3RGanM1YTZVazRSSEROZjJZYXUtOF9XVWxIcG9Bb2Q4TUxEaEg5dW1xbUs3aDdoYVBwaDJ5RjB0am5XRmZOb0ZCOEJhdUNGeC03b0Fmd193ZkRvVHctSEFHMWM0ZzVjenBQLWhMOUstXy1CT2pvbGJIZEdtR0xKU2g0QUtUbHVFN0UwdENHbg?oc=5\" target=\"_blank\">Industry ministry denies report of Lutnick's dissatisfaction with spy agency</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONVZEUWlHV1ZfcjlzT0NZMl96VFJVTk0tU09YUUJBN0lNNm02UWdhZEJCNFEwa0ozTTY0Z0ZWWDg4d0lWcFd0YlZ6R1BLOXloUnJEM2k0WENVcFhFbjBPbnRCYUI0UUI1b0EydDBKSV8zTVFfaDBJdEVfb2lFSUMzWXUwdEVTYnMzZF94SjJWeHRZSFM3SzY5OUx3NDd3U1R6bW5oR0ZVYllpd0RqdjNTS1lxV095eEc4WDVEaTBac0FRMWs5S2ww0gHMAUFVX3lxTE1VZUlNalZ1dW11TGNiU1JZZEdQQTI2MWp2ZVkyd3pYZW5BMEdsbHFOTnBIdmJ5aHNzY1ZrdUM4RnRmdkhNT3RGanM1YTZVazRSSEROZjJZYXUtOF9XVWxIcG9Bb2Q4TUxEaEg5dW1xbUs3aDdoYVBwaDJ5RjB0am5XRmZOb0ZCOEJhdUNGeC03b0Fmd193ZkRvVHctSEFHMWM0ZzVjenBQLWhMOUstXy1CT2pvbGJIZEdtR0xKU2g0QUtUbHVFN0UwdENHbg?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-10-07",
+          "publishedAt": "2026-10-09",
           "views": "13.0K"
         },
         {
-          "title": "Beyond chips and servers: Taiwan’s manufacturing role in scaling AI infrastructure - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOZEI5T0lPcWg3WEVwa1M3Z25Edk42RnhscXRYRi03bXNpZlNkR2pDQU1Eb2lWV1FEMHVpZ09LUG0xV0JZdURHSWZXRXFPQkRVajcwYi1Pb0pPUjJHR0gyTVlvUW5zOGtTTG41el90ODlZWFFlNVN6bTJTc3F4VUppVHBRLVlydldCTXBmX1RGMVdLSEpWaE5uWEtrQS16bjlCRTFkYjllTFdrUE5yNjZyV280WQ?oc=5\" target=\"_blank\">Beyond chips and servers: Taiwan’s manufacturing role in scaling AI infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZEI5T0lPcWg3WEVwa1M3Z25Edk42RnhscXRYRi03bXNpZlNkR2pDQU1Eb2lWV1FEMHVpZ09LUG0xV0JZdURHSWZXRXFPQkRVajcwYi1Pb0pPUjJHR0gyTVlvUW5zOGtTTG41el90ODlZWFFlNVN6bTJTc3F4VUppVHBRLVlydldCTXBmX1RGMVdLSEpWaE5uWEtrQS16bjlCRTFkYjllTFdrUE5yNjZyV280WQ?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-10-07",
+          "title": "Watch Kevin Roose Interview: Inside the ‘Blood Feud’ at the Heart of the AI Industry - WIRED",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNUEFMNWwtLXNfdTZyMTJBTUdNdEp5RjFVWXpqQ2lSaDhmcV80U0FGekRkbURTQkZHUUEyWGZMMWI0MUF5Y1gweFpuQ2M2dmJmSDJ3UkFWQy1pWnJ0RjlMRUdKeTNJWWxrYTRSS2UwR252WlFLbFJLRlJydVp6QUVuMXdVdWJlaUdJSC1CdWRLZnlpQk5VeEp0V0ZOMnZId2h6ZGZOX0l0QmNFZDZ1ZWc?oc=5\" target=\"_blank\">Watch Kevin Roose Interview: Inside the ‘Blood Feud’ at the Heart of the AI Industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUEFMNWwtLXNfdTZyMTJBTUdNdEp5RjFVWXpqQ2lSaDhmcV80U0FGekRkbURTQkZHUUEyWGZMMWI0MUF5Y1gweFpuQ2M2dmJmSDJ3UkFWQy1pWnJ0RjlMRUdKeTNJWWxrYTRSS2UwR252WlFLbFJLRlJydVp6QUVuMXdVdWJlaUdJSC1CdWRLZnlpQk5VeEp0V0ZOMnZId2h6ZGZOX0l0QmNFZDZ1ZWc?oc=5",
+          "source": "WIRED AI",
+          "publishedAt": "2026-10-08",
           "views": "13.0K"
         },
         {
-          "title": "Kremlin says France's test nuclear launch is part of 'dead end' anti-Russia strategy - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYVhyTEI5OXdMUkw0bkwwR0dhaUlpZGJCbmJZNU5IV2R6VXBscTJmLUFxUUZvb0Fnal9QM3NOWWN1UnFVbHNMYmt1RV81YnZmQUpsc1pSZ1VjSzEyb2lEYmk4ZkZ3QjBULXd1c1luS3FGN2h3MV90TFBaNXp1c0dYT1FMdkxybDMyYjdib3lKaHZPWmlvbm9IaWtuNEFLazA5RHhfVXpYZUI5RUoyR1ZrQXVLQkFZQmlFQTh4bENrb2lGeWJKZk95d1YzNFJ2S0ZaV0d0WE1XZ2Q?oc=5\" target=\"_blank\">Kremlin says France's test nuclear launch is part of 'dead end' anti-Russia strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYVhyTEI5OXdMUkw0bkwwR0dhaUlpZGJCbmJZNU5IV2R6VXBscTJmLUFxUUZvb0Fnal9QM3NOWWN1UnFVbHNMYmt1RV81YnZmQUpsc1pSZ1VjSzEyb2lEYmk4ZkZ3QjBULXd1c1luS3FGN2h3MV90TFBaNXp1c0dYT1FMdkxybDMyYjdib3lKaHZPWmlvbm9IaWtuNEFLazA5RHhfVXpYZUI5RUoyR1ZrQXVLQkFZQmlFQTh4bENrb2lGeWJKZk95d1YzNFJ2S0ZaV0d0WE1XZ2Q?oc=5",
+          "title": "European industry groups call for urgent EU action on China trade - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU2lOVm5tWG83Uzl6OHA2UGlPN1M2OHM1aHJXTGlkTjU1YUY4S1BodWhERHZXcl9nRGdOVV9tallCdF9EbTM0TGdUbU1rVzgyN3Z4QVQ0cDhJWkJ6ZG51amk1aTBDN3ZsRzZLUnFqRjVSVlNaWF90RF9ON0dzNHpnekh0ZXRmMVNyNzBVeWdqbHp0WFJydHRuYmdpTHlfRWc5bElaTXVBeU1MZw?oc=5\" target=\"_blank\">European industry groups call for urgent EU action on China trade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU2lOVm5tWG83Uzl6OHA2UGlPN1M2OHM1aHJXTGlkTjU1YUY4S1BodWhERHZXcl9nRGdOVV9tallCdF9EbTM0TGdUbU1rVzgyN3Z4QVQ0cDhJWkJ6ZG51amk1aTBDN3ZsRzZLUnFqRjVSVlNaWF90RF9ON0dzNHpnekh0ZXRmMVNyNzBVeWdqbHp0WFJydHRuYmdpTHlfRWc5bElaTXVBeU1MZw?oc=5",
           "source": "Reuters AI",
-          "publishedAt": "2026-10-07",
+          "publishedAt": "2026-10-08",
           "views": "13.0K"
         }
       ]
