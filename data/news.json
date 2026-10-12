@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-11T05:41:13.191Z",
+  "lastUpdated": "2026-10-12T05:51:15.270Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,6 +49,14 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
+          "title": "Seoul shares extend losses late Monday morning on tech sell-off - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOMW03bUZoY3REZlBsNzQxQm5VYTRfZ3dWVXpYLUsyZGtBOWZkb2hWV21IajdncHEzaFlXZ281REt5V3JZQWFoMllmaDNpZGFvYkF4eG91LVQ1bXg2eWRxanl6T05GV3NtVWt6Q0hSLUZYdUxNbmd4WVhOX05aLUJxU2xUQy1hWFZTOFgwT3Rkbm1nSEhPZDJBejNJT29hQ1ZJRmw5cjJKYkZuek1fT3fSAbMBQVVfeXFMUGpTM1lVbmFrbm1mcDRfeVR0eEJDTmg0elBrZGJuaXV6Smhtel9wbmVPOXlNcHhUbkROX1NvdllSQmphREZtd1lnN2czcEh0TnVwRXJ4bGxrZ05vcms3cmpqMnpGd0VUc0ZqU2dPUHQyejlaVklNY0FIVEpaQnZQT2paZVBycFVPMzI1a2c4Ykpmd0MzY1U3TDFZbkhLVVQzc2ZxVW1NTUh1ZEJ2LVQ3YzBWMkk?oc=5\" target=\"_blank\">Seoul shares extend losses late Monday morning on tech sell-off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMW03bUZoY3REZlBsNzQxQm5VYTRfZ3dWVXpYLUsyZGtBOWZkb2hWV21IajdncHEzaFlXZ281REt5V3JZQWFoMllmaDNpZGFvYkF4eG91LVQ1bXg2eWRxanl6T05GV3NtVWt6Q0hSLUZYdUxNbmd4WVhOX05aLUJxU2xUQy1hWFZTOFgwT3Rkbm1nSEhPZDJBejNJT29hQ1ZJRmw5cjJKYkZuek1fT3fSAbMBQVVfeXFMUGpTM1lVbmFrbm1mcDRfeVR0eEJDTmg0elBrZGJuaXV6Smhtel9wbmVPOXlNcHhUbkROX1NvdllSQmphREZtd1lnN2czcEh0TnVwRXJ4bGxrZ05vcms3cmpqMnpGd0VUc0ZqU2dPUHQyejlaVklNY0FIVEpaQnZQT2paZVBycFVPMzI1a2c4Ykpmd0MzY1U3TDFZbkhLVVQzc2ZxVW1NTUh1ZEJ2LVQ3YzBWMkk?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-10-12",
+          "views": "18.0K"
+        },
+        {
           "title": "Google Cloud unveils persistent Gemini Agents for long-running tasks, and they get their own Gmail, Calendar, and Drive storage - VentureBeat",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNU0ZZSnZNWFdoU0p6bDNHb0R3Rk8xTGdSTUJfSjVlWTVhSmFQaWFocVVLTUFISlljVzVqTE9jazlBTVpiZENFWVFaWFdBYUpQME43blNrY2ljWGpJVi0xMVpMelRMck9Eb082d0dmZ2dva3NUV0hXNXJROUdSR0Roak1kTzFYVU5LQ1dhdk83NE1CeW9pWGV6MHFXbVBjTTM1N3VKUkpoc0dhVHA0R2FuaVVqU3JJX0lLMUxWdy1aTHJ6NFVDLWpycVh1WjFMXy1VRlI3dWRWSmFxUmRIelB5M0p5RndhWV9HRjFnZ2VOT1dfeXpK?oc=5\" target=\"_blank\">Google Cloud unveils persistent Gemini Agents for long-running tasks, and they get their own Gmail, Calendar, and Drive storage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNU0ZZSnZNWFdoU0p6bDNHb0R3Rk8xTGdSTUJfSjVlWTVhSmFQaWFocVVLTUFISlljVzVqTE9jazlBTVpiZENFWVFaWFdBYUpQME43blNrY2ljWGpJVi0xMVpMelRMck9Eb082d0dmZ2dva3NUV0hXNXJROUdSR0Roak1kTzFYVU5LQ1dhdk83NE1CeW9pWGV6MHFXbVBjTTM1N3VKUkpoc0dhVHA0R2FuaVVqU3JJX0lLMUxWdy1aTHJ6NFVDLWpycVh1WjFMXy1VRlI3dWRWSmFxUmRIelB5M0p5RndhWV9HRjFnZ2VOT1dfeXpK?oc=5",
@@ -63,14 +71,6 @@
           "source": "VentureBeat AI",
           "publishedAt": "2026-10-07",
           "views": "18.0K"
-        },
-        {
-          "title": "Anthropic launches third Claude 5.5 model, expanding AI lineup before planned IPO - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbENadk1Lcm1iLUZOd0hYSmRZLWJHLTd0YjAwTExuMVozWW9McllnVWJuTHdPY3ZfRWJwVGdzMmpVaHhvODVVMkFMd0U0ejdyRjQxcEJMVzRqcTJqbWVaLXI5QnM1ckRSYmZVYjlBR2NqRTZaaW42QjFZMC00ZmxKOF9Fal9EODV2dEZnb1BPUDBlSFJrRDVtWkNLTWhacE04b3dyemlvckZTR3JmR0xONmxGb19hNU1tWFJMcVlJajNYUQ?oc=5\" target=\"_blank\">Anthropic launches third Claude 5.5 model, expanding AI lineup before planned IPO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbENadk1Lcm1iLUZOd0hYSmRZLWJHLTd0YjAwTExuMVozWW9McllnVWJuTHdPY3ZfRWJwVGdzMmpVaHhvODVVMkFMd0U0ejdyRjQxcEJMVzRqcTJqbWVaLXI5QnM1ckRSYmZVYjlBR2NqRTZaaW42QjFZMC00ZmxKOF9Fal9EODV2dEZnb1BPUDBlSFJrRDVtWkNLTWhacE04b3dyemlvckZTR3JmR0xONmxGb19hNU1tWFJMcVlJajNYUQ?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-10-07",
-          "views": "18.0K"
         }
       ]
     },
@@ -79,6 +79,14 @@
       "hashtag": "#활용사례",
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
+        {
+          "title": "Your AI agents can execute every tool call correctly and still break every enterprise rule - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNMWRyWVFWSWlQV1ZtUURtaURMbjlJUXFad05xaEVhOFdyTG9pV2wyY1VkOUxaYldrTURFX1BTYzlMQXV5eFh2ZjNNT1lMSVdRaGRQeUwyVU9YMHpVaTA2NFpPejVtWW5XdFItTEJMeUN5RlltbzVDQl9IcUhNZnd6aXptNjBNN3lwODZidTVHbExtRHFWVEFBZUhjblJCeTJKT2F6Nk1lV2g5eXZtaUZQUVVQaHh6bi1RX3F3SkVnTzkzVlhXdHRR?oc=5\" target=\"_blank\">Your AI agents can execute every tool call correctly and still break every enterprise rule</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMWRyWVFWSWlQV1ZtUURtaURMbjlJUXFad05xaEVhOFdyTG9pV2wyY1VkOUxaYldrTURFX1BTYzlMQXV5eFh2ZjNNT1lMSVdRaGRQeUwyVU9YMHpVaTA2NFpPejVtWW5XdFItTEJMeUN5RlltbzVDQl9IcUhNZnd6aXptNjBNN3lwODZidTVHbExtRHFWVEFBZUhjblJCeTJKT2F6Nk1lV2g5eXZtaUZQUVVQaHh6bi1RX3F3SkVnTzkzVlhXdHRR?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-10-11",
+          "views": "18.0K"
+        },
         {
           "title": "Share of enterprises trusting AI agents to make production changes falls from 75% to 56% in latest VB Intelligence survey - VentureBeat",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxQeFZYYjZUN0ktRXRBT1ZJMlhYVHVXMmR0NkM3Tnl1WUdQTHR5VHpSZUNiSFdjYjhBQWxDVzRBTkVhZjY5RkxXWjlpTnNwZUZ0WHZXZjhoeE9mZzhyZFFIUGVCMVZaVWk1S1BJcVJfMFJ1blRhTWM2RlR5UmR4MGtSaXdEYWhPUE5MZnRNMndhZUoxME4xVjdVM0lTRjluYktjNmt6ZlJ4bEJtYUt5Ykp2OWVmaEZKUWhFY2NWeDY5R1pCYkl1R3dtQmY3TmtkUWlKNGxyZFdzbDlmWWpfN1gtZDI3VDM5Tmp3TVExdGJ3MzJIMHh4Q05NWEtlOUI?oc=5\" target=\"_blank\">Share of enterprises trusting AI agents to make production changes falls from 75% to 56% in latest VB Intelligence survey</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
@@ -94,14 +102,6 @@
           "source": "MIT Technology Review (AI)",
           "publishedAt": "2026-10-05",
           "views": "18.0K"
-        },
-        {
-          "title": "AI agents can be unpredictable. Your control layer shouldn't be. - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQYVBMb093OXRMVVF5Y0pPU0RXaTJNVkFTNFRHejFUWHRQYl9hNjV5aVZHYm9vVm9vOGhoRkxxQzBPckVtd0c1aXNibkp4eE40SXNmeURPSzZaX05YOEg1S01ydDQtazFCVjAta0d4Y2xjT0lJNHdtMWVNMWxBZTlzUjViVGZBQVVFclFlZElKOFg1M1g2OEEya0lGYVEwb1Zy?oc=5\" target=\"_blank\">AI agents can be unpredictable. Your control layer shouldn't be.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYVBMb093OXRMVVF5Y0pPU0RXaTJNVkFTNFRHejFUWHRQYl9hNjV5aVZHYm9vVm9vOGhoRkxxQzBPckVtd0c1aXNibkp4eE40SXNmeURPSzZaX05YOEg1S01ydDQtazFCVjAta0d4Y2xjT0lJNHdtMWVNMWxBZTlzUjViVGZBQVVFclFlZElKOFg1M1g2OEEya0lGYVEwb1Zy?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-10-10",
-          "views": "13.0K"
         }
       ]
     },
@@ -111,6 +111,14 @@
       "description": "규제, 책임, 신뢰, 저작권 같은 문제를 보는 관점",
       "items": [
         {
+          "title": "FAA tells US airlines to exercise caution in Saudi Arabia flights, citing safety risks - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPZEo2X2hOdlFVcmxza3ZQRmsxQnJlQ3JHbTN3WGZLWGhYRllIS2lOR0hUYkJwQWtJbkJFUTFWUzdiS005ZkgxR2pDY0dqQnQweGZ3Qm1qMHN3aUhCVzZxSzlyTVltbGVudkFvc2xaZFRBSzRZaFJQUlRQZWp4UlVrckxzcW9QUWlMaDN1ZjZ0UklUc1dWTi1yTjB5eFJYX19zeWdJX3lfTmZFTUh5OGZwb0Z3NnVIY1cxOE0tR1RvSE1pLUhkXzdEYV9GZUQtdw?oc=5\" target=\"_blank\">FAA tells US airlines to exercise caution in Saudi Arabia flights, citing safety risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZEo2X2hOdlFVcmxza3ZQRmsxQnJlQ3JHbTN3WGZLWGhYRllIS2lOR0hUYkJwQWtJbkJFUTFWUzdiS005ZkgxR2pDY0dqQnQweGZ3Qm1qMHN3aUhCVzZxSzlyTVltbGVudkFvc2xaZFRBSzRZaFJQUlRQZWp4UlVrckxzcW9QUWlMaDN1ZjZ0UklUc1dWTi1yTjB5eFJYX19zeWdJX3lfTmZFTUh5OGZwb0Z3NnVIY1cxOE0tR1RvSE1pLUhkXzdEYV9GZUQtdw?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-10-11",
+          "views": "18.0K"
+        },
+        {
           "title": "Rupee risks more losses after post-RBI policy slide, higher oil adds to woes - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQVTBTaW5hMG1mek95cGFESEtOcV83R3BQTVZHVlFYQ05Ud0RqVkh6OEtGejFOM1FIYWdjV0F4T016bE5TNndwYll4QjdnVl8tdUUyUVJaMmZUc1dnSFJEZS1ULTFvU2w5Z1RGZFd3bnZ1NUg2T3ZNQlluWkhldE04YjhGLXdOR01aREJ4UGc4bVNIXzFGQmxxX0RlbEZRa2QzdlZHcGhzb0pCQXBQWGtWc1VROURtakFWQ3luWQ?oc=5\" target=\"_blank\">Rupee risks more losses after post-RBI policy slide, higher oil adds to woes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVTBTaW5hMG1mek95cGFESEtOcV83R3BQTVZHVlFYQ05Ud0RqVkh6OEtGejFOM1FIYWdjV0F4T016bE5TNndwYll4QjdnVl8tdUUyUVJaMmZUc1dnSFJEZS1ULTFvU2w5Z1RGZFd3bnZ1NUg2T3ZNQlluWkhldE04YjhGLXdOR01aREJ4UGc4bVNIXzFGQmxxX0RlbEZRa2QzdlZHcGhzb0pCQXBQWGtWc1VROURtakFWQ3luWQ?oc=5",
@@ -119,19 +127,11 @@
           "views": "18.0K"
         },
         {
-          "title": "China adds 10.52 million urban jobs in Jan-Sept, to roll out services jobs policy - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQR3JFWnhVRk5NYmtaUm5VVkExNlczY3pKdE9xVFVMVnpzNE9JbUo4OGdNbGoyaVJCa0hiTE5xSlR0aXNrLXZJR0wwM0hSX0l5YWZhYkpYRU9NaVVzaXQ1U0pPZzNsNDJILWk3a2dmcU9vMW1JdDhucF9rZExVRmhJUGZIdzNyOFkwOEgtem9pbFB0LWZEZXExRTlLRmtZZlNkaURMWHFyWUlKdzd5aWI3ODNkT3FVQ2VseVU5UnZrajllM3ZaNWVB?oc=5\" target=\"_blank\">China adds 10.52 million urban jobs in Jan-Sept, to roll out services jobs policy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQR3JFWnhVRk5NYmtaUm5VVkExNlczY3pKdE9xVFVMVnpzNE9JbUo4OGdNbGoyaVJCa0hiTE5xSlR0aXNrLXZJR0wwM0hSX0l5YWZhYkpYRU9NaVVzaXQ1U0pPZzNsNDJILWk3a2dmcU9vMW1JdDhucF9rZExVRmhJUGZIdzNyOFkwOEgtem9pbFB0LWZEZXExRTlLRmtZZlNkaURMWHFyWUlKdzd5aWI3ODNkT3FVQ2VseVU5UnZrajllM3ZaNWVB?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-10-10",
-          "views": "13.0K"
-        },
-        {
-          "title": "More cafes, PC rooms found violating food safety rules - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOZmQ1UGJpeFFIbTRHSDVqVHU2YXNPd1ZjNmV4QU5MaG1mb1pPT1RiLTVVR2ktdEVETmRvckV3U0JaQllVV1ZCd0l4S1lkbEcwQ29PY2twTVZwY1hIcHNINGZjVEtTSGYwV0lsUFZPcV9DdDQtbWhqZlBBb2pzalpEQ0ktbW5RMWVGcm9HalNxM2EySk9oeFVPR2lpMmdXMnJTTm04QkdJOVZFNDVydVZoOHZBVdIBswFBVV95cUxOZmQ1UGJpeFFIbTRHSDVqVHU2YXNPd1ZjNmV4QU5MaG1mb1pPT1RiLTVVR2ktdEVETmRvckV3U0JaQllVV1ZCd0l4S1lkbEcwQ29PY2twTVZwY1hIcHNINGZjVEtTSGYwV0lsUFZPcV9DdDQtbWhqZlBBb2pzalpEQ0ktbW5RMWVGcm9HalNxM2EySk9oeFVPR2lpMmdXMnJTTm04QkdJOVZFNDVydVZoOHZBVQ?oc=5\" target=\"_blank\">More cafes, PC rooms found violating food safety rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZmQ1UGJpeFFIbTRHSDVqVHU2YXNPd1ZjNmV4QU5MaG1mb1pPT1RiLTVVR2ktdEVETmRvckV3U0JaQllVV1ZCd0l4S1lkbEcwQ29PY2twTVZwY1hIcHNINGZjVEtTSGYwV0lsUFZPcV9DdDQtbWhqZlBBb2pzalpEQ0ktbW5RMWVGcm9HalNxM2EySk9oeFVPR2lpMmdXMnJTTm04QkdJOVZFNDVydVZoOHZBVdIBswFBVV95cUxOZmQ1UGJpeFFIbTRHSDVqVHU2YXNPd1ZjNmV4QU5MaG1mb1pPT1RiLTVVR2ktdEVETmRvckV3U0JaQllVV1ZCd0l4S1lkbEcwQ29PY2twTVZwY1hIcHNINGZjVEtTSGYwV0lsUFZPcV9DdDQtbWhqZlBBb2pzalpEQ0ktbW5RMWVGcm9HalNxM2EySk9oeFVPR2lpMmdXMnJTTm04QkdJOVZFNDVydVZoOHZBVQ?oc=5",
+          "title": "AI's risks are no reason for panic - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNME5ZalRhUjRESi01cDNKY2tVUlJSNEdqMjNvTFNGVE5iM2F5N1g0V0plMUlsRFZXU3REN2U1bm5TeVNEV1NycmxZcnBkXzVBMy1uNFI4QkFzY0Z2VkdXYkZyMUQ4WW9UdEQtTW5kNjlUMUJfSlBpdC1pMXlEVWo3Q3U2QThIeVVMc3Zr0gGLAUFVX3lxTE0wTllqVGFSNERKLTVwM0pja1VSUlI0R2oyM29MU0ZUTmIzYXk3WDRXSmUxSWxEVldTdEQ3ZTVublN5U0RXU3JybFlycGRfNUEzLW40UjhCQXNjRnZWR1diRnIxRDhZb1R0RC1NbmQ2OVQxQl9KUGl0LWkxeURVajdDdTZBOEh5VUxzdms?oc=5\" target=\"_blank\">AI's risks are no reason for panic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNME5ZalRhUjRESi01cDNKY2tVUlJSNEdqMjNvTFNGVE5iM2F5N1g0V0plMUlsRFZXU3REN2U1bm5TeVNEV1NycmxZcnBkXzVBMy1uNFI4QkFzY0Z2VkdXYkZyMUQ4WW9UdEQtTW5kNjlUMUJfSlBpdC1pMXlEVWo3Q3U2QThIeVVMc3Zr0gGLAUFVX3lxTE0wTllqVGFSNERKLTVwM0pja1VSUlI0R2oyM29MU0ZUTmIzYXk3WDRXSmUxSWxEVldTdEQ3ZTVublN5U0RXU3JybFlycGRfNUEzLW40UjhCQXNjRnZWR1diRnIxRDhZb1R0RC1NbmQ2OVQxQl9KUGl0LWkxeURVajdDdTZBOEh5VUxzdms?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-10-09",
+          "publishedAt": "2026-10-12",
           "views": "13.0K"
         }
       ]
@@ -158,11 +158,11 @@
           "views": "18.0K"
         },
         {
-          "title": "How This Tiny Startup Built the World’s Safest Bike Helmet - WIRED",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPUllfWGFGTUlhYkNKSnlYeHI1dWxQUjBvVlhMaHhRUnYzT1c0TXBMT3BMTHdRMlZldGJldHRYaU5HLUkwY0Q3VTNfRWtIUXZKQU1ldHhGYWJ6QkZheFpZc2tWX1NVTVhNdjAyVDlwN0FzU0xMc0I4Y18tS0NFa2tuSVd5dTNEcUhyenFZdjRNY004NGR3Ymhv?oc=5\" target=\"_blank\">How This Tiny Startup Built the World’s Safest Bike Helmet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUllfWGFGTUlhYkNKSnlYeHI1dWxQUjBvVlhMaHhRUnYzT1c0TXBMT3BMTHdRMlZldGJldHRYaU5HLUkwY0Q3VTNfRWtIUXZKQU1ldHhGYWJ6QkZheFpZc2tWX1NVTVhNdjAyVDlwN0FzU0xMc0I4Y18tS0NFa2tuSVd5dTNEcUhyenFZdjRNY004NGR3Ymhv?oc=5",
-          "source": "WIRED AI",
-          "publishedAt": "2026-10-10",
+          "title": "Air Premia captures 20% market share on LA route in 4th year of service - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOVjdzaGNYU3Jfbk5vSlRHU3M5V3VJUzZiUHpEQ3dsMjhReTkyaTlVeTkxNzYzbnFtNGhZZ0xuVC1vcnNpanpXQTY5cGFsUVRKN0tzOHJ6RndEck5XQ2ZnRGtSX0NmbWlYNHNfNGRFYUg2NG1HVFFxQ05iU2JIaG05UjZmYnByWnV5S3pnYVVmV3MtSlplMUV1bTZacEEyV2dwTFdLU0s3T2VOOVZUeDhlU1VmSGhQY1VGVHJ4NXFZZlBnLXVCUkHSAcsBQVVfeXFMTkYyN1dkVlpQejVBQUNVeWJ1UEZad1NLYWRmUVQwUE45NEhGQ0lJZDZnYmRpakZpWmVlWjlGRU92OWNEdXJoYWlEYUo1S0MzLXZMR3dRQThfbXl5eXUwQmFyWXZiR2l6a1hCVDVkNFNodHpJMGd6NmJ5Zl9KUDE5WXo2M0xib2EzT3c2TjJfSkZPNW9oTzVhZm56cjZpZlJmUEU4cTBFMk81WDNBUGNnMmVwVldtRkpFNWhLVVRYTjBBMkxuQkxISnNlQWM?oc=5\" target=\"_blank\">Air Premia captures 20% market share on LA route in 4th year of service</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVjdzaGNYU3Jfbk5vSlRHU3M5V3VJUzZiUHpEQ3dsMjhReTkyaTlVeTkxNzYzbnFtNGhZZ0xuVC1vcnNpanpXQTY5cGFsUVRKN0tzOHJ6RndEck5XQ2ZnRGtSX0NmbWlYNHNfNGRFYUg2NG1HVFFxQ05iU2JIaG05UjZmYnByWnV5S3pnYVVmV3MtSlplMUV1bTZacEEyV2dwTFdLU0s3T2VOOVZUeDhlU1VmSGhQY1VGVHJ4NXFZZlBnLXVCUkHSAcsBQVVfeXFMTkYyN1dkVlpQejVBQUNVeWJ1UEZad1NLYWRmUVQwUE45NEhGQ0lJZDZnYmRpakZpWmVlWjlGRU92OWNEdXJoYWlEYUo1S0MzLXZMR3dRQThfbXl5eXUwQmFyWXZiR2l6a1hCVDVkNFNodHpJMGd6NmJ5Zl9KUDE5WXo2M0xib2EzT3c2TjJfSkZPNW9oTzVhZm56cjZpZlJmUEU4cTBFMk81WDNBUGNnMmVwVldtRkpFNWhLVVRYTjBBMkxuQkxISnNlQWM?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-10-12",
           "views": "13.0K"
         }
       ]
@@ -173,6 +173,14 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
+          "title": "[COVER STORY] Korea's 2-track AI strategy casts uncertainty over sovereign model project - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUHl4Tjh1WHBZc09yUnN2V0Noaml2MUQxN05tWmRQWHlNTWQyMDBldXllODNXSXU3c05XbVFKX29ZR3N5dE85a3J5djJfc2Z3My1pSXZJUm5OXzVrNEprNm9oMWZLS0FCeGpPQ3U5N0trMFdXcFN1Q3RvUmJZa3NSZnRoX2wzUGlLclBVd0pueUN3V1lwcXRBQ3dzR1BLM00tSnBTbzNXWk8zazdoZ0ZnTFBBaVh6WnZBMk9LWE1LWkxQa0dEMnFwdk8xRC1DbmNVRjRZN25yYVV5dExkTFHSAeMBQVVfeXFMTVJSUkhGUzZsMHZ1S25nOF9nR1ZfNHkwcG9KcDExbGRpSzFsd1JieFlzaHA3UHFnR29ZMXllUUtTSGQ5NDlSeVo2WlZFNGdNTUNMMndTbFhDMHpkX3Q2bE5fMWE3NGNjLTJJYTBzX2xCbEI4TTJmSm1ETE9kV1dEQ1NTaUFRZ3FHUi15ZGtHelpuSm5heDRKZFM2SXU3U2xJVjV5d2NKYklmUWVyUzBnc2hzVUYwMmJheTVFQW1WaEpmaDdyWkpNMWo1Skp0NWdmdk9kZDZCeThSTDJ5ZkZZdnhOQkU?oc=5\" target=\"_blank\">[COVER STORY] Korea's 2-track AI strategy casts uncertainty over sovereign model project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUHl4Tjh1WHBZc09yUnN2V0Noaml2MUQxN05tWmRQWHlNTWQyMDBldXllODNXSXU3c05XbVFKX29ZR3N5dE85a3J5djJfc2Z3My1pSXZJUm5OXzVrNEprNm9oMWZLS0FCeGpPQ3U5N0trMFdXcFN1Q3RvUmJZa3NSZnRoX2wzUGlLclBVd0pueUN3V1lwcXRBQ3dzR1BLM00tSnBTbzNXWk8zazdoZ0ZnTFBBaVh6WnZBMk9LWE1LWkxQa0dEMnFwdk8xRC1DbmNVRjRZN25yYVV5dExkTFHSAeMBQVVfeXFMTVJSUkhGUzZsMHZ1S25nOF9nR1ZfNHkwcG9KcDExbGRpSzFsd1JieFlzaHA3UHFnR29ZMXllUUtTSGQ5NDlSeVo2WlZFNGdNTUNMMndTbFhDMHpkX3Q2bE5fMWE3NGNjLTJJYTBzX2xCbEI4TTJmSm1ETE9kV1dEQ1NTaUFRZ3FHUi15ZGtHelpuSm5heDRKZFM2SXU3U2xJVjV5d2NKYklmUWVyUzBnc2hzVUYwMmJheTVFQW1WaEpmaDdyWkpNMWo1Skp0NWdmdk9kZDZCeThSTDJ5ZkZZdnhOQkU?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-10-11",
+          "views": "13.0K"
+        },
+        {
           "title": "[CONTRIBUTION] US partnerships vital to Korea's tech industry - The Korea Times",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcHZUNl9rSXE1cjUzQjkxdGNOb3NCTUhFd1NDNVRjaC14SnZxTC03MjVqZEVQUS1rRk53MVg4Z0pBUTlsdkZGTUltaHVLTFpnYXRLYk9xNEx5ck9NUmJVWU9WcEptejdWekxGSHpOa2ZJTHRmV0pYOHNGaWpyNUJpb01NVFBGcnFLQ0VpTzJzRW5WNEVweTQyOGpiZXBOZkVXaWxLTlpRUHjSAa4BQVVfeXFMTjZCWGk2ZVFhb0pjTWlCNnlieDB4ejNxaEhycWM1SDlaMGFBcGNEWVAyZGZ5RzR0b1A5MjdrLXc0Wi10Zkx6UE5UdkwxOUZOeUlyMi1hZmM4bUo4b1YwXzg5YzhCNXpGX04xVHBsYW93UjZvTXVrQWVxenJtLUpoNTR2OVB2WVNBZWpSN3ljUWFVNWs1ZDFVQmFkT2pUeXNyb0pMQjFYTTMwZGtnWjJR?oc=5\" target=\"_blank\">[CONTRIBUTION] US partnerships vital to Korea's tech industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcHZUNl9rSXE1cjUzQjkxdGNOb3NCTUhFd1NDNVRjaC14SnZxTC03MjVqZEVQUS1rRk53MVg4Z0pBUTlsdkZGTUltaHVLTFpnYXRLYk9xNEx5ck9NUmJVWU9WcEptejdWekxGSHpOa2ZJTHRmV0pYOHNGaWpyNUJpb01NVFBGcnFLQ0VpTzJzRW5WNEVweTQyOGpiZXBOZkVXaWxLTlpRUHjSAa4BQVVfeXFMTjZCWGk2ZVFhb0pjTWlCNnlieDB4ejNxaEhycWM1SDlaMGFBcGNEWVAyZGZ5RzR0b1A5MjdrLXc0Wi10Zkx6UE5UdkwxOUZOeUlyMi1hZmM4bUo4b1YwXzg5YzhCNXpGX04xVHBsYW93UjZvTXVrQWVxenJtLUpoNTR2OVB2WVNBZWpSN3ljUWFVNWs1ZDFVQmFkT2pUeXNyb0pMQjFYTTMwZGtnWjJR?oc=5",
@@ -181,19 +189,11 @@
           "views": "13.0K"
         },
         {
-          "title": "The midterm strategy driving Democrats deep into Trump country - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNR0hjRV95NkY2QmI0Z2IzZXo3TU44NnpqMTFkZUlZbjhWTFJadUxGaGh1d1hpUXNIemRzMEEydGwzUE5XaWdtM2oyMWVBaGowYS1DXzBzdWZYVmgyTzBBM1RscVlsb01iNTBJd3RqR3J5bldvX0w4RXBWWFRNZUVhYnNKOHc2azhFUFlkX3FxMnRLUHhJZ0Rlb3UtX1dTOWo5amJGYU5R?oc=5\" target=\"_blank\">The midterm strategy driving Democrats deep into Trump country</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR0hjRV95NkY2QmI0Z2IzZXo3TU44NnpqMTFkZUlZbjhWTFJadUxGaGh1d1hpUXNIemRzMEEydGwzUE5XaWdtM2oyMWVBaGowYS1DXzBzdWZYVmgyTzBBM1RscVlsb01iNTBJd3RqR3J5bldvX0w4RXBWWFRNZUVhYnNKOHc2azhFUFlkX3FxMnRLUHhJZ0Rlb3UtX1dTOWo5amJGYU5R?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-10-10",
-          "views": "13.0K"
-        },
-        {
-          "title": "Industry ministry denies report of Lutnick's dissatisfaction with spy agency - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxONVZEUWlHV1ZfcjlzT0NZMl96VFJVTk0tU09YUUJBN0lNNm02UWdhZEJCNFEwa0ozTTY0Z0ZWWDg4d0lWcFd0YlZ6R1BLOXloUnJEM2k0WENVcFhFbjBPbnRCYUI0UUI1b0EydDBKSV8zTVFfaDBJdEVfb2lFSUMzWXUwdEVTYnMzZF94SjJWeHRZSFM3SzY5OUx3NDd3U1R6bW5oR0ZVYllpd0RqdjNTS1lxV095eEc4WDVEaTBac0FRMWs5S2ww0gHMAUFVX3lxTE1VZUlNalZ1dW11TGNiU1JZZEdQQTI2MWp2ZVkyd3pYZW5BMEdsbHFOTnBIdmJ5aHNzY1ZrdUM4RnRmdkhNT3RGanM1YTZVazRSSEROZjJZYXUtOF9XVWxIcG9Bb2Q4TUxEaEg5dW1xbUs3aDdoYVBwaDJ5RjB0am5XRmZOb0ZCOEJhdUNGeC03b0Fmd193ZkRvVHctSEFHMWM0ZzVjenBQLWhMOUstXy1CT2pvbGJIZEdtR0xKU2g0QUtUbHVFN0UwdENHbg?oc=5\" target=\"_blank\">Industry ministry denies report of Lutnick's dissatisfaction with spy agency</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONVZEUWlHV1ZfcjlzT0NZMl96VFJVTk0tU09YUUJBN0lNNm02UWdhZEJCNFEwa0ozTTY0Z0ZWWDg4d0lWcFd0YlZ6R1BLOXloUnJEM2k0WENVcFhFbjBPbnRCYUI0UUI1b0EydDBKSV8zTVFfaDBJdEVfb2lFSUMzWXUwdEVTYnMzZF94SjJWeHRZSFM3SzY5OUx3NDd3U1R6bW5oR0ZVYllpd0RqdjNTS1lxV095eEc4WDVEaTBac0FRMWs5S2ww0gHMAUFVX3lxTE1VZUlNalZ1dW11TGNiU1JZZEdQQTI2MWp2ZVkyd3pYZW5BMEdsbHFOTnBIdmJ5aHNzY1ZrdUM4RnRmdkhNT3RGanM1YTZVazRSSEROZjJZYXUtOF9XVWxIcG9Bb2Q4TUxEaEg5dW1xbUs3aDdoYVBwaDJ5RjB0am5XRmZOb0ZCOEJhdUNGeC03b0Fmd193ZkRvVHctSEFHMWM0ZzVjenBQLWhMOUstXy1CT2pvbGJIZEdtR0xKU2g0QUtUbHVFN0UwdENHbg?oc=5",
+          "title": "3 telecoms' Q3 profits to jump 84% to $1.04 bil. - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZTRLbFROOGVNMmVSWEd5YWhEdUxzaGNlNDRFZGhFTVRINUVnR09fWHBXdUtfY1p5bE1WMHJ2VExIMHY1UmNaREkxZ2g2Qm9DVjU3SHBtRTE3TzNFdUcwWTZkdDZSNjRLY0d1VGxxR2J3S1U3U2RLLXBCV1JZWG8xZi1GSHRJTWlnSUwwY1M1eFNTWVN0UlFmc1pOaHF0WkRNMFNYQ3JGUzRwbmfSAasBQVVfeXFMT2U0S2xUTjhlTTJlUlhHeWFoRHVMc2hjZTQ0RWRoRU1USDVFZ0dPX1hwV3VLX2NaeWxNVjBydlRMSDB2NVJjWkRJMWdoNkJvQ1Y1N0hwbUUxN08zRXVHMFk2ZHQ2UjY0S2NHdVRscUdid0tVN1NkSy1wQldSWVhvMWYtRkh0SU1pZ0lMMGNTNXhTU1lTdFJRZnNaTmhxdFpETTBTWENyRlM0cG5n?oc=5\" target=\"_blank\">3 telecoms' Q3 profits to jump 84% to $1.04 bil.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZTRLbFROOGVNMmVSWEd5YWhEdUxzaGNlNDRFZGhFTVRINUVnR09fWHBXdUtfY1p5bE1WMHJ2VExIMHY1UmNaREkxZ2g2Qm9DVjU3SHBtRTE3TzNFdUcwWTZkdDZSNjRLY0d1VGxxR2J3S1U3U2RLLXBCV1JZWG8xZi1GSHRJTWlnSUwwY1M1eFNTWVN0UlFmc1pOaHF0WkRNMFNYQ3JGUzRwbmfSAasBQVVfeXFMT2U0S2xUTjhlTTJlUlhHeWFoRHVMc2hjZTQ0RWRoRU1USDVFZ0dPX1hwV3VLX2NaeWxNVjBydlRMSDB2NVJjWkRJMWdoNkJvQ1Y1N0hwbUUxN08zRXVHMFk2ZHQ2UjY0S2NHdVRscUdid0tVN1NkSy1wQldSWVhvMWYtRkh0SU1pZ0lMMGNTNXhTU1lTdFJRZnNaTmhxdFpETTBTWENyRlM0cG5n?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-10-09",
+          "publishedAt": "2026-10-11",
           "views": "13.0K"
         }
       ]
