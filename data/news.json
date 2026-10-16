@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-15T04:32:49.059Z",
+  "lastUpdated": "2026-10-16T04:26:00.024Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,6 +49,14 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
+          "title": "NVIDIA's Nemotron 3.5 Super VL with post-training beats Claude Opus 5, GPT-6.1 Sol on specialized task benchmarks - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOLWRFblUzdUF1ejJTVzQwQ2s0WHhjalR3ZDY4UlBrQ0RMZ3FNRzhVRHRnb1VvM0hHaERyX0xGRURPN1o3VTFGSjhLcmJxV2l4Q01ublBqZjVEWncxQ0swdEVxdk5oX09rNWZrN1dVekZIRjRGbWhydklKVHNjbGFiUWdMMmxLay14MTQ5QnFrRUh5YWFRbVFvOWc5ZlVhekN3c0hLaVllajlSMDJSbkZwdERmMGV2ei14OUJCdV8yVzBMVHBOWWdTWlFINGlNeUZmN2FIXzZGYkttZTA0UEhBNE05VWxzQ1pVRjVF?oc=5\" target=\"_blank\">NVIDIA's Nemotron 3.5 Super VL with post-training beats Claude Opus 5, GPT-6.1 Sol on specialized task benchmarks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOLWRFblUzdUF1ejJTVzQwQ2s0WHhjalR3ZDY4UlBrQ0RMZ3FNRzhVRHRnb1VvM0hHaERyX0xGRURPN1o3VTFGSjhLcmJxV2l4Q01ublBqZjVEWncxQ0swdEVxdk5oX09rNWZrN1dVekZIRjRGbWhydklKVHNjbGFiUWdMMmxLay14MTQ5QnFrRUh5YWFRbVFvOWc5ZlVhekN3c0hLaVllajlSMDJSbkZwdERmMGV2ei14OUJCdV8yVzBMVHBOWWdTWlFINGlNeUZmN2FIXzZGYkttZTA0UEhBNE05VWxzQ1pVRjVF?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-10-15",
+          "views": "23.0K"
+        },
+        {
           "title": "Google launches flagship AI model Gemini 4 Argon for developers, businesses - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQclhsaXp4NUtqeVJDQTNIUjVXQVdJcnNXYnpYZUFTZm4wY3UxcTM1SzJvdzRBNE9HaURlNG1obzFGQ0o3R0pWNVJfNGFDOUdFZnhfdEJxSkszQ2hZQlowMjdCbVliRE9uX3A5ak1CYkJHOEV1elBYRWgtUHBwdF9lcWEyUGdjbmhQb2JONkpNeWhLTHgzQzRhRFRnZTEwcDRCa3k3RkpxY0c5Z1RsSlFCSmQwNmRmQQ?oc=5\" target=\"_blank\">Google launches flagship AI model Gemini 4 Argon for developers, businesses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQclhsaXp4NUtqeVJDQTNIUjVXQVdJcnNXYnpYZUFTZm4wY3UxcTM1SzJvdzRBNE9HaURlNG1obzFGQ0o3R0pWNVJfNGFDOUdFZnhfdEJxSkszQ2hZQlowMjdCbVliRE9uX3A5ak1CYkJHOEV1elBYRWgtUHBwdF9lcWEyUGdjbmhQb2JONkpNeWhLTHgzQzRhRFRnZTEwcDRCa3k3RkpxY0c5Z1RsSlFCSmQwNmRmQQ?oc=5",
@@ -62,14 +70,6 @@
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVjlsbFNoNHZvRm9oQlJNWTdyNHJYeFlLMUVpOHBEMkswdzQ5bjlrMlREN1VMZlBlSnJzTm1XQzlDb280amk4NzU0Ui0zZlBobG9aUEFwQnZZWHpPN1RCdTRqUHlfU290VmpZTHY0YkZ4V2NDakdqTThPMm5rMVZJT1ZBamZlWFFOLUYwb3VyVFM0cW5XZzZqcy1uQ0o3ekVoMFUw?oc=5",
           "source": "TechCrunch AI",
           "publishedAt": "2026-10-13",
-          "views": "18.0K"
-        },
-        {
-          "title": "Google Cloud unveils persistent Gemini Agents for long-running tasks, and they get their own Gmail, Calendar, and Drive storage - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNU0ZZSnZNWFdoU0p6bDNHb0R3Rk8xTGdSTUJfSjVlWTVhSmFQaWFocVVLTUFISlljVzVqTE9jazlBTVpiZENFWVFaWFdBYUpQME43blNrY2ljWGpJVi0xMVpMelRMck9Eb082d0dmZ2dva3NUV0hXNXJROUdSR0Roak1kTzFYVU5LQ1dhdk83NE1CeW9pWGV6MHFXbVBjTTM1N3VKUkpoc0dhVHA0R2FuaVVqU3JJX0lLMUxWdy1aTHJ6NFVDLWpycVh1WjFMXy1VRlI3dWRWSmFxUmRIelB5M0p5RndhWV9HRjFnZ2VOT1dfeXpK?oc=5\" target=\"_blank\">Google Cloud unveils persistent Gemini Agents for long-running tasks, and they get their own Gmail, Calendar, and Drive storage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNU0ZZSnZNWFdoU0p6bDNHb0R3Rk8xTGdSTUJfSjVlWTVhSmFQaWFocVVLTUFISlljVzVqTE9jazlBTVpiZENFWVFaWFdBYUpQME43blNrY2ljWGpJVi0xMVpMelRMck9Eb082d0dmZ2dva3NUV0hXNXJROUdSR0Roak1kTzFYVU5LQ1dhdk83NE1CeW9pWGV6MHFXbVBjTTM1N3VKUkpoc0dhVHA0R2FuaVVqU3JJX0lLMUxWdy1aTHJ6NFVDLWpycVh1WjFMXy1VRlI3dWRWSmFxUmRIelB5M0p5RndhWV9HRjFnZ2VOT1dfeXpK?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-10-08",
           "views": "18.0K"
         }
       ]
@@ -88,19 +88,19 @@
           "views": "18.0K"
         },
         {
-          "title": "Share of enterprises trusting AI agents to make production changes falls from 75% to 56% in latest VB Intelligence survey - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxQeFZYYjZUN0ktRXRBT1ZJMlhYVHVXMmR0NkM3Tnl1WUdQTHR5VHpSZUNiSFdjYjhBQWxDVzRBTkVhZjY5RkxXWjlpTnNwZUZ0WHZXZjhoeE9mZzhyZFFIUGVCMVZaVWk1S1BJcVJfMFJ1blRhTWM2RlR5UmR4MGtSaXdEYWhPUE5MZnRNMndhZUoxME4xVjdVM0lTRjluYktjNmt6ZlJ4bEJtYUt5Ykp2OWVmaEZKUWhFY2NWeDY5R1pCYkl1R3dtQmY3TmtkUWlKNGxyZFdzbDlmWWpfN1gtZDI3VDM5Tmp3TVExdGJ3MzJIMHh4Q05NWEtlOUI?oc=5\" target=\"_blank\">Share of enterprises trusting AI agents to make production changes falls from 75% to 56% in latest VB Intelligence survey</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQeFZYYjZUN0ktRXRBT1ZJMlhYVHVXMmR0NkM3Tnl1WUdQTHR5VHpSZUNiSFdjYjhBQWxDVzRBTkVhZjY5RkxXWjlpTnNwZUZ0WHZXZjhoeE9mZzhyZFFIUGVCMVZaVWk1S1BJcVJfMFJ1blRhTWM2RlR5UmR4MGtSaXdEYWhPUE5MZnRNMndhZUoxME4xVjdVM0lTRjluYktjNmt6ZlJ4bEJtYUt5Ykp2OWVmaEZKUWhFY2NWeDY5R1pCYkl1R3dtQmY3TmtkUWlKNGxyZFdzbDlmWWpfN1gtZDI3VDM5Tmp3TVExdGJ3MzJIMHh4Q05NWEtlOUI?oc=5",
+          "title": "VB Pulse Agentic Orchestration Report - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9uX0ZERU9SaU1EenlpSldrYmJNZ0piN0lFMUxlWExWNkwxTGctLTVZeExkZjB3VkstLVJfc1dSem1QUTRtR01iT0dtbHM4ZHZocS1Jc3VSWjc5NnZ3ODVNSmhPRlpCX0NTZEVsRWRR?oc=5\" target=\"_blank\">VB Pulse Agentic Orchestration Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uX0ZERU9SaU1EenlpSldrYmJNZ0piN0lFMUxlWExWNkwxTGctLTVZeExkZjB3VkstLVJfc1dSem1QUTRtR01iT0dtbHM4ZHZocS1Jc3VSWjc5NnZ3ODVNSmhPRlpCX0NTZEVsRWRR?oc=5",
           "source": "VentureBeat AI",
-          "publishedAt": "2026-10-08",
-          "views": "18.0K"
+          "publishedAt": "2026-10-16",
+          "views": "13.0K"
         },
         {
-          "title": "Harmonic Security Raises $50 Million Series B, Enabling Safe AI Adoption for Millions More Employees - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOeHBVcnBOWGlpUWZtYWpfeTJMV2xGQkh6bkNMQnZUcGctU0RDdlpUUTBIQ1JyYzl3cWtaYV9zLU5JN0xhOE1GcFVqb1BfRnJIYlZZVXNtN1cteGduTDJOOW0zX3I2WjBJZVQwYkt1SllQYkdvX1ZsVmtXeHdPYU9HYVYyRzZFQWR6VnUwbE5RTDlDU0R5WXprOGk3QXlDT0wtM19XeVBJM0J0NC1xVmhDcldqdHlPVXZ1bi02YlVPVDZiNUVzVkN6ckVvMA?oc=5\" target=\"_blank\">Harmonic Security Raises $50 Million Series B, Enabling Safe AI Adoption for Millions More Employees</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeHBVcnBOWGlpUWZtYWpfeTJMV2xGQkh6bkNMQnZUcGctU0RDdlpUUTBIQ1JyYzl3cWtaYV9zLU5JN0xhOE1GcFVqb1BfRnJIYlZZVXNtN1cteGduTDJOOW0zX3I2WjBJZVQwYkt1SllQYkdvX1ZsVmtXeHdPYU9HYVYyRzZFQWR6VnUwbE5RTDlDU0R5WXprOGk3QXlDT0wtM19XeVBJM0J0NC1xVmhDcldqdHlPVXZ1bi02YlVPVDZiNUVzVkN6ckVvMA?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-10-14",
+          "title": "Kolmar Introduces In-House AI Agents to Accelerate Companywide Transformation - ETNEWS",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rd2Q3cTZhTno4RVlHRmtnTFE3WkZxZDlBYWtVR3I4blZVbnpXVjhzWS1vUUNWbmd4c09KTUtaR3p0THJ2NzNEWWVmbFM?oc=5\" target=\"_blank\">Kolmar Introduces In-House AI Agents to Accelerate Companywide Transformation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rd2Q3cTZhTno4RVlHRmtnTFE3WkZxZDlBYWtVR3I4blZVbnpXVjhzWS1vUUNWbmd4c09KTUtaR3p0THJ2NzNEWWVmbFM?oc=5",
+          "source": "전자신문",
+          "publishedAt": "2026-10-15",
           "views": "13.0K"
         }
       ]
@@ -127,11 +127,11 @@
           "views": "18.0K"
         },
         {
-          "title": "[COVER STORY] Zelenskyy's disclosure of NK POW transfer raises risks for families: experts - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQlZFbzlfRUZwM3NlaklDQXJpOHdhdmFRM2JLUzFVQnlOejNNU0VDTzlUNXRtSnRJeS1yLU9vNkRpTF9OcWZiYnpiM0IxWEVsUjRNUVNBQ3E5TnAtbzZYQnB0NjFEaElMQ1JVNUd2Sks4eU5QN3pORDRxVjJzeDJ5MTRybDlVaktFZU5kSXg3RTdwWlZia3Z6ajYtZ2JNZlhpbjN4enktN0ZVVU83VklwaFF2OTk4T2VORXZBbFlnaGg4MDl3ZldaMkoySFEzVlB0N19tNFNlTDFVZ1lsa2FuUFJZQTHSAeoBQVVfeXFMT1cxRE1ZME5KMkJkbVMtUVZTUHMtRnRiQ09jU0VRVjhBNXdFbWhpODFHaDBHUEhkSXNnMTM2X0UzT3VIMHFzNy1xNXRleElhRlVHcmZhU21adFBYR094WlByaktNaEdDaFcwMnpueDVNRVBhUXVFSlB3YU9CTko0ampxQTR4WFowVDk3T2RMYnFXSGlOT0pndjZ6cjA4a0M5SlR6VEtLN0l2UGJaR1R6QzJndU8wYkQyc1VQSDkxNlExTHNyZmgza0xPd083RFM0RzJ1NFdlS2RwdkNGUWxPNXhlOXRIUWt3YklB?oc=5\" target=\"_blank\">[COVER STORY] Zelenskyy's disclosure of NK POW transfer raises risks for families: experts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQlZFbzlfRUZwM3NlaklDQXJpOHdhdmFRM2JLUzFVQnlOejNNU0VDTzlUNXRtSnRJeS1yLU9vNkRpTF9OcWZiYnpiM0IxWEVsUjRNUVNBQ3E5TnAtbzZYQnB0NjFEaElMQ1JVNUd2Sks4eU5QN3pORDRxVjJzeDJ5MTRybDlVaktFZU5kSXg3RTdwWlZia3Z6ajYtZ2JNZlhpbjN4enktN0ZVVU83VklwaFF2OTk4T2VORXZBbFlnaGg4MDl3ZldaMkoySFEzVlB0N19tNFNlTDFVZ1lsa2FuUFJZQTHSAeoBQVVfeXFMT1cxRE1ZME5KMkJkbVMtUVZTUHMtRnRiQ09jU0VRVjhBNXdFbWhpODFHaDBHUEhkSXNnMTM2X0UzT3VIMHFzNy1xNXRleElhRlVHcmZhU21adFBYR094WlByaktNaEdDaFcwMnpueDVNRVBhUXVFSlB3YU9CTko0ampxQTR4WFowVDk3T2RMYnFXSGlOT0pndjZ6cjA4a0M5SlR6VEtLN0l2UGJaR1R6QzJndU8wYkQyc1VQSDkxNlExTHNyZmgza0xPd083RFM0RzJ1NFdlS2RwdkNGUWxPNXhlOXRIUWt3YklB?oc=5",
+          "title": "[INTERVIEW] Korean startup targets 'legal AI music' via copyright tracking - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOSjZudjh3STR0VUV1YS1UU1gydi1PMy1NT2RBMS1tTXR4TzBGNnZwejZxOTByd0xqX01LbWp1SnAzRW5ueWhWaS1zeFBFalNnOXFBYnotUlRqZVZwVUl0RjhjVWtEQUU4cGFvQlM3ZElxdkxTNVVSbFJVRTdtSVhWUk1UNHFkYk5qSmZtVWJpNll0STJjWWJzWWd3NnZSelA4V2hEVmdteDFnRXg0M1d6R19RT1FKVWVfZmfSAb8BQVVfeXFMT1ZVZnQzUkx0VnNIWWlsd0JQeWphVEZQb2tXcDB0Y0ZtaTd4SnB3LVVycVB5aHppNTVncms0YWZvX2hZTTRRUkstRmtwWWkwQ3h3a0VDejFIM1I5SGlQN3gwVzRzYmI5VVdodlh2ODFyUjBqRS02Q0I5ay0tWm9fdHVPbXBma1FQSUM2Sncyd2FhVUg2NzMxYUhXbXhLS0VVNjhlTWl0Zkt1TkRLR0RNcWRFS3oyeGZNV3BCTlhBNEU?oc=5\" target=\"_blank\">[INTERVIEW] Korean startup targets 'legal AI music' via copyright tracking</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSjZudjh3STR0VUV1YS1UU1gydi1PMy1NT2RBMS1tTXR4TzBGNnZwejZxOTByd0xqX01LbWp1SnAzRW5ueWhWaS1zeFBFalNnOXFBYnotUlRqZVZwVUl0RjhjVWtEQUU4cGFvQlM3ZElxdkxTNVVSbFJVRTdtSVhWUk1UNHFkYk5qSmZtVWJpNll0STJjWWJzWWd3NnZSelA4V2hEVmdteDFnRXg0M1d6R19RT1FKVWVfZmfSAb8BQVVfeXFMT1ZVZnQzUkx0VnNIWWlsd0JQeWphVEZQb2tXcDB0Y0ZtaTd4SnB3LVVycVB5aHppNTVncms0YWZvX2hZTTRRUkstRmtwWWkwQ3h3a0VDejFIM1I5SGlQN3gwVzRzYmI5VVdodlh2ODFyUjBqRS02Q0I5ay0tWm9fdHVPbXBma1FQSUM2Sncyd2FhVUg2NzMxYUhXbXhLS0VVNjhlTWl0Zkt1TkRLR0RNcWRFS3oyeGZNV3BCTlhBNEU?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-10-14",
+          "publishedAt": "2026-10-16",
           "views": "13.0K"
         }
       ]
@@ -142,6 +142,14 @@
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
         {
+          "title": "Fintech startup Ramp hits $60 billion valuation after $1.85 billion funding round - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNeXdicGhYM2VPQ0ZaNGVMR3gtQ1dsbWdqVHk2TlBEX2FGdjVwWGQzalljVWQ3YjR3T0ktbEUzMGlJbnlycVhaRV9kSXNFWXMxLWU4OFAwRlM5WGZvY2NrTjBGTU9Pcl9GdEFPOHVRQjlNVDU4UGF2NXZZMmt4bHlLQWlRODhkRnlpYTdmeHkzYkZzVDRsWF82dkJvRUpVQVVzYkstNUVzMA?oc=5\" target=\"_blank\">Fintech startup Ramp hits $60 billion valuation after $1.85 billion funding round</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeXdicGhYM2VPQ0ZaNGVMR3gtQ1dsbWdqVHk2TlBEX2FGdjVwWGQzalljVWQ3YjR3T0ktbEUzMGlJbnlycVhaRV9kSXNFWXMxLWU4OFAwRlM5WGZvY2NrTjBGTU9Pcl9GdEFPOHVRQjlNVDU4UGF2NXZZMmt4bHlLQWlRODhkRnlpYTdmeHkzYkZzVDRsWF82dkJvRUpVQVVzYkstNUVzMA?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-10-15",
+          "views": "18.0K"
+        },
+        {
           "title": "Space startups secure record $20.8 billion funding as infrastructure bets surge, report shows - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPb3hwbGNIcVZMVVFNQlIzMFdpamdXN3diVWJoUTNfbkhJT05Od1RHT2t4eGN6OTktZHZIS1ZtMjR0YWU1Q0Z1WTJBa01vVGJyUVBiUnN4MER0bk92NDR6UFVfMF9xOG9RRUY4M2dwdUl4UWJZOGVXbmJvYUNrVmE4bXU0Y0hXOTJSaXJHX1R6XzNNRzN1cXBOY240ZkFFYjVnNmpuQzZBRVpkQTNMUnJDOGtFQUhpbU42RXFJYS1IeVVLaVNyWDcxc2NR?oc=5\" target=\"_blank\">Space startups secure record $20.8 billion funding as infrastructure bets surge, report shows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPb3hwbGNIcVZMVVFNQlIzMFdpamdXN3diVWJoUTNfbkhJT05Od1RHT2t4eGN6OTktZHZIS1ZtMjR0YWU1Q0Z1WTJBa01vVGJyUVBiUnN4MER0bk92NDR6UFVfMF9xOG9RRUY4M2dwdUl4UWJZOGVXbmJvYUNrVmE4bXU0Y0hXOTJSaXJHX1R6XzNNRzN1cXBOY240ZkFFYjVnNmpuQzZBRVpkQTNMUnJDOGtFQUhpbU42RXFJYS1IeVVLaVNyWDcxc2NR?oc=5",
@@ -151,17 +159,9 @@
         },
         {
           "title": "Seoul AI startup secures prized gateway to US market via New York program - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNYThQU1p0bjQ1VTVrYWw4Ynl0M3VXQ2xJSmZCbXNGWmdiN0t0RDNCRmtUa0JpQTVlRmpaalRYVWNwYXhnVjhRYUZPSnhJZDNSSEo5RVVrTjdyVVJrZWVuY1hYbXlQeGVObTA3SGl5Wkpyc2l0VkdncVFSLUVmV1BrS1pReVF5Mkx2Tk5GMGMyU3V5aThhX0ZneGhhTkExUkM2dlJ1bVdwVm9GeDBhTUhsQzMwWGNYQUVQU1FPM2hfMk80NWpUMEdONDRFbW1McHPSAc8BQVVfeXFMTWE4UFNadG40NVU1a2FsOGJ5dDN1V0NsSUpmQm1zRlpnYjdLdEQzQkZrVGtCaUE1ZUZqWmpUWFVjcGF4Z1Y4UWFGT0p4SWQzUkhKOUVVa043clVSa2VlbmNYWG15UHhlTm0wN0hpeVpKcnNpdFZHZ3FRUi1FZldQa0taUXlReTJMdk5ORjBjMlN1eWk4YV9GZ3hoYU5BMVJDNnZSdW1XcFZvRngwYU1IbEMzMFhjWEFFUFNRTzNoXzJPNDVqVDBHTjQ0RW1tTHBz?oc=5\" target=\"_blank\">Seoul AI startup secures prized gateway to US market via New York program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYThQU1p0bjQ1VTVrYWw4Ynl0M3VXQ2xJSmZCbXNGWmdiN0t0RDNCRmtUa0JpQTVlRmpaalRYVWNwYXhnVjhRYUZPSnhJZDNSSEo5RVVrTjdyVVJrZWVuY1hYbXlQeGVObTA3SGl5Wkpyc2l0VkdncVFSLUVmV1BrS1pReVF5Mkx2Tk5GMGMyU3V5aThhX0ZneGhhTkExUkM2dlJ1bVdwVm9GeDBhTUhsQzMwWGNYQUVQU1FPM2hfMk80NWpUMEdONDRFbW1McHPSAc8BQVVfeXFMTWE4UFNadG40NVU1a2FsOGJ5dDN1V0NsSUpmQm1zRlpnYjdLdEQzQkZrVGtCaUE1ZUZqWmpUWFVjcGF4Z1Y4UWFGT0p4SWQzUkhKOUVVa043clVSa2VlbmNYWG15UHhlTm0wN0hpeVpKcnNpdFZHZ3FRUi1FZldQa0taUXlReTJMdk5ORjBjMlN1eWk4YV9GZ3hoYU5BMVJDNnZSdW1XcFZvRngwYU1IbEMzMFhjWEFFUFNRTzNoXzJPNDVqVDBHTjQ0RW1tTHBz?oc=5",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQU01NMXpFbXhUTDhyUnFDd0xGRmhleHMyb2w3RU1CVEZGckR1UmlHbkZMcXdPZUw1LVotOC1UNDMtNFNMX3NnY1ZXYXQ3eldMTEFXNDBNWXZXN2lwMGlUOEV3VUVNYk9PdHZDREM0SmMxeEVRS1RaSDNNX1VTcW96U0JDSG13ejZURzhKdUpNN1hjb1VMQTJLb2s1R09TSENmVnI3bnY1anlGRzRnZVFVdm9jQ29JWGVoNmtKZWg2X0pzYktwYXhGdVNn0gHPAUFVX3lxTE1hOFBTWnRuNDVVNWthbDhieXQzdVdDbElKZkJtc0ZaZ2I3S3REM0JGa1RrQmlBNWVGalpqVFhVY3BheGdWOFFhRk9KeElkM1JISjlFVWtON3JVUmtlZW5jWFhteVB4ZU5tMDdIaXlaSnJzaXRWR2dxUVItRWZXUGtLWlF5UXkyTHZOTkYwYzJTdXlpOGFfRmd4aGFOQTFSQzZ2UnVtV3BWb0Z4MGFNSGxDMzBYY1hBRVBTUU8zaF8yTzQ1alQwR040NEVtbUxwcw?oc=5\" target=\"_blank\">Seoul AI startup secures prized gateway to US market via New York program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU01NMXpFbXhUTDhyUnFDd0xGRmhleHMyb2w3RU1CVEZGckR1UmlHbkZMcXdPZUw1LVotOC1UNDMtNFNMX3NnY1ZXYXQ3eldMTEFXNDBNWXZXN2lwMGlUOEV3VUVNYk9PdHZDREM0SmMxeEVRS1RaSDNNX1VTcW96U0JDSG13ejZURzhKdUpNN1hjb1VMQTJLb2s1R09TSENmVnI3bnY1anlGRzRnZVFVdm9jQ29JWGVoNmtKZWg2X0pzYktwYXhGdVNn0gHPAUFVX3lxTE1hOFBTWnRuNDVVNWthbDhieXQzdVdDbElKZkJtc0ZaZ2I3S3REM0JGa1RrQmlBNWVGalpqVFhVY3BheGdWOFFhRk9KeElkM1JISjlFVWtON3JVUmtlZW5jWFhteVB4ZU5tMDdIaXlaSnJzaXRWR2dxUVItRWZXUGtLWlF5UXkyTHZOTkYwYzJTdXlpOGFfRmd4aGFOQTFSQzZ2UnVtV3BWb0Z4MGFNSGxDMzBYY1hBRVBTUU8zaF8yTzQ1alQwR040NEVtbUxwcw?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-10-13",
-          "views": "18.0K"
-        },
-        {
-          "title": "IMF flags risks to global economy from AI market correction, war and debt - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOTXc4YzNuVFU1U2dtSjE1SG9xRUIxZTRtMU1xdXNodDkxMTRGaE9yQTJIVVVoeVJjdnFsbi0yeUJ6a09ZbGJ0Z3N5V1NiV1RGZlVDekptcUVqcTVtNGRsdDNpZkd1akEyN2hybUx5aFlXM05pZENOVFdfTXI3XzBxaGRMZ0NVcFFRVXZRbHlZYUNleHhiTTJ1UTN0dXJ6U0h2V3ZoWGdqOWp5SmdCMjFab1doZw?oc=5\" target=\"_blank\">IMF flags risks to global economy from AI market correction, war and debt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTXc4YzNuVFU1U2dtSjE1SG9xRUIxZTRtMU1xdXNodDkxMTRGaE9yQTJIVVVoeVJjdnFsbi0yeUJ6a09ZbGJ0Z3N5V1NiV1RGZlVDekptcUVqcTVtNGRsdDNpZkd1akEyN2hybUx5aFlXM05pZENOVFdfTXI3XzBxaGRMZ0NVcFFRVXZRbHlZYUNleHhiTTJ1UTN0dXJ6U0h2V3ZoWGdqOWp5SmdCMjFab1doZw?oc=5",
-          "source": "Reuters AI",
           "publishedAt": "2026-10-13",
           "views": "18.0K"
         }
@@ -173,27 +173,27 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
-          "title": "Fire at chemical company in Ulsan extinguished after thousands evacuate; no casualties reported - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPblRwazFCWXpUbi1pNVluOGN2NVpKblBSOXE1VS1IcE1iUWJ3ajhuM2RmQUswOXlweXRSOVJySUNDTjctejBNSlZrazdxbU1VblRkNEYwSTA2d0V6Q2NGSW5WVDVqdVhETTB4MXRDaU42c3RJaWYxMXo1UW5IbzdXWlVJX2RMWTYxUkNkMDg0UXhRRXhBV2ZJNHN4enpEYU04eDVJTUpLOHRHYnJnX2ZfcEFkSm5NVHNhbjI4aVd0RXJOTGdQZVhqb3U5cWctYUJYejZ0a29VRGpoTFFVaXdkYdIB4AFBVV95cUxPblRwazFCWXpUbi1pNVluOGN2NVpKblBSOXE1VS1IcE1iUWJ3ajhuM2RmQUswOXlweXRSOVJySUNDTjctejBNSlZrazdxbU1VblRkNEYwSTA2d0V6Q2NGSW5WVDVqdVhETTB4MXRDaU42c3RJaWYxMXo1UW5IbzdXWlVJX2RMWTYxUkNkMDg0UXhRRXhBV2ZJNHN4enpEYU04eDVJTUpLOHRHYnJnX2ZfcEFkSm5NVHNhbjI4aVd0RXJOTGdQZVhqb3U5cWctYUJYejZ0a29VRGpoTFFVaXdkYQ?oc=5\" target=\"_blank\">Fire at chemical company in Ulsan extinguished after thousands evacuate; no casualties reported</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPblRwazFCWXpUbi1pNVluOGN2NVpKblBSOXE1VS1IcE1iUWJ3ajhuM2RmQUswOXlweXRSOVJySUNDTjctejBNSlZrazdxbU1VblRkNEYwSTA2d0V6Q2NGSW5WVDVqdVhETTB4MXRDaU42c3RJaWYxMXo1UW5IbzdXWlVJX2RMWTYxUkNkMDg0UXhRRXhBV2ZJNHN4enpEYU04eDVJTUpLOHRHYnJnX2ZfcEFkSm5NVHNhbjI4aVd0RXJOTGdQZVhqb3U5cWctYUJYejZ0a29VRGpoTFFVaXdkYdIB4AFBVV95cUxPblRwazFCWXpUbi1pNVluOGN2NVpKblBSOXE1VS1IcE1iUWJ3ajhuM2RmQUswOXlweXRSOVJySUNDTjctejBNSlZrazdxbU1VblRkNEYwSTA2d0V6Q2NGSW5WVDVqdVhETTB4MXRDaU42c3RJaWYxMXo1UW5IbzdXWlVJX2RMWTYxUkNkMDg0UXhRRXhBV2ZJNHN4enpEYU04eDVJTUpLOHRHYnJnX2ZfcEFkSm5NVHNhbjI4aVd0RXJOTGdQZVhqb3U5cWctYUJYejZ0a29VRGpoTFFVaXdkYQ?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-10-14",
+          "title": "Kolmar Introduces In-House AI Agents to Accelerate Companywide Transformation - ETNEWS",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rd2Q3cTZhTno4RVlHRmtnTFE3WkZxZDlBYWtVR3I4blZVbnpXVjhzWS1vUUNWbmd4c09KTUtaR3p0THJ2NzNEWWVmbFM?oc=5\" target=\"_blank\">Kolmar Introduces In-House AI Agents to Accelerate Companywide Transformation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rd2Q3cTZhTno4RVlHRmtnTFE3WkZxZDlBYWtVR3I4blZVbnpXVjhzWS1vUUNWbmd4c09KTUtaR3p0THJ2NzNEWWVmbFM?oc=5",
+          "source": "전자신문",
+          "publishedAt": "2026-10-15",
           "views": "13.0K"
         },
         {
-          "title": "Fire breaks out at chemical company in Ulsan, forcing 7,000 workers nearby to evacuate - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb3RDdW5idzh2MEdrdnJLZ21fbFc0WHdsbUNIU25GN3NEWGVqUl9tcko2RHZmUXNxQURkSk9reWFSVXFEQkJUMXpvWkZXeC01VHZGbUJ2dllmRXE2ekVxemNuMGZUeG91RDdvejQ0cTBsYWptQ3I5cXVzTnB4S3N1MWZpU2JVUzJzNUcyMjlqZVpoTHN4U3VLYktKYUFnWURCeHBsQVFKYmNrRU5UNGY2QmZyZ3cyWi1oVnRGclJjMVZ6cGxvU21FcmY0QUdrQXAzR2xR0gHTAUFVX3lxTE5vdEN1bmJ3OHYwR2t2cktnbV9sVzRYd2xtQ0hTbkY3c0RYZWpSX21ySjZEdmZRc3FBRGRKT2t5YVJVcURCQlQxem9aRld4LTVUdkZtQnZ2WWZFcTZ6RXF6Y24wZlR4b3VEN296NDRxMGxham1DcjlxdXNOcHhLc3UxZmlTYlVTMnM1RzIyOWplWmhMc3hTdUtiS0phQWdZREJ4cGxBUUpiY2tFTlQ0ZjZCZnJndzJaLWhWdEZyUmMxVnpwbG9TbUVyZjRBR2tBcDNHbFE?oc=5\" target=\"_blank\">Fire breaks out at chemical company in Ulsan, forcing 7,000 workers nearby to evacuate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb3RDdW5idzh2MEdrdnJLZ21fbFc0WHdsbUNIU25GN3NEWGVqUl9tcko2RHZmUXNxQURkSk9reWFSVXFEQkJUMXpvWkZXeC01VHZGbUJ2dllmRXE2ekVxemNuMGZUeG91RDdvejQ0cTBsYWptQ3I5cXVzTnB4S3N1MWZpU2JVUzJzNUcyMjlqZVpoTHN4U3VLYktKYUFnWURCeHBsQVFKYmNrRU5UNGY2QmZyZ3cyWi1oVnRGclJjMVZ6cGxvU21FcmY0QUdrQXAzR2xR0gHTAUFVX3lxTE5vdEN1bmJ3OHYwR2t2cktnbV9sVzRYd2xtQ0hTbkY3c0RYZWpSX21ySjZEdmZRc3FBRGRKT2t5YVJVcURCQlQxem9aRld4LTVUdkZtQnZ2WWZFcTZ6RXF6Y24wZlR4b3VEN296NDRxMGxham1DcjlxdXNOcHhLc3UxZmlTYlVTMnM1RzIyOWplWmhMc3hTdUtiS0phQWdZREJ4cGxBUUpiY2tFTlQ0ZjZCZnJndzJaLWhWdEZyUmMxVnpwbG9TbUVyZjRBR2tBcDNHbFE?oc=5",
+          "title": "Iran-backed Houthis strike Saudi oil company Aramco's headquarters, officials say - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRXJ5SFNPcEdpU0gxSjY1aGdtQ2NBMWFWby1kdnZ4bEZMN1Bwc0ZVU1hRNlVDb1BWQ1AwV1A1ZnN0M0R2MzFHeVd6b2hjMGV1Q0IzN3dBZDhwbkhidWUwTHFhbXNJam1JMVotT1FwZHk5ci1ZVWtrTjFZdm5lQ1BsN1FzdHVIZGNTdlhJcmp0SlRfX2NnYzZYaGtYZUFBWEdNdFBObmtwX1JpT3JmR0JuQnNwZnBnVTBpaXd6ZEpDY2TSAcYBQVVfeXFMTm5fb1JfZ3k3bTlqR1lETGgxTG9uWmh3TWlpY3Nyc3ZGVWNZSjV6T2F2SW5oV1RFU1h4UFVaNmxIQk9JZ0lLYjRWTjk3TVA1ajBTSjRwVHJ2N3ltZVRRRWZHNU5TdzlQVnYySHZDN2o3VDZ0ekxtal9sOTVJVGs5MWtVZnZzbWk1NURLZzd3Q1dubGFXSEFvYkk1SFkwclBXb0tLYXV3RWF2M1hoaTY4dWp3UmNDb2pCUUhkQmwxbnJDTFNsOTVn?oc=5\" target=\"_blank\">Iran-backed Houthis strike Saudi oil company Aramco's headquarters, officials say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRXJ5SFNPcEdpU0gxSjY1aGdtQ2NBMWFWby1kdnZ4bEZMN1Bwc0ZVU1hRNlVDb1BWQ1AwV1A1ZnN0M0R2MzFHeVd6b2hjMGV1Q0IzN3dBZDhwbkhidWUwTHFhbXNJam1JMVotT1FwZHk5ci1ZVWtrTjFZdm5lQ1BsN1FzdHVIZGNTdlhJcmp0SlRfX2NnYzZYaGtYZUFBWEdNdFBObmtwX1JpT3JmR0JuQnNwZnBnVTBpaXd6ZEpDY2TSAcYBQVVfeXFMTm5fb1JfZ3k3bTlqR1lETGgxTG9uWmh3TWlpY3Nyc3ZGVWNZSjV6T2F2SW5oV1RFU1h4UFVaNmxIQk9JZ0lLYjRWTjk3TVA1ajBTSjRwVHJ2N3ltZVRRRWZHNU5TdzlQVnYySHZDN2o3VDZ0ekxtal9sOTVJVGs5MWtVZnZzbWk1NURLZzd3Q1dubGFXSEFvYkk1SFkwclBXb0tLYXV3RWF2M1hoaTY4dWp3UmNDb2pCUUhkQmwxbnJDTFNsOTVn?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-10-14",
+          "publishedAt": "2026-10-15",
           "views": "13.0K"
         },
         {
-          "title": "US company announces progress toward resurrecting the extinct dodo - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVXpTd2FjSWZKQWZXVEQ5ZFhnNTdIVnZxellBRW9jOVktaTgzaHh6ZzlLX3dldERXSjN2VzhTWUZuRVduRndNSHVYeGphemI4QkQxSHNBZGhUdExCd000dlNmV2hBQnlJcjRwTWpub0xuNzZKZVQ0Nm93VWhwSU05cGRuZFRodVlKYkctLTYtenYzbTNhVjlpUmpQSU9NSVY2bnB3NGdnMmdYUQ?oc=5\" target=\"_blank\">US company announces progress toward resurrecting the extinct dodo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVXpTd2FjSWZKQWZXVEQ5ZFhnNTdIVnZxellBRW9jOVktaTgzaHh6ZzlLX3dldERXSjN2VzhTWUZuRVduRndNSHVYeGphemI4QkQxSHNBZGhUdExCd000dlNmV2hBQnlJcjRwTWpub0xuNzZKZVQ0Nm93VWhwSU05cGRuZFRodVlKYkctLTYtenYzbTNhVjlpUmpQSU9NSVY2bnB3NGdnMmdYUQ?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-10-14",
+          "title": "FSC's relocation to Sejong stirs unease across financial industry - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOcEtxT0lwV24xb1Z2RkxDN3lsYjQ5ZXR1N3NqOUdEaDA1aUt6czFKUlN2NndpTGJyNzN0QzY5UmN6cEpMSjdDdlF1aWNnNExCbWllTmxVcWZPenY3S1l4RnZUUFcwZGY5aHA0NlpMdzFibFNfTlNXd25VOUpHeWlsNWJ0dVVrcDdjaVVuUzJ6ZVhhTWRjbWRPSGdKOXhfZ2c5Wm5nNU5ubm1KdjBPTjctaGZIR25wOXhWRU94d21NUng5MDFyS0HSAcsBQVVfeXFMT09zeVdyVk9KTER3UHFmRVVTV0JrWklieWZjaHJFVzlucWFlQS1nNklVcGE5NG5OMkYzVlNQMFd2UmlXN1Z5VGFxVGV1Nmk5R1ZOcHRmaVQ4am85ZWlOaG5OSU5WZ0hXT0NMZ3FjTUxEZ3FXekQ4RXVPcE4wWjVqWGVJbUxQTmk0X1FfdHliX196QU1tcjNfc25ldWFwMnZnT2Y5UDFnZ0w2SGM4RjVjNFJSejdNVDQwdXNfQVY0dTQ2SklNcXdXaEtUak0?oc=5\" target=\"_blank\">FSC's relocation to Sejong stirs unease across financial industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcEtxT0lwV24xb1Z2RkxDN3lsYjQ5ZXR1N3NqOUdEaDA1aUt6czFKUlN2NndpTGJyNzN0QzY5UmN6cEpMSjdDdlF1aWNnNExCbWllTmxVcWZPenY3S1l4RnZUUFcwZGY5aHA0NlpMdzFibFNfTlNXd25VOUpHeWlsNWJ0dVVrcDdjaVVuUzJ6ZVhhTWRjbWRPSGdKOXhfZ2c5Wm5nNU5ubm1KdjBPTjctaGZIR25wOXhWRU94d21NUng5MDFyS0HSAcsBQVVfeXFMT09zeVdyVk9KTER3UHFmRVVTV0JrWklieWZjaHJFVzlucWFlQS1nNklVcGE5NG5OMkYzVlNQMFd2UmlXN1Z5VGFxVGV1Nmk5R1ZOcHRmaVQ4am85ZWlOaG5OSU5WZ0hXT0NMZ3FjTUxEZ3FXekQ4RXVPcE4wWjVqWGVJbUxQTmk0X1FfdHliX196QU1tcjNfc25ldWFwMnZnT2Y5UDFnZ0w2SGM4RjVjNFJSejdNVDQwdXNfQVY0dTQ2SklNcXdXaEtUak0?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-10-15",
           "views": "13.0K"
         }
       ]
