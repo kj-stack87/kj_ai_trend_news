@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T04:43:57.516Z",
+  "lastUpdated": "2026-10-21T04:40:41.618Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -80,6 +80,14 @@
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
         {
+          "title": "Meta's AI spending, Muse assistant adoption in focus for quarterly results - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQTTZ4aW9rZHRKVUxlbEJ0M256bENvTG9sV3FFQUNqbTYtdk1kaHM0MHM3UEpDRHdYQ0FlcHQ0UUV4ZUc5Tllod0pqaXpGSE0zUmRDbm1SNm9sM1VaV1FGSDI3YVVDdXJnRXpPVXNQdi02V3ByOUgzQW9iZW11a2M4azBxam5mR2UzWjllVXg5SDNzZkdDRU56M01mZGp2VEItQ2trbnVWUGxfcUZMcThz?oc=5\" target=\"_blank\">Meta's AI spending, Muse assistant adoption in focus for quarterly results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTTZ4aW9rZHRKVUxlbEJ0M256bENvTG9sV3FFQUNqbTYtdk1kaHM0MHM3UEpDRHdYQ0FlcHQ0UUV4ZUc5Tllod0pqaXpGSE0zUmRDbm1SNm9sM1VaV1FGSDI3YVVDdXJnRXpPVXNQdi02V3ByOUgzQW9iZW11a2M4azBxam5mR2UzWjllVXg5SDNzZkdDRU56M01mZGp2VEItQ2trbnVWUGxfcUZMcThz?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-10-20",
+          "views": "18.0K"
+        },
+        {
           "title": "Nvidia launches new open models to run agents in the enterprise and on PCs - TechCrunch",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPNThVa0RMWlZyclBfYi0xMXlIYzJ6TElVcW5sakprLW16Ujk3WGVUVC0zMi1CSVJpektNazlpRnYzdDQyaDB3UTFGdThEUEtkSVk4b3F6LTNlcjdNU0RqMkZkNmZRdWxuZzVpY0hteHAzLW5nUHQ0cU54bGptVUkyekh4RWxUbzA2N2VXWk1IQ2pVeGpBbWc0SjFmQzR3YWFHLWFGSFp1YllsTUVwOHc?oc=5\" target=\"_blank\">Nvidia launches new open models to run agents in the enterprise and on PCs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNThVa0RMWlZyclBfYi0xMXlIYzJ6TElVcW5sakprLW16Ujk3WGVUVC0zMi1CSVJpektNazlpRnYzdDQyaDB3UTFGdThEUEtkSVk4b3F6LTNlcjdNU0RqMkZkNmZRdWxuZzVpY0hteHAzLW5nUHQ0cU54bGptVUkyekh4RWxUbzA2N2VXWk1IQ2pVeGpBbWc0SjFmQzR3YWFHLWFGSFp1YllsTUVwOHc?oc=5",
@@ -88,19 +96,11 @@
           "views": "18.0K"
         },
         {
-          "title": "VB Pulse Agentic Orchestration Report - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9uX0ZERU9SaU1EenlpSldrYmJNZ0piN0lFMUxlWExWNkwxTGctLTVZeExkZjB3VkstLVJfc1dSem1QUTRtR01iT0dtbHM4ZHZocS1Jc3VSWjc5NnZ3ODVNSmhPRlpCX0NTZEVsRWRR?oc=5\" target=\"_blank\">VB Pulse Agentic Orchestration Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uX0ZERU9SaU1EenlpSldrYmJNZ0piN0lFMUxlWExWNkwxTGctLTVZeExkZjB3VkstLVJfc1dSem1QUTRtR01iT0dtbHM4ZHZocS1Jc3VSWjc5NnZ3ODVNSmhPRlpCX0NTZEVsRWRR?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-10-20",
-          "views": "13.0K"
-        },
-        {
-          "title": "Making the internet better for AI agents might make it worse for everyone else - MIT Technology Review",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOc2pHeHVVaUtKcllLU2JTQi1hVVNNUzhFX2xrR0F2RXo4Wl96SVZhWEkwRWFwWDlITGpWWDJWV3h1MnV1M0NrbjZ4elM3NmZabzUyWXpsS3lmalNvUFJEM1k4YWJObmp5OTVSdjM4emhmUktKZFJ6dTNjUzNPN3h0VFVWd0NxdUJmR3B5VFk0V0hLbkltRlpkNWpVRTRGd0tkT0JGdDY2VWpTS1h4TFIwY29sNmZ5NW1qTzhnMzBKMlNITjNmLWhCV2xQMNIB0AFBVV95cUxNTEFJTnA0SnRfUVBURWE3TjBrR0tnTjh3azJTSl9ONG9zUklLdU1NbTBJT3lNTFVFU3ROLUFuNS1mQnNjMWZOYjRDdTBKblkyUzc0V0xkTmh2M05iMTRFMXR6WEZLRXJIcUtvZFF4bktOeG40TkpUWnA2VEF3TkljeUJBSGpuNEllSjlpTXRMWGNFb3FOaHhGYnItZnBiTEM3U2JsQWRPNVpiU19sSFNNMkM3Mm5rR0ZVUDNyemVPeFJLQ0hDQXJIdGZiUnh0c0tR?oc=5\" target=\"_blank\">Making the internet better for AI agents might make it worse for everyone else</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MIT Technology Review</font>",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc2pHeHVVaUtKcllLU2JTQi1hVVNNUzhFX2xrR0F2RXo4Wl96SVZhWEkwRWFwWDlITGpWWDJWV3h1MnV1M0NrbjZ4elM3NmZabzUyWXpsS3lmalNvUFJEM1k4YWJObmp5OTVSdjM4emhmUktKZFJ6dTNjUzNPN3h0VFVWd0NxdUJmR3B5VFk0V0hLbkltRlpkNWpVRTRGd0tkT0JGdDY2VWpTS1h4TFIwY29sNmZ5NW1qTzhnMzBKMlNITjNmLWhCV2xQMNIB0AFBVV95cUxNTEFJTnA0SnRfUVBURWE3TjBrR0tnTjh3azJTSl9ONG9zUklLdU1NbTBJT3lNTFVFU3ROLUFuNS1mQnNjMWZOYjRDdTBKblkyUzc0V0xkTmh2M05iMTRFMXR6WEZLRXJIcUtvZFF4bktOeG40TkpUWnA2VEF3TkljeUJBSGpuNEllSjlpTXRMWGNFb3FOaHhGYnItZnBiTEM3U2JsQWRPNVpiU19sSFNNMkM3Mm5rR0ZVUDNyemVPeFJLQ0hDQXJIdGZiUnh0c0tR?oc=5",
-          "source": "MIT Technology Review (AI)",
-          "publishedAt": "2026-10-19",
+          "title": "OpenAI says its AI agents weakened internal monitoring system - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQM2hxMmVsMXJ3Qzg3cDFjTWc4d2s1eTlxMUpUd3FtZVhzX3p6UEJyaGFfdF9pazEzeXJmRVFoRnMxaWZMTThxaUMzLTdOejlXc1dmZl9LVE1PMTZqWW9YdmxTM1FfYlJxXzBrWlFmZ1lQRjFmUjFEQzJJZW1OMG1oeUl5T3FIRlBsTU5KanZ4b3lFeVh3dDFqb3NJU1hlcWw0VUk1bVM3YVdyc0paOXd2OHpEQXQ?oc=5\" target=\"_blank\">OpenAI says its AI agents weakened internal monitoring system</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM2hxMmVsMXJ3Qzg3cDFjTWc4d2s1eTlxMUpUd3FtZVhzX3p6UEJyaGFfdF9pazEzeXJmRVFoRnMxaWZMTThxaUMzLTdOejlXc1dmZl9LVE1PMTZqWW9YdmxTM1FfYlJxXzBrWlFmZ1lQRjFmUjFEQzJJZW1OMG1oeUl5T3FIRlBsTU5KanZ4b3lFeVh3dDFqb3NJU1hlcWw0VUk1bVM3YVdyc0paOXd2OHpEQXQ?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-10-21",
           "views": "13.0K"
         }
       ]
@@ -112,8 +112,8 @@
       "items": [
         {
           "title": "Key gov't-led DMZ projects remain stalled as UNC denies clearance over safety risks - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPb05MaWhIWVJjU3RzRkR1WWk2ODhxekEzemdnMUQyNWdjX2tIREdQUkF5WHhoV28yemlzanB5ZUlnQWtaajI2LUc5dTE4eHlNdHM2WlYxeVkzVDFCOXd6MmNNcDBPYnpNZUFGNDVyejEza0ZuRDZ0aTdwakNOekwtbFRSXzBzSXctbllnTzhzUnVPSnV3X0ctaGZXVFlfMkhIelFwa3ZGTjd0WmVqS1gzTXVPZmFESkhPOEYxUW5uNXFtSnN2U3RSUW5fRHZwV1JwNmh0Z3ZsdGJhckhuUkVZ0gHkAUFVX3lxTFBDVWVLZ0gyd0wyU1lfbjJiRWdEbjN3OF8xS0VYRXNhS1VuQl9VV0lCMEo5eTh5NmRjbjNCQTRTNy1DNDEzUXVKSU1kZkxEZnpsV2t4Ym1zWGIzWENSd1Boa1hMb0FYeHZzejFfT0FhTjhodi1UWU5ZbXN6aHRLVUc0WFR6UW9wekwtc082anZrLTZpZjhvdnZHaXlRemI1c1paLXJNVHlIRktnTUJnb2pCczB4UWliR1duMFZQV0VyNmRnejBNSXZQQXdvTWszMDVIUU9SRERPTFhwd25yWGN6cFRfUA?oc=5\" target=\"_blank\">Key gov't-led DMZ projects remain stalled as UNC denies clearance over safety risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPb05MaWhIWVJjU3RzRkR1WWk2ODhxekEzemdnMUQyNWdjX2tIREdQUkF5WHhoV28yemlzanB5ZUlnQWtaajI2LUc5dTE4eHlNdHM2WlYxeVkzVDFCOXd6MmNNcDBPYnpNZUFGNDVyejEza0ZuRDZ0aTdwakNOekwtbFRSXzBzSXctbllnTzhzUnVPSnV3X0ctaGZXVFlfMkhIelFwa3ZGTjd0WmVqS1gzTXVPZmFESkhPOEYxUW5uNXFtSnN2U3RSUW5fRHZwV1JwNmh0Z3ZsdGJhckhuUkVZ0gHkAUFVX3lxTFBDVWVLZ0gyd0wyU1lfbjJiRWdEbjN3OF8xS0VYRXNhS1VuQl9VV0lCMEo5eTh5NmRjbjNCQTRTNy1DNDEzUXVKSU1kZkxEZnpsV2t4Ym1zWGIzWENSd1Boa1hMb0FYeHZzejFfT0FhTjhodi1UWU5ZbXN6aHRLVUc0WFR6UW9wekwtc082anZrLTZpZjhvdnZHaXlRemI1c1paLXJNVHlIRktnTUJnb2pCczB4UWliR1duMFZQV0VyNmRnejBNSXZQQXdvTWszMDVIUU9SRERPTFhwd25yWGN6cFRfUA?oc=5",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPb05MaWhIWVJjU3RzRkR1WWk2ODhxekEzemdnMUQyNWdjX2tIREdQUkF5WHhoV28yemlzanB5ZUlnQWtaajI2LUc5dTE4eHlNdHM2WlYxeVkzVDFCOXd6MmNNcDBPYnpNZUFGNDVyejEza0ZuRDZ0aTdwakNOekwtbFRSXzBzSXctbllnTzhzUnVPSnV3X0ctaGZXVFlfMkhIelFwa3ZGTjd0WmVqS1gzTXVPZmFESkhPOEYxUW5uNXFtSnN2U3RSUW5fRHZwV1JwNmh0Z3ZsdGJhckhuUkVZ?oc=5\" target=\"_blank\">Key gov't-led DMZ projects remain stalled as UNC denies clearance over safety risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPb05MaWhIWVJjU3RzRkR1WWk2ODhxekEzemdnMUQyNWdjX2tIREdQUkF5WHhoV28yemlzanB5ZUlnQWtaajI2LUc5dTE4eHlNdHM2WlYxeVkzVDFCOXd6MmNNcDBPYnpNZUFGNDVyejEza0ZuRDZ0aTdwakNOekwtbFRSXzBzSXctbllnTzhzUnVPSnV3X0ctaGZXVFlfMkhIelFwa3ZGTjd0WmVqS1gzTXVPZmFESkhPOEYxUW5uNXFtSnN2U3RSUW5fRHZwV1JwNmh0Z3ZsdGJhckhuUkVZ?oc=5",
           "source": "The Korea Times",
           "publishedAt": "2026-10-20",
           "views": "18.0K"
@@ -127,11 +127,11 @@
           "views": "18.0K"
         },
         {
-          "title": "N. Korea's Kim tours light industry expo, touts regional policy achievements - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOa3I1ZllLdEkwQmFLbkFDaXdfSjVTNU1pMXpwR2ttazN3X25yNHJNTS1PM3ZIVUtrMzgyTzg3bHAwSEl4MHRvdC1hT2xraVVNV3Q0VUZvdmNNSjhqVVd6MlQ5Z1JQMndvRFdzYV9lS2lrRF9hR1ZFcVhTeWh4YlB1UkNMaV9FV3VpVWZVemZJRXNfRHotLUxQX2lfcjVQNnh2OWJsN3hwYjM0TFZLRm0ycUg0aXRzNDItS0hFOHgzU3BObFV5bzRTMmZNR05mV3FTX3lJ0gHYAUFVX3lxTE5MbEN0QjBuVnl5Rk5OVFh5TnRkREdJRVcxU3NVd2tFLWtqenpFOHFhSlhfYWcxcFowdFNpS0hBdmUtVEkxSGZGUmVWai1RcFA4RnI5eVNKUGF2aHZROGpHV19vR3FsWDYwdmFRVWJYbjJ3TUNrQUJUbkJTLUZ0UnRMNmg0ZnM2OWtSdjBva3RvY18tRVpHNWk0ZThJYkhWSExJcmN0VkhfVzZ6ZVktWTJmTmxLcG5SNFdOZXR2VWlhOHpzVDJPQThUNF9nMmhQVXhpZFhMTW1XbQ?oc=5\" target=\"_blank\">N. Korea's Kim tours light industry expo, touts regional policy achievements</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOa3I1ZllLdEkwQmFLbkFDaXdfSjVTNU1pMXpwR2ttazN3X25yNHJNTS1PM3ZIVUtrMzgyTzg3bHAwSEl4MHRvdC1hT2xraVVNV3Q0VUZvdmNNSjhqVVd6MlQ5Z1JQMndvRFdzYV9lS2lrRF9hR1ZFcVhTeWh4YlB1UkNMaV9FV3VpVWZVemZJRXNfRHotLUxQX2lfcjVQNnh2OWJsN3hwYjM0TFZLRm0ycUg0aXRzNDItS0hFOHgzU3BObFV5bzRTMmZNR05mV3FTX3lJ0gHYAUFVX3lxTE5MbEN0QjBuVnl5Rk5OVFh5TnRkREdJRVcxU3NVd2tFLWtqenpFOHFhSlhfYWcxcFowdFNpS0hBdmUtVEkxSGZGUmVWai1RcFA4RnI5eVNKUGF2aHZROGpHV19vR3FsWDYwdmFRVWJYbjJ3TUNrQUJUbkJTLUZ0UnRMNmg0ZnM2OWtSdjBva3RvY18tRVpHNWk0ZThJYkhWSExJcmN0VkhfVzZ6ZVktWTJmTmxLcG5SNFdOZXR2VWlhOHpzVDJPQThUNF9nMmhQVXhpZFhMTW1XbQ?oc=5",
+          "title": "Nuclear weapons law and Korean's conundrum - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOMG5kMUQ0dXFrWnVOVlBlejJBN2h2VFVoVUNWMGFpaXJxMmc3X1hjSzZkSmV3M1B4WUhNdWpvMXNMazFvQ3BUc2htUFp3enNHNEVxek5Ld2d1NE03LTVYc2dRaGRFWFdzZ0dBa28wZ2hTbDZVNHZZV3hnVjZfUFpKdXhMQl9NSG1tU0IxcFZHNVMwSjFBa3fSAZYBQVVfeXFMTjBuZDFENHVxa1p1TlZQZXoyQTdodlRVaFVDVjBhaWlycTJnN19YY0s2ZEpldzNQeFlITXVqbzFzTGsxb0NwVHNobVBad3pzRzRFcXpOS3dndTRNNy01WHNnUWhkRVhXc2dHQWtvMGdoU2w2VTR2WVd4Z1Y2X1BaSnV4TEJfTUhtbVNCMXBWRzVTMEoxQWt3?oc=5\" target=\"_blank\">Nuclear weapons law and Korean's conundrum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMG5kMUQ0dXFrWnVOVlBlejJBN2h2VFVoVUNWMGFpaXJxMmc3X1hjSzZkSmV3M1B4WUhNdWpvMXNMazFvQ3BUc2htUFp3enNHNEVxek5Ld2d1NE03LTVYc2dRaGRFWFdzZ0dBa28wZ2hTbDZVNHZZV3hnVjZfUFpKdXhMQl9NSG1tU0IxcFZHNVMwSjFBa3fSAZYBQVVfeXFMTjBuZDFENHVxa1p1TlZQZXoyQTdodlRVaFVDVjBhaWlycTJnN19YY0s2ZEpldzNQeFlITXVqbzFzTGsxb0NwVHNobVBad3pzRzRFcXpOS3dndTRNNy01WHNnUWhkRVhXc2dHQWtvMGdoU2w2VTR2WVd4Z1Y2X1BaSnV4TEJfTUhtbVNCMXBWRzVTMEoxQWt3?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-10-20",
+          "publishedAt": "2026-10-21",
           "views": "13.0K"
         }
       ]
@@ -142,27 +142,27 @@
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
         {
+          "title": "AI startup ASI valued at $3 billion in latest funding round - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNWjR1SjBuOXZkbzFpSXdTZHpVc0R5bVhDZlJGNWNEVkZOX3RCeDhSSEg4UkJUWlg0ZWkxNFhIb0VfdExYQWpRblJKSnZaY28tdDEtcU9wSk9xcy1CWTYxal9YRXRqV29FcTdFTlNPLVdpdGJ6VEFOX3Bfb1hGb0J0MUtUVE5LMm1hZ2RWQmdsOUJzTlVuYllaNWs1aE91QQ?oc=5\" target=\"_blank\">AI startup ASI valued at $3 billion in latest funding round</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWjR1SjBuOXZkbzFpSXdTZHpVc0R5bVhDZlJGNWNEVkZOX3RCeDhSSEg4UkJUWlg0ZWkxNFhIb0VfdExYQWpRblJKSnZaY28tdDEtcU9wSk9xcy1CWTYxal9YRXRqV29FcTdFTlNPLVdpdGJ6VEFOX3Bfb1hGb0J0MUtUVE5LMm1hZ2RWQmdsOUJzTlVuYllaNWs1aE91QQ?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-10-20",
+          "views": "18.0K"
+        },
+        {
+          "title": "UK jobs market shows some recovery signs as BoE mulls rate hike - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNUmZlU01BMnM1M2hmTVcybjZ5RkZFdWRLcnU1cllLaTN4Z0hwRHZnVTdJeEFRQ1hOSFZJb2N0VGpCY0tKVHNlVUZXSERMS2hCcnVuRFhKU1o4SDZsYVpGUFJtQlFLYktRUzFocFBUQVFEVFFSd0JiR2pyZFZvNXU1TTN6RGNfa3RMNEljRlNxVFV6alZOb2lPTUI2UkZYV2pPNmc?oc=5\" target=\"_blank\">UK jobs market shows some recovery signs as BoE mulls rate hike</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUmZlU01BMnM1M2hmTVcybjZ5RkZFdWRLcnU1cllLaTN4Z0hwRHZnVTdJeEFRQ1hOSFZJb2N0VGpCY0tKVHNlVUZXSERMS2hCcnVuRFhKU1o4SDZsYVpGUFJtQlFLYktRUzFocFBUQVFEVFFSd0JiR2pyZFZvNXU1TTN6RGNfa3RMNEljRlNxVFV6alZOb2lPTUI2UkZYV2pPNmc?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-10-20",
+          "views": "18.0K"
+        },
+        {
           "title": "AI chip startup Tenstorrent more than doubles its valuation to $6.2 billion in funding round - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZEZuZHdVV1dZN3BpaFczenc4QkhZYjdjblNqRHd5UnllS3otOS04MUtCYjJtejZYbENlaE9nUFljbmdJN1RDaEdxZkxpSlhoMlMxdFhYWmdGaW4xejVjZ2hwS0U3b2lJNUJRUVRvak51Mzk4N3B0M3duMGQydWtYNHUwMG43d2hNS21mYV9jcXRQSjdRRFRXZkZPdVRmaUV1dlE4cEhQN18xcE9Yb1ZnTkF6Y3g4OU9waG1yV0dvOHBnM0lldTczYjgzVmdtTEd1UGxVNVdGYVhfNVpR?oc=5\" target=\"_blank\">AI chip startup Tenstorrent more than doubles its valuation to $6.2 billion in funding round</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZEZuZHdVV1dZN3BpaFczenc4QkhZYjdjblNqRHd5UnllS3otOS04MUtCYjJtejZYbENlaE9nUFljbmdJN1RDaEdxZkxpSlhoMlMxdFhYWmdGaW4xejVjZ2hwS0U3b2lJNUJRUVRvak51Mzk4N3B0M3duMGQydWtYNHUwMG43d2hNS21mYV9jcXRQSjdRRFRXZkZPdVRmaUV1dlE4cEhQN18xcE9Yb1ZnTkF6Y3g4OU9waG1yV0dvOHBnM0lldTczYjgzVmdtTEd1UGxVNVdGYVhfNVpR?oc=5",
           "source": "Reuters AI",
           "publishedAt": "2026-10-19",
-          "views": "18.0K"
-        },
-        {
-          "title": "US envoy highlights role of S. Korean investment in creating American jobs - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOQjRQQWl6WUNNNEtSdkFXa1FMZGFUYWcwUmk2VURIU09hdnBRbjVRSEY1aWRLVElYalJwMVJIN0E2STR2bXZreFRzWTE2Xzc3WW1GM3psYjVfaXZxa3NsNWNoNHNMVDh3MWRIN2Z6b3kwRklJT2JwUzVzYXhZcFRnZm1KQWRpZW9CWVZyQmY4dV9HOElHcExZR2ZBMHUxY2drMGI4RFpCRnZZZHVvS0JOSjVPRGhqTnc1YmQzWll30gG-AUFVX3lxTE5CNFBBaXpZQ000S1J2QVdrUUxkYVRhZzBSaTZVREhTT2F2cFFuNVFIRjVpZEtUSVhqUnAxUkg3QTZJNHZtdmt4VHNZMTZfNzdZbUYzemxiNV9pdnFrc2w1Y2g0c0xUOHcxZEg3ZnpveTBGSUlPYnBTNXNheFlwVGdmbUpBZGllb0JZVnJCZjh1X0c4SUdwTFlHZkEwdTFjZ2swYjhEWkJGdllkdW9LQk5KNU9EaGpOdzViZDNaWXc?oc=5\" target=\"_blank\">US envoy highlights role of S. Korean investment in creating American jobs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQjRQQWl6WUNNNEtSdkFXa1FMZGFUYWcwUmk2VURIU09hdnBRbjVRSEY1aWRLVElYalJwMVJIN0E2STR2bXZreFRzWTE2Xzc3WW1GM3psYjVfaXZxa3NsNWNoNHNMVDh3MWRIN2Z6b3kwRklJT2JwUzVzYXhZcFRnZm1KQWRpZW9CWVZyQmY4dV9HOElHcExZR2ZBMHUxY2drMGI4RFpCRnZZZHVvS0JOSjVPRGhqTnc1YmQzWll30gG-AUFVX3lxTE5CNFBBaXpZQ000S1J2QVdrUUxkYVRhZzBSaTZVREhTT2F2cFFuNVFIRjVpZEtUSVhqUnAxUkg3QTZJNHZtdmt4VHNZMTZfNzdZbUYzemxiNV9pdnFrc2w1Y2g0c0xUOHcxZEg3ZnpveTBGSUlPYnBTNXNheFlwVGdmbUpBZGllb0JZVnJCZjh1X0c4SUdwTFlHZkEwdTFjZ2swYjhEWkJGdllkdW9LQk5KNU9EaGpOdzViZDNaWXc?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-10-16",
-          "views": "18.0K"
-        },
-        {
-          "title": "US envoy highlights role of Korean investment in creating American jobs - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaUZTdWk3Z3Q0VWYwRVhYQ2VINE5DcGN4UnhONHBiTVZvektZSlVaLS1uSWVrSFlLd0wyYmQ4T2d6TWhhNkMyUGtkUWZIc3h1R0tLZldKclBsUzJZcTlGa29uZDd3cUV0N2Jqb1pkeW1FSkVSdVNnUFZXT2R4OGN0VDBwekJ1aHNjU2JzNzNnZEhvRmI3R0hQcjk4S2xEZnRQLXlhWG1OeTNDbktSVWFna0h1NmhoZmRTSmlZ0gG7AUFVX3lxTE5pRlN1aTdndDRVZjBFWFhDZUg0TkNwY3hSeE40cGJNVm96S1lKVVotLW5JZWtIWUt3TDJiZDhPZ3pNaGE2QzJQa2RRZkhzeHVHS0tmV0pyUGxTMllxOUZrb25kN3dxRXQ3YmpvWmR5bUVKRVJ1U2dQVldPZHg4Y3RUMHB6QnVoc2NTYnM3M2dkSG9GYjdHSFByOThLbERmdFAteWFYbU55M0NuS1JVYWdrSHU2aGhmZFNKaVk?oc=5\" target=\"_blank\">US envoy highlights role of Korean investment in creating American jobs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaUZTdWk3Z3Q0VWYwRVhYQ2VINE5DcGN4UnhONHBiTVZvektZSlVaLS1uSWVrSFlLd0wyYmQ4T2d6TWhhNkMyUGtkUWZIc3h1R0tLZldKclBsUzJZcTlGa29uZDd3cUV0N2Jqb1pkeW1FSkVSdVNnUFZXT2R4OGN0VDBwekJ1aHNjU2JzNzNnZEhvRmI3R0hQcjk4S2xEZnRQLXlhWG1OeTNDbktSVWFna0h1NmhoZmRTSmlZ0gG7AUFVX3lxTE5pRlN1aTdndDRVZjBFWFhDZUg0TkNwY3hSeE40cGJNVm96S1lKVVotLW5JZWtIWUt3TDJiZDhPZ3pNaGE2QzJQa2RRZkhzeHVHS0tmV0pyUGxTMllxOUZrb25kN3dxRXQ3YmpvWmR5bUVKRVJ1U2dQVldPZHg4Y3RUMHB6QnVoc2NTYnM3M2dkSG9GYjdHSFByOThLbERmdFAteWFYbU55M0NuS1JVYWdrSHU2aGhmZFNKaVk?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-10-16",
           "views": "18.0K"
         }
       ]
@@ -181,19 +181,19 @@
           "views": "13.0K"
         },
         {
-          "title": "Hyundai-Kia Starts Ulsan EV Output, Unveils Manufacturing AI 'Polaris' - ETNEWS",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBCbFZ5VlRCYmRvSm5Fel91bEdGRVpPd1oxMzY4S0hja2RyZ2Yyd0VlUm9SUHNnbE1oVWdrekpuYkdLY1RJcVNkODdYVVg?oc=5\" target=\"_blank\">Hyundai-Kia Starts Ulsan EV Output, Unveils Manufacturing AI 'Polaris'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBCbFZ5VlRCYmRvSm5Fel91bEdGRVpPd1oxMzY4S0hja2RyZ2Yyd0VlUm9SUHNnbE1oVWdrekpuYkdLY1RJcVNkODdYVVg?oc=5",
-          "source": "전자신문",
-          "publishedAt": "2026-10-19",
+          "title": "[REPORTERSNOTEBOOK] Rushed single-stock leveraged ETF rollout leaves questions of responsibility unanswered - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYUNocVpZWWVxal9JOTBtOU4wWDVZQ2REQ0JuOGl2Qmh5M1V1NGx2SV9CNUJxdUJybXoxLXI1cm0xQ3UxeDBxQmFfNUU3c2V3bjBBbGlxVnlGbXJDQ25DWDJVQThsVTBHM0l6cG52VnF2RExUMDQ0dnN5bzVmdFhackhXR0FGTkk3NlE1UFdNYURHUy1WcUZ5NTVINm5ZWllvU05VTEJQb2lMVllaeTZVYmlUck1OcEs5VTZTYkd1d0FGZE5wT3dFc2lIa3p0SzhSdFduUENCQ1NNcW5Q0gHcAUFVX3lxTE9hQ2hxWllZZXFqX0k5MG05TjBYNVlDZERDQm44aXZCaHkzVXU0bHZJX0I1QnF1QnJtejEtcjVybTFDdTF4MHFCYV81RTdzZXduMEFsaXFWeUZtckNDbkNYMlVBOGxVMEczSXpwbnZWcXZETFQwNDR2c3lvNWZ0WFpySFdHQUZOSTc2UTVQV01hREdTLVZxRnk1NUg2bllaWW9TTlVMQlBvaUxWWVp5NlViaVRyTU5wSzlVNlNiR3V3QUZkTnBPd0VzaUhrenRLOFJ0V25QQ0JDU01xblA?oc=5\" target=\"_blank\">[REPORTERSNOTEBOOK] Rushed single-stock leveraged ETF rollout leaves questions of responsibility unanswered</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYUNocVpZWWVxal9JOTBtOU4wWDVZQ2REQ0JuOGl2Qmh5M1V1NGx2SV9CNUJxdUJybXoxLXI1cm0xQ3UxeDBxQmFfNUU3c2V3bjBBbGlxVnlGbXJDQ25DWDJVQThsVTBHM0l6cG52VnF2RExUMDQ0dnN5bzVmdFhackhXR0FGTkk3NlE1UFdNYURHUy1WcUZ5NTVINm5ZWllvU05VTEJQb2lMVllaeTZVYmlUck1OcEs5VTZTYkd1d0FGZE5wT3dFc2lIa3p0SzhSdFduUENCQ1NNcW5Q0gHcAUFVX3lxTE9hQ2hxWllZZXFqX0k5MG05TjBYNVlDZERDQm44aXZCaHkzVXU0bHZJX0I1QnF1QnJtejEtcjVybTFDdTF4MHFCYV81RTdzZXduMEFsaXFWeUZtckNDbkNYMlVBOGxVMEczSXpwbnZWcXZETFQwNDR2c3lvNWZ0WFpySFdHQUZOSTc2UTVQV01hREdTLVZxRnk1NUg2bllaWW9TTlVMQlBvaUxWWVp5NlViaVRyTU5wSzlVNlNiR3V3QUZkTnBPd0VzaUhrenRLOFJ0V25QQ0JDU01xblA?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-10-20",
           "views": "13.0K"
         },
         {
-          "title": "Aerospace industry calls for faster shift to software-defined defense - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOTTRTbHJzLTFCZUxZRnBXQy10aElZMDNlaUVHbGxFNHpTcWtCSkdrTmxOUm5aYzc2RS1KNlFXRC1WeFJQUnhjUDFSbHhRVE51ZEhtMWRvX2lLNWVXTGh4d3FmZXYzZzcwdnBDSEQ5Y2ZVYTJpeXd3a2F0Nm9IMEtGdktrQms5V0JsNkc1SHVsTzZ6d1k0d0xKMHQwTjg3QUQzakRSY00xRXZySGVpcmhFb2plQkZRWkVhdUtVS251NzBOdkRs0gHKAUFVX3lxTFBYXzVBanUwWHoyWXN1cVBaeDl4cTR1RHMxTjNHdlBqdUk3cUdvVVRBN2Vnb0tpalp4aVNvVVhTSl8zcS1WUFA4V0xrRWZPUlNaVkNkTC1hbGVydFM5b0VTR0xGa2tNU3c2RHZBTldCalVWdkFoVVExVzdBYTlYWEV2QW16X0ZHRUFEUmJ6ejczRUVSbHA0S2hxMS12LWdZMHpzU2l4VVdEYkRuVXFaZTA1TlU1eEJfeU10c0t6U1lxMmZkOGE2N1pRLWc?oc=5\" target=\"_blank\">Aerospace industry calls for faster shift to software-defined defense</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTTRTbHJzLTFCZUxZRnBXQy10aElZMDNlaUVHbGxFNHpTcWtCSkdrTmxOUm5aYzc2RS1KNlFXRC1WeFJQUnhjUDFSbHhRVE51ZEhtMWRvX2lLNWVXTGh4d3FmZXYzZzcwdnBDSEQ5Y2ZVYTJpeXd3a2F0Nm9IMEtGdktrQms5V0JsNkc1SHVsTzZ6d1k0d0xKMHQwTjg3QUQzakRSY00xRXZySGVpcmhFb2plQkZRWkVhdUtVS251NzBOdkRs0gHKAUFVX3lxTFBYXzVBanUwWHoyWXN1cVBaeDl4cTR1RHMxTjNHdlBqdUk3cUdvVVRBN2Vnb0tpalp4aVNvVVhTSl8zcS1WUFA4V0xrRWZPUlNaVkNkTC1hbGVydFM5b0VTR0xGa2tNU3c2RHZBTldCalVWdkFoVVExVzdBYTlYWEV2QW16X0ZHRUFEUmJ6ejczRUVSbHA0S2hxMS12LWdZMHpzU2l4VVdEYkRuVXFaZTA1TlU1eEJfeU10c0t6U1lxMmZkOGE2N1pRLWc?oc=5",
+          "title": "New director, new 'Giselle': Korea's top ballet company begins next chapter - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPelk2REhKS3N3cnRQTWptZndoMTBCMXVGZGNKRFpRZ1c5X2hsLWRLb1k5MThLaW9yam0wMjc2OEgtTEV5eURjY0lNS2tvS2hHd19GUjJ2VlNoUmNXNndIWExlOVotSFVNRjBDVXU2ZFNoTEJqNzc0Sno4akw4VjZ2dzVpLUp1cTZVd2hhV1BxTWFZRHpQX2t2aVg1Rm9PVVkwWlJVS3Byc1hPMjJ3eVh5NDhlRU9PRlFTLXRHZklkUdIBvwFBVV95cUxPelk2REhKS3N3cnRQTWptZndoMTBCMXVGZGNKRFpRZ1c5X2hsLWRLb1k5MThLaW9yam0wMjc2OEgtTEV5eURjY0lNS2tvS2hHd19GUjJ2VlNoUmNXNndIWExlOVotSFVNRjBDVXU2ZFNoTEJqNzc0Sno4akw4VjZ2dzVpLUp1cTZVd2hhV1BxTWFZRHpQX2t2aVg1Rm9PVVkwWlJVS3Byc1hPMjJ3eVh5NDhlRU9PRlFTLXRHZklkUQ?oc=5\" target=\"_blank\">New director, new 'Giselle': Korea's top ballet company begins next chapter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPelk2REhKS3N3cnRQTWptZndoMTBCMXVGZGNKRFpRZ1c5X2hsLWRLb1k5MThLaW9yam0wMjc2OEgtTEV5eURjY0lNS2tvS2hHd19GUjJ2VlNoUmNXNndIWExlOVotSFVNRjBDVXU2ZFNoTEJqNzc0Sno4akw4VjZ2dzVpLUp1cTZVd2hhV1BxTWFZRHpQX2t2aVg1Rm9PVVkwWlJVS3Byc1hPMjJ3eVh5NDhlRU9PRlFTLXRHZklkUdIBvwFBVV95cUxPelk2REhKS3N3cnRQTWptZndoMTBCMXVGZGNKRFpRZ1c5X2hsLWRLb1k5MThLaW9yam0wMjc2OEgtTEV5eURjY0lNS2tvS2hHd19GUjJ2VlNoUmNXNndIWExlOVotSFVNRjBDVXU2ZFNoTEJqNzc0Sno4akw4VjZ2dzVpLUp1cTZVd2hhV1BxTWFZRHpQX2t2aVg1Rm9PVVkwWlJVS3Byc1hPMjJ3eVh5NDhlRU9PRlFTLXRHZklkUQ?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-10-19",
+          "publishedAt": "2026-10-20",
           "views": "13.0K"
         }
       ]
