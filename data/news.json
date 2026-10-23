@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-22T04:37:58.951Z",
+  "lastUpdated": "2026-10-23T04:43:53.500Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,14 +49,6 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
-          "title": "NVIDIA's Nemotron 3.5 Super VL with post-training beats Claude Opus 5, GPT-6.1 Sol on specialized task benchmarks - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOLWRFblUzdUF1ejJTVzQwQ2s0WHhjalR3ZDY4UlBrQ0RMZ3FNRzhVRHRnb1VvM0hHaERyX0xGRURPN1o3VTFGSjhLcmJxV2l4Q01ublBqZjVEWncxQ0swdEVxdk5oX09rNWZrN1dVekZIRjRGbWhydklKVHNjbGFiUWdMMmxLay14MTQ5QnFrRUh5YWFRbVFvOWc5ZlVhekN3c0hLaVllajlSMDJSbkZwdERmMGV2ei14OUJCdV8yVzBMVHBOWWdTWlFINGlNeUZmN2FIXzZGYkttZTA0UEhBNE05VWxzQ1pVRjVF?oc=5\" target=\"_blank\">NVIDIA's Nemotron 3.5 Super VL with post-training beats Claude Opus 5, GPT-6.1 Sol on specialized task benchmarks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOLWRFblUzdUF1ejJTVzQwQ2s0WHhjalR3ZDY4UlBrQ0RMZ3FNRzhVRHRnb1VvM0hHaERyX0xGRURPN1o3VTFGSjhLcmJxV2l4Q01ublBqZjVEWncxQ0swdEVxdk5oX09rNWZrN1dVekZIRjRGbWhydklKVHNjbGFiUWdMMmxLay14MTQ5QnFrRUh5YWFRbVFvOWc5ZlVhekN3c0hLaVllajlSMDJSbkZwdERmMGV2ei14OUJCdV8yVzBMVHBOWWdTWlFINGlNeUZmN2FIXzZGYkttZTA0UEhBNE05VWxzQ1pVRjVF?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-10-15",
-          "views": "23.0K"
-        },
-        {
           "title": "Einride expands Nvidia partnership to deploy AI reasoning model for self-driving trucks - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZEFIVWxsdm9QSkVrWDY4UTgzc3RXRUE5YWZTVmRkaWlzZHR2THozNnA0Rkx6dWp2QndzaXdoMllsM0V4WDZEZW9XZUVKVnFicHp5eEhEbkNNNXVvZFlJZW5hVjhMcklwY0tnWHhsTWx2amd6V2RZSGY2RmVGNFpJVnRIcG1jQ2ZEYWZNd0xfeTRmRGhRSkN5WWpoQjhqM00tenZ3U3VvUXdmTUhpTVNvUVZXWUQ4aW9yVlFvWHNmdXpKeEk?oc=5\" target=\"_blank\">Einride expands Nvidia partnership to deploy AI reasoning model for self-driving trucks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZEFIVWxsdm9QSkVrWDY4UTgzc3RXRUE5YWZTVmRkaWlzZHR2THozNnA0Rkx6dWp2QndzaXdoMllsM0V4WDZEZW9XZUVKVnFicHp5eEhEbkNNNXVvZFlJZW5hVjhMcklwY0tnWHhsTWx2amd6V2RZSGY2RmVGNFpJVnRIcG1jQ2ZEYWZNd0xfeTRmRGhRSkN5WWpoQjhqM00tenZ3U3VvUXdmTUhpTVNvUVZXWUQ4aW9yVlFvWHNmdXpKeEk?oc=5",
@@ -69,6 +61,14 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPNlVSYXNOX05TSlZKNTlLcVlYLWhodG9UMnZ4V0IzOUZSNWkxSDZSak9TOVZNOXI4a1hNbzF4MjZwUnQybFRyZ2hFaXc0ZTJVN1NyVWoyblFZTXJOUlNPeUZ1Y1JqaHNaRjNOd1ZYODRNSUpWcEpBV0xBd3VkMkhDQ1JUZGptb3hReFQ2NFVFMm9aMWhIM1pMU1ctVUFNWTTSAaQBQVVfeXFMTUpVWGRFV2xVaDFBdFgzaTJEaDlLazh0TDVsMFJCUlgwblA0RzZpSEZwdVlYSVUzdFI3UGpXdlhseHZPOWxLVEwxX1B3d3FuTVVEMFNxWXJ5LW8tYy1qN2JCRFFEUDUzUzVMT1F2R1AtWXZvSHpYX2RUb1hpc3Y0LVhsWjJoakZJa0hqdnNBSERESWRPRnlSdkVDUi1zR09NZjRISmw?oc=5\" target=\"_blank\">AI researchers stranded Claude on a virtual desert island. It started to “play.”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MIT Technology Review</font>",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNlVSYXNOX05TSlZKNTlLcVlYLWhodG9UMnZ4V0IzOUZSNWkxSDZSak9TOVZNOXI4a1hNbzF4MjZwUnQybFRyZ2hFaXc0ZTJVN1NyVWoyblFZTXJOUlNPeUZ1Y1JqaHNaRjNOd1ZYODRNSUpWcEpBV0xBd3VkMkhDQ1JUZGptb3hReFQ2NFVFMm9aMWhIM1pMU1ctVUFNWTTSAaQBQVVfeXFMTUpVWGRFV2xVaDFBdFgzaTJEaDlLazh0TDVsMFJCUlgwblA0RzZpSEZwdVlYSVUzdFI3UGpXdlhseHZPOWxLVEwxX1B3d3FuTVVEMFNxWXJ5LW8tYy1qN2JCRFFEUDUzUzVMT1F2R1AtWXZvSHpYX2RUb1hpc3Y0LVhsWjJoakZJa0hqdnNBSERESWRPRnlSdkVDUi1zR09NZjRISmw?oc=5",
           "source": "MIT Technology Review (AI)",
+          "publishedAt": "2026-10-19",
+          "views": "18.0K"
+        },
+        {
+          "title": "Nvidia launches new open models to run agents in the enterprise and on PCs - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPNThVa0RMWlZyclBfYi0xMXlIYzJ6TElVcW5sakprLW16Ujk3WGVUVC0zMi1CSVJpektNazlpRnYzdDQyaDB3UTFGdThEUEtkSVk4b3F6LTNlcjdNU0RqMkZkNmZRdWxuZzVpY0hteHAzLW5nUHQ0cU54bGptVUkyekh4RWxUbzA2N2VXWk1IQ2pVeGpBbWc0SjFmQzR3YWFHLWFGSFp1YllsTUVwOHc?oc=5\" target=\"_blank\">Nvidia launches new open models to run agents in the enterprise and on PCs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNThVa0RMWlZyclBfYi0xMXlIYzJ6TElVcW5sakprLW16Ujk3WGVUVC0zMi1CSVJpektNazlpRnYzdDQyaDB3UTFGdThEUEtkSVk4b3F6LTNlcjdNU0RqMkZkNmZRdWxuZzVpY0hteHAzLW5nUHQ0cU54bGptVUkyekh4RWxUbzA2N2VXWk1IQ2pVeGpBbWc0SjFmQzR3YWFHLWFGSFp1YllsTUVwOHc?oc=5",
+          "source": "TechCrunch AI",
           "publishedAt": "2026-10-19",
           "views": "18.0K"
         }
@@ -96,11 +96,11 @@
           "views": "18.0K"
         },
         {
-          "title": "Seoul claims top spot in global AI adoption, 3rd overall in 2026 AI Cities Index - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQVXhKNGZid0JYQlhWd3BkQjdPbXBRNkZja0xDTmprNi0tTDBVRE9aS1ZhcC1KV3U0dGhPWGo0WXpNazZLZGZGLVpCX1AwTjU4dVk1aXc4NGg2a2hXTHQxOVlxYm9VakczdXJfNURIZnNJZ2JLX0VjaWRJQjVTWDVwa2tURU93d2JKUjlSWWlkZHhnTG1RSFlaR0hhRzU4SUpGaFotR0pnNkY3MXRuR3NKU1lpWUZ1WXJfaVFDeXhjSnNZVVdNaXNuTkJPNXfSAcwBQVVfeXFMUFV4SjRmYndCWEJYVndwZEI3T21wUTZGY2tMQ05qazYtLUwwVURPWktWYXAtSld1NHRoT1hqNFl6TWs2S2RmRi1aQl9QME41OHVZNWl3ODRoNmtoV0x0MTlZcWJvVWpHM3VyXzVESGZzSWdiS19FY2lkSUI1U1g1cGtrVEVPd3diSlI5UllpZGR4Z0xtUUhZWkdIYUc1OElKRmhaLUdKZzZGNzF0bkdzSlNZaVlGdVlyX2lRQ3l4Y0pzWVVXTWlzbk5CTzV3?oc=5\" target=\"_blank\">Seoul claims top spot in global AI adoption, 3rd overall in 2026 AI Cities Index</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVXhKNGZid0JYQlhWd3BkQjdPbXBRNkZja0xDTmprNi0tTDBVRE9aS1ZhcC1KV3U0dGhPWGo0WXpNazZLZGZGLVpCX1AwTjU4dVk1aXc4NGg2a2hXTHQxOVlxYm9VakczdXJfNURIZnNJZ2JLX0VjaWRJQjVTWDVwa2tURU93d2JKUjlSWWlkZHhnTG1RSFlaR0hhRzU4SUpGaFotR0pnNkY3MXRuR3NKU1lpWUZ1WXJfaVFDeXhjSnNZVVdNaXNuTkJPNXfSAcwBQVVfeXFMUFV4SjRmYndCWEJYVndwZEI3T21wUTZGY2tMQ05qazYtLUwwVURPWktWYXAtSld1NHRoT1hqNFl6TWs2S2RmRi1aQl9QME41OHVZNWl3ODRoNmtoV0x0MTlZcWJvVWpHM3VyXzVESGZzSWdiS19FY2lkSUI1U1g1cGtrVEVPd3diSlI5UllpZGR4Z0xtUUhZWkdIYUc1OElKRmhaLUdKZzZGNzF0bkdzSlNZaVlGdVlyX2lRQ3l4Y0pzWVVXTWlzbk5CTzV3?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-10-22",
+          "title": "Why the enterprise AI security gap starts below the model - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOTE5YeTg2dFR6WjZqWmlIUXluVkJ4d2dUM3VqdEFqOGs2bXdTRmk1WDRnZ3kwUlRZTG1aOGdlY0VWV0tWZUwxNXJyTXlhUzEwVExTQjJqem0ybDBtajRaWmhOTXdxc0xvSndERkx0MzRNbk1VcnpjaDVXaC1EWWRTM1BhakZfcjl2V1VuaW5OMkw?oc=5\" target=\"_blank\">Why the enterprise AI security gap starts below the model</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTE5YeTg2dFR6WjZqWmlIUXluVkJ4d2dUM3VqdEFqOGs2bXdTRmk1WDRnZ3kwUlRZTG1aOGdlY0VWV0tWZUwxNXJyTXlhUzEwVExTQjJqem0ybDBtajRaWmhOTXdxc0xvSndERkx0MzRNbk1VcnpjaDVXaC1EWWRTM1BhakZfcjl2V1VuaW5OMkw?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-10-23",
           "views": "13.0K"
         }
       ]
@@ -111,27 +111,27 @@
       "description": "규제, 책임, 신뢰, 저작권 같은 문제를 보는 관점",
       "items": [
         {
+          "title": "Lotte World ramps up safety prep with hands-on fire, CPR drills - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPY2ppX1A5LW43YXZ4VnN3YjlPbUhna3JldE9iMXdQd25NdGZORURfWHQ0OWMzcDBHYXdfdzhfbTlqVEJ4WjBpWUp0eHNMbXNCREcxTWxSV1dfTlhzOXUwQXAxWW1fRUJIM25SdkczTk9teHdoWDNoNTlLZXdJZHgwYzRJUDZ3QWNWcEpHc1dCZVdreG1aOHhzdkNobVFCYXNDSmc4aGVUdko4Y1FMT3pNVzl6bU8wWWRCc0cw0gHAAUFVX3lxTE5vSGVxanBNaGFWdTJLN01RYkpvMzFQbi1XdHVyMDVaSzhYYURIajFSY2NuT05IZ2s2UEVzT25PSlpOenR0aDVwZGpqWXJrZGoyeGJWZm1Lc0FkX2h3eHA2MUFTSW9Pb29qY21KdndSZUFlQV9lN21peFpOZnpLVEZydUtQZExYRU1TaWtGdFhmeEFVQWtER2xVNnd2aG85V3Bqb24ydDVuLVMxdUgzX3BGY2hoNjVXSDZBNXg1dHdlaw?oc=5\" target=\"_blank\">Lotte World ramps up safety prep with hands-on fire, CPR drills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPY2ppX1A5LW43YXZ4VnN3YjlPbUhna3JldE9iMXdQd25NdGZORURfWHQ0OWMzcDBHYXdfdzhfbTlqVEJ4WjBpWUp0eHNMbXNCREcxTWxSV1dfTlhzOXUwQXAxWW1fRUJIM25SdkczTk9teHdoWDNoNTlLZXdJZHgwYzRJUDZ3QWNWcEpHc1dCZVdreG1aOHhzdkNobVFCYXNDSmc4aGVUdko4Y1FMT3pNVzl6bU8wWWRCc0cw0gHAAUFVX3lxTE5vSGVxanBNaGFWdTJLN01RYkpvMzFQbi1XdHVyMDVaSzhYYURIajFSY2NuT05IZ2s2UEVzT25PSlpOenR0aDVwZGpqWXJrZGoyeGJWZm1Lc0FkX2h3eHA2MUFTSW9Pb29qY21KdndSZUFlQV9lN21peFpOZnpLVEZydUtQZExYRU1TaWtGdFhmeEFVQWtER2xVNnd2aG85V3Bqb24ydDVuLVMxdUgzX3BGY2hoNjVXSDZBNXg1dHdlaw?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-10-22",
+          "views": "18.0K"
+        },
+        {
+          "title": "French debt risk premium reaches euro zone sovereign crisis levels - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQZG1tbk1Ea3kzamhBdWdPRmV3S3JKYkFUYVlaTmdWMDNZZk41WDVFU3FGM3JJSkpxanYxaUFsbjdWWDVnZHlaZWlBYVctc3ZtWklsZndxelk4NWU0aWpIVnhGOXFTbTRYX0R4VXBGUElvaXNGaWU3Z3hNWVpVVjlHZVN6Zm1xSEVPekdnb2VmVXlqeThrV0ZQU1E2c2V4QXdfSFQydjVlaW1vYTRXV2Y4bHNocW4tdw?oc=5\" target=\"_blank\">French debt risk premium reaches euro zone sovereign crisis levels</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZG1tbk1Ea3kzamhBdWdPRmV3S3JKYkFUYVlaTmdWMDNZZk41WDVFU3FGM3JJSkpxanYxaUFsbjdWWDVnZHlaZWlBYVctc3ZtWklsZndxelk4NWU0aWpIVnhGOXFTbTRYX0R4VXBGUElvaXNGaWU3Z3hNWVpVVjlHZVN6Zm1xSEVPekdnb2VmVXlqeThrV0ZQU1E2c2V4QXdfSFQydjVlaW1vYTRXV2Y4bHNocW4tdw?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-10-22",
+          "views": "18.0K"
+        },
+        {
           "title": "Europe risks startup exodus as regulation, funding and skill gaps hamper AI adoption, AWS EMEA head says - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWlBCRzNNN1hVU0RydnVDdzB6MUtiWVlURnFsTHBMcXlhMWxjMnFvZHVfbmFzSmRPbEtlRlUzQVFxUUgwbEhDdHR5eFFOZXFxdWJ2M0tUTi1DRU4xa2lFMFBEVHdmc25KZUNlVGV2bVA1SnczQ3pCeGE1cjgzV1hVbk9hVjdOTmNOeFEtZEJsVHNpNllLWGtHSWZnd3UxMmFwa2pPVDdMTW8xUm42dmxXbmMxQS1HUDJHektqMnZ1bUJ6OFpFVF9DYzhUSHhIQ0VNTEVnRkdiWGg?oc=5\" target=\"_blank\">Europe risks startup exodus as regulation, funding and skill gaps hamper AI adoption, AWS EMEA head says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWlBCRzNNN1hVU0RydnVDdzB6MUtiWVlURnFsTHBMcXlhMWxjMnFvZHVfbmFzSmRPbEtlRlUzQVFxUUgwbEhDdHR5eFFOZXFxdWJ2M0tUTi1DRU4xa2lFMFBEVHdmc25KZUNlVGV2bVA1SnczQ3pCeGE1cjgzV1hVbk9hVjdOTmNOeFEtZEJsVHNpNllLWGtHSWZnd3UxMmFwa2pPVDdMTW8xUm42dmxXbmMxQS1HUDJHektqMnZ1bUJ6OFpFVF9DYzhUSHhIQ0VNTEVnRkdiWGg?oc=5",
           "source": "Reuters AI",
           "publishedAt": "2026-10-21",
-          "views": "18.0K"
-        },
-        {
-          "title": "Key gov't-led DMZ projects remain stalled as UNC denies clearance over safety risks - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPb05MaWhIWVJjU3RzRkR1WWk2ODhxekEzemdnMUQyNWdjX2tIREdQUkF5WHhoV28yemlzanB5ZUlnQWtaajI2LUc5dTE4eHlNdHM2WlYxeVkzVDFCOXd6MmNNcDBPYnpNZUFGNDVyejEza0ZuRDZ0aTdwakNOekwtbFRSXzBzSXctbllnTzhzUnVPSnV3X0ctaGZXVFlfMkhIelFwa3ZGTjd0WmVqS1gzTXVPZmFESkhPOEYxUW5uNXFtSnN2U3RSUW5fRHZwV1JwNmh0Z3ZsdGJhckhuUkVZ?oc=5\" target=\"_blank\">Key gov't-led DMZ projects remain stalled as UNC denies clearance over safety risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPb05MaWhIWVJjU3RzRkR1WWk2ODhxekEzemdnMUQyNWdjX2tIREdQUkF5WHhoV28yemlzanB5ZUlnQWtaajI2LUc5dTE4eHlNdHM2WlYxeVkzVDFCOXd6MmNNcDBPYnpNZUFGNDVyejEza0ZuRDZ0aTdwakNOekwtbFRSXzBzSXctbllnTzhzUnVPSnV3X0ctaGZXVFlfMkhIelFwa3ZGTjd0WmVqS1gzTXVPZmFESkhPOEYxUW5uNXFtSnN2U3RSUW5fRHZwV1JwNmh0Z3ZsdGJhckhuUkVZ?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-10-20",
-          "views": "18.0K"
-        },
-        {
-          "title": "Anthropic quietly pitches its own AI safety bill to lawmakers, Politico reports - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPOGgzckNkaE5BdjZxdVMta2hsdVczMHFrZ2U4aFgzY2VsLVF5VEFpd1FMQVc1V084YTZQU0IyMkdWbXZTbEtpdlhFWHR2SUI1SDdsczFmeERfNHhfOXRpR2NLTVhjRWF4YWNYaDBPWXJDSXpqLUgtSERBY1lHejU3MTl0T2pPMzlKRDlsdmFNM3kwQk1YSFlyMnpDN1FSVG0xM2xqNTZrbnNxQTVkT3drcVJSVm0zNFlYOUstZzlDYldrc1p5OWJR?oc=5\" target=\"_blank\">Anthropic quietly pitches its own AI safety bill to lawmakers, Politico reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOGgzckNkaE5BdjZxdVMta2hsdVczMHFrZ2U4aFgzY2VsLVF5VEFpd1FMQVc1V084YTZQU0IyMkdWbXZTbEtpdlhFWHR2SUI1SDdsczFmeERfNHhfOXRpR2NLTVhjRWF4YWNYaDBPWXJDSXpqLUgtSERBY1lHejU3MTl0T2pPMzlKRDlsdmFNM3kwQk1YSFlyMnpDN1FSVG0xM2xqNTZrbnNxQTVkT3drcVJSVm0zNFlYOUstZzlDYldrc1p5OWJR?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-10-16",
           "views": "18.0K"
         }
       ]
@@ -141,6 +141,14 @@
       "hashtag": "#경제",
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
+        {
+          "title": "Companies cutting jobs as investments shift toward AI - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOTzk5bDFrWVpNb3dlZ1ZMR2ZhU1NYTkJYRzh2c3JXWHcwQVBVNDhtLUo3QU1XNGFXU3kzZWFvdjdEMnd3TDc4eTI2T2NXemhfcEg5U0dISVRBRE9RUW0yMngyQy1tOXFfZ1kyZUhCa2JoOVBWcm55QWVXekVnWC1HUmw3WmI1Mm9MUE1yNEUyeXZhOXpXMnlWSzZIX3AxMHpYdjBEcXZZQmhwR2lKc2c?oc=5\" target=\"_blank\">Companies cutting jobs as investments shift toward AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTzk5bDFrWVpNb3dlZ1ZMR2ZhU1NYTkJYRzh2c3JXWHcwQVBVNDhtLUo3QU1XNGFXU3kzZWFvdjdEMnd3TDc4eTI2T2NXemhfcEg5U0dISVRBRE9RUW0yMngyQy1tOXFfZ1kyZUhCa2JoOVBWcm55QWVXekVnWC1HUmw3WmI1Mm9MUE1yNEUyeXZhOXpXMnlWSzZIX3AxMHpYdjBEcXZZQmhwR2lKc2c?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-10-22",
+          "views": "18.0K"
+        },
         {
           "title": "Europe risks startup exodus as regulation, funding and skill gaps hamper AI adoption, AWS EMEA head says - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWlBCRzNNN1hVU0RydnVDdzB6MUtiWVlURnFsTHBMcXlhMWxjMnFvZHVfbmFzSmRPbEtlRlUzQVFxUUgwbEhDdHR5eFFOZXFxdWJ2M0tUTi1DRU4xa2lFMFBEVHdmc25KZUNlVGV2bVA1SnczQ3pCeGE1cjgzV1hVbk9hVjdOTmNOeFEtZEJsVHNpNllLWGtHSWZnd3UxMmFwa2pPVDdMTW8xUm42dmxXbmMxQS1HUDJHektqMnZ1bUJ6OFpFVF9DYzhUSHhIQ0VNTEVnRkdiWGg?oc=5\" target=\"_blank\">Europe risks startup exodus as regulation, funding and skill gaps hamper AI adoption, AWS EMEA head says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
@@ -156,14 +164,6 @@
           "source": "Reuters AI",
           "publishedAt": "2026-10-21",
           "views": "18.0K"
-        },
-        {
-          "title": "AI startup ASI valued at $3 billion in latest funding round - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNWjR1SjBuOXZkbzFpSXdTZHpVc0R5bVhDZlJGNWNEVkZOX3RCeDhSSEg4UkJUWlg0ZWkxNFhIb0VfdExYQWpRblJKSnZaY28tdDEtcU9wSk9xcy1CWTYxal9YRXRqV29FcTdFTlNPLVdpdGJ6VEFOX3Bfb1hGb0J0MUtUVE5LMm1hZ2RWQmdsOUJzTlVuYllaNWs1aE91QQ?oc=5\" target=\"_blank\">AI startup ASI valued at $3 billion in latest funding round</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWjR1SjBuOXZkbzFpSXdTZHpVc0R5bVhDZlJGNWNEVkZOX3RCeDhSSEg4UkJUWlg0ZWkxNFhIb0VfdExYQWpRblJKSnZaY28tdDEtcU9wSk9xcy1CWTYxal9YRXRqV29FcTdFTlNPLVdpdGJ6VEFOX3Bfb1hGb0J0MUtUVE5LMm1hZ2RWQmdsOUJzTlVuYllaNWs1aE91QQ?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-10-20",
-          "views": "18.0K"
         }
       ]
     },
@@ -173,27 +173,27 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
-          "title": "[VIDEO] Beyond the cup: Korea's evolving cafe industry - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNVnhyc0pUR0hvQnlrZk9QRGgtQkM5Q0JXZUwyTnZBOWIzRlVkWEVRbENCLUdQTS1oRmF3WDNPeWg3aEs0MWhLVG1oOEYySjFaY2ZNOWstU19yQWlMeHhjSXlYQm9lTXBFRS1MNl9QMU05LV9yYVZuemFzWVl4RHB3a1F6LVhqLXIwMDktcmNKNWl6TktHSXpkY1RPcGNFUjROQ1ItMEJINmdITDJrYkHSAa4BQVVfeXFMTVZ4cnNKVEdIb0J5a2ZPUERoLUJDOUNCV2VMMk52QTliM0ZVZFhFUWxDQi1HUE0taEZhd1gzT3loN2hLNDFoS1RtaDhGMkoxWmNmTTlrLVNfckFpTHh4Y0l5WEJvZU1wRUUtTDZfUDFNOS1fcmFWbnphc1lZeERwd2tRei1Yai1yMDA5LXJjSjVpek5LR0l6ZGNUT3BjRVI0TkNSLTBCSDZnSEwya2JB?oc=5\" target=\"_blank\">[VIDEO] Beyond the cup: Korea's evolving cafe industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVnhyc0pUR0hvQnlrZk9QRGgtQkM5Q0JXZUwyTnZBOWIzRlVkWEVRbENCLUdQTS1oRmF3WDNPeWg3aEs0MWhLVG1oOEYySjFaY2ZNOWstU19yQWlMeHhjSXlYQm9lTXBFRS1MNl9QMU05LV9yYVZuemFzWVl4RHB3a1F6LVhqLXIwMDktcmNKNWl6TktHSXpkY1RPcGNFUjROQ1ItMEJINmdITDJrYkHSAa4BQVVfeXFMTVZ4cnNKVEdIb0J5a2ZPUERoLUJDOUNCV2VMMk52QTliM0ZVZFhFUWxDQi1HUE0taEZhd1gzT3loN2hLNDFoS1RtaDhGMkoxWmNmTTlrLVNfckFpTHh4Y0l5WEJvZU1wRUUtTDZfUDFNOS1fcmFWbnphc1lZeERwd2tRei1Yai1yMDA5LXJjSjVpek5LR0l6ZGNUT3BjRVI0TkNSLTBCSDZnSEwya2JB?oc=5",
+          "title": "EU sees Korea as 'trusted partner' in evolving Indo-Pacific strategy - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeUllY3RjSEExRmtxNFV3VlFHcENYN2lxeng3bl84ZXVEVWczSU94NXhScXBaX1R0SXFEZTAybXEzV0hZWXF0RUdmT0JWVGVwcVFicGRIZVRLcDhJSTRDMXQweXZzZ3ZhVllXME9mMkw4Nlc2akcza2lHQ09INVZITGdGVExDU1hJeE5lZjRpQXhHaWN6U3EzalJ1bUU5TEpJS1poYVpERkFpWW90cTdfaTRfZ19zcG1JaXNkMjU3Q0jSAcABQVVfeXFMTnlJZWN0Y0hBMUZrcTRVd1ZRR3BDWDdpcXp4N25fOGV1RFVnM0lPeDV4UnFwWl9UdElxRGUwMm1xM1dIWVlxdEVHZk9CVlRlcHFRYnBkSGVUS3A4SUk0QzF0MHl2c2d2YVZZVzBPZjJMODZXNmpHM2tpR0NPSDVWSExnRlRMQ1NYSXhOZWY0aUF4R2ljelNxM2pSdW1FOUxKSUtaaGFaREZBaVlvdHE3X2k0X2dfc3BtSWlzZDI1N0NI?oc=5\" target=\"_blank\">EU sees Korea as 'trusted partner' in evolving Indo-Pacific strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeUllY3RjSEExRmtxNFV3VlFHcENYN2lxeng3bl84ZXVEVWczSU94NXhScXBaX1R0SXFEZTAybXEzV0hZWXF0RUdmT0JWVGVwcVFicGRIZVRLcDhJSTRDMXQweXZzZ3ZhVllXME9mMkw4Nlc2akcza2lHQ09INVZITGdGVExDU1hJeE5lZjRpQXhHaWN6U3EzalJ1bUU5TEpJS1poYVpERkFpWW90cTdfaTRfZ19zcG1JaXNkMjU3Q0jSAcABQVVfeXFMTnlJZWN0Y0hBMUZrcTRVd1ZRR3BDWDdpcXp4N25fOGV1RFVnM0lPeDV4UnFwWl9UdElxRGUwMm1xM1dIWVlxdEVHZk9CVlRlcHFRYnBkSGVUS3A4SUk0QzF0MHl2c2d2YVZZVzBPZjJMODZXNmpHM2tpR0NPSDVWSExnRlRMQ1NYSXhOZWY0aUF4R2ljelNxM2pSdW1FOUxKSUtaaGFaREZBaVlvdHE3X2k0X2dfc3BtSWlzZDI1N0NI?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-10-21",
+          "publishedAt": "2026-10-23",
           "views": "13.0K"
         },
         {
-          "title": "Songdo opens biomanufacturing training center for global workforce - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPcFpnSDUtTVlwTTJSLXhZREEzRlIzT1NlazR1U0tKVnVjYTYwUlVYZ01wQWxzSTRsZHVUNm1wQWZWUGxNRy0zY0lWY1NfNlNkQ2lkc3hadkpieW9FUkdOaURkNWxFVVp5Vm5qR1ZqNjl2LV8zaXlBMjMwZ25PbFdfM2xqRGs0clFzZGFDaU5jWG9DN0Zwa2FWWnM5cUtHVDdUbTROdExaY1dKbUMyQXhnaGpIdWU3RGdZa1dOTmFXemNLN0lHcGgzbTZB0gHKAUFVX3lxTE9wWmdINS1NWXBNMlIteFlEQTNGUjNPU2VrNHVTS0pWdWNhNjBSVVhnTXBBbHNJNGxkdVQ2bXBBZlZQbE1HLTNjSVZjU182U2RDaWRzeFp2SmJ5b0VSR05pRGQ1bEVVWnlWbmpHVmo2OXYtXzNpeUEyMzBnbk9sV18zbGpEazRyUXNkYUNpTmNYb0M3RnBrYVZaczlxS0dUN1RtNE50TFpjV0ptQzJBeGdoakh1ZTdEZ1lrV05OYVd6Y0s3SUdwaDNtNkE?oc=5\" target=\"_blank\">Songdo opens biomanufacturing training center for global workforce</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcFpnSDUtTVlwTTJSLXhZREEzRlIzT1NlazR1U0tKVnVjYTYwUlVYZ01wQWxzSTRsZHVUNm1wQWZWUGxNRy0zY0lWY1NfNlNkQ2lkc3hadkpieW9FUkdOaURkNWxFVVp5Vm5qR1ZqNjl2LV8zaXlBMjMwZ25PbFdfM2xqRGs0clFzZGFDaU5jWG9DN0Zwa2FWWnM5cUtHVDdUbTROdExaY1dKbUMyQXhnaGpIdWU3RGdZa1dOTmFXemNLN0lHcGgzbTZB0gHKAUFVX3lxTE9wWmdINS1NWXBNMlIteFlEQTNGUjNPU2VrNHVTS0pWdWNhNjBSVVhnTXBBbHNJNGxkdVQ2bXBBZlZQbE1HLTNjSVZjU182U2RDaWRzeFp2SmJ5b0VSR05pRGQ1bEVVWnlWbmpHVmo2OXYtXzNpeUEyMzBnbk9sV18zbGpEazRyUXNkYUNpTmNYb0M3RnBrYVZaczlxS0dUN1RtNE50TFpjV0ptQzJBeGdoakh1ZTdEZ1lrV05OYVd6Y0s3SUdwaDNtNkE?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-10-21",
+          "title": "Formic Raises $50 Million to Scale Physical AI Across American Manufacturing - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNS2ZiNTdqTWZFSWw3TG9velpoaW9rbFd3VnlRMkZqb2k1YTRHTlJtWmlVX2FyQW1JSFN4dnhZT2lSYjlCOGgwV1dpZXFhYzM4Sk1MY1lwakNicG5CLWlhbEMwcUF5LUE3MjFzd05mVVEyLUxxcUUwLWxkQ1ZDOWMwTTVma2RDZWxiYTV4eERzc3BtZXV1Z0dTOGpiNWV0WXdVWDhESUNHRVRia0st?oc=5\" target=\"_blank\">Formic Raises $50 Million to Scale Physical AI Across American Manufacturing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS2ZiNTdqTWZFSWw3TG9velpoaW9rbFd3VnlRMkZqb2k1YTRHTlJtWmlVX2FyQW1JSFN4dnhZT2lSYjlCOGgwV1dpZXFhYzM4Sk1MY1lwakNicG5CLWlhbEMwcUF5LUE3MjFzd05mVVEyLUxxcUUwLWxkQ1ZDOWMwTTVma2RDZWxiYTV4eERzc3BtZXV1Z0dTOGpiNWV0WXdVWDhESUNHRVRia0st?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-10-22",
           "views": "13.0K"
         },
         {
-          "title": "Meta puts Muse agent at heart of AI strategy, plans new stock to power investments - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRFFieGdGQjNVTEpWeTlmUG5ZOW5rRjgwSmpnV1RWdTUzRG5fZW1BQmxBdElRdEtfOVYzcWlaMjR1SGJqZWdPR200RzJuV2JZajJMYmhiSmh4VFdYVjdLQXNxRWo1ZEprRWpKQW1vQkhoMm5jT1RKNzJVczV4aUxHdDNWQ0JoSXVOYzN0WDhFMmh4cjg5RWNmZFhtaHlQTlJ0NmVnRlNpQjg?oc=5\" target=\"_blank\">Meta puts Muse agent at heart of AI strategy, plans new stock to power investments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRFFieGdGQjNVTEpWeTlmUG5ZOW5rRjgwSmpnV1RWdTUzRG5fZW1BQmxBdElRdEtfOVYzcWlaMjR1SGJqZWdPR200RzJuV2JZajJMYmhiSmh4VFdYVjdLQXNxRWo1ZEprRWpKQW1vQkhoMm5jT1RKNzJVczV4aUxHdDNWQ0JoSXVOYzN0WDhFMmh4cjg5RWNmZFhtaHlQTlJ0NmVnRlNpQjg?oc=5",
+          "title": "Pershing's Ackman sees a $1 trillion Israeli company within a decade - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOdHZsSVNpYWhSNWR0RG9fTFFreXJqNTRpT2x2ZlA2aWVjeS04a3ZXejYwdDN6WGN0WVg0YkZhdFZvLVc1elFrOWZIbXpQVFNCNTJNOTI3TllyblpwYXFNaTk0cnZBeGZ6b2hESm8yR0lZYzlCcmRMaU1tOXBZM3o3U3pWRWVkT2RZR2pKSVNocW9URmpMSkQ3bW9ySmRZcDlWenpHUDg0NWV5ZWdtZEp2cDJIclVFUQ?oc=5\" target=\"_blank\">Pershing's Ackman sees a $1 trillion Israeli company within a decade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdHZsSVNpYWhSNWR0RG9fTFFreXJqNTRpT2x2ZlA2aWVjeS04a3ZXejYwdDN6WGN0WVg0YkZhdFZvLVc1elFrOWZIbXpQVFNCNTJNOTI3TllyblpwYXFNaTk0cnZBeGZ6b2hESm8yR0lZYzlCcmRMaU1tOXBZM3o3U3pWRWVkT2RZR2pKSVNocW9URmpMSkQ3bW9ySmRZcDlWenpHUDg0NWV5ZWdtZEp2cDJIclVFUQ?oc=5",
           "source": "Reuters AI",
-          "publishedAt": "2026-10-21",
+          "publishedAt": "2026-10-22",
           "views": "13.0K"
         }
       ]
