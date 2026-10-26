@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-25T04:35:40.961Z",
+  "lastUpdated": "2026-10-26T04:40:44.497Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -80,20 +80,20 @@
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
         {
-          "title": "Meta's AI spending, Muse assistant adoption in focus for quarterly results - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQTTZ4aW9rZHRKVUxlbEJ0M256bENvTG9sV3FFQUNqbTYtdk1kaHM0MHM3UEpDRHdYQ0FlcHQ0UUV4ZUc5Tllod0pqaXpGSE0zUmRDbm1SNm9sM1VaV1FGSDI3YVVDdXJnRXpPVXNQdi02V3ByOUgzQW9iZW11a2M4azBxam5mR2UzWjllVXg5SDNzZkdDRU56M01mZGp2VEItQ2trbnVWUGxfcUZMcThz?oc=5\" target=\"_blank\">Meta's AI spending, Muse assistant adoption in focus for quarterly results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTTZ4aW9rZHRKVUxlbEJ0M256bENvTG9sV3FFQUNqbTYtdk1kaHM0MHM3UEpDRHdYQ0FlcHQ0UUV4ZUc5Tllod0pqaXpGSE0zUmRDbm1SNm9sM1VaV1FGSDI3YVVDdXJnRXpPVXNQdi02V3ByOUgzQW9iZW11a2M4azBxam5mR2UzWjllVXg5SDNzZkdDRU56M01mZGp2VEItQ2trbnVWUGxfcUZMcThz?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-10-20",
-          "views": "18.0K"
-        },
-        {
           "title": "Nvidia launches new open models to run agents in the enterprise and on PCs - TechCrunch",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPNThVa0RMWlZyclBfYi0xMXlIYzJ6TElVcW5sakprLW16Ujk3WGVUVC0zMi1CSVJpektNazlpRnYzdDQyaDB3UTFGdThEUEtkSVk4b3F6LTNlcjdNU0RqMkZkNmZRdWxuZzVpY0hteHAzLW5nUHQ0cU54bGptVUkyekh4RWxUbzA2N2VXWk1IQ2pVeGpBbWc0SjFmQzR3YWFHLWFGSFp1YllsTUVwOHc?oc=5\" target=\"_blank\">Nvidia launches new open models to run agents in the enterprise and on PCs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNThVa0RMWlZyclBfYi0xMXlIYzJ6TElVcW5sakprLW16Ujk3WGVUVC0zMi1CSVJpektNazlpRnYzdDQyaDB3UTFGdThEUEtkSVk4b3F6LTNlcjdNU0RqMkZkNmZRdWxuZzVpY0hteHAzLW5nUHQ0cU54bGptVUkyekh4RWxUbzA2N2VXWk1IQ2pVeGpBbWc0SjFmQzR3YWFHLWFGSFp1YllsTUVwOHc?oc=5",
           "source": "TechCrunch AI",
           "publishedAt": "2026-10-19",
           "views": "18.0K"
+        },
+        {
+          "title": "VB Pulse Agentic Security and Identity Report - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1fRjhBNTFSZTJINzM4ZzNuUHIxX0FkYUp5YlIzVmRzS0pyLUxySGhsN0pzYzJqQjBjV2JETTdXblpYZVc5cVRKMkMxZkMwcVFhY3dWRGpQdVc0VlBrWnZScURRa3M0NmhacUltaXQ2VXhaVFpGZjhFUA?oc=5\" target=\"_blank\">VB Pulse Agentic Security and Identity Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fRjhBNTFSZTJINzM4ZzNuUHIxX0FkYUp5YlIzVmRzS0pyLUxySGhsN0pzYzJqQjBjV2JETTdXblpYZVc5cVRKMkMxZkMwcVFhY3dWRGpQdVc0VlBrWnZScURRa3M0NmhacUltaXQ2VXhaVFpGZjhFUA?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-10-25",
+          "views": "13.0K"
         },
         {
           "title": "Why the enterprise AI security gap starts below the model - VentureBeat",
@@ -158,11 +158,11 @@
           "views": "18.0K"
         },
         {
-          "title": "Korea's temporary jobs fall to 31-year Q3 low - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOMlMxNzNPejFwalVLV1cwUVNsRXl5ME1OWko4alVPVExTVC1WMy1nRWZUc0dqNjBhT1lXVU12NWtZbnMxcDlxdkxaeXlibXpUa3dsYVMtZW9TT2N1Zjc3ZElQdHZrSzhHbHl3SmF3LVpQQWY5Y0NHaGFVeEd1REpVeXJYTVBTRkVWa3A0cm52cS1IOEdDWGtqYU9B0gGaAUFVX3lxTE4yUzE3M096MXBqVUtXVzBRU2xFeXkwTU5aSjhqVU9UTFNULVYzLWdFZlRzR2o2MGFPWVdVTXY1a1luczFwOXF2TFp5eWJtelRrd2xhUy1lb1NPY3VmNzdkSVB0dmtLOEdseXdKYXctWlBBZjljQ0doYVV4R3VESlV5clhNUFNGRVZrcDRybnZxLUg4R0NYa2phT0E?oc=5\" target=\"_blank\">Korea's temporary jobs fall to 31-year Q3 low</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMlMxNzNPejFwalVLV1cwUVNsRXl5ME1OWko4alVPVExTVC1WMy1nRWZUc0dqNjBhT1lXVU12NWtZbnMxcDlxdkxaeXlibXpUa3dsYVMtZW9TT2N1Zjc3ZElQdHZrSzhHbHl3SmF3LVpQQWY5Y0NHaGFVeEd1REpVeXJYTVBTRkVWa3A0cm52cS1IOEdDWGtqYU9B0gGaAUFVX3lxTE4yUzE3M096MXBqVUtXVzBRU2xFeXkwTU5aSjhqVU9UTFNULVYzLWdFZlRzR2o2MGFPWVdVTXY1a1luczFwOXF2TFp5eWJtelRrd2xhUy1lb1NPY3VmNzdkSVB0dmtLOEdseXdKYXctWlBBZjljQ0doYVV4R3VESlV5clhNUFNGRVZrcDRybnZxLUg4R0NYa2phT0E?oc=5",
+          "title": "Korea-US investment firm gets credit ratings with stable outlooks - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQZThoYmQ3dkpPU1JwUDFOWUFFT25UOTlDeWxlUjJwYWJwVGVxN3V4SXp0WEQ4d1M5VkJBeVZCOEJKanNxVkZXNllQSm5PWi12eWNKeG9iNGptSWVmZVJ2aDE2c1pZeE9kT1hqNWNZbDJSMlhLUzktRnA0Y3JkY1hjX2pmbEpYeFRhR0RYOGxIWTd6ZUhyWi1oTEdTa2gtbl8zdUt6Tlk2MkRpYXRhV0NMS3NNcGtId9IBtgFBVV95cUxQZThoYmQ3dkpPU1JwUDFOWUFFT25UOTlDeWxlUjJwYWJwVGVxN3V4SXp0WEQ4d1M5VkJBeVZCOEJKanNxVkZXNllQSm5PWi12eWNKeG9iNGptSWVmZVJ2aDE2c1pZeE9kT1hqNWNZbDJSMlhLUzktRnA0Y3JkY1hjX2pmbEpYeFRhR0RYOGxIWTd6ZUhyWi1oTEdTa2gtbl8zdUt6Tlk2MkRpYXRhV0NMS3NNcGtIdw?oc=5\" target=\"_blank\">Korea-US investment firm gets credit ratings with stable outlooks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZThoYmQ3dkpPU1JwUDFOWUFFT25UOTlDeWxlUjJwYWJwVGVxN3V4SXp0WEQ4d1M5VkJBeVZCOEJKanNxVkZXNllQSm5PWi12eWNKeG9iNGptSWVmZVJ2aDE2c1pZeE9kT1hqNWNZbDJSMlhLUzktRnA0Y3JkY1hjX2pmbEpYeFRhR0RYOGxIWTd6ZUhyWi1oTEdTa2gtbl8zdUt6Tlk2MkRpYXRhV0NMS3NNcGtId9IBtgFBVV95cUxQZThoYmQ3dkpPU1JwUDFOWUFFT25UOTlDeWxlUjJwYWJwVGVxN3V4SXp0WEQ4d1M5VkJBeVZCOEJKanNxVkZXNllQSm5PWi12eWNKeG9iNGptSWVmZVJ2aDE2c1pZeE9kT1hqNWNZbDJSMlhLUzktRnA0Y3JkY1hjX2pmbEpYeFRhR0RYOGxIWTd6ZUhyWi1oTEdTa2gtbl8zdUt6Tlk2MkRpYXRhV0NMS3NNcGtIdw?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-10-25",
+          "publishedAt": "2026-10-26",
           "views": "13.0K"
         }
       ]
@@ -173,6 +173,14 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
+          "title": "Algeria to send troops to Niger in first foreign deployment since 1973 - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPU0lJZ29paHVHYVJsR1ZCMnJ4MHFia1VjMjZMc2VFWDFfUHdjUVlNUXplaUQzTWdMc0gzRV8zLTBIQWg5R1ctZEN4M0RRWEVKbmllZEVXc1BpQ2FmMXF3TGNlenVnOEc1bEN0R0FvMklJWXNCLWNtTmlGMTc1Yi1sb1VHbF9mMm1OcVYtVFF6MmJLVmE3aHV2NzdNdzI0cEFURnR3eDd1VkpTeTNEOF9J?oc=5\" target=\"_blank\">Algeria to send troops to Niger in first foreign deployment since 1973</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU0lJZ29paHVHYVJsR1ZCMnJ4MHFia1VjMjZMc2VFWDFfUHdjUVlNUXplaUQzTWdMc0gzRV8zLTBIQWg5R1ctZEN4M0RRWEVKbmllZEVXc1BpQ2FmMXF3TGNlenVnOEc1bEN0R0FvMklJWXNCLWNtTmlGMTc1Yi1sb1VHbF9mMm1OcVYtVFF6MmJLVmE3aHV2NzdNdzI0cEFURnR3eDd1VkpTeTNEOF9J?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-10-25",
+          "views": "13.0K"
+        },
+        {
           "title": "Democrat on US FCC urges broadcast industry to be more aggressive confronting the agency - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxObDZGUnF6MXJfcXVreTYzWjlRSzQ5VENDN3BCa2RqMGw2QTNFcmJYby1SQTl2aVd5bkFCUEZNdVZSLWo5WUwtYzhvejUtaWJaYWlHNXFlMHBuM1VRemUtbGI4Vjg2U3doM0pRWlF6NFk4U3dDU2ZMOTJLU0RXX3ZfSzdSOHRJS1pRc3d3MkdVMDJlVEhpX05CWGZWbzltZHd5XzhMUDNubDRKUjhfS1RQbHlNVThPdzlsQzFIY3BTaUNlS0M5LTEwS3FfLXotcTUxTm5J?oc=5\" target=\"_blank\">Democrat on US FCC urges broadcast industry to be more aggressive confronting the agency</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObDZGUnF6MXJfcXVreTYzWjlRSzQ5VENDN3BCa2RqMGw2QTNFcmJYby1SQTl2aVd5bkFCUEZNdVZSLWo5WUwtYzhvejUtaWJaYWlHNXFlMHBuM1VRemUtbGI4Vjg2U3doM0pRWlF6NFk4U3dDU2ZMOTJLU0RXX3ZfSzdSOHRJS1pRc3d3MkdVMDJlVEhpX05CWGZWbzltZHd5XzhMUDNubDRKUjhfS1RQbHlNVThPdzlsQzFIY3BTaUNlS0M5LTEwS3FfLXotcTUxTm5J?oc=5",
@@ -181,17 +189,9 @@
           "views": "13.0K"
         },
         {
-          "title": "[Exclusive] SK Telecom, SK Hynix Launch 'Hy-TF' AI Task Force - ETNEWS",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE1zQ1k0YWFkVHJlbmJZYmROMTJpU1FqMnVwZl90NkktOXJraGVsT05xcDVCYmFLb0FlY2kzRnZXa0xkNXdLbTdMYWZvcnQ?oc=5\" target=\"_blank\">[Exclusive] SK Telecom, SK Hynix Launch 'Hy-TF' AI Task Force</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1zQ1k0YWFkVHJlbmJZYmROMTJpU1FqMnVwZl90NkktOXJraGVsT05xcDVCYmFLb0FlY2kzRnZXa0xkNXdLbTdMYWZvcnQ?oc=5",
-          "source": "전자신문",
-          "publishedAt": "2026-10-23",
-          "views": "13.0K"
-        },
-        {
-          "title": "Financial industry heavyweights compete to head banking lobby - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNdU45R3k0QlUyYjc3UlBSU29Xak1RRFhOQng3T0VDQ2otbHViSFo1VE9WWEdnaWx2QmhpZk95bmFJenlQT0RqN2E4SVJIOGhDYjFPM1dRbEtZQUVNVGJvX2haNS1SSDZrOUIwNlVKdlRoNGYtOFRENnZVNEhJdzJFbElmc05LOHRKWnNUbldfTnczeVVGYjRWc0pwanVmRnJFSy02WnQtV3ZLYUFVeFhGeXQyRTRPV0Z6cTdwRVZOeEJDZ01qQjVB0gHHAUFVX3lxTE11TjlHeTRCVTJiNzdSUFJTb1dqTVFEWE5CeDdPRUNDai1sdWJIWjVUT1ZYR2dpbHZCaGlmT3luYUl6eVBPRGo3YThJUkg4aENiMU8zV1FsS1lBRU1UYm9faFo1LVJINms5QjA2VUp2VGg0Zi04VEQ2dlU0SEl3MkVsSWZzTks4dEpac1RuV19OdzN5VUZiNFZzSnBqdWZGckVLLTZadC1XdkthQVV4WEZ5dDJFNE9XRnpxN3BFVk54QkNnTWpCNUE?oc=5\" target=\"_blank\">Financial industry heavyweights compete to head banking lobby</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdU45R3k0QlUyYjc3UlBSU29Xak1RRFhOQng3T0VDQ2otbHViSFo1VE9WWEdnaWx2QmhpZk95bmFJenlQT0RqN2E4SVJIOGhDYjFPM1dRbEtZQUVNVGJvX2haNS1SSDZrOUIwNlVKdlRoNGYtOFRENnZVNEhJdzJFbElmc05LOHRKWnNUbldfTnczeVVGYjRWc0pwanVmRnJFSy02WnQtV3ZLYUFVeFhGeXQyRTRPV0Z6cTdwRVZOeEJDZ01qQjVB0gHHAUFVX3lxTE11TjlHeTRCVTJiNzdSUFJTb1dqTVFEWE5CeDdPRUNDai1sdWJIWjVUT1ZYR2dpbHZCaGlmT3luYUl6eVBPRGo3YThJUkg4aENiMU8zV1FsS1lBRU1UYm9faFo1LVJINms5QjA2VUp2VGg0Zi04VEQ2dlU0SEl3MkVsSWZzTks4dEpac1RuV19OdzN5VUZiNFZzSnBqdWZGckVLLTZadC1XdkthQVV4WEZ5dDJFNE9XRnpxN3BFVk54QkNnTWpCNUE?oc=5",
+          "title": "EU sees Korea as 'trusted partner' in evolving Indo-Pacific strategy - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS2NGdVZTekFCQlR6LVI1SWR4ZEp3Q0lJUTJSQXJ4bVdBQWdaRElBZ0Qzc2VNQTFkTGQ3TDRZSS1DZjg4UWpxaVVxZ29ibWZueGRCRi1xNDVnSl9KaUFtRHBoV0FfZUJNOVhKb2FCbms1SGRHV3c0ODVUR0NjX1pab3RreWl6WWFrYXpITHJJOV9KcUlJNjJLeWhvcUdWSHBXTkE3ZG5IUGRkLU53STA5LUNCazBoZ0ZOMnpN0gHAAUFVX3lxTE55SWVjdGNIQTFGa3E0VXdWUUdwQ1g3aXF6eDduXzhldURVZzNJT3g1eFJxcFpfVHRJcURlMDJtcTNXSFlZcXRFR2ZPQlZUZXBxUWJwZEhlVEtwOElJNEMxdDB5dnNndmFWWVcwT2YyTDg2VzZqRzNraUdDT0g1VkhMZ0ZUTENTWEl4TmVmNGlBeEdpY3pTcTNqUnVtRTlMSklLWmhhWkRGQWlZb3RxN19pNF9nX3NwbUlpc2QyNTdDSA?oc=5\" target=\"_blank\">EU sees Korea as 'trusted partner' in evolving Indo-Pacific strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS2NGdVZTekFCQlR6LVI1SWR4ZEp3Q0lJUTJSQXJ4bVdBQWdaRElBZ0Qzc2VNQTFkTGQ3TDRZSS1DZjg4UWpxaVVxZ29ibWZueGRCRi1xNDVnSl9KaUFtRHBoV0FfZUJNOVhKb2FCbms1SGRHV3c0ODVUR0NjX1pab3RreWl6WWFrYXpITHJJOV9KcUlJNjJLeWhvcUdWSHBXTkE3ZG5IUGRkLU53STA5LUNCazBoZ0ZOMnpN0gHAAUFVX3lxTE55SWVjdGNIQTFGa3E0VXdWUUdwQ1g3aXF6eDduXzhldURVZzNJT3g1eFJxcFpfVHRJcURlMDJtcTNXSFlZcXRFR2ZPQlZUZXBxUWJwZEhlVEtwOElJNEMxdDB5dnNndmFWWVcwT2YyTDg2VzZqRzNraUdDT0g1VkhMZ0ZUTENTWEl4TmVmNGlBeEdpY3pTcTNqUnVtRTlMSklLWmhhWkRGQWlZb3RxN19pNF9nX3NwbUlpc2QyNTdDSA?oc=5",
           "source": "The Korea Times",
           "publishedAt": "2026-10-23",
           "views": "13.0K"
