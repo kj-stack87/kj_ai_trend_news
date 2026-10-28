@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-27T04:58:19.310Z",
+  "lastUpdated": "2026-10-28T05:34:34.510Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -80,27 +80,27 @@
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
         {
+          "title": "Liquid AI’s new LFM3 models put browser agents, voice commands, and image recognition onto enterprise-controlled devices - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRGpKdjhPN2RkXzRmc1FQRTZKTUtocFFQbUkyLUpVY2xIMmRZZm1VcHRWd3ZYMmJlZlZhMEVoaDFILU1OYXlMaUhDeEZKaHZWV3BqV1E1OHY2S2VNYnFPM2ZqOThQN244bFhfZ0hpc0EwX3J3NkR4ckdudHFqSVQxQ0lhM3ZXUVpVeVByRFdudkNiX0I3VS1NQkZtQ0pidWxoZWZwRVowWms5d0pRS0xrVmxvWEFQQ3BvYTREbmVRZEN4a3lJTzhuNVA1OHNveUQ1aGk3amRSYkpmdEhja1BfdVJQb1hVNkE?oc=5\" target=\"_blank\">Liquid AI’s new LFM3 models put browser agents, voice commands, and image recognition onto enterprise-controlled devices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRGpKdjhPN2RkXzRmc1FQRTZKTUtocFFQbUkyLUpVY2xIMmRZZm1VcHRWd3ZYMmJlZlZhMEVoaDFILU1OYXlMaUhDeEZKaHZWV3BqV1E1OHY2S2VNYnFPM2ZqOThQN244bFhfZ0hpc0EwX3J3NkR4ckdudHFqSVQxQ0lhM3ZXUVpVeVByRFdudkNiX0I3VS1NQkZtQ0pidWxoZWZwRVowWms5d0pRS0xrVmxvWEFQQ3BvYTREbmVRZEN4a3lJTzhuNVA1OHNveUQ1aGk3amRSYkpmdEhja1BfdVJQb1hVNkE?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-10-27",
+          "views": "18.0K"
+        },
+        {
           "title": "Agentic Infrastructure Stack Summit - VentureBeat",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBSRGpCdXNqNV9WdlE1V3ZJa1c5Rm1renlLT1Z5MC1ZVFZEQmUyQktLYmR1NlRGX2hhUzhid2l1WFI2c2RUVTRnc0hGbDRmNC1DVmM2UlItYU1YM1Z4d1hKOWRKT1ZWY2pUOTdUU0ZQSC0weGlkdUF4NGNkTQ?oc=5\" target=\"_blank\">Agentic Infrastructure Stack Summit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBSRGpCdXNqNV9WdlE1V3ZJa1c5Rm1renlLT1Z5MC1ZVFZEQmUyQktLYmR1NlRGX2hhUzhid2l1WFI2c2RUVTRnc0hGbDRmNC1DVmM2UlItYU1YM1Z4d1hKOWRKT1ZWY2pUOTdUU0ZQSC0weGlkdUF4NGNkTQ?oc=5",
           "source": "VentureBeat AI",
-          "publishedAt": "2026-10-27",
+          "publishedAt": "2026-10-28",
           "views": "13.0K"
         },
         {
-          "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant - TechCrunch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNSUVCM0RUdHY3cXA1MUhJRW43ejN5Q1dmM3Nia1ZYck1mR3N1cUV6YkFLN2k2RUo1UEhOR1ppWHFWaHZPdlgtN2NiTWdJREJoTXRtU1NuVlFVOTB3VFBBNjJJN2daUTVBeFRTYnRRWnNRLUZvbW14U0dJMVd5NTRmTjlVMkx3aHQ0YVZBRkVyV0tKYnV6dHdzR2E4NVltOG5CcGZqcHZNb1NNcHBsWGVzbQ?oc=5\" target=\"_blank\">How OpenAI turned its coding tools into dots, an always-on personal assistant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSUVCM0RUdHY3cXA1MUhJRW43ejN5Q1dmM3Nia1ZYck1mR3N1cUV6YkFLN2k2RUo1UEhOR1ppWHFWaHZPdlgtN2NiTWdJREJoTXRtU1NuVlFVOTB3VFBBNjJJN2daUTVBeFRTYnRRWnNRLUZvbW14U0dJMVd5NTRmTjlVMkx3aHQ0YVZBRkVyV0tKYnV6dHdzR2E4NVltOG5CcGZqcHZNb1NNcHBsWGVzbQ?oc=5",
-          "source": "TechCrunch AI",
+          "title": "Salesforce expands Agent Fabric with AI evaluations to trigger shutdowns when agents fail - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQWHlKNV9XUEpoTjFwZEdmMVRDa3dib3R6a3BycFQxWnBudTRFelUxSVhqcTJjNU5CM3ZmdUVLR1AtSFpRQnY3VTZQanhKNEtHOU44cW8xNTJDMkc0b0FRVm00SC1tV3dqSE1wLTNRb25hOWJUZjVrbndSem5qX2R0NjJ3dXJweEwwS2J4SVhBOA?oc=5\" target=\"_blank\">Salesforce expands Agent Fabric with AI evaluations to trigger shutdowns when agents fail</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWHlKNV9XUEpoTjFwZEdmMVRDa3dib3R6a3BycFQxWnBudTRFelUxSVhqcTJjNU5CM3ZmdUVLR1AtSFpRQnY3VTZQanhKNEtHOU44cW8xNTJDMkc0b0FRVm00SC1tV3dqSE1wLTNRb25hOWJUZjVrbndSem5qX2R0NjJ3dXJweEwwS2J4SVhBOA?oc=5",
+          "source": "VentureBeat AI",
           "publishedAt": "2026-10-27",
-          "views": "13.0K"
-        },
-        {
-          "title": "Korean Card Issuers to Launch Agent Pay Services in First Half of 2027 - ETNEWS",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9DOENxUDFUVVA1TFJsQ251bDRCdk10ZzNWSDRkQzlZS24tRnNfS0NVS1ZsMWhfNC1wenJVMTFIelRIakZ5dVA5OEJ1cms?oc=5\" target=\"_blank\">Korean Card Issuers to Launch Agent Pay Services in First Half of 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9DOENxUDFUVVA1TFJsQ251bDRCdk10ZzNWSDRkQzlZS24tRnNfS0NVS1ZsMWhfNC1wenJVMTFIelRIakZ5dVA5OEJ1cms?oc=5",
-          "source": "전자신문",
-          "publishedAt": "2026-10-26",
           "views": "13.0K"
         }
       ]
@@ -110,6 +110,14 @@
       "hashtag": "#윤리",
       "description": "규제, 책임, 신뢰, 저작권 같은 문제를 보는 관점",
       "items": [
+        {
+          "title": "Indian media groups decry Modi’s privacy law in court, say newsrooms face shutdown risk - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPamZ6a0RNdDZHNVJ5M2xGeG5TR0x3VHNpSXBmaW95aTdjVS1nZDJRenJaNlZCUWltMUpzRnMwdlF4YTdPY0haaFJlSTI4bjNVRWdIR2ZWR19rWDQweElGYl94T1MyX3g4R3doWmxVYjRJX2JObDRWMVRqdFdNMzdKWl9pS1RRTEZISGhMY29FaF9FSVg1QVBKazlPRU1QWGtZcjBVV19uZ3NPVGZwel9mMGV1dzU?oc=5\" target=\"_blank\">Indian media groups decry Modi’s privacy law in court, say newsrooms face shutdown risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPamZ6a0RNdDZHNVJ5M2xGeG5TR0x3VHNpSXBmaW95aTdjVS1nZDJRenJaNlZCUWltMUpzRnMwdlF4YTdPY0haaFJlSTI4bjNVRWdIR2ZWR19rWDQweElGYl94T1MyX3g4R3doWmxVYjRJX2JObDRWMVRqdFdNMzdKWl9pS1RRTEZISGhMY29FaF9FSVg1QVBKazlPRU1QWGtZcjBVV19uZ3NPVGZwel9mMGV1dzU?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-10-27",
+          "views": "18.0K"
+        },
         {
           "title": "Lotte World ramps up safety prep with hands-on fire, CPR drills - The Korea Times",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPY2ppX1A5LW43YXZ4VnN3YjlPbUhna3JldE9iMXdQd25NdGZORURfWHQ0OWMzcDBHYXdfdzhfbTlqVEJ4WjBpWUp0eHNMbXNCREcxTWxSV1dfTlhzOXUwQXAxWW1fRUJIM25SdkczTk9teHdoWDNoNTlLZXdJZHgwYzRJUDZ3QWNWcEpHc1dCZVdreG1aOHhzdkNobVFCYXNDSmc4aGVUdko4Y1FMT3pNVzl6bU8wWWRCc0cw0gHAAUFVX3lxTE5vSGVxanBNaGFWdTJLN01RYkpvMzFQbi1XdHVyMDVaSzhYYURIajFSY2NuT05IZ2s2UEVzT25PSlpOenR0aDVwZGpqWXJrZGoyeGJWZm1Lc0FkX2h3eHA2MUFTSW9Pb29qY21KdndSZUFlQV9lN21peFpOZnpLVEZydUtQZExYRU1TaWtGdFhmeEFVQWtER2xVNnd2aG85V3Bqb24ydDVuLVMxdUgzX3BGY2hoNjVXSDZBNXg1dHdlaw?oc=5\" target=\"_blank\">Lotte World ramps up safety prep with hands-on fire, CPR drills</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
@@ -125,14 +133,6 @@
           "source": "Reuters AI",
           "publishedAt": "2026-10-22",
           "views": "18.0K"
-        },
-        {
-          "title": "US, dozens of countries warn of Sudan famine risk, urge aid - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX0NVeWxHWW90dDBFVmZjSU9IUXZDR3hZSTdpQzg4SFphaUJKWHl2RTRmaWlWQVp5U2ZjVzVZQ3lLZ2d1VTJSbFQ3a0Q3SDZPRmZzVHZkSGRIc3VXQ1pTQnpzdGQtQmpuMWFUcnl2OTM3U3dRWkdoVmNOVmVrVkNCUlVqeC04d3BRdDZxOHQxRGRXZmprdC1McUNRSGVzbUhBY2dEY0ZBUE4zQQ?oc=5\" target=\"_blank\">US, dozens of countries warn of Sudan famine risk, urge aid</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX0NVeWxHWW90dDBFVmZjSU9IUXZDR3hZSTdpQzg4SFphaUJKWHl2RTRmaWlWQVp5U2ZjVzVZQ3lLZ2d1VTJSbFQ3a0Q3SDZPRmZzVHZkSGRIc3VXQ1pTQnpzdGQtQmpuMWFUcnl2OTM3U3dRWkdoVmNOVmVrVkNCUlVqeC04d3BRdDZxOHQxRGRXZmprdC1McUNRSGVzbUhBY2dEY0ZBUE4zQQ?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-10-27",
-          "views": "13.0K"
         }
       ]
     },
@@ -159,8 +159,8 @@
         },
         {
           "title": "KSD channels $1.17 mil. funding this year into regional talent, startups in Busan - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcG83VXNFc2Q2NjBVamw4MmxfMlVLNHY0a2c5dlZlZ0gwOWlLRFFYcWxydmc4ZkZrNGFuOXpqY1d3czdjdmZ1Qk9FZVFJS2FxZUNUaWJycTRZeTJLX2ZSdUFvekk4Zkw0YlBGdmlhU1o1ZHplU3dtSmNzZUNDOFFHSGlfWmc3VUNmcjRxSnFneUNNOFJZc1BDa3NlT2phODJOWmtFQ05uQURnVlV1Vjk4b0pPRUN3Q19fN2VEM0V0d2dXUlBIYkhQaklvN3FhQ2FBTDE3Z0xGbTM4a1FV0gHcAUFVX3lxTE5wbzdVc0VzZDY2MFVqbDgybF8yVUs0djRrZzl2VmVnSDA5aUtEUVhxbHJ2ZzhmRms0YW45empjV3dzN2N2ZnVCT0VlUUlLYXFlQ1RpYnJxNFl5MktfZlJ1QW96SThmTDRiUEZ2aWFTWjVkemVTd21KY3NlQ0M4UUdIaV9aZzdVQ2ZyNHFKcWd5Q004UllzUENrc2VPamE4Mk5aa0VDTm5BRGdWVXVWOThvSk9FQ3dDX183ZUQzRXR3Z1dSUEhiSFBqSW83cWFDYUFMMTdnTEZtMzhrUVU?oc=5\" target=\"_blank\">KSD channels $1.17 mil. funding this year into regional talent, startups in Busan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcG83VXNFc2Q2NjBVamw4MmxfMlVLNHY0a2c5dlZlZ0gwOWlLRFFYcWxydmc4ZkZrNGFuOXpqY1d3czdjdmZ1Qk9FZVFJS2FxZUNUaWJycTRZeTJLX2ZSdUFvekk4Zkw0YlBGdmlhU1o1ZHplU3dtSmNzZUNDOFFHSGlfWmc3VUNmcjRxSnFneUNNOFJZc1BDa3NlT2phODJOWmtFQ05uQURnVlV1Vjk4b0pPRUN3Q19fN2VEM0V0d2dXUlBIYkhQaklvN3FhQ2FBTDE3Z0xGbTM4a1FV0gHcAUFVX3lxTE5wbzdVc0VzZDY2MFVqbDgybF8yVUs0djRrZzl2VmVnSDA5aUtEUVhxbHJ2ZzhmRms0YW45empjV3dzN2N2ZnVCT0VlUUlLYXFlQ1RpYnJxNFl5MktfZlJ1QW96SThmTDRiUEZ2aWFTWjVkemVTd21KY3NlQ0M4UUdIaV9aZzdVQ2ZyNHFKcWd5Q004UllzUENrc2VPamE4Mk5aa0VDTm5BRGdWVXVWOThvSk9FQ3dDX183ZUQzRXR3Z1dSUEhiSFBqSW83cWFDYUFMMTdnTEZtMzhrUVU?oc=5",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRHBFYndxY2JXbEdOaF9FX25wTGl1UWRJNkRpLW1xUmRFLUJ2UlFqTTlZN3BSSVUwcUVtUmxrOEpRYi00N01tNVBYQWdZOUpLZFl2Y0xybzM4cU03LTM2X0tuY19LaFliTnlabmx5d1gxWlJGN2xyV0o3eDJYOWZ1T09ncnJfcm1sTXZLemVHeUd1YmtzMVB5bHI0eUhGU0gzM1FsLVV1by02ME5kUnF3Z211b1JfUzR6LTZTNnVaalJOWExkQVU1Yy1HWXJoUW1scmVoaFlOZ9IB3AFBVV95cUxOcG83VXNFc2Q2NjBVamw4MmxfMlVLNHY0a2c5dlZlZ0gwOWlLRFFYcWxydmc4ZkZrNGFuOXpqY1d3czdjdmZ1Qk9FZVFJS2FxZUNUaWJycTRZeTJLX2ZSdUFvekk4Zkw0YlBGdmlhU1o1ZHplU3dtSmNzZUNDOFFHSGlfWmc3VUNmcjRxSnFneUNNOFJZc1BDa3NlT2phODJOWmtFQ05uQURnVlV1Vjk4b0pPRUN3Q19fN2VEM0V0d2dXUlBIYkhQaklvN3FhQ2FBTDE3Z0xGbTM4a1FV?oc=5\" target=\"_blank\">KSD channels $1.17 mil. funding this year into regional talent, startups in Busan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRHBFYndxY2JXbEdOaF9FX25wTGl1UWRJNkRpLW1xUmRFLUJ2UlFqTTlZN3BSSVUwcUVtUmxrOEpRYi00N01tNVBYQWdZOUpLZFl2Y0xybzM4cU03LTM2X0tuY19LaFliTnlabmx5d1gxWlJGN2xyV0o3eDJYOWZ1T09ncnJfcm1sTXZLemVHeUd1YmtzMVB5bHI0eUhGU0gzM1FsLVV1by02ME5kUnF3Z211b1JfUzR6LTZTNnVaalJOWExkQVU1Yy1HWXJoUW1scmVoaFlOZ9IB3AFBVV95cUxOcG83VXNFc2Q2NjBVamw4MmxfMlVLNHY0a2c5dlZlZ0gwOWlLRFFYcWxydmc4ZkZrNGFuOXpqY1d3czdjdmZ1Qk9FZVFJS2FxZUNUaWJycTRZeTJLX2ZSdUFvekk4Zkw0YlBGdmlhU1o1ZHplU3dtSmNzZUNDOFFHSGlfWmc3VUNmcjRxSnFneUNNOFJZc1BDa3NlT2phODJOWmtFQ05uQURnVlV1Vjk4b0pPRUN3Q19fN2VEM0V0d2dXUlBIYkhQaklvN3FhQ2FBTDE3Z0xGbTM4a1FV?oc=5",
           "source": "The Korea Times",
           "publishedAt": "2026-10-23",
           "views": "18.0K"
@@ -173,27 +173,27 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
-          "title": "LIG D&A CEO denies company's involvement in bribery allegations - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcXJoS2M3Q2NacGo2STgzNVNRNl9oWWxCWFlGLXl4c3Z0bVRRMmc2WnBiWl9pdXkybTExUVRjQWZIQk5wMThvQXVfYldoaDk5Q0VqT2EtREZJR0JCd3U4LW52YTNTdnphaTZpLS03UXlNRnZqLUlibHRIQ1BEbDFISVVadXJrcDlVVkQyeFZyYmZkY0k0REVlcm9TUlFaS1NtS2JiY2tRZjA2ZEtPRVJ2dVp1cnBwRU9BUmw3bkJ6N3g5QdIBwgFBVV95cUxOcXJoS2M3Q2NacGo2STgzNVNRNl9oWWxCWFlGLXl4c3Z0bVRRMmc2WnBiWl9pdXkybTExUVRjQWZIQk5wMThvQXVfYldoaDk5Q0VqT2EtREZJR0JCd3U4LW52YTNTdnphaTZpLS03UXlNRnZqLUlibHRIQ1BEbDFISVVadXJrcDlVVkQyeFZyYmZkY0k0REVlcm9TUlFaS1NtS2JiY2tRZjA2ZEtPRVJ2dVp1cnBwRU9BUmw3bkJ6N3g5QQ?oc=5\" target=\"_blank\">LIG D&A CEO denies company's involvement in bribery allegations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcXJoS2M3Q2NacGo2STgzNVNRNl9oWWxCWFlGLXl4c3Z0bVRRMmc2WnBiWl9pdXkybTExUVRjQWZIQk5wMThvQXVfYldoaDk5Q0VqT2EtREZJR0JCd3U4LW52YTNTdnphaTZpLS03UXlNRnZqLUlibHRIQ1BEbDFISVVadXJrcDlVVkQyeFZyYmZkY0k0REVlcm9TUlFaS1NtS2JiY2tRZjA2ZEtPRVJ2dVp1cnBwRU9BUmw3bkJ6N3g5QdIBwgFBVV95cUxOcXJoS2M3Q2NacGo2STgzNVNRNl9oWWxCWFlGLXl4c3Z0bVRRMmc2WnBiWl9pdXkybTExUVRjQWZIQk5wMThvQXVfYldoaDk5Q0VqT2EtREZJR0JCd3U4LW52YTNTdnphaTZpLS03UXlNRnZqLUlibHRIQ1BEbDFISVVadXJrcDlVVkQyeFZyYmZkY0k0REVlcm9TUlFaS1NtS2JiY2tRZjA2ZEtPRVJ2dVp1cnBwRU9BUmw3bkJ6N3g5QQ?oc=5",
+          "title": "N. Korea's Kim calls for combat readiness at photo session with army company leaders - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUmJzeXZoaTYtZXNERk5qMnFzcF9YdWlpSU4tOFdLTks5NE5OWVJtQkoxekE1MUdMZWotSmZoNEswelgwSXphOG1zSjhPM0x1eWcyNWdQOHBYRTdpODFNZ3JXUG5NWl9DbjY3RzVNT0RMb2JtRTZyS3NPUmFhVGV1QUhxdkU0bHhVZzhQU2xOZnNDY0Z3OF81OHMydWtNTHlRTDZfbHZKczJFMC1paDlUTGlSTmhaeFV4S05qcHhOWUs1b2FvdkhKbU95WWlxenJtT09HUzBTVDNGUmowWEhfaFRWS1fSAeQBQVVfeXFMUFJic3l2aGk2LWVzREZOajJxc3BfWHVpaUlOLThXS05LOTROTllSbUJKMXpBNTFHTGVqLUpmaDRLMHpYMEl6YThtc0o4TzNMdXlnMjVnUDhwWEU3aTgxTWdyV1BuTVpfQ242N0c1TU9ETG9ibUU2cktzT1JhYVRldUFIcXZFNGx4VWc4UFNsTmZzQ2NGdzhfNThzMnVrTUx5UUw2X2x2SnMyRTAtaWg5VExpUk5oWnhVeEtOanB4TllLNW9hb3ZISm1PeVlpcXpybU9PR1MwU1QzRlJqMFhIX2hUVktX?oc=5\" target=\"_blank\">N. Korea's Kim calls for combat readiness at photo session with army company leaders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUmJzeXZoaTYtZXNERk5qMnFzcF9YdWlpSU4tOFdLTks5NE5OWVJtQkoxekE1MUdMZWotSmZoNEswelgwSXphOG1zSjhPM0x1eWcyNWdQOHBYRTdpODFNZ3JXUG5NWl9DbjY3RzVNT0RMb2JtRTZyS3NPUmFhVGV1QUhxdkU0bHhVZzhQU2xOZnNDY0Z3OF81OHMydWtNTHlRTDZfbHZKczJFMC1paDlUTGlSTmhaeFV4S05qcHhOWUs1b2FvdkhKbU95WWlxenJtT09HUzBTVDNGUmowWEhfaFRWS1fSAeQBQVVfeXFMUFJic3l2aGk2LWVzREZOajJxc3BfWHVpaUlOLThXS05LOTROTllSbUJKMXpBNTFHTGVqLUpmaDRLMHpYMEl6YThtc0o4TzNMdXlnMjVnUDhwWEU3aTgxTWdyV1BuTVpfQ242N0c1TU9ETG9ibUU2cktzT1JhYVRldUFIcXZFNGx4VWc4UFNsTmZzQ2NGdzhfNThzMnVrTUx5UUw2X2x2SnMyRTAtaWg5VExpUk5oWnhVeEtOanB4TllLNW9hb3ZISm1PeVlpcXpybU9PR1MwU1QzRlJqMFhIX2hUVktX?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-10-26",
+          "publishedAt": "2026-10-27",
           "views": "13.0K"
         },
         {
-          "title": "Tesla owners in Slovakia welcome assisted-drive tech as EU weighs rollout across bloc - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX1h6M3BrVWk0eXZ3a0dZWjQ0ZjBUbklmb3J0TUxzbTd1WFJwcG1tbmNGb3kwZUp5VzFTaUc2cFlRelUxODNlZndXRXhoLTlGQ1NCaHAxaGNzRENLYlNhRTQzWlNKc0NKRHFOMmJzSHFYZE9VRGYwWFQ4MEVYRTJqNmZwdU9RamJxUThKNDk0eVNFTW9UcTdBQUo5ZDY5WXl4M1VBTm9YMFpLSlRkd1otWVg0MkY4STcyMVphREM2OHhDQQ?oc=5\" target=\"_blank\">Tesla owners in Slovakia welcome assisted-drive tech as EU weighs rollout across bloc</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX1h6M3BrVWk0eXZ3a0dZWjQ0ZjBUbklmb3J0TUxzbTd1WFJwcG1tbmNGb3kwZUp5VzFTaUc2cFlRelUxODNlZndXRXhoLTlGQ1NCaHAxaGNzRENLYlNhRTQzWlNKc0NKRHFOMmJzSHFYZE9VRGYwWFQ4MEVYRTJqNmZwdU9RamJxUThKNDk0eVNFTW9UcTdBQUo5ZDY5WXl4M1VBTm9YMFpLSlRkd1otWVg0MkY4STcyMVphREM2OHhDQQ?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-10-26",
+          "title": "Industrial Intelligence: The next growth opportunity for manufacturing - MIT Technology Review",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxORFBhMmFHaklkQm9xdlFVT0Q4V01oQVQ2SXF1bTNaWFhMc3gwZFU3SWh3Q1gyVXdVX2NpTEVZQzFSN0JhSUdWQ191RW9ybUZKR0dZUnlBSnpLdUVrTS1pRUJZcm81NklweUNXWVY4aTZHTnFmQnY4aDlpeEF3LVBlM0ZiSTR5Uzh5MmhFaU5zYy1MMURGbVNiTlgxOTIxSzhaRFg1YUJKdS02dzliQzA3STFxdnJkVlVqTWtSRlh5VdIBxAFBVV95cUxQZVpWdjdBRHVDYVJsQ0IybWpYRVg1RkNrYzJTd1B4TWdERlM5dThQOGVGT1pYSzZXQ1NhLVN6eTRlOHhjbUFiaUZMbFFjRjdDa1NpeVdlSGltQzI2S3FKX2lZU2ZBY1N0RXFUY2poWDdIR1JzWFNGdXctaEFHWHFlTXhnNWkwMjZFaFU2RHVFODJSQUdSVTJoSEJ5TzY4aFNIeXN3NFY2UGR0ZFVkbnVGeWRya2xJV0tSQ1lJcUlIcXhIekdl?oc=5\" target=\"_blank\">Industrial Intelligence: The next growth opportunity for manufacturing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MIT Technology Review</font>",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORFBhMmFHaklkQm9xdlFVT0Q4V01oQVQ2SXF1bTNaWFhMc3gwZFU3SWh3Q1gyVXdVX2NpTEVZQzFSN0JhSUdWQ191RW9ybUZKR0dZUnlBSnpLdUVrTS1pRUJZcm81NklweUNXWVY4aTZHTnFmQnY4aDlpeEF3LVBlM0ZiSTR5Uzh5MmhFaU5zYy1MMURGbVNiTlgxOTIxSzhaRFg1YUJKdS02dzliQzA3STFxdnJkVlVqTWtSRlh5VdIBxAFBVV95cUxQZVpWdjdBRHVDYVJsQ0IybWpYRVg1RkNrYzJTd1B4TWdERlM5dThQOGVGT1pYSzZXQ1NhLVN6eTRlOHhjbUFiaUZMbFFjRjdDa1NpeVdlSGltQzI2S3FKX2lZU2ZBY1N0RXFUY2poWDdIR1JzWFNGdXctaEFHWHFlTXhnNWkwMjZFaFU2RHVFODJSQUdSVTJoSEJ5TzY4aFNIeXN3NFY2UGR0ZFVkbnVGeWRya2xJV0tSQ1lJcUlIcXhIekdl?oc=5",
+          "source": "MIT Technology Review (AI)",
+          "publishedAt": "2026-10-27",
           "views": "13.0K"
         },
         {
-          "title": "Spain's Moeve 'fully focused' on transformation strategy after Galp talks collapse - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPZWl4Qm4ta0hsaGtQNW1VM2hFYVpxNzlDNG10V25uUEEwOEpEQnI3V1poVG10OGxsMWJiNVlPQXd4aDBhNWV1NlZTT3RZaXBOX0hqeXJDYkNNLU5Sd0lNMGNWY1ZMNERoVGJ5VDVvTnJmUGU5UlZCUmxtcEY3UkdjdlE1VFFGYjZadVN6OUZqY3hUN2hlTkNrUzdjZnFNMV9QSkNON0tmNWF4bmNxWlp5dFMtamxIUVN1YzlYTjduSUd0TGhrbkVn?oc=5\" target=\"_blank\">Spain's Moeve 'fully focused' on transformation strategy after Galp talks collapse</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZWl4Qm4ta0hsaGtQNW1VM2hFYVpxNzlDNG10V25uUEEwOEpEQnI3V1poVG10OGxsMWJiNVlPQXd4aDBhNWV1NlZTT3RZaXBOX0hqeXJDYkNNLU5Sd0lNMGNWY1ZMNERoVGJ5VDVvTnJmUGU5UlZCUmxtcEY3UkdjdlE1VFFGYjZadVN6OUZqY3hUN2hlTkNrUzdjZnFNMV9QSkNON0tmNWF4bmNxWlp5dFMtamxIUVN1YzlYTjduSUd0TGhrbkVn?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-10-26",
+          "title": "Anthropic creates Public Benefit Fund that grows with company valuation - AI News",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPZldfTGhZTGVIQjF4eFQzQXdQNGhZUkVZeG0yUV9NeXIyNGpXalNBeWVrY1ZiT3BmLUtmVmRjaFVwMGZHV3Frb3gzTEdjRTQtaW54blZaOUhiM0RnUDlMOWxwbkZvWmM3OWY4QmdiVjVOUjkwUGdqY1JNTHJXODZXdFZOTmNGUXU5THJKb0tHcWpPYzROaDYzZ0xldUNqRmUwd05JX3NNVGNtZ0JMQWVKM0RUalZvRnViWHBPN3Bn?oc=5\" target=\"_blank\">Anthropic creates Public Benefit Fund that grows with company valuation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI News</font>",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZldfTGhZTGVIQjF4eFQzQXdQNGhZUkVZeG0yUV9NeXIyNGpXalNBeWVrY1ZiT3BmLUtmVmRjaFVwMGZHV3Frb3gzTEdjRTQtaW54blZaOUhiM0RnUDlMOWxwbkZvWmM3OWY4QmdiVjVOUjkwUGdqY1JNTHJXODZXdFZOTmNGUXU5THJKb0tHcWpPYzROaDYzZ0xldUNqRmUwd05JX3NNVGNtZ0JMQWVKM0RUalZvRnViWHBPN3Bn?oc=5",
+          "source": "AI News",
+          "publishedAt": "2026-10-27",
           "views": "13.0K"
         }
       ]
