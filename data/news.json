@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-30T05:41:19.132Z",
+  "lastUpdated": "2026-10-31T05:33:28.653Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -88,19 +88,19 @@
           "views": "18.0K"
         },
         {
-          "title": "We urgently need to monitor AI agents’ actions in real time - MIT Technology Review",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPY1ItSDhOMXF1UWsxLWpTVmpYTDJSa01hSlVIcVlDMUVuR1VqbV9CYXIzN3BQQlNqRDNTN2wyVTlMT2NxQ1I1LWJvR0NBVTJTT2dvbnA1cHBNVTFYblFmenJzZnRjTzd1R1NHaUh3bDh2Ri1kNXpjdzdVT01uQnZwclFNTWk1amxLLWtDdkt6VmlBQdIBlwFBVV95cUxQYTNZVFBuNGRWbm9xbmlHbHdQMWFjR2J6a2JpVGVXeGFkcU5MQTFoaWVYNXI4Y2M1QkNvMDRSZU9wQ0M2dnJ6OGJCZnpuQUh1cFpLekpIZFJUVzJOSTY3S2JfZnBocXQ1ZGRKdlduaHhHdGl0MVBOeUkzTmx2eHhnZ1hKQ0hHaUE3czB1bGFfZVRPNDdTQVlR?oc=5\" target=\"_blank\">We urgently need to monitor AI agents’ actions in real time</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MIT Technology Review</font>",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY1ItSDhOMXF1UWsxLWpTVmpYTDJSa01hSlVIcVlDMUVuR1VqbV9CYXIzN3BQQlNqRDNTN2wyVTlMT2NxQ1I1LWJvR0NBVTJTT2dvbnA1cHBNVTFYblFmenJzZnRjTzd1R1NHaUh3bDh2Ri1kNXpjdzdVT01uQnZwclFNTWk1amxLLWtDdkt6VmlBQdIBlwFBVV95cUxQYTNZVFBuNGRWbm9xbmlHbHdQMWFjR2J6a2JpVGVXeGFkcU5MQTFoaWVYNXI4Y2M1QkNvMDRSZU9wQ0M2dnJ6OGJCZnpuQUh1cFpLekpIZFJUVzJOSTY3S2JfZnBocXQ1ZGRKdlduaHhHdGl0MVBOeUkzTmx2eHhnZ1hKQ0hHaUE3czB1bGFfZVRPNDdTQVlR?oc=5",
-          "source": "MIT Technology Review (AI)",
-          "publishedAt": "2026-10-29",
+          "title": "Korea's medical AI advances, but clinical adoption remains slow - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ3pqYkRFQXI1MlY4eWhKbXVJQTFESG11bWxqWDdSZmtLYkszOTk0aEwwMk54YkNZbDRXN21YWHhJU3QyQUVvSC10RDVvbm1VbW9QemtDc2M0NWlKaGFLdXp0WUdPYmVySkRqX3FUZ3JqQVA4OXM1cE9scW1naVdjZkE4ZHdsUXN1WjdIZGVzOTMyTHB2UUgyVW5EUUxaOW5yS3drQ2I3RG5fYWtXc3dTTHNPUUx5eGhyWVRlcGxQWdIBvwFBVV95cUxNZ3pqYkRFQXI1MlY4eWhKbXVJQTFESG11bWxqWDdSZmtLYkszOTk0aEwwMk54YkNZbDRXN21YWHhJU3QyQUVvSC10RDVvbm1VbW9QemtDc2M0NWlKaGFLdXp0WUdPYmVySkRqX3FUZ3JqQVA4OXM1cE9scW1naVdjZkE4ZHdsUXN1WjdIZGVzOTMyTHB2UUgyVW5EUUxaOW5yS3drQ2I3RG5fYWtXc3dTTHNPUUx5eGhyWVRlcGxQWQ?oc=5\" target=\"_blank\">Korea's medical AI advances, but clinical adoption remains slow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ3pqYkRFQXI1MlY4eWhKbXVJQTFESG11bWxqWDdSZmtLYkszOTk0aEwwMk54YkNZbDRXN21YWHhJU3QyQUVvSC10RDVvbm1VbW9QemtDc2M0NWlKaGFLdXp0WUdPYmVySkRqX3FUZ3JqQVA4OXM1cE9scW1naVdjZkE4ZHdsUXN1WjdIZGVzOTMyTHB2UUgyVW5EUUxaOW5yS3drQ2I3RG5fYWtXc3dTTHNPUUx5eGhyWVRlcGxQWdIBvwFBVV95cUxNZ3pqYkRFQXI1MlY4eWhKbXVJQTFESG11bWxqWDdSZmtLYkszOTk0aEwwMk54YkNZbDRXN21YWHhJU3QyQUVvSC10RDVvbm1VbW9QemtDc2M0NWlKaGFLdXp0WUdPYmVySkRqX3FUZ3JqQVA4OXM1cE9scW1naVdjZkE4ZHdsUXN1WjdIZGVzOTMyTHB2UUgyVW5EUUxaOW5yS3drQ2I3RG5fYWtXc3dTTHNPUUx5eGhyWVRlcGxQWQ?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-10-30",
           "views": "13.0K"
         },
         {
-          "title": "The Download: AI agent tracking and climate feedback loops - MIT Technology Review",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNU0RhRjRBd05HeE1YZmc0amFxVk5hZmlSM294Z09na3YwZHBaODU3UXFBOVgyVE94T3liVTItXzNPOWZQTnY4NnczbEduMUppaENtaHpnZ3c5ODBrX25OeFk3THFEcXN5N2psTXpyZUdSQkFYMXhCNmNNZ0JVM0gwd3d5UGZXQmstVVpWdjExRjRNR292OHZ5Y1lDeldvVjdoRmdSYUdXaXhzQlZ2MUE?oc=5\" target=\"_blank\">The Download: AI agent tracking and climate feedback loops</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MIT Technology Review</font>",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU0RhRjRBd05HeE1YZmc0amFxVk5hZmlSM294Z09na3YwZHBaODU3UXFBOVgyVE94T3liVTItXzNPOWZQTnY4NnczbEduMUppaENtaHpnZ3c5ODBrX25OeFk3THFEcXN5N2psTXpyZUdSQkFYMXhCNmNNZ0JVM0gwd3d5UGZXQmstVVpWdjExRjRNR292OHZ5Y1lDeldvVjdoRmdSYUdXaXhzQlZ2MUE?oc=5",
-          "source": "MIT Technology Review (AI)",
-          "publishedAt": "2026-10-29",
+          "title": "VB Pulse Agentic Security and Identity Report - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1fRjhBNTFSZTJINzM4ZzNuUHIxX0FkYUp5YlIzVmRzS0pyLUxySGhsN0pzYzJqQjBjV2JETTdXblpYZVc5cVRKMkMxZkMwcVFhY3dWRGpQdVc0VlBrWnZScURRa3M0NmhacUltaXQ2VXhaVFpGZjhFUA?oc=5\" target=\"_blank\">VB Pulse Agentic Security and Identity Report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fRjhBNTFSZTJINzM4ZzNuUHIxX0FkYUp5YlIzVmRzS0pyLUxySGhsN0pzYzJqQjBjV2JETTdXblpYZVc5cVRKMkMxZkMwcVFhY3dWRGpQdVc0VlBrWnZScURRa3M0NmhacUltaXQ2VXhaVFpGZjhFUA?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-10-30",
           "views": "13.0K"
         }
       ]
@@ -111,28 +111,28 @@
       "description": "규제, 책임, 신뢰, 저작권 같은 문제를 보는 관점",
       "items": [
         {
+          "title": "US judge orders ethics investigation into DOJ lawyers in golf course dispute - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPSkNsQ0tXT2NqMFdsb21wYXk5blRTbXYyb2VBYTF0S21wMjFabmt6U0VNbWVEQjFZaEhERzdhMkV0SkhZU0tMSV9LUVlpZU1QR25TZVNUY1dYdjdEOVFMSHc2UUIxVUJBOE16MURGRlU5NVBqblRERXViYjhUdURDZVljWDNrZzJCd3JxVlNweFkxZ2FKaGZOUmJqWmhYc3dvbVMwSDlLQVBwRHZBUnRDMEdDTG5sTW5GLUw0RzhsUXlKUlVU?oc=5\" target=\"_blank\">US judge orders ethics investigation into DOJ lawyers in golf course dispute</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSkNsQ0tXT2NqMFdsb21wYXk5blRTbXYyb2VBYTF0S21wMjFabmt6U0VNbWVEQjFZaEhERzdhMkV0SkhZU0tMSV9LUVlpZU1QR25TZVNUY1dYdjdEOVFMSHc2UUIxVUJBOE16MURGRlU5NVBqblRERXViYjhUdURDZVljWDNrZzJCd3JxVlNweFkxZ2FKaGZOUmJqWmhYc3dvbVMwSDlLQVBwRHZBUnRDMEdDTG5sTW5GLUw0RzhsUXlKUlVU?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-10-30",
+          "views": "18.0K"
+        },
+        {
+          "title": "Appian targets about $2 billion for Africa but warns policy risk is driving capital away - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPeTdGSHZRQTBDSlhma2NPZmRFeVYtMUlxVGFOYm8tenM4U2ZZNlNPZ2V4SERXT0RKcGFWdEVRN3BXTG1aaXFrZmRjZGhxRzA3LWoyZTVFRUc5ckZNNGw0T1FmZ0pqNzJSb0h0LWZxNXppYXg1ZzRaQlF6b0pxLTNxeTlHTEpaWklESUR4dVhkalFxd2N1Ul9mMzdJQjhveUFaTjU5M3JMY3ZjQ3JFaWpkY0dEQUJhM3N2S0JQRlhUeS11b1loXzJr?oc=5\" target=\"_blank\">Appian targets about $2 billion for Africa but warns policy risk is driving capital away</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeTdGSHZRQTBDSlhma2NPZmRFeVYtMUlxVGFOYm8tenM4U2ZZNlNPZ2V4SERXT0RKcGFWdEVRN3BXTG1aaXFrZmRjZGhxRzA3LWoyZTVFRUc5ckZNNGw0T1FmZ0pqNzJSb0h0LWZxNXppYXg1ZzRaQlF6b0pxLTNxeTlHTEpaWklESUR4dVhkalFxd2N1Ul9mMzdJQjhveUFaTjU5M3JMY3ZjQ3JFaWpkY0dEQUJhM3N2S0JQRlhUeS11b1loXzJr?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-10-28",
+          "views": "18.0K"
+        },
+        {
           "title": "Indian media groups decry Modi’s privacy law in court, say newsrooms face shutdown risk - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPamZ6a0RNdDZHNVJ5M2xGeG5TR0x3VHNpSXBmaW95aTdjVS1nZDJRenJaNlZCUWltMUpzRnMwdlF4YTdPY0haaFJlSTI4bjNVRWdIR2ZWR19rWDQweElGYl94T1MyX3g4R3doWmxVYjRJX2JObDRWMVRqdFdNMzdKWl9pS1RRTEZISGhMY29FaF9FSVg1QVBKazlPRU1QWGtZcjBVV19uZ3NPVGZwel9mMGV1dzU?oc=5\" target=\"_blank\">Indian media groups decry Modi’s privacy law in court, say newsrooms face shutdown risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPamZ6a0RNdDZHNVJ5M2xGeG5TR0x3VHNpSXBmaW95aTdjVS1nZDJRenJaNlZCUWltMUpzRnMwdlF4YTdPY0haaFJlSTI4bjNVRWdIR2ZWR19rWDQweElGYl94T1MyX3g4R3doWmxVYjRJX2JObDRWMVRqdFdNMzdKWl9pS1RRTEZISGhMY29FaF9FSVg1QVBKazlPRU1QWGtZcjBVV19uZ3NPVGZwel9mMGV1dzU?oc=5",
           "source": "Reuters AI",
           "publishedAt": "2026-10-27",
           "views": "18.0K"
-        },
-        {
-          "title": "Appellate sentencing in Yoon's high-stakes election law case to be broadcast live - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbEEyX29UcjhOdS1ibDZURnFNVTJMT1NzS1ZrQzlNOHZ1NzdicjdUT0JFeE1SME1lTlNCSkdsNy1xNlpNbktObzliQUdLZGpSN0hncHB2YmVmZmJvU3RseTZaTFNBMkZGaVY2Q0x1NUJCMWEzNlhkbjc4U3hqRzBsckVnUnBuZ0xZeTlwZ1JHNGNvTkZJV0Z4YjJHdVYtczN1cWQybV9mZjNLQ1lfTnBjUk5HSUtTUHo2VmdFOVl3eGp2alhkNXZwMVpPV09rbXhxLWxKNVdkY0NucUXSAdsBQVVfeXFMT2xBMl9vVHI4TnUtYmw2VEZxTVUyTE9Tc0tWa0M5TTh2dTc3YnI3VE9CRXhNUjBNZU5TQkpHbDctcTZaTW5LTm85YkFHS2RqUjdIZ3BwdmJlZmZib1N0bHk2WkxTQTJGRmlWNkNMdTVCQjFhMzZYZG43OFN4akcwbHJFZ1JwbmdMWXk5cGdSRzRjb05GSVdGeGIyR3VWLXMzdXFkMm1fZmYzS0NZX05wY1JOR0lLU1B6NlZnRTlZd3hqdmpYZDV2cDFaT1dPa214cS1sSjVXZGNDbnFF?oc=5\" target=\"_blank\">Appellate sentencing in Yoon's high-stakes election law case to be broadcast live</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbEEyX29UcjhOdS1ibDZURnFNVTJMT1NzS1ZrQzlNOHZ1NzdicjdUT0JFeE1SME1lTlNCSkdsNy1xNlpNbktObzliQUdLZGpSN0hncHB2YmVmZmJvU3RseTZaTFNBMkZGaVY2Q0x1NUJCMWEzNlhkbjc4U3hqRzBsckVnUnBuZ0xZeTlwZ1JHNGNvTkZJV0Z4YjJHdVYtczN1cWQybV9mZjNLQ1lfTnBjUk5HSUtTUHo2VmdFOVl3eGp2alhkNXZwMVpPV09rbXhxLWxKNVdkY0NucUXSAdsBQVVfeXFMT2xBMl9vVHI4TnUtYmw2VEZxTVUyTE9Tc0tWa0M5TTh2dTc3YnI3VE9CRXhNUjBNZU5TQkpHbDctcTZaTW5LTm85YkFHS2RqUjdIZ3BwdmJlZmZib1N0bHk2WkxTQTJGRmlWNkNMdTVCQjFhMzZYZG43OFN4akcwbHJFZ1JwbmdMWXk5cGdSRzRjb05GSVdGeGIyR3VWLXMzdXFkMm1fZmYzS0NZX05wY1JOR0lLU1B6NlZnRTlZd3hqdmpYZDV2cDFaT1dPa214cS1sSjVXZGNDbnFF?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-10-30",
-          "views": "13.0K"
-        },
-        {
-          "title": "Samsung, gas safety agency join forces to protect chip operations - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNRjRRRUpTOXNGbU4xdkdCbXJoVFZ4MThRbUd4NThLM1lqSm01MzhuaUJLZ0pQXzloVXBld2JiQ0lTZVNzVk16V0Q2ZUM4dEJPUHdnTUpmNThDUWpkSllGQkNoTC1aNk1YeHRkZzVWVDhBbXBIbnlKRjJ6NlVQUnM2M1hlVnRmNnRhRWZuYm81RHNWV1lUZDI5QkZpU3pNeVhzVy1JSmR5QnA2QmxyWG43WjJMMGM1MUlOOUJWSU1n0gHDAUFVX3lxTE1DZjRlQzJfWU9OOWhXeThhVS1uQ0VFamVPSGJPTDNnZmkzUnZBTjhOSkhPQ2J0bnl4Unc0ZmJCazQyQ3lZODVEQXBxLUlkSlllOHlzZUlvd0ladllYX0drZlJKcGlXXzBuZ0VVTWpRSmdNbl9yZEdSM3EwcUN3ODltQmRYWk5RQVRYQWJ5WWJQcE5FZGNSdWFIX0ltV2FUbXZIQmxrVldveklKV3NUVU0wdlBzQkV5RUFqMGR1TWNYNWdtcw?oc=5\" target=\"_blank\">Samsung, gas safety agency join forces to protect chip operations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRjRRRUpTOXNGbU4xdkdCbXJoVFZ4MThRbUd4NThLM1lqSm01MzhuaUJLZ0pQXzloVXBld2JiQ0lTZVNzVk16V0Q2ZUM4dEJPUHdnTUpmNThDUWpkSllGQkNoTC1aNk1YeHRkZzVWVDhBbXBIbnlKRjJ6NlVQUnM2M1hlVnRmNnRhRWZuYm81RHNWV1lUZDI5QkZpU3pNeVhzVy1JSmR5QnA2QmxyWG43WjJMMGM1MUlOOUJWSU1n0gHDAUFVX3lxTE1DZjRlQzJfWU9OOWhXeThhVS1uQ0VFamVPSGJPTDNnZmkzUnZBTjhOSkhPQ2J0bnl4Unc0ZmJCazQyQ3lZODVEQXBxLUlkSlllOHlzZUlvd0ladllYX0drZlJKcGlXXzBuZ0VVTWpRSmdNbl9yZEdSM3EwcUN3ODltQmRYWk5RQVRYQWJ5WWJQcE5FZGNSdWFIX0ltV2FUbXZIQmxrVldveklKV3NUVU0wdlBzQkV5RUFqMGR1TWNYNWdtcw?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-10-30",
-          "views": "13.0K"
         }
       ]
     },
@@ -141,6 +141,14 @@
       "hashtag": "#경제",
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
+        {
+          "title": "Wall St Week Ahead: Midterm US elections, earnings, jobs data loom for AI-wary stock market - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPMDJJM0JmU1Nreks0a1ViM1lWX2VRX043dHpXd2xjR091TTNJd1UyZjZ4a2kwMURZLXkwLTBHSWZaMG41VU5nbTE0VW1iNDdCbHNCTjc5RG5BZUx3QzM2d0IzUmJkWXB3VkNsMW5EMDVFUlQ1NmhvdDBVTy05RkpxaDZ4QW9xRExsY2QwVzFpMTJmRG52bW0tSWgwbkdCTlJlaFFnU2tUcEEyQml0cV9VRktaVTh4VDVFNkIwVjkyWmN6dFpTNE9FZkx4dw?oc=5\" target=\"_blank\">Wall St Week Ahead: Midterm US elections, earnings, jobs data loom for AI-wary stock market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMDJJM0JmU1Nreks0a1ViM1lWX2VRX043dHpXd2xjR091TTNJd1UyZjZ4a2kwMURZLXkwLTBHSWZaMG41VU5nbTE0VW1iNDdCbHNCTjc5RG5BZUx3QzM2d0IzUmJkWXB3VkNsMW5EMDVFUlQ1NmhvdDBVTy05RkpxaDZ4QW9xRExsY2QwVzFpMTJmRG52bW0tSWgwbkdCTlJlaFFnU2tUcEEyQml0cV9VRktaVTh4VDVFNkIwVjkyWmN6dFpTNE9FZkx4dw?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-10-30",
+          "views": "18.0K"
+        },
         {
           "title": "Robust consumer spending, AI-related investment power US economy in third quarter - The Korea Times",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOckZsOGVFNE92Y3c0RVEtdEFHdFJReEtzaklvTXNrRXlhQS1FTVFrNVRwTUNIRVNGQ0JsckpjZ2wySzhlbXI3NDJ2NDgtdl9xVFhZQWpOb3c2U0lKbDZfWVJkSG5MRGFiOFJCVEJiNnZQdU55ZkNZUGc3UDdSamlXMVNXYjdoZXVJaGhGUllSUXZIaWlEaWhrd211Sk0wVG5DSFBkZ0hyRDVCM3NjQ1dXTHNmM0hxNVZEdFZCZ2FpNjVkQdIBxwFBVV95cUxPTHc2a2NDTGoxNDN6a0tDc1ZhaDI2MndQSlBST3NhdUYwWG03b2pRa1FBWjJlZW5RdUp1RXV2U0phY21KNnozbkRHNm1Sd3ZDX1VTYWI4dmp4M3kwbzdvN05WZlJMTC1JZExkcHhXM3ZldVBmSk9GYzBENzh5bWdfenRGWTR3djZmOWhiRFF5NmVpcXlRZGdRMExPb0UwMWpNM2p3WGdWTjl0TVdVSWRLUUh0ZnlmcWtoN1g2alhkdVd1Z21OQWlJ?oc=5\" target=\"_blank\">Robust consumer spending, AI-related investment power US economy in third quarter</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
@@ -156,14 +164,6 @@
           "source": "Reuters AI",
           "publishedAt": "2026-10-29",
           "views": "18.0K"
-        },
-        {
-          "title": "Seoul Fintech Week 2026 brings AI finance and startup investment into focus - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxORHU2MXZhbDRjbURSMUp5UWFwdjBpbm0xdzg5V0Q5RGtCMWFBYlU5UzdvZXIzalNpbm12M3lhNkNiZEdDRm9meHV6dGstVjVpTzRRR3ZRYWxZNDQ1bmNIUlRNZ1N0bFFCN1JLOGNkV1dRdTBWaUVUMXQzeGNmb1lPZTFTejA3T00zT21Za2FGMTVwbnlNbWpHekxfT0xLVTJsclIyc0hESGs4VjJmN1lYWWtudUp4M2hlVGlVcFlIZ1I5WUF3OGtXZU9VMmRFejFs0gHWAUFVX3lxTE5rRW5tYTdUOVA4NjZKNFQ0R1hySTJTeW9PZXNhVE1YTm1YLWdTWUlJQkZnbmRMYTFJTGx3cl9XSno2YTBYcW5pTlVmTm41MUQzbEhERnNzanBFaVBOTDFvd3VGSWJ3ZHhYWmFMQlczdC1yem1fa2VvQy16c3ZoT1JmcEJUb1JWMjdRYVdsbklVektGamZERHE0OVM1Y1k5VlhTenNXbUV0Zk1EWU4xbzIxUmVYandJVHJaMElwUy1XV0VSU0dwMHRiOUY4MmFYM3dmTHlhclE?oc=5\" target=\"_blank\">Seoul Fintech Week 2026 brings AI finance and startup investment into focus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORHU2MXZhbDRjbURSMUp5UWFwdjBpbm0xdzg5V0Q5RGtCMWFBYlU5UzdvZXIzalNpbm12M3lhNkNiZEdDRm9meHV6dGstVjVpTzRRR3ZRYWxZNDQ1bmNIUlRNZ1N0bFFCN1JLOGNkV1dRdTBWaUVUMXQzeGNmb1lPZTFTejA3T00zT21Za2FGMTVwbnlNbWpHekxfT0xLVTJsclIyc0hESGs4VjJmN1lYWWtudUp4M2hlVGlVcFlIZ1I5WUF3OGtXZU9VMmRFejFs0gHWAUFVX3lxTE5rRW5tYTdUOVA4NjZKNFQ0R1hySTJTeW9PZXNhVE1YTm1YLWdTWUlJQkZnbmRMYTFJTGx3cl9XSno2YTBYcW5pTlVmTm41MUQzbEhERnNzanBFaVBOTDFvd3VGSWJ3ZHhYWmFMQlczdC1yem1fa2VvQy16c3ZoT1JmcEJUb1JWMjdRYVdsbklVektGamZERHE0OVM1Y1k5VlhTenNXbUV0Zk1EWU4xbzIxUmVYandJVHJaMElwUy1XV0VSU0dwMHRiOUY4MmFYM3dmTHlhclE?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-10-26",
-          "views": "18.0K"
         }
       ]
     },
@@ -173,27 +173,27 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
-          "title": "US plans to ban Chinese telecom firms from direct access to US phone numbers - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPbmkxUGhMdkg5VlhUSUtxUkN2cFFlb2tzcG81Rzk0YUhVQTNrR0gzcVBweVQxZlA3dDRRaHlCS1hTWnpIWUtfelBoQXRiUmd3OHYwNlBvOVFtWENOMDlaUUZMOElsb3VwMUVKQmZIUmpMUmE3cEtBcnZsZDlHZXJrZlpnWUNENHZyVExzM3hhUC1YWjFBaDROZzJnd3BjSDJUdjhSQWlXTjFTYlJ5Sk1veXc2UGRCQUlyN1YtNA?oc=5\" target=\"_blank\">US plans to ban Chinese telecom firms from direct access to US phone numbers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbmkxUGhMdkg5VlhUSUtxUkN2cFFlb2tzcG81Rzk0YUhVQTNrR0gzcVBweVQxZlA3dDRRaHlCS1hTWnpIWUtfelBoQXRiUmd3OHYwNlBvOVFtWENOMDlaUUZMOElsb3VwMUVKQmZIUmpMUmE3cEtBcnZsZDlHZXJrZlpnWUNENHZyVExzM3hhUC1YWjFBaDROZzJnd3BjSDJUdjhSQWlXTjFTYlJ5Sk1veXc2UGRCQUlyN1YtNA?oc=5",
+          "title": "Hong Kong telecom company agrees to halt US operations under pressure - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOQk1SN3FLTFVYNG9mU1BTOXY5bVAwT1JYSnZqRllYUFczbzdsZEdwZ1lBUFJrYWhKM2pIQVdEUHdZWWRNLXdSY3hWWjZwanFkSy1HMGZIMVQ2eHNpaHBzbU1zSEFkT0dZNXhBRm83Q01OUUNSRWxUSWl4aHgwR1pjdWVOTTRGd2hCbHJvNncyRkVYbTZGVFVwY3lrSEswY1Z0OWI4bHVwMW5jNldEYVRvdmMxeTh5c01QeTV0VjdR?oc=5\" target=\"_blank\">Hong Kong telecom company agrees to halt US operations under pressure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQk1SN3FLTFVYNG9mU1BTOXY5bVAwT1JYSnZqRllYUFczbzdsZEdwZ1lBUFJrYWhKM2pIQVdEUHdZWWRNLXdSY3hWWjZwanFkSy1HMGZIMVQ2eHNpaHBzbU1zSEFkT0dZNXhBRm83Q01OUUNSRWxUSWl4aHgwR1pjdWVOTTRGd2hCbHJvNncyRkVYbTZGVFVwY3lrSEswY1Z0OWI4bHVwMW5jNldEYVRvdmMxeTh5c01QeTV0VjdR?oc=5",
           "source": "Reuters AI",
+          "publishedAt": "2026-10-30",
+          "views": "18.0K"
+        },
+        {
+          "title": "[Tech Summit 2026] SK Hynix Unveils AI Memory Strategy - ETNEWS",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE9DNEItcXB6aThlZmJBM0ZqUkFUbktvN3NCbnhGM3loN0NvMUJZbHVmQmU2QkVEUU1pM2FHT0dFLU9xWi1Mb2lLSVFiWlo?oc=5\" target=\"_blank\">[Tech Summit 2026] SK Hynix Unveils AI Memory Strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9DNEItcXB6aThlZmJBM0ZqUkFUbktvN3NCbnhGM3loN0NvMUJZbHVmQmU2QkVEUU1pM2FHT0dFLU9xWi1Mb2lLSVFiWlo?oc=5",
+          "source": "전자신문",
           "publishedAt": "2026-10-30",
           "views": "13.0K"
         },
         {
-          "title": "[Tech Summit 2026] Samsung Shifts AI Memory Strategy Toward Co-Design - ETNEWS",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xM0FWRDh1U2RiY3NZUy0xY1BjNU5aRWFhR1BNQUctLXBjODV2Q3B2Vm9KdlAwUUJUNFpHU2xwbGFSNEpPdnZXZldQRDc?oc=5\" target=\"_blank\">[Tech Summit 2026] Samsung Shifts AI Memory Strategy Toward Co-Design</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xM0FWRDh1U2RiY3NZUy0xY1BjNU5aRWFhR1BNQUctLXBjODV2Q3B2Vm9KdlAwUUJUNFpHU2xwbGFSNEpPdnZXZldQRDc?oc=5",
-          "source": "전자신문",
-          "publishedAt": "2026-10-29",
-          "views": "13.0K"
-        },
-        {
-          "title": "Kookmin University wins grand prize in industry category at Korea Character Awards 2026 - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTGxmN3JJRGctTkVFOTVOX1ZlRUg4Zk1FanBDMU9TV2JtLUo1UGhNQ2VzSkNLN1N2UWhBb3RveVpvMUpkV0g5UkxOeEJXNTFHd09QeUZnVlV2OVItOC0taFZWMS1zTFkzeENqSWRudzdnMXpMclA5X1g5UjFYcHdpMmFaMDZobkN6MTVLWXgxY3lYUmY4TzBOYzdjNGlwdmlzRnkwMU96Y0NNcTU2dGUwazAzUTNkdE1nOVJVZ2Znb3NfcTk5S2R1emhEODFHTzdUU1Z3Z1dSaWtqSm05b2VLU205aU3SAeQBQVVfeXFMTUxsZjdySURnLU5FRTk1Tl9WZUVIOGZNRWpwQzFPU1dibS1KNVBoTUNlc0pDSzdTdlFoQW90b3labzFKZFdIOVJMTnhCVzUxR3dPUHlGZ1ZVdjlSLTgtLWhWVjEtc0xZM3hDaklkbnc3ZzF6THJQOV9YOVIxWHB3aTJhWjA2aG5DejE1S1l4MWN5WFJmOE8wTmM3YzRpcHZpc0Z5MDFPemNDTXE1NnRlMGswM1EzZHRNZzlSVWdmZ29zX3E5OUtkdXpoRDgxR083VFNWd2dXUmlrakptOW9lS1NtOWlN?oc=5\" target=\"_blank\">Kookmin University wins grand prize in industry category at Korea Character Awards 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTGxmN3JJRGctTkVFOTVOX1ZlRUg4Zk1FanBDMU9TV2JtLUo1UGhNQ2VzSkNLN1N2UWhBb3RveVpvMUpkV0g5UkxOeEJXNTFHd09QeUZnVlV2OVItOC0taFZWMS1zTFkzeENqSWRudzdnMXpMclA5X1g5UjFYcHdpMmFaMDZobkN6MTVLWXgxY3lYUmY4TzBOYzdjNGlwdmlzRnkwMU96Y0NNcTU2dGUwazAzUTNkdE1nOVJVZ2Znb3NfcTk5S2R1emhEODFHTzdUU1Z3Z1dSaWtqSm05b2VLU205aU3SAeQBQVVfeXFMTUxsZjdySURnLU5FRTk1Tl9WZUVIOGZNRWpwQzFPU1dibS1KNVBoTUNlc0pDSzdTdlFoQW90b3labzFKZFdIOVJMTnhCVzUxR3dPUHlGZ1ZVdjlSLTgtLWhWVjEtc0xZM3hDaklkbnc3ZzF6THJQOV9YOVIxWHB3aTJhWjA2aG5DejE1S1l4MWN5WFJmOE8wTmM3YzRpcHZpc0Z5MDFPemNDTXE1NnRlMGswM1EzZHRNZzlSVWdmZ29zX3E5OUtkdXpoRDgxR083VFNWd2dXUmlrakptOW9lS1NtOWlN?oc=5",
+          "title": "Binance freezes assets after $6.3 bil. heist, crypto industry's biggest - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQelVPZnJMYWpmUmpsZnI2XzNsd3B3VjNoaVU2YnBUVTdJN0s5U1owTWRiZjBBZTJSc3dIeHZwWUtjZ0JwMXZPeHJxMlFVWGtZR3ZrU2gwZEtFWEI4NDZSN2cxYi1wZW82akJQV3RmRmplbGVtbjdzc25wZGZ1QXdRVUwwYWJjM0dPVDlKYlZHeDdDVDQwMzFQdVJ4OGNncUp1bVRmQ1FfdXNJSWlwemd0NlhHeljSAbQBQVVfeXFMUHpVT2ZyTGFqZlJqbGZyNl8zbHdwd1YzaGlVNmJwVFU3STdLOVNaME1kYmYwQWUyUnN3SHh2cFlLY2dCcDF2T3hycTJRVVhrWUd2a1NoMGRLRVhCODQ2UjdnMWItcGVvNmpCUFd0ZkZqZWxlbW43c3NucGRmdUF3UVVMMGFiYzNHT1Q5SmJWR3g3Q1Q0MDMxUHVSeDhjZ3FKdW1UZkNRX3VzSUlpcHpndDZYR3pY?oc=5\" target=\"_blank\">Binance freezes assets after $6.3 bil. heist, crypto industry's biggest</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQelVPZnJMYWpmUmpsZnI2XzNsd3B3VjNoaVU2YnBUVTdJN0s5U1owTWRiZjBBZTJSc3dIeHZwWUtjZ0JwMXZPeHJxMlFVWGtZR3ZrU2gwZEtFWEI4NDZSN2cxYi1wZW82akJQV3RmRmplbGVtbjdzc25wZGZ1QXdRVUwwYWJjM0dPVDlKYlZHeDdDVDQwMzFQdVJ4OGNncUp1bVRmQ1FfdXNJSWlwemd0NlhHeljSAbQBQVVfeXFMUHpVT2ZyTGFqZlJqbGZyNl8zbHdwd1YzaGlVNmJwVFU3STdLOVNaME1kYmYwQWUyUnN3SHh2cFlLY2dCcDF2T3hycTJRVVhrWUd2a1NoMGRLRVhCODQ2UjdnMWItcGVvNmpCUFd0ZkZqZWxlbW43c3NucGRmdUF3UVVMMGFiYzNHT1Q5SmJWR3g3Q1Q0MDMxUHVSeDhjZ3FKdW1UZkNRX3VzSUlpcHpndDZYR3pY?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-10-29",
+          "publishedAt": "2026-10-30",
           "views": "13.0K"
         }
       ]
