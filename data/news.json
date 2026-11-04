@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T06:41:56.161Z",
+  "lastUpdated": "2026-11-04T06:10:01.933Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,6 +49,14 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
+          "title": "Science ministry, AMD hold 1st steering meeting on AI chip partnership - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNRWpBMGU4MW15cEcya2lsV21pYWxpR1k2QmpuaTg1M0ZaUENDamM3dVAzQ2xMSkhPSmQ2d2tFOHl5ME8zUThCdzMtTXNKVTZHaVdEWkNwb2psSEM5ZmlJMmFTNkVIdmdiX0pYeVpzb1VSRlVqRmpyUVdJa0tBdFloT2JfT3g5SzdHX1V4b3hhblRVekUzb1FPSHVRcEJhQ19DMWZJbFo5ZWEwUjBFZWctYjdzM3pSLWfSAbwBQVVfeXFMTnFjeXBvV1hDSmV4NHIzNW9yTGJYOG1fbVFGdW5CemE4WFJiVE1sTjJoZUFRTi1GRWtsVURqVmE2dERVZ3J5RTZXTVdXaG9ld2hyVVJac3B5OGJLVXg3RERHNDI1aDg2Y3pYZmtGeC1MZUJWUFJ5VHBYOFdZcEd4RnQ2NXVndWdzOExXdUFTZmpzS28wclV0eVRYU2VuYW0zeUpkOXFic2tfUHhLYjk3WkRHNnZ1RG9yMVllME8?oc=5\" target=\"_blank\">Science ministry, AMD hold 1st steering meeting on AI chip partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRWpBMGU4MW15cEcya2lsV21pYWxpR1k2QmpuaTg1M0ZaUENDamM3dVAzQ2xMSkhPSmQ2d2tFOHl5ME8zUThCdzMtTXNKVTZHaVdEWkNwb2psSEM5ZmlJMmFTNkVIdmdiX0pYeVpzb1VSRlVqRmpyUVdJa0tBdFloT2JfT3g5SzdHX1V4b3hhblRVekUzb1FPSHVRcEJhQ19DMWZJbFo5ZWEwUjBFZWctYjdzM3pSLWfSAbwBQVVfeXFMTnFjeXBvV1hDSmV4NHIzNW9yTGJYOG1fbVFGdW5CemE4WFJiVE1sTjJoZUFRTi1GRWtsVURqVmE2dERVZ3J5RTZXTVdXaG9ld2hyVVJac3B5OGJLVXg3RERHNDI1aDg2Y3pYZmtGeC1MZUJWUFJ5VHBYOFdZcEd4RnQ2NXVndWdzOExXdUFTZmpzS28wclV0eVRYU2VuYW0zeUpkOXFic2tfUHhLYjk3WkRHNnZ1RG9yMVllME8?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-11-04",
+          "views": "18.0K"
+        },
+        {
           "title": "DeepSeek, Moonshot used OpenAI's GPT-6 Astra to train latest models, The Information reports - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOZWxreXdWZGhvNFRiam1WcVA1WGMtNnl3NVpEWjIyVV9IR0xReTYwTFU2Ulhnek5QbVlzc1prUlBwYlVYNmpFaXJLdTNRU3NnbkhWSFlzZllyN1lma0RydHM5bEFab2xIRW5aOUllWGtiMzRaOG1HT1M3Z3ZIN1NwVmFFZ2NlUFo5WUNYaTRZSm9waDl6cE03bE1NMEtIM2VORTVVUDN3Y01ER3drXzFwNkMyNFZ0N3F5MC1idTVR?oc=5\" target=\"_blank\">DeepSeek, Moonshot used OpenAI's GPT-6 Astra to train latest models, The Information reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZWxreXdWZGhvNFRiam1WcVA1WGMtNnl3NVpEWjIyVV9IR0xReTYwTFU2Ulhnek5QbVlzc1prUlBwYlVYNmpFaXJLdTNRU3NnbkhWSFlzZllyN1lma0RydHM5bEFab2xIRW5aOUllWGtiMzRaOG1HT1M3Z3ZIN1NwVmFFZ2NlUFo5WUNYaTRZSm9waDl6cE03bE1NMEtIM2VORTVVUDN3Y01ER3drXzFwNkMyNFZ0N3F5MC1idTVR?oc=5",
@@ -61,14 +69,6 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxNS1BfSV9DNVl1aW5HV3A3SVc1bDFqZEhFT3VpekhjVDIwaVNKOTc2Z0c2WEJaaWtiNmFfc3BWWXBKWEtqUWpvaGRTOWMwNHBwYlRmbGIyX1FVN1M0Y0xWVGYzMnFWV2NYaFBlZ0JIZzlfR2p1Y2szTDIybXFTQ3FFOUtkazNVbzNoRUJQZV9GNXZLN3V1MWdOVmpCLS1IS2ZIQmRXbE01ZWNHVTNyLTZRWDV5YmFTbjJNZ1Y2VmoycFBnYlFpd1JuY3pRYUlWREMxSmE2b2FEYThGTVJhODA4?oc=5\" target=\"_blank\">Google unveils Gemini 4 Carbon, retaking the world's no. 1 spot on updated, harder benchmarks — but access is limited</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNS1BfSV9DNVl1aW5HV3A3SVc1bDFqZEhFT3VpekhjVDIwaVNKOTc2Z0c2WEJaaWtiNmFfc3BWWXBKWEtqUWpvaGRTOWMwNHBwYlRmbGIyX1FVN1M0Y0xWVGYzMnFWV2NYaFBlZ0JIZzlfR2p1Y2szTDIybXFTQ3FFOUtkazNVbzNoRUJQZV9GNXZLN3V1MWdOVmpCLS1IS2ZIQmRXbE01ZWNHVTNyLTZRWDV5YmFTbjJNZ1Y2VmoycFBnYlFpd1JuY3pRYUlWREMxSmE2b2FEYThGTVJhODA4?oc=5",
           "source": "VentureBeat AI",
-          "publishedAt": "2026-10-28",
-          "views": "18.0K"
-        },
-        {
-          "title": "Google launches Gemini 4 Carbon AI model with cybersecurity focus - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNLXQyWUp5N0QwdVRZWXFkd1M5b2RrcExtNVBJS0JKaDdhaG1DQThXeEVlUWVWQUNPTjNOak9ZSnZlQjhDUkNIT2oxSlJrSjlJSkVSMVZFMW5acXV1N0l5bWxKTU1CNmtzZVM3U2dZVE5RbHlrZ2k5LTljM2FnNDVLM3NFbGI4N1hSMVIyQ2FNZXZYY0ZuNV9KR0lQYzdxT2RGdzkxamkzLXloVUVmLUhmdUZ3?oc=5\" target=\"_blank\">Google launches Gemini 4 Carbon AI model with cybersecurity focus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLXQyWUp5N0QwdVRZWXFkd1M5b2RrcExtNVBJS0JKaDdhaG1DQThXeEVlUWVWQUNPTjNOak9ZSnZlQjhDUkNIT2oxSlJrSjlJSkVSMVZFMW5acXV1N0l5bWxKTU1CNmtzZVM3U2dZVE5RbHlrZ2k5LTljM2FnNDVLM3NFbGI4N1hSMVIyQ2FNZXZYY0ZuNV9KR0lQYzdxT2RGdzkxamkzLXloVUVmLUhmdUZ3?oc=5",
-          "source": "Reuters AI",
           "publishedAt": "2026-10-28",
           "views": "18.0K"
         }
@@ -88,19 +88,19 @@
           "views": "18.0K"
         },
         {
-          "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens - TechCrunch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY0xwb00zNTZLNkt0YzVLZ2o2dlNVclJnVHBMUHRyS191TFpDT0tuaXp0U2MyY2w1YXR6VXZQUXVuQmJlbFppTFN4WU1SRVVtcHZ2RXBoLWx6OE1FS1NUQjBhRHIxVklkUFNiN0NQVGFhOHVjOU1jbWlhVG9yVlZRaDhuQWUxN2hHSkM1QTFTTDU3TGZCODVSc3dhMlI0Nl9SbkNHN0oyRGUxUUlyek9BdXFtN0ZfRGdFYTNn?oc=5\" target=\"_blank\">Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY0xwb00zNTZLNkt0YzVLZ2o2dlNVclJnVHBMUHRyS191TFpDT0tuaXp0U2MyY2w1YXR6VXZQUXVuQmJlbFppTFN4WU1SRVVtcHZ2RXBoLWx6OE1FS1NUQjBhRHIxVklkUFNiN0NQVGFhOHVjOU1jbWlhVG9yVlZRaDhuQWUxN2hHSkM1QTFTTDU3TGZCODVSc3dhMlI0Nl9SbkNHN0oyRGUxUUlyek9BdXFtN0ZfRGdFYTNn?oc=5",
-          "source": "TechCrunch AI",
+          "title": "How “reverse game theory” could keep AI agents in check - MIT Technology Review",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPWThvNWxINHhRSVoxQmx2amtkekNsT2pWcmNMLTZ4SGNEemdSMkZXdzNqTE1BSHcxXzk5M3oyTVg0Ny1aR0ZSR29nMnNadF9xeU1JRndHSmtkNl8wVHdLWjFvZFRUdFQybXVVMXAwMDJfSVEybHZiMTNCOV9LcVA4eldVZHdKZXdrN0djaWd4cUZRTEpoaHpmdy1ZaFhkSk9vdHVUeNIBqgFBVV95cUxOdnhNRXJQamlBY2tla3JUb1NQU1Ffem1LclhmejUtTGhpRTBaSVBjYzRoZkJETkVuUnJSeUpwWTFiX1VjS3F4LXVoZnJ3TjZscGRjR2J3OUtSLWtWVnFkVVFUSTJXNWR0azRwaUN2RUZwUzB5LXVZT1BNTVQ2N0liOWpUbXJMRTN2X2FZLWI1UTlUVkgwaFhFM2JlQmM4ZS1FQ0hWajhNb19iUQ?oc=5\" target=\"_blank\">How “reverse game theory” could keep AI agents in check</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MIT Technology Review</font>",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWThvNWxINHhRSVoxQmx2amtkekNsT2pWcmNMLTZ4SGNEemdSMkZXdzNqTE1BSHcxXzk5M3oyTVg0Ny1aR0ZSR29nMnNadF9xeU1JRndHSmtkNl8wVHdLWjFvZFRUdFQybXVVMXAwMDJfSVEybHZiMTNCOV9LcVA4eldVZHdKZXdrN0djaWd4cUZRTEpoaHpmdy1ZaFhkSk9vdHVUeNIBqgFBVV95cUxOdnhNRXJQamlBY2tla3JUb1NQU1Ffem1LclhmejUtTGhpRTBaSVBjYzRoZkJETkVuUnJSeUpwWTFiX1VjS3F4LXVoZnJ3TjZscGRjR2J3OUtSLWtWVnFkVVFUSTJXNWR0azRwaUN2RUZwUzB5LXVZT1BNTVQ2N0liOWpUbXJMRTN2X2FZLWI1UTlUVkgwaFhFM2JlQmM4ZS1FQ0hWajhNb19iUQ?oc=5",
+          "source": "MIT Technology Review (AI)",
           "publishedAt": "2026-11-03",
           "views": "13.0K"
         },
         {
-          "title": "The agentic web is here - MIT Technology Review",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNQlEwendDS0NxYTJTck9MQzQ0Y293dFJ5VXF3N0ExQzB2ekJOTFFOVnVaZE9aclBhTG1VWVJkbGg2SXJ1S09fQm9nTFBKRmlLalAzRFRselQzdjJNSzBHcGw3TWFSODZ2OEtzWlZYV1VaRDFtV1RNS1hiZ09sZTJNQmp30gGHAUFVX3lxTE9GVjQySkNoaHdza1BuVGxJbkZhdUZXcUN6RjlOWTdjSXpLZWFVNmNqWlBwamJkdDNhWU40ZUxpUlJSNTZGSGNTLTI3ZXFxRVp1NEhyTG91SGpqTE9FYkJVeE5MRlE2dFZVV2w0a0xRQktGQUFOYU5rQTVZZlNSLVdvTXpXUFNGbw?oc=5\" target=\"_blank\">The agentic web is here</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MIT Technology Review</font>",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQlEwendDS0NxYTJTck9MQzQ0Y293dFJ5VXF3N0ExQzB2ekJOTFFOVnVaZE9aclBhTG1VWVJkbGg2SXJ1S09fQm9nTFBKRmlLalAzRFRselQzdjJNSzBHcGw3TWFSODZ2OEtzWlZYV1VaRDFtV1RNS1hiZ09sZTJNQmp30gGHAUFVX3lxTE9GVjQySkNoaHdza1BuVGxJbkZhdUZXcUN6RjlOWTdjSXpLZWFVNmNqWlBwamJkdDNhWU40ZUxpUlJSNTZGSGNTLTI3ZXFxRVp1NEhyTG91SGpqTE9FYkJVeE5MRlE2dFZVV2w0a0xRQktGQUFOYU5rQTVZZlNSLVdvTXpXUFNGbw?oc=5",
-          "source": "MIT Technology Review (AI)",
-          "publishedAt": "2026-11-02",
+          "title": "The End of the Enterprise Advantage As We Know It - WIRED",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOYl80UEFESzA3Q1VSdjZzdXdLeVlYTm9WZUhQQktLV1lGUUgtZkRDVksyYlJ1cVdUa2o1a0VmQ0lCQVdmNS1zSmVITHdXM1d4VmM3bmZDa1hTbERlVFlETW1wcUYwRG5QV2QzenFFTlNCWE9zSGxleGJsYk9xS1BlWHpLMEVWQlZ4WW1LZlZYMGJxdw?oc=5\" target=\"_blank\">The End of the Enterprise Advantage As We Know It</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYl80UEFESzA3Q1VSdjZzdXdLeVlYTm9WZUhQQktLV1lGUUgtZkRDVksyYlJ1cVdUa2o1a0VmQ0lCQVdmNS1zSmVITHdXM1d4VmM3bmZDa1hTbERlVFlETW1wcUYwRG5QV2QzenFFTlNCWE9zSGxleGJsYk9xS1BlWHpLMEVWQlZ4WW1LZlZYMGJxdw?oc=5",
+          "source": "WIRED AI",
+          "publishedAt": "2026-11-03",
           "views": "13.0K"
         }
       ]
@@ -111,28 +111,28 @@
       "description": "규제, 책임, 신뢰, 저작권 같은 문제를 보는 관점",
       "items": [
         {
+          "title": "Hyundai Motor Group faces lasting US policy risks after midterms - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPMlB1dVpXSkdtWFRVeVRTX3lxYUpqcF83M0NFVTFmMHdVUVc0bjh0aDU4aVZzT0tTMmh1RDRuQzNxQm12bWk2RUNTQklrQ2VtNjFaQlNRZzcyeVNjM2RJTllVSjR4ajNVM0p3SHplbFFIOFlmM0NTMHBRbUt4MHZ3dWhmcXlxVzg4eFdyYlY0Y1ZBaWk3VDZxNDE2aHgxamZ2OVBqaC1FcnczcndxWFVCSVlZQkxGbG5nTkhOazNn0gHDAUFVX3lxTE93YXl3RmdDeFZCOHlQUEhra3pxaWRjWDBEU21taDdTVnQyUmtORjIzdHFRcXVBNW1KQ1RDY1hGbHJVNEY5SWJLakdEU0ZVbFREWWp6YXBUWnlxc0FLV2xweHRMLTZSVFo3Vk01UUtJN2U3dkd6NW40cFdsLXFLbDdWd21oMTlfbkp3clFjR3NXYWNIanRaYVY4MG1PNzBZUFFhNDFHcHI3d0tDV1B2NTh1R01xYUI0TnA1eXhtQ240bUl4UQ?oc=5\" target=\"_blank\">Hyundai Motor Group faces lasting US policy risks after midterms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMlB1dVpXSkdtWFRVeVRTX3lxYUpqcF83M0NFVTFmMHdVUVc0bjh0aDU4aVZzT0tTMmh1RDRuQzNxQm12bWk2RUNTQklrQ2VtNjFaQlNRZzcyeVNjM2RJTllVSjR4ajNVM0p3SHplbFFIOFlmM0NTMHBRbUt4MHZ3dWhmcXlxVzg4eFdyYlY0Y1ZBaWk3VDZxNDE2aHgxamZ2OVBqaC1FcnczcndxWFVCSVlZQkxGbG5nTkhOazNn0gHDAUFVX3lxTE93YXl3RmdDeFZCOHlQUEhra3pxaWRjWDBEU21taDdTVnQyUmtORjIzdHFRcXVBNW1KQ1RDY1hGbHJVNEY5SWJLakdEU0ZVbFREWWp6YXBUWnlxc0FLV2xweHRMLTZSVFo3Vk01UUtJN2U3dkd6NW40cFdsLXFLbDdWd21oMTlfbkp3clFjR3NXYWNIanRaYVY4MG1PNzBZUFFhNDFHcHI3d0tDV1B2NTh1R01xYUI0TnA1eXhtQ240bUl4UQ?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-11-04",
+          "views": "18.0K"
+        },
+        {
+          "title": "[BREAKING] Appeals court upholds Yoon's election law conviction, putting PPP funds at risk - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb3RJdF9vZ0dQOGpXUW9VeDNGVWJKNUJoZnhOejlZOURZdWhTU3V0c25YSkVfQ2RSQ3FOVjNuUGxjVTdtWWZDT2NMc0Z6MlpyNmNidFRLZGJaVWVSNk1GN3JMT2RsU0JPQ0FWWUJaV0NMUWg1RlRWSG9HLWhIUVNEWkRLRnZoUkg1ZGc3SWlmaEVMaWVGTEE5OWRMTHFsYnJYQVJ4Q096MEE2NTZHbURac1BKeGpnbDZMMTBpQkNseFNiTlhnRElKWUZKcHIzVzJFM3fSAdcBQVVfeXFMTkpDQ2dkc2hZODVKaXhoeF9MZVI4N3FjdGpHdHFrdjFpNjZ5WWlZbi00d0ZxZHpGSDc5WmhvalhLbWVPUWozUjBSWXhDV3ZKMkE1U3NYU0lzXzZEYkdwM2JSMVQwVHJZRVlST1ZxcWl4RS13MVcxSU1GLXAxMEdPV2ZVX18xWk91eS0ta1FGaXJ6dWxiWFRUVDZiRXVhNmxoaXNpTjZHMnQ3MDY0M3N2MmJyTEV1Z2ZFTktRNlFuSmh4ZkhobWhRc0RSQzBuZ29zdENNQVF1eTA?oc=5\" target=\"_blank\">[BREAKING] Appeals court upholds Yoon's election law conviction, putting PPP funds at risk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb3RJdF9vZ0dQOGpXUW9VeDNGVWJKNUJoZnhOejlZOURZdWhTU3V0c25YSkVfQ2RSQ3FOVjNuUGxjVTdtWWZDT2NMc0Z6MlpyNmNidFRLZGJaVWVSNk1GN3JMT2RsU0JPQ0FWWUJaV0NMUWg1RlRWSG9HLWhIUVNEWkRLRnZoUkg1ZGc3SWlmaEVMaWVGTEE5OWRMTHFsYnJYQVJ4Q096MEE2NTZHbURac1BKeGpnbDZMMTBpQkNseFNiTlhnRElKWUZKcHIzVzJFM3fSAdcBQVVfeXFMTkpDQ2dkc2hZODVKaXhoeF9MZVI4N3FjdGpHdHFrdjFpNjZ5WWlZbi00d0ZxZHpGSDc5WmhvalhLbWVPUWozUjBSWXhDV3ZKMkE1U3NYU0lzXzZEYkdwM2JSMVQwVHJZRVlST1ZxcWl4RS13MVcxSU1GLXAxMEdPV2ZVX18xWk91eS0ta1FGaXJ6dWxiWFRUVDZiRXVhNmxoaXNpTjZHMnQ3MDY0M3N2MmJyTEV1Z2ZFTktRNlFuSmh4ZkhobWhRc0RSQzBuZ29zdENNQVF1eTA?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-11-04",
+          "views": "18.0K"
+        },
+        {
           "title": "US judge orders ethics investigation into DOJ lawyers in golf course dispute - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPSkNsQ0tXT2NqMFdsb21wYXk5blRTbXYyb2VBYTF0S21wMjFabmt6U0VNbWVEQjFZaEhERzdhMkV0SkhZU0tMSV9LUVlpZU1QR25TZVNUY1dYdjdEOVFMSHc2UUIxVUJBOE16MURGRlU5NVBqblRERXViYjhUdURDZVljWDNrZzJCd3JxVlNweFkxZ2FKaGZOUmJqWmhYc3dvbVMwSDlLQVBwRHZBUnRDMEdDTG5sTW5GLUw0RzhsUXlKUlVU?oc=5\" target=\"_blank\">US judge orders ethics investigation into DOJ lawyers in golf course dispute</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSkNsQ0tXT2NqMFdsb21wYXk5blRTbXYyb2VBYTF0S21wMjFabmt6U0VNbWVEQjFZaEhERzdhMkV0SkhZU0tMSV9LUVlpZU1QR25TZVNUY1dYdjdEOVFMSHc2UUIxVUJBOE16MURGRlU5NVBqblRERXViYjhUdURDZVljWDNrZzJCd3JxVlNweFkxZ2FKaGZOUmJqWmhYc3dvbVMwSDlLQVBwRHZBUnRDMEdDTG5sTW5GLUw0RzhsUXlKUlVU?oc=5",
           "source": "Reuters AI",
           "publishedAt": "2026-10-30",
           "views": "18.0K"
-        },
-        {
-          "title": "Could a midterm defeat tame Trump? Not on foreign policy, Chinese experts say - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTnlPUW01QjBHcEpSeWZNbGh6dGlhdVJDRlZWdW9LOXRnZFZyZ1B4M0VEdi1WZ2UtVGE4R0NFaWR5U2RVVWFMLUUxNWtVeFh1UWtqaW9EZTBicXNOVXVaVm90NHg4QUtuMWdIWkVQMlhKVVpVVkhNcFRhWVVadHVFUkxrZWZpX0I4YklnV2VtVEhjWVBfVlc4d3QxMXRVaTFMMXVYbUh3QXNqN19uaUdWZURtaEo1dk00dmJmQTN0WnTSAcABQVVfeXFMTU55T1FtNUIwR3BKUnlmTWxoenRpYXVSQ0ZWVnVvSzl0Z2RWcmdQeDNFRHYtVmdlLVRhOEdDRWlkeVNkVVVhTC1FMTVrVXhYdVFramlvRGUwYnFzTlV1WlZvdDR4OEFLbjFnSFpFUDJYSlVaVVZITXBUYVlVWnR1RVJMa2VmaV9COGJJZ1dlbVRIY1lQX1ZXOHd0MTF0VWkxTDF1WG1Id0FzajdfbmlHVmVEbWhKNXZNNHZiZkEzdFp0?oc=5\" target=\"_blank\">Could a midterm defeat tame Trump? Not on foreign policy, Chinese experts say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTnlPUW01QjBHcEpSeWZNbGh6dGlhdVJDRlZWdW9LOXRnZFZyZ1B4M0VEdi1WZ2UtVGE4R0NFaWR5U2RVVWFMLUUxNWtVeFh1UWtqaW9EZTBicXNOVXVaVm90NHg4QUtuMWdIWkVQMlhKVVpVVkhNcFRhWVVadHVFUkxrZWZpX0I4YklnV2VtVEhjWVBfVlc4d3QxMXRVaTFMMXVYbUh3QXNqN19uaUdWZURtaEo1dk00dmJmQTN0WnTSAcABQVVfeXFMTU55T1FtNUIwR3BKUnlmTWxoenRpYXVSQ0ZWVnVvSzl0Z2RWcmdQeDNFRHYtVmdlLVRhOEdDRWlkeVNkVVVhTC1FMTVrVXhYdVFramlvRGUwYnFzTlV1WlZvdDR4OEFLbjFnSFpFUDJYSlVaVVZITXBUYVlVWnR1RVJMa2VmaV9COGJJZ1dlbVRIY1lQX1ZXOHd0MTF0VWkxTDF1WG1Id0FzajdfbmlHVmVEbWhKNXZNNHZiZkEzdFp0?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-11-03",
-          "views": "13.0K"
-        },
-        {
-          "title": "Dollar drifts on Mideast, midterm risks; Aussie dips after expected RBA hike - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNE1RdnJYYmVzdzBUWE9zZW5SdkhKVG0wVFlSTmFzUkpOanNhVWc0Nk5DZzJNaUN4azRHUVFnVTFWSEJpT1ByOUJ6Ny1zdlVqanJ5SUpHY1dMWDJ3M0pLWk1ZcUN0MmlLMUlGT01xSkN5VHZzc1NMUVZvaG42Rm9wTV9zejhTeUktb2d0dWpDb1B3dW5oNHJKaHVtLVAzem9qOUFCM05jT2lzQ0ZJSDl5QXVQQnZfT3JwblRZZWpfWnhmRlE?oc=5\" target=\"_blank\">Dollar drifts on Mideast, midterm risks; Aussie dips after expected RBA hike</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNE1RdnJYYmVzdzBUWE9zZW5SdkhKVG0wVFlSTmFzUkpOanNhVWc0Nk5DZzJNaUN4azRHUVFnVTFWSEJpT1ByOUJ6Ny1zdlVqanJ5SUpHY1dMWDJ3M0pLWk1ZcUN0MmlLMUlGT01xSkN5VHZzc1NMUVZvaG42Rm9wTV9zejhTeUktb2d0dWpDb1B3dW5oNHJKaHVtLVAzem9qOUFCM05jT2lzQ0ZJSDl5QXVQQnZfT3JwblRZZWpfWnhmRlE?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-11-03",
-          "views": "13.0K"
         }
       ]
     },
@@ -142,19 +142,19 @@
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
         {
+          "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNckFpWnYtcGc5YWlIY09HN2YteHBDM2IxdzQzTmVlM1VxNjI3OTBYTjgyS3psVDQydE80QkVweVY4V0NiX0F3MUg3NHV2ODduaTBfSS1hN3FNZWtrR3J5MHYxZzMzekwyN1Yta2FDaUk4amEyTzdoLWV3VWdLYWpzb2FtQXpNNWtROE0weTFBRWRoQVduZmd1bW9nQ1pKbmpDbGtUNGhiaHhfRl8zQUVoSWdROG9iUzJEQVh0U1V2WjRWYWxXNzM3WkRmemhLMHl4Tm1UMEVwZFFMUQ?oc=5\" target=\"_blank\">CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNckFpWnYtcGc5YWlIY09HN2YteHBDM2IxdzQzTmVlM1VxNjI3OTBYTjgyS3psVDQydE80QkVweVY4V0NiX0F3MUg3NHV2ODduaTBfSS1hN3FNZWtrR3J5MHYxZzMzekwyN1Yta2FDaUk4amEyTzdoLWV3VWdLYWpzb2FtQXpNNWtROE0weTFBRWRoQVduZmd1bW9nQ1pKbmpDbGtUNGhiaHhfRl8zQUVoSWdROG9iUzJEQVh0U1V2WjRWYWxXNzM3WkRmemhLMHl4Tm1UMEVwZFFMUQ?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-11-03",
+          "views": "18.0K"
+        },
+        {
           "title": "Doubts on AI investment to test Korean economy - The Korea Times",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQb1BqWG1kVHVYenpPT2ZBWjRBbHJ1a3o1bGZxNGpQOS1TUXFucEJEYTBweTM4S28zTnc3a2ZoWWI3WEc2cndCb0VQa0J1dzlSemt4R3JQU294NnJUTXExbG9NRE1CTkpRbjlNQi01TkI5MzF3U0pxVm1HNTBLcVN2dXVDSmlfTEJYWmkxQktkWnJ6cmFOREdSd21FQXgxWE5UUlVLbXBR0gGrAUFVX3lxTFBrNzJNVUptRXNsWHAwR21ELTdyaW4wdjdDNDZnMDdfV3doZ19zQXFfbkFENnYwMUJlcFc4VU5SMmFmal9JOTNJRExNQkJHZ2xudTI2eG1XSjh0dGZ1cWdkR3BvUVI3N3k1OGVKbVVDc3YwNmtPSmt6WUwtLW5zYnhqX3k2X3huUVZaSTU4TU1nSGFoaHRVTThlWGZNT1IxTURfWU5NZXlzeTV2MA?oc=5\" target=\"_blank\">Doubts on AI investment to test Korean economy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb1BqWG1kVHVYenpPT2ZBWjRBbHJ1a3o1bGZxNGpQOS1TUXFucEJEYTBweTM4S28zTnc3a2ZoWWI3WEc2cndCb0VQa0J1dzlSemt4R3JQU294NnJUTXExbG9NRE1CTkpRbjlNQi01TkI5MzF3U0pxVm1HNTBLcVN2dXVDSmlfTEJYWmkxQktkWnJ6cmFOREdSd21FQXgxWE5UUlVLbXBR0gGrAUFVX3lxTFBrNzJNVUptRXNsWHAwR21ELTdyaW4wdjdDNDZnMDdfV3doZ19zQXFfbkFENnYwMUJlcFc4VU5SMmFmal9JOTNJRExNQkJHZ2xudTI2eG1XSjh0dGZ1cWdkR3BvUVI3N3k1OGVKbVVDc3YwNmtPSmt6WUwtLW5zYnhqX3k2X3huUVZaSTU4TU1nSGFoaHRVTThlWGZNT1IxTURfWU5NZXlzeTV2MA?oc=5",
           "source": "The Korea Times",
           "publishedAt": "2026-11-02",
-          "views": "18.0K"
-        },
-        {
-          "title": "Wall St Week Ahead Midterm US elections, earnings, jobs data loom for AI-wary stock market - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPMDJJM0JmU1Nreks0a1ViM1lWX2VRX043dHpXd2xjR091TTNJd1UyZjZ4a2kwMURZLXkwLTBHSWZaMG41VU5nbTE0VW1iNDdCbHNCTjc5RG5BZUx3QzM2d0IzUmJkWXB3VkNsMW5EMDVFUlQ1NmhvdDBVTy05RkpxaDZ4QW9xRExsY2QwVzFpMTJmRG52bW0tSWgwbkdCTlJlaFFnU2tUcEEyQml0cV9VRktaVTh4VDVFNkIwVjkyWmN6dFpTNE9FZkx4dw?oc=5\" target=\"_blank\">Wall St Week Ahead Midterm US elections, earnings, jobs data loom for AI-wary stock market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMDJJM0JmU1Nreks0a1ViM1lWX2VRX043dHpXd2xjR091TTNJd1UyZjZ4a2kwMURZLXkwLTBHSWZaMG41VU5nbTE0VW1iNDdCbHNCTjc5RG5BZUx3QzM2d0IzUmJkWXB3VkNsMW5EMDVFUlQ1NmhvdDBVTy05RkpxaDZ4QW9xRExsY2QwVzFpMTJmRG52bW0tSWgwbkdCTlJlaFFnU2tUcEEyQml0cV9VRktaVTh4VDVFNkIwVjkyWmN6dFpTNE9FZkx4dw?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-10-30",
           "views": "18.0K"
         },
         {
@@ -189,11 +189,11 @@
           "views": "18.0K"
         },
         {
-          "title": "Exclusive: Russia's Top Telecom CEO to Visit Korea Seeking 5G Partners - ETNEWS",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE5qd0VDYmNYdUF2LWdoTDdIUF9jYWoyUDJlT1haTFpJTFVqVXFiOEFQZ1J2bHpuNmx4VW9mT1Jxdk1nOUJmQzkwVXhOS2M?oc=5\" target=\"_blank\">Exclusive: Russia's Top Telecom CEO to Visit Korea Seeking 5G Partners</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5qd0VDYmNYdUF2LWdoTDdIUF9jYWoyUDJlT1haTFpJTFVqVXFiOEFQZ1J2bHpuNmx4VW9mT1Jxdk1nOUJmQzkwVXhOS2M?oc=5",
-          "source": "전자신문",
-          "publishedAt": "2026-11-02",
+          "title": "Binance co-CEO says company is in very strong financial health after $6.3 billion heist - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQSW1yRmpqWklpVWhidTBKNUFiQ2hXMXF2djlzbEZwTWFkVjIyV25taVh0cUh2VmJYeTROUlJwMlU1RkU3ZG94YnVXUHI1eEdLQndwdGxIdkN5b2tiYmVWMnpCRDFfeWNLZ3ZWdUFQbl90bDdDZVFJUFVkUTA2ZUxKeXh3aHYwbnNQN25LMlB2Z0VkMkplUG9kZldtNHVPRWpDdHpaaTJGUktPYURKeWNERElZNGJzLVIwVW5YdDgySUF5ZVIyRlJKVUZWRQ?oc=5\" target=\"_blank\">Binance co-CEO says company is in very strong financial health after $6.3 billion heist</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSW1yRmpqWklpVWhidTBKNUFiQ2hXMXF2djlzbEZwTWFkVjIyV25taVh0cUh2VmJYeTROUlJwMlU1RkU3ZG94YnVXUHI1eEdLQndwdGxIdkN5b2tiYmVWMnpCRDFfeWNLZ3ZWdUFQbl90bDdDZVFJUFVkUTA2ZUxKeXh3aHYwbnNQN25LMlB2Z0VkMkplUG9kZldtNHVPRWpDdHpaaTJGUktPYURKeWNERElZNGJzLVIwVW5YdDgySUF5ZVIyRlJKVUZWRQ?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-11-03",
           "views": "13.0K"
         }
       ]
