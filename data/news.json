@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-07T05:53:15.645Z",
+  "lastUpdated": "2026-11-08T05:55:35.874Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -142,14 +142,6 @@
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
         {
-          "title": "AI-powered insurance startup Kalepa valued at $470 million in new funding round - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNdXBCdXJGdnN1M0xnMmZpdGo5T0ZhSF9GYmh0OVNiYTlSNXJuVm52bTVNUnRxc1F5eHNpNzlUVUE3UEdhaUt0emRWc0Vwa29MSURrRmZ6TjJKeU05Y1lvQk1HZi1JT2c3N2hNcW9oYnhmR05WQ0dBY1JPZHZJd09wMkJ1U1lpOWtYcGY3T3JYR0RVMnV0VWRpZGVXRVRwZV9pLU14Z19sU0UwYTRDY2hLMkdrMmZCLUU4SG1xUjJndE1ZU0cwLXNB?oc=5\" target=\"_blank\">AI-powered insurance startup Kalepa valued at $470 million in new funding round</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdXBCdXJGdnN1M0xnMmZpdGo5T0ZhSF9GYmh0OVNiYTlSNXJuVm52bTVNUnRxc1F5eHNpNzlUVUE3UEdhaUt0emRWc0Vwa29MSURrRmZ6TjJKeU05Y1lvQk1HZi1JT2c3N2hNcW9oYnhmR05WQ0dBY1JPZHZJd09wMkJ1U1lpOWtYcGY3T3JYR0RVMnV0VWRpZGVXRVRwZV9pLU14Z19sU0UwYTRDY2hLMkdrMmZCLUU4SG1xUjJndE1ZU0cwLXNB?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-11-05",
-          "views": "18.0K"
-        },
-        {
           "title": "Drone delivery startup Zipline valued at $21.5 billion in latest funding round - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPaFpRWmZqYUh6YWdpSGE0S3RpaW5kaU56bmtZeEZCdkhCR3R5N1pvdl9wQTNLWkNMWDJBV3VhOVhneEdOOVJnSjdjSGtiN2R6T0dGd290QXp1NTZkaUI1Nm1ueWRXZDBqYmE0TFc2blFTZHRrd055dXc3Tlk0MFNCd00tUmQ2Z0ZnYThTaDliei1MLXZyOFNFc1d3aS1LZ1RSUDlwckUzUjduZ2tzRkZFdzEtX2U5Zw?oc=5\" target=\"_blank\">Drone delivery startup Zipline valued at $21.5 billion in latest funding round</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaFpRWmZqYUh6YWdpSGE0S3RpaW5kaU56bmtZeEZCdkhCR3R5N1pvdl9wQTNLWkNMWDJBV3VhOVhneEdOOVJnSjdjSGtiN2R6T0dGd290QXp1NTZkaUI1Nm1ueWRXZDBqYmE0TFc2blFTZHRrd055dXc3Tlk0MFNCd00tUmQ2Z0ZnYThTaDliei1MLXZyOFNFc1d3aS1LZ1RSUDlwckUzUjduZ2tzRkZFdzEtX2U5Zw?oc=5",
@@ -158,11 +150,19 @@
           "views": "18.0K"
         },
         {
-          "title": "AI sales startup Nooks secures $500 million in funding for expansion - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQOXpKNVNpQ1hhR3lxTGJuem9WcDNINW00TE1ORVZuX0xaWDFtcGhXdENBblhnWTBrVFNkRGU1SzM2S1oyRHJtUUVkSEJEUi1wUXh4Tk5XbWFDZ3FySEZ0U19xRVpwbmVFaWZRZnh1Sm81MnkybWtpY2tuNEhSSFNwOHdQRnZuTm54aWZVcWM4M0l5T0N6ekdVUllFSkFwTU94TWVfanNWSUEybUo3eDRIZi1kRQ?oc=5\" target=\"_blank\">AI sales startup Nooks secures $500 million in funding for expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOXpKNVNpQ1hhR3lxTGJuem9WcDNINW00TE1ORVZuX0xaWDFtcGhXdENBblhnWTBrVFNkRGU1SzM2S1oyRHJtUUVkSEJEUi1wUXh4Tk5XbWFDZ3FySEZ0U19xRVpwbmVFaWZRZnh1Sm81MnkybWtpY2tuNEhSSFNwOHdQRnZuTm54aWZVcWM4M0l5T0N6ekdVUllFSkFwTU94TWVfanNWSUEybUo3eDRIZi1kRQ?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-11-04",
+          "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNckFpWnYtcGc5YWlIY09HN2YteHBDM2IxdzQzTmVlM1VxNjI3OTBYTjgyS3psVDQydE80QkVweVY4V0NiX0F3MUg3NHV2ODduaTBfSS1hN3FNZWtrR3J5MHYxZzMzekwyN1Yta2FDaUk4amEyTzdoLWV3VWdLYWpzb2FtQXpNNWtROE0weTFBRWRoQVduZmd1bW9nQ1pKbmpDbGtUNGhiaHhfRl8zQUVoSWdROG9iUzJEQVh0U1V2WjRWYWxXNzM3WkRmemhLMHl4Tm1UMEVwZFFMUQ?oc=5\" target=\"_blank\">CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNckFpWnYtcGc5YWlIY09HN2YteHBDM2IxdzQzTmVlM1VxNjI3OTBYTjgyS3psVDQydE80QkVweVY4V0NiX0F3MUg3NHV2ODduaTBfSS1hN3FNZWtrR3J5MHYxZzMzekwyN1Yta2FDaUk4amEyTzdoLWV3VWdLYWpzb2FtQXpNNWtROE0weTFBRWRoQVduZmd1bW9nQ1pKbmpDbGtUNGhiaHhfRl8zQUVoSWdROG9iUzJEQVh0U1V2WjRWYWxXNzM3WkRmemhLMHl4Tm1UMEVwZFFMUQ?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-11-03",
+          "views": "18.0K"
+        },
+        {
+          "title": "Doubts on AI investment to test Korean economy - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQb1BqWG1kVHVYenpPT2ZBWjRBbHJ1a3o1bGZxNGpQOS1TUXFucEJEYTBweTM4S28zTnc3a2ZoWWI3WEc2cndCb0VQa0J1dzlSemt4R3JQU294NnJUTXExbG9NRE1CTkpRbjlNQi01TkI5MzF3U0pxVm1HNTBLcVN2dXVDSmlfTEJYWmkxQktkWnJ6cmFOREdSd21FQXgxWE5UUlVLbXBR0gGrAUFVX3lxTFBrNzJNVUptRXNsWHAwR21ELTdyaW4wdjdDNDZnMDdfV3doZ19zQXFfbkFENnYwMUJlcFc4VU5SMmFmal9JOTNJRExNQkJHZ2xudTI2eG1XSjh0dGZ1cWdkR3BvUVI3N3k1OGVKbVVDc3YwNmtPSmt6WUwtLW5zYnhqX3k2X3huUVZaSTU4TU1nSGFoaHRVTThlWGZNT1IxTURfWU5NZXlzeTV2MA?oc=5\" target=\"_blank\">Doubts on AI investment to test Korean economy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb1BqWG1kVHVYenpPT2ZBWjRBbHJ1a3o1bGZxNGpQOS1TUXFucEJEYTBweTM4S28zTnc3a2ZoWWI3WEc2cndCb0VQa0J1dzlSemt4R3JQU294NnJUTXExbG9NRE1CTkpRbjlNQi01TkI5MzF3U0pxVm1HNTBLcVN2dXVDSmlfTEJYWmkxQktkWnJ6cmFOREdSd21FQXgxWE5UUlVLbXBR0gGrAUFVX3lxTFBrNzJNVUptRXNsWHAwR21ELTdyaW4wdjdDNDZnMDdfV3doZ19zQXFfbkFENnYwMUJlcFc4VU5SMmFmal9JOTNJRExNQkJHZ2xudTI2eG1XSjh0dGZ1cWdkR3BvUVI3N3k1OGVKbVVDc3YwNmtPSmt6WUwtLW5zYnhqX3k2X3huUVZaSTU4TU1nSGFoaHRVTThlWGZNT1IxTURfWU5NZXlzeTV2MA?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-11-02",
           "views": "18.0K"
         }
       ]
@@ -185,7 +185,7 @@
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPZldfTGhZTGVIQjF4eFQzQXdQNGhZUkVZeG0yUV9NeXIyNGpXalNBeWVrY1ZiT3BmLUtmVmRjaFVwMGZHV3Frb3gzTEdjRTQtaW54blZaOUhiM0RnUDlMOWxwbkZvWmM3OWY4QmdiVjVOUjkwUGdqY1JNTHJXODZXdFZOTmNGUXU5THJKb0tHcWpPYzROaDYzZ0xldUNqRmUwd05JX3NNVGNtZ0JMQWVKM0RUalZvRnViWHBPN3Bn?oc=5\" target=\"_blank\">Anthropic creates Public Benefit Fund that grows with company valuation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI News</font>",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZldfTGhZTGVIQjF4eFQzQXdQNGhZUkVZeG0yUV9NeXIyNGpXalNBeWVrY1ZiT3BmLUtmVmRjaFVwMGZHV3Frb3gzTEdjRTQtaW54blZaOUhiM0RnUDlMOWxwbkZvWmM3OWY4QmdiVjVOUjkwUGdqY1JNTHJXODZXdFZOTmNGUXU5THJKb0tHcWpPYzROaDYzZ0xldUNqRmUwd05JX3NNVGNtZ0JMQWVKM0RUalZvRnViWHBPN3Bn?oc=5",
           "source": "AI News",
-          "publishedAt": "2026-11-06",
+          "publishedAt": "2026-11-07",
           "views": "13.0K"
         },
         {
