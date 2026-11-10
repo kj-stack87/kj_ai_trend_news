@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-09T06:16:49.671Z",
+  "lastUpdated": "2026-11-10T07:11:03.980Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,27 +49,27 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
+          "title": "Top 10 firms take up over 60% of Korea's exports in Q3 amid chip boom - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNU0luZjNjazAyY1FJVU50VlRMMjBqWDc3YTJGdkRnclJWWWlEX0dEcFUtMm1KakNxQW9UQUpCempZOXJPSkltd3lFNy1XaTRsMkd0aWRkOGljanFMQmNocUZxQVItRURsVGdmRXJaTXlybmsxWFNsLWJQd1NGUFh1STlhMndaM0JfZnc5bFc1UFB6Q0xDSVVubFJ6ZGp1ZTNXSXNOU3V5eG9DbGtNTFpZOHZYZ9IBuAFBVV95cUxNN2dJRjFBUjE5SzZYZ3U2STJJVnJiS0ZNX29KcXduTlNWVUQ0UnNfd28tU1BiTnI0TmxTX1JFUmllMnl1VXNfdFRtbE9VNTJTd1pDV0k3MDVjeVBsNU5oc0d1MEdXU2NsRGUwWDVtMHRSTFBmcTRfOTBuOW4tOWxpQXBYQlJwSDd5VjZoSTZ3Qmd0R3Rsd211R0lZV2N0NVJFV0JtSjJkZUJzR1lPTWI4OXUwclZzZHFt?oc=5\" target=\"_blank\">Top 10 firms take up over 60% of Korea's exports in Q3 amid chip boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNU0luZjNjazAyY1FJVU50VlRMMjBqWDc3YTJGdkRnclJWWWlEX0dEcFUtMm1KakNxQW9UQUpCempZOXJPSkltd3lFNy1XaTRsMkd0aWRkOGljanFMQmNocUZxQVItRURsVGdmRXJaTXlybmsxWFNsLWJQd1NGUFh1STlhMndaM0JfZnc5bFc1UFB6Q0xDSVVubFJ6ZGp1ZTNXSXNOU3V5eG9DbGtNTFpZOHZYZ9IBuAFBVV95cUxNN2dJRjFBUjE5SzZYZ3U2STJJVnJiS0ZNX29KcXduTlNWVUQ0UnNfd28tU1BiTnI0TmxTX1JFUmllMnl1VXNfdFRtbE9VNTJTd1pDV0k3MDVjeVBsNU5oc0d1MEdXU2NsRGUwWDVtMHRSTFBmcTRfOTBuOW4tOWxpQXBYQlJwSDd5VjZoSTZ3Qmd0R3Rsd211R0lZV2N0NVJFV0JtSjJkZUJzR1lPTWI4OXUwclZzZHFt?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-11-10",
+          "views": "18.0K"
+        },
+        {
+          "title": "Anthropic releases Claude Fable 5.2 and Mythos 5.2, pairing new, record-high benchmarks with 20% API cost reduction - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPN0VKa1ZLaWtOam8yMHotUVNoUE84dmVtYmJ4dW1XbFZZY1MxcmRhNU5jUHV5dkVINE5ERVdNdzE0TmlDdEJhcjhxZEw2TmtpUWRuVU1yb0M0cjhTQjBQaGRQUHplUjZyZDBrSUtQOWhWc1B4aTBqUlVUNUhsaUpfaXg1M1ptc1d6aTJxcEVPaFlMaDZBWnBLZzFCc1JNX2NlU2J2TWFiNXZ5M3lzSmVLRDJuXy0zUzAwLU1scGdjUFpjd3RqLTZPS3I1UmxpOWhmRURuYUhKN2tIR2czVWY2Zg?oc=5\" target=\"_blank\">Anthropic releases Claude Fable 5.2 and Mythos 5.2, pairing new, record-high benchmarks with 20% API cost reduction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPN0VKa1ZLaWtOam8yMHotUVNoUE84dmVtYmJ4dW1XbFZZY1MxcmRhNU5jUHV5dkVINE5ERVdNdzE0TmlDdEJhcjhxZEw2TmtpUWRuVU1yb0M0cjhTQjBQaGRQUHplUjZyZDBrSUtQOWhWc1B4aTBqUlVUNUhsaUpfaXg1M1ptc1d6aTJxcEVPaFlMaDZBWnBLZzFCc1JNX2NlU2J2TWFiNXZ5M3lzSmVLRDJuXy0zUzAwLU1scGdjUFpjd3RqLTZPS3I1UmxpOWhmRURuYUhKN2tIR2czVWY2Zg?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-11-09",
+          "views": "18.0K"
+        },
+        {
           "title": "Ex-Googlers' new Apache 2.0 model Ripple-65B Preview claims the U.S. open coding lead on two major benchmarks - VentureBeat",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdVlSNDhHWDZNdEdqTm1SMUszd0VXQV9VM3dEOXRlMjN2RjNlSHVHV0MzQ1J2V3pndmh1U0E1b3c0eF82X0RQVUtVUFdZRWhiby1vdGN3N2pjYjV1RGZMX0tHYWtteUZMeS1KMDBYYkxaMkswcnlxVl8zcW5RTXdlZTR4NW1pRFQwOG5kaUZuVGFiR1p2YXg3Z0N4ZXpVb3Q2TnV6SzNsZlhSdXlYcWVhYkloYXloQXJYcW8yY3RQaGRoYzVJUHBWcG5wdlhlcUhqVVE1ME9oLWQ1Zw?oc=5\" target=\"_blank\">Ex-Googlers' new Apache 2.0 model Ripple-65B Preview claims the U.S. open coding lead on two major benchmarks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdVlSNDhHWDZNdEdqTm1SMUszd0VXQV9VM3dEOXRlMjN2RjNlSHVHV0MzQ1J2V3pndmh1U0E1b3c0eF82X0RQVUtVUFdZRWhiby1vdGN3N2pjYjV1RGZMX0tHYWtteUZMeS1KMDBYYkxaMkswcnlxVl8zcW5RTXdlZTR4NW1pRFQwOG5kaUZuVGFiR1p2YXg3Z0N4ZXpVb3Q2TnV6SzNsZlhSdXlYcWVhYkloYXloQXJYcW8yY3RQaGRoYzVJUHBWcG5wdlhlcUhqVVE1ME9oLWQ1Zw?oc=5",
           "source": "VentureBeat AI",
           "publishedAt": "2026-11-05",
-          "views": "18.0K"
-        },
-        {
-          "title": "Democrats' win could compound pressures on AI spending, Korean chipmakers - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMUppQmV6QmF0dG51SlprUWYzZEJXNnhMcllMZlp0SkU0MWFCSVV1elRtM3pjdXJMeFVnQlZUM0JKVWVSTDlwZHI5NmF4UjZiUFZZZVBlSFhtVk55Zkt1Wm4tREFXN25BXzI1X3dOdTVlT3dDSU1vWm9VbEQxX1M3UlNxcGc0QjB3TlBtVVlfMGs0bGJKc0pNWldMaHJMNnA2a0FhbHZ5bEkyUFNTM19iRmY3SGlXemZZ0gG-AUFVX3lxTE8tb2g1cUtDZmE0MFZUVGwxLVpKTHprazJvMWZpM040RjZHNnZNY3VDX1o0V0NzazVRTWtiVzVPZTVnZmxUVE01bTRJU1NFYkNyZUgwZEdDMGRGc1d5QXdUekR0SFFTdmE0N0pGbWRQYnJzWXFqN0g5MXl6MlVxRG9nTkVTWFNLX3d2WGRLM2lYdjM3QUthalIwbmJITjVIQlE4cVFlTl9wRTQ3ZXJic19SYU5nSURHSGh6cmpNY3c?oc=5\" target=\"_blank\">Democrats' win could compound pressures on AI spending, Korean chipmakers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMUppQmV6QmF0dG51SlprUWYzZEJXNnhMcllMZlp0SkU0MWFCSVV1elRtM3pjdXJMeFVnQlZUM0JKVWVSTDlwZHI5NmF4UjZiUFZZZVBlSFhtVk55Zkt1Wm4tREFXN25BXzI1X3dOdTVlT3dDSU1vWm9VbEQxX1M3UlNxcGc0QjB3TlBtVVlfMGs0bGJKc0pNWldMaHJMNnA2a0FhbHZ5bEkyUFNTM19iRmY3SGlXemZZ0gG-AUFVX3lxTE8tb2g1cUtDZmE0MFZUVGwxLVpKTHprazJvMWZpM040RjZHNnZNY3VDX1o0V0NzazVRTWtiVzVPZTVnZmxUVE01bTRJU1NFYkNyZUgwZEdDMGRGc1d5QXdUekR0SFFTdmE0N0pGbWRQYnJzWXFqN0g5MXl6MlVxRG9nTkVTWFNLX3d2WGRLM2lYdjM3QUthalIwbmJITjVIQlE4cVFlTl9wRTQ3ZXJic19SYU5nSURHSGh6cmpNY3c?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-11-04",
-          "views": "18.0K"
-        },
-        {
-          "title": "Science ministry, AMD hold 1st steering meeting on AI chip partnership - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNRWpBMGU4MW15cEcya2lsV21pYWxpR1k2QmpuaTg1M0ZaUENDamM3dVAzQ2xMSkhPSmQ2d2tFOHl5ME8zUThCdzMtTXNKVTZHaVdEWkNwb2psSEM5ZmlJMmFTNkVIdmdiX0pYeVpzb1VSRlVqRmpyUVdJa0tBdFloT2JfT3g5SzdHX1V4b3hhblRVekUzb1FPSHVRcEJhQ19DMWZJbFo5ZWEwUjBFZWctYjdzM3pSLWfSAbwBQVVfeXFMTnFjeXBvV1hDSmV4NHIzNW9yTGJYOG1fbVFGdW5CemE4WFJiVE1sTjJoZUFRTi1GRWtsVURqVmE2dERVZ3J5RTZXTVdXaG9ld2hyVVJac3B5OGJLVXg3RERHNDI1aDg2Y3pYZmtGeC1MZUJWUFJ5VHBYOFdZcEd4RnQ2NXVndWdzOExXdUFTZmpzS28wclV0eVRYU2VuYW0zeUpkOXFic2tfUHhLYjk3WkRHNnZ1RG9yMVllME8?oc=5\" target=\"_blank\">Science ministry, AMD hold 1st steering meeting on AI chip partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRWpBMGU4MW15cEcya2lsV21pYWxpR1k2QmpuaTg1M0ZaUENDamM3dVAzQ2xMSkhPSmQ2d2tFOHl5ME8zUThCdzMtTXNKVTZHaVdEWkNwb2psSEM5ZmlJMmFTNkVIdmdiX0pYeVpzb1VSRlVqRmpyUVdJa0tBdFloT2JfT3g5SzdHX1V4b3hhblRVekUzb1FPSHVRcEJhQ19DMWZJbFo5ZWEwUjBFZWctYjdzM3pSLWfSAbwBQVVfeXFMTnFjeXBvV1hDSmV4NHIzNW9yTGJYOG1fbVFGdW5CemE4WFJiVE1sTjJoZUFRTi1GRWtsVURqVmE2dERVZ3J5RTZXTVdXaG9ld2hyVVJac3B5OGJLVXg3RERHNDI1aDg2Y3pYZmtGeC1MZUJWUFJ5VHBYOFdZcEd4RnQ2NXVndWdzOExXdUFTZmpzS28wclV0eVRYU2VuYW0zeUpkOXFic2tfUHhLYjk3WkRHNnZ1RG9yMVllME8?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-11-04",
           "views": "18.0K"
         }
       ]
@@ -88,19 +88,19 @@
           "views": "18.0K"
         },
         {
+          "title": "Did Claude Code’s ‘don’t ask again’ option accidentally expose your enterprise's passwords and keys? - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOdUpkU0cwTTR0N2hiY1h6QTh4NzBaWWgzb1JyaXRmT2I0clVCMERQS1I3NWhJOVhyd3lUNWVXckJzOVhLcm9CYkVzSTI1dVNBNExfaTRWR3RSNjE4eUpHT1RJNm5nZXViaEZfcFJWQlFhWjQtZDZ1MFdYZFRlOTJPMHRVclNQZE1XdjkxeV9obVZ4Y3F4Wi1iNC1rWUszYXNBYjF3bG9EWDJaVU44Vy1LYXhiQVhBYTAzOXdUbDg2Tmd6QVFZSUE?oc=5\" target=\"_blank\">Did Claude Code’s ‘don’t ask again’ option accidentally expose your enterprise's passwords and keys?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdUpkU0cwTTR0N2hiY1h6QTh4NzBaWWgzb1JyaXRmT2I0clVCMERQS1I3NWhJOVhyd3lUNWVXckJzOVhLcm9CYkVzSTI1dVNBNExfaTRWR3RSNjE4eUpHT1RJNm5nZXViaEZfcFJWQlFhWjQtZDZ1MFdYZFRlOTJPMHRVclNQZE1XdjkxeV9obVZ4Y3F4Wi1iNC1rWUszYXNBYjF3bG9EWDJaVU44Vy1LYXhiQVhBYTAzOXdUbDg2Tmd6QVFZSUE?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-11-10",
+          "views": "13.0K"
+        },
+        {
           "title": "How SaaS Wins in World of Agents with Box's CTO Ben Kus - VentureBeat",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNOFdPMnRBeVlpanUxVWxRWjFySUotLXhuUXZjb01HbURYNUVGOXdnT1gyamhXaDU1S0FRTVNwUExOSVNHY3dlOEFxVWlLbHh5VHBwNUtlMGY0WF9oS0MzVXR6YkltUUVvcHcwRWZHcERPempSQ2NYcEZVSjNVa2w1SWZSZ0VQd255SUdMOQ?oc=5\" target=\"_blank\">How SaaS Wins in World of Agents with Box's CTO Ben Kus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOFdPMnRBeVlpanUxVWxRWjFySUotLXhuUXZjb01HbURYNUVGOXdnT1gyamhXaDU1S0FRTVNwUExOSVNHY3dlOEFxVWlLbHh5VHBwNUtlMGY0WF9oS0MzVXR6YkltUUVvcHcwRWZHcERPempSQ2NYcEZVSjNVa2w1SWZSZ0VQd255SUdMOQ?oc=5",
           "source": "VentureBeat AI",
-          "publishedAt": "2026-11-08",
-          "views": "13.0K"
-        },
-        {
-          "title": "Thinking Machines launches Inkling 2 Small with near-frontier performance on enterprise benchmarks - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNU1F6Q0pvSXExVmdVVzBIeF80aGJ4Uzl0enctM3N6cWpVbFl6ejUyMG1YM29lR01ja1ozMTdKYVIxajRqb1dXdExnVjZVaVFBN1FvYnpmTnpBV2MtR2FLZ3pQMUVWVHZIV0RCZlJBMW5ZWGZiUnUzanlIb21iVk5MY3JJazd6UFR6bVdtY2JSWGxrQ3ByYmUwZUFSOTJGcVAtd3dfUkxkTWFqU0QyT0dhcjZBcGpRbVQxOElWNnp5alBJd1k3WHp0TXhuVDBoUQ?oc=5\" target=\"_blank\">Thinking Machines launches Inkling 2 Small with near-frontier performance on enterprise benchmarks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU1F6Q0pvSXExVmdVVzBIeF80aGJ4Uzl0enctM3N6cWpVbFl6ejUyMG1YM29lR01ja1ozMTdKYVIxajRqb1dXdExnVjZVaVFBN1FvYnpmTnpBV2MtR2FLZ3pQMUVWVHZIV0RCZlJBMW5ZWGZiUnUzanlIb21iVk5MY3JJazd6UFR6bVdtY2JSWGxrQ3ByYmUwZUFSOTJGcVAtd3dfUkxkTWFqU0QyT0dhcjZBcGpRbVQxOElWNnp5alBJd1k3WHp0TXhuVDBoUQ?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-11-06",
+          "publishedAt": "2026-11-09",
           "views": "13.0K"
         }
       ]
@@ -111,27 +111,27 @@
       "description": "규제, 책임, 신뢰, 저작권 같은 문제를 보는 관점",
       "items": [
         {
+          "title": "Wall St brokerages say AI selloff overdone, downplay Democratic regulation risks - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPRENQMlVnSU1PdXZ1cHhWUU9kRnhzSXRLaXBNZWZlR1RRV0xtZmo4aW05SjVnbXRlblJFaW9UUGxaWXE0QzVYcno2QUJuUGY4SHlUbmFzazRfMjc2Mmh5Umk1M292djBpVG9EY1FjVHJZZDlGVVAtNFdUQjFNcnZWZF9Zdl9pQWxMM0ZHQTNTSlhtRWVFQjloaUROZkJ4QUtLYkNOdkhrYXNOM3FYZ1cycTFDai1vd2FveVVBdW9xQ3FqeklOcEVfdUhn?oc=5\" target=\"_blank\">Wall St brokerages say AI selloff overdone, downplay Democratic regulation risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRENQMlVnSU1PdXZ1cHhWUU9kRnhzSXRLaXBNZWZlR1RRV0xtZmo4aW05SjVnbXRlblJFaW9UUGxaWXE0QzVYcno2QUJuUGY4SHlUbmFzazRfMjc2Mmh5Umk1M292djBpVG9EY1FjVHJZZDlGVVAtNFdUQjFNcnZWZF9Zdl9pQWxMM0ZHQTNTSlhtRWVFQjloaUROZkJ4QUtLYkNOdkhrYXNOM3FYZ1cycTFDai1vd2FveVVBdW9xQ3FqeklOcEVfdUhn?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-11-09",
+          "views": "18.0K"
+        },
+        {
+          "title": "Companies risk fines of 6% global turnover for unfair digital trade practices, EU draft law shows - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOZTFlSE5taFQzSzdZdlhrOTZ5MXJ2OGU0OHY2MlhYNXlnVVRJbkZCeHJieHM1TXBjX0tSSzJON0Z2MzBJRm1TR2M2Smp4WjlRcWpHcHJXdUpRRGJzM0hIT0dhQVdHY2UxdFBwY0dtMWRZZDhGWkJmRHQ1Y18zenh2cjE3dU9qYTQwc2twTmJQbUhjOXczTFBmaFllT2haSk9qWmE5RnYzZG9pZnY0ampja1VRdzJ5LXhzRWFSNVZldDZWWFVwSm5PU3JfZw?oc=5\" target=\"_blank\">Companies risk fines of 6% global turnover for unfair digital trade practices, EU draft law shows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZTFlSE5taFQzSzdZdlhrOTZ5MXJ2OGU0OHY2MlhYNXlnVVRJbkZCeHJieHM1TXBjX0tSSzJON0Z2MzBJRm1TR2M2Smp4WjlRcWpHcHJXdUpRRGJzM0hIT0dhQVdHY2UxdFBwY0dtMWRZZDhGWkJmRHQ1Y18zenh2cjE3dU9qYTQwc2twTmJQbUhjOXczTFBmaFllT2haSk9qWmE5RnYzZG9pZnY0ampja1VRdzJ5LXhzRWFSNVZldDZWWFVwSm5PU3JfZw?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-11-09",
+          "views": "18.0K"
+        },
+        {
           "title": "'Special master' named for ethics probe in lawsuit over Trump's DC golf project - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNWWNWODRLaU9OU0oxdU8ydVR2Vm1NNGk1X05hZ1dVUEY4bnJmYUF6bng1c1JYaEFNYnRUXzM4WWlUSVl6TFdSVU1ieFg1dzZjdlZLRkcxU3hWbmZ2a0lwcDJybnptQlJ1RkU3ajZWUV80dWlZU2ozMnZVVVVuZWRzVlJQczBMeUVBdEQ3azA1d3ZURi1JQjYyVW9COFZ0WE1fTDNZcXFnY253b0JvZER5Y0ZIV05pQXRvSVF2My13OA?oc=5\" target=\"_blank\">'Special master' named for ethics probe in lawsuit over Trump's DC golf project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWWNWODRLaU9OU0oxdU8ydVR2Vm1NNGk1X05hZ1dVUEY4bnJmYUF6bng1c1JYaEFNYnRUXzM4WWlUSVl6TFdSVU1ieFg1dzZjdlZLRkcxU3hWbmZ2a0lwcDJybnptQlJ1RkU3ajZWUV80dWlZU2ozMnZVVVVuZWRzVlJQczBMeUVBdEQ3azA1d3ZURi1JQjYyVW9COFZ0WE1fTDNZcXFnY253b0JvZER5Y0ZIV05pQXRvSVF2My13OA?oc=5",
           "source": "Reuters AI",
           "publishedAt": "2026-11-08",
-          "views": "18.0K"
-        },
-        {
-          "title": "Midterms upended Congress but Trump still commands foreign policy - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaFdhWXVRZDFtNThlVzMtcUs4eU9nTlVZZHJHZzAxbUhKNVBYN3FoR0lSMHJNSzVkQVJQdXlaWTZQZXNwUzEwSkhxRjBwQ1dRZzIyMFV5QkhTaWRmWHVKWEdSQmhyR1NHaUhyMlpnV09GVkxPbmh5MTlUZEphbVE1OENqSXlNTmdEejZPbUlNdmdzRTBiRnVYTHNuWHVQUEo0VXFvODJTaElxQQ?oc=5\" target=\"_blank\">Midterms upended Congress but Trump still commands foreign policy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaFdhWXVRZDFtNThlVzMtcUs4eU9nTlVZZHJHZzAxbUhKNVBYN3FoR0lSMHJNSzVkQVJQdXlaWTZQZXNwUzEwSkhxRjBwQ1dRZzIyMFV5QkhTaWRmWHVKWEdSQmhyR1NHaUhyMlpnV09GVkxPbmh5MTlUZEphbVE1OENqSXlNTmdEejZPbUlNdmdzRTBiRnVYTHNuWHVQUEo0VXFvODJTaElxQQ?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-11-06",
-          "views": "18.0K"
-        },
-        {
-          "title": "US copyright lawsuit over BTS song 'Swim' dropped: report - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOZXdnU1FOMC1PN21KYkl2M1haV3ZhWVIxQVE4ZnlmUmdrR0JKcDRCUk55ZHFZLWdSdWRmTVZDUHY3OEtoMldyN0djUjg3aVdaNlNweEpydU5CRk1yUDdJTmMta0JxLWRUVFdHdEpRQlFJaEF1ZGZSalBobXZwRVRPQkZsYU1Vd2tEWXJJZi1xWGhxc0YycDdXWWxGc0RoNDJ1dGROWWx6MHVYand2R2hHckZn0gG3AUFVX3lxTE9CLWo3ZVFUeHBsUkthUzN4dm9Sb2JEalJudmQ4SFp1Q3gxdnhZcXJGTEdySncwZWJqMHhpUEhUTHJUOFlPOUZBTzNlb05hT0lCSDhDelNqYnBfN3BoWVhwZjVJbzViaHdIQlE5dnNfUEdaYTB6eEJyOWhkTlNEbGx1UE1IX1h1azR1REo3bm51YnkzU25yZVJhV3V0N1d3UlJEamJhaXdqclJISHVnN25VSnNrM3dvWQ?oc=5\" target=\"_blank\">US copyright lawsuit over BTS song 'Swim' dropped: report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZXdnU1FOMC1PN21KYkl2M1haV3ZhWVIxQVE4ZnlmUmdrR0JKcDRCUk55ZHFZLWdSdWRmTVZDUHY3OEtoMldyN0djUjg3aVdaNlNweEpydU5CRk1yUDdJTmMta0JxLWRUVFdHdEpRQlFJaEF1ZGZSalBobXZwRVRPQkZsYU1Vd2tEWXJJZi1xWGhxc0YycDdXWWxGc0RoNDJ1dGROWWx6MHVYand2R2hHckZn0gG3AUFVX3lxTE9CLWo3ZVFUeHBsUkthUzN4dm9Sb2JEalJudmQ4SFp1Q3gxdnhZcXJGTEdySncwZWJqMHhpUEhUTHJUOFlPOUZBTzNlb05hT0lCSDhDelNqYnBfN3BoWVhwZjVJbzViaHdIQlE5dnNfUEdaYTB6eEJyOWhkTlNEbGx1UE1IX1h1azR1REo3bm51YnkzU25yZVJhV3V0N1d3UlJEamJhaXdqclJISHVnN25VSnNrM3dvWQ?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-11-05",
           "views": "18.0K"
         }
       ]
@@ -142,11 +142,11 @@
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
         {
-          "title": "Drone delivery startup Zipline valued at $21.5 billion in latest funding round - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPaFpRWmZqYUh6YWdpSGE0S3RpaW5kaU56bmtZeEZCdkhCR3R5N1pvdl9wQTNLWkNMWDJBV3VhOVhneEdOOVJnSjdjSGtiN2R6T0dGd290QXp1NTZkaUI1Nm1ueWRXZDBqYmE0TFc2blFTZHRrd055dXc3Tlk0MFNCd00tUmQ2Z0ZnYThTaDliei1MLXZyOFNFc1d3aS1LZ1RSUDlwckUzUjduZ2tzRkZFdzEtX2U5Zw?oc=5\" target=\"_blank\">Drone delivery startup Zipline valued at $21.5 billion in latest funding round</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaFpRWmZqYUh6YWdpSGE0S3RpaW5kaU56bmtZeEZCdkhCR3R5N1pvdl9wQTNLWkNMWDJBV3VhOVhneEdOOVJnSjdjSGtiN2R6T0dGd290QXp1NTZkaUI1Nm1ueWRXZDBqYmE0TFc2blFTZHRrd055dXc3Tlk0MFNCd00tUmQ2Z0ZnYThTaDliei1MLXZyOFNFc1d3aS1LZ1RSUDlwckUzUjduZ2tzRkZFdzEtX2U5Zw?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-11-05",
+          "title": "Samsung supports 1,000 startups, helping attract $1.6 bil. in investment - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDlxMjdGd2xOdEx2cjR5akJZYUZPdVJJUDN0SXZ3THlEZWJpaHFXbVI0NDZRZzk5NGF4cW9ua211UjdNUmpyb1RLdE4yX2FWYVFXZkZZQ1hwOWpPbndScFJlVkp0cjRsUW1wbVB0Rm9JTWJWaW9yUEFuRmVkZlpPaEdfYzJKdlZ5V0lYZjhqOGpzQWh5RE1uZFJZOVlNaGtYMElGYndpVUHSAccBQVVfeXFMTld2TEVaYlcwNFFLZkM4aEIxcVM0YVRyTHJUdFZPMWNEREUtWV95WnJyX3BMRWJaeUFYRGpOOWJEeXJ3T0JuSkFsa3dxRkNDM1VNTFJoaHBGY2FFYllLOVAtcVZBbEpmNUg0dmxORllLQmVQMGhtYTRNMjhERS0wX24zRjFFS2lEbHFDOWJLSEFFZjN2dWVWaGZ1SXBqU05NWXFxV1NtOFRkRms0VlJ3SnFicWhwTThrcG9vUTFLX28xeFo1MW8wcw?oc=5\" target=\"_blank\">Samsung supports 1,000 startups, helping attract $1.6 bil. in investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDlxMjdGd2xOdEx2cjR5akJZYUZPdVJJUDN0SXZ3THlEZWJpaHFXbVI0NDZRZzk5NGF4cW9ua211UjdNUmpyb1RLdE4yX2FWYVFXZkZZQ1hwOWpPbndScFJlVkp0cjRsUW1wbVB0Rm9JTWJWaW9yUEFuRmVkZlpPaEdfYzJKdlZ5V0lYZjhqOGpzQWh5RE1uZFJZOVlNaGtYMElGYndpVUHSAccBQVVfeXFMTld2TEVaYlcwNFFLZkM4aEIxcVM0YVRyTHJUdFZPMWNEREUtWV95WnJyX3BMRWJaeUFYRGpOOWJEeXJ3T0JuSkFsa3dxRkNDM1VNTFJoaHBGY2FFYllLOVAtcVZBbEpmNUg0dmxORllLQmVQMGhtYTRNMjhERS0wX24zRjFFS2lEbHFDOWJLSEFFZjN2dWVWaGZ1SXBqU05NWXFxV1NtOFRkRms0VlJ3SnFicWhwTThrcG9vUTFLX28xeFo1MW8wcw?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-11-10",
           "views": "18.0K"
         },
         {
@@ -158,11 +158,11 @@
           "views": "18.0K"
         },
         {
-          "title": "CHINGMU Targets Korea's Physical AI Market - ETNEWS",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBVVG1nYk81MnBNTWFaejI3UlhNT2pWdnJDTHJtclljZUthTDR6QWo5R0FGNXJGZUhlRl90SmF4Rzk2YVAxdmFIWkg5Q24?oc=5\" target=\"_blank\">CHINGMU Targets Korea's Physical AI Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBVVG1nYk81MnBNTWFaejI3UlhNT2pWdnJDTHJtclljZUthTDR6QWo5R0FGNXJGZUhlRl90SmF4Rzk2YVAxdmFIWkg5Q24?oc=5",
-          "source": "전자신문",
-          "publishedAt": "2026-11-09",
+          "title": "Seoul's Namdaemun Market to host K-food night festival with star chefs - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb2xLWHA2QzJJdFFfZEVPS3FsWVo5WTREWnVhRGN6NEM4Tjc4anozSzdMT3MzX0tOVXA5WWpIYVdWaVZkb25mblBXbzkyaXRydklCMXVwaGg2ZEZzZzJOeExFMGhZb3RVMnVGV19ScW9OaE11ZHdfWmFGcVlhVkszWS01VGRBWlUzMFpfcy1MUGRzT3VuaWl5bkRJX0tkSTdHYTRodmZpVmpsdERELTN3WVEwS1l1SUJZRHpZT3U0RFBpR21iNllfaEJyNzhYRkdQ0gHQAUFVX3lxTE1vbEtYcDZDMkl0UV9kRU9LcWxZWjlZNERadWFEY3o0QzhONzhqejNLN0xPczNfS05VcDlZakhhV1ZpVmRvbmZuUFdvOTJpdHJ2SUIxdXBoaDZkRnNnMk54TEUwaFlvdFUydUZXX1Jxb05oTXVkd19aYUZxWWFWSzNZLTVUZEFaVTMwWl9zLUxQZHNPdW5paXluRElfS2RJN0dhNGh2ZmlWamx0REQtM3dZUTBLWXVJQllEellPdTREUGlHbWI2WV9oQnI3OFhGR1A?oc=5\" target=\"_blank\">Seoul's Namdaemun Market to host K-food night festival with star chefs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb2xLWHA2QzJJdFFfZEVPS3FsWVo5WTREWnVhRGN6NEM4Tjc4anozSzdMT3MzX0tOVXA5WWpIYVdWaVZkb25mblBXbzkyaXRydklCMXVwaGg2ZEZzZzJOeExFMGhZb3RVMnVGV19ScW9OaE11ZHdfWmFGcVlhVkszWS01VGRBWlUzMFpfcy1MUGRzT3VuaWl5bkRJX0tkSTdHYTRodmZpVmpsdERELTN3WVEwS1l1SUJZRHpZT3U0RFBpR21iNllfaEJyNzhYRkdQ0gHQAUFVX3lxTE1vbEtYcDZDMkl0UV9kRU9LcWxZWjlZNERadWFEY3o0QzhONzhqejNLN0xPczNfS05VcDlZakhhV1ZpVmRvbmZuUFdvOTJpdHJ2SUIxdXBoaDZkRnNnMk54TEUwaFlvdFUydUZXX1Jxb05oTXVkd19aYUZxWWFWSzNZLTVUZEFaVTMwWl9zLUxQZHNPdW5paXluRElfS2RJN0dhNGh2ZmlWamx0REQtM3dZUTBLWXVJQllEellPdTREUGlHbWI2WV9oQnI3OFhGR1A?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-11-10",
           "views": "13.0K"
         }
       ]
@@ -173,27 +173,27 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
-          "title": "SK Telecom named UN Global Compact LEAD company for 2027 - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNajFrMW9jcGNuQThPZ1hGMzFBQXNYNzVFNnBSYmFTVjlXRVJuYUZOZTNDRTJFRGk3LTV3Sk1NSHNCTExac3NuZjl6RnhnQVBzN3JLcDE5UUNsOVRSUnVWOVpvYWFlcWNVMGpXcHM2ZzFzY0VSNjZDcEhMcVNBWi1fZENFZXA0ZHBJcXNUWnFRV0FNSDFUX0JzLVQzb2JFWGNRVXZ2R0lYZWU5MjFpTDRZS2xpVdIBuAFBVV95cUxNVFUyYzVFN3hkQnlKV3VLc3RSSkhJZG1aNGtRQzV1LTZzWmlOVG9xQVBwLUs3QWhWYXRlbVhQNnI0aGJ1SEI0Q3NsVUJYZ2N3bDZwZTRTQXp0WGpYSVNWWVc4UGlEYmt4djJZd1pXZWxfRjZGckhoZ1hxR1dCaXhSVmZSYzhmbHduQ0ZzM3BPNDRlcnJJYTlsTU9iM0U2ZlJScl9aOWJRbDRrR1RtNEF5Rk45aV9xbDEt?oc=5\" target=\"_blank\">SK Telecom named UN Global Compact LEAD company for 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNajFrMW9jcGNuQThPZ1hGMzFBQXNYNzVFNnBSYmFTVjlXRVJuYUZOZTNDRTJFRGk3LTV3Sk1NSHNCTExac3NuZjl6RnhnQVBzN3JLcDE5UUNsOVRSUnVWOVpvYWFlcWNVMGpXcHM2ZzFzY0VSNjZDcEhMcVNBWi1fZENFZXA0ZHBJcXNUWnFRV0FNSDFUX0JzLVQzb2JFWGNRVXZ2R0lYZWU5MjFpTDRZS2xpVdIBuAFBVV95cUxNVFUyYzVFN3hkQnlKV3VLc3RSSkhJZG1aNGtRQzV1LTZzWmlOVG9xQVBwLUs3QWhWYXRlbVhQNnI0aGJ1SEI0Q3NsVUJYZ2N3bDZwZTRTQXp0WGpYSVNWWVc4UGlEYmt4djJZd1pXZWxfRjZGckhoZ1hxR1dCaXhSVmZSYzhmbHduQ0ZzM3BPNDRlcnJJYTlsTU9iM0U2ZlJScl9aOWJRbDRrR1RtNEF5Rk45aV9xbDEt?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-11-03",
-          "views": "18.0K"
-        },
-        {
-          "title": "Coupang faces pressure to broaden US lobbying strategy after midterms - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQM1pyNVdCZ0JLVlVsQlNxeFZ4VjYwZFlqbzFDakhNQVBOYWV1U0dNQTF1M3A1RFBBOXRnYno0WDFSMWFFOTI0em5BaU51R1NVckxBeXg4emY0SDFVRjhha2tqaDBRd3dfNVdqV1p6Q29tUjFPUG1KaXBteGF3XzBlVTZkMFBkVEhfeDVhYXV0OTJ6bUpYOXlybTVUZTg1YWV0cFR6YWRySG9BMTBSc0d0NzYyd0pTbmZGQlVtYU5OZUM3VlM20gHKAUFVX3lxTE05UnNJVWhDZGdvY1JwN3N0V05oQTh3NGtDSjZTTTQwVmRmaUFKa2oyZHkwUlRFdnF2dVJ0b0hJenc3amM1QjBNeTUzT1MxdWlWOXB6VHFLdzdWSU1GLTVYcVBKOU9hcm9rTjk4TUxQWldQd1NKek9JTFg3TkhXZ01kTmNLZzkzVHNBSUFzV25XMURtUk9SaWxodExZMVgxdEU0cW9saUFEQWxGVlVveFRrSTI3NTRibF80YkE1Y1JHTHNOTFo2UjJCSGc?oc=5\" target=\"_blank\">Coupang faces pressure to broaden US lobbying strategy after midterms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQM1pyNVdCZ0JLVlVsQlNxeFZ4VjYwZFlqbzFDakhNQVBOYWV1U0dNQTF1M3A1RFBBOXRnYno0WDFSMWFFOTI0em5BaU51R1NVckxBeXg4emY0SDFVRjhha2tqaDBRd3dfNVdqV1p6Q29tUjFPUG1KaXBteGF3XzBlVTZkMFBkVEhfeDVhYXV0OTJ6bUpYOXlybTVUZTg1YWV0cFR6YWRySG9BMTBSc0d0NzYyd0pTbmZGQlVtYU5OZUM3VlM20gHKAUFVX3lxTE05UnNJVWhDZGdvY1JwN3N0V05oQTh3NGtDSjZTTTQwVmRmaUFKa2oyZHkwUlRFdnF2dVJ0b0hJenc3amM1QjBNeTUzT1MxdWlWOXB6VHFLdzdWSU1GLTVYcVBKOU9hcm9rTjk4TUxQWldQd1NKek9JTFg3TkhXZ01kTmNLZzkzVHNBSUFzV25XMURtUk9SaWxodExZMVgxdEU0cW9saUFEQWxGVlVveFRrSTI3NTRibF80YkE1Y1JHTHNOTFo2UjJCSGc?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-11-08",
+          "title": "SK Telecom Integrates NVIDIA GPUs and Domestic NPUs for AIDC Infrastructure - ETNEWS",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBGRVpoUUl1STdFR1UyUnFMVUZTSHNvcExoS252a0hQcDQ2OS0yQm9ac01FUTZkVThFTUN0dndvT2pNX0hnYjFoU3FFTFQ?oc=5\" target=\"_blank\">SK Telecom Integrates NVIDIA GPUs and Domestic NPUs for AIDC Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBGRVpoUUl1STdFR1UyUnFMVUZTSHNvcExoS252a0hQcDQ2OS0yQm9ac01FUTZkVThFTUN0dndvT2pNX0hnYjFoU3FFTFQ?oc=5",
+          "source": "전자신문",
+          "publishedAt": "2026-11-10",
           "views": "13.0K"
         },
         {
-          "title": "Anthropic creates Public Benefit Fund that grows with company valuation - AI News",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPZldfTGhZTGVIQjF4eFQzQXdQNGhZUkVZeG0yUV9NeXIyNGpXalNBeWVrY1ZiT3BmLUtmVmRjaFVwMGZHV3Frb3gzTEdjRTQtaW54blZaOUhiM0RnUDlMOWxwbkZvWmM3OWY4QmdiVjVOUjkwUGdqY1JNTHJXODZXdFZOTmNGUXU5THJKb0tHcWpPYzROaDYzZ0xldUNqRmUwd05JX3NNVGNtZ0JMQWVKM0RUalZvRnViWHBPN3Bn?oc=5\" target=\"_blank\">Anthropic creates Public Benefit Fund that grows with company valuation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI News</font>",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZldfTGhZTGVIQjF4eFQzQXdQNGhZUkVZeG0yUV9NeXIyNGpXalNBeWVrY1ZiT3BmLUtmVmRjaFVwMGZHV3Frb3gzTEdjRTQtaW54blZaOUhiM0RnUDlMOWxwbkZvWmM3OWY4QmdiVjVOUjkwUGdqY1JNTHJXODZXdFZOTmNGUXU5THJKb0tHcWpPYzROaDYzZ0xldUNqRmUwd05JX3NNVGNtZ0JMQWVKM0RUalZvRnViWHBPN3Bn?oc=5",
-          "source": "AI News",
-          "publishedAt": "2026-11-08",
+          "title": "Sogang University team develops new strategy for designing high-performance optical materials - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxQdjZHX3dkZ0dsRW1FZTNxaDVDVVhiSFVWbDB6bWZaQktnVV8xbnRPUVZxMk5QX0h0NmNyZXJnZ2JCNWxaM2JpRWJ5UzJ4Q0RmdnAySWVDYjREZ1ZIU2dtRlAzVU04SUZfRkhCamlWSk9NNHhyU19IMlFiRGlRa1NsZlJKZmt4VHJjaWJvMGVrN1Q0YW82Sl9uVXQ4VENvV1Z5a3NpTjF4VkJkMGJpeUZLQWZTbk9NOG9wb1pEeHR1NldsbGs4aHhEeFk1TTFRaXBoaS1rQ19xbVY1SEoxeDQtQVIyZ3hvNnZxUG03QkRabzA3QjRUNG9OQUEybVhEaUlHS3RZZg?oc=5\" target=\"_blank\">Sogang University team develops new strategy for designing high-performance optical materials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQdjZHX3dkZ0dsRW1FZTNxaDVDVVhiSFVWbDB6bWZaQktnVV8xbnRPUVZxMk5QX0h0NmNyZXJnZ2JCNWxaM2JpRWJ5UzJ4Q0RmdnAySWVDYjREZ1ZIU2dtRlAzVU04SUZfRkhCamlWSk9NNHhyU19IMlFiRGlRa1NsZlJKZmt4VHJjaWJvMGVrN1Q0YW82Sl9uVXQ4VENvV1Z5a3NpTjF4VkJkMGJpeUZLQWZTbk9NOG9wb1pEeHR1NldsbGs4aHhEeFk1TTFRaXBoaS1rQ19xbVY1SEoxeDQtQVIyZ3hvNnZxUG03QkRabzA3QjRUNG9OQUEybVhEaUlHS3RZZg?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-11-10",
+          "views": "13.0K"
+        },
+        {
+          "title": "Jensen Huang’s Troubles Leave the AI Industry Reeling - WIRED",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxONjVjWHhFdXVRVXRrZkQzNlN3THBVWkRrU3JVY1NqbzlrMDgteTVyNTV6T2pIWHhUdl93cktDRUloOHpSYlU5ek13Sm5ZMzctdlV0Tm50bFhSVG5VRk5CdFg5YzljOXFoM0F0d3FzamMwX2VpLWgyOE50eU5GVlgyMEdKNzlFN3B3NWc?oc=5\" target=\"_blank\">Jensen Huang’s Troubles Leave the AI Industry Reeling</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WIRED</font>",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONjVjWHhFdXVRVXRrZkQzNlN3THBVWkRrU3JVY1NqbzlrMDgteTVyNTV6T2pIWHhUdl93cktDRUloOHpSYlU5ek13Sm5ZMzctdlV0Tm50bFhSVG5VRk5CdFg5YzljOXFoM0F0d3FzamMwX2VpLWgyOE50eU5GVlgyMEdKNzlFN3B3NWc?oc=5",
+          "source": "WIRED AI",
+          "publishedAt": "2026-11-10",
           "views": "13.0K"
         }
       ]
