@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-12T07:05:07.085Z",
+  "lastUpdated": "2026-11-13T06:35:59.001Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,6 +49,14 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
+          "title": "Singapore says US offered limited help in its probe of AI chip deals - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPTnYzUU95Qk1nQm5HQmgyWFIyZVpEcVpJUHc2b0FCOEYwUnNZbjVrajlLMVY2QXRUTzR1djQxclI1ckdxcUdhc3phdkhNRTZqOFRMY29QZ0pNOUloekpxWldVZEJsS0l4VEZFTXQyb0sxUFpyaGFJY0QtbFFGa0ZZLVB6LTdaQWwyZnhjQUdLbkU4UFhheHJ4NlJCQndfQWtwVHNmYWN4SmNxZGpsSTB0S2RSTmJhTXc?oc=5\" target=\"_blank\">Singapore says US offered limited help in its probe of AI chip deals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTnYzUU95Qk1nQm5HQmgyWFIyZVpEcVpJUHc2b0FCOEYwUnNZbjVrajlLMVY2QXRUTzR1djQxclI1ckdxcUdhc3phdkhNRTZqOFRMY29QZ0pNOUloekpxWldVZEJsS0l4VEZFTXQyb0sxUFpyaGFJY0QtbFFGa0ZZLVB6LTdaQWwyZnhjQUdLbkU4UFhheHJ4NlJCQndfQWtwVHNmYWN4SmNxZGpsSTB0S2RSTmJhTXc?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-11-12",
+          "views": "18.0K"
+        },
+        {
           "title": "Google’s Gemini Decision 1 model scores up to 1,000 questions in one API call - VentureBeat",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxORzc3ajNMRmhlX3BPM2ZFOG0tWWlQdUk1TnQtNjh0TzJSU2V3VzR5RnBuUTB3aDRMd25QckJSajdmLVJSbG9GRlZpQi1WbG9wQnRlVkFVbGVhbmJyS0xrRG1BcFlLQVFpSkpsYWFIY3VRbmpQcGFRejhxV2ZwS0lRSi1MdEsxMnBRUFFEU0NmSllDX0xzdGNVYlZCOUJuVXI5Z2RLZG5kNGt1QmtPalZrRg?oc=5\" target=\"_blank\">Google’s Gemini Decision 1 model scores up to 1,000 questions in one API call</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORzc3ajNMRmhlX3BPM2ZFOG0tWWlQdUk1TnQtNjh0TzJSU2V3VzR5RnBuUTB3aDRMd25QckJSajdmLVJSbG9GRlZpQi1WbG9wQnRlVkFVbGVhbmJyS0xrRG1BcFlLQVFpSkpsYWFIY3VRbmpQcGFRejhxV2ZwS0lRSi1MdEsxMnBRUFFEU0NmSllDX0xzdGNVYlZCOUJuVXI5Z2RLZG5kNGt1QmtPalZrRg?oc=5",
@@ -63,14 +71,6 @@
           "source": "VentureBeat AI",
           "publishedAt": "2026-11-11",
           "views": "18.0K"
-        },
-        {
-          "title": "Top 10 firms take up over 60% of Korea's exports in Q3 amid chip boom - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNU0luZjNjazAyY1FJVU50VlRMMjBqWDc3YTJGdkRnclJWWWlEX0dEcFUtMm1KakNxQW9UQUpCempZOXJPSkltd3lFNy1XaTRsMkd0aWRkOGljanFMQmNocUZxQVItRURsVGdmRXJaTXlybmsxWFNsLWJQd1NGUFh1STlhMndaM0JfZnc5bFc1UFB6Q0xDSVVubFJ6ZGp1ZTNXSXNOU3V5eG9DbGtNTFpZOHZYZ9IBuAFBVV95cUxNN2dJRjFBUjE5SzZYZ3U2STJJVnJiS0ZNX29KcXduTlNWVUQ0UnNfd28tU1BiTnI0TmxTX1JFUmllMnl1VXNfdFRtbE9VNTJTd1pDV0k3MDVjeVBsNU5oc0d1MEdXU2NsRGUwWDVtMHRSTFBmcTRfOTBuOW4tOWxpQXBYQlJwSDd5VjZoSTZ3Qmd0R3Rsd211R0lZV2N0NVJFV0JtSjJkZUJzR1lPTWI4OXUwclZzZHFt?oc=5\" target=\"_blank\">Top 10 firms take up over 60% of Korea's exports in Q3 amid chip boom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNU0luZjNjazAyY1FJVU50VlRMMjBqWDc3YTJGdkRnclJWWWlEX0dEcFUtMm1KakNxQW9UQUpCempZOXJPSkltd3lFNy1XaTRsMkd0aWRkOGljanFMQmNocUZxQVItRURsVGdmRXJaTXlybmsxWFNsLWJQd1NGUFh1STlhMndaM0JfZnc5bFc1UFB6Q0xDSVVubFJ6ZGp1ZTNXSXNOU3V5eG9DbGtNTFpZOHZYZ9IBuAFBVV95cUxNN2dJRjFBUjE5SzZYZ3U2STJJVnJiS0ZNX29KcXduTlNWVUQ0UnNfd28tU1BiTnI0TmxTX1JFUmllMnl1VXNfdFRtbE9VNTJTd1pDV0k3MDVjeVBsNU5oc0d1MEdXU2NsRGUwWDVtMHRSTFBmcTRfOTBuOW4tOWxpQXBYQlJwSDd5VjZoSTZ3Qmd0R3Rsd211R0lZV2N0NVJFV0JtSjJkZUJzR1lPTWI4OXUwclZzZHFt?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-11-10",
-          "views": "18.0K"
         }
       ]
     },
@@ -80,27 +80,27 @@
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
         {
-          "title": "How SaaS Wins in World of Agents with Box's CTO Ben Kus - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNOFdPMnRBeVlpanUxVWxRWjFySUotLXhuUXZjb01HbURYNUVGOXdnT1gyamhXaDU1S0FRTVNwUExOSVNHY3dlOEFxVWlLbHh5VHBwNUtlMGY0WF9oS0MzVXR6YkltUUVvcHcwRWZHcERPempSQ2NYcEZVSjNVa2w1SWZSZ0VQd255SUdMOQ?oc=5\" target=\"_blank\">How SaaS Wins in World of Agents with Box's CTO Ben Kus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOFdPMnRBeVlpanUxVWxRWjFySUotLXhuUXZjb01HbURYNUVGOXdnT1gyamhXaDU1S0FRTVNwUExOSVNHY3dlOEFxVWlLbHh5VHBwNUtlMGY0WF9oS0MzVXR6YkltUUVvcHcwRWZHcERPempSQ2NYcEZVSjNVa2w1SWZSZ0VQd255SUdMOQ?oc=5",
+          "title": "AI agents are making security’s breakout-time metric obsolete, and no one agrees on what replaces it - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOWUdxNzhoSUFTaFNZenFOYVd4YVpiRkFDdTBrMjBiQjFJOEU3dW1WWUVnV1l6NlE1Ti1KcEdKcERXX29sMUFjbDhPaHNHQVhHT3RkU2Jqbm03NTV0T1luRGVUTDhZQ0xRcl9BemI2emtzNmlHRlVONExBVkRaOUhWeWRybUVpYVRncmtNWmpIZmFrUWxFRkNCQ1kzeFNTNFluSkVGRDlidDk2WEg2S05WR2k0R1NPdWJRNWgxLWxtVklLMERMdF9tZGlvOA?oc=5\" target=\"_blank\">AI agents are making security’s breakout-time metric obsolete, and no one agrees on what replaces it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWUdxNzhoSUFTaFNZenFOYVd4YVpiRkFDdTBrMjBiQjFJOEU3dW1WWUVnV1l6NlE1Ti1KcEdKcERXX29sMUFjbDhPaHNHQVhHT3RkU2Jqbm03NTV0T1luRGVUTDhZQ0xRcl9BemI2emtzNmlHRlVONExBVkRaOUhWeWRybUVpYVRncmtNWmpIZmFrUWxFRkNCQ1kzeFNTNFluSkVGRDlidDk2WEg2S05WR2k0R1NPdWJRNWgxLWxtVklLMERMdF9tZGlvOA?oc=5",
           "source": "VentureBeat AI",
-          "publishedAt": "2026-11-11",
+          "publishedAt": "2026-11-12",
           "views": "13.0K"
         },
         {
-          "title": "Automation startup Rox raises $100 million at $1.3 billion valuation - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMUtrODMtSnhzZldZdEpjMmFEdHlzdTBlTTdDZkJObUJMenZOSkZ0eGhpT3R0Z3prQ0ZZazE0dVVsMlFKMklla0dMVGhVOURMSG1fTHRjSFFoZE0xS3IwRUYyNm14T2RRbktPNERZVXdBejduY1U3T0xJelZsbXJ1T0U4Q1prZTR0Z2NmYXV4RDRrdWw0UE5GdE1vdjFJamFBb25JTElKMTdXV2s?oc=5\" target=\"_blank\">Automation startup Rox raises $100 million at $1.3 billion valuation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMUtrODMtSnhzZldZdEpjMmFEdHlzdTBlTTdDZkJObUJMenZOSkZ0eGhpT3R0Z3prQ0ZZazE0dVVsMlFKMklla0dMVGhVOURMSG1fTHRjSFFoZE0xS3IwRUYyNm14T2RRbktPNERZVXdBejduY1U3T0xJelZsbXJ1T0U4Q1prZTR0Z2NmYXV4RDRrdWw0UE5GdE1vdjFJamFBb25JTElKMTdXV2s?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-11-11",
+          "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOT3Rob2F6akJaMzJHeDlJV3VaVXh0NkstWjNuNnM0LU9DVWxMOUxPUnRrbXRLQ21EZ00xam9OVi1LWktGNlZST2pnYnlfS1hGdGszUTJMY3MzV2lPWDFEd2VULVFRNnhMN3BQTUkyUjdPN1Z6LWhsemlnaUJPU2p3cE90ZU55YW9rQ0ZMbWE1Z05qcmZpM1RKXzdQX1BueEN2dEprT0kzYlFheENDcXlQR0dHYU1OUXM?oc=5\" target=\"_blank\">Nectar launches an AI agent to automate creator discovery and outreach for brands</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT3Rob2F6akJaMzJHeDlJV3VaVXh0NkstWjNuNnM0LU9DVWxMOUxPUnRrbXRLQ21EZ00xam9OVi1LWktGNlZST2pnYnlfS1hGdGszUTJMY3MzV2lPWDFEd2VULVFRNnhMN3BQTUkyUjdPN1Z6LWhsemlnaUJPU2p3cE90ZU55YW9rQ0ZMbWE1Z05qcmZpM1RKXzdQX1BueEN2dEprT0kzYlFheENDcXlQR0dHYU1OUXM?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-11-12",
           "views": "13.0K"
         },
         {
-          "title": "United Airlines moves to block AI agents from its platform over security concerns - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNVlJLSUtLZnlkQ2FuamtrbzJqMUw5RFVQWnAtV0tyUmI4YVJzeXpSYS0wS2dGSkdvb0RybTR5ck9FRFFGY25pb1V6cm1RbFpSTGhhZUNIN3BjVHFyTmpoYVJOTWhGZjFDb21WNUYtMFFVUWgzUG9CTURNUTFsQWtUcGw5Tmh5TFA3ZHRKZzhRWFVVRjZFaFBWQzZrV0tkYkZSS2FMWGN5OFpTM1JsR0xKSEhkYWFKRFBKcVFTU0hDaktQMEox?oc=5\" target=\"_blank\">United Airlines moves to block AI agents from its platform over security concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVlJLSUtLZnlkQ2FuamtrbzJqMUw5RFVQWnAtV0tyUmI4YVJzeXpSYS0wS2dGSkdvb0RybTR5ck9FRFFGY25pb1V6cm1RbFpSTGhhZUNIN3BjVHFyTmpoYVJOTWhGZjFDb21WNUYtMFFVUWgzUG9CTURNUTFsQWtUcGw5Tmh5TFA3ZHRKZzhRWFVVRjZFaFBWQzZrV0tkYkZSS2FMWGN5OFpTM1JsR0xKSEhkYWFKRFBKcVFTU0hDaktQMEox?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-11-11",
+          "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQbHJBWXhNR29UYzZjcTVBaS1YT1dYRnd3clBFN3hObnZ2MElMMDlvZEh1czA2RkU5YXJMN3gwbF9GUzNOdk5Dcy1oSTNzd09NbG9ObGZTbHQwWng5UmRkWUptSlRLbWxVUWdUeGZWLXhza1ZzS3RuZ0RYN1Zkd2d0VkZsLUFYdFJRcXZBV1BwamtQZlFucE5MSS1qb3NRUkdkZnFTb19ZUDkyaThJc1Jxd0p5MExodw?oc=5\" target=\"_blank\">United Airlines blocks AI agents from booking flights, citing cybersecurity risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbHJBWXhNR29UYzZjcTVBaS1YT1dYRnd3clBFN3hObnZ2MElMMDlvZEh1czA2RkU5YXJMN3gwbF9GUzNOdk5Dcy1oSTNzd09NbG9ObGZTbHQwWng5UmRkWUptSlRLbWxVUWdUeGZWLXhza1ZzS3RuZ0RYN1Zkd2d0VkZsLUFYdFJRcXZBV1BwamtQZlFucE5MSS1qb3NRUkdkZnFTb19ZUDkyaThJc1Jxd0p5MExodw?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-11-12",
           "views": "13.0K"
         }
       ]
@@ -119,19 +119,19 @@
           "views": "18.0K"
         },
         {
-          "title": "Korean stocks surge over 4% as risk appetite returns - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOS19DUENwU3RhZ1ZHNHFodUxseDJYOTJVUVpVZ3ZFWllDOEE5b043bGJIejBRY2otdEhqdEhCMnQ3Y1E1MlNDdGxpSWZ6UnZmYm4zM0VTVXdzU3pqbWNRNXM2bzE1OHZzQU81bnhwRG9yUW5icHVkajR5bzZkcHpjYXFPd1l6UWxLaWQydi0wTlJJZzZJOTJkU1ZjRUo3d9IBowFBVV95cUxQVFJoM3dKenk0UUxWWjRLZm1LQXg0eVpZTjMzcklJeHVYWlNnZ2RIemVTTU1adjgtbGlnT0JRLWhBLXpWMGhsTFc4eWU5WS1FYW9jekxSNGtQUm1MX29GbkZ2OS1vUVpzT2xpTEd4TWcyZW5vbk1IN2VWTUpuS2dHSW4yT2VubXFaUG1idUlmTWwxaTF4MXhXVjMzcDJLSmJ4Q0pR?oc=5\" target=\"_blank\">Korean stocks surge over 4% as risk appetite returns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS19DUENwU3RhZ1ZHNHFodUxseDJYOTJVUVpVZ3ZFWllDOEE5b043bGJIejBRY2otdEhqdEhCMnQ3Y1E1MlNDdGxpSWZ6UnZmYm4zM0VTVXdzU3pqbWNRNXM2bzE1OHZzQU81bnhwRG9yUW5icHVkajR5bzZkcHpjYXFPd1l6UWxLaWQydi0wTlJJZzZJOTJkU1ZjRUo3d9IBowFBVV95cUxQVFJoM3dKenk0UUxWWjRLZm1LQXg0eVpZTjMzcklJeHVYWlNnZ2RIemVTTU1adjgtbGlnT0JRLWhBLXpWMGhsTFc4eWU5WS1FYW9jekxSNGtQUm1MX29GbkZ2OS1vUVpzT2xpTEd4TWcyZW5vbk1IN2VWTUpuS2dHSW4yT2VubXFaUG1idUlmTWwxaTF4MXhXVjMzcDJLSmJ4Q0pR?oc=5",
-          "source": "The Korea Times",
+          "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNSVhqV2gyYlFPU1FIZlNHRkp4SGJHQVJmMzB3cHE0a29DRHpzS09Obzh5NmlQRFFQd25aaE90ZlVxMXJCaUI0Y1FsOEltc09rX0VRTlJZZ01oUlZXN05KV3NxRXpYclhwb0g1VFE4WFEwZ2tZNllMTkpjdFQ3RVBLeWZMTWVJN3B1OVQtWVM1NkNYbER5a2NwNm1HVmI3R1pjOHFoSzJOdzBucW8tZU53?oc=5\" target=\"_blank\">OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSVhqV2gyYlFPU1FIZlNHRkp4SGJHQVJmMzB3cHE0a29DRHpzS09Obzh5NmlQRFFQd25aaE90ZlVxMXJCaUI0Y1FsOEltc09rX0VRTlJZZ01oUlZXN05KV3NxRXpYclhwb0g1VFE4WFEwZ2tZNllMTkpjdFQ3RVBLeWZMTWVJN3B1OVQtWVM1NkNYbER5a2NwNm1HVmI3R1pjOHFoSzJOdzBucW8tZU53?oc=5",
+          "source": "TechCrunch AI",
           "publishedAt": "2026-11-10",
           "views": "18.0K"
         },
         {
-          "title": "Brazil's central bank signals high bar for rate hikes despite inflation risks - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNMXp1eGp3MHJrZEdSVmZTQk9xRFBXcU9ac0haSUhRU3BHRGRGVE1uVlI2cnlwMzNMb3RMQmV6SzVtTE94ejE5WWNnSVdqUzdvNUpER2dFb3hmamlBYmUxZ19OZ0ZyM3VKZVhpWmdwR2lja09mckUxMHRNSmJ0TU1pVGxGTjk4bThPOWJMT09wVXBQQTdJRlh4WHZvRlNVRThzWXlyTzlJWkNvN0NJSnp5c1BiZVgtN2lpTS1SdURoMkVFcXFMclAw?oc=5\" target=\"_blank\">Brazil's central bank signals high bar for rate hikes despite inflation risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMXp1eGp3MHJrZEdSVmZTQk9xRFBXcU9ac0haSUhRU3BHRGRGVE1uVlI2cnlwMzNMb3RMQmV6SzVtTE94ejE5WWNnSVdqUzdvNUpER2dFb3hmamlBYmUxZ19OZ0ZyM3VKZVhpWmdwR2lja09mckUxMHRNSmJ0TU1pVGxGTjk4bThPOWJMT09wVXBQQTdJRlh4WHZvRlNVRThzWXlyTzlJWkNvN0NJSnp5c1BiZVgtN2lpTS1SdURoMkVFcXFMclAw?oc=5",
+          "title": "'Special master' named for ethics probe in lawsuit over Trump's DC golf project - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNWWNWODRLaU9OU0oxdU8ydVR2Vm1NNGk1X05hZ1dVUEY4bnJmYUF6bng1c1JYaEFNYnRUXzM4WWlUSVl6TFdSVU1ieFg1dzZjdlZLRkcxU3hWbmZ2a0lwcDJybnptQlJ1RkU3ajZWUV80dWlZU2ozMnZVVVVuZWRzVlJQczBMeUVBdEQ3azA1d3ZURi1JQjYyVW9COFZ0WE1fTDNZcXFnY253b0JvZER5Y0ZIV05pQXRvSVF2My13OA?oc=5\" target=\"_blank\">'Special master' named for ethics probe in lawsuit over Trump's DC golf project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWWNWODRLaU9OU0oxdU8ydVR2Vm1NNGk1X05hZ1dVUEY4bnJmYUF6bng1c1JYaEFNYnRUXzM4WWlUSVl6TFdSVU1ieFg1dzZjdlZLRkcxU3hWbmZ2a0lwcDJybnptQlJ1RkU3ajZWUV80dWlZU2ozMnZVVVVuZWRzVlJQczBMeUVBdEQ3azA1d3ZURi1JQjYyVW9COFZ0WE1fTDNZcXFnY253b0JvZER5Y0ZIV05pQXRvSVF2My13OA?oc=5",
           "source": "Reuters AI",
-          "publishedAt": "2026-11-10",
+          "publishedAt": "2026-11-09",
           "views": "18.0K"
         }
       ]
@@ -141,6 +141,14 @@
       "hashtag": "#경제",
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
+        {
+          "title": "Ukraine-founded drone startup UForce secures $700 million funding round at $6 billion valuation - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZGJabUpkZzBWRWE3UG0xTTMtbGRSWnpwbVNjR09FZHMtR2JqSThHS1djUWtSMlZCdm9LR3ZubGZBTnVTQkYzaXYwMi11dHh1VXREdFl4UkV3b0hRZ2dSN1BDeTczSndZdHVscy11OVlPUVhHbk82TEhpbDBSVklQcmF2LWJrengxNllxTlZ1YmtFTko5WXduenp2enFVdnpCTmhhVzlOaUxIeWhJMUVpUGxLMjBfUllEdnVhaHBnc1FYRGRoVk95SGVpU21COXBoaThwdzlCYml1cGc?oc=5\" target=\"_blank\">Ukraine-founded drone startup UForce secures $700 million funding round at $6 billion valuation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZGJabUpkZzBWRWE3UG0xTTMtbGRSWnpwbVNjR09FZHMtR2JqSThHS1djUWtSMlZCdm9LR3ZubGZBTnVTQkYzaXYwMi11dHh1VXREdFl4UkV3b0hRZ2dSN1BDeTczSndZdHVscy11OVlPUVhHbk82TEhpbDBSVklQcmF2LWJrengxNllxTlZ1YmtFTko5WXduenp2enFVdnpCTmhhVzlOaUxIeWhJMUVpUGxLMjBfUllEdnVhaHBnc1FYRGRoVk95SGVpU21COXBoaThwdzlCYml1cGc?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-11-12",
+          "views": "18.0K"
+        },
         {
           "title": "Polymarket cuts jobs, contracts as prediction market competition heats up - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQZS1idFIySUpYQldXcERFMGtVOUg3M0dvZWlBNE50d0luTTFSZC0tMU1nRjRXQXlWbkZYVlJHSnBQYXZDX0VPMllLOGFzT0VMWVBhR0Z0ZHdseWI3UWpkUkJIdWhxMWUxZkJubkl4RWJmbS11ZE04RUpLckpfaVFXdjJ4Y3NjY2taQTB3SUU4dnE4aWpHZGc3X1FrUWtsVHdKN1FvZURTSlBIZndVTTdxbVY5VV8?oc=5\" target=\"_blank\">Polymarket cuts jobs, contracts as prediction market competition heats up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
@@ -155,14 +163,6 @@
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU0V1VVc2X0ppTUpCU0lET0pMdzV1YjFLbV83a0luR0VCdmVFN0g0ZzFzZXpZeWdWMjBNWVppUWV5QlNNYkFEdkY3QnJadVhleU5saHFaMk1USXRUZkpoTGEzeE9rejdTbGFnYVVMdk5DZVBLWlFuNnlKZi0wRnR2cE96UlRTWXluUGdpME53bkEtQWZPSGowd2l5OXU0WVM2ZHZ0OXlHSW5KZjFuUFVSYWpSZWlobFZJSnNiblE1YVZSc0ozVlNJaA?oc=5",
           "source": "Reuters AI",
           "publishedAt": "2026-11-11",
-          "views": "18.0K"
-        },
-        {
-          "title": "Samsung supports 1,000 startups, helping attract $1.6 bil. in investment - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTVBEdzlFWTFXcEtNWVF6X2NFLWhTbXo5ai02bGtWbXpqWi1HUl85VXZ6a0E4cHZkT1h6TnE5Szk2U25Wc0k5MFdMQzhUdEtNakFaMzRrNVVsNXYxNnZKU3hQQm1zMEYzY0hLaGVnM01RU0QxenE2SzFKZW5tZHRsTVJLNklETHo0cFAzVVh5TVo1WWQ3VVJ1SXoxSUhRZEFMY1h6NXRFTXlKa2FpbGI3R2JNbS1KUTFtR19YdDVueTd6d9IBxwFBVV95cUxOV3ZMRVpiVzA0UUtmQzhoQjFxUzRhVHJMclR0Vk8xY0RERS1ZX3lacnJfcExFYlp5QVhEak45YkR5cndPQm5KQWxrd3FGQ0MzVU1MUmhocEZjYUViWUs5UC1xVkFsSmY1SDR2bE5GWUtCZVAwaG1hNE0yOERFLTBfbjNGMUVLaURscUM5YktIQUVmM3Z1ZVZoZnVJcGpTTk1ZcXFXU204VGRGazRWUndKcWJxaHBNOGtwb29RMUtfbzF4WjUxbzBz?oc=5\" target=\"_blank\">Samsung supports 1,000 startups, helping attract $1.6 bil. in investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTVBEdzlFWTFXcEtNWVF6X2NFLWhTbXo5ai02bGtWbXpqWi1HUl85VXZ6a0E4cHZkT1h6TnE5Szk2U25Wc0k5MFdMQzhUdEtNakFaMzRrNVVsNXYxNnZKU3hQQm1zMEYzY0hLaGVnM01RU0QxenE2SzFKZW5tZHRsTVJLNklETHo0cFAzVVh5TVo1WWQ3VVJ1SXoxSUhRZEFMY1h6NXRFTXlKa2FpbGI3R2JNbS1KUTFtR19YdDVueTd6d9IBxwFBVV95cUxOV3ZMRVpiVzA0UUtmQzhoQjFxUzRhVHJMclR0Vk8xY0RERS1ZX3lacnJfcExFYlp5QVhEak45YkR5cndPQm5KQWxrd3FGQ0MzVU1MUmhocEZjYUViWUs5UC1xVkFsSmY1SDR2bE5GWUtCZVAwaG1hNE0yOERFLTBfbjNGMUVLaURscUM5YktIQUVmM3Z1ZVZoZnVJcGpTTk1ZcXFXU204VGRGazRWUndKcWJxaHBNOGtwb29RMUtfbzF4WjUxbzBz?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-11-10",
           "views": "18.0K"
         }
       ]
@@ -182,18 +182,18 @@
         },
         {
           "title": "Korea-Turkey cooperation expanding in nuclear energy, defense industry - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc1RKMERRb1pnUFpYa0ZaTWZwVERia2djY2V3cG5vZnhQNXFWZ1c5T3BJVkU4Y1RhY3k2ajVFXzd2YmtHeFNlaVA3S1laQV9acU8yNTV2cGRVdVdMdmJfMFhDVS1hSDNWTjVlbWplb0k5eV9OekVCZ1NWQjhmLW9yN0dfR2wwQUlwRXRaTW1WWWhzZG1UckU0YzlYSzFQa0huMFZndTBZLTJNcTFUQ3hWTFVaQUh0UC1CSmd4Uk1NQjJnWjhiV3BGWTRxcklVbUxqUXfSAbsBQVVfeXFMTk5LT3R4ZjRlRnBRTVpZa2sxZ2lTUF9uYXByQzJDZjBqVFQ1T3RWeDNlM0NRWFZhRUNaakRJWmNpWVY5ZjFReURGY0hlWUU2Tno4SGRrb29VdURJRi1DRXMtSUU1V1R4Zkd4bUNVel9RdTd2cUUySHNRVHVIRUlHejF1bmVmWUV1RnFWMHdIcGNUNFJXcENhVmppcnl6TW9aa0tBUGFDc2VLWlNCZ21MQl80azQ0WUVmWEh4WQ?oc=5\" target=\"_blank\">Korea-Turkey cooperation expanding in nuclear energy, defense industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc1RKMERRb1pnUFpYa0ZaTWZwVERia2djY2V3cG5vZnhQNXFWZ1c5T3BJVkU4Y1RhY3k2ajVFXzd2YmtHeFNlaVA3S1laQV9acU8yNTV2cGRVdVdMdmJfMFhDVS1hSDNWTjVlbWplb0k5eV9OekVCZ1NWQjhmLW9yN0dfR2wwQUlwRXRaTW1WWWhzZG1UckU0YzlYSzFQa0huMFZndTBZLTJNcTFUQ3hWTFVaQUh0UC1CSmd4Uk1NQjJnWjhiV3BGWTRxcklVbUxqUXfSAbsBQVVfeXFMTk5LT3R4ZjRlRnBRTVpZa2sxZ2lTUF9uYXByQzJDZjBqVFQ1T3RWeDNlM0NRWFZhRUNaakRJWmNpWVY5ZjFReURGY0hlWUU2Tno4SGRrb29VdURJRi1DRXMtSUU1V1R4Zkd4bUNVel9RdTd2cUUySHNRVHVIRUlHejF1bmVmWUV1RnFWMHdIcGNUNFJXcENhVmppcnl6TW9aa0tBUGFDc2VLWlNCZ21MQl80azQ0WUVmWEh4WQ?oc=5",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNQVI0a1gyUnotOWpyZlNHd3JHNzFSSWJkZFV2MkdjT2JzNFk5bGd3bVRfZ0NhUnVMWnFRcFhlUGp0UmZTNTBXSFVuRmkxa1R4WDMxU0VTMFA5NXZWSmVtdHo5ZFVreHVuWkIzN1ZJdGtOOGR6T3B5M0YxZUZsQjVHMUtKRnpmemtnRjFkbXlSRHphR2M5aGJUT3BjMEZTQUNaOUVJN0dfYjFPMEtiU3dfTVlweVdRZ9IBuwFBVV95cUxOTktPdHhmNGVGcFFNWllrazFnaVNQX25hcHJDMkNmMGpUVDVPdFZ4M2UzQ1FYVmFFQ1pqRElaY2lZVjlmMVF5REZjSGVZRTZOejhIZGtvb1V1RElGLUNFcy1JRTVXVHhmR3htQ1V6X1F1N3ZxRTJIc1FUdUhFSUd6MXVuZWZZRXVGcVYwd0hwY1Q0UldwQ2FWamlyeXpNb1prS0FQYUNzZUtaU0JnbUxCXzRrNDRZRWZYSHhZ?oc=5\" target=\"_blank\">Korea-Turkey cooperation expanding in nuclear energy, defense industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQVI0a1gyUnotOWpyZlNHd3JHNzFSSWJkZFV2MkdjT2JzNFk5bGd3bVRfZ0NhUnVMWnFRcFhlUGp0UmZTNTBXSFVuRmkxa1R4WDMxU0VTMFA5NXZWSmVtdHo5ZFVreHVuWkIzN1ZJdGtOOGR6T3B5M0YxZUZsQjVHMUtKRnpmemtnRjFkbXlSRHphR2M5aGJUT3BjMEZTQUNaOUVJN0dfYjFPMEtiU3dfTVlweVdRZ9IBuwFBVV95cUxOTktPdHhmNGVGcFFNWllrazFnaVNQX25hcHJDMkNmMGpUVDVPdFZ4M2UzQ1FYVmFFQ1pqRElaY2lZVjlmMVF5REZjSGVZRTZOejhIZGtvb1V1RElGLUNFcy1JRTVXVHhmR3htQ1V6X1F1N3ZxRTJIc1FUdUhFSUd6MXVuZWZZRXVGcVYwd0hwY1Q0UldwQ2FWamlyeXpNb1prS0FQYUNzZUtaU0JnbUxCXzRrNDRZRWZYSHhZ?oc=5",
           "source": "The Korea Times",
           "publishedAt": "2026-11-12",
           "views": "13.0K"
         },
         {
-          "title": "Korea, Indonesia discuss diversifying defense industry cooperation - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPMEoxZlNESlp3OWJ0clhkNkg1X24ySmNRbXpmcEZwM1ZYaGdpQzVFTkdNcW1lbjh1SEoyYlFJZ3VRZWZrT0V0Q3EtQ2ZlTWh5VWw1S2I5M0ZOOHFjU1VIb0I4U3NFUlRoY04zODlya2JXakNXS3pmb3ZHSVZ5LURfMFZXSFczdzRQcENqRHBGcmZlSFdpY3k5UWZ2ZEtFOVBfODdfOUlJVTIzVmo4MjdvQ1NuMzhBclJHeEHSAb8BQVVfeXFMTnE4MGFzbjk2Z1B0R2lvVnp6TjZyYnBZVUFEQmdMeWRUSEJtWW5NZVIta0FpNVJxdXA2aWcwdTNndzAtRjgtcWMxemd4ZmZWYms1ZVRGWEs4YkxOOEVzdTZVTmszXzZGWFVLVmdVWTFaQzlnemZjWDA5dDdvM0N5N1RsN3Flejl3WXZQc25uWThYQ0xLWExpeGFWOE1DanF2cnVZUzBiWjhYdVFYa2Fub29Kbm01VzJjUG9OY2lMZEU?oc=5\" target=\"_blank\">Korea, Indonesia discuss diversifying defense industry cooperation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMEoxZlNESlp3OWJ0clhkNkg1X24ySmNRbXpmcEZwM1ZYaGdpQzVFTkdNcW1lbjh1SEoyYlFJZ3VRZWZrT0V0Q3EtQ2ZlTWh5VWw1S2I5M0ZOOHFjU1VIb0I4U3NFUlRoY04zODlya2JXakNXS3pmb3ZHSVZ5LURfMFZXSFczdzRQcENqRHBGcmZlSFdpY3k5UWZ2ZEtFOVBfODdfOUlJVTIzVmo4MjdvQ1NuMzhBclJHeEHSAb8BQVVfeXFMTnE4MGFzbjk2Z1B0R2lvVnp6TjZyYnBZVUFEQmdMeWRUSEJtWW5NZVIta0FpNVJxdXA2aWcwdTNndzAtRjgtcWMxemd4ZmZWYms1ZVRGWEs4YkxOOEVzdTZVTmszXzZGWFVLVmdVWTFaQzlnemZjWDA5dDdvM0N5N1RsN3Flejl3WXZQc25uWThYQ0xLWExpeGFWOE1DanF2cnVZUzBiWjhYdVFYa2Fub29Kbm01VzJjUG9OY2lMZEU?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-11-11",
+          "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility - MIT Technology Review",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZRHNvWGxhc3RWbEt3ZTZ2emhUel9EUzFrU01YVE1hUno1bS1uU3d1SldtbVNvWG5RMTk2VGpNX09sNmtPQXR6RzZnMi1VOGxjT184RV9pLXpLLTc5OFlnV2twcGZUaVJMajBsZXplLVV1UHNYS05uNGRjcFltQdIBgwFBVV95cUxOUDNQX2tCZFM2MTYydndJcXVfdWNLUUNQQkZYSVQ2ZHRxWXZkc2ZGSEZRZ0g4SDltVVVISXdBZUktMC05ZUFBaWlyclZhcmVtRUE3UktNRlFzMGY3aDZQVTFVSTBsZ1NIWFRPRGh0a2V6eDlhbHJDd1VUdWJhYkpmOFp1RQ?oc=5\" target=\"_blank\">Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MIT Technology Review</font>",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZRHNvWGxhc3RWbEt3ZTZ2emhUel9EUzFrU01YVE1hUno1bS1uU3d1SldtbVNvWG5RMTk2VGpNX09sNmtPQXR6RzZnMi1VOGxjT184RV9pLXpLLTc5OFlnV2twcGZUaVJMajBsZXplLVV1UHNYS05uNGRjcFltQdIBgwFBVV95cUxOUDNQX2tCZFM2MTYydndJcXVfdWNLUUNQQkZYSVQ2ZHRxWXZkc2ZGSEZRZ0g4SDltVVVISXdBZUktMC05ZUFBaWlyclZhcmVtRUE3UktNRlFzMGY3aDZQVTFVSTBsZ1NIWFRPRGh0a2V6eDlhbHJDd1VUdWJhYkpmOFp1RQ?oc=5",
+          "source": "MIT Technology Review (AI)",
+          "publishedAt": "2026-11-12",
           "views": "13.0K"
         }
       ]
