@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-16T06:20:01.088Z",
+  "lastUpdated": "2026-11-17T07:49:30.150Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,14 +49,6 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
-          "title": "Singapore says US offered limited help in its probe of AI chip deals - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPTnYzUU95Qk1nQm5HQmgyWFIyZVpEcVpJUHc2b0FCOEYwUnNZbjVrajlLMVY2QXRUTzR1djQxclI1ckdxcUdhc3phdkhNRTZqOFRMY29QZ0pNOUloekpxWldVZEJsS0l4VEZFTXQyb0sxUFpyaGFJY0QtbFFGa0ZZLVB6LTdaQWwyZnhjQUdLbkU4UFhheHJ4NlJCQndfQWtwVHNmYWN4SmNxZGpsSTB0S2RSTmJhTXc?oc=5\" target=\"_blank\">Singapore says US offered limited help in its probe of AI chip deals</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTnYzUU95Qk1nQm5HQmgyWFIyZVpEcVpJUHc2b0FCOEYwUnNZbjVrajlLMVY2QXRUTzR1djQxclI1ckdxcUdhc3phdkhNRTZqOFRMY29QZ0pNOUloekpxWldVZEJsS0l4VEZFTXQyb0sxUFpyaGFJY0QtbFFGa0ZZLVB6LTdaQWwyZnhjQUdLbkU4UFhheHJ4NlJCQndfQWtwVHNmYWN4SmNxZGpsSTB0S2RSTmJhTXc?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-11-13",
-          "views": "18.0K"
-        },
-        {
           "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen! - TechCrunch",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQM2RjMXJ5cnYyUmVXT3FXVVVIeENJN0hQT3E0ZTg1YlpRSEItczBNaW1SZzlIM2hBNEZldVVzUjEwQzRDczhvVkQwMjZlLXh4U1pqd1NFcTFJOHh6MUMtQktSVmFmZUtzTUowb2hCdU1tVzY5NFFwWURpT3c5RW9zMUJOVHNvcG5aVG9lTUIzVUNqMW8yWkNzcXpidmtNRnlia3hySVpfbGRfQ3phbjJmbGZuYlhwS0E?oc=5\" target=\"_blank\">Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM2RjMXJ5cnYyUmVXT3FXVVVIeENJN0hQT3E0ZTg1YlpRSEItczBNaW1SZzlIM2hBNEZldVVzUjEwQzRDczhvVkQwMjZlLXh4U1pqd1NFcTFJOHh6MUMtQktSVmFmZUtzTUowb2hCdU1tVzY5NFFwWURpT3c5RW9zMUJOVHNvcG5aVG9lTUIzVUNqMW8yWkNzcXpidmtNRnlia3hySVpfbGRfQ3phbjJmbGZuYlhwS0E?oc=5",
@@ -71,6 +63,14 @@
           "source": "VentureBeat AI",
           "publishedAt": "2026-11-11",
           "views": "18.0K"
+        },
+        {
+          "title": "TrustedRouter launches three new encrypted 'fusion' models that combine multiple LLMs, including one exclusively with U.S. model providers - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZkRCTXBMT1huYU40WUZma3NwSmJ3M1I4V3dEbDIwZFh3dExzdk91RmtyTEFIclhwUXJrcUoxNExqdmotcWMzNkI2dE1uV0puV3NmR1NfS0UzNFc2NDM5cUJJa0dRTTc1Tm45bUFRcjFucjVHUVBZOW5KakUwdkdxWHI4M3drZ0FtOTFDT3czbmR0akdoZ3AyUnM5ZjJUSXh2ZW10d1Q0NlZXVWNvaG5ENXUxYVM0WnFYYjlTUTMzOF9hTUpvdmRQUmRaNTlqLU9PR3FtN1R0OFNaY2RjczM2UC1CcTYwLTFOaFk1d2oxM2U0MVo3b3ZVci0xOUI1QQ?oc=5\" target=\"_blank\">TrustedRouter launches three new encrypted 'fusion' models that combine multiple LLMs, including one exclusively with U.S. model providers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZkRCTXBMT1huYU40WUZma3NwSmJ3M1I4V3dEbDIwZFh3dExzdk91RmtyTEFIclhwUXJrcUoxNExqdmotcWMzNkI2dE1uV0puV3NmR1NfS0UzNFc2NDM5cUJJa0dRTTc1Tm45bUFRcjFucjVHUVBZOW5KakUwdkdxWHI4M3drZ0FtOTFDT3czbmR0akdoZ3AyUnM5ZjJUSXh2ZW10d1Q0NlZXVWNvaG5ENXUxYVM0WnFYYjlTUTMzOF9hTUpvdmRQUmRaNTlqLU9PR3FtN1R0OFNaY2RjczM2UC1CcTYwLTFOaFk1d2oxM2U0MVo3b3ZVci0xOUI1QQ?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-11-11",
+          "views": "18.0K"
         }
       ]
     },
@@ -80,27 +80,27 @@
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
         {
-          "title": "Agentic apps push enterprise software beyond the system of record - TechCrunch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQZzMyOTdHak9vN21GTjdVZzBfYVg5cVJQb2xzeHlMT3Qtb0Vod3J0cmtwbXpIX0N3Vm5uc2pGTWhrb3BGTWtYLTMyQ3d1b3VWdHNRdlBkNjVRZHU1QU9Vb2FfY1lkSzRobWI1QVRkUWtlRzJHVWU3TGZSX1UtcHlJTHZ6c1NGUHFKYXk1dWpDOHZnRWF1clZNQ3pvNnNFR2N6TnQ2MHdidw?oc=5\" target=\"_blank\">Agentic apps push enterprise software beyond the system of record</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZzMyOTdHak9vN21GTjdVZzBfYVg5cVJQb2xzeHlMT3Qtb0Vod3J0cmtwbXpIX0N3Vm5uc2pGTWhrb3BGTWtYLTMyQ3d1b3VWdHNRdlBkNjVRZHU1QU9Vb2FfY1lkSzRobWI1QVRkUWtlRzJHVWU3TGZSX1UtcHlJTHZ6c1NGUHFKYXk1dWpDOHZnRWF1clZNQ3pvNnNFR2N6TnQ2MHdidw?oc=5",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-11-10",
-          "views": "18.0K"
-        },
-        {
-          "title": "One compromised MCP server can trick an AI agent into misusing tools you already trust - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNmkwanhHbjBxWlFHSTFMMTBsV05hWHM3NHRfTFYxZS1xVTVOTXh5aWRUTkxSNTJ2WEtyeU5aOUdKT1F0V0dBa3BUSUozcE9hcjYtWlFRWUtYaW4yb3BCbC0wWDhsWjNrbVJlOEM3X0FqRmU4dlNWb2FaNThQei1KbVZwVExuRTNaZFNiMEc0R05FcTNObHNLdGFhQm1PeHpWdGxGeEVONHhQeUlfaHlfcWZzZHNlYzRudmJpZVVMc3Rmdw?oc=5\" target=\"_blank\">One compromised MCP server can trick an AI agent into misusing tools you already trust</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNmkwanhHbjBxWlFHSTFMMTBsV05hWHM3NHRfTFYxZS1xVTVOTXh5aWRUTkxSNTJ2WEtyeU5aOUdKT1F0V0dBa3BUSUozcE9hcjYtWlFRWUtYaW4yb3BCbC0wWDhsWjNrbVJlOEM3X0FqRmU4dlNWb2FaNThQei1KbVZwVExuRTNaZFNiMEc0R05FcTNObHNLdGFhQm1PeHpWdGxGeEVONHhQeUlfaHlfcWZzZHNlYzRudmJpZVVMc3Rmdw?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-11-15",
+          "title": "Building AI that can work across the enterprise - MIT Technology Review",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOaUlKNTRkd0cySjlRREtSWS05MUh0c0p3QmJnbEE0aHk4OXZOSExoZEgyRHl3YkNXaXBxaFdaUF84SkE3TXRfWW1Gd1J2S3VoVlFxc1d5MzBXVFVRdU5iSjdtaHVEM2tLRm5rczRGaTNCUVZNSldIYkR0XzlqRDFBaEpxYnV0bU1VQjJjQl92WUpSYjBHNkd5OWRFaW1CWjY4S0HSAacBQVVfeXFMTm9NcmVocTlkajdqcVVEVTI5UU9tbHBwRk1hb2hLVk5FZlhzMnJiem9ZZEJBb0hhdGhnTUpvbXd1YmtHZkQ1NzF1Wk9zM0F5MHkxOF9oQVUxb3VWQmZDNGpWS3JzTXVzOFlWUFN6bkdWazM0cS1LbXRFQ000TFhMRlpZamptaFBHZF9XRVJSWlVkQ3liYmducmNHNFFDOHIwX1FmRVZPVTQ?oc=5\" target=\"_blank\">Building AI that can work across the enterprise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MIT Technology Review</font>",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaUlKNTRkd0cySjlRREtSWS05MUh0c0p3QmJnbEE0aHk4OXZOSExoZEgyRHl3YkNXaXBxaFdaUF84SkE3TXRfWW1Gd1J2S3VoVlFxc1d5MzBXVFVRdU5iSjdtaHVEM2tLRm5rczRGaTNCUVZNSldIYkR0XzlqRDFBaEpxYnV0bU1VQjJjQl92WUpSYjBHNkd5OWRFaW1CWjY4S0HSAacBQVVfeXFMTm9NcmVocTlkajdqcVVEVTI5UU9tbHBwRk1hb2hLVk5FZlhzMnJiem9ZZEJBb0hhdGhnTUpvbXd1YmtHZkQ1NzF1Wk9zM0F5MHkxOF9oQVUxb3VWQmZDNGpWS3JzTXVzOFlWUFN6bkdWazM0cS1LbXRFQ000TFhMRlpZamptaFBHZF9XRVJSWlVkQ3liYmducmNHNFFDOHIwX1FmRVZPVTQ?oc=5",
+          "source": "MIT Technology Review (AI)",
+          "publishedAt": "2026-11-16",
           "views": "13.0K"
         },
         {
-          "title": "The fake app on an employee’s phone could be a gateway into your enterprise - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTFpUcVAzdEctSjBWdGkzald2R0gxalhvY2pWZTJnWnRUSllUSk1nS1gyZUV1a2FmY05uc1lzSFJ4OTIzdk9hd0xlSlpINWlVZUlGSG1SZ0J2LUpGVW1nSk9fTG5tYl8zX0tOalZ2NFlwaktpUFRJcHBJQzZIa1doY1hfVWRuR1NCdWZEc1RSeURIbE1BbFQ5QXRTd0xMaFBfX1g1SW5kUGtqVTg?oc=5\" target=\"_blank\">The fake app on an employee’s phone could be a gateway into your enterprise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTFpUcVAzdEctSjBWdGkzald2R0gxalhvY2pWZTJnWnRUSllUSk1nS1gyZUV1a2FmY05uc1lzSFJ4OTIzdk9hd0xlSlpINWlVZUlGSG1SZ0J2LUpGVW1nSk9fTG5tYl8zX0tOalZ2NFlwaktpUFRJcHBJQzZIa1doY1hfVWRuR1NCdWZEc1RSeURIbE1BbFQ5QXRTd0xMaFBfX1g1SW5kUGtqVTg?oc=5",
-          "source": "VentureBeat AI",
+          "title": "Microsoft says consumer products services recovered; still monitoring enterprise services - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxObkxxbE1VclJTQkp3R3ZZR3M4b0UtTUNMMmIzb09GSzlZQU1kUDQzN3ZKRXhleXhXV1BUd1lEMXVSMnZBUDN3WEwwdUM0QVhydk5mZWwxZnRndlJHd2FEQUpWUnRaeG5raGFMY2Z2M1RHRlZYLThiVktPTVVsYVFFS0dkMHlyNmtPNWRlQ3NsYjNRY0dxZVdQaFhRUlRpMTNjdlZqbDBZcVg3Q0tRV3ZFWlQ1bTJIZHl3WXFDV2FJbFVocm8w?oc=5\" target=\"_blank\">Microsoft says consumer products services recovered; still monitoring enterprise services</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObkxxbE1VclJTQkp3R3ZZR3M4b0UtTUNMMmIzb09GSzlZQU1kUDQzN3ZKRXhleXhXV1BUd1lEMXVSMnZBUDN3WEwwdUM0QVhydk5mZWwxZnRndlJHd2FEQUpWUnRaeG5raGFMY2Z2M1RHRlZYLThiVktPTVVsYVFFS0dkMHlyNmtPNWRlQ3NsYjNRY0dxZVdQaFhRUlRpMTNjdlZqbDBZcVg3Q0tRV3ZFWlQ1bTJIZHl3WXFDV2FJbFVocm8w?oc=5",
+          "source": "Reuters AI",
           "publishedAt": "2026-11-14",
+          "views": "13.0K"
+        },
+        {
+          "title": "KBO star Koo Ja-wook hires US agent in pursuit of MLB opportunity: report - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNkwxM0ROaTJpdXRkUUVtRFY1cEFtM25Da09JSWZaaTVHdVRWRjl2X1doeXZtQ1BOOHozODUtNWtlNk9tYWVRREV3ZHBIMVcxTkkxU1Q3SlR0NmtFRkZfX2JjOTJSaDF5X283UlUyZzhXbHJucjNJQzRsOU5wclV6M1dreExIbllXNW44TWUwQmJRSk1tZVI2a1R2LXYtTEk3X0NHdk1lTFdxdEUzdl9lbVowQTg1OWE10gG-AUFVX3lxTFBGRTh6ZmRuY19DSlVhSkJVdGVza2ZyWnE5a3JkMVd1TFZPMWpPTDkzXzAydHRIakFnOUlJa3NhQUJtbFJJZzJaN2xET19KenlmM0UtdGF3bFYwUmtlMlNRa3N6cVdjcUtUUG54Zk5QZno0RjZ4OG4wLTlscWRWbkVLbE5vTktiN3QtaTUzdmFsYURha0tLUkdCQWRRZi1nZHpZVUdXUEY4VC1jUDA3ZmhXM0ZpdjlmVFhTZUlVQXc?oc=5\" target=\"_blank\">KBO star Koo Ja-wook hires US agent in pursuit of MLB opportunity: report</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNkwxM0ROaTJpdXRkUUVtRFY1cEFtM25Da09JSWZaaTVHdVRWRjl2X1doeXZtQ1BOOHozODUtNWtlNk9tYWVRREV3ZHBIMVcxTkkxU1Q3SlR0NmtFRkZfX2JjOTJSaDF5X283UlUyZzhXbHJucjNJQzRsOU5wclV6M1dreExIbllXNW44TWUwQmJRSk1tZVI2a1R2LXYtTEk3X0NHdk1lTFdxdEUzdl9lbVowQTg1OWE10gG-AUFVX3lxTFBGRTh6ZmRuY19DSlVhSkJVdGVza2ZyWnE5a3JkMVd1TFZPMWpPTDkzXzAydHRIakFnOUlJa3NhQUJtbFJJZzJaN2xET19KenlmM0UtdGF3bFYwUmtlMlNRa3N6cVdjcUtUUG54Zk5QZno0RjZ4OG4wLTlscWRWbkVLbE5vTktiN3QtaTUzdmFsYURha0tLUkdCQWRRZi1nZHpZVUdXUEY4VC1jUDA3ZmhXM0ZpdjlmVFhTZUlVQXc?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-11-13",
           "views": "13.0K"
         }
       ]
@@ -111,28 +111,28 @@
       "description": "규제, 책임, 신뢰, 저작권 같은 문제를 보는 관점",
       "items": [
         {
-          "title": "Meta, TikTok join Google to push back on Indonesia's planned AI copyright law revisions - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxOeDZLSGp0MHRPWUgzVTNmZEhMLWR6Z2lvdmZiQzRzblJobjdGdlRMUmhHV1dzM3lUUHdocXNoMnp4bFZHOEZtUU41T3BGT0d0blpyYnViSDZ3bklQNG50bnRyVmtYTE0xZTdWc0dDODhrd1hIRXVKTXVWMWVqWVY1aEFLN040QzJRMW40QzJzTHVYMjNEVTRuZ0NEdFI3eS1EV05WWDdjZ3g4TldaRnBrd01GY0lKckRvOTFCRUc5QVBXb0d2WHFaMXdPWno?oc=5\" target=\"_blank\">Meta, TikTok join Google to push back on Indonesia's planned AI copyright law revisions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeDZLSGp0MHRPWUgzVTNmZEhMLWR6Z2lvdmZiQzRzblJobjdGdlRMUmhHV1dzM3lUUHdocXNoMnp4bFZHOEZtUU41T3BGT0d0blpyYnViSDZ3bklQNG50bnRyVmtYTE0xZTdWc0dDODhrd1hIRXVKTXVWMWVqWVY1aEFLN040QzJRMW40QzJzTHVYMjNEVTRuZ0NEdFI3eS1EV05WWDdjZ3g4TldaRnBrd01GY0lKckRvOTFCRUc5QVBXb0d2WHFaMXdPWno?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-11-11",
-          "views": "18.0K"
-        },
-        {
-          "title": "Korean stocks surge over 4% as risk appetite returns - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOS19DUENwU3RhZ1ZHNHFodUxseDJYOTJVUVpVZ3ZFWllDOEE5b043bGJIejBRY2otdEhqdEhCMnQ3Y1E1MlNDdGxpSWZ6UnZmYm4zM0VTVXdzU3pqbWNRNXM2bzE1OHZzQU81bnhwRG9yUW5icHVkajR5bzZkcHpjYXFPd1l6UWxLaWQydi0wTlJJZzZJOTJkU1ZjRUo3d9IBowFBVV95cUxQVFJoM3dKenk0UUxWWjRLZm1LQXg0eVpZTjMzcklJeHVYWlNnZ2RIemVTTU1adjgtbGlnT0JRLWhBLXpWMGhsTFc4eWU5WS1FYW9jekxSNGtQUm1MX29GbkZ2OS1vUVpzT2xpTEd4TWcyZW5vbk1IN2VWTUpuS2dHSW4yT2VubXFaUG1idUlmTWwxaTF4MXhXVjMzcDJLSmJ4Q0pR?oc=5\" target=\"_blank\">Korean stocks surge over 4% as risk appetite returns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS19DUENwU3RhZ1ZHNHFodUxseDJYOTJVUVpVZ3ZFWllDOEE5b043bGJIejBRY2otdEhqdEhCMnQ3Y1E1MlNDdGxpSWZ6UnZmYm4zM0VTVXdzU3pqbWNRNXM2bzE1OHZzQU81bnhwRG9yUW5icHVkajR5bzZkcHpjYXFPd1l6UWxLaWQydi0wTlJJZzZJOTJkU1ZjRUo3d9IBowFBVV95cUxQVFJoM3dKenk0UUxWWjRLZm1LQXg0eVpZTjMzcklJeHVYWlNnZ2RIemVTTU1adjgtbGlnT0JRLWhBLXpWMGhsTFc4eWU5WS1FYW9jekxSNGtQUm1MX29GbkZ2OS1vUVpzT2xpTEd4TWcyZW5vbk1IN2VWTUpuS2dHSW4yT2VubXFaUG1idUlmTWwxaTF4MXhXVjMzcDJLSmJ4Q0pR?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-11-10",
-          "views": "18.0K"
-        },
-        {
           "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect - TechCrunch",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNSVhqV2gyYlFPU1FIZlNHRkp4SGJHQVJmMzB3cHE0a29DRHpzS09Obzh5NmlQRFFQd25aaE90ZlVxMXJCaUI0Y1FsOEltc09rX0VRTlJZZ01oUlZXN05KV3NxRXpYclhwb0g1VFE4WFEwZ2tZNllMTkpjdFQ3RVBLeWZMTWVJN3B1OVQtWVM1NkNYbER5a2NwNm1HVmI3R1pjOHFoSzJOdzBucW8tZU53?oc=5\" target=\"_blank\">OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSVhqV2gyYlFPU1FIZlNHRkp4SGJHQVJmMzB3cHE0a29DRHpzS09Obzh5NmlQRFFQd25aaE90ZlVxMXJCaUI0Y1FsOEltc09rX0VRTlJZZ01oUlZXN05KV3NxRXpYclhwb0g1VFE4WFEwZ2tZNllMTkpjdFQ3RVBLeWZMTWVJN3B1OVQtWVM1NkNYbER5a2NwNm1HVmI3R1pjOHFoSzJOdzBucW8tZU53?oc=5",
           "source": "TechCrunch AI",
           "publishedAt": "2026-11-10",
           "views": "18.0K"
+        },
+        {
+          "title": "Google says attackers built an AI framework to turn software patches into exploits without human intervention - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWXlLd3d3Z0JOanJZX0lsQ0FBMElDVzhuenVvUFlHSjNRRUtGU3lJb0VyV3QxS2RmNF94TDNWeGdzRlhuLWtYZ0tDZmRFVS1GUEdWa1djRHQ0UFlRYldTV1kwU2d6WWxKSHI1bjN2OXlzU1lEV1ZXd3FvWFliLUptRGpmdHRDR3ItM2xGWG1xVUx4VTJfRlIzZlpkRmdEVmpiRFZ4YXJFcDZBVlNFQ0R1V3hnMlhLaWlRVndSRGZteUhqaDJiS285SndIa2Ntby1zZTFOb05mZ1IyQQ?oc=5\" target=\"_blank\">Google says attackers built an AI framework to turn software patches into exploits without human intervention</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWXlLd3d3Z0JOanJZX0lsQ0FBMElDVzhuenVvUFlHSjNRRUtGU3lJb0VyV3QxS2RmNF94TDNWeGdzRlhuLWtYZ0tDZmRFVS1GUEdWa1djRHQ0UFlRYldTV1kwU2d6WWxKSHI1bjN2OXlzU1lEV1ZXd3FvWFliLUptRGpmdHRDR3ItM2xGWG1xVUx4VTJfRlIzZlpkRmdEVmpiRFZ4YXJFcDZBVlNFQ0R1V3hnMlhLaWlRVndSRGZteUhqaDJiS285SndIa2Ntby1zZTFOb05mZ1IyQQ?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-11-16",
+          "views": "13.0K"
+        },
+        {
+          "title": "OpenAI will embed safety researchers to investigate AI subversion - TechCrunch",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNTGwxMmpFWW1rLXdmMmZSeG9faHNxQjQzNmVZN1k0ZXVMY0wxQXhtRWNrNjFhOW9kRlp4M0RvVy0tczdJQ0k1TFZXa2xRTTNfSlJVMlViRXVQajZTRDhyMldKQ3hTVmIwT0FuVlBMcnJBeDlVNGxla2Z5TWR3MlBNTVh3N201c3N1bnQ4a3l6NV82cTg3ZzNYTjlVMmVHcVl4TUE?oc=5\" target=\"_blank\">OpenAI will embed safety researchers to investigate AI subversion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTGwxMmpFWW1rLXdmMmZSeG9faHNxQjQzNmVZN1k0ZXVMY0wxQXhtRWNrNjFhOW9kRlp4M0RvVy0tczdJQ0k1TFZXa2xRTTNfSlJVMlViRXVQajZTRDhyMldKQ3hTVmIwT0FuVlBMcnJBeDlVNGxla2Z5TWR3MlBNTVh3N201c3N1bnQ4a3l6NV82cTg3ZzNYTjlVMmVHcVl4TUE?oc=5",
+          "source": "TechCrunch AI",
+          "publishedAt": "2026-11-16",
+          "views": "13.0K"
         }
       ]
     },
@@ -142,14 +142,6 @@
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
         {
-          "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market - TechCrunch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxORlp0dzgwTTFLWm5FZ25md2xZM1hldHoxRmhaVHJncWNmYUd2WVJRZGZlQVlycUlRMENUblNDSHpudlV2ZlRvTFhMaUFCb1hVUndRRHMtMmRaSnFiV1Yxb19kQ3ppVTQ0X29hZG1FVlBmVW8yWWJ6aVh6R0xESlJMWElCQ2kzN19rX29feWFJeV9EQzc3dmdYQmRoWUg3d1lTc2xaRUV5Y2FBa3lZNWpFNVMzdEZrNGRVQk0yX3h3NA?oc=5\" target=\"_blank\">Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORlp0dzgwTTFLWm5FZ25md2xZM1hldHoxRmhaVHJncWNmYUd2WVJRZGZlQVlycUlRMENUblNDSHpudlV2ZlRvTFhMaUFCb1hVUndRRHMtMmRaSnFiV1Yxb19kQ3ppVTQ0X29hZG1FVlBmVW8yWWJ6aVh6R0xESlJMWElCQ2kzN19rX29feWFJeV9EQzc3dmdYQmRoWUg3d1lTc2xaRUV5Y2FBa3lZNWpFNVMzdEZrNGRVQk0yX3h3NA?oc=5",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-11-15",
-          "views": "18.0K"
-        },
-        {
           "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say - TechCrunch",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ0Nkc183ekxNZ0hpbEEyYkRTa1JMVy1ETHZMN0VubXFFNVBMWGZmeUkzSFRsNUhaajB0ZGdHMGJpektwVXAyc1N2TFBUSEdhb0FFMnJBNWdWckNiMjFld212QUZXcDlBQnJGSW5RSU1YN2FpUlNVaE1CaGc0Uk9UdjNHbEF4UzVyN3BGNE55LXFpTXJpcWNkNjFsV0swWGcxdFhaVWN2MEVSbjFNUU1pSXdsRkQtU1R0?oc=5\" target=\"_blank\">Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ0Nkc183ekxNZ0hpbEEyYkRTa1JMVy1ETHZMN0VubXFFNVBMWGZmeUkzSFRsNUhaajB0ZGdHMGJpektwVXAyc1N2TFBUSEdhb0FFMnJBNWdWckNiMjFld212QUZXcDlBQnJGSW5RSU1YN2FpUlNVaE1CaGc0Uk9UdjNHbEF4UzVyN3BGNE55LXFpTXJpcWNkNjFsV0swWGcxdFhaVWN2MEVSbjFNUU1pSXdsRkQtU1R0?oc=5",
@@ -158,12 +150,20 @@
           "views": "18.0K"
         },
         {
-          "title": "Samsung supports 1,000 startups, helping attract $1.6 bil. in investment - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTVBEdzlFWTFXcEtNWVF6X2NFLWhTbXo5ai02bGtWbXpqWi1HUl85VXZ6a0E4cHZkT1h6TnE5Szk2U25Wc0k5MFdMQzhUdEtNakFaMzRrNVVsNXYxNnZKU3hQQm1zMEYzY0hLaGVnM01RU0QxenE2SzFKZW5tZHRsTVJLNklETHo0cFAzVVh5TVo1WWQ3VVJ1SXoxSUhRZEFMY1h6NXRFTXlKa2FpbGI3R2JNbS1KUTFtR19YdDVueTd6d9IBxwFBVV95cUxOV3ZMRVpiVzA0UUtmQzhoQjFxUzRhVHJMclR0Vk8xY0RERS1ZX3lacnJfcExFYlp5QVhEak45YkR5cndPQm5KQWxrd3FGQ0MzVU1MUmhocEZjYUViWUs5UC1xVkFsSmY1SDR2bE5GWUtCZVAwaG1hNE0yOERFLTBfbjNGMUVLaURscUM5YktIQUVmM3Z1ZVZoZnVJcGpTTk1ZcXFXU204VGRGazRWUndKcWJxaHBNOGtwb29RMUtfbzF4WjUxbzBz?oc=5\" target=\"_blank\">Samsung supports 1,000 startups, helping attract $1.6 bil. in investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTVBEdzlFWTFXcEtNWVF6X2NFLWhTbXo5ai02bGtWbXpqWi1HUl85VXZ6a0E4cHZkT1h6TnE5Szk2U25Wc0k5MFdMQzhUdEtNakFaMzRrNVVsNXYxNnZKU3hQQm1zMEYzY0hLaGVnM01RU0QxenE2SzFKZW5tZHRsTVJLNklETHo0cFAzVVh5TVo1WWQ3VVJ1SXoxSUhRZEFMY1h6NXRFTXlKa2FpbGI3R2JNbS1KUTFtR19YdDVueTd6d9IBxwFBVV95cUxOV3ZMRVpiVzA0UUtmQzhoQjFxUzRhVHJMclR0Vk8xY0RERS1ZX3lacnJfcExFYlp5QVhEak45YkR5cndPQm5KQWxrd3FGQ0MzVU1MUmhocEZjYUViWUs5UC1xVkFsSmY1SDR2bE5GWUtCZVAwaG1hNE0yOERFLTBfbjNGMUVLaURscUM5YktIQUVmM3Z1ZVZoZnVJcGpTTk1ZcXFXU204VGRGazRWUndKcWJxaHBNOGtwb29RMUtfbzF4WjUxbzBz?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-11-10",
-          "views": "18.0K"
+          "title": "Indonesia on a 'slippery slope' as political tumult adds to MSCI-led market angst - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd0xCd1pZMjZLRGo4TEMxemFQd0hsdDZsNTFCNUpYVDRPeXEwcnhFNE1XbHZsY0xWWTRtYTFIMk9jSWpKUnFhemdCQnRNZVVTU2FPOGw2MWdzVTFlZ3U4S2hqVmU1VU9xUlhYbzc4aWFiNHNaY3lVQUdVMHRNNnFySmpPejN6UWx6Ni1yVllLZ2N5aGJxR0YyYkVoODktRkdJbTlGd1E4NDB1MXdKdG1VS2p1RVZYTV9JdGww?oc=5\" target=\"_blank\">Indonesia on a 'slippery slope' as political tumult adds to MSCI-led market angst</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd0xCd1pZMjZLRGo4TEMxemFQd0hsdDZsNTFCNUpYVDRPeXEwcnhFNE1XbHZsY0xWWTRtYTFIMk9jSWpKUnFhemdCQnRNZVVTU2FPOGw2MWdzVTFlZ3U4S2hqVmU1VU9xUlhYbzc4aWFiNHNaY3lVQUdVMHRNNnFySmpPejN6UWx6Ni1yVllLZ2N5aGJxR0YyYkVoODktRkdJbTlGd1E4NDB1MXdKdG1VS2p1RVZYTV9JdGww?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-11-17",
+          "views": "13.0K"
+        },
+        {
+          "title": "Midmarket AI is not enterprise AI at a smaller scale - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNcXZkRWoyTi1ZLTA3Y2ZCVjNSRXNGcEp1cVlvOGNGWjRRc1k3Z0xMdl9YZ2hvSmNJWjZBdEVhcXg3R3RGR2h6ZmdMUFJYWS1xZ0lkS2xGWE04VGdKYXJHWldVUU5nQkQydGVlUkh6XzhXazFnWlZIOWpWYWFrZEVwYnVsb2pjajVJSVVVRlR1UnowZDZh?oc=5\" target=\"_blank\">Midmarket AI is not enterprise AI at a smaller scale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcXZkRWoyTi1ZLTA3Y2ZCVjNSRXNGcEp1cVlvOGNGWjRRc1k3Z0xMdl9YZ2hvSmNJWjZBdEVhcXg3R3RGR2h6ZmdMUFJYWS1xZ0lkS2xGWE04VGdKYXJHWldVUU5nQkQydGVlUkh6XzhXazFnWlZIOWpWYWFrZEVwYnVsb2pjajVJSVVVRlR1UnowZDZh?oc=5",
+          "source": "VentureBeat AI",
+          "publishedAt": "2026-11-16",
+          "views": "13.0K"
         }
       ]
     },
@@ -173,27 +173,27 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
-          "title": "Korea draws 1,500 Malaysian company-sponsored tourists with halal-friendly travel push - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZzU1VWtPbzZ2VWFWRUt4dXdlUGpsMDlKTkVPYlRxYW5LN1BaMmU4LVliNXFRSVVPQmluaFBITW1nWFdkX2dyeklIYUFMRGIzZnBLbnJUMlpCSEtBRm9ZanF0UXhrcFNhdjQwbFNuajdfX1pGaEFmQjNPc29jTFphQnduWGZJQ3ZyUlVtbHNtaTBqTmtGX3FLMHRRVTVObG1Sc0pOYzQ0bV9ja3ppSDJld1dBdE1RUlVCUUVRY042TC10SktqS09PT01VUWxfTWJvWVZRODl3YmFkUWhscElCVdIB5gFBVV95cUxQYXl1Umpka0VRRnY3ejNiNjZMajctSjFCMHVsWVdpRFRNZXhKeXBabXpLSC1HWk9vWEdYdllvR3NYM2NOTFI2bkpiSU9OV294VFk5QTY0V2daeVN5RW83OXlzLWFtRS1WVTF2aGZuNVJJZGh6YWk2RVdEeXhxaDRwbjdRQV85U2dOZWhNLXY0MU9fVWYzVHNGbHJoYlBnUFpVamdrOFVtZ0lvSjBlLURnTnR3NVhwTklFZG9zZ283c3k2dWkzSkpDcGNMTmNDQ1QwVTZjUmlMc1BwMUVTeXJLd0JUUS04dw?oc=5\" target=\"_blank\">Korea draws 1,500 Malaysian company-sponsored tourists with halal-friendly travel push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZzU1VWtPbzZ2VWFWRUt4dXdlUGpsMDlKTkVPYlRxYW5LN1BaMmU4LVliNXFRSVVPQmluaFBITW1nWFdkX2dyeklIYUFMRGIzZnBLbnJUMlpCSEtBRm9ZanF0UXhrcFNhdjQwbFNuajdfX1pGaEFmQjNPc29jTFphQnduWGZJQ3ZyUlVtbHNtaTBqTmtGX3FLMHRRVTVObG1Sc0pOYzQ0bV9ja3ppSDJld1dBdE1RUlVCUUVRY042TC10SktqS09PT01VUWxfTWJvWVZRODl3YmFkUWhscElCVdIB5gFBVV95cUxQYXl1Umpka0VRRnY3ejNiNjZMajctSjFCMHVsWVdpRFRNZXhKeXBabXpLSC1HWk9vWEdYdllvR3NYM2NOTFI2bkpiSU9OV294VFk5QTY0V2daeVN5RW83OXlzLWFtRS1WVTF2aGZuNVJJZGh6YWk2RVdEeXhxaDRwbjdRQV85U2dOZWhNLXY0MU9fVWYzVHNGbHJoYlBnUFpVamdrOFVtZ0lvSjBlLURnTnR3NVhwTklFZG9zZ283c3k2dWkzSkpDcGNMTmNDQ1QwVTZjUmlMc1BwMUVTeXJLd0JUUS04dw?oc=5",
+          "title": "From cultural phenomenon to sustainable industry - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQMDI2STJNbnhCa09IQ0paTUpRUUhoMUZqd3B6b1htenJlcVh2YXdvU0RBS1lVMUg5T1BhU3hLT0g0MU94dkxvUThJUGhkRGs5RHJRWU9ta0d5UzNkejZZVVZYanpIWU1FYzdtRFpkVURBY3F6cnZjUU5NSkJXRGljTlAyY1JLNXRZaFRURlpGd2lGT2ZaNFExSzQ1WEE0dTDSAZ8BQVVfeXFMUDAyNkkyTW54QmtPSENKWk1KUVFIaDFGandwem9YbXpyZXFYdmF3b1NEQUtZVTFIOU9QYVN4S09INDFPeHZMb1E4SVBoZERrOURyUVlPbWtHeVMzZHo2WVVWWGp6SFlNRWM3bURaZFVEQWNxenJ2Y1FOTUpCV0RpY05QMmNSSzV0WWhUVEZaRndpRk9mWjRRMUs0NVhBNHUw?oc=5\" target=\"_blank\">From cultural phenomenon to sustainable industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMDI2STJNbnhCa09IQ0paTUpRUUhoMUZqd3B6b1htenJlcVh2YXdvU0RBS1lVMUg5T1BhU3hLT0g0MU94dkxvUThJUGhkRGs5RHJRWU9ta0d5UzNkejZZVVZYanpIWU1FYzdtRFpkVURBY3F6cnZjUU5NSkJXRGljTlAyY1JLNXRZaFRURlpGd2lGT2ZaNFExSzQ1WEE0dTDSAZ8BQVVfeXFMUDAyNkkyTW54QmtPSENKWk1KUVFIaDFGandwem9YbXpyZXFYdmF3b1NEQUtZVTFIOU9QYVN4S09INDFPeHZMb1E4SVBoZERrOURyUVlPbWtHeVMzZHo2WVVWWGp6SFlNRWM3bURaZFVEQWNxenJ2Y1FOTUpCV0RpY05QMmNSSzV0WWhUVEZaRndpRk9mWjRRMUs0NVhBNHUw?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-11-16",
+          "publishedAt": "2026-11-17",
           "views": "13.0K"
         },
         {
-          "title": "SK Telecom, Hyosung team up to build AI data center power infrastructure - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPbmtkMkloeTd1STVKQWVYTjV6dkc4WHlsYUh3WXFhUmhyb1V3U0txZE02b3k3bUtYTldBdFpwbkxfQUpkMmxUak9ucGtTZkhBR3l5TnBNRV96M1A4dzAwOUVfQzg1MTdvRmRtV1dNV2gxWlN3ak15aVllYVladngweGpDVXI3aWVHQUljLXpuY1J5YkFEc0N4UHlyR0xKakx3Y29IYUdzVHYzeVhTVVVOQnd1aEhIT1dUbDI1OVd5ZlBvOXl0bUpN0gHMAUFVX3lxTE1ma1g0dVo5RFZRNjFJdkJJSk5kRFpRc0psWkFJd0xEbUMyaXozYmFfNFVaTDJ3ZkF0NU1ma21LTDBPVF9lMXlHaUY3WVFabk5CU0duVURDeDlLVVhEM2VSWDBjQXZ5WndrOUhqT2NDTFQ5Y1VMZjIydkRRX0g4UjEzZGd4QlpLSlhnZHAtcUlrN29kU0I0MUUwYld6Q25wTTBCZ1BZc01NdllyOWgzSFVkd1lSSFJOcGxXdHJoa1ZmM2VjVXg4ZDlaQ3NvdA?oc=5\" target=\"_blank\">SK Telecom, Hyosung team up to build AI data center power infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbmtkMkloeTd1STVKQWVYTjV6dkc4WHlsYUh3WXFhUmhyb1V3U0txZE02b3k3bUtYTldBdFpwbkxfQUpkMmxUak9ucGtTZkhBR3l5TnBNRV96M1A4dzAwOUVfQzg1MTdvRmRtV1dNV2gxWlN3ak15aVllYVladngweGpDVXI3aWVHQUljLXpuY1J5YkFEc0N4UHlyR0xKakx3Y29IYUdzVHYzeVhTVVVOQnd1aEhIT1dUbDI1OVd5ZlBvOXl0bUpN0gHMAUFVX3lxTE1ma1g0dVo5RFZRNjFJdkJJSk5kRFpRc0psWkFJd0xEbUMyaXozYmFfNFVaTDJ3ZkF0NU1ma21LTDBPVF9lMXlHaUY3WVFabk5CU0duVURDeDlLVVhEM2VSWDBjQXZ5WndrOUhqT2NDTFQ5Y1VMZjIydkRRX0g4UjEzZGd4QlpLSlhnZHAtcUlrN29kU0I0MUUwYld6Q25wTTBCZ1BZc01NdllyOWgzSFVkd1lSSFJOcGxXdHJoa1ZmM2VjVXg4ZDlaQ3NvdA?oc=5",
+          "title": "POSCO showcases AI, green steel strategy at forum - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNNGVzQm1UNGhTVjhHeUVxeld3c09CU2xfNldsdjFIamFMSm1wZFJwZG9qYTd1M3haWTUtTDZaVTk1emtrcG15RUFvbDBzSTRQNmxwdk9IdFNoWUQ3SXlobC1SNWJtXzFiTnJYTWZRbUZQQlEwM0tMUkduVzA3RS0xRFY3Rk5fRG16djU3ZVBXWGtRcnlueEJoTklGaldjZGR0cmhVSVVVUUhuM0hFdFHSAa4BQVVfeXFMTTRlc0JtVDRoU1Y4R3lFcXpXd3NPQlNsXzZXbHYxSGphTEptcGRScGRvamE3dTN4Wlk1LUw2WlU5NXpra3BteUVBb2wwc0k0UDZscHZPSHRTaFlEN0l5aGwtUjVibV8xYk5yWE1mUW1GUEJRMDNLTFJHblcwN0UtMURWN0ZOX0RtenY1N2VQV1hrUXJ5bnhCaE5JRmpXY2RkdHJoVUlVVVFIbjNIRXRR?oc=5\" target=\"_blank\">POSCO showcases AI, green steel strategy at forum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNGVzQm1UNGhTVjhHeUVxeld3c09CU2xfNldsdjFIamFMSm1wZFJwZG9qYTd1M3haWTUtTDZaVTk1emtrcG15RUFvbDBzSTRQNmxwdk9IdFNoWUQ3SXlobC1SNWJtXzFiTnJYTWZRbUZQQlEwM0tMUkduVzA3RS0xRFY3Rk5fRG16djU3ZVBXWGtRcnlueEJoTklGaldjZGR0cmhVSVVVUUhuM0hFdFHSAa4BQVVfeXFMTTRlc0JtVDRoU1Y4R3lFcXpXd3NPQlNsXzZXbHYxSGphTEptcGRScGRvamE3dTN4Wlk1LUw2WlU5NXpra3BteUVBb2wwc0k0UDZscHZPSHRTaFlEN0l5aGwtUjVibV8xYk5yWE1mUW1GUEJRMDNLTFJHblcwN0UtMURWN0ZOX0RtenY1N2VQV1hrUXJ5bnhCaE5JRmpXY2RkdHJoVUlVVVFIbjNIRXRR?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-11-16",
+          "publishedAt": "2026-11-17",
           "views": "13.0K"
         },
         {
-          "title": "Bessent says Nvidia must 'go outside the company' to find new CEO - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNVGladEJOQmtqRldzTHdlQ25Fb3pCREJuYmthQTgzclB5Snl6WWFmaXdtWU1KU1NqVGhTZzIyakttSVpxR0p3MVlGU1pBcjhjRjVkVl9wNGU5OS1kOUJkeXRobzlOSjlMUkVPTWkxbmdib3Bna3ZoRVRoM1RybkQ2NE92ZWZTMjBuNF80a1lhVENxQUhTU2hkY0QzaTU0NGc?oc=5\" target=\"_blank\">Bessent says Nvidia must 'go outside the company' to find new CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVGladEJOQmtqRldzTHdlQ25Fb3pCREJuYmthQTgzclB5Snl6WWFmaXdtWU1KU1NqVGhTZzIyakttSVpxR0p3MVlGU1pBcjhjRjVkVl9wNGU5OS1kOUJkeXRobzlOSjlMUkVPTWkxbmdib3Bna3ZoRVRoM1RybkQ2NE92ZWZTMjBuNF80a1lhVENxQUhTU2hkY0QzaTU0NGc?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-11-15",
+          "title": "Court rules Korea Zinc management misused company assets to block MBK-Young Poong voting rights - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcDVnS2ZlSWNBR21FV09QM1JSUlZVSG44T2Z3V2xQY3F5M0tnb0hpV2x6Z0hNSGUzenRoWWZjSVlZNXVGVUstaTI5Y0tlQ1A2RG1ldVc4MkpoV1FiLVpTdVlyVkFkSllNekdfSl9CcmRLeFVTRkJ2VVdkZElldEpIQ1dwNThWMXd3Tmk1ZG9ZZGZzdDUtOTI1UGxTV21qMnBvTjgwdmJOQXItNE84SUhYRThTdUh4azRFZE91RV8zemo5VlpiZHVlS2o2LVJQelFvalJMRy1OWkdRU21WUW1Benh6eWhUeTjSAewBQVVfeXFMTkZTaEtJVW0tVXJIUTZHcmViZVNsdWtuR3Vya0VmcU5GWTV5Z2JfWXA1RC0tZVA3SDctNV9jRXpaOVVyVkNXbHkyTVpSbURvQXdfLURsWVZ1cWl6R3JTRTE3S3RxWV9QRnJPVlpWeG1PaE5IZ195a3dkalQ3eUwycUFxT0VuS18xakc4TWM1RTVSdk1kRUlRcTBXeE8wcE1rY25QNW9YYS1wNVJJY0lrMURNazAzdGlqa3BVTnFQNW13QlVoLTBtVHBpYVJZV09SMmJxVXduVl94Y25nVTdaRDVmOEcySXlUbUEzVUU?oc=5\" target=\"_blank\">Court rules Korea Zinc management misused company assets to block MBK-Young Poong voting rights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcDVnS2ZlSWNBR21FV09QM1JSUlZVSG44T2Z3V2xQY3F5M0tnb0hpV2x6Z0hNSGUzenRoWWZjSVlZNXVGVUstaTI5Y0tlQ1A2RG1ldVc4MkpoV1FiLVpTdVlyVkFkSllNekdfSl9CcmRLeFVTRkJ2VVdkZElldEpIQ1dwNThWMXd3Tmk1ZG9ZZGZzdDUtOTI1UGxTV21qMnBvTjgwdmJOQXItNE84SUhYRThTdUh4azRFZE91RV8zemo5VlpiZHVlS2o2LVJQelFvalJMRy1OWkdRU21WUW1Benh6eWhUeTjSAewBQVVfeXFMTkZTaEtJVW0tVXJIUTZHcmViZVNsdWtuR3Vya0VmcU5GWTV5Z2JfWXA1RC0tZVA3SDctNV9jRXpaOVVyVkNXbHkyTVpSbURvQXdfLURsWVZ1cWl6R3JTRTE3S3RxWV9QRnJPVlpWeG1PaE5IZ195a3dkalQ3eUwycUFxT0VuS18xakc4TWM1RTVSdk1kRUlRcTBXeE8wcE1rY25QNW9YYS1wNVJJY0lrMURNazAzdGlqa3BVTnFQNW13QlVoLTBtVHBpYVJZV09SMmJxVXduVl94Y25nVTdaRDVmOEcySXlUbUEzVUU?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-11-16",
           "views": "13.0K"
         }
       ]
