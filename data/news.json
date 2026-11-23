@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-22T06:39:30.740Z",
+  "lastUpdated": "2026-11-23T07:28:35.428Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -96,12 +96,12 @@
           "views": "18.0K"
         },
         {
-          "title": "Amazon says attackers' AI agents found and exploited a zero-day in 11 minutes, but no patched release is available - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUjQ5c0hsZDBTcWxGNUVxN0phZDdwRGhzTk1nWWEzZTdOSVpVT2h2WlI3OUVfeVZVMWt4eTFTQXFGZ1hoM1dMS2puekZ1YVYzSWV0aHMtYkVkNUpKdEJtaHlTRE9NRE5YZHRWbDk2YVZPVmdrOXN6cmJGbnFlcWxGODhZTVdaRGJ0aF9icTYwamtYakRaTFY0bGo4dHJMY21mRFFGTjNxYWkzN1J2d2tFX1g4Wk5US25oU0ZKTHoxSlU1dW9qODFRNEYyRTlaQm1aWmhIU05rMzJ4bmN5X1E?oc=5\" target=\"_blank\">Amazon says attackers' AI agents found and exploited a zero-day in 11 minutes, but no patched release is available</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUjQ5c0hsZDBTcWxGNUVxN0phZDdwRGhzTk1nWWEzZTdOSVpVT2h2WlI3OUVfeVZVMWt4eTFTQXFGZ1hoM1dMS2puekZ1YVYzSWV0aHMtYkVkNUpKdEJtaHlTRE9NRE5YZHRWbDk2YVZPVmdrOXN6cmJGbnFlcWxGODhZTVdaRGJ0aF9icTYwamtYakRaTFY0bGo4dHJMY21mRFFGTjNxYWkzN1J2d2tFX1g4Wk5US25oU0ZKTHoxSlU1dW9qODFRNEYyRTlaQm1aWmhIU05rMzJ4bmN5X1E?oc=5",
-          "source": "VentureBeat AI",
-          "publishedAt": "2026-11-21",
-          "views": "13.0K"
+          "title": "7 best agentic AI security tools for enterprise teams - AI News",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPSEVZai1VUkYxVjVmYjlKNHVCMHlEY0xoUThraG91NFVVc0Jaa1VhWGJkWnh3aUhQVmZoZi1YNVVPaFZ3R01sMERhTmZuNUR1SWd1QmF1aE42VG43Ykh3VmJrLW9hM0xJbjNRajItaEdlSlY3RmEzWjlfM2J1M09DdkRRNkxNS0hab2FJNDJRRDNPZHUwRE94RzJ3NTFOU2tlOG05X21n?oc=5\" target=\"_blank\">7 best agentic AI security tools for enterprise teams</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AI News</font>",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSEVZai1VUkYxVjVmYjlKNHVCMHlEY0xoUThraG91NFVVc0Jaa1VhWGJkWnh3aUhQVmZoZi1YNVVPaFZ3R01sMERhTmZuNUR1SWd1QmF1aE42VG43Ykh3VmJrLW9hM0xJbjNRajItaEdlSlY3RmEzWjlfM2J1M09DdkRRNkxNS0hab2FJNDJRRDNPZHUwRE94RzJ3NTFOU2tlOG05X21n?oc=5",
+          "source": "AI News",
+          "publishedAt": "2026-11-17",
+          "views": "18.0K"
         }
       ]
     },
@@ -110,6 +110,14 @@
       "hashtag": "#윤리",
       "description": "규제, 책임, 신뢰, 저작권 같은 문제를 보는 관점",
       "items": [
+        {
+          "title": "California AG Bonta filed lawsuit against OpenAI over model security, public safety - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdmhmeEgxSkU1V2V3QmEtdlJ5RUR2U1FZVm5lajNFT1h3cUJnUW1XQUZRSUNLYnV6QkFFNWhMR0ZtbEtRSDRvQXJ3dThFRWFYMUlfbTNFUkFMN3JwTWVHbC11MjB5LUNia3JVMUxjWUtGV0dSa3V4V1JIMHNMdGpzd2JkOGotTnpRbmh5cHBSQ213NFhwOWs4MVZ4YzBKZ3FsUlRpVzFsMHNQS3VKTXVmRDRvS3dWWGhO?oc=5\" target=\"_blank\">California AG Bonta filed lawsuit against OpenAI over model security, public safety</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdmhmeEgxSkU1V2V3QmEtdlJ5RUR2U1FZVm5lajNFT1h3cUJnUW1XQUZRSUNLYnV6QkFFNWhMR0ZtbEtRSDRvQXJ3dThFRWFYMUlfbTNFUkFMN3JwTWVHbC11MjB5LUNia3JVMUxjWUtGV0dSa3V4V1JIMHNMdGpzd2JkOGotTnpRbmh5cHBSQ213NFhwOWs4MVZ4YzBKZ3FsUlRpVzFsMHNQS3VKTXVmRDRvS3dWWGhO?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-11-23",
+          "views": "18.0K"
+        },
         {
           "title": "Democratic lawmakers probe DOJ filing in OpenAI copyright case - Reuters",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQX0VWaEFiUEFOcHNfVGRIZ0t1V3dqQlFyc1VWNDVyNzN1Vk1GT0NGME1uQTlXMllfaEFjcWlGMU4zV2RVRXkxQWxKNEtrVFFuSjBMRjV2aXpqX0Z4NlQ2T0M4cldUcGZHNHJMbWFXeUgwM1JXN2NfVTlDaUZnVWE1MFotNllYQnhsWklLN096OExQT1RfMzRrY2diZkZrdFpkTE9jaVFsMTZkUWtNWGdSLWRR?oc=5\" target=\"_blank\">Democratic lawmakers probe DOJ filing in OpenAI copyright case</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
@@ -125,14 +133,6 @@
           "source": "Reuters AI",
           "publishedAt": "2026-11-19",
           "views": "18.0K"
-        },
-        {
-          "title": "Kolmar Korea turns to AI to predict skin safety before cosmetics hit market - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQdkIzQzQwVEJiaFZoazM4bXY3MTgyN1pvN21XUE1Ddkc4M1hDRzg5WWRBWGJuMG8tSGk1MF9MaGhVM3dPbnBzbk1PckRfMDJrRGV0RDZqMVM3WEFqcUJsNnJFaXpnSU54dTVIQzVaQzhTcGVaRmJ2TlFubDI2UXJjZGIxNEUzNkkwWjBXekdjTGN6blJXOEtjRGtPSDNBQnE3bm40Q1lYUldheFRnSDRYdmtfcUlKSlAwdG9KVVpNRnhDb0NEOVVQZi05VnLSAdIBQVVfeXFMTmkyR0djMmw2WlB0SC1DWEo0Z0s4WVJ2Y0FLcjAzdE9fU1M2QjFIUkFVZUtsa2Z4UHdiSm1IUU1mQWVzdVJ0SlJsXzQwMk50Y2RaMmJYU2ZxandBU1F1Nm5yZS1BSWhjMENqVEdEampPX0FDZUZodVVTZHNHWFZXZVNHS0s1eUF5ZXI4cy1hYlNlelBKQVRYNHNmVW1lVGRmWFhpOWtTTGZzX2JjS1ZpZF8tZWtGVTlZVVJ1dFRZRkpsbnpRaUM5cUx5ZTZqVV9BendR?oc=5\" target=\"_blank\">Kolmar Korea turns to AI to predict skin safety before cosmetics hit market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdkIzQzQwVEJiaFZoazM4bXY3MTgyN1pvN21XUE1Ddkc4M1hDRzg5WWRBWGJuMG8tSGk1MF9MaGhVM3dPbnBzbk1PckRfMDJrRGV0RDZqMVM3WEFqcUJsNnJFaXpnSU54dTVIQzVaQzhTcGVaRmJ2TlFubDI2UXJjZGIxNEUzNkkwWjBXekdjTGN6blJXOEtjRGtPSDNBQnE3bm40Q1lYUldheFRnSDRYdmtfcUlKSlAwdG9KVVpNRnhDb0NEOVVQZi05VnLSAdIBQVVfeXFMTmkyR0djMmw2WlB0SC1DWEo0Z0s4WVJ2Y0FLcjAzdE9fU1M2QjFIUkFVZUtsa2Z4UHdiSm1IUU1mQWVzdVJ0SlJsXzQwMk50Y2RaMmJYU2ZxandBU1F1Nm5yZS1BSWhjMENqVEdEampPX0FDZUZodVVTZHNHWFZXZVNHS0s1eUF5ZXI4cy1hYlNlelBKQVRYNHNmVW1lVGRmWFhpOWtTTGZzX2JjS1ZpZF8tZWtGVTlZVVJ1dFRZRkpsbnpRaUM5cUx5ZTZqVV9BendR?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-11-18",
-          "views": "18.0K"
         }
       ]
     },
@@ -141,6 +141,14 @@
       "hashtag": "#경제",
       "description": "투자, 고용, 생산성, 산업 구조 변화를 보는 관점",
       "items": [
+        {
+          "title": "Seoul launches green bio hub to connect startups with investors, global markets - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdDBzNjhYVGxYdHNwckRyT2ROY1VHUFIwV2pvQUJQWmVZVmR2MXJhZFI3ZTBoN1hJSHFEV2lPejQxNVhiSy16cUNOZlhJSlZIbFN5N3BOWm5oVzZtc3pPRFAzZE8zX2R5RGswb1F2a1hfYmtXOU9aeHNhckFzeFI1Y2tBbEV2cTkyN25Td3l1eWpqM2FtdlM5OGVJR2I1TDlkNG52T0JqT0dDVGpiQ0R2TUxWajc1S3JsY2JaNG1sOTJBUmZfRlFuV2FvRFY0d0Q4RzZnd9IB1AFBVV95cUxPdDBzNjhYVGxYdHNwckRyT2ROY1VHUFIwV2pvQUJQWmVZVmR2MXJhZFI3ZTBoN1hJSHFEV2lPejQxNVhiSy16cUNOZlhJSlZIbFN5N3BOWm5oVzZtc3pPRFAzZE8zX2R5RGswb1F2a1hfYmtXOU9aeHNhckFzeFI1Y2tBbEV2cTkyN25Td3l1eWpqM2FtdlM5OGVJR2I1TDlkNG52T0JqT0dDVGpiQ0R2TUxWajc1S3JsY2JaNG1sOTJBUmZfRlFuV2FvRFY0d0Q4RzZndw?oc=5\" target=\"_blank\">Seoul launches green bio hub to connect startups with investors, global markets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdDBzNjhYVGxYdHNwckRyT2ROY1VHUFIwV2pvQUJQWmVZVmR2MXJhZFI3ZTBoN1hJSHFEV2lPejQxNVhiSy16cUNOZlhJSlZIbFN5N3BOWm5oVzZtc3pPRFAzZE8zX2R5RGswb1F2a1hfYmtXOU9aeHNhckFzeFI1Y2tBbEV2cTkyN25Td3l1eWpqM2FtdlM5OGVJR2I1TDlkNG52T0JqT0dDVGpiQ0R2TUxWajc1S3JsY2JaNG1sOTJBUmZfRlFuV2FvRFY0d0Q4RzZnd9IB1AFBVV95cUxPdDBzNjhYVGxYdHNwckRyT2ROY1VHUFIwV2pvQUJQWmVZVmR2MXJhZFI3ZTBoN1hJSHFEV2lPejQxNVhiSy16cUNOZlhJSlZIbFN5N3BOWm5oVzZtc3pPRFAzZE8zX2R5RGswb1F2a1hfYmtXOU9aeHNhckFzeFI1Y2tBbEV2cTkyN25Td3l1eWpqM2FtdlM5OGVJR2I1TDlkNG52T0JqT0dDVGpiQ0R2TUxWajc1S3JsY2JaNG1sOTJBUmZfRlFuV2FvRFY0d0Q4RzZndw?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-11-23",
+          "views": "18.0K"
+        },
         {
           "title": "Sejong University medical device startup secures $9.7 mil. in new investments - The Korea Times",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOWFc0RjdpdnotVEpURXlzZWJWNFdxUm9Nc0FVdDBvWU16cE4xQXJIaDRGd0FqRnFYa1hUR0gtTDhxNDZzZkhTWVhqTllnUGNsSjlVa2FRbUI0c1dLcm40SVprTHFNWU4tOFB1TXhJaGpXU3ZBVXlibWl6QWZQVkZmdEROVW5ZSzlLYWJaY1I3REpOMXhzd1N0dERjWkNuMjdERjhVTDlLcWRXU1BzUmEtMC1fbkVMQUVkRUJkMHVsRTNLbkRobmp3WEpEaXFNUdIB0wFBVV95cUxQa3kzT3llNlFTbjFBVzNoUkw2ZFdTWnA5c085cURIZm9lR3FFSGVKM2dQSERhQWM2dzlQZno5UkVvNGRXWmtkTU9PMG9uOFlBN0lqSFB5eV9Xa1A3Q2lJYjNDRmJJZllfQzJualBEZW9WVEpfQTRhTS1BT0V0ZzczSjFNeXlHUkVDUDhhclBhS2pES0cyZ0pkRWlUZGJpRWpjOW41ZXlrWk1kaGRaM1p6dVR0U3Jqc3RyTnNBWTM2QzZuaXZiVmlZdTZGQU9WcklhblNv?oc=5\" target=\"_blank\">Sejong University medical device startup secures $9.7 mil. in new investments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
@@ -156,14 +164,6 @@
           "source": "The Korea Times",
           "publishedAt": "2026-11-20",
           "views": "18.0K"
-        },
-        {
-          "title": "Korea's AI startup funding boom benefits select few - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNnItblFMejVkNUFmcENYUVhpQ2x3QUhQem9aNEFkOHFPeExnMi1HNnoxQVdPTHJXSEVkMkRZekN3VXZ5eHZad050dFFfa3BzUzNqaUpHM0lLLUhYMjJfYVJiQTBJY2FfUUtZR1BvTk1JNDNwRFl4R1VnQ3ZIZXdJSjUxX1diS0Y3MER4aFJ0OVA3bHpXWWx3UERtU0NoV1hJTERGXzR0SWFyWW_SAbABQVVfeXFMUHNrTVk4d0hiaHNvamM3VTIzcHh3S0tnTlJZR0VTRXpfRy1kT1l0dnJ0YlZFNDRfZUZxb2ZZeVBGQmVQOFlGR2xHUWpraG9fb2RqUDZ4TmNPNC11eno5Tk9sempjX012UTJLcHFYLVplbE9hQmwzaEpiMllQaXJ0X3RsbTZOTTc0THZMdGpPbmMyenBNMG9CMjM4RXJJVERzR2pMYTlERGs2VHl5c2dYMkI?oc=5\" target=\"_blank\">Korea's AI startup funding boom benefits select few</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNnItblFMejVkNUFmcENYUVhpQ2x3QUhQem9aNEFkOHFPeExnMi1HNnoxQVdPTHJXSEVkMkRZekN3VXZ5eHZad050dFFfa3BzUzNqaUpHM0lLLUhYMjJfYVJiQTBJY2FfUUtZR1BvTk1JNDNwRFl4R1VnQ3ZIZXdJSjUxX1diS0Y3MER4aFJ0OVA3bHpXWWx3UERtU0NoV1hJTERGXzR0SWFyWW_SAbABQVVfeXFMUHNrTVk4d0hiaHNvamM3VTIzcHh3S0tnTlJZR0VTRXpfRy1kT1l0dnJ0YlZFNDRfZUZxb2ZZeVBGQmVQOFlGR2xHUWpraG9fb2RqUDZ4TmNPNC11eno5Tk9sempjX012UTJLcHFYLVplbE9hQmwzaEpiMllQaXJ0X3RsbTZOTTc0THZMdGpPbmMyenBNMG9CMjM4RXJJVERzR2pMYTlERGs2VHl5c2dYMkI?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-11-18",
-          "views": "18.0K"
         }
       ]
     },
@@ -173,27 +173,27 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
-          "title": "Korean tourism startups court North American market at US industry showcase - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWVdhSDBoOGx3amJVX2JxUG9ORnBabVEzWVVORWZrYU16clp3dDJMSHJmY3VOTVB2a3hzaXoxX2F5amlrTEZWOTk1RTBidXVaUlJqMHduV3R3UURoOEp4aXZjUUphZmRlMW9wajIxdllVdGE0bnBIUUs1ZFliZ0FBaGlvMU5ibDRpTlJCRjFmMWYwTzBlX1pDZmMzN0lCdFowRWM0eXpmU21tUzFuM1FadXRGSllhLXJmS3Judzg1cUFiZnV2d2h6THkwZjBwNjA1ekxVVzg5aGJMZW1IRGdDQTlyaGrSAdYBQVVfeXFMTmhBdTBFbnc5anlYN2thM2pqX09jZjdRZEphWGJBUHVKcnBXVlQwby0yVG1sSWFWM2NvSUN4ZVBmUkUxckx5QW53TkZKaUJaelFMSk1UdHBaVFkyUUdqaW1RNFEydzdaNEwzeUF0UTk2cWhzbEZWYzhReHQ2WWpRc21OMnI5Q25ZOTY5NmZHcmdMVGg0eUtUVmh6YXNMRHVqcDRHMWMzRkVEWmxuSE1JaU1sYnE3enpObzVELTJKYUc3bHRCekk1MHVJSmMzUUxqT20teU9vZw?oc=5\" target=\"_blank\">Korean tourism startups court North American market at US industry showcase</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWVdhSDBoOGx3amJVX2JxUG9ORnBabVEzWVVORWZrYU16clp3dDJMSHJmY3VOTVB2a3hzaXoxX2F5amlrTEZWOTk1RTBidXVaUlJqMHduV3R3UURoOEp4aXZjUUphZmRlMW9wajIxdllVdGE0bnBIUUs1ZFliZ0FBaGlvMU5ibDRpTlJCRjFmMWYwTzBlX1pDZmMzN0lCdFowRWM0eXpmU21tUzFuM1FadXRGSllhLXJmS3Judzg1cUFiZnV2d2h6THkwZjBwNjA1ekxVVzg5aGJMZW1IRGdDQTlyaGrSAdYBQVVfeXFMTmhBdTBFbnc5anlYN2thM2pqX09jZjdRZEphWGJBUHVKcnBXVlQwby0yVG1sSWFWM2NvSUN4ZVBmUkUxckx5QW53TkZKaUJaelFMSk1UdHBaVFkyUUdqaW1RNFEydzdaNEwzeUF0UTk2cWhzbEZWYzhReHQ2WWpRc21OMnI5Q25ZOTY5NmZHcmdMVGg0eUtUVmh6YXNMRHVqcDRHMWMzRkVEWmxuSE1JaU1sYnE3enpObzVELTJKYUc3bHRCekk1MHVJSmMzUUxqT20teU9vZw?oc=5",
+          "title": "Industry minister urges petrochem sector to rev up restructuring - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNLU1YT1VDcWdxc08wT0VSb21ITmUzV1JSQVRZSHN0Yml5Q3d0c1dRRDdBRmlRY0NjZFBENXBJTFpJeGdkLW5EWENxdzFNWHQydnV6Y0x2WGIwZF95WHR2WTFXMTFVSHBSSUtJcDU4LWtWSTk4TDF6ZFZxTy1WZnNEbXh1Q2U0Y1dDRWtadjhuZnVnMzNPU3EzRE9seWxCRVJHMlUxbDk5cDNpQVR2YVFtSkdXMNIBuAFBVV95cUxOeWx3bTYyaU13ZHUyRlNmakJMZUtlTUJodF9wOHRxRHRHZ0hOVlZhN2xta2Jnclg1LTRRa3NQN1ppZEpNWU0zUFBqWGxUZUFqMXhJa05FLWRyMERmQ3JkczJvTnh3eVJjSWhDV2FNdUtkTm9SV3FtWHgzWk5ZdF9IbExuMk41U3RkWXpMVDVkSzdzeEtiUUI3aG1LcUFLSGNEZm0wTW1XTnZjMjBsbTRTU1pqNmlIdUZM?oc=5\" target=\"_blank\">Industry minister urges petrochem sector to rev up restructuring</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLU1YT1VDcWdxc08wT0VSb21ITmUzV1JSQVRZSHN0Yml5Q3d0c1dRRDdBRmlRY0NjZFBENXBJTFpJeGdkLW5EWENxdzFNWHQydnV6Y0x2WGIwZF95WHR2WTFXMTFVSHBSSUtJcDU4LWtWSTk4TDF6ZFZxTy1WZnNEbXh1Q2U0Y1dDRWtadjhuZnVnMzNPU3EzRE9seWxCRVJHMlUxbDk5cDNpQVR2YVFtSkdXMNIBuAFBVV95cUxOeWx3bTYyaU13ZHUyRlNmakJMZUtlTUJodF9wOHRxRHRHZ0hOVlZhN2xta2Jnclg1LTRRa3NQN1ppZEpNWU0zUFBqWGxUZUFqMXhJa05FLWRyMERmQ3JkczJvTnh3eVJjSWhDV2FNdUtkTm9SV3FtWHgzWk5ZdF9IbExuMk41U3RkWXpMVDVkSzdzeEtiUUI3aG1LcUFLSGNEZm0wTW1XTnZjMjBsbTRTU1pqNmlIdUZM?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-11-20",
+          "publishedAt": "2026-11-23",
           "views": "13.0K"
         },
         {
-          "title": "Industry minister calls for new growth engine to go beyond $1 tril. in exports - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPT0pkdTVXMFNadER1ZjVsUXZEb3FRU1p4UUlNbEtQOVM2MTl6X3c0ZGVoYUxDU1VBbU5uUlVfMHVoY2xOMmlVQ3gzd0hlb3BzU1FqNGd3VXRSM1RGVmFHdXlsbVRaRWQ2QTc4S05KdUJCSEcxTEVLaXRPVVBlemxTUDRpYXRZT3VJd2VRT1JLR1JOSkVvOFZJMHRFNHdIdVkwQlpBWklDVlNNeXNxN050WFQ3ckVRczRBbXQwNDFSb9IBxAFBVV95cUxORWQ1cm9OQ3Q2eG81bzBzMWd6Q0FvRzRnbmQ1dno3TlprQm04ekMteTlEemQ5YS1FQkh2djVIRm8yMC1hRm5CVE9RZ0doNGptX1ZMMHFVNExQY2xTQ3BVd2ZURy04Q0VNc3hsUGxWbUZHcXBXanhQYldWVjRiVEFtU0dBN1VUaFZJRHlITUItTXgzYkhDdjhaRDNwa3JrZXdGVXFNRkxIak9YT1VrZmNwTXJ4aFpSR0JfbWZQaUFBVzJ3ZEg2?oc=5\" target=\"_blank\">Industry minister calls for new growth engine to go beyond $1 tril. in exports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPT0pkdTVXMFNadER1ZjVsUXZEb3FRU1p4UUlNbEtQOVM2MTl6X3c0ZGVoYUxDU1VBbU5uUlVfMHVoY2xOMmlVQ3gzd0hlb3BzU1FqNGd3VXRSM1RGVmFHdXlsbVRaRWQ2QTc4S05KdUJCSEcxTEVLaXRPVVBlemxTUDRpYXRZT3VJd2VRT1JLR1JOSkVvOFZJMHRFNHdIdVkwQlpBWklDVlNNeXNxN050WFQ3ckVRczRBbXQwNDFSb9IBxAFBVV95cUxORWQ1cm9OQ3Q2eG81bzBzMWd6Q0FvRzRnbmQ1dno3TlprQm04ekMteTlEemQ5YS1FQkh2djVIRm8yMC1hRm5CVE9RZ0doNGptX1ZMMHFVNExQY2xTQ3BVd2ZURy04Q0VNc3hsUGxWbUZHcXBXanhQYldWVjRiVEFtU0dBN1VUaFZJRHlITUItTXgzYkhDdjhaRDNwa3JrZXdGVXFNRkxIak9YT1VrZmNwTXJ4aFpSR0JfbWZQaUFBVzJ3ZEg2?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-11-20",
+          "title": "OpenAI scientist proposes industry AI limits tied to model intelligence metric - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0ZQb0xtalJ5djRmZmkwQnhmdDBlMEtncDUtUEJsUFBtWmptbkdVQ3c5QjY2TzhKN0NFT2ZzYnZmenQxY1lrUWFFYjJsdS1KazdRUkJINEJRemQ1alh6TGtnNW1nRE92bTF3RW9FMTIyODB3UmpBaW5oSzFDWDFVT3FXdjZDVzQ0TVNVd29nQzZvY3ByWVpBLUlhRVg0bFZiRHUxVjhqclptLUMycDJlYVBsQXQ4a28tRnFnbQ?oc=5\" target=\"_blank\">OpenAI scientist proposes industry AI limits tied to model intelligence metric</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0ZQb0xtalJ5djRmZmkwQnhmdDBlMEtncDUtUEJsUFBtWmptbkdVQ3c5QjY2TzhKN0NFT2ZzYnZmenQxY1lrUWFFYjJsdS1KazdRUkJINEJRemQ1alh6TGtnNW1nRE92bTF3RW9FMTIyODB3UmpBaW5oSzFDWDFVT3FXdjZDVzQ0TVNVd29nQzZvY3ByWVpBLUlhRVg0bFZiRHUxVjhqclptLUMycDJlYVBsQXQ4a28tRnFnbQ?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-11-22",
           "views": "13.0K"
         },
         {
-          "title": "Telecoms ramp up AI investment amid questions over returns - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQd2FXS21jXy0wVkFZWmRHQi1SbDY3S01UUjNVd2hYcnN1T2FtSl93VDVHLXBqWE1LTFlsZHpocW9iaW5VV0pnc1U0M1hNUVNTT0FOMXU4dEUyaW5xcnVXODNpaEQyei1LbzNkLWVDbjE5cFRMRWpnbXJRanlaZjVmQVloc3A2bUhVRTREWGR5U1ZYY3ZnQ2FBN3ZnVkEwVW1WcTA5NU93TjVYcXBuZUlOUzJkTDkwNWVYcHfSAb8BQVVfeXFMTnVVYnNGekl4aXBjbmo5V1E3RGNyYWhLV3NfTFJDZkRpQjBQd0hNUTJ4dkVReUZJRFRuUlJVdXhRQVVoN01zM2Q5ZEN0QlhJNTNTUjZLSXU0dkRwZlhoUDR3b0NJYVIyNG5SYjQ4U3VTTExiajhaeUxPeFdSbENENW13eUtNV2w1N19uRjBQWVRNZFZsQmV6dTJzSWMyOFc2NlZlNEJIRDUzek43eUF0UWwwSDJMZjlJcktuZWo3N1k?oc=5\" target=\"_blank\">Telecoms ramp up AI investment amid questions over returns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd2FXS21jXy0wVkFZWmRHQi1SbDY3S01UUjNVd2hYcnN1T2FtSl93VDVHLXBqWE1LTFlsZHpocW9iaW5VV0pnc1U0M1hNUVNTT0FOMXU4dEUyaW5xcnVXODNpaEQyei1LbzNkLWVDbjE5cFRMRWpnbXJRanlaZjVmQVloc3A2bUhVRTREWGR5U1ZYY3ZnQ2FBN3ZnVkEwVW1WcTA5NU93TjVYcXBuZUlOUzJkTDkwNWVYcHfSAb8BQVVfeXFMTnVVYnNGekl4aXBjbmo5V1E3RGNyYWhLV3NfTFJDZkRpQjBQd0hNUTJ4dkVReUZJRFRuUlJVdXhRQVVoN01zM2Q5ZEN0QlhJNTNTUjZLSXU0dkRwZlhoUDR3b0NJYVIyNG5SYjQ4U3VTTExiajhaeUxPeFdSbENENW13eUtNV2w1N19uRjBQWVRNZFZsQmV6dTJzSWMyOFc2NlZlNEJIRDUzek43eUF0UWwwSDJMZjlJcktuZWo3N1k?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-11-20",
+          "title": "China opposes US FCC ban on Chinese telecoms' direct access to US phone numbers - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNREJ2YWtZYUZBaVRPVzNxdU1XYnlLN1Q2WjFuOHgwMmRVOS11TWxXWFAtT0VudDRsUmd3M3pEeUp5WmlLXzNSOVJqaUZ2THRZYXNuSjlVWjdzazNuZVExNE5nQk5VUzllcUhEWXRuZmV4R1NZaHE5TU41dEhrUzNlclF2NldjMTNVRkdKV0tlSl96R3F2am9qRVhGLWJFTGZtYTRNUFFVREYwVlRTU250RUthX2U?oc=5\" target=\"_blank\">China opposes US FCC ban on Chinese telecoms' direct access to US phone numbers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNREJ2YWtZYUZBaVRPVzNxdU1XYnlLN1Q2WjFuOHgwMmRVOS11TWxXWFAtT0VudDRsUmd3M3pEeUp5WmlLXzNSOVJqaUZ2THRZYXNuSjlVWjdzazNuZVExNE5nQk5VUzllcUhEWXRuZmV4R1NZaHE5TU41dEhrUzNlclF2NldjMTNVRkdKV0tlSl96R3F2am9qRVhGLWJFTGZtYTRNUFFVREYwVlRTU250RUthX2U?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-11-22",
           "views": "13.0K"
         }
       ]
