@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T08:24:05.454Z",
+  "lastUpdated": "2026-11-26T08:08:40.950Z",
   "dailyDrops": [
     {
       "title": "오늘의 국내 AI 뉴스",
@@ -49,6 +49,14 @@
       "description": "새 모델, 칩, 성능 경쟁처럼 AI 기술 자체를 보는 관점",
       "items": [
         {
+          "title": "EXCLUSIVE: US chip curbs, distillation crackdown threaten Chinese AI model development, sources say - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQSHo5VjlHR1l4UkdCSmFGNUd6WVlZNXlwZXl6Yk5oYUFnTm9ISC1ZSWdmbi1aZ3R1b1Q3bXhpaXVoSXRaNy1hcWdSWHdCd2RFVGx6WlhYN25pZXI4Q2xHWGpQVkJYN2MwTk1ma2NERnBKTHhBUXpHSElLeFdwdEpVZFZZcWhxMm1QUEVpeHRYSXczYXNJelJTUWtHdEkxSGpud2NxeV90R0VjTXVkTmE4U0JRZWVRM1RFUmt3UGhIbw?oc=5\" target=\"_blank\">EXCLUSIVE: US chip curbs, distillation crackdown threaten Chinese AI model development, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSHo5VjlHR1l4UkdCSmFGNUd6WVlZNXlwZXl6Yk5oYUFnTm9ISC1ZSWdmbi1aZ3R1b1Q3bXhpaXVoSXRaNy1hcWdSWHdCd2RFVGx6WlhYN25pZXI4Q2xHWGpQVkJYN2MwTk1ma2NERnBKTHhBUXpHSElLeFdwdEpVZFZZcWhxMm1QUEVpeHRYSXczYXNJelJTUWtHdEkxSGpud2NxeV90R0VjTXVkTmE4U0JRZWVRM1RFUmt3UGhIbw?oc=5",
+          "source": "Reuters AI",
+          "publishedAt": "2026-11-26",
+          "views": "18.0K"
+        },
+        {
           "title": "Benchmarks don’t pay claims: Why healthcare needs more than AI models - TechCrunch",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPNV9BaXc0WXpJdkFxSzhqTG1YenhmSlJvZktRaGdvWk5QYTQ4cDRLUXpCdmZobEVYNEp2T0VqTEEwelZoYnhEWGs4RkZkcVVZeXBrNDgzYlNhajhUdHl5Q09JbW13bElyU3hibk1rSlR3ZkZxWWtRd3l2ZmxVZ1JoLTloQzJuY3NNTVNqVkNKUmMxQ1VFMEw1QWowbTFUSTdGeURhbA?oc=5\" target=\"_blank\">Benchmarks don’t pay claims: Why healthcare needs more than AI models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNV9BaXc0WXpJdkFxSzhqTG1YenhmSlJvZktRaGdvWk5QYTQ4cDRLUXpCdmZobEVYNEp2T0VqTEEwelZoYnhEWGs4RkZkcVVZeXBrNDgzYlNhajhUdHl5Q09JbW13bElyU3hibk1rSlR3ZkZxWWtRd3l2ZmxVZ1JoLTloQzJuY3NNTVNqVkNKUmMxQ1VFMEw1QWowbTFUSTdGeURhbA?oc=5",
@@ -57,19 +65,11 @@
           "views": "18.0K"
         },
         {
-          "title": "OpenAI Expands GPT-6.2 Chat, Boosts Agent and Coding Capabilities - ETNEWS",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBzM2dhZ1hVaUdBbFFfOXhKOFdya2xrS3FFbHBlOUlEVG1wOWx0YU9UeWd2d3lwVGJhYXdzR0tvVHh3X2NBSEZlZ21mVjc?oc=5\" target=\"_blank\">OpenAI Expands GPT-6.2 Chat, Boosts Agent and Coding Capabilities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBzM2dhZ1hVaUdBbFFfOXhKOFdya2xrS3FFbHBlOUlEVG1wOWx0YU9UeWd2d3lwVGJhYXdzR0tvVHh3X2NBSEZlZ21mVjc?oc=5",
+          "title": "Mercedes-Benz Korea Debuts Electric GLB, Completes 11-Model Launch Lineup - ETNEWS",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBJVGdMc3E3TGs0OGM2bmt0X3JOdk9rVWhMb2VOQV8wdUd5QjNSX0Jqc2REN2d5a2N4VVpseExLT0Qwc3kwSW9oZDVnQVc?oc=5\" target=\"_blank\">Mercedes-Benz Korea Debuts Electric GLB, Completes 11-Model Launch Lineup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBJVGdMc3E3TGs0OGM2bmt0X3JOdk9rVWhMb2VOQV8wdUd5QjNSX0Jqc2REN2d5a2N4VVpseExLT0Qwc3kwSW9oZDVnQVc?oc=5",
           "source": "전자신문",
-          "publishedAt": "2026-11-25",
-          "views": "13.0K"
-        },
-        {
-          "title": "KOSPI sinks 6% as chip outlook, US tariff concerns weigh - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNcFR6T0U3elU5TVlzOWNFc1hKdTR3NXhUaWVhWEo2VXhDYjdhU0dfLThCbUFpbUFtcTZFSmFJeWd5YUVoUjRIcUhabVBxRnliOW5BSTZRaTg4ZnNkX1Yycl9UQVViWjhZa1AyZ1VaNFZyaUtvMDRCRVctZDg0ODVFNHIzS0FpMFMxTGJxeklFVzRIblhuSWRYSW5Ta3FNZ052ZXfSAacBQVVfeXFMTloyUkFEZXI4ZVkzVTFtZ1ZTZExOa3Z5MWpIRHZjdHY2c09EZ05EbkFXWXpLZHpFeFJNOENvekhoVVFXNllOZHQ3OVJ2cnJhbW5sWlBodDN5VGNUc1paVlJuTmJxNVhXMG5Ra0lwRThOQ2ptckVURk1KandmakljaTk2Q3pCMEppVVpmZkdHQ1dicVZXaks3cUNMS1pzUjRFSklWeWRfQlU?oc=5\" target=\"_blank\">KOSPI sinks 6% as chip outlook, US tariff concerns weigh</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcFR6T0U3elU5TVlzOWNFc1hKdTR3NXhUaWVhWEo2VXhDYjdhU0dfLThCbUFpbUFtcTZFSmFJeWd5YUVoUjRIcUhabVBxRnliOW5BSTZRaTg4ZnNkX1Yycl9UQVViWjhZa1AyZ1VaNFZyaUtvMDRCRVctZDg0ODVFNHIzS0FpMFMxTGJxeklFVzRIblhuSWRYSW5Ta3FNZ052ZXfSAacBQVVfeXFMTloyUkFEZXI4ZVkzVTFtZ1ZTZExOa3Z5MWpIRHZjdHY2c09EZ05EbkFXWXpLZHpFeFJNOENvekhoVVFXNllOZHQ3OVJ2cnJhbW5sWlBodDN5VGNUc1paVlJuTmJxNVhXMG5Ra0lwRThOQ2ptckVURk1KandmakljaTk2Q3pCMEppVVpmZkdHQ1dicVZXaks3cUNMS1pzUjRFSklWeWRfQlU?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-11-25",
+          "publishedAt": "2026-11-26",
           "views": "13.0K"
         }
       ]
@@ -80,28 +80,28 @@
       "description": "AI가 실제 업무와 서비스에 어떻게 들어가는지 보는 관점",
       "items": [
         {
-          "title": "Vero launches free AI security community as enterprises confront the work of governing agents - VentureBeat",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOeHlEelMtTXdmMzJOYmhiSnpwNFdHQUtza2NNNW1rSWVTQkVtSW1YblUyYXgxRVpOVlpYYkpVMTdWamQwb2Y3cWUxTlFxcEhMbzZONEJ1aGhONWd0cWR1TzM4NVpmNkw4SnZnSlJwQnlFSV81LVNEaER2S0YtcFdUYWlPSXpRRTBOVHZoZ3JoZElMY3NKNF9vc2kwN1RWQWxsSGswT3RNSUszak00SDdZd2FPaGh0S0owTUtIU21nVWxpb21N?oc=5\" target=\"_blank\">Vero launches free AI security community as enterprises confront the work of governing agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeHlEelMtTXdmMzJOYmhiSnpwNFdHQUtza2NNNW1rSWVTQkVtSW1YblUyYXgxRVpOVlpYYkpVMTdWamQwb2Y3cWUxTlFxcEhMbzZONEJ1aGhONWd0cWR1TzM4NVpmNkw4SnZnSlJwQnlFSV81LVNEaER2S0YtcFdUYWlPSXpRRTBOVHZoZ3JoZElMY3NKNF9vc2kwN1RWQWxsSGswT3RNSUszak00SDdZd2FPaGh0S0owTUtIU21nVWxpb21N?oc=5",
+          "title": "[INTERVIEW] AIcLude builds AI agents for everyday business tasks - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQQlppWnBPY29FSHBTQ0h4Uzk3Tm16cElIOVZEbkVVcFFzLTV5emdWaG9MTlQtZG5QUmtkZHJ5UF83dGQxdmF0a3BFRmJIWGtwcU5VaHJlN3otX2FPb2ZTU0FzWjhWMk9UZ19xQ0ZtY2JTSkRLVWlKX2l6WGkwM2tmUmczdGttOWpjVU5MaEpqSkdQdXZtU1RqQlg2WXNqR2REVnlqUUN6TEdkU1VsODZsczFQSdIBswFBVV95cUxQQlppWnBPY29FSHBTQ0h4Uzk3Tm16cElIOVZEbkVVcFFzLTV5emdWaG9MTlQtZG5QUmtkZHJ5UF83dGQxdmF0a3BFRmJIWGtwcU5VaHJlN3otX2FPb2ZTU0FzWjhWMk9UZ19xQ0ZtY2JTSkRLVWlKX2l6WGkwM2tmUmczdGttOWpjVU5MaEpqSkdQdXZtU1RqQlg2WXNqR2REVnlqUUN6TEdkU1VsODZsczFQSQ?oc=5\" target=\"_blank\">[INTERVIEW] AIcLude builds AI agents for everyday business tasks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQlppWnBPY29FSHBTQ0h4Uzk3Tm16cElIOVZEbkVVcFFzLTV5emdWaG9MTlQtZG5QUmtkZHJ5UF83dGQxdmF0a3BFRmJIWGtwcU5VaHJlN3otX2FPb2ZTU0FzWjhWMk9UZ19xQ0ZtY2JTSkRLVWlKX2l6WGkwM2tmUmczdGttOWpjVU5MaEpqSkdQdXZtU1RqQlg2WXNqR2REVnlqUUN6TEdkU1VsODZsczFQSdIBswFBVV95cUxQQlppWnBPY29FSHBTQ0h4Uzk3Tm16cElIOVZEbkVVcFFzLTV5emdWaG9MTlQtZG5QUmtkZHJ5UF83dGQxdmF0a3BFRmJIWGtwcU5VaHJlN3otX2FPb2ZTU0FzWjhWMk9UZ19xQ0ZtY2JTSkRLVWlKX2l6WGkwM2tmUmczdGttOWpjVU5MaEpqSkdQdXZtU1RqQlg2WXNqR2REVnlqUUN6TEdkU1VsODZsczFQSQ?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-11-26",
+          "views": "13.0K"
+        },
+        {
+          "title": "OpenAI Expands GPT-6.2 Chat, Boosts Agent and Coding Capabilities - ETNEWS",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTFBzM2dhZ1hVaUdBbFFfOXhKOFdya2xrS3FFbHBlOUlEVG1wOWx0YU9UeWd2d3lwVGJhYXdzR0tvVHh3X2NBSEZlZ21mVjc?oc=5\" target=\"_blank\">OpenAI Expands GPT-6.2 Chat, Boosts Agent and Coding Capabilities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBzM2dhZ1hVaUdBbFFfOXhKOFdya2xrS3FFbHBlOUlEVG1wOWx0YU9UeWd2d3lwVGJhYXdzR0tvVHh3X2NBSEZlZ21mVjc?oc=5",
+          "source": "전자신문",
+          "publishedAt": "2026-11-25",
+          "views": "13.0K"
+        },
+        {
+          "title": "MCP servers can now deliver AI agent skills, changing what companies approve when they connect one - VentureBeat",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNS0VjTnRXOWNYWjBfbXlPSnZfV1pBX1RIZnRxcU9la0I2NU1QVzdhZ0lMRExmQUlpNUgwQktub0ZYSG15czE5bzBTaVNBXy1sRGVyQnRHcVdnTXl3aW96S0NScEczQ3pFODZiV1czdm5HdExPbDhTLTlNYVpScFRyMzgzTkNhbE84blNkZTZ1Q3F6dUtMZjVnbGRGZnI5Z2ZWTHh6RWdGRy1NNG43UXN1ZlY0OEVNLTh1NTEzZUhBMXEzZnZOeUpsY2FzTkY?oc=5\" target=\"_blank\">MCP servers can now deliver AI agent skills, changing what companies approve when they connect one</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">VentureBeat</font>",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS0VjTnRXOWNYWjBfbXlPSnZfV1pBX1RIZnRxcU9la0I2NU1QVzdhZ0lMRExmQUlpNUgwQktub0ZYSG15czE5bzBTaVNBXy1sRGVyQnRHcVdnTXl3aW96S0NScEczQ3pFODZiV1czdm5HdExPbDhTLTlNYVpScFRyMzgzTkNhbE84blNkZTZ1Q3F6dUtMZjVnbGRGZnI5Z2ZWTHh6RWdGRy1NNG43UXN1ZlY0OEVNLTh1NTEzZUhBMXEzZnZOeUpsY2FzTkY?oc=5",
           "source": "VentureBeat AI",
-          "publishedAt": "2026-11-18",
-          "views": "18.0K"
-        },
-        {
-          "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents - TechCrunch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPNDhZOGpwX3RiS2x2ZVhyeWlnNTh3ZVVyS29rTnZIQ0ZqZHJfcUdjLVh4a19WNEc4dlp4TWhHcS1uQlVPb0tSZHVnTEhfZ0RTa0xLU2RyZ3IySUpFdFFlek9KNFVjU1B0b1dJVlhERWQxTUlHZUtnbVpHaTBjc0J2SWdtWGRSbGxjLUN5a3NRS0MyQWQ5YldXWk1GNnpVMDUyQkNra21ldEFUdFFsRUNoX3NxaGs5Q3NrMzMxV293?oc=5\" target=\"_blank\">Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNDhZOGpwX3RiS2x2ZVhyeWlnNTh3ZVVyS29rTnZIQ0ZqZHJfcUdjLVh4a19WNEc4dlp4TWhHcS1uQlVPb0tSZHVnTEhfZ0RTa0xLU2RyZ3IySUpFdFFlek9KNFVjU1B0b1dJVlhERWQxTUlHZUtnbVpHaTBjc0J2SWdtWGRSbGxjLUN5a3NRS0MyQWQ5YldXWk1GNnpVMDUyQkNra21ldEFUdFFsRUNoX3NxaGs5Q3NrMzMxV293?oc=5",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-11-18",
-          "views": "18.0K"
-        },
-        {
-          "title": "AI agents just doubled inside the enterprise. Confidence rose faster than control did - TechCrunch",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOFdlZ2J6R0MydjAzYVJFTkZ2cjZ1WnpzVGNQWFpBUXNTZWpjYW5XZGE5UkdDaHlaMW9BUmx5dENNZXdjSUJFbGZoWlJXd0kxeGYxZFNyNUo0MmwxM1hvbDNTZ2J1YkZ2bDFvUHhmY3BRRE1Td1p5MnZKMGZ1ZTd1dmF2Q1VCaEJPbmVhUk5qMGNFblJyMXJONXktMHIzcUM3SkRmbFBWUHR4cWNfWU9wa2FwcjZKQy00NVlVRjVKZ1JiYWM?oc=5\" target=\"_blank\">AI agents just doubled inside the enterprise. Confidence rose faster than control did</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechCrunch</font>",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOFdlZ2J6R0MydjAzYVJFTkZ2cjZ1WnpzVGNQWFpBUXNTZWpjYW5XZGE5UkdDaHlaMW9BUmx5dENNZXdjSUJFbGZoWlJXd0kxeGYxZFNyNUo0MmwxM1hvbDNTZ2J1YkZ2bDFvUHhmY3BRRE1Td1p5MnZKMGZ1ZTd1dmF2Q1VCaEJPbmVhUk5qMGNFblJyMXJONXktMHIzcUM3SkRmbFBWUHR4cWNfWU9wa2FwcjZKQy00NVlVRjVKZ1JiYWM?oc=5",
-          "source": "TechCrunch AI",
-          "publishedAt": "2026-11-18",
-          "views": "18.0K"
+          "publishedAt": "2026-11-25",
+          "views": "13.0K"
         }
       ]
     },
@@ -119,19 +119,19 @@
           "views": "18.0K"
         },
         {
-          "title": "Democratic lawmakers probe DOJ filing in OpenAI copyright case - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQX0VWaEFiUEFOcHNfVGRIZ0t1V3dqQlFyc1VWNDVyNzN1Vk1GT0NGME1uQTlXMllfaEFjcWlGMU4zV2RVRXkxQWxKNEtrVFFuSjBMRjV2aXpqX0Z4NlQ2T0M4cldUcGZHNHJMbWFXeUgwM1JXN2NfVTlDaUZnVWE1MFotNllYQnhsWklLN096OExQT1RfMzRrY2diZkZrdFpkTE9jaVFsMTZkUWtNWGdSLWRR?oc=5\" target=\"_blank\">Democratic lawmakers probe DOJ filing in OpenAI copyright case</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX0VWaEFiUEFOcHNfVGRIZ0t1V3dqQlFyc1VWNDVyNzN1Vk1GT0NGME1uQTlXMllfaEFjcWlGMU4zV2RVRXkxQWxKNEtrVFFuSjBMRjV2aXpqX0Z4NlQ2T0M4cldUcGZHNHJMbWFXeUgwM1JXN2NfVTlDaUZnVWE1MFotNllYQnhsWklLN096OExQT1RfMzRrY2diZkZrdFpkTE9jaVFsMTZkUWtNWGdSLWRR?oc=5",
+          "title": "Fed policymakers at odds over causes of high inflation - Reuters",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2Vtdjdia2xUaVF5bWxRSVlPUTZjc1JmWG9Uam1QSHpNcXZuREdQVmRyX2hkNEtMbWhFd1VFb3l6QVJGYkJHZlZXUDJLVlM4cDdDR0RSVTRPMmZaUHAtMlhtSDlQeFF4UGJadUhrQmhlaWlJT1cwSG9IRnF1cC1COEtKdTBsUWVsXzhkYWhUWHNKTjJsUVJuNw?oc=5\" target=\"_blank\">Fed policymakers at odds over causes of high inflation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2Vtdjdia2xUaVF5bWxRSVlPUTZjc1JmWG9Uam1QSHpNcXZuREdQVmRyX2hkNEtMbWhFd1VFb3l6QVJGYkJHZlZXUDJLVlM4cDdDR0RSVTRPMmZaUHAtMlhtSDlQeFF4UGJadUhrQmhlaWlJT1cwSG9IRnF1cC1COEtKdTBsUWVsXzhkYWhUWHNKTjJsUVJuNw?oc=5",
           "source": "Reuters AI",
-          "publishedAt": "2026-11-19",
+          "publishedAt": "2026-11-25",
           "views": "18.0K"
         },
         {
-          "title": "Yoon & Yang lawyer wins ALB Young Lawyer of the Year award for cross-border IP work - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQXlLOEZiRnBGaThpWXBQQ1hQUzRsQ0I0OUNab2lreGpJTzlxSlRyMzZIS29zWkNfd1g3bERtMlRHUkQzTnJpNjN1WU5KN1BudXREN01uVjUtaFM0cmh0RUZfYUVlamJFekJLUkNoemdxOEFaaEZsX21MbHVXMmQtUzN5Q01UcE04MDNTT0U5SGdTakNrNFR3aVRVTHFpOGk1bDNNd056Z210MTZHMmJMZjZXR29Wd3FZMnVtSDhvTFE5VTYwenhVYnhkTWRIZ3BnNElKcXJmeWxLRVHSAeABQVVfeXFMT0NLWGJ4WG96bkxHUy1hbV9XZ19ZcmNQS0hWNE9qdFR5UkJuMTFyRW5Fa2UzWkFLQnl3VzJOUTdRekxqMVA5WFgxVXNGLVZiMm45bVlPbkUzUFJJajh4dkUyTDE3MHU0S1FSM211M25XbTctQURFVVFRY3Q2OUROSTh5ZE5XTkE2QkNoMUdrOHBjQWZQTHF5TFgzbUVrZ0ZkS0NnaWxZTFI0eG4xYk9kdkNBUE8wUW51RDJiR0hHc0VvRWJNR0xkZkdNZDZpbWRMdk5fdllwQWNTdmFVTXowT1Q?oc=5\" target=\"_blank\">Yoon & Yang lawyer wins ALB Young Lawyer of the Year award for cross-border IP work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQXlLOEZiRnBGaThpWXBQQ1hQUzRsQ0I0OUNab2lreGpJTzlxSlRyMzZIS29zWkNfd1g3bERtMlRHUkQzTnJpNjN1WU5KN1BudXREN01uVjUtaFM0cmh0RUZfYUVlamJFekJLUkNoemdxOEFaaEZsX21MbHVXMmQtUzN5Q01UcE04MDNTT0U5SGdTakNrNFR3aVRVTHFpOGk1bDNNd056Z210MTZHMmJMZjZXR29Wd3FZMnVtSDhvTFE5VTYwenhVYnhkTWRIZ3BnNElKcXJmeWxLRVHSAeABQVVfeXFMT0NLWGJ4WG96bkxHUy1hbV9XZ19ZcmNQS0hWNE9qdFR5UkJuMTFyRW5Fa2UzWkFLQnl3VzJOUTdRekxqMVA5WFgxVXNGLVZiMm45bVlPbkUzUFJJajh4dkUyTDE3MHU0S1FSM211M25XbTctQURFVVFRY3Q2OUROSTh5ZE5XTkE2QkNoMUdrOHBjQWZQTHF5TFgzbUVrZ0ZkS0NnaWxZTFI0eG4xYk9kdkNBUE8wUW51RDJiR0hHc0VvRWJNR0xkZkdNZDZpbWRMdk5fdllwQWNTdmFVTXowT1Q?oc=5",
+          "title": "FM Cho calls for bipartisan support for foreign policy ahead of departure - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQdE5Obm1uZ3N5SXcwQ3lBRWZrWi10N0h3YWRXYjlRTG5lVGR5WUFFQ3VkbGlIOEU2T0hIdHlhRzdSWlJEVG5fOVQ2SFFMU2g3VmJ4SWtNRmkzWW9MbGcxckdiUXVnUDhJR2tFQVNYZTNKZl9sRFJVS2NQSXdCOWFiT1p5T0tWNW52djk3RGlVMXN2UWVXYzBqTHEyVF8yekNZQXlYZXYtRU56NmlwX1VzX1IxQUkxS016R0xEdEpDTHdZUldjNjNwX3NxMNIB0AFBVV95cUxNVFNjM1FfeHgtQUtkVm96bzNNMy0xQnhZbWVDUk11LTE2X1VFaDZ5d3RUdHNrdGJEaS1fM081clZ6RTROLThRNGlYNExUaTN3bWxiR2JiUUpJUkVnSS1EbXdSSURpSlJ5WHo2THRJeUp6ZGtZdkZMWHNZMWVybTR6em1OVUFxenN2S1FUdlRBWHIyT1hoN3NWVlVOblBydENnT0dpZ0NwRGVvVVg3SEVQclFuMFpWTjRia3FWcnc1ZGxHT0l3Y1pCUThoZjA5clVZ?oc=5\" target=\"_blank\">FM Cho calls for bipartisan support for foreign policy ahead of departure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdE5Obm1uZ3N5SXcwQ3lBRWZrWi10N0h3YWRXYjlRTG5lVGR5WUFFQ3VkbGlIOEU2T0hIdHlhRzdSWlJEVG5fOVQ2SFFMU2g3VmJ4SWtNRmkzWW9MbGcxckdiUXVnUDhJR2tFQVNYZTNKZl9sRFJVS2NQSXdCOWFiT1p5T0tWNW52djk3RGlVMXN2UWVXYzBqTHEyVF8yekNZQXlYZXYtRU56NmlwX1VzX1IxQUkxS016R0xEdEpDTHdZUldjNjNwX3NxMNIB0AFBVV95cUxNVFNjM1FfeHgtQUtkVm96bzNNMy0xQnhZbWVDUk11LTE2X1VFaDZ5d3RUdHNrdGJEaS1fM081clZ6RTROLThRNGlYNExUaTN3bWxiR2JiUUpJUkVnSS1EbXdSSURpSlJ5WHo2THRJeUp6ZGtZdkZMWHNZMWVybTR6em1OVUFxenN2S1FUdlRBWHIyT1hoN3NWVlVOblBydENnT0dpZ0NwRGVvVVg3SEVQclFuMFpWTjRia3FWcnc1ZGxHT0l3Y1pCUThoZjA5clVZ?oc=5",
           "source": "The Korea Times",
-          "publishedAt": "2026-11-25",
+          "publishedAt": "2026-11-26",
           "views": "13.0K"
         }
       ]
@@ -143,8 +143,8 @@
       "items": [
         {
           "title": "Seoul launches green bio hub to connect startups with investors, global markets - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdDBzNjhYVGxYdHNwckRyT2ROY1VHUFIwV2pvQUJQWmVZVmR2MXJhZFI3ZTBoN1hJSHFEV2lPejQxNVhiSy16cUNOZlhJSlZIbFN5N3BOWm5oVzZtc3pPRFAzZE8zX2R5RGswb1F2a1hfYmtXOU9aeHNhckFzeFI1Y2tBbEV2cTkyN25Td3l1eWpqM2FtdlM5OGVJR2I1TDlkNG52T0JqT0dDVGpiQ0R2TUxWajc1S3JsY2JaNG1sOTJBUmZfRlFuV2FvRFY0d0Q4RzZnd9IB1AFBVV95cUxPdDBzNjhYVGxYdHNwckRyT2ROY1VHUFIwV2pvQUJQWmVZVmR2MXJhZFI3ZTBoN1hJSHFEV2lPejQxNVhiSy16cUNOZlhJSlZIbFN5N3BOWm5oVzZtc3pPRFAzZE8zX2R5RGswb1F2a1hfYmtXOU9aeHNhckFzeFI1Y2tBbEV2cTkyN25Td3l1eWpqM2FtdlM5OGVJR2I1TDlkNG52T0JqT0dDVGpiQ0R2TUxWajc1S3JsY2JaNG1sOTJBUmZfRlFuV2FvRFY0d0Q4RzZndw?oc=5\" target=\"_blank\">Seoul launches green bio hub to connect startups with investors, global markets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdDBzNjhYVGxYdHNwckRyT2ROY1VHUFIwV2pvQUJQWmVZVmR2MXJhZFI3ZTBoN1hJSHFEV2lPejQxNVhiSy16cUNOZlhJSlZIbFN5N3BOWm5oVzZtc3pPRFAzZE8zX2R5RGswb1F2a1hfYmtXOU9aeHNhckFzeFI1Y2tBbEV2cTkyN25Td3l1eWpqM2FtdlM5OGVJR2I1TDlkNG52T0JqT0dDVGpiQ0R2TUxWajc1S3JsY2JaNG1sOTJBUmZfRlFuV2FvRFY0d0Q4RzZnd9IB1AFBVV95cUxPdDBzNjhYVGxYdHNwckRyT2ROY1VHUFIwV2pvQUJQWmVZVmR2MXJhZFI3ZTBoN1hJSHFEV2lPejQxNVhiSy16cUNOZlhJSlZIbFN5N3BOWm5oVzZtc3pPRFAzZE8zX2R5RGswb1F2a1hfYmtXOU9aeHNhckFzeFI1Y2tBbEV2cTkyN25Td3l1eWpqM2FtdlM5OGVJR2I1TDlkNG52T0JqT0dDVGpiQ0R2TUxWajc1S3JsY2JaNG1sOTJBUmZfRlFuV2FvRFY0d0Q4RzZndw?oc=5",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ3o0QVA2WEtFakhxbzBwVHoyd3oyMDFrWTBPeXFjbm5WeXZWN2tZelVoSXk4VHVhajlzNWFrdVd5SW1VQUUwZG5OeDVqbnpYZ2s1eVVHZHhMRzdLcTVUOTk1V0J0Y01PSUR6Z3FkOVkzSWlWZDlWTzRxRTc1SEZ6emhtaGR1VUxCZWRCNlMyVnBwSWdMV2NXNTkzSFlzeUtSNjUzaHgtZ19HRm5vNXhvLXNHRHlPNnpuMWQtYUp2S3VEY0dKQ1Jxck84bnNtRkXSAdQBQVVfeXFMT3QwczY4WFRsWHRzcHJEck9kTmNVR1BSMFdqb0FCUFplWVZkdjFyYWRSN2UwaDdYSUhxRFdpT3o0MTVYYkstenFDTmZYSUpWSGxTeTdwTlpuaFc2bXN6T0RQM2RPM19keURrMG9RdmtYX2JrVzlPWnhzYXJBc3hSNWNrQWxFdnE5MjduU3d5dXlqajNhbXZTOThlSUdiNUw5ZDRudk9Cak9HQ1RqYkNEdk1MVmo3NUtybGNiWjRtbDkyQVJmX0ZRbldhb0RWNHdEOEc2Z3c?oc=5\" target=\"_blank\">Seoul launches green bio hub to connect startups with investors, global markets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ3o0QVA2WEtFakhxbzBwVHoyd3oyMDFrWTBPeXFjbm5WeXZWN2tZelVoSXk4VHVhajlzNWFrdVd5SW1VQUUwZG5OeDVqbnpYZ2s1eVVHZHhMRzdLcTVUOTk1V0J0Y01PSUR6Z3FkOVkzSWlWZDlWTzRxRTc1SEZ6emhtaGR1VUxCZWRCNlMyVnBwSWdMV2NXNTkzSFlzeUtSNjUzaHgtZ19HRm5vNXhvLXNHRHlPNnpuMWQtYUp2S3VEY0dKQ1Jxck84bnNtRkXSAdQBQVVfeXFMT3QwczY4WFRsWHRzcHJEck9kTmNVR1BSMFdqb0FCUFplWVZkdjFyYWRSN2UwaDdYSUhxRFdpT3o0MTVYYkstenFDTmZYSUpWSGxTeTdwTlpuaFc2bXN6T0RQM2RPM19keURrMG9RdmtYX2JrVzlPWnhzYXJBc3hSNWNrQWxFdnE5MjduU3d5dXlqajNhbXZTOThlSUdiNUw5ZDRudk9Cak9HQ1RqYkNEdk1MVmo3NUtybGNiWjRtbDkyQVJmX0ZRbldhb0RWNHdEOEc2Z3c?oc=5",
           "source": "The Korea Times",
           "publishedAt": "2026-11-23",
           "views": "18.0K"
@@ -159,8 +159,8 @@
         },
         {
           "title": "Korean tourism startups court North American market at US industry showcase - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWVdhSDBoOGx3amJVX2JxUG9ORnBabVEzWVVORWZrYU16clp3dDJMSHJmY3VOTVB2a3hzaXoxX2F5amlrTEZWOTk1RTBidXVaUlJqMHduV3R3UURoOEp4aXZjUUphZmRlMW9wajIxdllVdGE0bnBIUUs1ZFliZ0FBaGlvMU5ibDRpTlJCRjFmMWYwTzBlX1pDZmMzN0lCdFowRWM0eXpmU21tUzFuM1FadXRGSllhLXJmS3Judzg1cUFiZnV2d2h6THkwZjBwNjA1ekxVVzg5aGJMZW1IRGdDQTlyaGrSAdYBQVVfeXFMTmhBdTBFbnc5anlYN2thM2pqX09jZjdRZEphWGJBUHVKcnBXVlQwby0yVG1sSWFWM2NvSUN4ZVBmUkUxckx5QW53TkZKaUJaelFMSk1UdHBaVFkyUUdqaW1RNFEydzdaNEwzeUF0UTk2cWhzbEZWYzhReHQ2WWpRc21OMnI5Q25ZOTY5NmZHcmdMVGg0eUtUVmh6YXNMRHVqcDRHMWMzRkVEWmxuSE1JaU1sYnE3enpObzVELTJKYUc3bHRCekk1MHVJSmMzUUxqT20teU9vZw?oc=5\" target=\"_blank\">Korean tourism startups court North American market at US industry showcase</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWVdhSDBoOGx3amJVX2JxUG9ORnBabVEzWVVORWZrYU16clp3dDJMSHJmY3VOTVB2a3hzaXoxX2F5amlrTEZWOTk1RTBidXVaUlJqMHduV3R3UURoOEp4aXZjUUphZmRlMW9wajIxdllVdGE0bnBIUUs1ZFliZ0FBaGlvMU5ibDRpTlJCRjFmMWYwTzBlX1pDZmMzN0lCdFowRWM0eXpmU21tUzFuM1FadXRGSllhLXJmS3Judzg1cUFiZnV2d2h6THkwZjBwNjA1ekxVVzg5aGJMZW1IRGdDQTlyaGrSAdYBQVVfeXFMTmhBdTBFbnc5anlYN2thM2pqX09jZjdRZEphWGJBUHVKcnBXVlQwby0yVG1sSWFWM2NvSUN4ZVBmUkUxckx5QW53TkZKaUJaelFMSk1UdHBaVFkyUUdqaW1RNFEydzdaNEwzeUF0UTk2cWhzbEZWYzhReHQ2WWpRc21OMnI5Q25ZOTY5NmZHcmdMVGg0eUtUVmh6YXNMRHVqcDRHMWMzRkVEWmxuSE1JaU1sYnE3enpObzVELTJKYUc3bHRCekk1MHVJSmMzUUxqT20teU9vZw?oc=5",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUVZMeGU5anlpVW80dWFaTDZ5Vi0yR0xOamtFMVlLNFZQWUl2SnJxNk9WQm5HNkxYS2J1ZVFidGJMbHg3T0hHNWNtZzRqRktNRlNwQzBmSWRsWkw2ZUF4WExNRlc3VVFJdjNnUGlSV1dIRmRqUU5EdHY4Zjk3b1BneFExTUgyM0JUUnNMbXE3NEIzdDk2aEMtc0ljZUxtSF9GMzJadVdZajJCM0E3dVRnaWdKcUdOTlpYQ0hPaUhLblY3SFFZMkFaUkdPQjk5NGxS0gHWAUFVX3lxTE5oQXUwRW53OWp5WDdrYTNqal9PY2Y3UWRKYVhiQVB1SnJwV1ZUMG8tMlRtbElhVjNjb0lDeGVQZlJFMXJMeUFud05GSmlCWnpRTEpNVHRwWlRZMlFHamltUTRRMnc3WjRMM3lBdFE5NnFoc2xGVmM4UXh0NllqUXNtTjJyOUNuWTk2OTZmR3JnTFRoNHlLVFZoemFzTER1anA0RzFjM0ZFRFpsbkhNSWlNbGJxN3p6Tm81RC0ySmFHN2x0QnpJNTB1SUpjM1FMak9tLXlPb2c?oc=5\" target=\"_blank\">Korean tourism startups court North American market at US industry showcase</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUVZMeGU5anlpVW80dWFaTDZ5Vi0yR0xOamtFMVlLNFZQWUl2SnJxNk9WQm5HNkxYS2J1ZVFidGJMbHg3T0hHNWNtZzRqRktNRlNwQzBmSWRsWkw2ZUF4WExNRlc3VVFJdjNnUGlSV1dIRmRqUU5EdHY4Zjk3b1BneFExTUgyM0JUUnNMbXE3NEIzdDk2aEMtc0ljZUxtSF9GMzJadVdZajJCM0E3dVRnaWdKcUdOTlpYQ0hPaUhLblY3SFFZMkFaUkdPQjk5NGxS0gHWAUFVX3lxTE5oQXUwRW53OWp5WDdrYTNqal9PY2Y3UWRKYVhiQVB1SnJwV1ZUMG8tMlRtbElhVjNjb0lDeGVQZlJFMXJMeUFud05GSmlCWnpRTEpNVHRwWlRZMlFHamltUTRRMnc3WjRMM3lBdFE5NnFoc2xGVmM4UXh0NllqUXNtTjJyOUNuWTk2OTZmR3JnTFRoNHlLVFZoemFzTER1anA0RzFjM0ZFRFpsbkhNSWlNbGJxN3p6Tm81RC0ySmFHN2x0QnpJNTB1SUpjM1FMak9tLXlPb2c?oc=5",
           "source": "The Korea Times",
           "publishedAt": "2026-11-20",
           "views": "18.0K"
@@ -173,27 +173,27 @@
       "description": "어떤 산업이 AI를 먼저 가져가고 있는지 보는 관점",
       "items": [
         {
+          "title": "China's Appliance Industry Rises as 'Made in China' Sheds Low-Cost Image - ETNEWS",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE1jNGhEVnQxNjdCYzYxRDFPUkRGYkF2TlRqaVNNRHp2RVVBbzQ1bjJCalVpZnZmWGg1a0JQaVFNT1FOR3RDMWFIZy1ySWU?oc=5\" target=\"_blank\">China's Appliance Industry Rises as 'Made in China' Sheds Low-Cost Image</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ETNEWS</font>",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1jNGhEVnQxNjdCYzYxRDFPUkRGYkF2TlRqaVNNRHp2RVVBbzQ1bjJCalVpZnZmWGg1a0JQaVFNT1FOR3RDMWFIZy1ySWU?oc=5",
+          "source": "전자신문",
+          "publishedAt": "2026-11-26",
+          "views": "13.0K"
+        },
+        {
+          "title": "North Korea's Kim urges wider tactical nuclear weapons deployment on facility tour, KCNA says - The Korea Times",
+          "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMFlZenRBbUlDb29TRTBRdlFydTd6UGRaWnVhREU5VVlFcnR1cUZEekpXQ0Y2MFFYOWYtN21uV1ZvLVA4SVdXaXRpN1c0SUJ2Z2xNRkZlQmRQRWt5MnV1TW44ODhXeG9LeHl0di1YRFY4RHc5OGZvenBBWWY0VTE4bGcyeEhsbTloR3pVY3JseWh6NmtILW1vYXZqMWh6ZlhaTE9xT3ZyMUlJU1FPaGp0bUI3bENLTHRkZkNyRXdueHo2cm5qZUtqX0gwaUVLWVlUR2poYTllX1BsazdscmFRaUEzWGllUnl1UkZJ0gHwAUFVX3lxTE8zRTFNQ1A5emdJSGlNdG1UcmdyR0dETFFZa3MyQWJjeHdtdy1DeENCRkNVZHBOdmZYdTIyeVJ1NkxORV85UVNXZ2QzVDQ1VndiemtXbE96aEd1S1JwLW00OGJmaUdxSHk5VlpLc0VtOTlmZ1JicnlJbU5adjNnT1ZRYTcySVNpUjU0Z0VQdUJ2RWJ3RFpHamM2ZXlRN3M4RGhBVVdRNUI2YU8zX1hXZUs0VUlqNDBQY0hDb1p5TnZZeWdNVDR5TkdDSTJ2alZHWTY5c1I2N1pxN3lWRHJNbHRUbTVOZmc2ZTVnelB4UE1mUw?oc=5\" target=\"_blank\">North Korea's Kim urges wider tactical nuclear weapons deployment on facility tour, KCNA says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMFlZenRBbUlDb29TRTBRdlFydTd6UGRaWnVhREU5VVlFcnR1cUZEekpXQ0Y2MFFYOWYtN21uV1ZvLVA4SVdXaXRpN1c0SUJ2Z2xNRkZlQmRQRWt5MnV1TW44ODhXeG9LeHl0di1YRFY4RHc5OGZvenBBWWY0VTE4bGcyeEhsbTloR3pVY3JseWh6NmtILW1vYXZqMWh6ZlhaTE9xT3ZyMUlJU1FPaGp0bUI3bENLTHRkZkNyRXdueHo2cm5qZUtqX0gwaUVLWVlUR2poYTllX1BsazdscmFRaUEzWGllUnl1UkZJ0gHwAUFVX3lxTE8zRTFNQ1A5emdJSGlNdG1UcmdyR0dETFFZa3MyQWJjeHdtdy1DeENCRkNVZHBOdmZYdTIyeVJ1NkxORV85UVNXZ2QzVDQ1VndiemtXbE96aEd1S1JwLW00OGJmaUdxSHk5VlpLc0VtOTlmZ1JicnlJbU5adjNnT1ZRYTcySVNpUjU0Z0VQdUJ2RWJ3RFpHamM2ZXlRN3M4RGhBVVdRNUI2YU8zX1hXZUs0VUlqNDBQY0hDb1p5TnZZeWdNVDR5TkdDSTJ2alZHWTY5c1I2N1pxN3lWRHJNbHRUbTVOZmc2ZTVnelB4UE1mUw?oc=5",
+          "source": "The Korea Times",
+          "publishedAt": "2026-11-26",
+          "views": "13.0K"
+        },
+        {
           "title": "Hyundai Motor Group unveils unified EV charger ahead of 2027 global rollout - The Korea Times",
           "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNS2wybHl1dG9mR1hIZHlqZ0ZFV1ZPWlVta0FWVGFnankwSU12bVpBanQ1aERWSW5nYjVDeGtNbHlGSDRkQ1JHbmI1RGI2UXJ1ZGEtUWQzYUxnR0NyRmdXUkZET1Jtd2hDRGRQQkpPb2RJZXhjWVRhM01YMHM5QVZhWnNHOWhUcUxYTTloNnJtanBuNHc5MjNJSFY5RTVxMzYzLTRSSkxPUVVtdTVQcjRkVHZ5aEZweVJIeXhOR1V4dWhiTjNRNTI5N0NCYzTSAdIBQVVfeXFMT1VYdk53UjN5MVpNTXNsTEhUcllRWmhYQzZOWmt5VXRzT0x5aEM3YUhKcXY5eUE0Rlc1MFNVU3BwdUZpWXMwLXRQcnREQmV2cXpiblUxR3RFVTF6OEdKNl9lU2RhN3FIT1Q0Q0x3NmJIWTJoMHlfTkc0T3ZaM2xWX0M1bmtyNEdDUjRaTFlmN2V1eGl2V3NFMWRWWnpwR0dZbGNnRkprRkltUy1mZ1V1MjJKU0g4U2t6U2RsWUFkUEZkUDMyaklBazhnbTBUSThvMDB3?oc=5\" target=\"_blank\">Hyundai Motor Group unveils unified EV charger ahead of 2027 global rollout</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS2wybHl1dG9mR1hIZHlqZ0ZFV1ZPWlVta0FWVGFnankwSU12bVpBanQ1aERWSW5nYjVDeGtNbHlGSDRkQ1JHbmI1RGI2UXJ1ZGEtUWQzYUxnR0NyRmdXUkZET1Jtd2hDRGRQQkpPb2RJZXhjWVRhM01YMHM5QVZhWnNHOWhUcUxYTTloNnJtanBuNHc5MjNJSFY5RTVxMzYzLTRSSkxPUVVtdTVQcjRkVHZ5aEZweVJIeXhOR1V4dWhiTjNRNTI5N0NCYzTSAdIBQVVfeXFMT1VYdk53UjN5MVpNTXNsTEhUcllRWmhYQzZOWmt5VXRzT0x5aEM3YUhKcXY5eUE0Rlc1MFNVU3BwdUZpWXMwLXRQcnREQmV2cXpiblUxR3RFVTF6OEdKNl9lU2RhN3FIT1Q0Q0x3NmJIWTJoMHlfTkc0T3ZaM2xWX0M1bmtyNEdDUjRaTFlmN2V1eGl2V3NFMWRWWnpwR0dZbGNnRkprRkltUy1mZ1V1MjJKU0g4U2t6U2RsWUFkUEZkUDMyaklBazhnbTBUSThvMDB3?oc=5",
           "source": "The Korea Times",
           "publishedAt": "2026-11-25",
-          "views": "13.0K"
-        },
-        {
-          "title": "Korea, Brazil launch dialogue to boost defense industry ties - The Korea Times",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQeFV6ZGZrQ09nblo2Q3RfU19lQ2lPY3Q2U3VPUTlkU1F4LUl5M0x6SldGcU1QeVVtUmJ5QkN4RUtmOXpYMHRPRmFPa3VKcUNnaDBMV2pKcWE3eHpBNFp5ZUdYdzBnU2daelA5dkh0YkVqeE01SEw2aFdmTkhXQVNqMy1WSGZyWmV6QUN4QXFkMV9MZ1daOEd0WDBESU9VMHdLUHlPcFlCT0R3Sk5BSjZ0WTNuNVI1NzDSAbwBQVVfeXFMTzRBU3dOQzkyUUlQb1BMbWxBbFg0TF84NE9XVnl6UWJhMVB6ZXJKVWdCSnF0ZlJoWVFGaVFEZFJOS3dSbmp3aWpRS0Y5aUdwMUc0a0tLV20wdzBEaGUtV2lMRXpWYmhtMTRhMlZHbzRhOWpuZkF5aGc3WWVJbzRoOGpZdmRKWTNxOERfYU54Nm43aEEzOVhIUkRZVm0zeWdMUzdnOEJHWjhPeHE5S0haQXQ5dWFQZV9ENmRhalo?oc=5\" target=\"_blank\">Korea, Brazil launch dialogue to boost defense industry ties</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Korea Times</font>",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeFV6ZGZrQ09nblo2Q3RfU19lQ2lPY3Q2U3VPUTlkU1F4LUl5M0x6SldGcU1QeVVtUmJ5QkN4RUtmOXpYMHRPRmFPa3VKcUNnaDBMV2pKcWE3eHpBNFp5ZUdYdzBnU2daelA5dkh0YkVqeE01SEw2aFdmTkhXQVNqMy1WSGZyWmV6QUN4QXFkMV9MZ1daOEd0WDBESU9VMHdLUHlPcFlCT0R3Sk5BSjZ0WTNuNVI1NzDSAbwBQVVfeXFMTzRBU3dOQzkyUUlQb1BMbWxBbFg0TF84NE9XVnl6UWJhMVB6ZXJKVWdCSnF0ZlJoWVFGaVFEZFJOS3dSbmp3aWpRS0Y5aUdwMUc0a0tLV20wdzBEaGUtV2lMRXpWYmhtMTRhMlZHbzRhOWpuZkF5aGc3WWVJbzRoOGpZdmRKWTNxOERfYU54Nm43aEEzOVhIUkRZVm0zeWdMUzdnOEJHWjhPeHE5S0haQXQ5dWFQZV9ENmRhalo?oc=5",
-          "source": "The Korea Times",
-          "publishedAt": "2026-11-24",
-          "views": "13.0K"
-        },
-        {
-          "title": "Airlines, squeezed by high fuel costs, rethink jet financing strategy - Reuters",
-          "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX3FMUjJQUjM5RndMUHBGRnM4LWY3eVcwX2dPTnNWWURVVlp2aXZRMG5IWGNKMGFJTFhRY2pSMThVMnpzbnR1bklPNWNVZXlUWTNFVXBHOU9zR1NucVd1Q2x3em1icFZldGpacHVyVUNhUjdzNVZqSEJEMkFpNFN4THJyZU9vVEJUeC1FS0NfTlNXcUxIWS1qLUt3WUJNV3hwdF9vVFNtWWtadUxta0c5Y2pObzJ1cms2Z1N3?oc=5\" target=\"_blank\">Airlines, squeezed by high fuel costs, rethink jet financing strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX3FMUjJQUjM5RndMUHBGRnM4LWY3eVcwX2dPTnNWWURVVlp2aXZRMG5IWGNKMGFJTFhRY2pSMThVMnpzbnR1bklPNWNVZXlUWTNFVXBHOU9zR1NucVd1Q2x3em1icFZldGpacHVyVUNhUjdzNVZqSEJEMkFpNFN4THJyZU9vVEJUeC1FS0NfTlNXcUxIWS1qLUt3WUJNV3hwdF9vVFNtWWtadUxta0c5Y2pObzJ1cms2Z1N3?oc=5",
-          "source": "Reuters AI",
-          "publishedAt": "2026-11-24",
           "views": "13.0K"
         }
       ]
